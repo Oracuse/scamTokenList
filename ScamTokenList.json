@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x285B9D48ccB3AdF424267A045D9029733C803cb0",
-      "symbol": "GIG",
-      "name": "GIGCO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4280794Cf78782Ee62113d36919bD6bae0AbDeE8",
       "symbol": "SMTH",
       "name": "Something",
@@ -110022,11 +110011,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22EA82767CC6FD249A006eB70D639c6f3b87D7Ef",
+      "symbol": "CTZ",
+      "name": "CryptoTankz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 81,
+    "minor": 82,
     "patch": 75
   }
 }
