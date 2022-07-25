@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaECEA37A86A1a74a30664e7808C4c85388A975ed",
-      "symbol": "M2M",
-      "name": "M2M",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x26755E612335b5C52EB80703A1aBDf10a4fc069F",
       "symbol": "MK",
       "name": "MoonKnight",
@@ -110022,11 +110011,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA4f787f03F8328e462D423253917ED7b5c93C87B",
+      "symbol": "DEG",
+      "name": "DEGEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 86,
+    "minor": 87,
     "patch": 75
   }
 }
