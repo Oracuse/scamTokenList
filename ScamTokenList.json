@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB90Ce415a916174e022d0961425eF9a48b816Ca3",
-      "symbol": "pETH",
-      "name": "Passive FREE ETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9D608F6112e8658e345A5926B803429e67e4a06a",
       "symbol": "CKC",
       "name": "CryptoKingCult",
@@ -110022,11 +110011,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1578cF83924A8528b20028d702aFBB86d5F214af",
+      "symbol": "PREDICT",
+      "name": "Predictable",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 79,
-    "minor": 98,
+    "minor": 99,
     "patch": 77
   }
 }
