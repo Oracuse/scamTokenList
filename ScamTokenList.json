@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8D0024F1606385F7ac32cA7f49fc8aA13bdBB6B6",
-      "symbol": "pETH",
-      "name": "Passive ETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x539D20Df29735606e057c64ed3783FbC130188bd",
       "symbol": "MYSTERIOadvertismen",
       "name": "MYSTERIOadvertisment",
@@ -110022,11 +110011,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBC245B1aa27Da00020D9b8C99e3A52D4BB23A8D9",
+      "symbol": "OCTOPUS",
+      "name": "OCTOPUS20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 79,
-    "minor": 92,
+    "minor": 93,
     "patch": 77
   }
 }
