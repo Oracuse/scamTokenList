@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7121D00b4fA18F13Da6c2e30d19C04844E6AfDC8",
-      "symbol": "LUFFY",
-      "name": "LUFFY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5599334EF5820C772959C50715Ab8Cc1A0eB0D02",
       "symbol": "SMACKINU",
       "name": "Smack Inu",
@@ -110022,11 +110011,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4171c88c496570e362Da0Eba783036d2f39BEb9",
+      "symbol": "BABYSCX",
+      "name": "BabyShibaCrypt",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 80,
-    "minor": 1,
+    "minor": 2,
     "patch": 78
   }
 }
