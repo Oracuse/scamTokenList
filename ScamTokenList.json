@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x26755E612335b5C52EB80703A1aBDf10a4fc069F",
-      "symbol": "MK",
-      "name": "MoonKnight",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3506b7EFF28E41ff0746a432897777973cfb2D46",
       "symbol": "LOL",
       "name": "League of Legends",
@@ -110022,11 +110011,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67873a14804e9db31De66601E8f81FDEf0169BEe",
+      "symbol": "LIVE",
+      "name": "BULLBEAR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 87,
+    "minor": 88,
     "patch": 75
   }
 }
