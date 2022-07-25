@@ -13,7 +13,7 @@
   "timestamp": "2021-08-15T00:00:00+00:00",
   "tokens": [
     {
-	  "chainId": 1,
+      "chainId": 1,
       "address": "0x8D0024F1606385F7ac32cA7f49fc8aA13bdBB6B6",
       "symbol": "pETH",
       "name": "Passive ETH",
@@ -110011,11 +110011,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8A8896d036D99cfAE0f77924Da6076780BEbe45",
+      "symbol": "TOKUMORU",
+      "name": "Tokumoru",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 79,
-    "minor": 91,
+    "minor": 92,
     "patch": 77
   }
 }
