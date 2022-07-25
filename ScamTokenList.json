@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6AE5b57EEC7c701A9eC670dA22d8Fc3412eB0C69",
-      "symbol": "RUFFY",
-      "name": "RUFFY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB90Ce415a916174e022d0961425eF9a48b816Ca3",
       "symbol": "pETH",
       "name": "Passive FREE ETH",
@@ -110022,11 +110011,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6E25D3c776cA7F61E87Fd4eE1AE23FC4F530f453",
+      "symbol": "PMC",
+      "name": "PreciousMetalCapita",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 79,
-    "minor": 97,
+    "minor": 98,
     "patch": 77
   }
 }
