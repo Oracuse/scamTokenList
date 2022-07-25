@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2ec4185f5D409C654B9E7853313A173E91F00436",
-      "symbol": "v2v",
-      "name": "v2v",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x18c2E1c2A8C6C1c9FB8ED63A247b1d2D8B657938",
       "symbol": "CPARA",
       "name": "CryptoParano",
@@ -110022,11 +110011,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd75f03A3dA2DA646666fCeE422BDFC7D82A31CdE",
+      "symbol": "COOLCORN",
+      "name": "CoolCorn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 79,
-    "minor": 94,
+    "minor": 95,
     "patch": 77
   }
 }
