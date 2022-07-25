@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4280794Cf78782Ee62113d36919bD6bae0AbDeE8",
-      "symbol": "SMTH",
-      "name": "Something",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5DE501CD2DCF648cBb9Dbda8a376E25e74B9990D",
       "symbol": "ZAPP",
       "name": "Something Official",
@@ -110022,11 +110011,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5685FC0BEC1073638E6B78491007c42C073A4BAb",
+      "symbol": "NINKYO",
+      "name": "NinkyoDantai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 77,
-    "minor": 82,
+    "minor": 83,
     "patch": 75
   }
 }
