@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc4697dD654A6f0f6e39AbB0D447eAEB824A14E8c",
-      "symbol": "ANI",
-      "name": "American Native Inu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC77C4ED1F2dB04b983c6972452C9C0B69015F79c",
       "symbol": "ABA",
       "name": "Apes Basketball Association",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a063618d2b7E833B77E85C311F21C42da62Ff5c",
+      "symbol": "SNAIL",
+      "name": "SnailInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 96,
+    "minor": 97,
     "patch": 79
   }
 }
