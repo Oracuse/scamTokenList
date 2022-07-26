@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4e270C35bC167DFa0347cd8FCd4EB3b283599796",
-      "symbol": "SMTH",
-      "name": "Something",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08E4EB02A5e7b899a8a8be6ba2D1B8613b62731a",
       "symbol": "Dontbuy",
       "name": "Dontbuy",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F9d5FA63043A80dcBd04d2E54cA550a5F5FA1Fc",
+      "symbol": "THORINU",
+      "name": "ThorInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 74,
+    "minor": 75,
     "patch": 79
   }
 }
