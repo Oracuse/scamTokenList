@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD4e491803F07EBF7e204aB7043788f78f47E3775",
-      "symbol": "EBAE",
-      "name": "Elon BAE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x48251866E7464C1c53c668B8E769A8072198EC1d",
       "symbol": "BUGSBUNNY",
       "name": "BugsBunny",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31028A4cDE41812EAe7A2abD8B48A3c10B17f54A",
+      "symbol": "FOG",
+      "name": "TheFog",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 94,
+    "minor": 95,
     "patch": 79
   }
 }
