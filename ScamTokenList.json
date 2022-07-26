@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x69ECe6146C1bE094E66379f6827d787A2F0dCd7E",
-      "symbol": "2bBizniz",
-      "name": "2b Bizniz Inu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x14057FeDef89c16D39F7E3dcAe2e8293AD4f9A15",
       "symbol": "BIZNIZ",
       "name": "Bizniz Magnet ",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE78DA3ADdA2F5b959aec602da8240cAE23133ed0",
+      "symbol": "FOLLOW",
+      "name": "follow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 60,
+    "minor": 61,
     "patch": 79
   }
 }
