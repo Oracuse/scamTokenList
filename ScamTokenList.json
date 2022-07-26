@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6E44C5BFb808363508c3f932bb601b6E83a9a2A9",
-      "symbol": "StonedInu",
-      "name": "Stoned Inu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA69717B389ccCD4961b6b1CcAf62B7cc385DAe85",
       "symbol": "TGAIN",
       "name": "Trust Gainer",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB72A98eA99ef744FE83974D37Ee28BaD1a04283",
+      "symbol": "FELINE",
+      "name": "FelineDegenz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 3,
+    "minor": 4,
     "patch": 80
   }
 }
