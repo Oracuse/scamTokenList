@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x71664cf06c7c4700723782Ba95c43188784c5FD7",
-      "symbol": "CREW",
-      "name": "Cult Rewards",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x218915B680AEB2806ADca36A5457CFE381822a3A",
       "symbol": "BTCult",
       "name": "BTCult",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07B1e9896b06aE2C532d45071a5668C95826fbb7",
+      "symbol": "ARES",
+      "name": "ARES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 79,
+    "minor": 80,
     "patch": 79
   }
 }
