@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3048e3d275e80BF0dB195B4D42d66199872905c7",
-      "symbol": "AprilFools",
-      "name": "AprilFools",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC81c56744C5488F10abE79508807Db7A278A3F2e",
       "symbol": "CHOPINU",
       "name": "Chopin Inu",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Ab9F65F7F407FDb8395671878c974254a31EEF2",
+      "symbol": "MINATO",
+      "name": "MINATO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 76,
+    "minor": 77,
     "patch": 79
   }
 }
