@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8a495B1Edc129c94D259c07774FB8AdB87eE40e0",
-      "symbol": "P2P",
-      "name": "P2P",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE8f9B93E2EfE0e2a817ba15DE331Ccc853756e6A",
       "symbol": "FAPE",
       "name": "Future APE",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD1A2C0a402CFf864ed295189245e2c544e86B6f3",
+      "symbol": "SOHEI",
+      "name": "SOHEI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 81,
+    "minor": 82,
     "patch": 79
   }
 }
