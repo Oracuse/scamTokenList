@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF6F72570Ed03911F52511E39ad62DE523F7dDb08",
-      "symbol": "OneToken",
-      "name": "Just a Token",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1e56C3C77FE3ee894390A6AB6e21A907ea74a703",
       "symbol": "AFDOGE",
       "name": "AprilFoolsDoge",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d6dC343a980a0afe624e05C75c3EfEb236540d3",
+      "symbol": "ACNOLOGIA",
+      "name": "Acnologia",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 65,
+    "minor": 66,
     "patch": 79
   }
 }
