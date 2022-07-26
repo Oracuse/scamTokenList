@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9cF96687c5C276A9C456Cd1F8B2D77EE88d24828",
-      "symbol": "CONCAVE",
-      "name": "CNV",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x090b01BCCdFD66189a76182C83126Fff81Ec3a25",
       "symbol": "OneToken",
       "name": "Just a Token",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b7A5aF8f29C620d04AA0612cDB4e277e69C6F59",
+      "symbol": "PYTHAGORAS",
+      "name": "PythagorasToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 56,
+    "minor": 57,
     "patch": 79
   }
 }
