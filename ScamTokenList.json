@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x218915B680AEB2806ADca36A5457CFE381822a3A",
-      "symbol": "BTCult",
-      "name": "BTCult",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8a495B1Edc129c94D259c07774FB8AdB87eE40e0",
       "symbol": "P2P",
       "name": "P2P",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4072C29FA2e115A06aDd971A806C36DBc58287d",
+      "symbol": "MMASTER",
+      "name": "MONEYMASTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 80,
+    "minor": 81,
     "patch": 79
   }
 }
