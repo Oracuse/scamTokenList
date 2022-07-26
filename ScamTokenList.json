@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA69717B389ccCD4961b6b1CcAf62B7cc385DAe85",
-      "symbol": "TGAIN",
-      "name": "Trust Gainer",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8459408A4d7f053cf11206A049834e569FBf6811",
       "symbol": "SMTH",
       "name": "Something",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33d265447141Ca1acC68c639C91f904A9A0731B0",
+      "symbol": "FUGAKU",
+      "name": "FUGAKU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 4,
+    "minor": 5,
     "patch": 80
   }
 }
