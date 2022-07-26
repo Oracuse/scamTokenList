@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd2cFf0Bb0baF3E08152EF1D920D6F1F97703e89E",
-      "symbol": "KQI",
-      "name": "KongQiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x263c27D65ebc5306318Cb8724B86A7E142f6B124",
       "symbol": "MMI",
       "name": "Mini Marshall Inu",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x478b47660D7fD1D7971F73b8e95BFfe9A6Eea6dE",
+      "symbol": "SNIPERFINDER",
+      "name": "SniperFinder",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 91,
+    "minor": 92,
     "patch": 79
   }
 }
