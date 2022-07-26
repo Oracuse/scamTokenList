@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93E353011107b45e8497b7f0aEe4dBc9Fd9E47c6",
-      "symbol": "Deluxe",
-      "name": "Deluxe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1D960bD9f486bdc3681eB0aB8E4951F38E6808F6",
       "symbol": "Kancho",
       "name": "KanchoToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd65561C93C5ff9b03Fb4f586544C6f33c276f9A6",
+      "symbol": "SHIBMASTER",
+      "name": "ShibaMaster",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 83,
-    "minor": 26,
+    "minor": 27,
     "patch": 81
   }
 }
