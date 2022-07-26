@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1D960bD9f486bdc3681eB0aB8E4951F38E6808F6",
-      "symbol": "Kancho",
-      "name": "KanchoToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4dAbb21b3593797Ac21aC1fD0327399D35B4B689",
       "symbol": "REVELATION",
       "name": "HEOMPUSR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe64e5d09d92b2d75c45858a38c36cb2F44f93bef",
+      "symbol": "HAVEN",
+      "name": "Haven",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 83,
-    "minor": 27,
+    "minor": 28,
     "patch": 81
   }
 }
