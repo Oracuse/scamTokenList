@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD216bB877EE62D0d9008E386A70FB9119474f7Ee",
-      "symbol": "STUBHUSK",
-      "name": "StubbornHusky",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88453D33baa6Ea5eC1a7e7b48784511093984fc0",
       "symbol": "FLOWELL",
       "name": "Flowell",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bD58Cf7E86A5EAC4F504cEc016c7176fbaaa508",
+      "symbol": "EXTRA",
+      "name": "ExtraCash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 83,
-    "minor": 23,
+    "minor": 24,
     "patch": 81
   }
 }
