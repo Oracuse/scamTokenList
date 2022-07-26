@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB99e3492264C85669F4067F8f4A8d836d5d379C7",
-      "symbol": "FLOWELL",
-      "name": "Flowell",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93E353011107b45e8497b7f0aEe4dBc9Fd9E47c6",
       "symbol": "Deluxe",
       "name": "Deluxe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcA575ea87bbeEDE82fbF8b4Eb9eF513Bd08EE2FB",
+      "symbol": "NORMAL",
+      "name": "PARA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 83,
-    "minor": 25,
+    "minor": 26,
     "patch": 81
   }
 }
