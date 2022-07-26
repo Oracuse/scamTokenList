@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd65dAE355307B191C9CBc722339627e5ba73B142",
-      "symbol": "APEDAO",
-      "name": "APEDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2F27805A80ab9383188f541E537A2F7073F3e023",
       "symbol": "GMESS",
       "name": "GME Stock Split",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10B490d3d09365bf45f2C0E1455048cE61dC3f37",
+      "symbol": "OCEAN",
+      "name": "Underwater",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 68,
+    "minor": 69,
     "patch": 79
   }
 }
