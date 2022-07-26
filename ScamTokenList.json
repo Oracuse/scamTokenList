@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1e56C3C77FE3ee894390A6AB6e21A907ea74a703",
-      "symbol": "AFDOGE",
-      "name": "AprilFoolsDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xffabC97194aF8242f08Bfa53B9d7Fb5a6EeDE02d",
       "symbol": "ShibaKart",
       "name": "Shiba Kart",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb93E2b2fD5Db127a640F5e62aE32dAf3aFaDb86e",
+      "symbol": "HAZARD",
+      "name": "GEO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 66,
+    "minor": 67,
     "patch": 79
   }
 }
