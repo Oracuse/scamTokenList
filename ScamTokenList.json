@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc47301D82e77160d8951355ab2795210Cab3bbcF",
-      "symbol": "THOR",
-      "name": "Thor Tama",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2805945e6B4eA5E4e845c6B6C828dEfe98d32034",
       "symbol": "CULTKING",
       "name": "CULTKING",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe83D6140E73F07D1dA370E88B2b2E58e02d2003",
+      "symbol": "SFIND",
+      "name": "SniperFinder",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 84,
+    "minor": 85,
     "patch": 79
   }
 }
