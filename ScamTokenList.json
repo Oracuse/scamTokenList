@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x263c27D65ebc5306318Cb8724B86A7E142f6B124",
-      "symbol": "MMI",
-      "name": "Mini Marshall Inu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4B1f9eE6EB0349193d9e25B096168bB18C63084A",
       "symbol": "ELE",
       "name": "Elephant Inu",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61E3B8cCE6349F82E1E68F46C1C6931B04c2739D",
+      "symbol": "KAIJU",
+      "name": "KAIJU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 92,
+    "minor": 93,
     "patch": 79
   }
 }
