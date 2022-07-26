@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08E4EB02A5e7b899a8a8be6ba2D1B8613b62731a",
-      "symbol": "Dontbuy",
-      "name": "Dontbuy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3048e3d275e80BF0dB195B4D42d66199872905c7",
       "symbol": "AprilFools",
       "name": "AprilFools",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4aef5990F8638011D2252474103665b9F39873a2",
+      "symbol": "YOLK",
+      "name": "EGG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 75,
+    "minor": 76,
     "patch": 79
   }
 }
