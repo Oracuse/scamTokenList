@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB2E87ced4fE6C46b54CeF74b305892a6F0FC2fd9",
-      "symbol": "FAIRYLAND",
-      "name": "FAIRYLAND",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE32ca1c29c3c918a5982aC01E03c42c63aC4AeCc",
       "symbol": "DGD",
       "name": "Do Good",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6421D381fB99374bAE223772963981e684CFb71b",
+      "symbol": "CROAKZ",
+      "name": "CroakzToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 83,
-    "minor": 30,
+    "minor": 31,
     "patch": 81
   }
 }
