@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x13C2091EC406011634a1edC235A893822aF572c7",
-      "symbol": "SHERIFF",
-      "name": "Sheriff Inu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4e270C35bC167DFa0347cd8FCd4EB3b283599796",
       "symbol": "SMTH",
       "name": "Something",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Fb3e55E31E2C12af08738946dBDBfF79fA34D81",
+      "symbol": "JASPER",
+      "name": "JasperInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 73,
+    "minor": 74,
     "patch": 79
   }
 }
