@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x090b01BCCdFD66189a76182C83126Fff81Ec3a25",
-      "symbol": "OneToken",
-      "name": "Just a Token",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2C2eB240a0E5bE848e953F24D2727aF45265DDb3",
       "symbol": "ZILLAXINU",
       "name": "Zilla X Inu",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39B7eAb6d6e153eF3dD3F9dD4B53d6d93E7EbCcF",
+      "symbol": "GIN",
+      "name": "Gin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 57,
+    "minor": 58,
     "patch": 79
   }
 }
