@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x48251866E7464C1c53c668B8E769A8072198EC1d",
-      "symbol": "BUGSBUNNY",
-      "name": "BugsBunny",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc4697dD654A6f0f6e39AbB0D447eAEB824A14E8c",
       "symbol": "ANI",
       "name": "American Native Inu",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd36187AeAA54a16bB338CfFAfCc4f6234C064F4b",
+      "symbol": "KURAMA",
+      "name": "Kurama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 95,
+    "minor": 96,
     "patch": 79
   }
 }
