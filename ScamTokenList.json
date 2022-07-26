@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC77C4ED1F2dB04b983c6972452C9C0B69015F79c",
-      "symbol": "ABA",
-      "name": "Apes Basketball Association",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCb4d0B7f6551299Ab43F1182Ac67F91f2E48DF96",
       "symbol": "ELE",
       "name": "Elephant Inu",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x409DF5979931f847De5F0365d9aDa60F47acfe6f",
+      "symbol": "RUNE",
+      "name": "RUNE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 97,
+    "minor": 98,
     "patch": 79
   }
 }
