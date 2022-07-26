@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xffabC97194aF8242f08Bfa53B9d7Fb5a6EeDE02d",
-      "symbol": "ShibaKart",
-      "name": "Shiba Kart",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd65dAE355307B191C9CBc722339627e5ba73B142",
       "symbol": "APEDAO",
       "name": "APEDAO",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb1FAB3681219C5627e8Cb0eBffbA1061ddDA82C2",
+      "symbol": "HINU",
+      "name": "HEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 67,
+    "minor": 68,
     "patch": 79
   }
 }
