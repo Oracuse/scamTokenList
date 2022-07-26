@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc259Aa4C681DC3237af70c6D5C761E5f9e503c8a",
-      "symbol": "FINU",
-      "name": "FOOL INU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1A4FDd96aBDF41f3AA7586E66AcFC3D382C509Cf",
       "symbol": "OROCHIMARU",
       "name": "OROCHIMARU",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xafbde83e65D677D7ec7d9C24479b562B595DabA9",
+      "symbol": "INUF",
+      "name": "InuFoundation",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 7,
+    "minor": 8,
     "patch": 80
   }
 }
