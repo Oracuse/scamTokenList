@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8459408A4d7f053cf11206A049834e569FBf6811",
-      "symbol": "SMTH",
-      "name": "Something",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3E4dA875426142D8c435275ddEdA2B6c2F51e604",
       "symbol": "BMSN",
       "name": "Baby Mission",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x715Ee3b53c878b484519B5f5483Bf7026f9b5c66",
+      "symbol": "AMANOZAKO",
+      "name": "Amanozako",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 82,
-    "minor": 5,
+    "minor": 6,
     "patch": 80
   }
 }
