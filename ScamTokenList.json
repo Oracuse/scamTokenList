@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB250382D6a8b5E366236af688a22e0036c4d63a9",
-      "symbol": "SHIFT",
-      "name": "SHIFT TOKEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF6F72570Ed03911F52511E39ad62DE523F7dDb08",
       "symbol": "OneToken",
       "name": "Just a Token",
@@ -110011,11 +110000,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e95C8CFd41BC487a0d32e91c7F1E5139461Fb10",
+      "symbol": "VINCI",
+      "name": "Vinci",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 64,
+    "minor": 65,
     "patch": 79
   }
 }
