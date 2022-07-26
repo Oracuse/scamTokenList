@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAeB960321DBaB79268f7d5eecE41e04ABA93224f",
-      "symbol": "BizAPE",
-      "name": "Bizniz Ape",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc425405a205da4312f08b80b8941a99E3eAE7078",
       "symbol": "YAP",
       "name": "Yapchat",
@@ -110011,11 +110000,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89e8E3698fceF31F370Fe710276Acfb688391b54",
+      "symbol": "VIS",
+      "name": "VISBODY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 81,
-    "minor": 70,
+    "minor": 71,
     "patch": 79
   }
 }
