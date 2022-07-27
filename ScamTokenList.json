@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE32ca1c29c3c918a5982aC01E03c42c63aC4AeCc",
-      "symbol": "DGD",
-      "name": "Do Good",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9F454F93D4a45fF5E1FdBFC875b7b9F2b6E73a34",
       "symbol": "Mozaic",
       "name": "Mozaic Token",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB9B2aC93C0F4f7425020f73a484016Bf1DB40A4",
+      "symbol": "PEBAT",
+      "name": "PepeBattles",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
     "major": 83,
-    "minor": 31,
+    "minor": 32,
     "patch": 81
   }
 }
