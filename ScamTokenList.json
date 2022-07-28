@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBe6EcfB9135D3E438FE40b3B8f20bdC4073a5a61",
-      "symbol": "CultEarn",
-      "name": "CultEarn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7c566D1704fcf7eA80aaa8Ab3B3C3b12244cFfe7",
       "symbol": "VCULT",
       "name": "Cult Vision",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82C2F739f4aF3b401a9f78d9a0d6844dB485F098",
+      "symbol": "SIMBA",
+      "name": "SimbaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 100,
-    "minor": 100,
+    "major": 101,
+    "minor": 101,
     "patch": 81
   }
 }
