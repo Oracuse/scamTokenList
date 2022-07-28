@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5410DA737379f93301C06b17c3C61fEc95eAC4c",
-      "symbol": "SECT",
-      "name": "Sect",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x776CF219F8637Dfa9CE22ef93286fC2a79618e2e",
       "symbol": "BuddistTemple",
       "name": "Buddist Temple",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2410464A6255F15De9329Ec0867C8073c5138c55",
+      "symbol": "APPLE",
+      "name": "AdamandEve",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 164,
-    "minor": 164,
+    "major": 165,
+    "minor": 165,
     "patch": 81
   }
 }
