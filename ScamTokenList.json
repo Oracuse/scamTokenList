@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd3A991d602FDb4A1117120F02f4dEaD5D7Dd67e8",
-      "symbol": "CBelief",
-      "name": "CultBelief",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9070ab1a1F5c8c445186e1604464D4AF2A6a6Fc8",
       "symbol": "Inception",
       "name": "Inception",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0331777c778248e33Db24003530A76D217f75AfB",
+      "symbol": "CALL",
+      "name": "Call",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 116,
-    "minor": 116,
+    "major": 117,
+    "minor": 117,
     "patch": 81
   }
 }
