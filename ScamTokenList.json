@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdA0B1c7AA5bA9Af00382BDbAd7De22Df324De05c",
-      "symbol": "AZUKI",
-      "name": "AZUKI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf9Cc249A661C45f6d8Fec7DC4dc5D07e3E5BB9B4",
       "symbol": "Increment",
       "name": "Increment",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B9CdAbDda5C7e69DdEB6ba9a97116b618Ba76f7",
+      "symbol": "BOT",
+      "name": "Auto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 125,
-    "minor": 125,
+    "major": 126,
+    "minor": 126,
     "patch": 81
   }
 }
