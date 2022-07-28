@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe631aFf297dE46A95a089e295ac3CC685C12B097",
-      "symbol": "OVM",
-      "name": "Overmoon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0f8be72FF73FC384fEc2836CF7F08bf7b2633A1F",
       "symbol": "ALICE",
       "name": "alice",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc6e769595F8DAc4Bda5e497CD78D26820c0e91B9",
+      "symbol": "OOM",
+      "name": "OOMER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 84,
-    "minor": 84,
+    "major": 85,
+    "minor": 85,
     "patch": 81
   }
 }
