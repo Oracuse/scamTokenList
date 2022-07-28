@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0f8be72FF73FC384fEc2836CF7F08bf7b2633A1F",
-      "symbol": "ALICE",
-      "name": "alice",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x863D2e78feEc541d1e9034a372BDA8c96F32199E",
       "symbol": "BROZO",
       "name": "BROZO TOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3180F544Fd03be18b2aE84356AfD3B93c788b743",
+      "symbol": "BEAST",
+      "name": "BeastInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 85,
-    "minor": 85,
+    "major": 86,
+    "minor": 86,
     "patch": 81
   }
 }
