@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x310e2d5D0e624E54Af14CcFc8022143ee0234fB1",
-      "symbol": "AKUMA",
-      "name": "Akuma Token",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8b8f7f9Ee4f3BB1F3D827156297dBa01b85BA15f",
       "symbol": "BASE64",
       "name": "Cryptology",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3c340b7A0d713c5bEA29c95aAfdA5057ae1eB915",
+      "symbol": "PREDATOR",
+      "name": "Predator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 140,
-    "minor": 140,
+    "major": 141,
+    "minor": 141,
     "patch": 81
   }
 }
