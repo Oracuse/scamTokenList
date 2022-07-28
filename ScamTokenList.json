@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5520F56b7F0791A7AEe0D435CeDb1e08B3FeB588",
-      "symbol": "GVNOR",
-      "name": "Governor",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe9DBCA472afe71F4dA07e0DfC5e23C58A40FA91C",
       "symbol": "DONTBUY",
       "name": "Zero Value Test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71487e5D3e232516311933C21C05B0E9CD0AEee2",
+      "symbol": "HUNT",
+      "name": "Treasure",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 108,
-    "minor": 108,
+    "major": 109,
+    "minor": 109,
     "patch": 81
   }
 }
