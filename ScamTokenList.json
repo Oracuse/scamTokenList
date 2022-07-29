@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7220eAa1bb260062ebA2cea04e283a224db1fF70",
-      "symbol": "BUTTON",
-      "name": "Edit Button",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB909C6044fEEc8ADc3331f23107CE184aBA93311",
       "symbol": "ShibaHunter",
       "name": "Falqom",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F9B1A14024F50ec51a67c9Bb8D77cbF42ead334",
+      "symbol": "LTM",
+      "name": "LowTaxMeta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 252,
-    "minor": 252,
+    "major": 253,
+    "minor": 253,
     "patch": 81
   }
 }
