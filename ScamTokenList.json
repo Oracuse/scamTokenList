@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFfC09637CA934c42823179f4541afc63cFfa3096",
-      "symbol": "QOMTHUG",
-      "name": "QOM Thug",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd1284249C7c9BA0B9AF4C2d14CFfAD5F7B770CA1",
       "symbol": "PD",
       "name": "Project Destroyer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8cFc1d2dA5DACE95376Eaeaf6D1415d98D23Ff39",
+      "symbol": "POTD",
+      "name": "PlayOfTheDay",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 209,
-    "minor": 209,
+    "major": 210,
+    "minor": 210,
     "patch": 81
   }
 }
