@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcDa34F47E5BaDb1EB51d84f0146b4952F1c1fEa8",
-      "symbol": "Xray",
-      "name": "Xray",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3d7e8E3d920fC287C2768835E1A9a012551e53ab",
       "symbol": "TEMPLES",
       "name": "TEMPLE OF SHIBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x081DC55C0F3F129FC1669F3Dae88D41F4b6290c2",
+      "symbol": "CORP",
+      "name": "TheCorporation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 301,
-    "minor": 301,
+    "major": 302,
+    "minor": 302,
     "patch": 81
   }
 }
