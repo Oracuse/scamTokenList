@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD58Fffc5E3E4607D9715fCc5e3F97919BAA84477",
-      "symbol": "CRYPTOSKULL",
-      "name": "CRYPTOSKULL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcDa34F47E5BaDb1EB51d84f0146b4952F1c1fEa8",
       "symbol": "Xray",
       "name": "Xray",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf665F598d062aeE1196854bFc25931714526C2F8",
+      "symbol": "USERS",
+      "name": "Users",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 300,
-    "minor": 300,
+    "major": 301,
+    "minor": 301,
     "patch": 81
   }
 }
