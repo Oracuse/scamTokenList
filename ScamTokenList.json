@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x766656a46AD2F6eBe624B20026c9c83BbD802d25",
-      "symbol": "PANDAO",
-      "name": "Panda DAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA275cF41D23B063f394a37f28DB4912e43389FbF",
       "symbol": "PREY",
       "name": "Prey",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95e01AafC27f2C0D9a1AA435bd220E617c2718f0",
+      "symbol": "HYRA",
+      "name": "HydraToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 276,
-    "minor": 276,
+    "major": 277,
+    "minor": 277,
     "patch": 81
   }
 }
