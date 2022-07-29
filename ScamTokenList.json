@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE43260683016FB550c41FB90F2f170782687FA8d",
-      "symbol": "42",
-      "name": "Galaxy DAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21fdAfb0baa7Fa20D01278e0deb58BaEFf4Fd305",
       "symbol": "TORNADO",
       "name": "TORNADO INU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9FFDa4dc17429Ac0B03A7b57cfcc3Fc9F46bC04c",
+      "symbol": "HYDRO",
+      "name": "HydroMatic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 286,
-    "minor": 286,
+    "major": 287,
+    "minor": 287,
     "patch": 81
   }
 }
