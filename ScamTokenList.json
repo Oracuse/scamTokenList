@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x170e8A3fFef803e6a521fe8552418AB89c18906B",
-      "symbol": "UFO",
-      "name": "UFO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x12b6293f024F0C4952809404CF8078d581d196e7",
       "symbol": "RYOSHISWAP",
       "name": "Ryoshi Swap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e275d93e505b6bb1A8dF36dBA3549F5CC8bc8dC",
+      "symbol": "DRAPE",
+      "name": "DRAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 219,
-    "minor": 219,
+    "major": 220,
+    "minor": 220,
     "patch": 81
   }
 }
