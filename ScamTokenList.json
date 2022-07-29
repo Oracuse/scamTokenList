@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22880114ae76F7EfD4ecBC80D27d328Ba0FcBA72",
-      "symbol": "MDAO",
-      "name": "Meme DAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA72035B56eb159BE540A6f102169620D99424871",
       "symbol": "MERGE",
       "name": "The Merge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3De63e5E6af72B08a68D791190F71061d231cdF",
+      "symbol": "YAMAOKAMI",
+      "name": "TwinWolf",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 256,
-    "minor": 256,
+    "major": 257,
+    "minor": 257,
     "patch": 81
   }
 }
