@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd73EE6D223da248C7fff8f7B8a471Ac413d784a0",
-      "symbol": "ZSB",
-      "name": "Zombie Shiba Inu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50a4Fa8b3E1bF344271f3e5B76498A2De767D7A8",
       "symbol": "SHH",
       "name": "Shiba Hunter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ee75C7a3E2A43862Ce55CF29A1297810ABccA7a",
+      "symbol": "TNT",
+      "name": "Dynaeth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 216,
-    "minor": 216,
+    "major": 217,
+    "minor": 217,
     "patch": 81
   }
 }
