@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x85159E5ECF5D96148DEFA88152F7cb7FaDf5c5F5",
-      "symbol": "KP",
-      "name": "KryptoPal Inu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD58Fffc5E3E4607D9715fCc5e3F97919BAA84477",
       "symbol": "CRYPTOSKULL",
       "name": "CRYPTOSKULL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80db2BE21a98BB425E39cFc769D8aB13Cf9b78CD",
+      "symbol": "MYST",
+      "name": "Mystereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 299,
-    "minor": 299,
+    "major": 300,
+    "minor": 300,
     "patch": 81
   }
 }
