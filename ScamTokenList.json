@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6508e815A00790C6f61b1CdF189B12215f1d1755",
-      "symbol": "Konami",
-      "name": "Konami Metaverse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22880114ae76F7EfD4ecBC80D27d328Ba0FcBA72",
       "symbol": "MDAO",
       "name": "Meme DAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfA234F6eeb60DAbE7a609de9EBB5Ed8dD642ffbC",
+      "symbol": "SANITY",
+      "name": "Sanity",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 255,
-    "minor": 255,
+    "major": 256,
+    "minor": 256,
     "patch": 81
   }
 }
