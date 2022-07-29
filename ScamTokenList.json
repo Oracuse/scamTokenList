@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x077837db4bdBC5FfD23874099f18F3Fef11AC56e",
-      "symbol": "TEMPLES",
-      "name": "TEMPLE OF SHIBA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa7612dB207c268A9A41E386eDAeEb29CaD3680C4",
       "symbol": "GC",
       "name": "Galaxy Capital",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D2Aef54A1828f94ebc8F962cF3BD2D3d007AA13",
+      "symbol": "BLACK",
+      "name": "BlackToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 225,
-    "minor": 225,
+    "major": 226,
+    "minor": 226,
     "patch": 81
   }
 }
