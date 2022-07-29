@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x905DAA2c8645582E3AbC8a656E9F39d838c15436",
-      "symbol": "DAPES",
-      "name": "DEAD APES",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBb06A35d24E1d03308e4149566705659dd104Df8",
       "symbol": "MERGE",
       "name": "The Merge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Bd5EE275aaBB226FcE61860c36a234E7E72BfC3",
+      "symbol": "QUIET",
+      "name": "QUIET",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 250,
-    "minor": 250,
+    "major": 251,
+    "minor": 251,
     "patch": 81
   }
 }
