@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3B9bb66F7B737BC2FFc02cb2b2fF7B538BD314b1",
-      "symbol": "ROME",
-      "name": "Rome DAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x922A87297e8A8EF9AF22695dE76E66C8eED6E3b7",
       "symbol": "Yogu",
       "name": "Yogu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd991015C56CAffcA40db737dDf11d5f9A4c4DFCd",
+      "symbol": "TIME",
+      "name": "TimeCapsule",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 244,
-    "minor": 244,
+    "major": 245,
+    "minor": 245,
     "patch": 81
   }
 }
