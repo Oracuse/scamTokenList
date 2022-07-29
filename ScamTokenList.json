@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x18768E891ba398EEb22D2b360A107b15037A2118",
-      "symbol": "ETHDOX",
-      "name": "ETHDOX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd7d16eA2941EF30F86CCc19bd0E4963D9f00e0a6",
       "symbol": "STRNGR",
       "name": "Stronger",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc3872d46e445CC3BC6e390302e352c835833C3A",
+      "symbol": "HYRA",
+      "name": "HydraToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 280,
-    "minor": 280,
+    "major": 281,
+    "minor": 281,
     "patch": 81
   }
 }
