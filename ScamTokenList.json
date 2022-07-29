@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5136A3ae746B2B1A9B05038FD416933f0c56f45",
-      "symbol": "test",
-      "name": "Dont buy",
-      "decimals": 0,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE43260683016FB550c41FB90F2f170782687FA8d",
       "symbol": "42",
       "name": "Galaxy DAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEEa88eF91a53603766f1d41bC86B16d655dAdC7e",
+      "symbol": "CARIBANAINU",
+      "name": "CaribanaINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 285,
-    "minor": 285,
+    "major": 286,
+    "minor": 286,
     "patch": 81
   }
 }
