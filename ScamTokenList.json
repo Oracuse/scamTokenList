@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAfd707E89495B38422fF13b532E757fc6900481d",
-      "symbol": "Doge",
-      "name": "Doge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8020734A29Ee290fb81992874BD1dE01A16C4204",
       "symbol": "COBRA",
       "name": "COBRA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x219769c36dE23B373eB7fbf5303F53026c89048f",
+      "symbol": "LINXY",
+      "name": "LinxyFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 371,
-    "minor": 371,
+    "major": 372,
+    "minor": 372,
     "patch": 81
   }
 }
