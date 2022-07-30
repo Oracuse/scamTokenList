@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1AB1aE9A8C1B7CF1FD4a15c8e6c89EB016C4c95B",
-      "symbol": "DINOV",
-      "name": "DINOVERSE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x646601f2B404806F75104f9905B31dFf129C5555",
       "symbol": "SHIBMAIL",
       "name": "SHIBMAIL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0601388fe0dBcB9E6439F5a6b9FC0fD343D92Ea",
+      "symbol": "OBSVR",
+      "name": "Corrupt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 421,
-    "minor": 421,
+    "major": 422,
+    "minor": 422,
     "patch": 81
   }
 }
