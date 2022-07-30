@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x97E9CbB5e6D7C88cb3901C8202e91C4f7C029D09",
-      "symbol": "DARK",
-      "name": "SunshineInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaB458ED91C83D065ffD29F986D0F50762A02095a",
       "symbol": "SEVEN",
       "name": "LuckyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x071Ce7aa548c9BACFe719dA10979fAe3e78fD444",
+      "symbol": "BTCST",
+      "name": "BTCST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 399,
-    "minor": 399,
+    "major": 400,
+    "minor": 400,
     "patch": 81
   }
 }
