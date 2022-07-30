@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x444F0A89416dFb8981e027fe4Ba37868A22D47CD",
-      "symbol": "BandaiNamco",
-      "name": "BandaiNamco",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCD06f53cACD0e71F8B96B0Fd463ff05CD44840a5",
       "symbol": "MSPACEINU",
       "name": "MSpaceINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9CdC000b8a2Ae671027482c0b29C95d00c40Ec4F",
+      "symbol": "DOWN",
+      "name": "down",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 405,
-    "minor": 405,
+    "major": 406,
+    "minor": 406,
     "patch": 81
   }
 }
