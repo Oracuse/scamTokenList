@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5e5d77b8D04376E951787118d8C68fF24227B128",
-      "symbol": "BAYCOtherside",
-      "name": "BAYC Otherside",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF6d2534D18Acfd8454AA886A0adbD494AFb4AcA1",
       "symbol": "TIP",
       "name": "TIPPIDUS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C3F5031e192732F757AF16353C21aB06d0c0D35",
+      "symbol": "RUBIK",
+      "name": "TheRubikCube",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 373,
-    "minor": 373,
+    "major": 374,
+    "minor": 374,
     "patch": 81
   }
 }
