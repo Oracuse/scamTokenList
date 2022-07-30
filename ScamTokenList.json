@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x528A935ca27c21E227ad29128dA963e66b158050",
-      "symbol": "HBDSatoshiBTC",
-      "name": "HBDSatoshiBTC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcF17D923c4F1c7f1e9e7997564EB5a2A20AAb7d7",
       "symbol": "WAGYU",
       "name": "WAGYU INU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf51168821fF62E97e9E48c25dCB11DCF3e5de37d",
+      "symbol": "BORICHO",
+      "name": "BORICHO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 312,
-    "minor": 312,
+    "major": 313,
+    "minor": 313,
     "patch": 81
   }
 }
