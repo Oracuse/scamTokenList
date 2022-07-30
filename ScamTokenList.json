@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x71925cdB9b07268fbE3aee99F10BB39d615A3785",
-      "symbol": "TWEELON",
-      "name": "TWEELON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69Acc0628174Dc0Cd8798ECe8b2dC10282dC7086",
       "symbol": "Sacrifice",
       "name": "Sacrifice",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b6b12B93D55F13f91201C1b82f4D1a226D7e270",
+      "symbol": "TRION",
+      "name": "Trion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 330,
-    "minor": 330,
+    "major": 331,
+    "minor": 331,
     "patch": 81
   }
 }
