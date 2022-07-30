@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x054af23A2262231dEBB3fBE8688C32Be165f2fF5",
-      "symbol": "QOMOON",
-      "name": "Shiba Mooner",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2A7A74B7108f4D13f40abE66AFA17E99fcb51D0F",
       "symbol": "HINU",
       "name": "Hunter Inu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0890B565890d8adFaa1a4C690b02579073b8F45c",
+      "symbol": "SYNC",
+      "name": "Synchronicity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 343,
-    "minor": 343,
+    "major": 344,
+    "minor": 344,
     "patch": 81
   }
 }
