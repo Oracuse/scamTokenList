@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1421E522bB0EeD30e0eb0e0139B1676A8065559A",
-      "symbol": "DESTINY",
-      "name": "Destiny",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE71B4b69d8145487F9dEe940f5548AcaADA5C47F",
       "symbol": "Cavalier",
       "name": "Cavalier",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1b8127F233813ae45d0d31Ff29fEfbEB3E29Eb3",
+      "symbol": "NONSENSE",
+      "name": "Nonsense",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 381,
-    "minor": 381,
+    "major": 382,
+    "minor": 382,
     "patch": 81
   }
 }
