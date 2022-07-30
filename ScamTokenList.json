@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaB458ED91C83D065ffD29F986D0F50762A02095a",
-      "symbol": "SEVEN",
-      "name": "LuckyInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF4842ABE69Ef7C6f511AD1a45d68EddDC35f9456",
       "symbol": "CATTER",
       "name": "CatterToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xccea0ce96e2f5eC562B9952293c06DEc38c36706",
+      "symbol": "RED",
+      "name": "REDETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 400,
-    "minor": 400,
+    "major": 401,
+    "minor": 401,
     "patch": 81
   }
 }
