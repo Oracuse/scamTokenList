@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x874425cF1802535976C62d26Fe84E45f31c3840b",
-      "symbol": "SHINU",
-      "name": "Scam Hunting Inu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1dA32E321548fa819f9D778Ea47B20010E2B944e",
       "symbol": "FATE",
       "name": "fate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE83DA947240F5eE306c30c9A6AC8dDdC60739C32",
+      "symbol": "CC",
+      "name": "caesarcipher",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 353,
-    "minor": 353,
+    "major": 354,
+    "minor": 354,
     "patch": 81
   }
 }
