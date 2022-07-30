@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCf5c757A89596f29cF5D219bc5e5c576B5D1011f",
-      "symbol": "ODD",
-      "name": "Anomaly",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbB1777BF3094Eb4dB120b06774c45fa734d3a5A4",
       "symbol": "APYPROTOCOL",
       "name": "APYProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3b068d9FBA465CA8f969a221b3023d9f91C330D",
+      "symbol": "INJECTION",
+      "name": "INJECTION",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 413,
-    "minor": 413,
+    "major": 414,
+    "minor": 414,
     "patch": 81
   }
 }
