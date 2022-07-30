@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x84D5702aa9548d69F2a12e23AC74F7A6435AD5b3",
-      "symbol": "LF",
-      "name": "Luna Foundation",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0570AC256188AB45F68c14FBb131BE4055Cf2d37",
       "symbol": "FD",
       "name": "Forever Dollar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbdD4b81E6d6c2FDbe1f6AC656de38c9680a0386f",
+      "symbol": "LAIKA2",
+      "name": "Laika20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 392,
-    "minor": 392,
+    "major": 393,
+    "minor": 393,
     "patch": 81
   }
 }
