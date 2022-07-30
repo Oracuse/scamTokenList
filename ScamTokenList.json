@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x595a093eCb2DD55203C4bd3896C054bfE01e79E0",
-      "symbol": "CYCLE",
-      "name": "Cycle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x34cb4379B864B19e55548878Ada100146c2A10Ea",
       "symbol": "SATOSHI",
       "name": "Satoshi Inu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2Cba126666Dd86f1e21586724042c4881018d05",
+      "symbol": "DAMON",
+      "name": "DAMON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 317,
-    "minor": 317,
+    "major": 318,
+    "minor": 318,
     "patch": 81
   }
 }
