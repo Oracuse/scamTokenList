@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x457AAC3f46C6047aEf54499910fE6382090d30eA",
-      "symbol": "GF",
-      "name": "GF",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x16395963a3BFb1582A555aE4Dc6c3fDa4c1cB35b",
       "symbol": "SAIDAO",
       "name": "Saitama DAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8471737Caca8F0A28A88BD48B5f125749B6beb4d",
+      "symbol": "GMDAO",
+      "name": "gmDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 358,
-    "minor": 358,
+    "major": 359,
+    "minor": 359,
     "patch": 81
   }
 }
