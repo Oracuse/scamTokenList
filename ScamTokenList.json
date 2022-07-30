@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9CAa25948Fd23f2121525616D010984797f40b50",
-      "symbol": "CARTEL",
-      "name": "Cartel DAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe30588fE5847A178b15402a0D0B11DAC7801dD27",
       "symbol": "NOSE",
       "name": "pINUchio",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeBfE8442591545906e5404F22A8E8B7644CAca5e",
+      "symbol": "BW",
+      "name": "BWETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 346,
-    "minor": 346,
+    "major": 347,
+    "minor": 347,
     "patch": 81
   }
 }
