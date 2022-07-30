@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcF17D923c4F1c7f1e9e7997564EB5a2A20AAb7d7",
-      "symbol": "WAGYU",
-      "name": "WAGYU INU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8e867De7338808e183815A84EaFFbF0F0c16582C",
       "symbol": "QOMROCKET",
       "name": "Shiba Sender",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc02889e7689eDfEfE4d969b9e6c57CFEa83c11B5",
+      "symbol": "SNIPE",
+      "name": "SafeSnipe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 313,
-    "minor": 313,
+    "major": 314,
+    "minor": 314,
     "patch": 81
   }
 }
