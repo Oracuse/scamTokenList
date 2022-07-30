@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x34cb4379B864B19e55548878Ada100146c2A10Ea",
-      "symbol": "SATOSHI",
-      "name": "Satoshi Inu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe38a6cB335859CC1d3c61Fa61fa7A7f8771E857B",
       "symbol": "DOGITTER",
       "name": "The Doge Twitter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0daEe53b657AC7E074b052FB677bf615C4153715",
+      "symbol": "WUKONG",
+      "name": "WuKongInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 318,
-    "minor": 318,
+    "major": 319,
+    "minor": 319,
     "patch": 81
   }
 }
