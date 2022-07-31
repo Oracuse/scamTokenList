@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x407fFC49c12befB764b34Cfa3bfC3691fE91b899",
-      "symbol": "CHEEBAH",
-      "name": "CheebahInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF3F1C845Fc84F392eE3cf2eBc313DAD0bF6d4f2f",
       "symbol": "TWEELON",
       "name": "TWEELON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf7A6b73a6fEAcC0FCF88FAc2B3523185343d948d",
+      "symbol": "SASHIMI",
+      "name": "SashimiSwap",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 480,
-    "minor": 480,
+    "major": 481,
+    "minor": 481,
     "patch": 81
   }
 }
