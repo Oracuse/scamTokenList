@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB90D0CAE4048b48Ad9E31Cd14f1c9849eAE4D114",
-      "symbol": "ZuckBucks",
-      "name": "ZuckBucks",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5a9175F5b6413365759CB287e8dE7C59DcD9e409",
       "symbol": "DINU",
       "name": "DINOINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Dc47274DA233c404A02965980Bd4c3890a8c4f3",
+      "symbol": "PRT",
+      "name": "Parrot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 512,
-    "minor": 512,
+    "major": 513,
+    "minor": 513,
     "patch": 81
   }
 }
