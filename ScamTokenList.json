@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd1Ad1cDc4F067186eC2C1326619Dd04Dd282C8AB",
-      "symbol": "GUARD",
-      "name": "GuardianBot",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa19692308E8Db095053634D13bABf1DFEb9E1B2b",
       "symbol": "Whiskey",
       "name": "Whiskey",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7976357422948Ef2bac9e8697529E8Aac89e085E",
+      "symbol": "SAKU",
+      "name": "Sakura",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 546,
-    "minor": 546,
+    "major": 547,
+    "minor": 547,
     "patch": 81
   }
 }
