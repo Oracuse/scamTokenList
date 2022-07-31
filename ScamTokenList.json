@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd7550C6bE15a496d04EB89b75E79E30D87d88B7e",
-      "symbol": "SPACERETURN",
-      "name": "ReturntoSpace",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x16453d7F62cA8A1a01873a894D9e195aBFCCcAe7",
       "symbol": "EARTH",
       "name": "RETURNTOEARTH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7514635270ABF31DC07Be8A70664650106540c0",
+      "symbol": "CHONK",
+      "name": "ChonkToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 503,
-    "minor": 503,
+    "major": 504,
+    "minor": 504,
     "patch": 81
   }
 }
