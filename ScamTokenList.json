@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1BFad61b43898f59026cB8F35Bb80A572aE7046E",
-      "symbol": "TwitterDoge",
-      "name": "TwitterDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0f9e8e26C223229d2D375Ae061E6B00Cc62B88E5",
       "symbol": "AQMRI",
       "name": "aquamarine",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8E1c9EE537C5b1a795AE40900C155B97a9500A3",
+      "symbol": "LEVER",
+      "name": "leverage",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 431,
-    "minor": 431,
+    "major": 432,
+    "minor": 432,
     "patch": 81
   }
 }
