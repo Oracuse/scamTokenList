@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9f2D491f39D836Fa0d2556Bed3e41F3787075E47",
-      "symbol": "Fish",
-      "name": "Fish",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x037bb4eB2b7A2331238E11c6c107e8Ac41825a79",
       "symbol": "Wheat",
       "name": "Wheat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x228Fe4b51fc39B2f013846dF6E101653A9f0b514",
+      "symbol": "SAFU",
+      "name": "SafuGrow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 532,
-    "minor": 532,
+    "major": 533,
+    "minor": 533,
     "patch": 81
   }
 }
