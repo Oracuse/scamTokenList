@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14F346D06BB11af765a78fB82E5C4d5a6FCd529f",
-      "symbol": "FLOKINA",
-      "name": "FlokinaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5bD0F19b1caD7D214feFEe94ef3910903d2Eb23D",
       "symbol": "ODES",
       "name": "ElectrodesXRToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9f37123ED8790956Af3a7023B7d25f4d2b3b111",
+      "symbol": "PRT",
+      "name": "Parrot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 517,
-    "minor": 517,
+    "major": 518,
+    "minor": 518,
     "patch": 81
   }
 }
