@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Bcbf01178705202bfe41F990fE603798f2f2F81",
-      "symbol": "LUST",
-      "name": "Desire",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7452E3fC2fE611C6B7761c6c393BECe059881aC7",
       "symbol": "SAFE",
       "name": "GnosisSafe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x300C3efaD83CBE222D8823Fb8533f9519E436FD5",
+      "symbol": "CATGROW",
+      "name": "CatGrow",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 465,
-    "minor": 465,
+    "major": 466,
+    "minor": 466,
     "patch": 81
   }
 }
