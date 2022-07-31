@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7452E3fC2fE611C6B7761c6c393BECe059881aC7",
-      "symbol": "SAFE",
-      "name": "GnosisSafe",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE9e6d05981E6BD78c34fe5E827d45C025aF994d5",
       "symbol": "SETN",
       "name": "SQUARETOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1E26Fd6352B40607D3E9d5275f444C2bDf08081a",
+      "symbol": "TLP",
+      "name": "TimeLoop",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 466,
-    "minor": 466,
+    "major": 467,
+    "minor": 467,
     "patch": 81
   }
 }
