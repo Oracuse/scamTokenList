@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb8ae9d1054a7c837b71B54563A10260eb3B816e1",
-      "symbol": "GIGA",
-      "name": "CyberRodeo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x52ADc6c7b15450E04e3b4798B0d57a06506de42d",
       "symbol": "ARCAM",
       "name": "ARCAMTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEEA1Afd988b7A87408168e459D0D0b9792C0af08",
+      "symbol": "DOT",
+      "name": "DotCapital",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 539,
-    "minor": 539,
+    "major": 540,
+    "minor": 540,
     "patch": 81
   }
 }
