@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5b23E67D6E318fBA56A28bc40F31c14c49feD1bF",
-      "symbol": "MORB",
-      "name": "Morbius",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4ECB931b9732Ede33a4eD1232abaA3B7204086A1",
       "symbol": "PDoge",
       "name": "PartnerDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0441565683fF13b25B8FC8728D7487E8B3fa7d12",
+      "symbol": "KODACHI",
+      "name": "KodachiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 462,
-    "minor": 462,
+    "major": 463,
+    "minor": 463,
     "patch": 81
   }
 }
