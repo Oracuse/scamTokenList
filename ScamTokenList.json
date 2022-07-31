@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xba0C4F6C47256C2e69698B2D40098d7A928343a7",
-      "symbol": "FRANK",
-      "name": "FrankDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd7550C6bE15a496d04EB89b75E79E30D87d88B7e",
       "symbol": "SPACERETURN",
       "name": "ReturntoSpace",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F68210cc746408E5d8A037415CC0af5e2CC2E17",
+      "symbol": "RPS",
+      "name": "RockPaperScissors",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 502,
-    "minor": 502,
+    "major": 503,
+    "minor": 503,
     "patch": 81
   }
 }
