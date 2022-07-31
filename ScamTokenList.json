@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9F9517849AdcA3D6f23BD03b67C7c81c7691d4BB",
-      "symbol": "Hush",
-      "name": "Silence",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4790499AB80769e8806D7A531dCCD2cAF10b9dba",
       "symbol": "NXT",
       "name": "NXT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD669D27eE20E7a387846F6934072458a57bB6cEF",
+      "symbol": "0",
+      "name": "Nothing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 444,
-    "minor": 444,
+    "major": 445,
+    "minor": 445,
     "patch": 81
   }
 }
