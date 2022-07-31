@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb71EaAA7542F13486bAEFAfE8c213c35Fd723c8a",
-      "symbol": "SKULL",
-      "name": "SkeletonInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd1Ad1cDc4F067186eC2C1326619Dd04Dd282C8AB",
       "symbol": "GUARD",
       "name": "GuardianBot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x390bAc5Ec44139BccE37e1f4CCDAAf2481A99899",
+      "symbol": "ASO",
+      "name": "AlienSoapOpera",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 545,
-    "minor": 545,
+    "major": 546,
+    "minor": 546,
     "patch": 81
   }
 }
