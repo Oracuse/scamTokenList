@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x79dB5abC4D3e0740a17B60AE2215e5AE43a54Cc9",
-      "symbol": "VITS",
-      "name": "WeAreVitalik",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8F742d38DDA8ae40f5c842b7D579347fF3E36C13",
       "symbol": "SHIBAFORM",
       "name": "ShibaformDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd34cFA0beA261452d4FE7DA2977da50831773B7b",
+      "symbol": "VOTE",
+      "name": "VOTE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 448,
-    "minor": 448,
+    "major": 449,
+    "minor": 449,
     "patch": 81
   }
 }
