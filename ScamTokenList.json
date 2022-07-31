@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x291eC7938eC183D1994Fee2870a019aAf2268b3D",
-      "symbol": "CULTMANIFESTO",
-      "name": "ReadTheManifesto",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa010e37405Eb57437a381DAAE88e5C3913D0796C",
       "symbol": "SATS",
       "name": "WeAreSatoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5a0fb1b21357B5FfAa9C6532b538DE8bF3526C0",
+      "symbol": "REMEMBER",
+      "name": "TheMemory",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 437,
-    "minor": 437,
+    "major": 438,
+    "minor": 438,
     "patch": 81
   }
 }
