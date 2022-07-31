@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x77d3E6731527F6E6dC9BbeC8A78d2cB4Df7C60d4",
-      "symbol": "VATS",
-      "name": "WeAreVitalik",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4da7AD1F6BaE52b9c98AA76D178BA4D6830827E7",
       "symbol": "GENESIS",
       "name": "THEGENESIS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf67a589f84d12f77Db0f34c0ae9fFb54BdFedA51",
+      "symbol": "WEARENOTALONE",
+      "name": "SILENCE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 525,
-    "minor": 525,
+    "major": 526,
+    "minor": 526,
     "patch": 81
   }
 }
