@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7A4DccdEA25Ca5755f2336AEEB3FfDe561d6cC47",
-      "symbol": "SLI",
-      "name": "SUMITOMO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6E880115f7B11958eA364acD09d66B38204266eC",
       "symbol": "MAO",
       "name": "SHAMAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A6B88D210ca18277d1219F04EEA6dE1A6D7242E",
+      "symbol": "NZZL",
+      "name": "NOZZLE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 520,
-    "minor": 520,
+    "major": 521,
+    "minor": 521,
     "patch": 81
   }
 }
