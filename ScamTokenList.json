@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4ECB931b9732Ede33a4eD1232abaA3B7204086A1",
-      "symbol": "PDoge",
-      "name": "PartnerDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x054fF5b52d749799ADc3bDDD7b649f357BFc1034",
       "symbol": "legendary",
       "name": "legendary",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeEda5cfd963e6820fc13858Ef0F542729bf7f9e3",
+      "symbol": "BLNT",
+      "name": "BluntToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 463,
-    "minor": 463,
+    "major": 464,
+    "minor": 464,
     "patch": 81
   }
 }
