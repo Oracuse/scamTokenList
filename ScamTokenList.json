@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7D0e66Ef269137CF95481a12A68d9B7eE1Aa2E9e",
-      "symbol": "NKM",
-      "name": "NakaMoto",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x495Eb66262c81C49cafD71903d737F89Bc3281AB",
       "symbol": "UO",
       "name": "UpOnly",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDBdBf8FdE1012c212FBd691F194Cb6AE75436572",
+      "symbol": "MERGE",
+      "name": "EtherMerge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 446,
-    "minor": 446,
+    "major": 447,
+    "minor": 447,
     "patch": 81
   }
 }
