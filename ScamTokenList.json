@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB87fB441d8eB2E25D88c51dEF924EBD25CB58614",
-      "symbol": "HEDGE",
-      "name": "HEDGEFUND",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1a6921F7B92113c79306f1A9E148D83445ac42BC",
       "symbol": "ROCK",
       "name": "MoonRock",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1106013F9A7c3Eb9690A6a3DcB0f1c7502c6944d",
+      "symbol": "GRINGOTTS",
+      "name": "Gringotts",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 566,
-    "minor": 566,
+    "major": 567,
+    "minor": 567,
     "patch": 81
   }
 }
