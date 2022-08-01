@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa2e764Aa26aa7dB41D14Be02c22C8787248dB7dC",
-      "symbol": "SDAO",
-      "name": "SauronDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3A65A46DC55AcaE3126D4254d19715bAcb89D892",
       "symbol": "ANCIENT",
       "name": "ANCIENTORDER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB15139cf759765AA1159Ed46E1c514316a908aaA",
+      "symbol": "KNINJA",
+      "name": "KongNinja",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 619,
-    "minor": 619,
+    "major": 620,
+    "minor": 620,
     "patch": 81
   }
 }
