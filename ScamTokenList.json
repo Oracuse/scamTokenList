@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9a22121BF75ecD066f9829711bEd79b4B38F8eC0",
-      "symbol": "GOLIATH",
-      "name": "Goliath",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25710C7C3575b8736264fcee2dB27150a2b77849",
       "symbol": "TRASH",
       "name": "racc00nsDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF018C0D117D1A52a52A261fc612C2e809D8E2B7D",
+      "symbol": "DNB",
+      "name": "Donotbuy",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 633,
-    "minor": 633,
+    "major": 634,
+    "minor": 634,
     "patch": 81
   }
 }
