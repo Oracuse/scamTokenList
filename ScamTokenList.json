@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x339529889Dab41cB6f175e2EEBCD688C73a4D57e",
-      "symbol": "CLASH",
-      "name": "ClashToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4412305AEA90Ca5b86C4301d2E8777B228075034",
       "symbol": "Ananke",
       "name": "Ananke",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7712760A3B9ebE492a8795eCd1dd71150dBB6e6",
+      "symbol": "HEIMDALL",
+      "name": "HEIMDALL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 559,
-    "minor": 559,
+    "major": 560,
+    "minor": 560,
     "patch": 81
   }
 }
