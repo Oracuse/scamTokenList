@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4846c568Ca2d1fD43E8A83640fa84D8cDc55cBE1",
-      "symbol": "BitKeep",
-      "name": "BitKeep",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2d7454e49b3A08C4d9e155D9842D23C31F7a188C",
       "symbol": "KYUUBI",
       "name": "Kyuubi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8B4CF387CEAd15c1e37EF226a36B68a210C28cB",
+      "symbol": "SUNI",
+      "name": "SUNICOINORG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 637,
-    "minor": 637,
+    "major": 638,
+    "minor": 638,
     "patch": 81
   }
 }
