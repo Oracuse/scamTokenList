@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8B561B023580FBE6EEE234c8d1079D5c7E828393",
-      "symbol": "SCRDT",
-      "name": "ScarDust",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA2A243c7ECB04d5ACEA04aFA256381C33b154eA2",
       "symbol": "ENDOGEN",
       "name": "ENDOGEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5cDf88d08A78e1Ea486D64bF3bdBada4a76c8607",
+      "symbol": "APARD",
+      "name": "ApardToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 600,
-    "minor": 600,
+    "major": 601,
+    "minor": 601,
     "patch": 81
   }
 }
