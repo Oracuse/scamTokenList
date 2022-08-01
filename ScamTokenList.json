@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2d7454e49b3A08C4d9e155D9842D23C31F7a188C",
-      "symbol": "KYUUBI",
-      "name": "Kyuubi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2D3aA73436Fa2a2468F4e81beA121A70AcC3E8aA",
       "symbol": "SHIBOSHI",
       "name": "Shiboshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b93eC9f009d6eaFFAd735A15C09669F3bDA3952",
+      "symbol": "CHANT",
+      "name": "ChantForGrant",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 638,
-    "minor": 638,
+    "major": 639,
+    "minor": 639,
     "patch": 81
   }
 }
