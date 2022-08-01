@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x10ADc556362665F5DdACC80B296fb4F7c88A73ec",
-      "symbol": "BabyCMSN",
-      "name": "TheBabyCommission",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x053F3a9fc2293C75931cC1Dd2210341d2eC97288",
       "symbol": "AKIMO",
       "name": "AkimoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x779fe78bcFeBce5445179ce09d006efd3F934F25",
+      "symbol": "TLZ",
+      "name": "TheLastZero",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 640,
-    "minor": 640,
+    "major": 641,
+    "minor": 641,
     "patch": 81
   }
 }
