@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE0BaB99EC9B5ED5aEda9BBC99a2e488F571678f9",
-      "symbol": "WAR",
-      "name": "TheShibaWar",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD38a6a2DA1e839Fc6a475775d643Cfd3F3115B08",
       "symbol": "ZETH",
       "name": "ZombieETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF540158370E3F0F45d9aC7e114f0d510bE6C984",
+      "symbol": "JUICY",
+      "name": "LaikaRewards",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 584,
-    "minor": 584,
+    "major": 585,
+    "minor": 585,
     "patch": 81
   }
 }
