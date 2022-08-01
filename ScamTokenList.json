@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x452F7fD56De954539d23991953239Fb808B822a3",
-      "symbol": "CNIL",
-      "name": "TheCouncil",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCd9ae5F5cC8FeEA91E7101a2B3f56F03Ed4d41C6",
       "symbol": "ICULT",
       "name": "InterestingCult",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f763DDF1594A0A247b3715B83bDba4166DE5B68",
+      "symbol": "SS",
+      "name": "SquidSaudi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 654,
-    "minor": 654,
+    "major": 655,
+    "minor": 655,
     "patch": 81
   }
 }
