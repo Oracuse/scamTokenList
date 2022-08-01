@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7a462a6461DD68D70f188be53795734D1b7E15FB",
-      "symbol": "THIEL",
-      "name": "THIEL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3b7Ee616d145d5FC99AAF599a7D593E02C16c5BB",
       "symbol": "FRANK",
       "name": "FrankCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCd52C81a5B5B288b18767ac9DbeA564f9D139c9F",
+      "symbol": "KODACHI",
+      "name": "Kodachi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 564,
-    "minor": 564,
+    "major": 565,
+    "minor": 565,
     "patch": 81
   }
 }
