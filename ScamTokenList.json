@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3A65A46DC55AcaE3126D4254d19715bAcb89D892",
-      "symbol": "ANCIENT",
-      "name": "ANCIENTORDER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Aa9305ED8a4a9d3e042515297FFE3b7d1EB5bFD",
       "symbol": "HXT",
       "name": "Hexatron",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2997CeA2010A01a3517E3f2ba672d52535c48E14",
+      "symbol": "SHIZ",
+      "name": "SHIZURUINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 620,
-    "minor": 620,
+    "major": 621,
+    "minor": 621,
     "patch": 81
   }
 }
