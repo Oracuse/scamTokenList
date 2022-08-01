@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x83694AdA88a521D60C74209754724418b023f2BD",
-      "symbol": "BBANK",
-      "name": "BlockBank",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb5a666f9aB19b447d2295Bd539dE5dB18A5b9560",
       "symbol": "KONG",
       "name": "KongInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f057e223508CC5Ef5c264ED26De8E306180Edb6",
+      "symbol": "GNOMIC",
+      "name": "Greenonomics",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 661,
-    "minor": 661,
+    "major": 662,
+    "minor": 662,
     "patch": 81
   }
 }
