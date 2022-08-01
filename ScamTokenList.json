@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd8F44b910354008714c63BD8970C83056D88548f",
-      "symbol": "MOD",
-      "name": "MoonOrDust",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5a2D0D418Fe43ebf1c79238D5C6FD3a051A51Be0",
       "symbol": "HikoInu",
       "name": "HikoInuToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62957FEE3Eb73dCf4252CDf2980599Abd66376F3",
+      "symbol": "CONE",
+      "name": "CONE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 589,
-    "minor": 589,
+    "major": 590,
+    "minor": 590,
     "patch": 81
   }
 }
