@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6699a3b4E66b5F463e186Ef111889Feb62001439",
-      "symbol": "MTSINU",
-      "name": "MTSINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x33B4fE5e40E4903A0849cA97B3292eac3EB0aA36",
       "symbol": "HONEY",
       "name": "Honey",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32ecC532e76a0A769F7494AED8B9B3fda06852CB",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 592,
-    "minor": 592,
+    "major": 593,
+    "minor": 593,
     "patch": 81
   }
 }
