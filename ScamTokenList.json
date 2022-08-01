@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb9Bc21237E83541aBe53E774097247e815A8Bb6a",
-      "symbol": "GoobyInu",
-      "name": "GoobyInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x339529889Dab41cB6f175e2EEBCD688C73a4D57e",
       "symbol": "CLASH",
       "name": "ClashToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa33edBaBcbb75c67A1c3D7d153481d9d4B6c343c",
+      "symbol": "AIDEN",
+      "name": "Aiden",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 558,
-    "minor": 558,
+    "major": 559,
+    "minor": 559,
     "patch": 81
   }
 }
