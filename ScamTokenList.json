@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
-      "symbol": "VOLT",
-      "name": "VoltInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe300590bBC0328789De9792A3b435Bf85938EDDf",
       "symbol": "MIR",
       "name": "MIRROR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F45c49D6A2aB9eBaD00557652F8c5b310688793",
+      "symbol": "PRT",
+      "name": "Parrot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 553,
-    "minor": 553,
+    "major": 554,
+    "minor": 554,
     "patch": 81
   }
 }
