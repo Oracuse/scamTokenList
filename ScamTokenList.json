@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeE97b8C9eb732Ec6a9Cb8f103c27830640F07d1A",
-      "symbol": "WHITE",
-      "name": "whiteapple",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10d84d17Ec19A607b554Fd13Fce30FCB95305e2d",
       "symbol": "CKONG",
       "name": "CyberKong",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2B81ccd23b80Ee4af960FED9e7C2fA22868c81E",
+      "symbol": "FBM",
+      "name": "FuckBearMarket",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 624,
-    "minor": 624,
+    "major": 625,
+    "minor": 625,
     "patch": 81
   }
 }
