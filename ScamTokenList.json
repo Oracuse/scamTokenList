@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x974aD1BF7F72f814FE620350e426A5BE4CD09D7F",
-      "symbol": "GRAIL",
-      "name": "GRAIL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4846c568Ca2d1fD43E8A83640fa84D8cDc55cBE1",
       "symbol": "BitKeep",
       "name": "BitKeep",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39e5D1EefD1941eCBCEFa6BD1750fA1Db739695d",
+      "symbol": "CULT",
+      "name": "Cult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 636,
-    "minor": 636,
+    "major": 637,
+    "minor": 637,
     "patch": 81
   }
 }
