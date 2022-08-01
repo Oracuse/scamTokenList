@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf443787298B784A832d2b0374eFa0E3338b40CED",
-      "symbol": "METABUCKS",
-      "name": "MetaBucks",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x079d9f7F0FB022C7B85C8F35AEfEb6945c08CD9f",
       "symbol": "CULTFLOKI",
       "name": "CULTFLOKI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeFB1B48c46726Db3ac5C641DDf0103cB40a9142F",
+      "symbol": "PKX",
+      "name": "PokerXToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 607,
-    "minor": 607,
+    "major": 608,
+    "minor": 608,
     "patch": 81
   }
 }
