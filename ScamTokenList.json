@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6EccFB5aDDA8CA02cFdcf3AB9961E7Fea84882d1",
-      "symbol": "FADE",
-      "name": "Fade",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB4D04eFA8A9499f5e2e9E6F08cfc0F59bd6D6ab2",
       "symbol": "BLUME",
       "name": "BlumeCapital",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8cB20fa15310178a28f69984B20aA20FA3d20eD2",
+      "symbol": "VOID",
+      "name": "VOID",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 628,
-    "minor": 628,
+    "major": 629,
+    "minor": 629,
     "patch": 81
   }
 }
