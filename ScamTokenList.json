@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x794B4A0F0D8957eA043D29dE0BCe393A0c08EBC2",
-      "symbol": "CNY",
-      "name": "ChineseYuan",
-      "decimals": 2,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa244A2893C32Be1C3dE39b4179c0e3a6A790D1e5",
       "symbol": "NJSB",
       "name": "NinjShib",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd46FE4101ab13A37C87e9A7533bafC223D9eb284",
+      "symbol": "FDOGE",
+      "name": "FlamingDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 814,
-    "minor": 814,
+    "major": 815,
+    "minor": 815,
     "patch": 81
   }
 }
