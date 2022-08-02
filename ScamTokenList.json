@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd5FC47458f8013aF887cDd47D2009F33d708FbE1",
-      "symbol": "AKALI",
-      "name": "AkaliInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x32DD38e50fBC7c9bf3b8C7da435F904F85606a63",
       "symbol": "Bataan",
       "name": "Bataan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC61e699b4110fF7107Faff16C5e00CcBb4AfF45A",
+      "symbol": "RETH",
+      "name": "RedEthereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 682,
-    "minor": 682,
+    "major": 683,
+    "minor": 683,
     "patch": 81
   }
 }
