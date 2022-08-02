@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC23382949c7ED3853505C5C0a0f28F16aFd07F3f",
-      "symbol": "SendIt",
-      "name": "SendIt",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd5B3bA112358823E403372C6371aFC62A86FF746",
       "symbol": "OMN",
       "name": "Omnia",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f7CDecc8be73E1208FA1F42686d00BdE48978C5",
+      "symbol": "OREONEKO",
+      "name": "OreoNeko",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 804,
-    "minor": 804,
+    "major": 805,
+    "minor": 805,
     "patch": 81
   }
 }
