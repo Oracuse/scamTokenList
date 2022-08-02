@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA96157026942103f3FF7A1b7AEC2D3bAfE972DF6",
-      "symbol": "MYSTERY",
-      "name": "MysteryPresale",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7213F6eA93ABA4E564d4E272Fc32328b5c7904db",
       "symbol": "SOD",
       "name": "SONOFDOGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31427C540527f8b66Cd2692c1a434d0c114FeA10",
+      "symbol": "DAPE",
+      "name": "DapeToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 801,
-    "minor": 801,
+    "major": 802,
+    "minor": 802,
     "patch": 81
   }
 }
