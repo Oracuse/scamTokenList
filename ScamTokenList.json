@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD2A0f595C355B96bB87461613B00c6E3B63b10dB",
-      "symbol": "Unicredit",
-      "name": "UnicreditDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x302b655b5543f7d3CA9652C4FD1165d3Ca671E2F",
       "symbol": "SHII",
       "name": "Sushii",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf68329F729cEd98fb887464602eA02871e35FD2f",
+      "symbol": "KG",
+      "name": "KintsugiGold",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 783,
-    "minor": 783,
+    "major": 784,
+    "minor": 784,
     "patch": 81
   }
 }
