@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF5699e648A5c39f84591Ef51360B9d1d8590170c",
-      "symbol": "BASE58",
-      "name": "OriginDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0C81dC8473a321C7919cEffbbF75d212e9096cF3",
       "symbol": "GDBX",
       "name": "GoldBux",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6714a767150Eef8Fe187C0c41Fc6EF822faEeBB3",
+      "symbol": "MB",
+      "name": "Myobu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 817,
-    "minor": 817,
+    "major": 818,
+    "minor": 818,
     "patch": 81
   }
 }
