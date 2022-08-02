@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x39Efd687C33bAA4bA61c4AF04036125f316770B0",
-      "symbol": "ADMARKET",
-      "name": "AdmiralMarket",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x39eD667742b197422C0996fF4dBC93B5f6e9Ef9D",
       "symbol": "DPD",
       "name": "DOGPOOLDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB825F942164E24228C8C4A4F51C913cFB7d59244",
+      "symbol": "KODACHI",
+      "name": "KodachiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 751,
-    "minor": 751,
+    "major": 752,
+    "minor": 752,
     "patch": 81
   }
 }
