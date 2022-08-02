@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x41b0ebAa7A08599A30657E7Fbf9701a4e057EC6f",
-      "symbol": "FXPRO",
-      "name": "FXPROTrade",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1a91C8ee8c5CeB702c5D0854db92BaDf12a12a25",
       "symbol": "SHAMAN",
       "name": "ShamanToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x654Af118163D13A7161F6040b67eBE422220BE6D",
+      "symbol": "SZN",
+      "name": "DeFiSeason",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 812,
-    "minor": 812,
+    "major": 813,
+    "minor": 813,
     "patch": 81
   }
 }
