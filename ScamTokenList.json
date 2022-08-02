@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcf515b497554B414eB98A3c7c4EAb2deCCFB091F",
-      "symbol": "GoblinInu",
-      "name": "GoblinInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xED42ED7BFf65674dab25C5592A0638FD351EbA61",
       "symbol": "MOMENTUM",
       "name": "Momentum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17018814985480262EB48E26b3e78C226966b405",
+      "symbol": "BUNSEN",
+      "name": "BunsenBurnerInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 771,
-    "minor": 771,
+    "major": 772,
+    "minor": 772,
     "patch": 81
   }
 }
