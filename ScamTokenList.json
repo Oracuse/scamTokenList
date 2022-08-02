@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC554c7543B6B837DaF547B3a832EbE0e39eCB9Dd",
-      "symbol": "TakashINU",
-      "name": "TakashINUMurakami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x502041993E77b3A31452A24602eB10924348949b",
       "symbol": "Magnum",
       "name": "MagnumInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08eBF4dd8ec128bc596f7b8E588da66861017371",
+      "symbol": "ARABIAN",
+      "name": "ArabianCamel",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 699,
-    "minor": 699,
+    "major": 700,
+    "minor": 700,
     "patch": 81
   }
 }
