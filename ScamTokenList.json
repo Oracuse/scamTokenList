@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8c26fF3475621cb2628E6e72584d684854c99fAA",
-      "symbol": "CARTEL",
-      "name": "Cartel",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25767bD21F7FAd6699d6D51c94dCAE4DfFEd56aF",
       "symbol": "DGENE",
       "name": "DAOGENE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe50559A16D5047f53F450e8957c947d1CF4C79A3",
+      "symbol": "HER",
+      "name": "HerToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 773,
-    "minor": 773,
+    "major": 774,
+    "minor": 774,
     "patch": 81
   }
 }
