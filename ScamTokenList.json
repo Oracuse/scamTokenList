@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7E3e8761C02D97CE32651f28f055EF9C216b699C",
-      "symbol": "ALIS",
-      "name": "AcropolisDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDa4E83c1Cd9cDD5A51c6d128960b7b3E561681bF",
       "symbol": "DOGETOWN",
       "name": "DOGETOWN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB2b5EE38A5e14b2026Cce239B7415F7C8cCb8260",
+      "symbol": "TEST",
+      "name": "testtoken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 687,
-    "minor": 687,
+    "major": 688,
+    "minor": 688,
     "patch": 81
   }
 }
