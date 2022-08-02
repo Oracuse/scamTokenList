@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE3Add7F9eb77648D1EDb8C2d1D8a0dF513eBEaa7",
-      "symbol": "POPSHIBA",
-      "name": "PopeyeShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfe53138FD6da3a6E8d53cac26d350cb483258921",
       "symbol": "MONZY",
       "name": "MonzyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4000Dc9F43e95A3D82793841798Ff1602beda1eE",
+      "symbol": "DOGEX",
+      "name": "DogeX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 755,
-    "minor": 755,
+    "major": 756,
+    "minor": 756,
     "patch": 81
   }
 }
