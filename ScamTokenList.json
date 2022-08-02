@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1a91C8ee8c5CeB702c5D0854db92BaDf12a12a25",
-      "symbol": "SHAMAN",
-      "name": "ShamanToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x794B4A0F0D8957eA043D29dE0BCe393A0c08EBC2",
       "symbol": "CNY",
       "name": "ChineseYuan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcc897C172B4d9fe5E9ea6d62b7b62756992516cF",
+      "symbol": "METH",
+      "name": "MICROETH",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 813,
-    "minor": 813,
+    "major": 814,
+    "minor": 814,
     "patch": 81
   }
 }
