@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xABfc10D896f9a495b37eb2C32c4e7a5E246A9a1a",
-      "symbol": "UFCINU",
-      "name": "UFCINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2aFF631666a4f740398ab2A94488Ca73DD1Fa688",
       "symbol": "AkamaruKiba",
       "name": "AkamaruKiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1b4C72e4418Eb2c80D8607429855fCd373176c4",
+      "symbol": "KODACHI",
+      "name": "KodachiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 705,
-    "minor": 705,
+    "major": 706,
+    "minor": 706,
     "patch": 81
   }
 }
