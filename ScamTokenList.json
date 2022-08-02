@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x649d09ee0E86497e1327b2524A7CAa723C17849c",
-      "symbol": "SHIT",
-      "name": "SHIT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9e74eC0e0e40024C1eB4f245bA666D5e3F340111",
       "symbol": "APEIRON",
       "name": "APEIRONNFT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54c2af4d9fFcF86FB8cE8393701d700e4B19A766",
+      "symbol": "ECULT",
+      "name": "EtherCult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 761,
-    "minor": 761,
+    "major": 762,
+    "minor": 762,
     "patch": 81
   }
 }
