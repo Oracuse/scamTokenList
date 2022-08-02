@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAFbC92Ab12f7f6C28F01E95c879b3B293fB1d62C",
-      "symbol": "SHINATA",
-      "name": "Shinata",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcdA95BF8fc165EeC3429f9899c34277dabAf2eEA",
       "symbol": "Shinata",
       "name": "Shinata",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e283Cf151541b14b3C951FC32172222899F080f",
+      "symbol": "KEK",
+      "name": "KEK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 680,
-    "minor": 680,
+    "major": 681,
+    "minor": 681,
     "patch": 81
   }
 }
