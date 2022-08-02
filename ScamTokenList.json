@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6e1d072580beC48DF5cf07AA2091B327af2A1F42",
-      "symbol": "ZDAO",
-      "name": "ZeroDao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xff2B705c60316925559FcD931DC0df4407fE0842",
       "symbol": "manipulator",
       "name": "manipulator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33EbD390d986EB21Fb91a5B72Ee5AD8a1F40e43e",
+      "symbol": "CLIFFC",
+      "name": "CliffordClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 702,
-    "minor": 702,
+    "major": 703,
+    "minor": 703,
     "patch": 81
   }
 }
