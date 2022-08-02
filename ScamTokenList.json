@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x387C9E8276A803CB5fb2C9ffc0B52F3E00F17c36",
-      "symbol": "DMTINU",
-      "name": "DMTINU",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf9CFC912707e183cAbc45775c4d0dA6dc7a828f5",
       "symbol": "KYUUB",
       "name": "KyuubInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4834138B94B1f826447EcC25F8Be2c0D1072b47f",
+      "symbol": "NOCAP",
+      "name": "NoCap",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 685,
-    "minor": 685,
+    "major": 686,
+    "minor": 686,
     "patch": 81
   }
 }
