@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x63f3B021B40a54D5a612b8dc3C0ff7DfA7da476D",
-      "symbol": "EXEC",
-      "name": "ExecutiveToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x35b21f354e1b35298707E173C35a120d244640d9",
       "symbol": "ORANGE",
       "name": "OrangeToken_info",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E33b29863c6e2CDF6A70398d3cB739443D4b2A8",
+      "symbol": "CERVEZA",
+      "name": "TheBeer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 806,
-    "minor": 806,
+    "major": 807,
+    "minor": 807,
     "patch": 81
   }
 }
