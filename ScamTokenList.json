@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfe53138FD6da3a6E8d53cac26d350cb483258921",
-      "symbol": "MONZY",
-      "name": "MonzyToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE6aD00398CCFadAB33208883a60ba16BCBC6A28b",
       "symbol": "WALL",
       "name": "GREENWALLSHIBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x070689090344976AE4284BeBdf61bbCbeAE5E0af",
+      "symbol": "VEN",
+      "name": "Vendren",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 756,
-    "minor": 756,
+    "major": 757,
+    "minor": 757,
     "patch": 81
   }
 }
