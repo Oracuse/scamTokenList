@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDb39a2a09ab06Ea8CfFb94d33BBDE630e0BF7480",
-      "symbol": "COBRA",
-      "name": "COBRA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62dfe603638EB267B3a82a85182014Bfb0667c22",
       "symbol": "4POOL",
       "name": "4PoolReserve",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF627Bf6ef4CaaD5F7b9Bd2549Cc6F32bEA92fFd0",
+      "symbol": "REVO",
+      "name": "REVO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 766,
-    "minor": 766,
+    "major": 767,
+    "minor": 767,
     "patch": 81
   }
 }
