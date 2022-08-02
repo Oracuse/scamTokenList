@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9753933eC7fd2e5241a3de0DdfA49E9CFd397c61",
-      "symbol": "HOMELESS",
-      "name": "HOMELESS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73BDB33352288132bda4226d67A74aE4cD171627",
       "symbol": "Guardian",
       "name": "EthGuardian",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe340ED6A2F8a58DDEd2FaF6A18C1f838E9355e68",
+      "symbol": "SAFU",
+      "name": "SAFU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 709,
-    "minor": 709,
+    "major": 710,
+    "minor": 710,
     "patch": 81
   }
 }
