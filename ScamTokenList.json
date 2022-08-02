@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8d241f40D9ddc94A4b1bAD964d73010aa0c0a552",
-      "symbol": "INCH",
-      "name": "INCH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA96157026942103f3FF7A1b7AEC2D3bAfE972DF6",
       "symbol": "MYSTERY",
       "name": "MysteryPresale",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD560d018480635dFFf7eB79FDe7e5b48B01a3b44",
+      "symbol": "PASSAGE",
+      "name": "TheAlley",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 800,
-    "minor": 800,
+    "major": 801,
+    "minor": 801,
     "patch": 81
   }
 }
