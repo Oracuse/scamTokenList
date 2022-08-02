@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA33Db4AF22f0594368689B1D68dC8Dd14e0E0208",
-      "symbol": "MYSTERY",
-      "name": "MysteryPresale",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC23382949c7ED3853505C5C0a0f28F16aFd07F3f",
       "symbol": "SendIt",
       "name": "SendIt",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f0DCc88789B43F87882edb8aaC0c66427bff1b6",
+      "symbol": "GLORY",
+      "name": "RighteousGlory",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 803,
-    "minor": 803,
+    "major": 804,
+    "minor": 804,
     "patch": 81
   }
 }
