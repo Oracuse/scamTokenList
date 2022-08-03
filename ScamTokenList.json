@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25e13fCe6cbb8cF754db285eEa59633e0B648363",
-      "symbol": "SENTINEL",
-      "name": "SentinelToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8a3f947A7De882C138F89171235AE4e34b396D61",
       "symbol": "SUKO",
       "name": "SukoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCb8f12cDc29128eE7BdBFe027235451Fb1cD08c4",
+      "symbol": "CONFIDENTIAL",
+      "name": "Private",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 820,
-    "minor": 820,
+    "major": 821,
+    "minor": 821,
     "patch": 81
   }
 }
