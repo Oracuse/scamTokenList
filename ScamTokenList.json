@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7AedCFC3f102213Ac635d66E64e3621944717699",
-      "symbol": "KET",
-      "name": "KETAMINE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4ec9CBF7906fa6943C9fe817CE831e28788845b8",
       "symbol": "Inclusion",
       "name": "INCLUSION",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b8CEB4d61349e0F42eEA2d6eCA9C7d07E41E187",
+      "symbol": "SOL2",
+      "name": "SOL20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 871,
-    "minor": 871,
+    "major": 872,
+    "minor": 872,
     "patch": 81
   }
 }
