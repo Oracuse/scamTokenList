@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8a3f947A7De882C138F89171235AE4e34b396D61",
-      "symbol": "SUKO",
-      "name": "SukoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD9DC455fe57207e8490164B90a175e2594F6aE9F",
       "symbol": "ZUKO",
       "name": "ZukoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C0dE9c88B43e320830736585c977614FE85fA39",
+      "symbol": "THEDESTROYER",
+      "name": "Apollyon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 821,
-    "minor": 821,
+    "major": 822,
+    "minor": 822,
     "patch": 81
   }
 }
