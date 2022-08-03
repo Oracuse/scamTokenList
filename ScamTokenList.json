@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBeaa5ACD5D54771840be2c1525b55B9fc41c4a29",
-      "symbol": "FUTURE",
-      "name": "THEFUTURE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x602a657FD10e4dd4ae31117265De928e3f321D8E",
       "symbol": "SHAMAN",
       "name": "SHAMANTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5fe77A96510651574764ea77BE838189b2c5982",
+      "symbol": "NOSTRUM",
+      "name": "NOSTRUMPLATONIS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 878,
-    "minor": 878,
+    "major": 879,
+    "minor": 879,
     "patch": 81
   }
 }
