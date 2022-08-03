@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB8020265F487C7A4589e28bBA42bfB6357c994B4",
-      "symbol": "IKAI",
-      "name": "IKAIKAINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf549432e7AFE2fCfc74f07F6dc472a20442247C9",
       "symbol": "LambInu",
       "name": "LAMBINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9fb9Ec13a18EFf7072Ee8cA7Ee7a2B295649e00d",
+      "symbol": "JAM",
+      "name": "JamToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 910,
-    "minor": 910,
+    "major": 911,
+    "minor": 911,
     "patch": 81
   }
 }
