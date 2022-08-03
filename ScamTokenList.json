@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x743a30E896aC7155145016D566CCe042aBE2d7ae",
-      "symbol": "IROH",
-      "name": "IROH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5C67422928b25afd733084DeE0ff928F1b5edc99",
       "symbol": "QOH",
       "name": "DOGEHUNTER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1faBd7F896282C8cf95E39CC2507bCE34F7d73d7",
+      "symbol": "ERROR",
+      "name": "Error404",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 900,
-    "minor": 900,
+    "major": 901,
+    "minor": 901,
     "patch": 81
   }
 }
