@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDbF48E3B02Deb2fD65Ad0A39FFb874f142B52785",
-      "symbol": "PokemonGo",
-      "name": "PokemonGoINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6e08e6D8D38ada3e37148379184C6Aa98c895A42",
       "symbol": "CDT",
       "name": "CoolDogToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b6D67F6D6626120B7543fbd46E1d215931e4EE1",
+      "symbol": "DEGENTRADINGFUND",
+      "name": "DTF",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 830,
-    "minor": 830,
+    "major": 831,
+    "minor": 831,
     "patch": 81
   }
 }
