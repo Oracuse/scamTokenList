@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5aa11B365933Fc008ad3813bd3AfAAa3AcD0FEff",
-      "symbol": "CPEDIA",
-      "name": "CryptoPedia",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7CaF1c19B3fFD8fae81Da94b0C1a03612B60E45f",
       "symbol": "TUMBREL",
       "name": "TUMBREL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x120C4999B36d96643507384bf2f3Da6bDDAfad07",
+      "symbol": "STRADE",
+      "name": "SnapTrade",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 839,
-    "minor": 839,
+    "major": 840,
+    "minor": 840,
     "patch": 81
   }
 }
