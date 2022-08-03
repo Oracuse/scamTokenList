@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4AE327a28221439425eC376B95a0FeDd08DB4f49",
-      "symbol": "DOD",
-      "name": "DOGEOFDUTY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDDbB5CD6Fc760b6ab9c0BeB21365362B79a190D9",
       "symbol": "IBI",
       "name": "IRONBEARINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x519601EaF2E7F5BBBB925dFDE19F952b095d4FE6",
+      "symbol": "CABAL",
+      "name": "CabalDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 902,
-    "minor": 902,
+    "major": 903,
+    "minor": 903,
     "patch": 81
   }
 }
