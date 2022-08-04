@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4eBCE9E095cDe12533AA6aAC22f99a62Dc047CE9",
-      "symbol": "NINJABANK",
-      "name": "NINJABANK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04aA07d152F87Bc69D60b87dEccd97648a76e91b",
       "symbol": "ROBININU",
       "name": "ROBININU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7728e45a2931bB8E3A21CDaaee60773D4B4Cb45d",
+      "symbol": "KODACHI",
+      "name": "KodachiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1051,
-    "minor": 1051,
+    "major": 1052,
+    "minor": 1052,
     "patch": 81
   }
 }
