@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x47b604CE93525136a753F0a387F7Efa289b25208",
-      "symbol": "DARE",
-      "name": "DARE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3e6122ee834aeE359397D56a6d6e8de8db72c8a0",
       "symbol": "UnitedInternational",
       "name": "UNITEDINTERNATIONAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F8C4809730ef8b5C8E3EFcDB44D45267501eb4b",
+      "symbol": "KIYOHIME",
+      "name": "DejitaruKiyohime",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 952,
-    "minor": 952,
+    "major": 953,
+    "minor": 953,
     "patch": 81
   }
 }
