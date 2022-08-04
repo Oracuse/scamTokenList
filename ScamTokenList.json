@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaE68ed563eAD2387491dC96180D2932aC61Fd3ed",
-      "symbol": "BEEP",
-      "name": "BEEPBEEPCOIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0EcA62e1b1F793BfaB55095eEc0347892E72E776",
       "symbol": "RUBY",
       "name": "RUBY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7B553D546144B060F4B870A4215DA0e74EC7814",
+      "symbol": "FLOWS",
+      "name": "FLOW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1044,
-    "minor": 1044,
+    "major": 1045,
+    "minor": 1045,
     "patch": 81
   }
 }
