@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb945933CBDB6bc23CdC8481a9675bF371BE87eb1",
-      "symbol": "ZERO",
-      "name": "ZEROINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8d0BaC40027FDCeDc4A4c938f65F40eA02784094",
       "symbol": "NBA",
       "name": "NBAMETAVERSE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbD48E65313273d0b2e7021AbA6D67f508512a2E",
+      "symbol": "DAI",
+      "name": "DegenApeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1002,
-    "minor": 1002,
+    "major": 1003,
+    "minor": 1003,
     "patch": 81
   }
 }
