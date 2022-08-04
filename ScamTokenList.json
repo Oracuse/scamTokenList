@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDC585a2AC1dfB547fEc60660e8475000C45Be47B",
-      "symbol": "MAYTHOUS",
-      "name": "MAYTHOUSINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6e9A2c0c5001C83A223320c4ac1eb8e06123b241",
       "symbol": "CELESTIAL",
       "name": "CELESTIALTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bbFeb82A9Dd3314C4b28E9C0802071c8980F16f",
+      "symbol": "MORSE",
+      "name": "MORSE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1000,
-    "minor": 1000,
+    "major": 1001,
+    "minor": 1001,
     "patch": 81
   }
 }
