@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6e9A2c0c5001C83A223320c4ac1eb8e06123b241",
-      "symbol": "CELESTIAL",
-      "name": "CELESTIALTOKEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb945933CBDB6bc23CdC8481a9675bF371BE87eb1",
       "symbol": "ZERO",
       "name": "ZEROINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53928dF20958Cb483337B557978C83b590C78dBB",
+      "symbol": "OGETH",
+      "name": "OGETH",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1001,
-    "minor": 1001,
+    "major": 1002,
+    "minor": 1002,
     "patch": 81
   }
 }
