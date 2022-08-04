@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1Be9361f80B811fBce8B0ff8Bc04BFD65c5ec11A",
-      "symbol": "42",
-      "name": "UNIVERSEDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7C367e6941590B3DB86Ac4abB245b2732Ca9F443",
       "symbol": "CAT22",
       "name": "CATCH22",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11742F8c430DdA45eF026c71C6870e57c071e256",
+      "symbol": "FRACTAL",
+      "name": "Fractal",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 978,
-    "minor": 978,
+    "major": 979,
+    "minor": 979,
     "patch": 81
   }
 }
