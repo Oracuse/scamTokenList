@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42368E3e927607BF3066c7C8298A12aea0cabED1",
-      "symbol": "APPA",
-      "name": "APPAINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7185e6D5533A954C9d25906C0536109d401b813d",
       "symbol": "LFG",
       "name": "HODLDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf8AFD551270F54BB935B1b77877Ca0fd4A447D1",
+      "symbol": "MYSTIC",
+      "name": "Mystic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 980,
-    "minor": 980,
+    "major": 981,
+    "minor": 981,
     "patch": 81
   }
 }
