@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x54D0E9b4DC79c56007b892d31A8CDAE43fD03770",
-      "symbol": "YAGAMI",
-      "name": "YAGAMIINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2dfe83E778396a918Fa55Bc40D221E193ab73E6f",
       "symbol": "PHRASE",
       "name": "NEEDFORSEED",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0010e428a2C734913732a22169f078AC95B991cD",
+      "symbol": "ZKEVM",
+      "name": "ZKEVM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1007,
-    "minor": 1007,
+    "major": 1008,
+    "minor": 1008,
     "patch": 81
   }
 }
