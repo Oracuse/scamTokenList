@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3ADbc73e9632F56fd51F6F97BfcF1f1aF5d398d6",
-      "symbol": "APEGENE",
-      "name": "APEGENE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAC3392cf472804CbCf5Ce805c0728d164E386253",
       "symbol": "NewLineCinema",
       "name": "NEWLINECINEMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcCaFcAff56729218629b890396B7A8D116c1a5a2",
+      "symbol": "SETH",
+      "name": "SafeEth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1022,
-    "minor": 1022,
+    "major": 1023,
+    "minor": 1023,
     "patch": 81
   }
 }
