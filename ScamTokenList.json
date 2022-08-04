@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x543764E250f00D6e90Eb8489e15e7277Baf94F39",
-      "symbol": "SMOL",
-      "name": "SMOLTINGINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7457109d8253D4C1e329429D0A90834a3A9102ea",
       "symbol": "YDAO",
       "name": "YOURDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b28EEE3C3c0B729F52B3bFE19C8e5A2e0d332ec",
+      "symbol": "HOOD",
+      "name": "TheHood",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1010,
-    "minor": 1010,
+    "major": 1011,
+    "minor": 1011,
     "patch": 81
   }
 }
