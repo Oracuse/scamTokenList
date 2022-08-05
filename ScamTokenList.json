@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0Cf5c1D18Ff7daf00435AbF6A85b0f7fa0E3B2F0",
-      "symbol": "DAT",
-      "name": "DATREON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x06269F0b4824E5b0Ad7bF654eaa69Bf67908DaD6",
       "symbol": "SHARKI",
       "name": "SHARKINUTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeC655dD9F68005885d742b1F74624e6b6Eef223F",
+      "symbol": "DI",
+      "name": "DIAMONDIMPACT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1134,
-    "minor": 1134,
+    "major": 1135,
+    "minor": 1135,
     "patch": 81
   }
 }
