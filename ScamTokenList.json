@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAc6f1E26c9AA3aE78b2cBd8A4F2CBE2bE0012AD7",
-      "symbol": "SQUAWKBANK",
-      "name": "BANKOFSQUAWK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x37b1f621d6bAa7cdB3517aF17dA0E48283F773C9",
       "symbol": "MINISQUAWK",
       "name": "MINISQUAWK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x006DbeD840DACA23F6Dc7Ec132469D785e5dF28c",
+      "symbol": "KOBO",
+      "name": "KOBOINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1093,
-    "minor": 1093,
+    "major": 1094,
+    "minor": 1094,
     "patch": 81
   }
 }
