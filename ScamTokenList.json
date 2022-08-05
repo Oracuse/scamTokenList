@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe53d329a66C85DD60063e08596ba9bbC90353216",
-      "symbol": "VLX",
-      "name": "VELAS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDe4b58Af803A90ef81Ba6a1472d14865CAF43DF3",
       "symbol": "SQUAWKER",
       "name": "SQUAWKER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBE682C3E3beB8e82623D30e9608Ca2313e47bA4D",
+      "symbol": "VRT",
+      "name": "VeganRobToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1090,
-    "minor": 1090,
+    "major": 1091,
+    "minor": 1091,
     "patch": 81
   }
 }
