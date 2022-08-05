@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x04BE6EC0ab8Aa51Bb8A51e666e1d659F19C19B28",
-      "symbol": "OINU",
-      "name": "OFFERINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC6F96D0c2b4Bd0197D94Dba72fC02B74407093bD",
       "symbol": "DAZUKI",
       "name": "DAZUKIWRAPPED",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc309Ec924b79E913ECd223Cb659357e8AA6Ba3C6",
+      "symbol": "KDRAGON",
+      "name": "KingDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1127,
-    "minor": 1127,
+    "major": 1128,
+    "minor": 1128,
     "patch": 81
   }
 }
