@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x46247Ee29ad43B033eB77B542ebC9E3DB780a49C",
-      "symbol": "HYCO",
-      "name": "HYCOTOKEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7dE45D86199a2e4F9D8bf45bFD4a578886b48d3c",
       "symbol": "TakashiMurakami",
       "name": "TAKASHIMURAKAMI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E055B6cbE13C355e0D8C59cf257C1C0B36e4619",
+      "symbol": "SHIBOBA",
+      "name": "SHIBOBA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1209,
-    "minor": 1209,
+    "major": 1210,
+    "minor": 1210,
     "patch": 81
   }
 }
