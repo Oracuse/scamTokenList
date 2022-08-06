@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x40662A634aB50a562A87243B5b3Fe51ECF1d9f22",
-      "symbol": "IROH",
-      "name": "IROHINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1098102c1739C453d1d00B6219785389397cC993",
       "symbol": "EGGS",
       "name": "EASTERINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD1267e906f80c5CE40006d2683c093Ce9A66a6fc",
+      "symbol": "MDJ",
+      "name": "Midjourney",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1307,
-    "minor": 1307,
+    "major": 1308,
+    "minor": 1308,
     "patch": 81
   }
 }
