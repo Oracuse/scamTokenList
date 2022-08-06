@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x430D0537bFF2066e3ea05FF947C5f7dB2e2ff255",
-      "symbol": "F",
-      "name": "FTOKEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2f4D19274f7948B33A1f9eF8Aa1eaf3f557b9fec",
       "symbol": "FLIX",
       "name": "FLIXTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xac44667F2c572A3689EF037962Ce194F8d322E65",
+      "symbol": "LAVA",
+      "name": "LAVA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1288,
-    "minor": 1288,
+    "major": 1289,
+    "minor": 1289,
     "patch": 81
   }
 }
