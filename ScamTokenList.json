@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22fb52C9BA9Da11D2604d91f500011b5C5669FA4",
-      "symbol": "2Pac",
-      "name": "2PACINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3baB61Ad5D103Bb5b203C9092Eb3a5e11677a5D0",
       "symbol": "ETH2Daonet",
       "name": "ETH2DAONET",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB188EbAA145F7173c5FCe4daCF7a3eb99517fc78",
+      "symbol": "ETHEREAL",
+      "name": "RealEthereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1274,
-    "minor": 1274,
+    "major": 1275,
+    "minor": 1275,
     "patch": 81
   }
 }
