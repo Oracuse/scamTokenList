@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB27A2cf0b0ae0d96cC3C88d1EEe96911DF14cCeC",
-      "symbol": "Evil",
-      "name": "RESIDENTEVIL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17dA69Ada01Ff137b50289bfE9B509B99D0f1111",
       "symbol": "RABBIT",
       "name": "RABBIT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D498BD66e1449452AF10cF18d51C75E5918b1d9",
+      "symbol": "DCRS",
+      "name": "DCR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1318,
-    "minor": 1318,
+    "major": 1319,
+    "minor": 1319,
     "patch": 81
   }
 }
