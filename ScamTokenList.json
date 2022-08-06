@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe1110f3a7F37e2008Cd294c5bAe1f852C35d80dF",
-      "symbol": "EAGLE",
-      "name": "EAGLEDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF14bCd50f7f5EaB2FaD6f828E432F75d3caFC62e",
       "symbol": "BULMA",
       "name": "BULMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x348E48b37a2d615042C0582C2AeA9756245b52FA",
+      "symbol": "LOBSTERROLL",
+      "name": "LobsterRoll",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1245,
-    "minor": 1245,
+    "major": 1246,
+    "minor": 1246,
     "patch": 81
   }
 }
