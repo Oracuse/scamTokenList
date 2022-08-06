@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCce761d31cdD426591f28ACe4d03750eC4F45cA0",
-      "symbol": "MDEFI",
-      "name": "MYSTERIOUSDEFI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x705ec7E343fa31Cad7592009c1b826a15a5636FF",
       "symbol": "Constantin",
       "name": "CONSTANTINMETAVERSE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C7c4Fa857A11549F6E7353Ecda1ac5BC7967bA8",
+      "symbol": "TEST",
+      "name": "TestContract",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1258,
-    "minor": 1258,
+    "major": 1259,
+    "minor": 1259,
     "patch": 81
   }
 }
