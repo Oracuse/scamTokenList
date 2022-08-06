@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x705ec7E343fa31Cad7592009c1b826a15a5636FF",
-      "symbol": "Constantin",
-      "name": "CONSTANTINMETAVERSE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8FED0865A8539A8a2A75fF2A7be7a2DF6557400b",
       "symbol": "NezukoShiba",
       "name": "NEZUKOSHIBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB38e796e7246127CAe166805bc3cEb0A14e451dC",
+      "symbol": "TEST2",
+      "name": "TestContract2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1259,
-    "minor": 1259,
+    "major": 1260,
+    "minor": 1260,
     "patch": 81
   }
 }
