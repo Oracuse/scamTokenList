@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf0426161B62f4919Ffd3C949d17c7Cf13629F3A5",
-      "symbol": "test",
-      "name": "TESTTOOKEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x024c9568A0EB3A94340A76e2365aE9B35d2F72a5",
       "symbol": "Shogun",
       "name": "SHOGUN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb76c9823ACC3575C256704de8898eFefA6BCf2E9",
+      "symbol": "MOWO",
+      "name": "MoonWolf",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1238,
-    "minor": 1238,
+    "major": 1239,
+    "minor": 1239,
     "patch": 81
   }
 }
