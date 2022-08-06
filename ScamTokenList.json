@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf0AccF7A012fAcFdf279a88372D1FB0714184108",
-      "symbol": "TakeTwoInteractive",
-      "name": "TAKETWOINTERACTIVE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf7C45eDD5A9cB85A5F23E0B44aF11357FeaC4aE4",
       "symbol": "treasury",
       "name": "TREASURY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E9D0fC22c090a316D9765Dc4B3762b8dEBC528a",
+      "symbol": "DIGO",
+      "name": "TheIndigoCollective",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1303,
-    "minor": 1303,
+    "major": 1304,
+    "minor": 1304,
     "patch": 81
   }
 }
