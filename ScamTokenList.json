@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD6C41B2c1a35E068BD1456aCAcA701E73662348c",
-      "symbol": "eApe",
-      "name": "APECOIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB4BDa1273d079780D11CCB5932Daa7Ee69E48751",
       "symbol": "BLKBird",
       "name": "BLACKBIRD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0534f82c213A34f82086A245ad1d20fDdBF76cd9",
+      "symbol": "WHALING",
+      "name": "MegaWhale",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1444,
-    "minor": 1444,
+    "major": 1445,
+    "minor": 1445,
     "patch": 81
   }
 }
