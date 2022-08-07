@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0c0BC21b3182b18971eb8B3E993ed953B7a780B0",
-      "symbol": "EGGS",
-      "name": "EGGS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC2b5aE0421595A5D203D1007a0162FdEb886911c",
       "symbol": "WARBLE",
       "name": "CAWWARBLE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fB2fA50498326c254b1eBC39BB0e9A20C13857b",
+      "symbol": "RAIB",
+      "name": "Raib",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1349,
-    "minor": 1349,
+    "major": 1350,
+    "minor": 1350,
     "patch": 81
   }
 }
