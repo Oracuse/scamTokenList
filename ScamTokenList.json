@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73d202412F3cac4f9aa2e4bb77af04070A49286e",
-      "symbol": "VIRO",
-      "name": "VIROINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe3Dc1DBC05ec2C0ea127Ab962F3CE390b67Faf54",
       "symbol": "Island",
       "name": "ISLAND",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc08515d77C8E20D5957DF9ad492E426020be64fE",
+      "symbol": "NFMTOKEN",
+      "name": "NonFungibleMediaTok",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1560,
-    "minor": 1560,
+    "major": 1561,
+    "minor": 1561,
     "patch": 81
   }
 }
