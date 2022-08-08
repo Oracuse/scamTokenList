@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9B7aC3aE20C03BC4364076C7892fAed85FAbe7BF",
-      "symbol": "CHEEP",
-      "name": "CHEEP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd5426B3e5AfF3f1C1Ba3F63950C34372A1B1005B",
       "symbol": "TEST",
       "name": "TESTTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEE0Ca7fAB08E5a3A43F47C416426D511eD915B46",
+      "symbol": "GHOST1",
+      "name": "GHOSTone",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 1479,
-    "minor": 1479,
+    "major": 1480,
+    "minor": 1480,
     "patch": 81
   }
 }
