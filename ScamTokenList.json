@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1c0f90C55E3ff6Cd3A944cBaCecC929562D9e777",
-      "symbol": "EYE",
-      "name": "EAGLE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x36652DcF38c88900Ac61b9F9779AE5BE300d3fa1",
       "symbol": "DACA",
       "name": "DACADAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02e7fcC71F84C7b686Cc3BD7267b5d49b263e20A",
+      "symbol": "ZECZ",
+      "name": "ZEC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1608,
-    "minor": 1608,
+    "major": 1609,
+    "minor": 1609,
     "patch": 81
   }
 }
