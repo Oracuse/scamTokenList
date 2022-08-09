@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF789d908d8843531a8f45fa02cE691f07D314C5e",
-      "symbol": "FD",
-      "name": "FIVEDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7F69B8865ed30e6F5607aFFb6ab4856bf15c23f7",
       "symbol": "Cockatoo",
       "name": "COCKATOO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE49CdAFd04B99651f316f8Cbdb38C1E869B5EbAF",
+      "symbol": "BEANS",
+      "name": "DogeCoffee",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1600,
-    "minor": 1600,
+    "major": 1601,
+    "minor": 1601,
     "patch": 81
   }
 }
