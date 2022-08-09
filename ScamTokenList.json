@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFD09e5627B973dcd3d7C5C33192c8FB72f175113",
-      "symbol": "BURN",
-      "name": "BURN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66E622ab1eeD88Be6584d0c4a471c1124320316D",
       "symbol": "420",
       "name": "WEED",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3726CF8480faeE90109e2D1606C7665745c0258",
+      "symbol": "SAKURA",
+      "name": "SakuraToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1683,
-    "minor": 1683,
+    "major": 1684,
+    "minor": 1684,
     "patch": 83
   }
 }
