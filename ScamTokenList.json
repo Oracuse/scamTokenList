@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD4Fcd13203aeba87b23B75643Df21D91a0D21F30",
-      "symbol": "BUD",
-      "name": "BUD",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdC55b4ba5EA8aEB453bdFda6fAb2Af339E2C961a",
       "symbol": "BURN",
       "name": "BURN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b9393F47d7a34f91Aeb39F58998164751dCF842",
+      "symbol": "BUCKS",
+      "name": "Starbucks",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1717,
-    "minor": 1717,
+    "major": 1718,
+    "minor": 1718,
     "patch": 83
   }
 }
