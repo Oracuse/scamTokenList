@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdC55b4ba5EA8aEB453bdFda6fAb2Af339E2C961a",
-      "symbol": "BURN",
-      "name": "BURN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2BA764eB6E46Bba7F1656025229CC1FC404A9F89",
       "symbol": "LYAN",
       "name": "LYAN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3aD47528629518b3265cA6e3c8759752E9B25f1",
+      "symbol": "LOCK",
+      "name": "LockToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1718,
-    "minor": 1718,
+    "major": 1719,
+    "minor": 1719,
     "patch": 83
   }
 }
