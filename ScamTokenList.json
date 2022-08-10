@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x318eBC9422B7a9228D407E20b1731e738288a3E8",
-      "symbol": "BURN",
-      "name": "BURN",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6EA432641F1f24e37A3032630f7A9F7Ea02c6379",
       "symbol": "ELGD",
       "name": "ELEVENGOLD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0fB68124B8B4572a4835c051e97C51b29A886803",
+      "symbol": "BEANS",
+      "name": "DogeCoffee",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1775,
-    "minor": 1775,
+    "major": 1776,
+    "minor": 1776,
     "patch": 83
   }
 }
