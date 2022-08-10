@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1693453E4be34F6ACAa1b858406fc5e997C3Db70",
-      "symbol": "BURN",
-      "name": "BURNDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD4Fcd13203aeba87b23B75643Df21D91a0D21F30",
       "symbol": "BUD",
       "name": "BUD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62348a76c24a96293700dDB4fAf5013db1F9A7A7",
+      "symbol": "DUST",
+      "name": "Dust",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1716,
-    "minor": 1716,
+    "major": 1717,
+    "minor": 1717,
     "patch": 83
   }
 }
