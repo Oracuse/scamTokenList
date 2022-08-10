@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x39308E1493d9b4800cdFA200D7B90BE9654c6cA9",
-      "symbol": "APELON",
-      "name": "APELON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62095b9570e39CA68a9F9C375FBbcAc75c13165A",
       "symbol": "BURN",
       "name": "BURN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0244D128f585a5593dc7713566100B4F3fa8e253",
+      "symbol": "MIND",
+      "name": "MiNDToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1699,
-    "minor": 1699,
+    "major": 1700,
+    "minor": 1700,
     "patch": 83
   }
 }
