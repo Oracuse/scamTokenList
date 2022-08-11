@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5560be386e47c052239186B8682f5772d7dDc2Eb",
-      "symbol": "GENIUS",
-      "name": "GENIUSTOKEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE9d7b2AdCc95aCCAd8EfFebF58b5dA53DFd72C6d",
       "symbol": "SHIDO",
       "name": "SHIDOINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf774dBf3144fC8AdE7043c7F6634C88cF83140f3",
+      "symbol": "VCASH",
+      "name": "voidcash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1889,
-    "minor": 1889,
+    "major": 1890,
+    "minor": 1890,
     "patch": 83
   }
 }
