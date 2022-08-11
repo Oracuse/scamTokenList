@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1B504Dd81Acd4a5614BE8D234991A7C2cc9db146",
-      "symbol": "MYSTERY",
-      "name": "MYSTERY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFba6eBf9a37C1695435972aF9491c9DA2928990a",
       "symbol": "BURN",
       "name": "BURN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44d068C8e2484CC45a09b72a9e9D3de3f2365e6F",
+      "symbol": "SYMBOL",
+      "name": "NAME",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1811,
-    "minor": 1811,
+    "major": 1812,
+    "minor": 1812,
     "patch": 83
   }
 }
