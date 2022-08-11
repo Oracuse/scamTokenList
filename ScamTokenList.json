@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x01a489A3D2cA557e5C6E0D53288bBa11945dC9D6",
-      "symbol": "SQUAWK",
-      "name": "SQUAWK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB9C8e2c3F8F85A25CD2568287CB0afd9ED631F23",
       "symbol": "SHONEN",
       "name": "SHONEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeDE6A016659722278CBb2d60db78B837c7f2F8a9",
+      "symbol": "PLSE",
+      "name": "PULSETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1835,
-    "minor": 1835,
+    "major": 1836,
+    "minor": 1836,
     "patch": 83
   }
 }
