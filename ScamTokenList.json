@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xff9665048C42d789f012bAEcE223a0dcb7869864",
-      "symbol": "ANGRYBIRD",
-      "name": "ANGRYBIRDETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x493BdB1d8131D52458A107d189890e426137CB8e",
       "symbol": "BANK",
       "name": "SMOLBANK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0B49580187AEe52afbED110cB0905B8180D41E8",
+      "symbol": "PFLOKI",
+      "name": "PulseFloki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 1879,
-    "minor": 1879,
+    "major": 1880,
+    "minor": 1880,
     "patch": 83
   }
 }
