@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a58531518DbA2009BdfBf1AF79602bfD312FdF1",
-      "symbol": "SQUAWK",
-      "name": "SQUAWK",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1340387C3b2b5F9b781Fa1E35c4bdE917e460688",
       "symbol": "BURN",
       "name": "BURN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcb1AE2eAca4E8188EbFa23928e06F9F4C72F6796",
+      "symbol": "SBP",
+      "name": "ShibaBurnProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1907,
-    "minor": 1907,
+    "major": 1908,
+    "minor": 1908,
     "patch": 83
   }
 }
