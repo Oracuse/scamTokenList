@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x65F0B60b26737a52A9Cc50dde35729ED53c3e34b",
-      "symbol": "VEX",
-      "name": "VEXSWAP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE7b901bD17fDC9F0C34170e0Dac1B2b6f3c22cF5",
       "symbol": "BABYBURN",
       "name": "BABYBURN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x836b715ce6f66BB69586E2f3c054fdBb2aec3a8a",
+      "symbol": "FULLMOON",
+      "name": "FullMoon",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1911,
-    "minor": 1911,
+    "major": 1912,
+    "minor": 1912,
     "patch": 83
   }
 }
