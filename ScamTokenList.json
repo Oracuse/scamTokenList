@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE8E4941b460E5C9B824CCdC21A2D4e0599Dfb875",
-      "symbol": "FNN",
-      "name": "FAKENEWSNETWORKINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80C24111D3F9E1ffecF3b41b9ca68E60A890866B",
       "symbol": "AGFI",
       "name": "AGGREGATEDFINANCE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcdF7f3822e832df941E4E54200245373115Ef180",
+      "symbol": "UMI",
+      "name": "Umibozu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1802,
-    "minor": 1802,
+    "major": 1803,
+    "minor": 1803,
     "patch": 83
   }
 }
