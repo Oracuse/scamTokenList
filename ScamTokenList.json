@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD63db9673E79c7c348E0ae17984a166C42d0990c",
-      "symbol": "DNBUY",
-      "name": "DONOTBUY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE02f4Efd8520c149dfDB741E8BAb5d64E6fecDE9",
       "symbol": "K0",
       "name": "KILL0",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3477c6074bEe6842dE7c8337206b739ECd851fce",
+      "symbol": "PULSETH",
+      "name": "PULSETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2029,
-    "minor": 2029,
+    "major": 2030,
+    "minor": 2030,
     "patch": 83
   }
 }
