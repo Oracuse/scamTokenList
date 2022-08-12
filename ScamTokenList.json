@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xed7db18666507785e03aB47c06996E09e2349c66",
-      "symbol": "MX",
-      "name": "MATEX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2ffafEe1995569302F582093D7539F28C02D0bbf",
       "symbol": "LOGIC",
       "name": "DEFILOGIC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03D158DF9Ba52eEBCC0CAB85014019523D0d0836",
+      "symbol": "PLSDAI",
+      "name": "PulseDAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2024,
-    "minor": 2024,
+    "major": 2025,
+    "minor": 2025,
     "patch": 83
   }
 }
