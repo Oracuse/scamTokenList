@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28De1f31490FF5680d686Ac0b56Ac3d8206A710D",
-      "symbol": "PSYDUCK",
-      "name": "PSYDUCKCAW",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB4bDA5036C709E7e3D6Cc7Fe577fB616363cBB0C",
       "symbol": "ZuckBucks",
       "name": "ZUCKBUCKS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94E3c005e793D6dAD68182C2Db6f3637143c0FB9",
+      "symbol": "TLP",
+      "name": "TheLastPulse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2061,
-    "minor": 2061,
+    "major": 2062,
+    "minor": 2062,
     "patch": 83
   }
 }
