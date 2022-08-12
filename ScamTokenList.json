@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfEa52843Aa304C63FC50B4550574667C53E9E58e",
-      "symbol": "HOOHOO",
-      "name": "HOOHOO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD5d4De435BC390c086AaBDF06A7a05e60e95F53D",
       "symbol": "BAR",
       "name": "BIRDSARENOTREAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAD0016e5e2bd5558e9994D1250b5068AaF16C457",
+      "symbol": "SBP",
+      "name": "ShibaBurn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2000,
-    "minor": 2000,
+    "major": 2001,
+    "minor": 2001,
     "patch": 83
   }
 }
