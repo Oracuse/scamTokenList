@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9C427FE6fAC60C512f990dbeF4371d6BB3E78D1E",
-      "symbol": "Nickelodeon",
-      "name": "NICKELODEONMETAVERS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1A671e762F1b23a1f1C5252afDF11380CB56D100",
       "symbol": "KZEN",
       "name": "KAIZENFINANCE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF28a5A500A098c71df632b3f4D7fd2e16Cecb82c",
+      "symbol": "UNKNOWN",
+      "name": "Unknown",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2036,
-    "minor": 2036,
+    "major": 2037,
+    "minor": 2037,
     "patch": 83
   }
 }
