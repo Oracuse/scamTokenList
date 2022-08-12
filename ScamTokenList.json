@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7B6A261b02b43622bC52a84981C2f85f9bEd6cA9",
-      "symbol": "ETH20",
-      "name": "ETH20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd3553C53f31eBefb17a316020cA9edcF03F54076",
       "symbol": "ETH20",
       "name": "ETH20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7bc5d4F2F716Aa25E14630343C29c5Efe7469970",
+      "symbol": "DMC",
+      "name": "DeadMansChest",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1980,
-    "minor": 1980,
+    "major": 1981,
+    "minor": 1981,
     "patch": 83
   }
 }
