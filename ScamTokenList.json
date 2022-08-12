@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xABF9D8DC590640b5b5df8D5fadE8811123B6FB33",
-      "symbol": "BASE58",
-      "name": "BTCDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEC8FB73a4c7308Cd4C848a1fd7ad9cFbFfF16bD2",
       "symbol": "FLAM",
       "name": "FLAMOONGO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC95052B85520254fc42D848C0ebc19535EB87bd4",
+      "symbol": "ALPHA",
+      "name": "alpha",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 1975,
-    "minor": 1975,
+    "major": 1976,
+    "minor": 1976,
     "patch": 83
   }
 }
