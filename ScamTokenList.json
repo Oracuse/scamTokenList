@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBdD8e4833038CAD9F094fbF7f048043b42467514",
-      "symbol": "Strelka",
-      "name": "STRELKA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x576C1472Cf47a8E033f20681222Be604440Eb283",
       "symbol": "DNBUY",
       "name": "DONOTBUY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD725f570E26f9a57676D8f783390237C30Fa5794",
+      "symbol": "SD",
+      "name": "ShibDex",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2021,
-    "minor": 2021,
+    "major": 2022,
+    "minor": 2022,
     "patch": 83
   }
 }
