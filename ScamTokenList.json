@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDc7c9F87E47D549DF565FD6459C202151Fcc3384",
-      "symbol": "MOVINGON",
-      "name": "MOVINGON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x95c8A1F33EdaA7e17Fd3304Fd121F960a21FFf1b",
       "symbol": "Infura",
       "name": "INFURA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71428fF4cEE126CbB181a9eA89D7231a18F85280",
+      "symbol": "MEINU",
+      "name": "MeinuETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2043,
-    "minor": 2043,
+    "major": 2044,
+    "minor": 2044,
     "patch": 83
   }
 }
