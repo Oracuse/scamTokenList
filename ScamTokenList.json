@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB4bDA5036C709E7e3D6Cc7Fe577fB616363cBB0C",
-      "symbol": "ZuckBucks",
-      "name": "ZUCKBUCKS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17833fEc19a7d092fE9705AE4D4Df683CB083fDA",
       "symbol": "QONK",
       "name": "QOMBONK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Db7464368B3Acc28ADF9E7175604aAD12Bb28A5",
+      "symbol": "NMP",
+      "name": "NoMorePulse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 2062,
-    "minor": 2062,
+    "major": 2063,
+    "minor": 2063,
     "patch": 83
   }
 }
