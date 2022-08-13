@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa43B839Fb9BE8B4C77d5Cc53FdA7E43835F3fA72",
-      "symbol": "SERENITY",
-      "name": "Serenity",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDf4105A27eb01Cd80446090Ed107f6e9AB64bc20",
       "symbol": "OP",
       "name": "OptimismCollective",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F5747414dDc6111aabE6fc6D41806D267d590AD",
+      "symbol": "HDXX",
+      "name": "HedronXX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2227,
-    "minor": 2227,
+    "major": 2228,
+    "minor": 2228,
     "patch": 83
   }
 }
