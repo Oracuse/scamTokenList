@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc1437eB4Eff6469912b942f355903e3d0FEc6811",
-      "symbol": "MRE",
-      "name": "REACTOR",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa3477c14255615D8A2fd0Ed136fD204C89c184e6",
       "symbol": "SPEECH",
       "name": "FIRSTAMENDMENT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ac3440774CfFdAF7e23Bb4C7dA210013D327192",
+      "symbol": "ETHW",
+      "name": "EthereumPoW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2120,
-    "minor": 2120,
+    "major": 2121,
+    "minor": 2121,
     "patch": 83
   }
 }
