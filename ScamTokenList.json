@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x85f354E8a1b03D6a108024edD6c95a9A5Cb6d883",
-      "symbol": "VELLY",
-      "name": "VellyInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82B7eE38c13F2DB4dcfe176324940484A4d6aa87",
       "symbol": "BOP",
       "name": "BirdsofParadise",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09a68ECe21897E2013374439369C9427768B9a0a",
+      "symbol": "TSUKABANK",
+      "name": "BankofTsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2232,
-    "minor": 2232,
+    "major": 2233,
+    "minor": 2233,
     "patch": 83
   }
 }
