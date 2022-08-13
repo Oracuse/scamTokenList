@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x33472A10B163045467A0a7E0F40Ce2F0d11C2d27",
-      "symbol": "REBURN",
-      "name": "ReBurn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA67E9F021B9d208F7e3365B2A155E3C55B27de71",
       "symbol": "KLEE",
       "name": "KleeKai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA9ae9F12d190fba1003bC41C25f93c587266D0AE",
+      "symbol": "UNKNOWN",
+      "name": "Unknown",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2172,
-    "minor": 2172,
+    "major": 2173,
+    "minor": 2173,
     "patch": 83
   }
 }
