@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCc6f2E024DD8FD5837fA05F985Ea517DD266A2F5",
-      "symbol": "TWETH",
-      "name": "Tweethereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6670267F13e1C8D4c48E20612493adc54BAE6e62",
       "symbol": "TWITTER",
       "name": "TwitterChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ffd8AF5126A95D2Dc29d9e66A105A95ff83079B",
+      "symbol": "ZIGZAG",
+      "name": "Zigzag",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2182,
-    "minor": 2182,
+    "major": 2183,
+    "minor": 2183,
     "patch": 83
   }
 }
