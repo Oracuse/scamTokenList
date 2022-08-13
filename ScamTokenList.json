@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5A14508aD2C40B7AaD91a8e677F8Dee3b79b0c92",
-      "symbol": "HomeDepot",
-      "name": "THEHOMEDEPOT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa0CE1Da437CD77c4B898ccC5Ce3F71F38cb0852b",
       "symbol": "MOOV",
       "name": "DOTMOOVS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80C12653DF69A0aBe51Fc83CfB8B0F5793D36ED3",
+      "symbol": "2KETH",
+      "name": "2kETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2106,
-    "minor": 2106,
+    "major": 2107,
+    "minor": 2107,
     "patch": 83
   }
 }
