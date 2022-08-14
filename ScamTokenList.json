@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x45399fDf044FDF4aadde847d46c0FFEab8ed5ea1",
-      "symbol": "ANTI",
-      "name": "AntiSocial",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1Fd19DBDC459422d88Cf83CcBE9d8142bD8b7A53",
       "symbol": "THRY",
       "name": "THEORY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA90EfDfe3F759AaAf23F5f43923Db0A1b0f525E9",
+      "symbol": "PETH",
+      "name": "PulseEthereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2357,
-    "minor": 2357,
+    "major": 2358,
+    "minor": 2358,
     "patch": 83
   }
 }
