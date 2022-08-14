@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8e49DC57BbF92Fc2F7e58e9fb4996764aCc4A9B8",
-      "symbol": "APEX",
-      "name": "ApeXProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7CF3ea23423D5BCD0D19F3B1f501214d571c7f3f",
       "symbol": "GFUNDS",
       "name": "GoobyFund",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31154f27792544EE3c515A44d7BE25E2DBb45E2F",
+      "symbol": "MONERO",
+      "name": "Monero",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2254,
-    "minor": 2254,
+    "major": 2255,
+    "minor": 2255,
     "patch": 83
   }
 }
