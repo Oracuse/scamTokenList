@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51725155AE4BE24376a198a54D3F00244CD336f3",
-      "symbol": "DISCOVERY",
-      "name": "ALamboDream",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC1A551c05946B38284fffB6E18735F689D790de3",
       "symbol": "RICH",
       "name": "RichToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17B8F34F493bf71c9C134848d4f2C9337B66b7b6",
+      "symbol": "RTP",
+      "name": "RatTrap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2409,
-    "minor": 2409,
+    "major": 2410,
+    "minor": 2410,
     "patch": 83
   }
 }
