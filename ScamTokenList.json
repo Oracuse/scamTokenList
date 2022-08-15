@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc31DE2a89f18fe7320AD4C9E3635F2B854e817f8",
-      "symbol": "RAGNAROK",
-      "name": "RagnarokMeta",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd2D166eFc4c8E76E8a095436AdEbE21F4a4D7a8C",
       "symbol": "PT",
       "name": "PlatinumFinance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2cf852a1d382Dc28e0043fbEBF8E33fB120336C3",
+      "symbol": "BPI",
+      "name": "BlackPantherInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2373,
-    "minor": 2373,
+    "major": 2374,
+    "minor": 2374,
     "patch": 83
   }
 }
