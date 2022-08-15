@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdF5966ABC98fd12Cd204Bf48FE24421e8d03fD70",
-      "symbol": "TEST",
-      "name": "TEST",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD830F7E8945A039E6b9b9Ead9cC1579334C22270",
       "symbol": "TEST2",
       "name": "TEST2",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42E644e6f7f640B60544D9B54Ec5694dA9A20FBe",
+      "symbol": "MEME",
+      "name": "MEME",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2400,
-    "minor": 2400,
+    "major": 2401,
+    "minor": 2401,
     "patch": 83
   }
 }
