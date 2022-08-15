@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9171c4F09cE9D89FaA7EaD35eF859057F1C54fc4",
-      "symbol": "NOTHING",
-      "name": "Everything",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE2bf282704A8Dc35FE43798F96fea0B48a115CD6",
       "symbol": "MEKA",
       "name": "MekaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x332F0e39f414870FAF22Acce83E49d55517F899A",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2476,
-    "minor": 2476,
+    "major": 2477,
+    "minor": 2477,
     "patch": 83
   }
 }
