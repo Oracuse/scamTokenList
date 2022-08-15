@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4698bf13a3e127B76c413C00b5DE337B1d13672a",
-      "symbol": "CAMEL",
-      "name": "CamelCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCBd9C45c483f7eFF25881C4463637276766F5387",
       "symbol": "MC",
       "name": "Monaco",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53a759960f18a1976aBEB45b3BA8bC553e4AB93C",
+      "symbol": "TEHBANK",
+      "name": "TEHBANK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2442,
-    "minor": 2442,
+    "major": 2443,
+    "minor": 2443,
     "patch": 83
   }
 }
