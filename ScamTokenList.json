@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcca6283Fce60F97B2a2Bd2D07920946a4f454aD6",
-      "symbol": "B0",
-      "name": "Burn0",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x70C65a5a4Ca671403212edF80aDa7498727e51D4",
       "symbol": "DTF",
       "name": "DutyFree",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83F6D74c00E30335d6B3ee7aAC960a481C16a9e6",
+      "symbol": "LEDGE",
+      "name": "Ledge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2412,
-    "minor": 2412,
+    "major": 2413,
+    "minor": 2413,
     "patch": 83
   }
 }
