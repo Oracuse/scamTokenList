@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB41612Cd2DC517bfF4f95c515A117B82C5Cd06af",
-      "symbol": "PENGUIN",
-      "name": "IcyBreath",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe529cbCF1D0Ec9B20Fb8DD0DD48075D29c177e69",
       "symbol": "SHIBX100",
       "name": "SHIBX100",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x578a87d1b37Dd61CBAbDF76318893D96C74ab8c7",
+      "symbol": "DIME",
+      "name": "ParaDIME",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2429,
-    "minor": 2429,
+    "major": 2430,
+    "minor": 2430,
     "patch": 83
   }
 }
