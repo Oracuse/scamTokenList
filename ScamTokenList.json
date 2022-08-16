@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd4a86dd94Aae8a8794CD6f19e5CB0b42Bb678bB4",
-      "symbol": "GOOSE",
-      "name": "GOOSE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7fCe2FD803e5218A72c618B8a30d34A1F7E618f2",
       "symbol": "KONGDAO",
       "name": "KongDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdBbBF695135E2b70726dF920833974E635FB807c",
+      "symbol": "UNLOCK",
+      "name": "HardReset",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2546,
-    "minor": 2546,
+    "major": 2547,
+    "minor": 2547,
     "patch": 83
   }
 }
