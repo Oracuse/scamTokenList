@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9d9f71D9879554C41d528334ba856B95741bF59F",
-      "symbol": "RAW",
-      "name": "JunoSwap",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAd966A9beb13fcBB48a13E47a7337F609c8FA289",
       "symbol": "GINU",
       "name": "Ginu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Fd4deDc1E634D864059137b692484e63d08f602",
+      "symbol": "X7",
+      "name": "X7Protocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2530,
-    "minor": 2530,
+    "major": 2531,
+    "minor": 2531,
     "patch": 83
   }
 }
