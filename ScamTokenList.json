@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2F6Ad7743924B1901a0771746152dde44C5F11DE",
-      "symbol": "SCARD",
-      "name": "SCARDust",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeBCae2A2e5A85a9bE37cb5aff3C70188EB1E1b66",
       "symbol": "BABYAPE",
       "name": "BabyApeCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0f3CeD93e83094f28002bA55CD866eCA07f98bc",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 2478,
-    "minor": 2478,
+    "major": 2479,
+    "minor": 2479,
     "patch": 83
   }
 }
