@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC3651047c26D31739f4691ca2B2bD628212F2251",
-      "symbol": "DOGELLA",
-      "name": "DogellaCoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9913B27323b02E79D1Cc3755313eED5898e3dBE2",
       "symbol": "LEVERINU",
       "name": "LeverInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x892619F5A1511D468310eAE6C27e187617387c20",
+      "symbol": "NA",
+      "name": "DoNotBuy",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2584,
-    "minor": 2584,
+    "major": 2585,
+    "minor": 2585,
     "patch": 83
   }
 }
