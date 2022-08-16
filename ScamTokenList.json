@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4f9233B839E348657711e45F1a0cE278e4749442",
-      "symbol": "BUGS",
-      "name": "BugsBunny",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19382886434278d75fC82E55A4C12F4BE823D555",
       "symbol": "CAMEL",
       "name": "CamelCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x127b8BB60e798D3FA0896C9df95bE5036e4B8f27",
+      "symbol": "CHZA",
+      "name": "Chilzia",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2500,
-    "minor": 2500,
+    "major": 2501,
+    "minor": 2501,
     "patch": 83
   }
 }
