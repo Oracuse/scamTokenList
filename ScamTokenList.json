@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x10d81A916d1Dce6652E001e793083ad0D314fA9d",
-      "symbol": "FEKA",
-      "name": "FekaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9d9f71D9879554C41d528334ba856B95741bF59F",
       "symbol": "RAW",
       "name": "JunoSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB65bf48C7c86eb7b937a004DcC6F83B26d9fEa8D",
+      "symbol": "MXDAO",
+      "name": "mxdao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2529,
-    "minor": 2529,
+    "major": 2530,
+    "minor": 2530,
     "patch": 83
   }
 }
