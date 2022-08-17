@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8c18888CaA183299a44E18859CB402f4Fd7a0787",
-      "symbol": "VIBE",
-      "name": "VibeInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3fB5a65B2D9C34a8427Cf9588e3AaFDeB16F2775",
       "symbol": "ENTROPY",
       "name": "Disorder",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f2FD1EA01e2C8C8Ca20e92b09F5FB20789ED841",
+      "symbol": "KODACHI",
+      "name": "KodachiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2631,
-    "minor": 2631,
+    "major": 2632,
+    "minor": 2632,
     "patch": 83
   }
 }
