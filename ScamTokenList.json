@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe8f8B89e21C76B4a70306686E1550Ca71A9761b4",
-      "symbol": "SHIELD",
-      "name": "ProtectiveShield",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2d056E433650EA7abA6599b4F1630F8870BB4e0D",
       "symbol": "RUFFLE",
       "name": "RuffleInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0a0b0F619C8D4983196FBd8445CC58E482859015",
+      "symbol": "MONA",
+      "name": "MONA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 2660,
-    "minor": 2660,
+    "major": 2661,
+    "minor": 2661,
     "patch": 83
   }
 }
