@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcB10fdb4B12810ba24b16b8B6D8c426Fd42cB7fA",
-      "symbol": "SMTH",
-      "name": "Something",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf1b14bb2f0DCdc4eE69F12A740a6e8aa56Cde9eE",
       "symbol": "OPENSEA",
       "name": "OpenseaPresale",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d2c0C20EA195648cB98caa5F68a4007fb73f340",
+      "symbol": "HIMAWARI",
+      "name": "LostDaughterofRyosh",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2614,
-    "minor": 2614,
+    "major": 2615,
+    "minor": 2615,
     "patch": 83
   }
 }
