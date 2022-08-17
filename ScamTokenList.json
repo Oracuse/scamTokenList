@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3f457A5B61586c151fB710acEbeF617d68a4CCDe",
-      "symbol": "DOKI",
-      "name": "DoKiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8c5e26c0794bbcdf3D22647b8527a44484Fd445C",
       "symbol": "BJ",
       "name": "BOREDJABBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf08A314db4a3685cE24741c0A7f008d66fC9b3e5",
+      "symbol": "PHASMY",
+      "name": "PhasmyToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2713,
-    "minor": 2713,
+    "major": 2714,
+    "minor": 2714,
     "patch": 83
   }
 }
