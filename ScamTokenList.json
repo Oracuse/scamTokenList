@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1C5d65a7642CC5dA7DC7BE720dDF9d966c484770",
-      "symbol": "OTHERSIDE",
-      "name": "Otherside",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE5573B41dF2b5DdF48B3e1BA2C8926F58c837CeA",
       "symbol": "UPT",
       "name": "USAPatriotToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5d41F53290fd3AdC8ade17725C95a92d90AF75e",
+      "symbol": "WHINU",
+      "name": "WHITEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2606,
-    "minor": 2606,
+    "major": 2607,
+    "minor": 2607,
     "patch": 83
   }
 }
