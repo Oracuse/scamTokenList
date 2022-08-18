@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3aDfbc35DeF7ccB96272E42a534C8234f2B6A1C0",
-      "symbol": "HM",
-      "name": "HoneyMOON",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEBd4d0De09b3B0D3f955eDE6f7769973F2749A63",
       "symbol": "BIRDIE",
       "name": "BIRDIE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99506180435382838354700b81F450de657325ac",
+      "symbol": "DTF",
+      "name": "DegenTradingFund",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2815,
-    "minor": 2815,
+    "major": 2816,
+    "minor": 2816,
     "patch": 83
   }
 }
