@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6cD8B32da524Ed3BcA00da13ED5Aacd9A23b541C",
-      "symbol": "PATEKPHILIPPE",
-      "name": "PatekPhilippeMetave",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x54f3060DcF103d0519EcB32B8960D8Aeaa8CEE5C",
       "symbol": "MEME",
       "name": "MemeDeathRace",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9aE357521153FB07bE6F5792CE7a49752638fbb7",
+      "symbol": "SAFE",
+      "name": "SafeToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2800,
-    "minor": 2800,
+    "major": 2801,
+    "minor": 2801,
     "patch": 83
   }
 }
