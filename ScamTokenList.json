@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87340E4613fe781E1599C24FACB744A75FA2c214",
-      "symbol": "OTHERSIDE",
-      "name": "Otherside",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB02382d20722885E69fe48ac679b5833998E5A35",
       "symbol": "COMPACT",
       "name": "CMPT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9Ae8490C9eAFB9586FC9Bd5cA29034b70130D41",
+      "symbol": "PLSD",
+      "name": "PulseLSD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2788,
-    "minor": 2788,
+    "major": 2789,
+    "minor": 2789,
     "patch": 83
   }
 }
