@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x749248eb4478aD2D13a9600e6E2B9CB765ecbFAC",
-      "symbol": "MOON",
-      "name": "Moonopoly",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB3868232b7ec9aAd42cb3a72ADBE3dE594bdcb17",
       "symbol": "SHIGETSU",
       "name": "ThreeRoads",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90Aa8C8184B4A2ae881374A1837cD2d32fd4E5D7",
+      "symbol": "PASEO",
+      "name": "Paseo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2728,
-    "minor": 2728,
+    "major": 2729,
+    "minor": 2729,
     "patch": 83
   }
 }
