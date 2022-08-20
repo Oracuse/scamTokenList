@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x40eFb87c7849Bd3B08e7fB210c35EF1DF7dD1826",
-      "symbol": "KINU",
-      "name": "KabukiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8b43A2D7453F349ca61Ab3d386f152D7b3f9dA58",
       "symbol": "XEROT",
       "name": "XeroTax",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdEEaA33e1b016562d03768E4FCB0b38F0A55b39D",
+      "symbol": "SLASH",
+      "name": "Slash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2960,
-    "minor": 2960,
+    "major": 2961,
+    "minor": 2961,
     "patch": 83
   }
 }
