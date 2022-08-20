@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd3FCeDAAe05A44E02cE17F23e7e142F21D8Ca41E",
-      "symbol": "AMMO",
-      "name": "AmmoToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0A2C525E0e8Bd0355F74790c60044C70954FBbA7",
       "symbol": "MAMAK",
       "name": "MamaKong",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12bCC00958E78B3b5f8CAFA0769F3Cc07DbB59c5",
+      "symbol": "SASORI",
+      "name": "Sasori",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2945,
-    "minor": 2945,
+    "major": 2946,
+    "minor": 2946,
     "patch": 83
   }
 }
