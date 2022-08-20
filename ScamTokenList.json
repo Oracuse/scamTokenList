@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB7F5fBdC29DdcfFF1544c91F4Af3eC1F33c4bD1b",
-      "symbol": "LUX",
-      "name": "LUX INU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEe53278308f0321c74B37E8a660F5c0407381293",
       "symbol": "SODIUM",
       "name": "Sodium Finance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a3b6Acb03Bb7666DF9A1f4C344FB535696499B6",
+      "symbol": "BETRAY",
+      "name": "TheTraitor",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3021,
-    "minor": 3021,
+    "major": 3022,
+    "minor": 3022,
     "patch": 83
   }
 }
