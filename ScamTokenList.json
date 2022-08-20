@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2d45344B52D2ea282eAE4a99048FAf7E6678C667",
-      "symbol": "RBH",
-      "name": "RabbitHole",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5928f075AA2CdA9A3BB58C975F9ce15A1846bD70",
       "symbol": "ZEBLOOD",
       "name": "ZeBlood",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x242cCe5aaaeb8341B0feeDDaf5cBB02851A90a3a",
+      "symbol": "CRSH",
+      "name": "Crashing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 2925,
-    "minor": 2925,
+    "major": 2926,
+    "minor": 2926,
     "patch": 83
   }
 }
