@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2F52a74fC6C68A5666e93fB88e20e676BAeFbfb4",
-      "symbol": "SHINAZI",
-      "name": "Shinazi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17Fec877BcC217977073a13de8690563c7360559",
       "symbol": "FAI",
       "name": "FaithToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8BE73aF57a3995a96e3e0331D02f7A5fdBcBA356",
+      "symbol": "GEYSER",
+      "name": "TheGeyser",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3000,
-    "minor": 3000,
+    "major": 3001,
+    "minor": 3001,
     "patch": 83
   }
 }
