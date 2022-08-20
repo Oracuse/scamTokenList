@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfc4276D4454C2a949C2519C749F89b360E477e1b",
-      "symbol": "TNTG",
-      "name": "TNTGold",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x20932Cd8BA918B28BAA5fE9D1DA4a563E4379e6E",
       "symbol": "CRYRAMID",
       "name": "CryptoPyramid",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43f13BC4bf8d840f9C257F5cd1b5Cd10e88Eb5A6",
+      "symbol": "PRINTBTC",
+      "name": "PRINTBTC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3008,
-    "minor": 3008,
+    "major": 3009,
+    "minor": 3009,
     "patch": 83
   }
 }
