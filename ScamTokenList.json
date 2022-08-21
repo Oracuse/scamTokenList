@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x70B9Bf70c1F25804706BB9FeBfd93a7a869f0a0D",
-      "symbol": "OCTOPUS",
-      "name": "Octopus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0Acc03d2ef0Fa04198DC7418bDb68729a3b1Dc3B",
       "symbol": "CHEFINU",
       "name": "ChefInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x314a8FE9AAF3Dd0177e8360aeb8401c840EC0665",
+      "symbol": "MPLM1",
+      "name": "MPLM1",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3120,
-    "minor": 3120,
+    "major": 3121,
+    "minor": 3121,
     "patch": 83
   }
 }
