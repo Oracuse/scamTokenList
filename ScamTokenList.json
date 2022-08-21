@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x83AfC3fBFDA08884c5b0621D3BC43Cb86754f25E",
-      "symbol": "FLIPSHIB",
-      "name": "FlipShibaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3468a5033cB912c8ec2e2cAb79ed923Fe84991e3",
       "symbol": "DIAMOND",
       "name": "DiamondInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFeeb975b2606C931cBaFE763c0cdC66755C42203",
+      "symbol": "MPRO",
+      "name": "TheManhattanProject",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3129,
-    "minor": 3129,
+    "major": 3130,
+    "minor": 3130,
     "patch": 83
   }
 }
