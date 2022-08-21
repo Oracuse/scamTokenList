@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6153d5A28e73868d2F5Ab6B48e4C0227dC771cF9",
-      "symbol": "JSTR",
-      "name": "Jester",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0ffEcc522DC71169bb12B07D09e62492BEF44150",
       "symbol": "SABURAI",
       "name": "SABURAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x735008d496c10cc1105BB65F8EA2b812D9A6ec5e",
+      "symbol": "KUROI",
+      "name": "KUROI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 3060,
-    "minor": 3060,
+    "major": 3061,
+    "minor": 3061,
     "patch": 83
   }
 }
