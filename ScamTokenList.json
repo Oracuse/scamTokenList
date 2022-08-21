@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x353C109EECa9099F6F74c28C1448Af151d8D44AA",
-      "symbol": "TOXIFERATE",
-      "name": "Toxiferate",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF96812AfD0A2346401885A9A4854253BBCB22Fc2",
       "symbol": "SPACEAPE",
       "name": "Space Ape",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81A2F942151d486CdCB49fE56D6D34c6b86339F2",
+      "symbol": "FTON",
+      "name": "FlexTon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3081,
-    "minor": 3081,
+    "major": 3082,
+    "minor": 3082,
     "patch": 83
   }
 }
