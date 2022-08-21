@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBf00b3A936FF9F6EEAe7079a62fe92EDC9dA254F",
-      "symbol": "TEST",
-      "name": "Test",
-      "decimals": 5,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbAc776CC54Cc33FD57D4Ca2b255f9Fb5F5f7Ab87",
       "symbol": "BLING",
       "name": "ShiblingInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x462F8605a803d52DC84180C97919C3D64fFca49A",
+      "symbol": "9T",
+      "name": "9Thieves",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3138,
-    "minor": 3138,
+    "major": 3139,
+    "minor": 3139,
     "patch": 83
   }
 }
