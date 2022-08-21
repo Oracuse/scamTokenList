@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7AD80cb4CC4AC3Cb6D665e9b1c94a6E2A17747DC",
-      "symbol": "RICHAPES",
-      "name": "Rich Apes",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x353C109EECa9099F6F74c28C1448Af151d8D44AA",
       "symbol": "TOXIFERATE",
       "name": "Toxiferate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62f3AdbEf5042a63a4a545D70C5E4fdCCA0995b2",
+      "symbol": "1P",
+      "name": "Inc3pt10nProtocol",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3080,
-    "minor": 3080,
+    "major": 3081,
+    "minor": 3081,
     "patch": 83
   }
 }
