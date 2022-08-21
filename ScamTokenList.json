@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF853ab63825Da9D103D2A847C5B990a2d3351e2D",
-      "symbol": "DED",
-      "name": "Doge Predator",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xec068d426E40d485261fF3816aEdd341E031bA23",
       "symbol": "NEBULA",
       "name": "Nebula Inu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0536d94Eb0bC946a9853Aff63304a8aB430A0D28",
+      "symbol": "CDL",
+      "name": "ClaireDeLune",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3037,
-    "minor": 3037,
+    "major": 3038,
+    "minor": 3038,
     "patch": 83
   }
 }
