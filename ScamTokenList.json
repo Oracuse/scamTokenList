@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF48Eca1F28b330B0EFE0b345109A8e8a13E4CBDB",
-      "symbol": "FROZONE",
-      "name": "Frozone",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2DFF79373D68BF4197bDAd4198DB2d8B924F7483",
       "symbol": "BBT",
       "name": "BeeBeeToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Da1BC39031a049d029b5b5bbE337F09631b191D",
+      "symbol": "BODY",
+      "name": "TheBody",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3134,
-    "minor": 3134,
+    "major": 3135,
+    "minor": 3135,
     "patch": 83
   }
 }
