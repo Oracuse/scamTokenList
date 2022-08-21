@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x95d9CB358d28b446f0bd01232b770510edbFE334",
-      "symbol": "GAME",
-      "name": "Jigsaw",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93fb1199BCdBB05841c8e304F6717c4907747baE",
       "symbol": "DONOTBUY",
       "name": "Do Not Buy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4E0Eb3C7F7E8043D6f49E388874F4A4F845E5f2",
+      "symbol": "BBY",
+      "name": "BestBuy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3065,
-    "minor": 3065,
+    "major": 3066,
+    "minor": 3066,
     "patch": 83
   }
 }
