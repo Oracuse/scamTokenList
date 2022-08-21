@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x74A4c7b582A3Cf93093f24EDB609b980E357F22C",
-      "symbol": "RAPTOR",
-      "name": "RAPTOR 2",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0552424d6F284481D5994a9c0ffEe963f076B3F7",
       "symbol": "GoldenShiba",
       "name": "GoldenShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60651851A8FC9492aF9e53Dc92Ac0C7ecaE50691",
+      "symbol": "TAROT",
+      "name": "TheFate",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3029,
-    "minor": 3029,
+    "major": 3030,
+    "minor": 3030,
     "patch": 83
   }
 }
