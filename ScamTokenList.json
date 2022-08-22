@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4f92FE6A7f95e0b2BA06C82Ec117F8e5009FD6bb",
-      "symbol": "SMORK",
-      "name": "ShibaMorkin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA6b8F4302eF4C09E3123F9Cb69B721e8888a9F09",
       "symbol": "SI",
       "name": "SatoshiIslandDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x875D349d3364A8D55c94289Aa772A082897d7fE8",
+      "symbol": "GYRE",
+      "name": "GYRE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3167,
-    "minor": 3167,
+    "major": 3168,
+    "minor": 3168,
     "patch": 83
   }
 }
