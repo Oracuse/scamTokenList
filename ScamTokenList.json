@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF7AE26F1bf3c2312A4cf42246F947a4Be25EEF92",
-      "symbol": "TREASURE",
-      "name": "TreasureToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x524e79b0ecf99494FFFc2c4313CCF54b92931564",
       "symbol": "MEOWTH",
       "name": "MeowthCat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa8B1C721ba29C351d1c146F7741BC316A49A7A9",
+      "symbol": "OBAKE",
+      "name": "KASAOBAKE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3180,
-    "minor": 3180,
+    "major": 3181,
+    "minor": 3181,
     "patch": 83
   }
 }
