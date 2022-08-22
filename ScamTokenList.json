@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25926da564A80aa1139f740607Dc9Dfdc501CF4e",
-      "symbol": "APEFI",
-      "name": "ApeFinance",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1e89ED298F830C4824b1836e69878B621D5881b0",
       "symbol": "BULLDOGE",
       "name": "BullDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x791c37C1d180f603179AFfe1Bb0178bfA18360Fb",
+      "symbol": "CRYPT",
+      "name": "CRYPTON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3173,
-    "minor": 3173,
+    "major": 3174,
+    "minor": 3174,
     "patch": 83
   }
 }
