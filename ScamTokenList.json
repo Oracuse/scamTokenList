@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb9d7f9eCCdA893cb543967890Ba63602390340DB",
-      "symbol": "CTHULHU",
-      "name": "Cthulhu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7A9435F50737f15955B9C025f9b4E8B420b3857b",
       "symbol": "SIMPSONS",
       "name": "SimpsonsCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71319C92A6AE8631b28F534fea1c26850E7508BD",
+      "symbol": "RING",
+      "name": "RingofPyro",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3163,
-    "minor": 3163,
+    "major": 3164,
+    "minor": 3164,
     "patch": 83
   }
 }
