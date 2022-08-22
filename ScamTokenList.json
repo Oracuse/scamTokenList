@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3f43d1bbD69cBE57DA85ca604F81692613108Ff4",
-      "symbol": "TREASURETOKEN",
-      "name": "TREASURE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF7AE26F1bf3c2312A4cf42246F947a4Be25EEF92",
       "symbol": "TREASURE",
       "name": "TreasureToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f2eB765eb458AAAE3c77729E34E80e018539c5B",
+      "symbol": "FTON",
+      "name": "FlexTon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3179,
-    "minor": 3179,
+    "major": 3180,
+    "minor": 3180,
     "patch": 83
   }
 }
