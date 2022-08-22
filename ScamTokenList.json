@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5fe01f2Dd9f35bE9208F951004004DF743Fbbf3B",
-      "symbol": "EYE",
-      "name": "BullseyeCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD0684f8d7a9Abb62044e5Ed29783C2C324d84911",
       "symbol": "FYLB",
       "name": "BingBong",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88Ef6dEB1D3cf181623DA8449534A859179F0EE2",
+      "symbol": "WORM",
+      "name": "StoorWorm",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3155,
-    "minor": 3155,
+    "major": 3156,
+    "minor": 3156,
     "patch": 83
   }
 }
