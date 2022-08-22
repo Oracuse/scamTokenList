@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9Aaa3DaD892A9277f8931A6449223aB6C64CBA85",
-      "symbol": "SMON",
-      "name": "SecretMonday",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25926da564A80aa1139f740607Dc9Dfdc501CF4e",
       "symbol": "APEFI",
       "name": "ApeFinance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc122a3c9aDb7c185BBDF044Eafe4ED0bFcbCCA55",
+      "symbol": "FTON",
+      "name": "FlexTon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3172,
-    "minor": 3172,
+    "major": 3173,
+    "minor": 3173,
     "patch": 83
   }
 }
