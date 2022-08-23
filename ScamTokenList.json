@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9B5D071a7E1d2c706A15B817ecccf5699442aC23",
-      "symbol": "NAME",
-      "name": "NAME",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBA71992701606f9d6dB9c306Ef21D0638733C6cE",
       "symbol": "WERO",
       "name": "WeroInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcA184bc7115C02eD5a692189F1F09dfd10e3bB7F",
+      "symbol": "CDL",
+      "name": "ClaireDeLune",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3326,
-    "minor": 3326,
+    "major": 3327,
+    "minor": 3327,
     "patch": 84
   }
 }
