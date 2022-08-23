@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6EF960A4DA8cBc4FCeCe2c02F7D9d50c21dd14E3",
-      "symbol": "TAPE",
-      "name": "TitterApe",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb96a48132522d3a40Fc6485152BD6e4bC5126A65",
       "symbol": "LELOUCH",
       "name": "LelouchLamperouge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d6970d9e774347eE0755a310555dED2Af415c44",
+      "symbol": "FTON",
+      "name": "FlexTon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3299,
-    "minor": 3299,
+    "major": 3300,
+    "minor": 3300,
     "patch": 84
   }
 }
