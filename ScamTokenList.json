@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE4A4468dd6F20b8bdfF1549640075a2CD308E861",
-      "symbol": "MINICMSN",
-      "name": "MiniCommission",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC3a099EaC7de7665536631d0E6d44De7a77f8C98",
       "symbol": "FGD",
       "name": "FREEDOMGODDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6EAEF50451Cb0B44fA91325459f7ec534594E02E",
+      "symbol": "ZERO",
+      "name": "ZeroInu",
+      "decimals": 2,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3274,
-    "minor": 3274,
+    "major": 3275,
+    "minor": 3275,
     "patch": 84
   }
 }
