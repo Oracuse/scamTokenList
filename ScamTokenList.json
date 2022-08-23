@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x533dA833551A77395AB5b0F465BCBBe301bfe861",
-      "symbol": "CMSNBANK",
-      "name": "TheCommissionBank",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2711c5813f4D1BE1340F8eD4D03ec83110ecf110",
       "symbol": "RAMBOCROC",
       "name": "RAMBOCROC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFdA602851283d1f633833aDF5fF5696E20E7dD6d",
+      "symbol": "NODGE",
+      "name": "DOGENODE",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3269,
-    "minor": 3269,
+    "major": 3270,
+    "minor": 3270,
     "patch": 84
   }
 }
