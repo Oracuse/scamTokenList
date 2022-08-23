@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1eEc436e3A7F1f5D36f8bcD4be134C044e752c54",
-      "symbol": "AKATSUKI",
-      "name": "AkatsukiCult",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa97c9dA65295Facc41E4f24c639f6594F60E34A8",
       "symbol": "CHASE",
       "name": "ChaseInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64B5BA118aa3e3F19564e0eDa1Cd8e6B135576C4",
+      "symbol": "STABLZ",
+      "name": "TheStabilizer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3349,
-    "minor": 3349,
+    "major": 3350,
+    "minor": 3350,
     "patch": 84
   }
 }
