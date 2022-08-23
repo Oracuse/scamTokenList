@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb49E2A10a0C2Def116Dad240979B759726d54984",
-      "symbol": "MCULTCLASSIC",
-      "name": "MuskCultClassic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x60a4f270c7EB76FCCBFF5472FB198ecc8B1477bD",
       "symbol": "MUSKTWITTERDAO",
       "name": "MuskTwitterDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7b0142882Aa1E1E3Fb25c034eDde3EAC3e21de90",
+      "symbol": "FADE",
+      "name": "DONTFADE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3305,
-    "minor": 3305,
+    "major": 3306,
+    "minor": 3306,
     "patch": 84
   }
 }
