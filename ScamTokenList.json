@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb943f7cd446d95D78b38BA0b5F9c21A9aB92B2F5",
-      "symbol": "PUNKDAO",
-      "name": "PunkDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd140b065FFf07258318505A1dE3fb4dB4f352DF9",
       "symbol": "DOVE",
       "name": "PeaceDove",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a0AB212767DcDD5731996818b686170e984eBc6",
+      "symbol": "IFU",
+      "name": "Shibifu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3255,
-    "minor": 3255,
+    "major": 3256,
+    "minor": 3256,
     "patch": 84
   }
 }
