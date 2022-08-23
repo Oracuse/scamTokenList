@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2A8a9C1931e0fD1073bef0760C46fa48F146e2AB",
-      "symbol": "BABYZOSHI",
-      "name": "BabyZoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x89Cf0Df36cB9Eb066C1559a80D2221a42628e63B",
       "symbol": "REIMAGE",
       "name": "ReImagineDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x485017EFbDAa764A56C30B30D699C7D595Ed8c3a",
+      "symbol": "SUDOSWAP",
+      "name": "sudoswap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3316,
-    "minor": 3316,
+    "major": 3317,
+    "minor": 3317,
     "patch": 84
   }
 }
