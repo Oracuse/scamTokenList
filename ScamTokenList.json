@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0C416A07caEd84cBF265B9F11f5d1f2AD0a90661",
-      "symbol": "IDO",
-      "name": "ido",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD27152b719597B826a785C6a6b24ef1735108409",
       "symbol": "ZKSYNC",
       "name": "zksync",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC65a0c12BBC1983594c401cC0362379b3957aa3b",
+      "symbol": "SPECIAL",
+      "name": "special",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3520,
-    "minor": 3520,
+    "major": 3521,
+    "minor": 3521,
     "patch": 84
   }
 }
