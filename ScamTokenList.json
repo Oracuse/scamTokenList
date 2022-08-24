@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1bcD0CfB4d26E53858e9BD5b1e2D0E7806D9EE48",
-      "symbol": "LOST",
-      "name": "LostAndFound",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9990C406bCdD8164D6cA539F547099ECEB1f64eF",
       "symbol": "RAICHU",
       "name": "RaichuInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D227a42ad2D6967AFda9E22D21ED5Ed6519bFa7",
+      "symbol": "ODIN",
+      "name": "Odineum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3426,
-    "minor": 3426,
+    "major": 3427,
+    "minor": 3427,
     "patch": 84
   }
 }
