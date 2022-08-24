@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3F8130cc0aFBad1D1f6d56cC6d0eF52d5B4dbf26",
-      "symbol": "SPACESHIB",
-      "name": "SpaceShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1bcD0CfB4d26E53858e9BD5b1e2D0E7806D9EE48",
       "symbol": "LOST",
       "name": "LostAndFound",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1dB26D62c3089698f0A0242b0aA71a6275EEa6a",
+      "symbol": "SEEKER",
+      "name": "SEEKER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3425,
-    "minor": 3425,
+    "major": 3426,
+    "minor": 3426,
     "patch": 84
   }
 }
