@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbe5c8DB28FE0D07900C46a126d82B40499c77B95",
-      "symbol": "MEME",
-      "name": "MEMEFINANCE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x16479170FB1Ddde83049eF260C83Cdfe8A361Fe7",
       "symbol": "E0",
       "name": "EatZero",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87Fb5a2E712e3eE57607c32C43Ab177B0A234e0F",
+      "symbol": "GLO",
+      "name": "UnigloToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3482,
-    "minor": 3482,
+    "major": 3483,
+    "minor": 3483,
     "patch": 84
   }
 }
