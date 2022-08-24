@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93308822aB0E5d5CBa9855BF2c5224aC21A0BBC6",
-      "symbol": "REIT",
-      "name": "REIToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8fa83b10765483231DEB99748144FD26C67E77D4",
       "symbol": "UST",
       "name": "UnSafeToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20b00E427Bce8485B56C3bc9eefB474Bd901f0a6",
+      "symbol": "KAMIKAZE",
+      "name": "Kamikaze",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3516,
-    "minor": 3516,
+    "major": 3517,
+    "minor": 3517,
     "patch": 84
   }
 }
