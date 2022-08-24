@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x20d738CD8584284A6e6BE576EBb857d4D0D04168",
-      "symbol": "APEREWARDS",
-      "name": "ApeRewards",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2aE98f4737B5D1CB2F97bE2420714b798bEB5938",
       "symbol": "SOCIETY",
       "name": "SocietyDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75b22df07cF03d40f8B7B4f91c5B4c8dc8518C6c",
+      "symbol": "PDAO",
+      "name": "PerpetualDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3506,
-    "minor": 3506,
+    "major": 3507,
+    "minor": 3507,
     "patch": 84
   }
 }
