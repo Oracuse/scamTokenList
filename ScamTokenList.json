@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5774033b408a4F0811F2D73ac3292cb4f11f222F",
-      "symbol": "RNFT",
-      "name": "RiskedNFT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC1a551c0A2B3f6ce5023caB655fD24Df5c62d29f",
       "symbol": "RICH",
       "name": "RichToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x535a4F889e1FFc5A9F372344eCfC30b15CD9C1e7",
+      "symbol": "DELUSION",
+      "name": "Delusion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3421,
-    "minor": 3421,
+    "major": 3422,
+    "minor": 3422,
     "patch": 84
   }
 }
