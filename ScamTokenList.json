@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9E76208fd82DBe692d34B8Bd200677dAF426df5F",
-      "symbol": "HORNS",
-      "name": "HORNS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5d6e0e1741117Bf9535b7aeAE0fD9Ac921CE0B1f",
       "symbol": "SINU",
       "name": "SunaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD864CaE97D9628261Afc4D900a75DbbaCaF446c4",
+      "symbol": "RESCUE",
+      "name": "Redemption",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3569,
-    "minor": 3569,
+    "major": 3570,
+    "minor": 3570,
     "patch": 84
   }
 }
