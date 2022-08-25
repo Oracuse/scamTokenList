@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4EA6969b9b85bFee9272d9685a36BF0dAb8ADf0B",
-      "symbol": "LCC",
-      "name": "LunaChainCapital",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0165B95ced66EbFeFf013e4C78c894a725Cd437",
       "symbol": "LUNINJA",
       "name": "LunaNinja",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66b1550600806626f51520b485984007b0A7d087",
+      "symbol": "SCROW",
+      "name": "Scarecrow",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3604,
-    "minor": 3604,
+    "major": 3605,
+    "minor": 3605,
     "patch": 84
   }
 }
