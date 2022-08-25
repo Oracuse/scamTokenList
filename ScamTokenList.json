@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x077cb6388EAC2ceE048EcDED2c9cE922b42785b2",
-      "symbol": "BCDAO",
-      "name": "BlueChipsDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF208259E8bE8376dA9dffc2d0e9966eA4fFad57E",
       "symbol": "FENRIR",
       "name": "SonOfLoki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61ECfC1a749872B6EcC35A42537d3e602589BC91",
+      "symbol": "PLSB",
+      "name": "PulseBitcoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3651,
-    "minor": 3651,
+    "major": 3652,
+    "minor": 3652,
     "patch": 84
   }
 }
