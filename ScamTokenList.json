@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7A8830d8347FA7A35eCed1E2aDe6Ed6811D22eca",
-      "symbol": "LUNASEA",
-      "name": "LunaseaFinance",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x741ebF16ed36c79d2a2308Fb48A68eBbaa490118",
       "symbol": "PAIRS",
       "name": "PAIRSDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1eDDefb2D3665d01d3c065B6C82A8e56149E3500",
+      "symbol": "MITAMA",
+      "name": "SakiMitama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3659,
-    "minor": 3659,
+    "major": 3660,
+    "minor": 3660,
     "patch": 84
   }
 }
