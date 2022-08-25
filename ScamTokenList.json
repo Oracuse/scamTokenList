@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x58EcfF89568912134cFf79f358fa279Ea27544Ab",
-      "symbol": "DONKWON",
-      "name": "DonkeyKwonInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x082663725b947Eccc0968C2b8773dD85e24C5a31",
       "symbol": "ERT",
       "name": "ETHRewards",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAD947E690c974840Bd2c5c555Ca59829C79e7BBA",
+      "symbol": "GOZU",
+      "name": "GOZU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3662,
-    "minor": 3662,
+    "major": 3663,
+    "minor": 3663,
     "patch": 84
   }
 }
