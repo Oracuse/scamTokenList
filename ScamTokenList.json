@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2F7610Cf57Fa7053476403fd3A3aCc00B8483706",
-      "symbol": "CAPE",
-      "name": "ClassicApeInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x686828E3Acdde4aB73e60c85536002eA6949453E",
       "symbol": "BLN",
       "name": "BabyLINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9250c04F5478E3252a79EC0214892650fe737F3",
+      "symbol": "PLZDONT",
+      "name": "PLZDONTNorefunds",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3649,
-    "minor": 3649,
+    "major": 3650,
+    "minor": 3650,
     "patch": 84
   }
 }
