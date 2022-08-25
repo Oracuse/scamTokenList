@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x01DcD44Bf2794c09782b4A467d73fa38cAdD3baD",
-      "symbol": "4TEHPPL",
-      "name": "ForTehPeople",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd273e4dE8a84EC6ccc5FFbde25Acf5F5A0FFAaA6",
       "symbol": "BLUE",
       "name": "BlueCollarCryptoLLC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87f5fe72c80ab054DC6D29eB2a2339DAc5751c01",
+      "symbol": "DOBBY",
+      "name": "Dobby",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3532,
-    "minor": 3532,
+    "major": 3533,
+    "minor": 3533,
     "patch": 84
   }
 }
