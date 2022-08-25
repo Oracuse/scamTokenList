@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x686828E3Acdde4aB73e60c85536002eA6949453E",
-      "symbol": "BLN",
-      "name": "BabyLINU",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x077cb6388EAC2ceE048EcDED2c9cE922b42785b2",
       "symbol": "BCDAO",
       "name": "BlueChipsDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc55b0F9B3F0921C116a071526A4818439D622733",
+      "symbol": "GNOSIS",
+      "name": "Gnosis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3650,
-    "minor": 3650,
+    "major": 3651,
+    "minor": 3651,
     "patch": 84
   }
 }
