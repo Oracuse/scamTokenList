@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x70e659A2547389bcbB711dB625e4c4920743eB5C",
-      "symbol": "USTINU",
-      "name": "Ustinu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcBC6Dc3b2dc701ce8509C2CDae323cB25000ae9c",
       "symbol": "LUNAQOM",
       "name": "LunaHunter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1CFf0B1112538eB7470EFEb20802e793208f8C5f",
+      "symbol": "WETH",
+      "name": "WrappedEthereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3586,
-    "minor": 3586,
+    "major": 3587,
+    "minor": 3587,
     "patch": 84
   }
 }
