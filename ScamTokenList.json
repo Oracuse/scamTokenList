@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93B362d73EaABD4eaFDAD2e48D7BA8AD49D66f66",
-      "symbol": "ARB",
-      "name": "Arbitrum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc15B2da93E485e7B15a7D6892CE36DcE16F3aDc1",
       "symbol": "BDK",
       "name": "BankofDoKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4797D5171A7e924D33e98E55935742867edAab6E",
+      "symbol": "NEON",
+      "name": "NeonMuromachi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3722,
-    "minor": 3722,
+    "major": 3723,
+    "minor": 3723,
     "patch": 84
   }
 }
