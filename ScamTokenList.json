@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc4fdFDE6520d0f60a2018B342aBe2898b2f898CB",
-      "symbol": "MINU",
-      "name": "MonkeypoxInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x209E00d5D6500f554aBf221bbF63F43032B00ad5",
       "symbol": "NLA",
       "name": "NoLimitApe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c2E23109F2d441f68B9eC23A45670c1da0938af",
+      "symbol": "RAT",
+      "name": "RatToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3743,
-    "minor": 3743,
+    "major": 3744,
+    "minor": 3744,
     "patch": 84
   }
 }
