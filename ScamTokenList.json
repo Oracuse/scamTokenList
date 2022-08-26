@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDE69933EfB7E9339A8b0E6aE184d879812B8fA3f",
-      "symbol": "ZEUS",
-      "name": "GodOfThunder",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x404c74746E84e90CB2a6C58cc2B6b9c186336c11",
       "symbol": "UST",
       "name": "UnSteadyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAFA5269052D316f9174234aB8C877eeeaa5Dcd92",
+      "symbol": "DISTANCE",
+      "name": "ShorainoKyori",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3672,
-    "minor": 3672,
+    "major": 3673,
+    "minor": 3673,
     "patch": 84
   }
 }
