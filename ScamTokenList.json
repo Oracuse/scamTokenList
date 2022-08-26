@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66DAe1481A3dDf2079506f480AcFaB8e9fD78c58",
-      "symbol": "FLUNA",
-      "name": "ForkedLunaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8cF4d29D9ce4fC59201b85793D9Ad75d0A9A0A11",
       "symbol": "LGLD",
       "name": "LinuGold",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2442baeBA2562bDCEb57f3c03Be7f68f98Cf22d1",
+      "symbol": "BXR",
+      "name": "BoxerInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3682,
-    "minor": 3682,
+    "major": 3683,
+    "minor": 3683,
     "patch": 84
   }
 }
