@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x84d021c9eceD3a9a3B79aD6BD471276d43DdbbCE",
-      "symbol": "GRAPES",
-      "name": "Grapes",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08A0945516A161A45C5578b39254c17B99c67D53",
       "symbol": "XOX",
       "name": "XOX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB302A8e5da35EB272C810333F1b991D458ae4C26",
+      "symbol": "MIVIE",
+      "name": "MivieToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3702,
-    "minor": 3702,
+    "major": 3703,
+    "minor": 3703,
     "patch": 84
   }
 }
