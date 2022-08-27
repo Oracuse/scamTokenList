@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA55555bDf6B607F6e6DA7384Cf4FE205E5dd1D47",
-      "symbol": "SYTN",
-      "name": "SQUARETOKEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7b6e3c717BF630751F1aEbA0645C6ba939decD11",
       "symbol": "OP",
       "name": "Optimism",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBf80A7aC3dE3B787a574bA5a1D2a428aAC175898",
+      "symbol": "MEVFLOKI",
+      "name": "MEVFloki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3826,
-    "minor": 3826,
+    "major": 3827,
+    "minor": 3827,
     "patch": 84
   }
 }
