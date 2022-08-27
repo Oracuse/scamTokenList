@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa638F87E55ADdC9D16b7a217e57B514414b1A073",
-      "symbol": "LUNO",
-      "name": "LunoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5FEB7abDA6c29d61bA0c220CA56feeF46e643932",
       "symbol": "AKITO",
       "name": "AkitoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4DA10f8E7271b054D4c1D6c10Ff22C3522965C3c",
+      "symbol": "MEV",
+      "name": "MevTerminator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3830,
-    "minor": 3830,
+    "major": 3831,
+    "minor": 3831,
     "patch": 84
   }
 }
