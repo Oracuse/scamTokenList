@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25febD7c860B50C79dD38815A451B08f74b7CEE5",
-      "symbol": "CNT",
-      "name": "CommunityNoTax",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6F6b87561d58cab423c56e89bEb1FB9725AD2CC7",
       "symbol": "NICE",
       "name": "NiceToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76161D8818931C042f607c40785b3c7761C8f097",
+      "symbol": "BULLY",
+      "name": "BullyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 3780,
-    "minor": 3780,
+    "major": 3781,
+    "minor": 3781,
     "patch": 84
   }
 }
