@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5E52C1cf009b0B77995Ce4E5F53F50647b311f21",
-      "symbol": "JOOKIBA",
-      "name": "JookibaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd4e69a9e85A5fe5469CA04AE2d81213b013dDC96",
       "symbol": "ZARAKI",
       "name": "Kenpachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Fcd82Dea8605afc84E35FfaF9f0f46CeBcD426A",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3879,
-    "minor": 3879,
+    "major": 3880,
+    "minor": 3880,
     "patch": 84
   }
 }
