@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF8c071E367c557CC0512038DE6427e68a8Aac093",
-      "symbol": "OP",
-      "name": "Optimism",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2453aD0e81c073389C2bfa4E6d5946BC52E215BC",
       "symbol": "FENRIR",
       "name": "FenrirProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2730C5dcd4E3Ce8a90a22a3Ae988E5f28AcC78E",
+      "symbol": "DGBLL",
+      "name": "DragonBallETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 3960,
-    "minor": 3960,
+    "major": 3961,
+    "minor": 3961,
     "patch": 84
   }
 }
