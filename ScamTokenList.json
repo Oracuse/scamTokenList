@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB7B50C083aB93379b1432711Bd9a1C9771468855",
-      "symbol": "BSHK",
-      "name": "BabyShkreli",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0DDAE27185C4D1B82B62654d9e936aA68C55AB48",
       "symbol": "LINER",
       "name": "LUNAMINER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2FeCd049411C8bA2d174a9e6C45c9d6fbDE061AF",
+      "symbol": "ZIPMEX",
+      "name": "Zipmex",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3908,
-    "minor": 3908,
+    "major": 3909,
+    "minor": 3909,
     "patch": 84
   }
 }
