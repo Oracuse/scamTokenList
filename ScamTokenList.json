@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xee6f28162bF19051Ec7e3b7c84e113E8e68773DD",
-      "symbol": "FRAUD",
-      "name": "FraudsterInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00434bF12f134B0E8f6207cd362140ff7516283E",
       "symbol": "LONGDOGE",
       "name": "LongDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4aF34Fd49409792a3b8c3055A09Ce8A176cb69b3",
+      "symbol": "BROKEN",
+      "name": "BrokenWorld",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 3939,
-    "minor": 3939,
+    "major": 3940,
+    "minor": 3940,
     "patch": 84
   }
 }
