@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcCa29a82EF0D58Ff0Dc76dED2DD0102FF87D950f",
-      "symbol": "TOX",
-      "name": "TokenX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6ab392c029141c17d5510de1A2C271c893e0a76a",
       "symbol": "NEXTGEN",
       "name": "NextGenerationLabs",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1697623eB2A9849dEC1371C3806f25f31d89fe60",
+      "symbol": "USDH",
+      "name": "Hoard",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3924,
-    "minor": 3924,
+    "major": 3925,
+    "minor": 3925,
     "patch": 84
   }
 }
