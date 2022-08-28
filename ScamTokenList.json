@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf1C802e56bd6c023BF40A606FC989BD4FAd5a9F0",
-      "symbol": "BROKE",
-      "name": "BrokeToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9958dFF8C988896418E6D4DA1D54e6Ce25F928cB",
       "symbol": "FICO",
       "name": "FicoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x288357055c9D7C59ba44C514c0fDD7fD1F0F9e10",
+      "symbol": "RIC",
+      "name": "AURIcoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3903,
-    "minor": 3903,
+    "major": 3904,
+    "minor": 3904,
     "patch": 84
   }
 }
