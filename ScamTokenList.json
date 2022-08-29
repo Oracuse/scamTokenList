@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x049a0A21C7190De3A994311aA14cb0e89E7291E5",
-      "symbol": "TEST",
-      "name": "test",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4c59FCce14e91aE1a0038b41141B5A3a4fCFDB2C",
       "symbol": "MOLES",
       "name": "Groundworks",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFF3470fD3116114CbD6A9a91351008DDCAc4b502",
+      "symbol": "DYC",
+      "name": "DogechainYachtClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4006,
-    "minor": 4006,
+    "major": 4007,
+    "minor": 4007,
     "patch": 84
   }
 }
