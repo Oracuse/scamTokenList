@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd902a5382e7b3070546B715CeeB682E2781fF9cc",
-      "symbol": "DOGE2",
-      "name": "DOGE20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8469C252767416141fdfb928955ee84Fb5aB612C",
       "symbol": "DOKA",
       "name": "DoKaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x353a21312D28E49658CFd7cF8A2A5797bD4823cC",
+      "symbol": "NS",
+      "name": "NihonShoki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4032,
-    "minor": 4032,
+    "major": 4033,
+    "minor": 4033,
     "patch": 84
   }
 }
