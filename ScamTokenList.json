@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD62eDdD3944b91e7e6D579337940a9e0d20848eC",
-      "symbol": "ETH2",
-      "name": "ETH20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04d36DE42EFD2A59f15Ea42fCD43420D4e4C91B0",
       "symbol": "TAMA2",
       "name": "SAITAMA20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf283472eAdBBB0D8cd6222d826C5807f6a2ad3c8",
+      "symbol": "PIKE",
+      "name": "ThePike",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4044,
-    "minor": 4044,
+    "major": 4045,
+    "minor": 4045,
     "patch": 84
   }
 }
