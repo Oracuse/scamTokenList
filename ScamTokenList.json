@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa1C402cE787D7537246EeA2DCB743B805FC23E8f",
-      "symbol": "SHKRELI20",
-      "name": "MartinShkreli20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3B9aE5085eE6E0a14fDad264ED34B6aF1948DaD9",
       "symbol": "ALAMEDA",
       "name": "AlamedaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a397463D5351BD0Aec704Ab15095B1DA0d1fD9a",
+      "symbol": "DCBURN",
+      "name": "DogeChainBurn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3980,
-    "minor": 3980,
+    "major": 3981,
+    "minor": 3981,
     "patch": 84
   }
 }
