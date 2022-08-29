@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3F7595666832850195Fa8eF6c4088642845079Bf",
-      "symbol": "OCTOPUS",
-      "name": "Octopus",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd902a5382e7b3070546B715CeeB682E2781fF9cc",
       "symbol": "DOGE2",
       "name": "DOGE20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05215596ae84f77BcceA28f4769d8ED6B2dADb6c",
+      "symbol": "NORI",
+      "name": "NoriGO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4031,
-    "minor": 4031,
+    "major": 4032,
+    "minor": 4032,
     "patch": 84
   }
 }
