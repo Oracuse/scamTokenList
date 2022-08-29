@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0554b6943Acef5AfFF918706c43Ed4B2F4597E9",
-      "symbol": "OP",
-      "name": "Optimism",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5A74eAF9569DdBe453B9153A25B8F3D0d8B9dc09",
       "symbol": "MOCA",
       "name": "MocaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48e08AE2a3FdD659F1168C244991d4F16a60fFe8",
+      "symbol": "MASU",
+      "name": "IKIMASU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4036,
-    "minor": 4036,
+    "major": 4037,
+    "minor": 4037,
     "patch": 84
   }
 }
