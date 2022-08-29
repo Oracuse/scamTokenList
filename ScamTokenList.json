@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0C73ab2d55e41410FF551E91AA83E87D8B3f7B3A",
-      "symbol": "DOS",
-      "name": "DOS",
-      "decimals": 0,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2aF5C5d930843258C2320EBF300233eD5A85A227",
       "symbol": "KINU",
       "name": "KizoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD16fd95D949F996e3808EeEa0e3881C59E76EF1E",
+      "symbol": "PARA",
+      "name": "ParaWerx",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 3999,
-    "minor": 3999,
+    "major": 4000,
+    "minor": 4000,
     "patch": 84
   }
 }
