@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22491cCD7CCa7589C76b841a2fE6b8C7F15257E7",
-      "symbol": "BXBX",
-      "name": "BXBX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEB7D2eeDE345A18190Bf5CdC87D51d2FeD7bFeB9",
       "symbol": "LUNA",
       "name": "Terra20LUNATOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2bb183fba59618482be4C99735b988D0155BbFF2",
+      "symbol": "LIBRA",
+      "name": "Libreum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4197,
-    "minor": 4197,
+    "major": 4198,
+    "minor": 4198,
     "patch": 84
   }
 }
