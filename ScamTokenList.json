@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcE0bC52C9f3E3D5098f37010B42F923E5f0bb6Fc",
-      "symbol": "DETECTIVE",
-      "name": "DOXDETECTIVE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x315cE59FAFd3A8d562b7Ec1C8542382d2710b06c",
       "symbol": "CCS",
       "name": "CacaoShares",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9fE69bB8b2A64DDbD32473C807E94709FFf8651d",
+      "symbol": "USDH",
+      "name": "Hoard",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4111,
-    "minor": 4111,
+    "major": 4112,
+    "minor": 4112,
     "patch": 84
   }
 }
