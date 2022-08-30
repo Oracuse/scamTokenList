@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd2Df304DfCc4291F6af36b51aC0649987671B40e",
-      "symbol": "HALO",
-      "name": "HaloInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x145720f0f624D4BF9F9910eF087A68872991B092",
       "symbol": "LUNAZERO",
       "name": "LunaZero",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3214E036EF3f756F098304166F3DD55726643cFA",
+      "symbol": "CETH",
+      "name": "COCKTHEREUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4165,
-    "minor": 4165,
+    "major": 4166,
+    "minor": 4166,
     "patch": 84
   }
 }
