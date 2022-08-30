@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5e40dD0BdD6Dc73210FC76AC897d4FEbe5Cf5e06",
-      "symbol": "BERNIE",
-      "name": "BernieInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2dA3CFb0de6D5FAcAdDB96625B98fD70F69a31D5",
       "symbol": "SARA",
       "name": "SaraInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc16fEfeb39E0F53383519B00C1500d4A164FF2Fa",
+      "symbol": "RVN",
+      "name": "Raven",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4090,
-    "minor": 4090,
+    "major": 4091,
+    "minor": 4091,
     "patch": 84
   }
 }
