@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb72611924476147C1a2f6fE54B8980454F51d644",
-      "symbol": "SMASH",
-      "name": "SMASHCOIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1CE804874f1104134fD476c4e1b231ABE399A947",
       "symbol": "OP",
       "name": "Optimism",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Bb2045270EafC738150Abc121F2497c17Eb32F3",
+      "symbol": "BLINK",
+      "name": "BlackPinkInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4199,
-    "minor": 4199,
+    "major": 4200,
+    "minor": 4200,
     "patch": 84
   }
 }
