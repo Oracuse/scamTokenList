@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe42068BDD6BbD6a63Ae79eAAA4B888421EA22BC4",
-      "symbol": "RIPX",
-      "name": "RippleX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xac6B042a2633bFE0aa176C34cf3c32799D6D359c",
       "symbol": "BTTC",
       "name": "BTTCNFT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8148F12028BD4D9ECaA8eC3Fd584BB3eFabC3DBf",
+      "symbol": "SAZUKA",
+      "name": "SazukaNakamoto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4143,
-    "minor": 4143,
+    "major": 4144,
+    "minor": 4144,
     "patch": 84
   }
 }
