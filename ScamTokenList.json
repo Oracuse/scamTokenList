@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5676BF344bb49660C84B6B92d95748F60202F799",
-      "symbol": "STOIC",
-      "name": "Stoicism",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0B5D8E4D2eb351D3db87A1BDfb5dE92Cffac3b0f",
       "symbol": "TORA",
       "name": "ToraInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45089cC82818a74CA3aC63eC4FD1793C6f38de17",
+      "symbol": "VFL",
+      "name": "VitalikFloki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4140,
-    "minor": 4140,
+    "major": 4141,
+    "minor": 4141,
     "patch": 84
   }
 }
