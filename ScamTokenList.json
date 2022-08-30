@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2033a472C248Fb32b8CdC29b3A2399Ebe8100694",
-      "symbol": "MOPA",
-      "name": "MoonPandaToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x74844adAaC1e1BEa192969DaB726720cD508ae44",
       "symbol": "KB9",
       "name": "BenzemaETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x001FDE23C78076DC78674f21e24C9B20dB3Df0a2",
+      "symbol": "GOTCHU",
+      "name": "Gotchu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4213,
-    "minor": 4213,
+    "major": 4214,
+    "minor": 4214,
     "patch": 84
   }
 }
