@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1CE804874f1104134fD476c4e1b231ABE399A947",
-      "symbol": "OP",
-      "name": "Optimism",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1b1EF8b9a3Fb0B3AFE10E378F926b35e1A0c983B",
       "symbol": "LUNA2",
       "name": "WrappedLuna20Token",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x997e8ed9Af153A502dCDa7d1E03CE98dFe9b52a6",
+      "symbol": "BUSHIDOINU",
+      "name": "BushidoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4200,
-    "minor": 4200,
+    "major": 4201,
+    "minor": 4201,
     "patch": 84
   }
 }
