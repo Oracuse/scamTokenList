@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0f3E4126FAf8f0d123C456C27DECB67B48fd818D",
-      "symbol": "SOOHO",
-      "name": "SOOHORANG",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66E7edC73022DD8C19C72404c9C67De2ADA2A7Cb",
       "symbol": "LUNA",
       "name": "WrappedLUNA20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9888A1D79B3DB1DF5dd357C97D999fBA6CC3Ae25",
+      "symbol": "SHIBOT",
+      "name": "SHIBOTINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4097,
-    "minor": 4097,
+    "major": 4098,
+    "minor": 4098,
     "patch": 84
   }
 }
