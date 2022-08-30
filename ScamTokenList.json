@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBa62FdBe3025E3f13B8C1Ec1209b35b66A9f1A96",
-      "symbol": "NAME",
-      "name": "NAME",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x61c4253D0D6e41BaB93D5a07F0EB8AB0F2D452B9",
       "symbol": "BZB",
       "name": "Buyzeblood",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa09C750146c195fB7b83D5e0438a67F14694ba76",
+      "symbol": "SHINESE",
+      "name": "SHINESEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4160,
-    "minor": 4160,
+    "major": 4161,
+    "minor": 4161,
     "patch": 84
   }
 }
