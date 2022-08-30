@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7e3E1aD4DBf2e8bae072AA239b6A79c768A82e7C",
-      "symbol": "SMASH",
-      "name": "SMASHCOIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa21eb6aDF336491f1514DD81a90c3aDA5C0F8d6E",
       "symbol": "DB",
       "name": "DONTBUY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Dc70B17b1F69E45992f22cd086082EDbCCC1bf2",
+      "symbol": "HRD",
+      "name": "HOARD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4225,
-    "minor": 4225,
+    "major": 4226,
+    "minor": 4226,
     "patch": 84
   }
 }
