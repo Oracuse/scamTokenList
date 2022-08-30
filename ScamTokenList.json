@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x86aFe550e4d128a2760D54043537126B2706466D",
-      "symbol": "FBI",
-      "name": "FuckBtcInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2BA367AcAC0C42eF0A6572eCdc8021Af02d42be5",
       "symbol": "OP",
       "name": "WrappedOptimismToke",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xedD070AF96B8034E9C57Bc22FA9C3F46B3AdE0eD",
+      "symbol": "AINU",
+      "name": "InuLabs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4135,
-    "minor": 4135,
+    "major": 4136,
+    "minor": 4136,
     "patch": 84
   }
 }
