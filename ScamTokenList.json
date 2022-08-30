@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x85cF21545838CeBd9CAD14FDb7903F267D83911D",
-      "symbol": "GRMLN",
-      "name": "GREMLINTOKEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe42068BDD6BbD6a63Ae79eAAA4B888421EA22BC4",
       "symbol": "RIPX",
       "name": "RippleX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF101cDc7bfE508388004f725F65c759688B4804A",
+      "symbol": "ARS",
+      "name": "ArsToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4142,
-    "minor": 4142,
+    "major": 4143,
+    "minor": 4143,
     "patch": 84
   }
 }
