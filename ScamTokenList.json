@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8D195F646B2834c2CDe76952D5f30211A1f84036",
-      "symbol": "LCH",
-      "name": "LunaCash",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8b3fFAa9c5F934c11bE6C953BAa6603c4ed14472",
       "symbol": "BEARS",
       "name": "TheMadBears",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA44ffe6d8286B893405ee43687b9f523f3e46E08",
+      "symbol": "SUDORUG",
+      "name": "SudoRugToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4272,
-    "minor": 4272,
+    "major": 4273,
+    "minor": 4273,
     "patch": 84
   }
 }
