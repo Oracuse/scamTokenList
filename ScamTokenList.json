@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE6b77fca36d48ce740e4574b1d052B0622BdFd0F",
-      "symbol": "MARLEY",
-      "name": "MarleyInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8D195F646B2834c2CDe76952D5f30211A1f84036",
       "symbol": "LCH",
       "name": "LunaCash",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64f147703501B7d8Bf182F9F66f81a61D58A853a",
+      "symbol": "GINU",
+      "name": "GorbachevInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4271,
-    "minor": 4271,
+    "major": 4272,
+    "minor": 4272,
     "patch": 84
   }
 }
