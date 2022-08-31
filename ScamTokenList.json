@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2A049AA4e72A9eaEd797D9fC1250DdbFB25D8B0E",
-      "symbol": "TURING",
-      "name": "Turing",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5983815AEDD3C1f1627A2E9f84FE5c6d1083F6BB",
       "symbol": "SOME",
       "name": "Something",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB144Bdc4dEAD32596A195F4b521737E13f0CB2e0",
+      "symbol": "RIVER",
+      "name": "TheGreatRiver",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4279,
-    "minor": 4279,
+    "major": 4280,
+    "minor": 4280,
     "patch": 84
   }
 }
