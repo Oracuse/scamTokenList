@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDe66D9D5cB92607c1DffEa24640A73Faec1657bE",
-      "symbol": "LUNAMOON",
-      "name": "LunaMoon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x79cD1ce78Cc296109Fd9455Ad5CF1c753E1Eb7C9",
       "symbol": "CLOCK",
       "name": "BrokenTime",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1C3c70E11a5e41AEbdae3CD1B93c451934d142B",
+      "symbol": "MONKEBLK",
+      "name": "MONKEBLK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4235,
-    "minor": 4235,
+    "major": 4236,
+    "minor": 4236,
     "patch": 84
   }
 }
