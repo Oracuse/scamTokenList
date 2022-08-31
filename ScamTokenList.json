@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeEB1331b0D7fF8e855b03cF366760404B1ce4BB4",
-      "symbol": "2",
-      "name": "TwoPercent",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc5E70524885B4e31aa9c7FB1d45b4DE32d6d9226",
       "symbol": "NASTY",
       "name": "NastyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAe1a4694BAeb146b354CD341573CeaDD2D67D863",
+      "symbol": "GLDN",
+      "name": "GoldRetriever",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4229,
-    "minor": 4229,
+    "major": 4230,
+    "minor": 4230,
     "patch": 84
   }
 }
