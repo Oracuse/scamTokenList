@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBAdC22bD9966ACDAbeC183a25d30816a5B1fc0CC",
-      "symbol": "FRAUD",
-      "name": "FraudsterInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2b04780160A3085e2464C523C80E5e40E3cFa145",
       "symbol": "BOOK",
       "name": "OpenBook",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a6c28d2fD74ca794699A8c020cCB39949FE88a7",
+      "symbol": "FUKURO",
+      "name": "TheOwl",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4246,
-    "minor": 4246,
+    "major": 4247,
+    "minor": 4247,
     "patch": 84
   }
 }
