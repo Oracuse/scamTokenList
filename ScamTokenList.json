@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5983815AEDD3C1f1627A2E9f84FE5c6d1083F6BB",
-      "symbol": "SOME",
-      "name": "Something",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x887eED735CD28805Fe0f427Ec510646e2E55D041",
       "symbol": "TEZKI",
       "name": "TesuzukiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9bB6e45Dc40f2EafC360c1370e42D90B9640213",
+      "symbol": "SUZAKU",
+      "name": "SuzakuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4280,
-    "minor": 4280,
+    "major": 4281,
+    "minor": 4281,
     "patch": 84
   }
 }
