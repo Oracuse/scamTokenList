@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9B964dd04Cd9467c89c95F2147a63611a2AbeF25",
-      "symbol": "DOGE2",
-      "name": "Dogecoin20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd85C1936a5Be98c6C78EE723293e555Cc6dddA0b",
       "symbol": "VENDASTA",
       "name": "Vendasta",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85b8820e9c5f44100007e9400E17d1C5AebC9322",
+      "symbol": "YUFUKU",
+      "name": "Yufuku",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4285,
-    "minor": 4285,
+    "major": 4286,
+    "minor": 4286,
     "patch": 84
   }
 }
