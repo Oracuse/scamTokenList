@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x528fe44758c520F83A78e5290E5c57bbda88c6cc",
-      "symbol": "DOKKAEBI",
-      "name": "Dokkaebi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59c6900949aD1835f07a04321f4d9934a054E114",
       "symbol": "TROVE",
       "name": "TroveDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeD641273b0c9dd7Bc89f0CD4c3BD58770B662d63",
+      "symbol": "SODATSU",
+      "name": "Sodatsu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4431,
-    "minor": 4431,
+    "major": 4432,
+    "minor": 4432,
     "patch": 84
   }
 }
