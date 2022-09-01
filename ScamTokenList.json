@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x277205c9dE179c3143c68067FaBe875b1Ef368C3",
-      "symbol": "TROVE",
-      "name": "TroveDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x44A8211f5fc517d9e384d5732179eD6BE9982AFC",
       "symbol": "TROVE",
       "name": "TroveDao",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF7Ecb2E5ddaD17506E62F51A442f725a26053fb2",
+      "symbol": "WORM",
+      "name": "SpaceWorm",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4424,
-    "minor": 4424,
+    "major": 4425,
+    "minor": 4425,
     "patch": 84
   }
 }
