@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28a119F7CaC253042223004d5a6829D2322c5De3",
-      "symbol": "LUCIFER",
-      "name": "Lucifer",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2eecB20dF51DC76d05AfCf1270C73a2fF1035388",
       "symbol": "OP",
       "name": "Optimism",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x409d9fea7858f6558E429643bE9F83b556A7B623",
+      "symbol": "HMNS",
+      "name": "HumansOnly",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4473,
-    "minor": 4473,
+    "major": 4474,
+    "minor": 4474,
     "patch": 84
   }
 }
