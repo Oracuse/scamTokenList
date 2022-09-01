@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2eecB20dF51DC76d05AfCf1270C73a2fF1035388",
-      "symbol": "OP",
-      "name": "Optimism",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3aFCfEBc6d58DC6042bD039A6c53Aec1A924fb0e",
       "symbol": "BB",
       "name": "BBVerse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98D3D9C90b837095f2f568FA0Ce0dc8725c295e0",
+      "symbol": "LDC",
+      "name": "LazyDogechainToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4474,
-    "minor": 4474,
+    "major": 4475,
+    "minor": 4475,
     "patch": 84
   }
 }
