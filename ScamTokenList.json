@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcEf619d62514f6df946796EBba25219442d0bC1f",
-      "symbol": "RARE",
-      "name": "RareInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x92DFF030E858cBC7FD645d5C4F8232E38C197224",
       "symbol": "BORZOI",
       "name": "BorzoiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x315497adCd7fFCEF1C722a76aF49e56072b065A4",
+      "symbol": "KRAKEN",
+      "name": "Kraken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4359,
-    "minor": 4359,
+    "major": 4360,
+    "minor": 4360,
     "patch": 84
   }
 }
