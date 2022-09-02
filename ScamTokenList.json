@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60E2b2B1faa27098c747496f68544BF2A63eE4d0",
-      "symbol": "JINU",
-      "name": "JubileeInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3CbC2eb990C9b761D647b952E0206157c97Fc365",
       "symbol": "PRIDEDOGE",
       "name": "PrideDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59d4d86672Ecc2bc877ec6a7F5e76A6866a76181",
+      "symbol": "LUNE",
+      "name": "WrappedLUNEToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4540,
-    "minor": 4540,
+    "major": 4541,
+    "minor": 4541,
     "patch": 84
   }
 }
