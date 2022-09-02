@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF90c1cEBEC99d90BEC5C915aC881bC02C32df11f",
-      "symbol": "TONA",
-      "name": "TonaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB36eC104570c8052e4676975e4c1874c59A535b9",
       "symbol": "OMEGA",
       "name": "OmegaSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e31656a622B88e52b2629d49BEdeceF353bDD14",
+      "symbol": "7SUNS",
+      "name": "SevenSuns",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4599,
-    "minor": 4599,
+    "major": 4600,
+    "minor": 4600,
     "patch": 84
   }
 }
