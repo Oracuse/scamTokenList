@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB36eC104570c8052e4676975e4c1874c59A535b9",
-      "symbol": "OMEGA",
-      "name": "OmegaSwap",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdF53c615dc295A1f8c427b0Cc3560E2C18728E78",
       "symbol": "314159",
       "name": "JourneyOfPi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x967f5993E54F4B17162a6BC2F449B77F4bE10785",
+      "symbol": "MISAKO",
+      "name": "MisakoToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4600,
-    "minor": 4600,
+    "major": 4601,
+    "minor": 4601,
     "patch": 84
   }
 }
