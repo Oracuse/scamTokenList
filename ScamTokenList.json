@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE9606325A34e876e883790E01d1fC7262C206cAe",
-      "symbol": "QR",
-      "name": "QR",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6826f113922c4e862D111119b8E6eeB291aE31eB",
       "symbol": "SHIBM",
       "name": "ShibamaruINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7eBa1ddff11771B79f8BDd4d877EEeedd218362a",
+      "symbol": "EXP",
+      "name": "Explane",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 4645,
-    "minor": 4645,
+    "major": 4646,
+    "minor": 4646,
     "patch": 84
   }
 }
