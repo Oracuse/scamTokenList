@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB1e749a0462943a269292f7Fc52abb7b88f42793",
-      "symbol": "MINT",
-      "name": "MintInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4cd4441F169e472dD7EA462167bA93180b6E6074",
       "symbol": "CHAIN",
       "name": "CUREChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x233e0695D2FD7568879B98F2bE9C70581AbE2a3D",
+      "symbol": "CHAOS",
+      "name": "Chaos",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4633,
-    "minor": 4633,
+    "major": 4634,
+    "minor": 4634,
     "patch": 84
   }
 }
