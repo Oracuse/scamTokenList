@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaDfD8E74206f2ca6388AE86DcCa29A555CBA3B48",
-      "symbol": "VOYAGER1",
-      "name": "VoyagerOne",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49dB9E9a734e1210825611b2b971eAe39389365B",
       "symbol": "NILE",
       "name": "GizaSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a443EE0c153ADfD965b4BFaD85E0Eda12D5f647",
+      "symbol": "SKE",
+      "name": "SKE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4629,
-    "minor": 4629,
+    "major": 4630,
+    "minor": 4630,
     "patch": 84
   }
 }
