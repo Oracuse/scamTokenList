@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdDB04Ab1eFD8BCB6390758344df705eF22551CE7",
-      "symbol": "BSHIT",
-      "name": "BabyShitCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x796579e5f8fDF4D2b9218A92002Dcc5Ea2b1F2D1",
       "symbol": "ZFG",
       "name": "ZeroFvcksGiven",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7b95D2d943D293850Ec6fa1207bEC4C923F3AD27",
+      "symbol": "DONTBUY",
+      "name": "Test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 4730,
-    "minor": 4730,
+    "major": 4731,
+    "minor": 4731,
     "patch": 84
   }
 }
