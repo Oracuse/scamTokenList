@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8FdC6FEc5E33b26aa47C0837CCC2a929A5D794a2",
-      "symbol": "QOMX",
-      "name": "QOMChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x687bdedc5B4A81ADBF5d3eFA2f811b5e45bF167c",
       "symbol": "SHIBLUNA",
       "name": "ShibLuna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF7616B3b24D11059F68c8425a085fadC661fb987",
+      "symbol": "KAI",
+      "name": "Lotus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4691,
-    "minor": 4691,
+    "major": 4692,
+    "minor": 4692,
     "patch": 84
   }
 }
