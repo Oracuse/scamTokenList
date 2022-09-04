@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE44465a0EA65Cf327dBcC7DB9Ef91ac177Cfa097",
-      "symbol": "NOBODY",
-      "name": "Nobody",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xec77bb358f456B6C58d9a951FCdFb14De4DE441c",
       "symbol": "MDSA",
       "name": "EyeofMedusa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e93bf8a2474FE922AC4D3D514D305214aB3F360",
+      "symbol": "POSSUM",
+      "name": "Possum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4711,
-    "minor": 4711,
+    "major": 4712,
+    "minor": 4712,
     "patch": 84
   }
 }
