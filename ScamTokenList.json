@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA473F33020158642B4621e3a6589C4dfA065d26A",
-      "symbol": "CELINU",
-      "name": "CELSIUSINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x46F247CA87C2a223660046A6B9DD5D564dfab050",
       "symbol": "SEED",
       "name": "SEEDPHRASE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85e66467BBbc21e10592b662478b161E0e56f2e3",
+      "symbol": "CC",
+      "name": "ChowChain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4900,
-    "minor": 4900,
+    "major": 4901,
+    "minor": 4901,
     "patch": 84
   }
 }
