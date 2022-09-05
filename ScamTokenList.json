@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9B2aa3B384A736989Bb18d5e88200A2F704449A5",
-      "symbol": "POS",
-      "name": "PiceOfShit",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAEd55e2f7E8484F78CCbc11f6d9491F6CaB7CA4d",
       "symbol": "BURN",
       "name": "OnePearlBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x951011a4d92704a25305A05e89b6750D3E020017",
+      "symbol": "HSHIB",
+      "name": "Hushiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4914,
-    "minor": 4914,
+    "major": 4915,
+    "minor": 4915,
     "patch": 84
   }
 }
