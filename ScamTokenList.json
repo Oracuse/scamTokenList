@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5C621c98cbe8fa96dE547cD7C482957eD8C9F2Bf",
-      "symbol": "HIKRU",
-      "name": "HikruToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7471e516F915BcA37375C28D1C635fd631a53f69",
       "symbol": "CARBO",
       "name": "CleanCarbon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73F0026E90faB7ddd50d7Fc53d9DF58deE1C86E7",
+      "symbol": "DSTORM",
+      "name": "DragonStorm",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4906,
-    "minor": 4906,
+    "major": 4907,
+    "minor": 4907,
     "patch": 84
   }
 }
