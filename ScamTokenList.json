@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x345584345b711CA4f77A1E321AcC1A33915B94ff",
-      "symbol": "EHUMOR",
-      "name": "ElonsHumor",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x85B1902Ad00Ed7d004098F2459f8e6f29a3Af518",
       "symbol": "MEMO",
       "name": "MemoDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA49BCE489CeBBa234537f0f38E67485c8Dc1B8fc",
+      "symbol": "GETH",
+      "name": "GuardiansOfEth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4912,
-    "minor": 4912,
+    "major": 4913,
+    "minor": 4913,
     "patch": 84
   }
 }
