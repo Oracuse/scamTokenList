@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66D045Fc82d94a32E9cB46296b8054ceFf84E628",
-      "symbol": "BEETLE",
-      "name": "BeetlejuiceGreen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdA4b624891BcDFcdDfAf42C5Beda6dd9f1fc6545",
       "symbol": "TMT",
       "name": "TheMoneyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c8FDdA69726Deca2A3804d1dD15e39517473C08",
+      "symbol": "EDEN",
+      "name": "EDEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4780,
-    "minor": 4780,
+    "major": 4781,
+    "minor": 4781,
     "patch": 84
   }
 }
