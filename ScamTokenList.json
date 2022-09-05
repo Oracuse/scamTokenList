@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc2745FF266C73936b956A2B789d9661Ecd0B8Bc0",
-      "symbol": "WEB5",
-      "name": "WEB5",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5C621c98cbe8fa96dE547cD7C482957eD8C9F2Bf",
       "symbol": "HIKRU",
       "name": "HikruToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE154c9887610E7139FF05876D7B80d56ce70D4d1",
+      "symbol": "SHIBCHAIN",
+      "name": "RealShibChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4905,
-    "minor": 4905,
+    "major": 4906,
+    "minor": 4906,
     "patch": 84
   }
 }
