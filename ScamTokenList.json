@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5883C95e0D0c74de2493C01c0DDA6Bc3f392E6F8",
-      "symbol": "FUD",
-      "name": "FearUncertaintyDoub",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5cB6B788f6B6D0b28101de19C2005B0Ad151E967",
       "symbol": "ZER0",
       "name": "zer0",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe442bA91AB3db597CaaDD6333D3318762418AFfC",
+      "symbol": "LUCKYTOAD",
+      "name": "LuckyToad",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4800,
-    "minor": 4800,
+    "major": 4801,
+    "minor": 4801,
     "patch": 84
   }
 }
