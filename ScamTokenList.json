@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB6D5d8Ba2d1Fc63f5dC000475402087E23bB7213",
-      "symbol": "ACE",
-      "name": "ACryptosEnd",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1ACEC01bFEC1eBcF273728F7f15d23CFb5C4061b",
       "symbol": "SEA",
       "name": "SeaPort",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71DE56DD0DC075D48bbE0f96c2D265Cfe81b7C06",
+      "symbol": "TROOPS",
+      "name": "CombatTroops",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 5017,
-    "minor": 5017,
+    "major": 5018,
+    "minor": 5018,
     "patch": 84
   }
 }
