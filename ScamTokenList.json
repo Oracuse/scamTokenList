@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1796Ad6a3dD1B2b428E97C1d5ae26a51D4A5701a",
-      "symbol": "NBNP",
-      "name": "NoBrainNoPain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd35b5586400052978f1869Ff573d81832A497CC4",
       "symbol": "SINU",
       "name": "SinkInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE492678b36604CF774bb7b03B64218656458325a",
+      "symbol": "BEACON",
+      "name": "CoinBeacon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5027,
-    "minor": 5027,
+    "major": 5028,
+    "minor": 5028,
     "patch": 84
   }
 }
