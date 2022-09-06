@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x75F274eA14C058296F847f2a4921bA27e79d5F7b",
-      "symbol": "MARIOY",
-      "name": "MarioInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22B7A6ACE65E29E494e012c0A2d5D09ded3041C4",
       "symbol": "75BPS",
       "name": "FOMC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe00dc799584ec473D4a885E0e3b7eF1Ca7a38FA5",
+      "symbol": "OSO",
+      "name": "OrsoToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5021,
-    "minor": 5021,
+    "major": 5022,
+    "minor": 5022,
     "patch": 84
   }
 }
