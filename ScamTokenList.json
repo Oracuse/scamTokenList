@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87E6cBcb7c8cf888c308648b5454A47f86BB6466",
-      "symbol": "CRYPTONIGHT",
-      "name": "Cryptonight",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x07F755e2dB2Ac340EAdE0E4990eb077d4E8c1C54",
       "symbol": "CT",
       "name": "Cryptotonight",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40aFeD728517BbeCB3B35C7641A3229d76f8e603",
+      "symbol": "AC",
+      "name": "AnonymousChain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5006,
-    "minor": 5006,
+    "major": 5007,
+    "minor": 5007,
     "patch": 84
   }
 }
