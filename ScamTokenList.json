@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7f63908C962A0455b5E08560F5529726AC82a59F",
-      "symbol": "SHIBALLER",
-      "name": "ShiballerMetaverse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x31CE3D340a271143DFF30b917242C9B05B573267",
       "symbol": "GHOST",
       "name": "GHOST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Ca1936782D7Eb246ce0aF576985508A8bebA992",
+      "symbol": "BOGUS",
+      "name": "BogusToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4968,
-    "minor": 4968,
+    "major": 4969,
+    "minor": 4969,
     "patch": 84
   }
 }
