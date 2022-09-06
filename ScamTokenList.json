@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5dDe7B078aabD9e23C465e6E3C7ce86603F14ac0",
-      "symbol": "BOINKS",
-      "name": "BoinksToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb29eDfF8345b9d8039d8B9471C027D6e458a3C02",
       "symbol": "OOO",
       "name": "Fluid",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0666A96D26AFEB71093E77F458EF45abd665153",
+      "symbol": "LUNCHAIN",
+      "name": "LunaClassicChain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5001,
-    "minor": 5001,
+    "major": 5002,
+    "minor": 5002,
     "patch": 84
   }
 }
