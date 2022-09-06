@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x274d387936298FCA334D8aE66E29EB2B8B91f32E",
-      "symbol": "PONZI",
-      "name": "Ponzi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1a1341ECD3e6c12244849a1668ED5d05d7117A51",
       "symbol": "NARA",
       "name": "NaraInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5ca5ecF2a544912FD549e726e772D9Cf78b4faB1",
+      "symbol": "CATE",
+      "name": "Catecoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4941,
-    "minor": 4941,
+    "major": 4942,
+    "minor": 4942,
     "patch": 84
   }
 }
