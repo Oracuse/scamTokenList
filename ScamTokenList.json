@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe49e66382F460E47E296E1c267627Ce6c0Fa3DCF",
-      "symbol": "NEO",
-      "name": "tmeneopolistoken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8ae7B8F28E2177f4c68478357A6FE62A6172a8d8",
       "symbol": "WCD",
       "name": "WcDonalds",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa518Da976484C38C84bFaEC7762f98f2f2E58088",
+      "symbol": "BOGUS",
+      "name": "BogusToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4976,
-    "minor": 4976,
+    "major": 4977,
+    "minor": 4977,
     "patch": 84
   }
 }
