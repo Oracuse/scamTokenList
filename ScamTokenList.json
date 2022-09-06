@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf3c8a0AFcd282d8A678e39fEdD5b0091930a531f",
-      "symbol": "ATOMS",
-      "name": "ATOMS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9fC7F51a0edB032466b0F3a1CE2c18Cf0ea71eB0",
       "symbol": "CASUAL",
       "name": "CasualToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0000002596d937FE848B63f2AD3aAC9D45DE5f34",
+      "symbol": "SHINPI",
+      "name": "Shinpi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5040,
-    "minor": 5040,
+    "major": 5041,
+    "minor": 5041,
     "patch": 84
   }
 }
