@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc6e2ECB0aA36EbAB3bAfDA9A63361DF62283a6A9",
-      "symbol": "WEB4",
-      "name": "web4",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x373a7c3ad2D432474670616fC7958A5d2688CB9C",
       "symbol": "SHIN",
       "name": "SHINTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ece0CFfC5Ea2F678ef839061BbAD8Ba9e0CF6Cc",
+      "symbol": "VOLTCHAIN",
+      "name": "VoltChain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5003,
-    "minor": 5003,
+    "major": 5004,
+    "minor": 5004,
     "patch": 84
   }
 }
