@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x84058686fC687b60A8a06D3DE81A175571eeB3e2",
-      "symbol": "TEST112",
-      "name": "test112",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD04EB67199A641884c2bd985a4B9dc474534722f",
       "symbol": "VOLTAMA",
       "name": "VoltamaDao",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF8D020424efCeC0703877981A8b45bFb8E802db1",
+      "symbol": "CAT",
+      "name": "KittyChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4973,
-    "minor": 4973,
+    "major": 4974,
+    "minor": 4974,
     "patch": 84
   }
 }
