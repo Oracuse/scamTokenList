@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x06561098b12d2FAe5A6A420E07E1fC71C982c9E4",
-      "symbol": "BARTERDAO",
-      "name": "BarterDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAF4E577ccB4524C47C68b385DdC316D6c7A55D47",
       "symbol": "IAM",
       "name": "ShaddaiToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0Aa600A463E785792c551A11Eb5A06b037aD140",
+      "symbol": "METADRIFT",
+      "name": "MetadriftToken",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 4935,
-    "minor": 4935,
+    "major": 4936,
+    "minor": 4936,
     "patch": 84
   }
 }
