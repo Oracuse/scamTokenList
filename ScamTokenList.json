@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x868e51725DcDAdca5ab80a8e1774721CE7B576dD",
-      "symbol": "VAULT",
-      "name": "VAULT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB9a5b5AF7C7bb7141541c5B84D090C2211782e1a",
       "symbol": "BEARWITHME",
       "name": "BearWithMe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D097080d5813BFfC5b7c8E20B3B8D524B032e90",
+      "symbol": "TSUJI",
+      "name": "Tsujiri",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5060,
-    "minor": 5060,
+    "major": 5061,
+    "minor": 5061,
     "patch": 84
   }
 }
