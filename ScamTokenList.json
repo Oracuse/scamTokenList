@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x920fEE828d5Cc95b81c80d1FF125B6B15B40cD5C",
-      "symbol": "3AC",
-      "name": "3ACINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75F274eA14C058296F847f2a4921bA27e79d5F7b",
       "symbol": "MARIOY",
       "name": "MarioInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5DB00Fa3c3e525e774129444418ee2E98EbF53d9",
+      "symbol": "BELLATRIX",
+      "name": "Bellatrix",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5020,
-    "minor": 5020,
+    "major": 5021,
+    "minor": 5021,
     "patch": 84
   }
 }
