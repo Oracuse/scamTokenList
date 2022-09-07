@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x12d53e4dBf6F80b7A415bE6a745b397973be06b3",
-      "symbol": "EXP",
-      "name": "TheExperiment",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9C69f99eF85bbC279329a67Ac856e28942aBaEf9",
       "symbol": "GOBLIN",
       "name": "Goblin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ecD9cf7A1b2405AC43567c51f426eBEDBa6F73b",
+      "symbol": "INVISIBLE",
+      "name": "InvisibleHand",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5121,
-    "minor": 5121,
+    "major": 5122,
+    "minor": 5122,
     "patch": 84
   }
 }
