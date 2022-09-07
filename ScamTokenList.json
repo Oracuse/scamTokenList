@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA2585FF242a5BaA2346b2ac28f52B8f38aE32FFc",
-      "symbol": "SC",
-      "name": "ShitCapitalDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4f5fc4b633Ce19EDe262084520f1Ef831674A849",
       "symbol": "SHIBAR",
       "name": "Shibarium",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb907558Fd6468B8C383D2E534c18D14814360da4",
+      "symbol": "WAGMI",
+      "name": "Wagmi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5099,
-    "minor": 5099,
+    "major": 5100,
+    "minor": 5100,
     "patch": 84
   }
 }
