@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD32dCB7D642C53daf5E7b04731c4805665D36B30",
-      "symbol": "GBEL",
-      "name": "GigaBerlin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFE6d643fF8AE88d50dc06913Ed959B9ce7b2BfcB",
       "symbol": "METAH",
       "name": "Metahorse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81a459c9f94D60019adC9D370d6A06f7E4e324Fa",
+      "symbol": "TOSHI",
+      "name": "GhostOfRyoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5149,
-    "minor": 5149,
+    "major": 5150,
+    "minor": 5150,
     "patch": 84
   }
 }
