@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9C1E8071DA7aC1477f7B9e4F02Bcdaa9CC1C44f5",
-      "symbol": "CT",
-      "name": "CoinTelegraph",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcc73fdC21eF2EdF90916F650f6324baBA858d8fE",
       "symbol": "KELON",
       "name": "KingElon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Cb3C6B8a0156E02770095F15e878Eeb45BA592e",
+      "symbol": "FANNYINU",
+      "name": "FannyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5097,
-    "minor": 5097,
+    "major": 5098,
+    "minor": 5098,
     "patch": 84
   }
 }
