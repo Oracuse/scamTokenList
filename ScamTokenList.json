@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1e52FcA421B3139fb05F5D12A592eDAb4A25835d",
-      "symbol": "PURGE",
-      "name": "GreatPurge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbD030D7c1c643E8219EB96b0d661f606E1B45F87",
       "symbol": "DOOM",
       "name": "CrashingTime",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9323F26C8458819E5847B562656A5d1e3eE0C31A",
+      "symbol": "SUDOKU",
+      "name": "Sudoku",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5077,
-    "minor": 5077,
+    "major": 5078,
+    "minor": 5078,
     "patch": 84
   }
 }
