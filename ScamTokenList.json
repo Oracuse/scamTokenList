@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB4fc91ecEf6d111be041fF682896319BF0DE587C",
-      "symbol": "FLIP",
-      "name": "FLIP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x362e6A9aDF21d6117301713bAF16A0DeC7E912D1",
       "symbol": "DUCKER",
       "name": "DuckerToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6C80Ac71AFd8c358DAFd47439758C9dADe279f03",
+      "symbol": "HEXCHAIN",
+      "name": "HexCHAIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5131,
-    "minor": 5131,
+    "major": 5132,
+    "minor": 5132,
     "patch": 84
   }
 }
