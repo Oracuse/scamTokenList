@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5a021D99da1336cA648cCeFe44768b02f10B069D",
-      "symbol": "SATOSHI",
-      "name": "SATOSHINEVERDIE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7Fec1d170D899A70d68A474C0561acB8922410E1",
       "symbol": "BOUNCE",
       "name": "BounceProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE210c2F35256515884701A0194626FdF60139D2b",
+      "symbol": "SYCAMORE",
+      "name": "sycamore",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5079,
-    "minor": 5079,
+    "major": 5080,
+    "minor": 5080,
     "patch": 84
   }
 }
