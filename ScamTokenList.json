@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC218bb2e15cc4d39A2861EF6C99F89E3B533aDA7",
-      "symbol": "DEV",
-      "name": "devto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA76097371B96d8F8c1F77ff158818D73B212324D",
       "symbol": "ETHAVEN",
       "name": "ETHHAVEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ef6E96E6a55eF8Bcc45F6275a6DabA43fFd8Adc",
+      "symbol": "AGONY",
+      "name": "Kurushimi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5155,
-    "minor": 5155,
+    "major": 5156,
+    "minor": 5156,
     "patch": 84
   }
 }
