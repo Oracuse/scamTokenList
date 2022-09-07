@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE0D7d6803a8997335782f9bCba57e013c805b808",
-      "symbol": "PBULL",
-      "name": "PumpBull",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDCEa19DdE3eed23Cc6a29beaed8FCb16205bbdb4",
       "symbol": "ISLAND",
       "name": "IslandToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22ECF840eE508Cb5560B9BFF5e81534C40A408a8",
+      "symbol": "HEXINU",
+      "name": "HexInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5127,
-    "minor": 5127,
+    "major": 5128,
+    "minor": 5128,
     "patch": 84
   }
 }
