@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa673f277297BC33ECd1F3b9b9A95F4EeA51100dF",
-      "symbol": "CPEARL",
-      "name": "CommunityOnePearl",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd10E1b9d3bEAB23BA712Fc1b1e5435D9d5fA5cf8",
       "symbol": "DRAKEINU",
       "name": "DrakeInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ad5b84588bcBde84Eff7763F7B570Fe37134dB9",
+      "symbol": "TINU",
+      "name": "TruthInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5066,
-    "minor": 5066,
+    "major": 5067,
+    "minor": 5067,
     "patch": 84
   }
 }
