@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x041da43973AFec3ebF5F99cE37e25cf67AB3E977",
-      "symbol": "IDGAF",
-      "name": "IDONTGIVEAFUCK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa60204255f2d409ad619D2739F48aFaEe40f5098",
       "symbol": "ALPHA",
       "name": "Alpha",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x720eb0816F12846A33EAb9D23c3A9dF6E67b19CD",
+      "symbol": "UNO",
+      "name": "Unowned",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5105,
-    "minor": 5105,
+    "major": 5106,
+    "minor": 5106,
     "patch": 84
   }
 }
