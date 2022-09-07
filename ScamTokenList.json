@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x362e6A9aDF21d6117301713bAF16A0DeC7E912D1",
-      "symbol": "DUCKER",
-      "name": "DuckerToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8a91D3Cff6b85Bc4EEBAB2938650edC55272b0b0",
       "symbol": "VAN",
       "name": "Vanderbool",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33Ae84f036BDCbeD91eb4cb102413BC0dc2D6443",
+      "symbol": "HANAGUMI",
+      "name": "Hanagumi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5132,
-    "minor": 5132,
+    "major": 5133,
+    "minor": 5133,
     "patch": 84
   }
 }
