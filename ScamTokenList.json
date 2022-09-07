@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x12345B87d0fFf838cc0662591255e11f9aD029a0",
-      "symbol": "BIRTH",
-      "name": "ANewWorld",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4D5a9a01FE8626B175c3Dfa84A54049a213D5458",
       "symbol": "RVRS",
       "name": "ReversalInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb276bF2c9298687429cAa62ad1A977c2804E927a",
+      "symbol": "FUXI",
+      "name": "FuxiChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5095,
-    "minor": 5095,
+    "major": 5096,
+    "minor": 5096,
     "patch": 84
   }
 }
