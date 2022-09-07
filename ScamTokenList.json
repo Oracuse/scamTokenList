@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF999AB1921a25C7c179f5Bb0FFFfEAfBfB229f36",
-      "symbol": "DOCA",
-      "name": "DogeCapital",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1e52FcA421B3139fb05F5D12A592eDAb4A25835d",
       "symbol": "PURGE",
       "name": "GreatPurge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCbb64D75d3C55A3558Dc3fbF86e68D88e5117Cc7",
+      "symbol": "CHIHUAHUA",
+      "name": "Chihuahua",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5076,
-    "minor": 5076,
+    "major": 5077,
+    "minor": 5077,
     "patch": 84
   }
 }
