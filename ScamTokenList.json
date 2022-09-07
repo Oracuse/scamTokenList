@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcB49a82fC35D99029E2b15778Ea9A1b878329455",
-      "symbol": "CAVE",
-      "name": "BearCaveDeFi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x27F2663EAE17952D9A02B6B5c218092abdF3AE64",
       "symbol": "TUT",
       "name": "TheUndergroundTomb",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37287B7F6FE995466Db0b37430a78852841cb823",
+      "symbol": "KEIKOCHI",
+      "name": "KeikochiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5162,
-    "minor": 5162,
+    "major": 5163,
+    "minor": 5163,
     "patch": 84
   }
 }
