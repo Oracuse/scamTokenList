@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4967c27269BdeA4Ab12eC1a26045F8DfCf1047BC",
-      "symbol": "SWIFT",
-      "name": "Swift",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6312bEAe52B18a891BF17eFAf814A22Db594FA30",
       "symbol": "USA",
       "name": "USA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1163169279B53a279E86EBc1FCFc4e84C0aE8634",
+      "symbol": "HIRA",
+      "name": "Hiraeth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5249,
-    "minor": 5249,
+    "major": 5250,
+    "minor": 5250,
     "patch": 84
   }
 }
