@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8eBfcdcc96bdF37B049183355a7543669d907DC1",
-      "symbol": "TWOGE",
-      "name": "TwogeInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd06e9B4E206239522905c2B558118eeF8179B1ea",
       "symbol": "AIKUCHI",
       "name": "AIKUCHIPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52412D82FFb4a54dE7986C86b841F84dCFAEC510",
+      "symbol": "LAUNCAO",
+      "name": "LauncaoToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5307,
-    "minor": 5307,
+    "major": 5308,
+    "minor": 5308,
     "patch": 84
   }
 }
