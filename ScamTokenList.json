@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x44F2d0A61cC1d08d2FD7b89dfb6fae2f8305840E",
-      "symbol": "DOGE20",
-      "name": "DOGE20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7C209D31FC7fb0e88ABc45bA0fDE2E2E9d7E439c",
       "symbol": "DOGE20",
       "name": "Dogecoin20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x325cD117FF1a487d7ccF9511AAd4c612163Eb024",
+      "symbol": "HAPPY",
+      "name": "HappyCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5168,
-    "minor": 5168,
+    "major": 5169,
+    "minor": 5169,
     "patch": 84
   }
 }
