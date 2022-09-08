@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8de5EeCC03C799FcbE2798ed5cb561f0D0aCd4b8",
-      "symbol": "PUNKYBOY",
-      "name": "PunkyBoy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD4826935B62058C60b161dE5f6B914dc4283baCf",
       "symbol": "BURNAZUKI",
       "name": "BURNAZUKI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62FB033E620B75BFaC4724fd9BAEBD52869B1Da5",
+      "symbol": "AIRS",
+      "name": "AirSwapV3",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5226,
-    "minor": 5226,
+    "major": 5227,
+    "minor": 5227,
     "patch": 84
   }
 }
