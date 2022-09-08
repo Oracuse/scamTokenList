@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcba4B6310FfF6305797ceCD44D915d55D05BbeD8",
-      "symbol": "BINU",
-      "name": "BalancerInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7dBcea0ADC86B98219c54Ce9473b9aC340A63756",
       "symbol": "NUKY",
       "name": "NukyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x296093573cFdfF669F99FEfB8Db523A460D9A22C",
+      "symbol": "LBR",
+      "name": "LoopRingBridge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5193,
-    "minor": 5193,
+    "major": 5194,
+    "minor": 5194,
     "patch": 84
   }
 }
