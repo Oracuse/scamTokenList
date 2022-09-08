@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD3be7Ac39E57F5ED83825093317FD4432027dB79",
-      "symbol": "CULT20",
-      "name": "CULT20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd83C1C44BA612a2bB3688aA626b2A6470e4a4aC7",
       "symbol": "SHIB20",
       "name": "SHIBA20INU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d635Fb86102a353FaA74D5a30cBe90De5Cbdc76",
+      "symbol": "HATSU",
+      "name": "KashikoHatsu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5209,
-    "minor": 5209,
+    "major": 5210,
+    "minor": 5210,
     "patch": 84
   }
 }
