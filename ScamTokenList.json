@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51BDE723D5cF0ce453870Ab8e0Faa17E228adF1b",
-      "symbol": "AQS",
-      "name": "Aquasis",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa3Ff6bfD6D64db4bbb31d7a963d3D16624ad6529",
       "symbol": "711",
       "name": "711",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x183ae4Aa93EAce66E4D7510313Cb4D431e6b676b",
+      "symbol": "UNO",
+      "name": "Unowned",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5282,
-    "minor": 5282,
+    "major": 5283,
+    "minor": 5283,
     "patch": 84
   }
 }
