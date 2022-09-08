@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD66A39c92A72d33803cB54dF775c9a63FfFb10f5",
-      "symbol": "TEST",
-      "name": "Test",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x081b73416eb651c9ca20690969d70F35D11704DC",
       "symbol": "CATETH",
       "name": "CATETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4427B420486D8d5D1660A887bBb3554581385B9",
+      "symbol": "HEXPUNKS",
+      "name": "HexPunks",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 5180,
-    "minor": 5180,
+    "major": 5181,
+    "minor": 5181,
     "patch": 84
   }
 }
