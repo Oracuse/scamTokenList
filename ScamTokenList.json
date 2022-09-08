@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd83C1C44BA612a2bB3688aA626b2A6470e4a4aC7",
-      "symbol": "SHIB20",
-      "name": "SHIBA20INU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6194FfceBc2B091DAC598455F3662B7BD9470e15",
       "symbol": "RKFL",
       "name": "RocketFuel",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4e000FE971e2d9E962F8737b834AfDE8257e10a",
+      "symbol": "RAGNAROK",
+      "name": "Ragnarok",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5210,
-    "minor": 5210,
+    "major": 5211,
+    "minor": 5211,
     "patch": 84
   }
 }
