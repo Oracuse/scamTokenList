@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17Ebd32c6a898f46957b50c66e92979e5bCe7761",
-      "symbol": "SORA",
-      "name": "SoraZuki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x287C715c55C73CcDaD2C3764Fdf1a59062e24e5b",
       "symbol": "SHIR20",
       "name": "Shiryo20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x378C964e5c04e72d102D6d875524732A10607Aee",
+      "symbol": "CHAUFFAGE",
+      "name": "BoisDeChauffage",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5240,
-    "minor": 5240,
+    "major": 5241,
+    "minor": 5241,
     "patch": 84
   }
 }
