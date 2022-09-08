@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x31CdA2C4796A44906577BF3171359f17AA9aee87",
-      "symbol": "BETA",
-      "name": "beta",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17Ebd32c6a898f46957b50c66e92979e5bCe7761",
       "symbol": "SORA",
       "name": "SoraZuki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14d23957d81f41750c7B4845B0897c3c802Cb313",
+      "symbol": "FLOKIFUND",
+      "name": "FlokiFund",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5239,
-    "minor": 5239,
+    "major": 5240,
+    "minor": 5240,
     "patch": 84
   }
 }
