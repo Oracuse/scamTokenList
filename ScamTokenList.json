@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcE1b2780F15eC6A2bEda0D5f48D5Ec66C2B32113",
-      "symbol": "HODL",
-      "name": "HODL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcba4B6310FfF6305797ceCD44D915d55D05BbeD8",
       "symbol": "BINU",
       "name": "BalancerInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc68A4C68F17fed266A5e39e7140650acAdfE78F8",
+      "symbol": "RUNE",
+      "name": "Runestone",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5192,
-    "minor": 5192,
+    "major": 5193,
+    "minor": 5193,
     "patch": 84
   }
 }
