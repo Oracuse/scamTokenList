@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7C209D31FC7fb0e88ABc45bA0fDE2E2E9d7E439c",
-      "symbol": "DOGE20",
-      "name": "Dogecoin20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x323532D6a445A4d3Ea409f8cE906f8d4E4168c20",
       "symbol": "PIXIU",
       "name": "Pixiu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76c211e6f5E752d5feE18eFD90a9E628C6Ad4Bc7",
+      "symbol": "AINZ",
+      "name": "AinzInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5169,
-    "minor": 5169,
+    "major": 5170,
+    "minor": 5170,
     "patch": 84
   }
 }
