@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD320eaC7Ee2B01d8cc8c9D00023Bf50f49DCB7C5",
-      "symbol": "BBR",
-      "name": "BuybackBurnRepeat",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x02f86B6103CE8D623EE15006B8ba1f63BecC5ed6",
       "symbol": "KINU",
       "name": "KomachiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b0e8d9F1BAb23834C9D7575f9772AB3Fdc9762e",
+      "symbol": "KASUGAMI",
+      "name": "KasugamiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5312,
-    "minor": 5312,
+    "major": 5313,
+    "minor": 5313,
     "patch": 84
   }
 }
