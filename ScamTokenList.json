@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7518Ff54f1Ac73F82B58c49090353cdEd0A33E62",
-      "symbol": "SHIBA20",
-      "name": "SHIBA20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4952952874363Eb7DDD35A5e0c6D2910b79482f3",
       "symbol": "BTC20",
       "name": "BTC20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBF579FDBb87749DE344F2E9BCa0351516D974A5C",
+      "symbol": "H3X",
+      "name": "CRYPTONYM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5200,
-    "minor": 5200,
+    "major": 5201,
+    "minor": 5201,
     "patch": 84
   }
 }
