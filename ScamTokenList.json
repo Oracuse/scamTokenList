@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbf1B0f204FF4f1a63A04f27AF6Ce6071E08AD535",
-      "symbol": "FLOKI2",
-      "name": "FLOKI20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5928470F0747a0DB496E0788D57F06a28b338e82",
       "symbol": "DBUY2",
       "name": "doontBUY20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1dB51547a20a2A2911b698C6792392a1d22dac8",
+      "symbol": "KAHUNA",
+      "name": "KahunaToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5389,
-    "minor": 5389,
+    "major": 5390,
+    "minor": 5390,
     "patch": 84
   }
 }
