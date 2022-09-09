@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x27Bc2757fAb0b8aB406016D1f71d8123452095d3",
-      "symbol": "TROGE",
-      "name": "Troge",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA6fec6B5b068BD0f0D70009364b630394f77C366",
       "symbol": "VRTX",
       "name": "Vortex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91DE150C1F79530aa2DB2d1834Ba0a62F1f214ba",
+      "symbol": "RVNR",
+      "name": "RVN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5350,
-    "minor": 5350,
+    "major": 5351,
+    "minor": 5351,
     "patch": 84
   }
 }
