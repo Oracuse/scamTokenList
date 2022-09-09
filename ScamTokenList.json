@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9cFF8780ABaDc6285385E959A8b86B902ba855AE",
-      "symbol": "VOYAGER",
-      "name": "Voyager",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x78656001B1aEC4fe5d21Fc86ED00Bba83d9c06cB",
       "symbol": "POOLIN",
       "name": "PoolinDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaDc5598c691f42cF95b53fa8456fcC2754C5b06A",
+      "symbol": "KAKAROT",
+      "name": "KakarotInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5404,
-    "minor": 5404,
+    "major": 5405,
+    "minor": 5405,
     "patch": 84
   }
 }
