@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA9aBe513B42C37b77Fd6E69382a047dD45D1B7aa",
-      "symbol": "BTCC",
-      "name": "BitcoinClassic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7518e87f4b890ac13927E1dE5e4ab430eDF6C1Ca",
       "symbol": "BIT",
       "name": "BITDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x851Ef0429CCCd829C3Cb369629deDf8f49E59c1E",
+      "symbol": "KINGAPE",
+      "name": "KingAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5441,
-    "minor": 5441,
+    "major": 5442,
+    "minor": 5442,
     "patch": 84
   }
 }
