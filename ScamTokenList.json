@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5Fc167a99386d5B4cD26a06848521663Bbd9E497",
-      "symbol": "SFMC",
-      "name": "SafemoonClassic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x304dFdAe132A7778d90133d7013D79bb9E6E2b9d",
       "symbol": "SHINC",
       "name": "ShinjiClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3DDB0f5A4f4Ff90c78F2fbD602ec159125DB8D2",
+      "symbol": "KG",
+      "name": "KingGoku",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5432,
-    "minor": 5432,
+    "major": 5433,
+    "minor": 5433,
     "patch": 84
   }
 }
