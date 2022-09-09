@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x111A982A7957D8eEf76EBdAA5AE1A355Be4cDBf0",
-      "symbol": "NAME",
-      "name": "NAME",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84FA8f52E437Ac04107EC1768764B2b39287CB3e",
       "symbol": "GVR",
       "name": "GroveToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB253f03Ad75b44CCe8Ca1f4f3CecFeBdd3c96E8A",
+      "symbol": "SHIBOKI",
+      "name": "Shiboki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 5334,
-    "minor": 5334,
+    "major": 5335,
+    "minor": 5335,
     "patch": 84
   }
 }
