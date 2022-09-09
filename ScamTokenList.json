@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF070B4ecAFc6D6694C864ef7903cF7E96b36Bf8a",
-      "symbol": "AKC",
-      "name": "AKITAClassic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5370a8dC874c3227F5Ce6B7925bdfe3b2b016c14",
       "symbol": "CLAINU",
       "name": "InuClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x278d8a7092FC16BaE4B421386b1b22B98741FDe0",
+      "symbol": "FLOKINATOR",
+      "name": "Flokinator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5374,
-    "minor": 5374,
+    "major": 5375,
+    "minor": 5375,
     "patch": 84
   }
 }
