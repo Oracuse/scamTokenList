@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1A6600eAC15Dd78E782607006cC6f722487a3a68",
-      "symbol": "SBI",
-      "name": "StepOnABeeInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49b89487ceC64A8F29D8Ba580b17c5e9BB6AC7Da",
       "symbol": "WEAPON20",
       "name": "Megaweapon20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c5d0805cA39E0ABe4d2503015116C91D5Feb4c1",
+      "symbol": "LIQUIDITY",
+      "name": "LiquidityDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5339,
-    "minor": 5339,
+    "major": 5340,
+    "minor": 5340,
     "patch": 84
   }
 }
