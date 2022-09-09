@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x578C9480966a9c27186CFB8eFF2DcA88E9fdA2a4",
-      "symbol": "ABTN",
-      "name": "AbortionToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf877CA0Db514dAb34aEbc247C51a93775dA954eC",
       "symbol": "FUGU",
       "name": "Fugu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc94AE40C86859a2B4F10fb3696B7e0437B076411",
+      "symbol": "HARAKIRI",
+      "name": "Seppuku",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5428,
-    "minor": 5428,
+    "major": 5429,
+    "minor": 5429,
     "patch": 84
   }
 }
