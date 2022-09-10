@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x076dd1aFe6FdD7f58d4BD337871721Bd11c5710c",
-      "symbol": "DOGEC",
-      "name": "DogeClassic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7AE4155B31a8916e962a933A3c75551E18B85c75",
       "symbol": "FANG",
       "name": "FangToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8177cA9727F1F43d228584842791901BB3641D2",
+      "symbol": "MS101",
+      "name": "MaterialScience101",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5448,
-    "minor": 5448,
+    "major": 5449,
+    "minor": 5449,
     "patch": 84
   }
 }
