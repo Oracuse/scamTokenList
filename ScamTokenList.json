@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9614e2fC68899C686E1B4F2B5853CA95E9EdecDF",
-      "symbol": "XRPCLASSIC",
-      "name": "XRPClassic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB3b92eA89482129cC331ec9Ef0fF2b91f4BcF291",
       "symbol": "DDUMP",
       "name": "DDumpter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F500731A40f12aE78D23D9dfA9e3F62F97e3BC2",
+      "symbol": "LIQUIDITY",
+      "name": "LiquidityDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5495,
-    "minor": 5495,
+    "major": 5496,
+    "minor": 5496,
     "patch": 84
   }
 }
