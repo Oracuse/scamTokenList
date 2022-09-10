@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA56B3E06cAaDC0B3A7506E660e7A2745b0CCA83B",
-      "symbol": "CAWC",
-      "name": "CAWClassic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04911799D4025465bFF17412E83151626bd69765",
       "symbol": "GMR",
       "name": "GoodMorningReloaded",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3CaD00e830ee01ab4819B013AE595A981bf69f02",
+      "symbol": "PEPE",
+      "name": "PepeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5529,
-    "minor": 5529,
+    "major": 5530,
+    "minor": 5530,
     "patch": 84
   }
 }
