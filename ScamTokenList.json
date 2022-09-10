@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x69270CFC7165409e6a92658820Ee9631f87008D9",
-      "symbol": "USDCC",
-      "name": "USDCClassic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2Ea47Cb8BA49c7F91737ffD2593a1C211b106df9",
       "symbol": "DHAND",
       "name": "DiamondHandInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEd59561f64D3e5FE4407E3E01859c31Ff59fc296",
+      "symbol": "MHIVE",
+      "name": "MoonHive",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5541,
-    "minor": 5541,
+    "major": 5542,
+    "minor": 5542,
     "patch": 84
   }
 }
