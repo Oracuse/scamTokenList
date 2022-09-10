@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5dA0FF05E34ef8B4E69cD6c028Da557dcF135e81",
-      "symbol": "CLAMBO",
-      "name": "ClassicLambo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7B45aD4325805BB82dc4B73cE68B43387aD54bF0",
       "symbol": "DOGGERC",
       "name": "DoggerClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3c4097da769Eb3935B83d77b2AAb61D6a1f50E43",
+      "symbol": "SAKUYA",
+      "name": "KonohanaSakuya",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5498,
-    "minor": 5498,
+    "major": 5499,
+    "minor": 5499,
     "patch": 84
   }
 }
