@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x10c1917Be30Ce67123C3c222ea4D701b8c4fDdC7",
-      "symbol": "BOT",
-      "name": "BotInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7B59019a773e8a5A7935DED175079be01c86B4C3",
       "symbol": "HOKKR",
       "name": "HokkaidoReloaded",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfb5Cef7E35298f47101d2bA81772fF9Bfe9CbB70",
+      "symbol": "404",
+      "name": "ERROR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5543,
-    "minor": 5543,
+    "major": 5544,
+    "minor": 5544,
     "patch": 84
   }
 }
