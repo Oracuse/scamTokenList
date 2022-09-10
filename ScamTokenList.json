@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd83ed3b2FdE8A6794a46264eD723E4931DB639B6",
-      "symbol": "REDOGE",
-      "name": "ReemergentDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF3096453e2500061364CEF1E3bC2E65f564CcAD0",
       "symbol": "ETHC",
       "name": "ETHCLASSIC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x461B71cff4d4334BbA09489acE4b5Dc1A1813445",
+      "symbol": "HRD",
+      "name": "Hoard",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5554,
-    "minor": 5554,
+    "major": 5555,
+    "minor": 5555,
     "patch": 84
   }
 }
