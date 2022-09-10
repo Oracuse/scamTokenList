@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8CaD5334a438E5ac603EDCFC4a3D71f45663F2ED",
-      "symbol": "RCSN",
-      "name": "Recession",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3Dd64863A9381715a66DfB76b7059698b841Ff5e",
       "symbol": "BIYC",
       "name": "BoredInuYachtClub",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD43a50a45a7348d7A9bB0372fa34D9f4fc04879c",
+      "symbol": "HEXBEAR",
+      "name": "HexBear",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5469,
-    "minor": 5469,
+    "major": 5470,
+    "minor": 5470,
     "patch": 84
   }
 }
