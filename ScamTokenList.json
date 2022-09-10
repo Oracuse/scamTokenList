@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2003045c63eF59c02029Fe97b0dB059bf5f69934",
-      "symbol": "BAYCLASSIC",
-      "name": "BoredApeYachtClassi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x076dd1aFe6FdD7f58d4BD337871721Bd11c5710c",
       "symbol": "DOGEC",
       "name": "DogeClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x455dFb460e79C4b4179068f9EdE81E8FF240382a",
+      "symbol": "BAB",
+      "name": "BABToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5447,
-    "minor": 5447,
+    "major": 5448,
+    "minor": 5448,
     "patch": 84
   }
 }
