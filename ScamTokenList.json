@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7C23220BA5D59dE870Eb169daEBB51eAEDfabc25",
-      "symbol": "KIBAC",
-      "name": "KibaClassic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA56B3E06cAaDC0B3A7506E660e7A2745b0CCA83B",
       "symbol": "CAWC",
       "name": "CAWClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D0f469d76c6C02464B37733Ff6B500b9897a854",
+      "symbol": "VALVE",
+      "name": "Valve",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5528,
-    "minor": 5528,
+    "major": 5529,
+    "minor": 5529,
     "patch": 84
   }
 }
