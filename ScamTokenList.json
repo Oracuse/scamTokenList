@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc78b8A3e1804C9f97a62c651c45A675EC966C324",
-      "symbol": "UDC",
-      "name": "UnstableDollarCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x48e40066eB117d6E8D135564ae7b098a1137B38E",
       "symbol": "SHIGOKU",
       "name": "ShigokuInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5156926bc732cE7e7129d6f96Da87d9b366F357B",
+      "symbol": "WAR",
+      "name": "WeAreRyoshi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5649,
-    "minor": 5649,
+    "major": 5650,
+    "minor": 5650,
     "patch": 84
   }
 }
