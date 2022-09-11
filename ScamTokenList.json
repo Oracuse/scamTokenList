@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8Ff1155D1B1EE34a1117164e5bF5e521ad7Cb7D6",
-      "symbol": "DEFCON5",
-      "name": "Defcon5",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5B16f7cD84384b20e6810aAEfE42f195457D4C08",
       "symbol": "JUICE",
       "name": "ApeJuice",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xACB2FdB0c24abf93247dC16b92f1923919F8e0Ff",
+      "symbol": "TOILET",
+      "name": "RyoshisToilet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5671,
-    "minor": 5671,
+    "major": 5672,
+    "minor": 5672,
     "patch": 84
   }
 }
