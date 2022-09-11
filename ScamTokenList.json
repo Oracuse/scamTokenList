@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x86ae636fC0281dc182A1A96E9471d776Ff93544d",
-      "symbol": "DOTC",
-      "name": "POLKADOTCLASSIC",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2Ec34A1f08faD9B90D8a0D97acD72561FAF8ba8C",
       "symbol": "MONONOKEC",
       "name": "MononokeClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfDA516AC59085a50ae12C020305BeF1Ed2665168",
+      "symbol": "DIF",
+      "name": "Diffusion",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5617,
-    "minor": 5617,
+    "major": 5618,
+    "minor": 5618,
     "patch": 84
   }
 }
