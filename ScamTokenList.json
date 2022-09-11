@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe4eFa92D82CA6c121E0006f8E8D880f7Bc854a4d",
-      "symbol": "MAFIA",
-      "name": "MAFIAToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC7056A7ECe9Bb514930745aE7c43529E4DC6Fdb3",
       "symbol": "CCT",
       "name": "ClassicCryptoToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdD9672Dd70f8063b0e2D305901939fA102316D05",
+      "symbol": "NEPH",
+      "name": "Nephthys",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5562,
-    "minor": 5562,
+    "major": 5563,
+    "minor": 5563,
     "patch": 84
   }
 }
