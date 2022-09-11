@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0314bbfd428c53216c956011DAF876A35d782988",
-      "symbol": "ANTICLASSIC",
-      "name": "AntiClassic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x56123908ACA89bf60cE9659aE9F4589E46c8D2cF",
       "symbol": "XMU",
       "name": "Mushe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb7E5d6D543B914E6C0833D24006ebdae6dB98c6",
+      "symbol": "GAGE",
+      "name": "tehGoldenAge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5660,
-    "minor": 5660,
+    "major": 5661,
+    "minor": 5661,
     "patch": 84
   }
 }
