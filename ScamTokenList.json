@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9B113dE74421787EA0c6D1a52475b36dAE3fa1Fd",
-      "symbol": "SHET",
-      "name": "SHITEREUM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x86ae636fC0281dc182A1A96E9471d776Ff93544d",
       "symbol": "DOTC",
       "name": "POLKADOTCLASSIC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B214B9a6A237D31E74845F688398CF981639443",
+      "symbol": "NOBODY",
+      "name": "ProfNobody",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5616,
-    "minor": 5616,
+    "major": 5617,
+    "minor": 5617,
     "patch": 84
   }
 }
