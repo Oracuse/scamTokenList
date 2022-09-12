@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc2a9115650b6479e6CF0220C68360a5Ee803eb5D",
-      "symbol": "TONK",
-      "name": "TonkineseNeko",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x63A04a1e45233e0B7cb24E4C2D0EBAC8647aac09",
       "symbol": "ARCH",
       "name": "ArcherProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7045ee46ab12A2069A99747903FC6459e3bC0022",
+      "symbol": "CONNECTIVE",
+      "name": "Connective",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5709,
-    "minor": 5709,
+    "major": 5710,
+    "minor": 5710,
     "patch": 84
   }
 }
