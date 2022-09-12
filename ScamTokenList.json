@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x824d6B887775b2961f4c69A4718202Ce6BF9865a",
-      "symbol": "WOJAK",
-      "name": "MRANDMRSWOJAK",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD559F1101952D71Cd3128A17CD9fFCd78edA30Dd",
       "symbol": "COMPOUND",
       "name": "Compound",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb872a0cBF9e19E73F6Ec2E9C514e499CA93484be",
+      "symbol": "SHINKO",
+      "name": "Shinko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5749,
-    "minor": 5749,
+    "major": 5750,
+    "minor": 5750,
     "patch": 84
   }
 }
