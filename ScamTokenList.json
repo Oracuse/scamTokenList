@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x111f86b56cB5B5EdD44D469eB9012EDB7E889eFd",
-      "symbol": "TRIANGLE",
-      "name": "Triangle",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1e57a4FDa8Ba7AC7337AB59406a5969a9b4D3554",
       "symbol": "NOBS",
       "name": "NOBSClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0472094c081C2FD0d6d052b62798CA25f80f961f",
+      "symbol": "SURU",
+      "name": "MeisoSuru",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5764,
-    "minor": 5764,
+    "major": 5765,
+    "minor": 5765,
     "patch": 84
   }
 }
