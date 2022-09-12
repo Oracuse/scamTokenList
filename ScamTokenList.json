@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17B99FD04b4D5A84EA26A54Bbf4d1eabbF446620",
-      "symbol": "LRI",
-      "name": "LabradorRetrieverIn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc2a9115650b6479e6CF0220C68360a5Ee803eb5D",
       "symbol": "TONK",
       "name": "TonkineseNeko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1510D5c5D906fb74D635d2c1892EB87A17a87B79",
+      "symbol": "THREADS",
+      "name": "Kizuna",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5708,
-    "minor": 5708,
+    "major": 5709,
+    "minor": 5709,
     "patch": 84
   }
 }
