@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD559F1101952D71Cd3128A17CD9fFCd78edA30Dd",
-      "symbol": "COMPOUND",
-      "name": "Compound",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd2a18B87f60f8fE7C3B685e58e4342bE376E3c80",
       "symbol": "SLAY2EARN",
       "name": "SLAY2EARN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84c2f7bE2740466Fd31DE7eFaecaeBC19cCf0FC5",
+      "symbol": "SHUKEN",
+      "name": "ShukenHaijo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5750,
-    "minor": 5750,
+    "major": 5751,
+    "minor": 5751,
     "patch": 84
   }
 }
