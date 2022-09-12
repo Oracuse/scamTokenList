@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x52A56DdD9B83C1A63B6Bdbf4c2BF925A78B76Dc9",
-      "symbol": "OVERMIND",
-      "name": "TheOvermind",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0be0d2905A5413dBf1c7197a424C72C3b68C4A1E",
       "symbol": "CODA",
       "name": "CodaToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Ce4C025692B3142dbdE1cd432ef55b9A8D18701",
+      "symbol": "DCNT",
+      "name": "Decanect",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5789,
-    "minor": 5789,
+    "major": 5790,
+    "minor": 5790,
     "patch": 84
   }
 }
