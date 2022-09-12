@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFD261074aB57daFC31e88806036dF18ACA5DdC00",
-      "symbol": "MATRIX",
-      "name": "MatrixToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9E0484D4351BBC9f8062454f13348594660C5727",
       "symbol": "PAIRS",
       "name": "PAIRSDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E11bDc9C1E0817948c77d0687F8491c016Dd459",
+      "symbol": "THEX",
+      "name": "TheThornHex",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5792,
-    "minor": 5792,
+    "major": 5793,
+    "minor": 5793,
     "patch": 84
   }
 }
