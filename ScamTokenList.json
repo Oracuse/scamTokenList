@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x073C8533aa2138Cd0984d3Fa5627A2E74a28b496",
-      "symbol": "CBANANA",
-      "name": "ClassicBanana",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe65B4B3DAA6bC03576e4CB7ef5E03D20Dad1eb6b",
       "symbol": "DOGEC",
       "name": "DogeClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe849D5d00d32284BCe4cCCB506A24B101efb34D9",
+      "symbol": "ODIE",
+      "name": "TheUltimateDog",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5967,
-    "minor": 5967,
+    "major": 5968,
+    "minor": 5968,
     "patch": 84
   }
 }
