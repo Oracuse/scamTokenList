@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73D5379360ab696AAD4ae43F2787ef09b826f075",
-      "symbol": "EASY",
-      "name": "EasyMoney",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x809564dA78697FBe578554b4e3076552C67F076a",
       "symbol": "LUNACAT",
       "name": "LunaCat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16838f7543BC883EB4138DCF5A4651F4e2109425",
+      "symbol": "LUNI",
+      "name": "WrappedLUNAToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5971,
-    "minor": 5971,
+    "major": 5972,
+    "minor": 5972,
     "patch": 84
   }
 }
