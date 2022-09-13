@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a7EA6f57c848FA7Cf4f6e41AEa191464695FC2c",
-      "symbol": "DEAD",
-      "name": "SelfDestructed",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7315A667F60f9162AA60ffD9d32274C6c1d68C49",
       "symbol": "ASTRAL",
       "name": "AstralHunter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60449673374670DDbb8559607fc8Ac24ED0aF7b6",
+      "symbol": "BABYDOGE20",
+      "name": "BabyDogeCoin20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5832,
-    "minor": 5832,
+    "major": 5833,
+    "minor": 5833,
     "patch": 84
   }
 }
