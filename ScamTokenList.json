@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe2b4d4e9afE7208eCB62F96C46bDC5504EaF86eE",
-      "symbol": "DOGESHITTOKEN",
-      "name": "DogeShitToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf845c41B95250ebBf3A6a34D2837cBFa487Afe89",
       "symbol": "SECONDSNAP",
       "name": "SecondSnap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEa01b6169a165329bFEF5C4904aDF2eeFE053a89",
+      "symbol": "DOWN",
+      "name": "TheRabbitHole",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5938,
-    "minor": 5938,
+    "major": 5939,
+    "minor": 5939,
     "patch": 84
   }
 }
