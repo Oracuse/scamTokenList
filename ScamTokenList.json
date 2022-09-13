@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe6b08372017B98eFdDadD7AEd5E71aA731B89A79",
-      "symbol": "CLASSIC",
-      "name": "Classic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe4FA9528745183123d79F9925cF7C315De1C7bB5",
       "symbol": "MINE",
       "name": "MineSweeper",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69EBa0d5B1b275a08Bcf9641e8e4754B4b0410E7",
+      "symbol": "BANDERSNATCH",
+      "name": "TheRabbitHole",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5947,
-    "minor": 5947,
+    "major": 5948,
+    "minor": 5948,
     "patch": 84
   }
 }
