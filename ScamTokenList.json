@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x667209e1705E7854835D396Ac902b2E8d8162d87",
-      "symbol": "APEC",
-      "name": "ApeClassic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4b096470a3e04CEE1c073bA4361F230E478ad0aa",
       "symbol": "STARLC",
       "name": "StarlinkClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x179Db1b8366440749a03FBC5c974f9c678a6FB10",
+      "symbol": "MERGEBANK",
+      "name": "MergeBank",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 5964,
-    "minor": 5964,
+    "major": 5965,
+    "minor": 5965,
     "patch": 84
   }
 }
