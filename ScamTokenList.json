@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdC645C86B3f12e5B138D78880d7564a79238B47F",
-      "symbol": "SHIBC",
-      "name": "ShibaInuClassic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd18B72e36229992F4980b9f339095c03f5905e9B",
       "symbol": "ELONC",
       "name": "ELONCLASSIC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdf7d2807C9BC20895Cc41409746D58D85FDd0Abe",
+      "symbol": "SMERGE",
+      "name": "ShibaMerge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5944,
-    "minor": 5944,
+    "major": 5945,
+    "minor": 5945,
     "patch": 84
   }
 }
