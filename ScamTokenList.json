@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4b096470a3e04CEE1c073bA4361F230E478ad0aa",
-      "symbol": "STARLC",
-      "name": "StarlinkClassic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBE7B0ECba8E82B3d7844854AdB7b1CBDF98E1Ac5",
       "symbol": "VRTXC",
       "name": "VortexClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60F5B10bC46Ccf55576eb65DB77dA848B2De6C39",
+      "symbol": "BISHAMON",
+      "name": "TobatsuBishamon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5965,
-    "minor": 5965,
+    "major": 5966,
+    "minor": 5966,
     "patch": 84
   }
 }
