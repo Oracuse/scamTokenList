@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1713cc966566a4e516Aa6b62eE766797eE58E030",
-      "symbol": "KIZA",
-      "name": "KizaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3a10f11f179698394F0338b77b05B46FCc8e4Df6",
       "symbol": "OMEGA",
       "name": "OMEGAFINANCE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85BF82ec18aa871839655673CbAC27aBEA94b95c",
+      "symbol": "LIQUIDITY",
+      "name": "LiquidityDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5933,
-    "minor": 5933,
+    "major": 5934,
+    "minor": 5934,
     "patch": 84
   }
 }
