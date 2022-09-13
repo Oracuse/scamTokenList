@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4887CBeC7327F6a5907a81Db09EBcd788f809F8f",
-      "symbol": "SPY",
-      "name": "TheSpy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1111bD65643921B01899D82DF5a08a653828a629",
       "symbol": "WEB2",
       "name": "Web20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40ef7e84f1f3A6cDC642Fb7D331010F8C4217C98",
+      "symbol": "DOGEGUARD",
+      "name": "DogeGuard",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5899,
-    "minor": 5899,
+    "major": 5900,
+    "minor": 5900,
     "patch": 84
   }
 }
