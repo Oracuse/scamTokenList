@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfab81a2D887d859D8Ddf4073705d76300023bBd2",
-      "symbol": "CETH",
-      "name": "ClassicEthereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD8D749767966E1e039c340a201326f14887c867d",
       "symbol": "CUSDC",
       "name": "ClassicUSDC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5ed0C2a0390196118CA525c6f4e88C6e9F0eD657",
+      "symbol": "DOBBY",
+      "name": "TheHouseElf",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5988,
-    "minor": 5988,
+    "major": 5989,
+    "minor": 5989,
     "patch": 84
   }
 }
