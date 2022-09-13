@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBE16DfC92aB36F5d0c3045Ec9686FfCe41B863E0",
-      "symbol": "WAY",
-      "name": "TheWay",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB0dA067b3B4BFB64D1DC67c82442aE103DFb7Fed",
       "symbol": "AST",
       "name": "AspirationToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69478bdCDf5606E5Bc109B8860FA26E7e404be98",
+      "symbol": "KSHO",
+      "name": "Kamon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5860,
-    "minor": 5860,
+    "major": 5861,
+    "minor": 5861,
     "patch": 84
   }
 }
