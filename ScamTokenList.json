@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbd27F7Ac4886e821E9589983707976718b05c418",
-      "symbol": "USA",
-      "name": "USA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2b0Cc72788F250F533db2e74E8Ae14BC3bF4867a",
       "symbol": "TMC",
       "name": "TomCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2130eD3e574D4D05DC98870bC4bd0261A5121a6B",
+      "symbol": "CONNECTIVE",
+      "name": "Connective",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5872,
-    "minor": 5872,
+    "major": 5873,
+    "minor": 5873,
     "patch": 84
   }
 }
