@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf2dB2906929363d407E92D449753aCD8B627F86b",
-      "symbol": "SHIBUZA",
-      "name": "ShibuzaToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE64855429Ea672bB960578063a4D97f459308102",
       "symbol": "SHIBWEB",
       "name": "ShibWeb",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F9EA7129aa22f482EDbE5fCCC33a1a39946ae5d",
+      "symbol": "CPINU",
+      "name": "ChinesePandaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6089,
-    "minor": 6089,
+    "major": 6090,
+    "minor": 6090,
     "patch": 84
   }
 }
