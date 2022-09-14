@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB88De8424d870B8Bae16826eb87C61cAE35d9F36",
-      "symbol": "EINU",
-      "name": "EtherscanInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4bA0BfeC40E908D96a622d82D7B0c3a1c4F3bc62",
       "symbol": "WEB58",
       "name": "WebOfAnonymity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7627AC50960754E3500B9b9bf5d481A1f3376511",
+      "symbol": "NMRG",
+      "name": "nomergy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6063,
-    "minor": 6063,
+    "major": 6064,
+    "minor": 6064,
     "patch": 84
   }
 }
