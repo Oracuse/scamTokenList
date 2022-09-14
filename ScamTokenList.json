@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc953D52ce35dfB88d287bEe90f48f06086d9E8A5",
-      "symbol": "KAHOKU",
-      "name": "KatsushikaHokusai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x772806d890fB6CC73D2e8E8e45d46f0B1a8cdF1B",
       "symbol": "TAXED",
       "name": "OverTaxed",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA9FA09C7b2C56893DF87263E94ddC9085BDbd43c",
+      "symbol": "SHIBAMINE",
+      "name": "ShibaMine",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6033,
-    "minor": 6033,
+    "major": 6034,
+    "minor": 6034,
     "patch": 84
   }
 }
