@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC9E54aCa2E964e1FAcD947502336b6318d887652",
-      "symbol": "AKIRA",
-      "name": "AKIRAINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1a2aDd18cb212db1C478595237831850e4a44D4e",
       "symbol": "POOLHOUSE",
       "name": "PoolHouse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86b7F4BE2ef8b98e2b59B6dbd47285B33233DD18",
+      "symbol": "MINTYS",
+      "name": "MintySwapV2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6059,
-    "minor": 6059,
+    "major": 6060,
+    "minor": 6060,
     "patch": 84
   }
 }
