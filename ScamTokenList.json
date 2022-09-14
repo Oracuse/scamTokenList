@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE4ae3232370306801C5cb6749E7021C6E28F43D8",
-      "symbol": "DOGEW",
-      "name": "DOGEWEB",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x63a2fd7FbF568ECb5B9e3f8a0e32d11958EB5DaE",
       "symbol": "MAC",
       "name": "MustardAPEClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0409cA7E9Bc16048043D8ee7177Dc97cd91878dC",
+      "symbol": "SAMA",
+      "name": "Yorisama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6070,
-    "minor": 6070,
+    "major": 6071,
+    "minor": 6071,
     "patch": 84
   }
 }
