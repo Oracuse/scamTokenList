@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9ce233ce16a3cC2796358F47E9F7BfFFA8077479",
-      "symbol": "END",
-      "name": "TillTheEnd",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc893f54e614D6940cdc4B3255a447dfe340123d5",
       "symbol": "WEBE",
       "name": "WEBETHINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7b940C8C0b744E6ae9d7D7A10049C73960b8736",
+      "symbol": "ETH20",
+      "name": "ETHEREUM20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6079,
-    "minor": 6079,
+    "major": 6080,
+    "minor": 6080,
     "patch": 84
   }
 }
