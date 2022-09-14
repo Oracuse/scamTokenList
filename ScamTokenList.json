@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBe200e04EB3e1F6cF0eB6206314813F47b9E2fed",
-      "symbol": "APEU",
-      "name": "ApeUniverse",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9A42b0702c7F9dAF65489CaeA7AAb2d52e8B1928",
       "symbol": "SLAP",
       "name": "ApeSlap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7FF01AD440d23194C39A69d6fFC82225b5907be8",
+      "symbol": "SHAKAI",
+      "name": "Kurosaki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6007,
-    "minor": 6007,
+    "major": 6008,
+    "minor": 6008,
     "patch": 84
   }
 }
