@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6a269aBeD1dA767d16c1d508696e94fF3E2fef93",
-      "symbol": "STARTER",
-      "name": "BullstarterNetwork",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB88De8424d870B8Bae16826eb87C61cAE35d9F36",
       "symbol": "EINU",
       "name": "EtherscanInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBbB6D5b36DB51964dDEF98c5c658563afadf0675",
+      "symbol": "SHIBYOSHI",
+      "name": "Shibyoshi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6062,
-    "minor": 6062,
+    "major": 6063,
+    "minor": 6063,
     "patch": 84
   }
 }
