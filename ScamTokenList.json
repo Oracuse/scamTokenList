@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD8D749767966E1e039c340a201326f14887c867d",
-      "symbol": "CUSDC",
-      "name": "ClassicUSDC",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80B88dA9A1EA21435657a92F51261ECf1Bb06b2B",
       "symbol": "MMK",
       "name": "MOONMAKERINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E0a21Fab145Ae3e4eC2D2E809268E3166b31b53",
+      "symbol": "BYAKKO",
+      "name": "BYAKKO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 5989,
-    "minor": 5989,
+    "major": 5990,
+    "minor": 5990,
     "patch": 84
   }
 }
