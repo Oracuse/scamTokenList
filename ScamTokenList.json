@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2E23d4D1Ad1E5c78D6796Bfa83EbBcA4b5DD92A9",
-      "symbol": "FSHIB",
-      "name": "FailedShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBe200e04EB3e1F6cF0eB6206314813F47b9E2fed",
       "symbol": "APEU",
       "name": "ApeUniverse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf291C2acA5D491D3444e55FB9530b6d8CA0BD21D",
+      "symbol": "MERGELON",
+      "name": "MergelonETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6006,
-    "minor": 6006,
+    "major": 6007,
+    "minor": 6007,
     "patch": 84
   }
 }
