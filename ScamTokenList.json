@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x80Bb672c1eC7a7d3080a184B363E56B5dE579628",
-      "symbol": "STARTER",
-      "name": "BullstarterNetwork",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2EeB45AbEEb479AFA2456A2F95896C4B3A37c427",
       "symbol": "APEGOD",
       "name": "ApeGod",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbFd0D963E5899963f204cef3FC6eE1c6bCF9445c",
+      "symbol": "EMG20",
+      "name": "EthereumMerge20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6120,
-    "minor": 6120,
+    "major": 6121,
+    "minor": 6121,
     "patch": 84
   }
 }
