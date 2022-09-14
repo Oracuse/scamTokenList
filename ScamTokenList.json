@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x04f7c084e83F775a0E4490e7165F4c39FfeA6219",
-      "symbol": "CINUC",
-      "name": "CelsiusInuClassic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD7B959c83ab463B92d684A923808454e0C7693F9",
       "symbol": "KINU",
       "name": "KucoinInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34e10790bA08eCacfFCf807d8a6a5BF9498bf4A7",
+      "symbol": "CENTAUR",
+      "name": "Centaur",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6015,
-    "minor": 6015,
+    "major": 6016,
+    "minor": 6016,
     "patch": 84
   }
 }
