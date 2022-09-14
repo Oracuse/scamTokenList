@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd57b6DDf93fF6fb6413acD7F2720A14d8526F8d9",
-      "symbol": "AJUMMA",
-      "name": "AJUMMAINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd2CC394385b2815aEE962c1cbE84fcf559f63ab3",
       "symbol": "CARTEL",
       "name": "TheCartel",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56FBbE1935D5b1c61010fA9c6F33f7E727d437C9",
+      "symbol": "APARTHEID",
+      "name": "Township",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6000,
-    "minor": 6000,
+    "major": 6001,
+    "minor": 6001,
     "patch": 84
   }
 }
