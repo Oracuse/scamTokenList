@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc893f54e614D6940cdc4B3255a447dfe340123d5",
-      "symbol": "WEBE",
-      "name": "WEBETHINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9A1318B8c895291d7Ad64D25789929a6Da39BF60",
       "symbol": "SAKE",
       "name": "SAKE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1D13C4F58d9f59707e87B00b396A82289b737e1",
+      "symbol": "ETHPOW",
+      "name": "EthMerge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 6080,
-    "minor": 6080,
+    "major": 6081,
+    "minor": 6081,
     "patch": 84
   }
 }
