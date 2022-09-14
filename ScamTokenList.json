@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4bA0BfeC40E908D96a622d82D7B0c3a1c4F3bc62",
-      "symbol": "WEB58",
-      "name": "WebOfAnonymity",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAfB225c41f013752EAeB8cB1601857cDdE2554ea",
       "symbol": "BINU",
       "name": "BasedInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b087A3749dad3393515Bb995C3233B2A9336734",
+      "symbol": "DOKWON",
+      "name": "DoKwon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6064,
-    "minor": 6064,
+    "major": 6065,
+    "minor": 6065,
     "patch": 84
   }
 }
