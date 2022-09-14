@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x82020E68cc91e8C5b3d591C867e4d707c5EE72fB",
-      "symbol": "TAXED",
-      "name": "OverTaxed",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDFf3E8D63B4995a10D06949D3B4EE31371b2fA92",
       "symbol": "TAXED",
       "name": "OverTaxed",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47e01e5420FeaEB108c728Ec446cf8f32F7481c1",
+      "symbol": "MERGE",
+      "name": "MERGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6035,
-    "minor": 6035,
+    "major": 6036,
+    "minor": 6036,
     "patch": 84
   }
 }
