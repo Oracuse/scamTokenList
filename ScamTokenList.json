@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd2CC394385b2815aEE962c1cbE84fcf559f63ab3",
-      "symbol": "CARTEL",
-      "name": "TheCartel",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1b36eFEf53790d0479abd28DCC42C186CaAFDe0e",
       "symbol": "SG",
       "name": "SorinGeass",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeCb1bFAD8aF54dfc3927f5Cd11882C5Fed937923",
+      "symbol": "MOICHI",
+      "name": "Moichi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6001,
-    "minor": 6001,
+    "major": 6002,
+    "minor": 6002,
     "patch": 84
   }
 }
