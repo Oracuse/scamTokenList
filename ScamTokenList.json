@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x16d85971d703d944EDa00cF812810AE149C4Df85",
-      "symbol": "SHIBAREUM",
-      "name": "Shibareum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3a7055B5B46976b129dCfAB9F73d7fae8ddD54E7",
       "symbol": "CRAMER",
       "name": "Cramereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6370E22761Efe1DA974D1c43160e63B3715d37cb",
+      "symbol": "EXOR",
+      "name": "Extractor",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6252,
-    "minor": 6252,
+    "major": 6253,
+    "minor": 6253,
     "patch": 84
   }
 }
