@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF674c6620BD75564509919481Ef88e5796a704A9",
-      "symbol": "PEKING",
-      "name": "BurntDuck",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5320A0cfa861BfF53139feFb9e52a0F9C8Bf6282",
       "symbol": "STEIN",
       "name": "SteinINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf70a50138a82b57c046F62B273Ad0DF6fb70aC53",
+      "symbol": "CONNECTIVE",
+      "name": "Connective",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6239,
-    "minor": 6239,
+    "major": 6240,
+    "minor": 6240,
     "patch": 84
   }
 }
