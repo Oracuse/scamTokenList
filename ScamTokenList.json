@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8d61240396A07a654f7F06569A16AF73acFf5De1",
-      "symbol": "ULTRA",
-      "name": "UltraSwapToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD5D77834BcA7Ff2Cc6816Bab2451A0A893be1885",
       "symbol": "SAUDIMASTER",
       "name": "SaudiMaster",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x553539d40AE81FD0d9C4b991B0b77bE6f6Bc030e",
+      "symbol": "SMOL",
+      "name": "smoltinginu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6169,
-    "minor": 6169,
+    "major": 6170,
+    "minor": 6170,
     "patch": 84
   }
 }
