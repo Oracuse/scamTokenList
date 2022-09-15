@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6B7955C0a6BD2397584fc1ABe9c183E1C19D551e",
-      "symbol": "EYESBEAST",
-      "name": "EyesBeast",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x53Af283aAC74cd8F7F03f6B1bE1E208746fDBe5D",
       "symbol": "AC",
       "name": "ALPHACAPITAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2de5aBEDB97Ec3C51ca834108e5B826DeE7049EC",
+      "symbol": "GEM",
+      "name": "HiddenGem",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6141,
-    "minor": 6141,
+    "major": 6142,
+    "minor": 6142,
     "patch": 84
   }
 }
