@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa1916Ce215127A46f27CEb2b8bD208295D7Ba116",
-      "symbol": "ZUCKEREUM",
-      "name": "Zuckereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08636278ed57b750BbaB9df8c7350B3b4bc2fD17",
       "symbol": "TINU",
       "name": "ThorInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3dE244826573B0Ab7BF76E1D63ef83b5572B8Bb2",
+      "symbol": "ZZ",
+      "name": "ZigZag",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6261,
-    "minor": 6261,
+    "major": 6262,
+    "minor": 6262,
     "patch": 84
   }
 }
