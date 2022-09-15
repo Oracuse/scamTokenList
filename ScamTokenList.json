@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1621fa888B37Def8962cC3180eDfd55D6cf4F96B",
-      "symbol": "ELONER",
-      "name": "Elonreum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x91eAd6018Fc4102F561cb9Aa79729E383B992D16",
       "symbol": "ME87",
       "name": "Messereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Cd588b76928168f80cD359A7e2c5A06317d8EF8",
+      "symbol": "EIP1559",
+      "name": "EIP1559",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6259,
-    "minor": 6259,
+    "major": 6260,
+    "minor": 6260,
     "patch": 84
   }
 }
