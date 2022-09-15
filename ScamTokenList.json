@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5320A0cfa861BfF53139feFb9e52a0F9C8Bf6282",
-      "symbol": "STEIN",
-      "name": "SteinINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDe2b2A986D5261020a9289e1FEC31502DB399511",
       "symbol": "SHIBUDHABI",
       "name": "Shibudhabi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5D3C80bc415Ee8c3a8a8666e9ceBF0B07903bc34",
+      "symbol": "KASHIRO",
+      "name": "Katashiro",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6240,
-    "minor": 6240,
+    "major": 6241,
+    "minor": 6241,
     "patch": 84
   }
 }
