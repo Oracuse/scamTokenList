@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x421b66665334902D985c71E91db41932E263b9F7",
-      "symbol": "TEST",
-      "name": "Test",
-      "decimals": 4,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x465060426778A6CC44ae291c17a95525F6f43F6e",
       "symbol": "HAUTE",
       "name": "HauteInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75F08AdB0E657A2bBE0a5a54088c1dE65Ed05033",
+      "symbol": "UINU",
+      "name": "UniInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6286,
-    "minor": 6286,
+    "major": 6287,
+    "minor": 6287,
     "patch": 84
   }
 }
