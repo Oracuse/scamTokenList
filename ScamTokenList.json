@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x65dd23B166483065A00f5f55ee0C0B433d3f237B",
-      "symbol": "BIG",
-      "name": "BigMummaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5144d9e89faAe4edeE1f76d6f9a5d3F6f82D40C9",
       "symbol": "NORMY",
       "name": "NormyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd11a2969E9A69AC99675daa987C44162F032a60F",
+      "symbol": "FLOKINATOR",
+      "name": "Flokinator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6180,
-    "minor": 6180,
+    "major": 6181,
+    "minor": 6181,
     "patch": 84
   }
 }
