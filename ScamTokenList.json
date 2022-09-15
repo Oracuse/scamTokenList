@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1F6ceF7e159e037703dB16d60dDcdCe2287CDe08",
-      "symbol": "STOP",
-      "name": "TheMaster",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2E160E316C5b1c8F63c31a0116fFF6A2C83D2465",
       "symbol": "MDAO",
       "name": "MasterDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDf73c72b08EC9fcCAA2d73eCB5c877ce97228891",
+      "symbol": "WHIRL",
+      "name": "Whirl",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6130,
-    "minor": 6130,
+    "major": 6131,
+    "minor": 6131,
     "patch": 84
   }
 }
