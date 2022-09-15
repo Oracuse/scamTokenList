@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa52bfFAD02B1FE3f86A543a4e81962d3B3bB01A7",
-      "symbol": "DUCKER",
-      "name": "Duckereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC453DD0d333aB62dFBE9bE76D75E52C289A173B6",
       "symbol": "SAUDICULT",
       "name": "TheSaudiCult",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81ff5a19FB2373A29A7e049b6b1a088e165C5D40",
+      "symbol": "DEPLOYER",
+      "name": "TheDeployer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6213,
-    "minor": 6213,
+    "major": 6214,
+    "minor": 6214,
     "patch": 84
   }
 }
