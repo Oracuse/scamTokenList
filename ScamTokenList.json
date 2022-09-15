@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF27183a49657D3EEe762aA36088a1fc6A80AAB1C",
-      "symbol": "SFLOKI",
-      "name": "SaudiFloki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc1a458611dD2152cc09947E766cfD9da7D2a541F",
       "symbol": "Q2BANK",
       "name": "QNTM20Bank",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDCAd0f5d685e07c4c5bD9E92DDCf9EB40E0E963C",
+      "symbol": "NEWERA",
+      "name": "NewEra",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6199,
-    "minor": 6199,
+    "major": 6200,
+    "minor": 6200,
     "patch": 84
   }
 }
