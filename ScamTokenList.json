@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98A39DE157Be2388857258291AFC4AC557B9a8f1",
-      "symbol": "YAMATANOOROCHI",
-      "name": "YamatanoOrochi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf80Ad29070777cfF032796409d046d95B1096474",
       "symbol": "TINU",
       "name": "TamaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfF76fDfFe50033203d66c3b3C441A13CF2fA1f9d",
+      "symbol": "TEST",
+      "name": "TestToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6273,
-    "minor": 6273,
+    "major": 6274,
+    "minor": 6274,
     "patch": 84
   }
 }
