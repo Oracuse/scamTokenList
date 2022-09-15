@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0aDD25024c15868F629784A2799bbFB5AaFe63b7",
-      "symbol": "RUG",
-      "name": "RugInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8D23697b5A05ceDE1184CB65B9Ea5957Bd4CE7e8",
       "symbol": "SAUDIC",
       "name": "SaudiInuClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB93110c464B8F365bD0de843a9Ab838FF7f2577E",
+      "symbol": "PANDAINU",
+      "name": "PandaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6163,
-    "minor": 6163,
+    "major": 6164,
+    "minor": 6164,
     "patch": 84
   }
 }
