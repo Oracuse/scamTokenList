@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFE72A858ab18FeaBb9F5d67D3ffDEec788A4e979",
-      "symbol": "OGV",
-      "name": "OriginDollarGoverna",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd7B4F2592390e6af757DEb073730EC47D2Adb757",
       "symbol": "SLINE",
       "name": "SecurityLine",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68FdB72CA386D24360B7b35486a619B8BcA4FF18",
+      "symbol": "JUBJUB",
+      "name": "Jabberwocky",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6204,
-    "minor": 6204,
+    "major": 6205,
+    "minor": 6205,
     "patch": 84
   }
 }
