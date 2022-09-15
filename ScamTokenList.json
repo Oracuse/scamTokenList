@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x18311F6a1420b8e7D15e08ccD63BdEED085214C0",
-      "symbol": "KEK",
-      "name": "KEK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa52bfFAD02B1FE3f86A543a4e81962d3B3bB01A7",
       "symbol": "DUCKER",
       "name": "Duckereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA64Ff4fCA677a55440ba7737Fe33e9A7e0EF6FaD",
+      "symbol": "MOD",
+      "name": "Modefi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6212,
-    "minor": 6212,
+    "major": 6213,
+    "minor": 6213,
     "patch": 84
   }
 }
