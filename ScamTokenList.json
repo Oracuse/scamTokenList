@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x82c61aC58a8FCDf42a7273A307CEc4A4D9f41b41",
-      "symbol": "DOGGY",
-      "name": "Dogereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1621fa888B37Def8962cC3180eDfd55D6cf4F96B",
       "symbol": "ELONER",
       "name": "Elonreum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0BF765dAf6C17f333Cf90C349d8Faf4818230577",
+      "symbol": "CRSP",
+      "name": "CruiseShip",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6258,
-    "minor": 6258,
+    "major": 6259,
+    "minor": 6259,
     "patch": 84
   }
 }
