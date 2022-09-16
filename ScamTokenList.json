@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2fFa75c80085374BD17657Fbd0A85EACDdab99F0",
-      "symbol": "HEX",
-      "name": "HEXIS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xde80ea38ef8C709EcC479cb1aBE325Df23700522",
       "symbol": "JSTR",
       "name": "JESTERV2",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9251855541bc0eC44Ad45166BEB64C2dF0BE276E",
+      "symbol": "EDD",
+      "name": "Eddereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6384,
-    "minor": 6384,
+    "major": 6385,
+    "minor": 6385,
     "patch": 84
   }
 }
