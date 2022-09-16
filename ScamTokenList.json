@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x26818a3c75C136971f77208C4E99AC71D6D0D48A",
-      "symbol": "PEPER",
-      "name": "PEPEREUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf8B7009966fd67366F0C5F8f088f8E811Cc83caf",
       "symbol": "SHARKIE",
       "name": "SharkieToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF06E31131ead9d123BB226D69a4dB121B1BF1Df",
+      "symbol": "SAB",
+      "name": "Sabrosito",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6430,
-    "minor": 6430,
+    "major": 6431,
+    "minor": 6431,
     "patch": 84
   }
 }
