@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2F73e7230B2F213CF2939DBAa7a1674ac015757B",
-      "symbol": "MYTH",
-      "name": "MYTH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x286c43cA6a091c7f6733b02F786dB27fe33Ac5Cf",
       "symbol": "1",
       "name": "OneInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeecBDB29c0f8A5bA4aBD88D914EB311f259eeA0",
+      "symbol": "HODL",
+      "name": "HOLD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 6426,
-    "minor": 6426,
+    "major": 6427,
+    "minor": 6427,
     "patch": 84
   }
 }
