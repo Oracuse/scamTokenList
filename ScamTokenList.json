@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xde80ea38ef8C709EcC479cb1aBE325Df23700522",
-      "symbol": "JSTR",
-      "name": "JESTERV2",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x24fc8DFb6656C9817ac0C3355d6BB522F611Fd9f",
       "symbol": "SEIYA",
       "name": "PegasusSeiya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc761eeaB269e712c7C5fEcd2E207c037C08FBFc8",
+      "symbol": "WIS",
+      "name": "Wisdom",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6385,
-    "minor": 6385,
+    "major": 6386,
+    "minor": 6386,
     "patch": 84
   }
 }
