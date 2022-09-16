@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFdCB704826844d77A6deA8fD23ffadaAfCE88b1a",
-      "symbol": "MUSCLEBULL",
-      "name": "MuscleBull",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x65defFf2Fb270f7e8f90484169596991fE1DDCf9",
       "symbol": "TOMA",
       "name": "Cryptoma",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8924B6ea6eA3Df8D6586A681B601e69852c8452",
+      "symbol": "FETH",
+      "name": "FlokiETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6418,
-    "minor": 6418,
+    "major": 6419,
+    "minor": 6419,
     "patch": 84
   }
 }
