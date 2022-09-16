@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9366ac4c103F8921c79bE5C7Aa29948586f94B7c",
-      "symbol": "KAZUKI",
-      "name": "KazukiTakahashi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50E3Cc7A7BEc7D1850E2cE2039d0C15ba046fC05",
       "symbol": "YIELDTIME",
       "name": "YieldTime",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D8a93021726aCd2bD826d8243f00A3e8B23887C",
+      "symbol": "FETH",
+      "name": "FlokiETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6416,
-    "minor": 6416,
+    "major": 6417,
+    "minor": 6417,
     "patch": 84
   }
 }
