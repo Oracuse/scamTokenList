@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa4b578c893Ff51F707E40954a0a27dAbe579cF22",
-      "symbol": "GIZA",
-      "name": "GIZAv2",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x03A529E180a983d73B95070e926a9516DF0cE58d",
       "symbol": "ABENOMICS",
       "name": "Abenomics",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42efBA6008f06409d63522d71f0B0d50DC8422a5",
+      "symbol": "GEMS",
+      "name": "MysteryOfStones",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6455,
-    "minor": 6455,
+    "major": 6456,
+    "minor": 6456,
     "patch": 84
   }
 }
