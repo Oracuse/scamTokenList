@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb1459285AD28C7fD273cBcc75855184e1dFe4faD",
-      "symbol": "LIGHTUP",
-      "name": "LightUp",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD1AE80Dd185eA4600206113E4C18CE86e6da7419",
       "symbol": "SELFDESTROYED",
       "name": "Destructed scams",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8BBC4A92BFa57aD766eec2C9593b5EAD190a70cE",
+      "symbol": "UNSELLABLE",
+      "name": "DONTBUYTHISAGAIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6491,
-    "minor": 6491,
+    "major": 6492,
+    "minor": 6492,
     "patch": 84
   }
 }
