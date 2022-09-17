@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0350997e7Fb884A9f0BAA4C49547568B84f95364",
-      "symbol": "NAME",
-      "name": "NAME",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7e71733E8C917EA527Cb08372ec3ef0B2951F735",
       "symbol": "GENGHISKHAN",
       "name": "GenghisInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2803103993F95150B8CE52B44a20C047e7E072E0",
+      "symbol": "TEST2",
+      "name": "testToken",
+      "decimals": 2,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6453,
-    "minor": 6453,
+    "major": 6454,
+    "minor": 6454,
     "patch": 84
   }
 }
