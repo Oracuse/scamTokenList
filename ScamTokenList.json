@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8681b2e401bA51f7Ab7d69aa8961d29Df8870f2B",
-      "symbol": "DOGE",
-      "name": "Doge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01b3c045f7491E25bf61733B4E6b2581DB2D5e7c",
       "symbol": "ODINEUM",
       "name": "Odineum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc76a63f58a45288CB081aC6bF58d635d92DBc48d",
+      "symbol": "CELSUS",
+      "name": "HomoCelsus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6457,
-    "minor": 6457,
+    "major": 6458,
+    "minor": 6458,
     "patch": 84
   }
 }
