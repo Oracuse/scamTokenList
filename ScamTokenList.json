@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xae877d601Ce44a43DF7787555468eb53A2579598",
-      "symbol": "ZEUS",
-      "name": "THEZEUS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcA788f873CEA0A12bD073640267B94B8a75b0538",
       "symbol": "KWON",
       "name": "KnownOrigin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2350212f8481dF48BdE8613C7C911D2105176cc6",
+      "symbol": "LUNB",
+      "name": "WrappedLUNBToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6487,
-    "minor": 6487,
+    "major": 6488,
+    "minor": 6488,
     "patch": 84
   }
 }
