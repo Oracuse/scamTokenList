@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCa4C45a072721d371F308f6fc73f42e8Ab7626E8",
-      "symbol": "SIGNAL",
-      "name": "signal",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4f6e786AeB3bA0ABa24D702A1AA9Dfb9059e89DC",
       "symbol": "ZARATHUSTRA",
       "name": "Zarathustra",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB79Ff8f7dd6d9948881C1AF9F8e3BFd15b04E3F0",
+      "symbol": "UNSELLABLE",
+      "name": "DONTBUYTHIS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6477,
-    "minor": 6477,
+    "major": 6478,
+    "minor": 6478,
     "patch": 84
   }
 }
