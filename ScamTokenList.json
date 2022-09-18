@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x11AF209A4757446Eb0E1880798D7d6aB1Fd1E81e",
-      "symbol": "MAFIA",
-      "name": "MAFIA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x853308353E1c7BB9F527Dc3c1C550ad3062152a6",
       "symbol": "TSUKIYOMI",
       "name": "TsukiyomiETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8360b842e8a3853cCdbd061F94bE1eD69547820D",
+      "symbol": "TSUKACHAIN",
+      "name": "DarumaResearch",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6528,
-    "minor": 6528,
+    "major": 6529,
+    "minor": 6529,
     "patch": 84
   }
 }
