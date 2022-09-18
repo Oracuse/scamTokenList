@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb25A0e02fCe3c4E8A1c2a3aAB5Aa9b02f9fb3D20",
-      "symbol": "TON",
-      "name": "TON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD2f8c5c635ad4757E12033315c108a1F6c014549",
       "symbol": "HIMUTSI",
       "name": "HimutsiToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26e98B64BCF04Cc1fb1fd1631F5F293093EACC53",
+      "symbol": "TELOMIAN",
+      "name": "UnknownDogs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6544,
-    "minor": 6544,
+    "major": 6545,
+    "minor": 6545,
     "patch": 84
   }
 }
