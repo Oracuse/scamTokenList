@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x10a78306D3f83E4e8bF5E69dd83FeB48e876A5fE",
-      "symbol": "ROSEDAO",
-      "name": "RoseDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfF23C31a8c9469Fc6BF5329AC8aB81b335E50358",
       "symbol": "SBER",
       "name": "SberBANK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82dE1D2811A17ab34Aac7C15dB9ADb983bBBA940",
+      "symbol": "GEMS",
+      "name": "MysteryOfStones",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6587,
-    "minor": 6587,
+    "major": 6588,
+    "minor": 6588,
     "patch": 84
   }
 }
