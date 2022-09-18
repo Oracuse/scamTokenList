@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfe01EC288FDc43353386adA98C35ADced281C1EC",
-      "symbol": "DUCKCOIN",
-      "name": "DuckCoin",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB85a7c951798Caa5C3d38a1644EbDb80af136bE9",
       "symbol": "IKAGAMI",
       "name": "TheUltimateLimit",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92B537271e24B2d33b3661E2A2a9e7281284b4e0",
+      "symbol": "CVPV",
+      "name": "PowerPool",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6520,
-    "minor": 6520,
+    "major": 6521,
+    "minor": 6521,
     "patch": 84
   }
 }
