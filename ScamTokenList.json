@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDEb0B0643A594BEFeab89DD93EBBb6bC87e3681b",
-      "symbol": "CDR",
-      "name": "ChampsDefiRadio",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x047FE0dde3c9e2F6F9b7248dF0f6818D15D0cfdd",
       "symbol": "THUNDER",
       "name": "THEBOOKOFTHOR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f709038d506487663801839beCEEcBda00F9B1e",
+      "symbol": "TESTSYMBOL",
+      "name": "COINTEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6574,
-    "minor": 6574,
+    "major": 6575,
+    "minor": 6575,
     "patch": 84
   }
 }
