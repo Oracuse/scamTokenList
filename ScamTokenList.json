@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7855Db143C1Eb6EAd3fD795481994C15720a2897",
-      "symbol": "GREEN",
-      "name": "GreenToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE5Dd18Cd81d429ed4116C1ee6a62a68D5a060B11",
       "symbol": "RAINBOW",
       "name": "RedOrangeYellowGree",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5154cF5306AeBDE058c45eE9B05f91f843dF8F5",
+      "symbol": "FOD",
+      "name": "FeastofDogs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6633,
-    "minor": 6633,
+    "major": 6634,
+    "minor": 6634,
     "patch": 84
   }
 }
