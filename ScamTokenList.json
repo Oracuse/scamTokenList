@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5218500adCbb3dD2d2a8FCe1CAcE50Ab4bA066e4",
-      "symbol": "KIBAM",
-      "name": "KIBAMASTER",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a96B4EF42915198F840edA5B2Db1838A460d5ff",
       "symbol": "DAPE",
       "name": "APEDeFi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04dc58a7B4F4ab31Bc37923C373Bc1d951f7aa5a",
+      "symbol": "ERN",
+      "name": "Eurion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6685,
-    "minor": 6685,
+    "major": 6686,
+    "minor": 6686,
     "patch": 84
   }
 }
