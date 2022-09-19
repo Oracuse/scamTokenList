@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe8336AF34B336b2e14FdC545DF4880aC270AFAAb",
-      "symbol": "BOATS",
-      "name": "boatsDao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x94C01627673e5f83cC228d373E6BBb15D65A57c5",
       "symbol": "MMC",
       "name": "MEMECAT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x479eC61187Ab1b7591C29A69Aa4De4692f2fbD08",
+      "symbol": "ART",
+      "name": "AncientRatToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6616,
-    "minor": 6616,
+    "major": 6617,
+    "minor": 6617,
     "patch": 84
   }
 }
