@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe8f32490A1CB0BB3FbecF21BCDA8EF6b6A7C6970",
-      "symbol": "ABAY",
-      "name": "AlphaBay",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9462151954689E55a5FdCE02521769971d7952Fd",
       "symbol": "CWEB",
       "name": "CharlottesWeb",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61A003Ae05A678f6Ad6bd6E876b1C3e00b51d983",
+      "symbol": "ATL",
+      "name": "Atlas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6681,
-    "minor": 6681,
+    "major": 6682,
+    "minor": 6682,
     "patch": 84
   }
 }
