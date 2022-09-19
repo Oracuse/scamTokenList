@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x59fddCCE4481Dc33cA6A0Aec2b77C739ACABA0C5",
-      "symbol": "TRIANGLE",
-      "name": "TheTriangle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfc43a654B6eb3168868340a191D9877d582c89f0",
       "symbol": "INU",
       "name": "INU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf7bB9759FF81232b127bc036D9367F316574112a",
+      "symbol": "POM",
+      "name": "ProofOfMoonshot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6670,
-    "minor": 6670,
+    "major": 6671,
+    "minor": 6671,
     "patch": 84
   }
 }
