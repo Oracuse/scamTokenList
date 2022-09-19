@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x63C982271b1Cb03a6Ff3a63883a0a66b924C5FAF",
-      "symbol": "BHOLE",
-      "name": "BlackHole",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x630f88BE30090c07Ff25Cd9aeCCd128CC6e2aCB7",
       "symbol": "BUSHIDO",
       "name": "BUSHIDO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb200058ef5afa23DEF626F9499cAFac2cE435052",
+      "symbol": "REWARD20",
+      "name": "ProofofReward",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6618,
-    "minor": 6618,
+    "major": 6619,
+    "minor": 6619,
     "patch": 84
   }
 }
