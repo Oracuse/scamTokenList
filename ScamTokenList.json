@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a96B4EF42915198F840edA5B2Db1838A460d5ff",
-      "symbol": "DAPE",
-      "name": "APEDeFi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6791cE9d8755193cBA159E0F1EDa759048CF8530",
       "symbol": "AMINU",
       "name": "AmericanInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6F1Feb5fD50F6D41993F430736C4B8aBeCd9f81c",
+      "symbol": "ERN",
+      "name": "Eurion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6686,
-    "minor": 6686,
+    "major": 6687,
+    "minor": 6687,
     "patch": 84
   }
 }
