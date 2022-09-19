@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBec0E7070E3B928fe32464a2f13e44f852e9187E",
-      "symbol": "HTTPINU",
-      "name": "HttpInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE457D093983Baee5C970D4b82b7DE0B0296855Ff",
       "symbol": "BWEB",
       "name": "BinanceWeb",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B7c87213F4AF03501b2ae6564E1d20597CCAeea",
+      "symbol": "COP",
+      "name": "ConvincingProof",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6672,
-    "minor": 6672,
+    "major": 6673,
+    "minor": 6673,
     "patch": 84
   }
 }
