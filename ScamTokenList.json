@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7E5cA9c3042Bd861EbcF3AB22ab483ECDC6149A4",
-      "symbol": "WHITE",
-      "name": "WhiteToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCab5A04000DF4bDaA9b24b2Ea391a48dc39dE670",
       "symbol": "BELPHEGOR",
       "name": "Belphegor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6Cfe77134dda4d520245A832Bf66F95e9627CB4",
+      "symbol": "SERPENT",
+      "name": "SERPENT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6627,
-    "minor": 6627,
+    "major": 6628,
+    "minor": 6628,
     "patch": 84
   }
 }
