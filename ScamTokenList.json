@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdb1128997709275882e15E62B23ef7bA61b64a5a",
-      "symbol": "MOC1",
-      "name": "Mochi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe20bdbDe01051E31b595C06f42c8B82E44c68e94",
       "symbol": "FANG",
       "name": "FangDeFi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x509Aa0D20E21840AcCDC2428eF6BB73ebfED1b9A",
+      "symbol": "MOON",
+      "name": "MoonProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6607,
-    "minor": 6607,
+    "major": 6608,
+    "minor": 6608,
     "patch": 84
   }
 }
