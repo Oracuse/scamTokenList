@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3F482E1FC9229Bb0dE5A9e5243Ff577e71aF3353",
-      "symbol": "SHITWEB",
-      "name": "SHITWEB",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00437B1BCA0a3EBe4518eCc24e4795e4c76A533c",
       "symbol": "MONO",
       "name": "MonoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1be5878b56404c058c6166898B99Cc0651eC17B8",
+      "symbol": "PODK",
+      "name": "ProofofDoKwon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6677,
-    "minor": 6677,
+    "major": 6678,
+    "minor": 6678,
     "patch": 84
   }
 }
