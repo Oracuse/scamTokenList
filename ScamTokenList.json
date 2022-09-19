@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3e51c26474808746a800E2Fd941C2B91f44b0Dc2",
-      "symbol": "RBRN",
-      "name": "Reborn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7855Db143C1Eb6EAd3fD795481994C15720a2897",
       "symbol": "GREEN",
       "name": "GreenToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb734978dEAFF04b56B5a609938279C909A080c04",
+      "symbol": "MOONPROTOCOL",
+      "name": "MoonProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6632,
-    "minor": 6632,
+    "major": 6633,
+    "minor": 6633,
     "patch": 84
   }
 }
