@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x845072fAc8ab38E14777C337980951ef20A7b0dE",
-      "symbol": "KAKASHIINU",
-      "name": "KaKaShiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88b616e70d18945415ca34CEf39778D47f8fe0eC",
       "symbol": "OIL",
       "name": "710",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x748dE0AfAED05593EC07cd1841B3Cc07B838F94d",
+      "symbol": "USDC20",
+      "name": "ProofofUSDC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6612,
-    "minor": 6612,
+    "major": 6613,
+    "minor": 6613,
     "patch": 84
   }
 }
