@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2376aCD2917ee44693a57755edEC2430DA48787b",
-      "symbol": "OG",
-      "name": "OlympusGods",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7E5cA9c3042Bd861EbcF3AB22ab483ECDC6149A4",
       "symbol": "WHITE",
       "name": "WhiteToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14fe2cdfF3750aB2615e0FAEb1C774e76d7c299C",
+      "symbol": "ATOMA",
+      "name": "ATOM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6626,
-    "minor": 6626,
+    "major": 6627,
+    "minor": 6627,
     "patch": 84
   }
 }
