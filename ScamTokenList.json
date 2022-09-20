@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe40e982Be055AF1a98Fc514dF583a7b441d77158",
-      "symbol": "SAUDOGE",
-      "name": "SaudiDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00905bb81e8CFc7FFa587618fb065C3c61Cd45bB",
       "symbol": "SAUTAMA",
       "name": "SaudiTama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66571B3F5C925fD27aAff741c7b3Bbb3F5e923a6",
+      "symbol": "MET",
+      "name": "MivieToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6702,
-    "minor": 6702,
+    "major": 6703,
+    "minor": 6703,
     "patch": 84
   }
 }
