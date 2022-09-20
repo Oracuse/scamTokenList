@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbE72837Fb75349ef0246a9042e3079aC174EBd3a",
-      "symbol": "SSHIBA",
-      "name": "SaudiShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x53dc601f6f7a214343d1000a191514AC490655Ed",
       "symbol": "LSD",
       "name": "ACID",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12dF3660D872Cf56E12c501a0B65bDBf46b96096",
+      "symbol": "POM",
+      "name": "ProofOfMen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6700,
-    "minor": 6700,
+    "major": 6701,
+    "minor": 6701,
     "patch": 84
   }
 }
