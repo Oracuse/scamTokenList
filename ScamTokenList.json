@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x41C15aFfC817612cab83D326f585a313F5313a10",
-      "symbol": "OIL",
-      "name": "OilInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x35ED65f4D94Cd416CB81612352429FBB8588b01d",
       "symbol": "UOIL",
       "name": "UEAOIL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcff5d3EA156f2cf245b441b20097531C910A0756",
+      "symbol": "SOLANA20",
+      "name": "ProofOfSolana",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6707,
-    "minor": 6707,
+    "major": 6708,
+    "minor": 6708,
     "patch": 84
   }
 }
