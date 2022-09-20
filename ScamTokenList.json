@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB3309b9A441368fd716322004Bc7B3886D03C231",
-      "symbol": "MRGREEN",
-      "name": "MrGREEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x07000f7E40db962a734B9eb1264ec35615ec39Ae",
       "symbol": "SHINU",
       "name": "SheikhInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE6DBBC16EBEcE2Aa9931919E512E580368378B2d",
+      "symbol": "SAFU",
+      "name": "Safuchain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6709,
-    "minor": 6709,
+    "major": 6710,
+    "minor": 6710,
     "patch": 84
   }
 }
