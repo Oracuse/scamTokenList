@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCb0324bcD372a23FE5F9663f67Bb2c6FB103E804",
-      "symbol": "DOGEREUM",
-      "name": "Dogereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEd10888B1f7C0e581127b0DCDfe1D22b364c1CB7",
       "symbol": "HODLER",
       "name": "HODLER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe12C18A71F3Bbc3557d3d784D08590eC032c4933",
+      "symbol": "USDTW",
+      "name": "TetherUSDPOW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6726,
-    "minor": 6726,
+    "major": 6727,
+    "minor": 6727,
     "patch": 84
   }
 }
