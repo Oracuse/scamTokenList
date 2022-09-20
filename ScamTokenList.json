@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7Dd42BD446a21C6B53d267A2b618036c73Bb45F8",
-      "symbol": "CRYPTOMA",
-      "name": "Cryptoma",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA5650124a12cFC978e76D6E5BAf3c340507e6e4f",
       "symbol": "DOGGER",
       "name": "Doggereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68db2F4341ca1e6376b6078f7c85C61628D5B27B",
+      "symbol": "KIBA20",
+      "name": "ProofOfKiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6746,
-    "minor": 6746,
+    "major": 6747,
+    "minor": 6747,
     "patch": 84
   }
 }
