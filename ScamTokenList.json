@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x18F003F009168099050b24650bce485344854B92",
-      "symbol": "FCX",
-      "name": "FlokiCrypt",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69A5EE0fD4d2C632C60a4E27C9e2301159731d37",
       "symbol": "THOR",
       "name": "ThorInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3BECcB94FC64189120CF002CCe7BA4Ebd00e7F7",
+      "symbol": "BART",
+      "name": "TheBartman",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6748,
-    "minor": 6748,
+    "major": 6749,
+    "minor": 6749,
     "patch": 84
   }
 }
