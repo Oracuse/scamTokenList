@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53dc601f6f7a214343d1000a191514AC490655Ed",
-      "symbol": "LSD",
-      "name": "ACID",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe40e982Be055AF1a98Fc514dF583a7b441d77158",
       "symbol": "SAUDOGE",
       "name": "SaudiDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b91b72931993449fecC9d590D0d786a41588b1E",
+      "symbol": "BFIGHT",
+      "name": "BARFIGHT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6701,
-    "minor": 6701,
+    "major": 6702,
+    "minor": 6702,
     "patch": 84
   }
 }
