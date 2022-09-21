@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x292A97Cd1ee8B562eCCB6DfD1bfdD514B1A7D9f0",
-      "symbol": "BANNED",
-      "name": "ELONGONE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84D41b6D627e775c82EB713c2Ca8A1B6abD10ceB",
       "symbol": "WSCC",
       "name": "WallStCryptoClub",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1Fef32F578678278ec1dC0da8C40157CdDD4F77",
+      "symbol": "FUUGETSU",
+      "name": "Fuugetsu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6815,
-    "minor": 6815,
+    "major": 6816,
+    "minor": 6816,
     "patch": 84
   }
 }
