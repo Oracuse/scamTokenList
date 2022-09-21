@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x411687489ca1e1B0A37A3B92F7Df4F45F190a666",
-      "symbol": "SEKIYO",
-      "name": "Sekiyo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62bFF15120c8A25857F82980A06E32229083B5ec",
       "symbol": "SKULL",
       "name": "skull",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0bc548fA010114fC8D01b2dfead86C75452bf52",
+      "symbol": "MOON",
+      "name": "MoonProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6810,
-    "minor": 6810,
+    "major": 6811,
+    "minor": 6811,
     "patch": 84
   }
 }
