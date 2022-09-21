@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62bFF15120c8A25857F82980A06E32229083B5ec",
-      "symbol": "SKULL",
-      "name": "skull",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69f0AD27ef7D446610AeDA2cDcCe06e082f720A3",
       "symbol": "BUDDHAINU",
       "name": "BUDDHAINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2AAa35014C7337f2B9f0C1A6562E50C29Cf7955f",
+      "symbol": "TEST",
+      "name": "test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6811,
-    "minor": 6811,
+    "major": 6812,
+    "minor": 6812,
     "patch": 84
   }
 }
