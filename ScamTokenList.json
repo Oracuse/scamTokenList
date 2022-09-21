@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6F4FCfbbe6e3561006cdDcea0D29DA2c398d99eB",
-      "symbol": "GRABIT",
-      "name": "GRABIT",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3176Ed1273519D51590D56C5F26DA5D5Be5a1307",
       "symbol": "DONE",
       "name": "DONE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1143d82117083cF1a0005feeE2035A2Bcd29fd2",
+      "symbol": "POG",
+      "name": "ProofOfGains",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6834,
-    "minor": 6834,
+    "major": 6835,
+    "minor": 6835,
     "patch": 84
   }
 }
