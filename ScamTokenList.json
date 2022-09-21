@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1bADc66974D8a661933F2CBB0007468f0c6e7494",
-      "symbol": "FUD",
-      "name": "FUDTOKEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x411687489ca1e1B0A37A3B92F7Df4F45F190a666",
       "symbol": "SEKIYO",
       "name": "Sekiyo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbBac3008Ae312A01aE3806590F1Fe49030aD8F6B",
+      "symbol": "VALID",
+      "name": "ValidatoorMoney",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6809,
-    "minor": 6809,
+    "major": 6810,
+    "minor": 6810,
     "patch": 84
   }
 }
