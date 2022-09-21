@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB1c899E6d70E9EFDCB43314c04Fd567b617045D4",
-      "symbol": "TC",
-      "name": "TestCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6f1a466de1489DbA10246Aeafb71A1f0B3405e34",
       "symbol": "BAKU",
       "name": "TheDreamEater",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB73856758a1B787bC542D2513ec73039294d632B",
+      "symbol": "POTHER",
+      "name": "ProofofTether",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6878,
-    "minor": 6878,
+    "major": 6879,
+    "minor": 6879,
     "patch": 84
   }
 }
