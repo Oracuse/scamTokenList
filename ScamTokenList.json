@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc5C8cF775ECcA05f0E7510676A0Ac0f67E17D8e7",
-      "symbol": "FLY",
-      "name": "FLYING",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD17E3dA4F3b1A43A8Ce7daD6A7d14A1EBf4cE12C",
       "symbol": "MAR",
       "name": "MARSINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68B560FdC74A33f7973844ba5C61B895F464413F",
+      "symbol": "MOON",
+      "name": "MoonProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6852,
-    "minor": 6852,
+    "major": 6853,
+    "minor": 6853,
     "patch": 84
   }
 }
