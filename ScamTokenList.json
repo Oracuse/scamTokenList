@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3176Ed1273519D51590D56C5F26DA5D5Be5a1307",
-      "symbol": "DONE",
-      "name": "DONE",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfB59346DC9b75444e969859A934C110995e98F4E",
       "symbol": "RED",
       "name": "RedToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1f21Bb012A5398E591B02f245029070BB9bEE0c",
+      "symbol": "KC",
+      "name": "KishuChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6835,
-    "minor": 6835,
+    "major": 6836,
+    "minor": 6836,
     "patch": 84
   }
 }
