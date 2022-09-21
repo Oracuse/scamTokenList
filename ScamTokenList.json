@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCa6f5EDb41ACe6Ea88E645FA80A114333CC032Dc",
-      "symbol": "QUACK",
-      "name": "QUACK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAF367194c7113822a5Fd62063850aacB1B43709c",
       "symbol": "FADE",
       "name": "FadeSystems",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59D9e6e02a824ed88e35da4646304266eE017F60",
+      "symbol": "DIM",
+      "name": "DogeInuMarket",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6854,
-    "minor": 6854,
+    "major": 6855,
+    "minor": 6855,
     "patch": 84
   }
 }
