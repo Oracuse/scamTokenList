@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfB59346DC9b75444e969859A934C110995e98F4E",
-      "symbol": "RED",
-      "name": "RedToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4533D5B52408652DcfAA2D5EDDe6A8aD01239fAA",
       "symbol": "MOON",
       "name": "MoonBag",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe10f03877804C8F4D9DD69E9f2078da6CD11d0b1",
+      "symbol": "YORI",
+      "name": "YORI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6836,
-    "minor": 6836,
+    "major": 6837,
+    "minor": 6837,
     "patch": 84
   }
 }
