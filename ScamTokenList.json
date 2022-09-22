@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x364760950369957eFa9687cFC7Bc83c23aa6D10C",
-      "symbol": "EFDOT",
-      "name": "EfdotOriginals",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81fbFBD0163b4f8f8Ce067F3C2265A1649CFDFd2",
       "symbol": "RED",
       "name": "Reddot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B1C7dD94b9e246E706549124005B26D6b0f5E17",
+      "symbol": "TBO",
+      "name": "TheBlackOrder",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6980,
-    "minor": 6980,
+    "major": 6981,
+    "minor": 6981,
     "patch": 84
   }
 }
