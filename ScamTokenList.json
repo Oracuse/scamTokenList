@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4c78799be823D6c71D2F28fC2F54C9d9eE45536c",
-      "symbol": "SOUL",
-      "name": "DEVILTOWN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC349724d2F1d6Ce3a037B5c8d2F2910899f09a31",
       "symbol": "CITADEL",
       "name": "CityofGold",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4fc1048Fa2Ea63A124585F8Eb35fb26C441770b",
+      "symbol": "UST",
+      "name": "ustest",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6930,
-    "minor": 6930,
+    "major": 6931,
+    "minor": 6931,
     "patch": 84
   }
 }
