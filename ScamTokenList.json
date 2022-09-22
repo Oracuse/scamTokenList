@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x269941f4C5aB86756E1f4adc8f6ea0955715b164",
-      "symbol": "BONEZ",
-      "name": "Bonez",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEfE58999f601f150F4041E52985C0e19796B9994",
       "symbol": "GIRLES",
       "name": "GIRLESToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf6f62ED6e7067f0B28e5BA8Bc036057d86B50cA5",
+      "symbol": "TEST",
+      "name": "test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6964,
-    "minor": 6964,
+    "major": 6965,
+    "minor": 6965,
     "patch": 84
   }
 }
