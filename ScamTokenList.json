@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4EBF194e9d105F00EC2E74ea4c58199837Bb3ba2",
-      "symbol": "OLYMPUS",
-      "name": "MountOlympusToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62E33F540ddA2Bd07eE107f0081a0FaAf55fBE20",
       "symbol": "TROVE",
       "name": "TheTrove",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1E6E060e3EC633dd8336bAc1804812b6F43a750",
+      "symbol": "MIVIE",
+      "name": "Mivie",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6941,
-    "minor": 6941,
+    "major": 6942,
+    "minor": 6942,
     "patch": 84
   }
 }
