@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbb8F1665E068520a7B30F4CD18730a791b0559c3",
-      "symbol": "TEST1",
-      "name": "TEST1",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1B6b150A04C22E4514D505804a759f03314Ed3d",
       "symbol": "LOW",
       "name": "Lowbee",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa72372763d69aD7382689f09D4B0a4246C9551A0",
+      "symbol": "ETHBERG",
+      "name": "Bergereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6973,
-    "minor": 6973,
+    "major": 6974,
+    "minor": 6974,
     "patch": 84
   }
 }
