@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xce69B27eDc7442F374EBf65DdFa393352f5699fe",
-      "symbol": "DINU",
-      "name": "DorohedoroInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb28A549730f6abeA95744837845B3B598430109A",
       "symbol": "USDINU",
       "name": "USDInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x785b6a4384Df3DE52dA94519C4BCC17332E794d2",
+      "symbol": "SCHWIFTY",
+      "name": "GetSchwifty",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6992,
-    "minor": 6992,
+    "major": 6993,
+    "minor": 6993,
     "patch": 84
   }
 }
