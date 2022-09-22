@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5603D2372AC6BdC8eD040E30cB6Df8EdfA8BD5c1",
-      "symbol": "USDINU",
-      "name": "USDInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x44fCA2258a648e85d6d211CC00258264499307bD",
       "symbol": "CATFISH",
       "name": "CatFish",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xee41c516b1074387ce3551099FED38f6ADeD2e74",
+      "symbol": "UST",
+      "name": "ustest2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 6939,
-    "minor": 6939,
+    "major": 6940,
+    "minor": 6940,
     "patch": 84
   }
 }
