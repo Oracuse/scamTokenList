@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb4A6fB4F0d4086beF6c9323D4266f3aE1D49eC3D",
-      "symbol": "TRADER",
-      "name": "TraderWallet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x91376343e5310143ACd93Eb4cf25bC4eCc47bD5b",
       "symbol": "TRADER",
       "name": "TraderWallet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01deF52CB1DBf3E145b5224535f804aba1a80000",
+      "symbol": "TSUKA20",
+      "name": "ProofOfDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7005,
-    "minor": 7005,
+    "major": 7006,
+    "minor": 7006,
     "patch": 84
   }
 }
