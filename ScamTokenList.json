@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc7F6AFe3d45e097769668d7355269Cd35c4867A0",
-      "symbol": "ONLYPUMP",
-      "name": "OnlyPump",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76bC5342ceA8808Ebf638b95C8531c661021c587",
       "symbol": "HUNTER",
       "name": "ALIENHUNT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x387AA431BeD52fC55A23Bdf239F809Bd314B570E",
+      "symbol": "SHINA20",
+      "name": "ProofOfShina",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7000,
-    "minor": 7000,
+    "major": 7001,
+    "minor": 7001,
     "patch": 84
   }
 }
