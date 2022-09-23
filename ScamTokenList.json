@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0e9dcD33bBC17406b397d77b9646ce9AC16Ee772",
-      "symbol": "WOMEN",
-      "name": "WomenUnite",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38FC6bd385a91fCa46f6322e5CBc691d944D0684",
       "symbol": "STAKE",
       "name": "StakeEther",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0CA0743aC3a2cc21E8104089D7950dc45E8Bc507",
+      "symbol": "OKONOMIYAKI",
+      "name": "Okonomiyaki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7060,
-    "minor": 7060,
+    "major": 7061,
+    "minor": 7061,
     "patch": 84
   }
 }
