@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7ee4417D8041DeA4A0dac4597Df3A33b0B83C092",
-      "symbol": "QUACK",
-      "name": "ADuckersDream",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa5a1b4C1eE08A636a1B7E240EAe4bF1D1cD8Bf0C",
       "symbol": "TEST",
       "name": "tester",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x922A805c7989892fE90f2E8069e57B33143753d0",
+      "symbol": "BLINDER",
+      "name": "PEAKYBLINDERS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7090,
-    "minor": 7090,
+    "major": 7091,
+    "minor": 7091,
     "patch": 84
   }
 }
