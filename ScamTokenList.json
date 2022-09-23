@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd9A2eb0f89663C4B5B89E06FA51E87B8Afa910AF",
-      "symbol": "SCC",
-      "name": "SaudiCamelClub",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCcf3549bb3aEaA6F8B240da03be2446827A54079",
       "symbol": "USI",
       "name": "UnitedStatesOfInfla",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20b779B0ccEB051B5780B57bF5fa5eeD4931D31c",
+      "symbol": "FBABY",
+      "name": "FunnyBaby",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7082,
-    "minor": 7082,
+    "major": 7083,
+    "minor": 7083,
     "patch": 84
   }
 }
