@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2A4b5b4281D3c9a86C86cbbFE022833f38825d7F",
-      "symbol": "BEAST",
-      "name": "MrBeast",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC91fEe60C46F68f8C79c5FfC617f6832e98dFD2d",
       "symbol": "CRACK",
       "name": "AHuntersDream",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d7F4AF227ee9bbF7119C36289183B95A04DbBee",
+      "symbol": "MINKSWAP",
+      "name": "MinkSwap",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7012,
-    "minor": 7012,
+    "major": 7013,
+    "minor": 7013,
     "patch": 84
   }
 }
