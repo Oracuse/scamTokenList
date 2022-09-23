@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaFCC4c36C74f77a4CC19981801efAA96886ec83e",
-      "symbol": "TEST",
-      "name": "tester",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdf1Fbf4ebB94A32B30BeE1d2164cC6F39d4014cA",
       "symbol": "DPUNK",
       "name": "DogePunkz",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAfc2e1AF1E28e6DB82A99C2CE852dA8DdFbb4ce7",
+      "symbol": "TEST",
+      "name": "TestToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7094,
-    "minor": 7094,
+    "major": 7095,
+    "minor": 7095,
     "patch": 84
   }
 }
