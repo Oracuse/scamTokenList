@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4AFBc8a7D0b24C878Fc594AdC82091a6838B6850",
-      "symbol": "SENDOR",
-      "name": "SENDOR",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66d44ce262D52254b1EFfc0D64A1eaf1366649d5",
       "symbol": "DEGEN",
       "name": "MOONORDUST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x438371E91e48354EDf025c034Dda0C61aA7Ef6Df",
+      "symbol": "SCHWIFTY",
+      "name": "GetSchwifty",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7058,
-    "minor": 7058,
+    "major": 7059,
+    "minor": 7059,
     "patch": 84
   }
 }
