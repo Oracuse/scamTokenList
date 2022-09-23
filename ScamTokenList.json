@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbFE494fa1Dc1348D0d0c79d5ab20c246fE0abA44",
-      "symbol": "TEST1",
-      "name": "TEST1",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0C7aa9A57D5cC0c534BAC0A6c3a65f0bd4b472c",
       "symbol": "TLAPE",
       "name": "TheLastApe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF31f513d6974b4e9cd148a8D06D3F7F16A865E22",
+      "symbol": "SUKAI",
+      "name": "AmenoMinakanushi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7064,
-    "minor": 7064,
+    "major": 7065,
+    "minor": 7065,
     "patch": 84
   }
 }
