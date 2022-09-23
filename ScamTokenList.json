@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe847FC7cE2f64E47EF1c321B23CDF2F3B6aa9221",
-      "symbol": "MCCINU",
-      "name": "MultiChainCapitalIn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf5908d2dc45dfC87D0E62bcf1AAeC9fB88E47b09",
       "symbol": "MIND",
       "name": "MindBlockchain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d995A2C831a173cBb7552d31dDCe633b16aD893",
+      "symbol": "FTD",
+      "name": "FTDToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7120,
-    "minor": 7120,
+    "major": 7121,
+    "minor": 7121,
     "patch": 84
   }
 }
