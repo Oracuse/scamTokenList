@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe65bC08e7A92f6F4CC4d314C2Ab316FC56551754",
-      "symbol": "GUNAPE",
-      "name": "GUNAPE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2F78847C10Cd71Bf283ABEab786FfbB6ddcD964F",
       "symbol": "SWIFT",
       "name": "Swift",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F9f586f51595DDa0FAC8f734f39f7409D2874E7",
+      "symbol": "BEAN",
+      "name": "BustedBean",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7105,
-    "minor": 7105,
+    "major": 7106,
+    "minor": 7106,
     "patch": 84
   }
 }
