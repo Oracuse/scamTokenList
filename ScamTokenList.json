@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFb9698Fe5bD794075B91C92eFB7B5524cdED23e2",
-      "symbol": "FADE",
-      "name": "fadesystems",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71E9230A083366ca67E87F22417b01D5a51Ea36D",
       "symbol": "3M",
       "name": "ThreeMonkeys",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76a8A0F6E51BBaAB592572AF01D41C02da5a87E9",
+      "symbol": "POC",
+      "name": "ProofOfClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 7048,
-    "minor": 7048,
+    "major": 7049,
+    "minor": 7049,
     "patch": 84
   }
 }
