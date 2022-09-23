@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3F7D6d4a3d8a207bbBDA220D739E63CAa394e913",
-      "symbol": "TENGU",
-      "name": "Tengu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD565cbF5aB918642532faaFb45149a2008867FEF",
       "symbol": "URANIUM",
       "name": "Uranium",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4DF82b6BAbf43bA68aEcEB25b47419E02fcfb31A",
+      "symbol": "FTD",
+      "name": "FTDToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7114,
-    "minor": 7114,
+    "major": 7115,
+    "minor": 7115,
     "patch": 84
   }
 }
