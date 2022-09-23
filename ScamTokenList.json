@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA77F8Ed6d7dB1bb2b2A64BF19bD71F3Bf18465B3",
-      "symbol": "PBANK",
-      "name": "USDCPiggyBank",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9bE47dD149b0037bB1825137D19Fa9Edf5218358",
       "symbol": "FORSAKEN",
       "name": "Forsaken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71d53aBC7D113FF6508A80A2900Af18A64bDaFCF",
+      "symbol": "SUZAKU",
+      "name": "Suzaku",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7132,
-    "minor": 7132,
+    "major": 7133,
+    "minor": 7133,
     "patch": 84
   }
 }
