@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2db20c181a4cc24E5513e3Fc2eE840F985f3CaA3",
-      "symbol": "TRADER",
-      "name": "TraderWallet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8FB5D1fA941185D42115289795b8D6e8F2871daC",
       "symbol": "KOOL",
       "name": "koolcoinman",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Af10d1dF47B04beCB4D2d47ec066e67Fd661294",
+      "symbol": "WITHDRAW",
+      "name": "Withdraw",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7010,
-    "minor": 7010,
+    "major": 7011,
+    "minor": 7011,
     "patch": 84
   }
 }
