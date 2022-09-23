@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6f6173158d17265baA70561CCD7227dE378d95a0",
-      "symbol": "STARSHIP",
-      "name": "StarshipInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3BeD0991EaFe3361aE2c2420Eac8DbA0578D5279",
       "symbol": "WREVX",
       "name": "WrappedRevelationTo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C9beC8b6A3D0dE5FD043f278E73681435E4CB35",
+      "symbol": "MONO",
+      "name": "TheMonolith",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7050,
-    "minor": 7050,
+    "major": 7051,
+    "minor": 7051,
     "patch": 84
   }
 }
