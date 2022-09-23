@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f47bbBe8F1B5D0bC82123dEBF1F90359D2c3b55",
-      "symbol": "TASTY",
-      "name": "Yummy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA77F8Ed6d7dB1bb2b2A64BF19bD71F3Bf18465B3",
       "symbol": "PBANK",
       "name": "USDCPiggyBank",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94cb1577988c1e17E5811ECc90A10A13fd51D2b6",
+      "symbol": "AI",
+      "name": "TheAlgorithm",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7131,
-    "minor": 7131,
+    "major": 7132,
+    "minor": 7132,
     "patch": 84
   }
 }
