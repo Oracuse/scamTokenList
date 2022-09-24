@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf31A0e8767E28f3e11f844a2454A4ee7272D463D",
-      "symbol": "AVATAR",
-      "name": "Avatar",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD6B3fEe850a783f93BDaf88872C571EB4ECfd9F8",
       "symbol": "MOONZY",
       "name": "MoonzyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x483B50F9765b2dD074dD119c783CEb8d711c834d",
+      "symbol": "AKIBA",
+      "name": "AkibaSouken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7141,
-    "minor": 7141,
+    "major": 7142,
+    "minor": 7142,
     "patch": 84
   }
 }
