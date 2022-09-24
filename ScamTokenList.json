@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb0d47dD82fb8FACb1Bc4bA534a836B545aD97d2B",
-      "symbol": "JIGSAW",
-      "name": "JigsawToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5c0552aA1fc75A1644924ED2A9c70fdcc0f17458",
       "symbol": "BONGO",
       "name": "BongoToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01cD75F158249F97292e1944cE1e75A06bEdFCc8",
+      "symbol": "SAMEGAWA",
+      "name": "TsukaProtector",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7237,
-    "minor": 7237,
+    "major": 7238,
+    "minor": 7238,
     "patch": 84
   }
 }
