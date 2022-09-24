@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x80C77A45C2A56E6FA04C9b9D2419899240a32f7C",
-      "symbol": "PRIVATE",
-      "name": "Incognito",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9Bf3Ab2427E0579e45B2fAE150499eE5ae44a48B",
       "symbol": "OTAY",
       "name": "Otay",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22e04177e386BABBB74D6Ba400754791cfC827b0",
+      "symbol": "STABLZ",
+      "name": "TheStabilizer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7239,
-    "minor": 7239,
+    "major": 7240,
+    "minor": 7240,
     "patch": 84
   }
 }
