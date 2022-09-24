@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb18734c451E0D2b41BF1F1187FD1392b31B1a69A",
-      "symbol": "MOLES",
-      "name": "Groundworks",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc6b48656Bed9f3DF9eF41e6B79F25EefBE4A8057",
       "symbol": "DEL",
       "name": "DeltaNeutral",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95678862827cd4838cb04231a5147bF080DF5D9d",
+      "symbol": "MINI",
+      "name": "MiniTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7159,
-    "minor": 7159,
+    "major": 7160,
+    "minor": 7160,
     "patch": 84
   }
 }
