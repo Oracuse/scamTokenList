@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7435ff44105a99f64F2B4F9562Ae3AE104721e90",
-      "symbol": "TERC20",
-      "name": "TrueERC20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD2E0407DD1595987f0A717D6cAD8fD917e9FE4a7",
       "symbol": "NICE",
       "name": "NiceLabs",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57514018e25529B125A254e2dc00c9B08cf5baB9",
+      "symbol": "SEINT",
+      "name": "Seinarutokun",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7183,
-    "minor": 7183,
+    "major": 7184,
+    "minor": 7184,
     "patch": 84
   }
 }
