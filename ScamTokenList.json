@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2Fa86a33cE9Ab986E48485Ef81Be34AA8e044bE3",
-      "symbol": "DRACULA",
-      "name": "CountDracula",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x834F88cd60e36434CB8Ea48e53C3641500ae606f",
       "symbol": "MEMEC",
       "name": "MemeClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9075C17A5093a4F3052c5c0Beed4fc2f344A83aF",
+      "symbol": "LEGACY",
+      "name": "Legacy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7204,
-    "minor": 7204,
+    "major": 7205,
+    "minor": 7205,
     "patch": 84
   }
 }
