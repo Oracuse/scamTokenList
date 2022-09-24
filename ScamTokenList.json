@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2b1990c9CFFBB22e98251c93c184df2e07E8D188",
-      "symbol": "EAPES",
-      "name": "EternalApes",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA5730E1Ac227baEA20612F19635cF7768bd789E9",
       "symbol": "TEST",
       "name": "Test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF621c8F455848b55Dc738089752f59907A4B6F22",
+      "symbol": "HNTM",
+      "name": "Helium",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7210,
-    "minor": 7210,
+    "major": 7211,
+    "minor": 7211,
     "patch": 84
   }
 }
