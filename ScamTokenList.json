@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD2B4Fbdd9cBf2903F6517a97e125ea7F71bEc786",
-      "symbol": "BGS",
-      "name": "BurstyGreedySpider",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0d47dD82fb8FACb1Bc4bA534a836B545aD97d2B",
       "symbol": "JIGSAW",
       "name": "JigsawToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C7eA5e13fA37cE6cFa281c2b55DAFA4Ec8867dC",
+      "symbol": "POT",
+      "name": "ProofOfTsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7236,
-    "minor": 7236,
+    "major": 7237,
+    "minor": 7237,
     "patch": 84
   }
 }
