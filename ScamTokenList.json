@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC933b4Cef51e09e2E1cfB05a4B35050969B7F4C9",
-      "symbol": "ANGRYBEAR",
-      "name": "AngryBear",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2ea2Bd1cf10bED163487a01D29F8E6bf9c44124A",
       "symbol": "INFIT",
       "name": "InflationisTransito",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc18675D501c81e42976F6455f079a7D8A7B595bc",
+      "symbol": "SUMO",
+      "name": "NezuminoSumo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7201,
-    "minor": 7201,
+    "major": 7202,
+    "minor": 7202,
     "patch": 84
   }
 }
