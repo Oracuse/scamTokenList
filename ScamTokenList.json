@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1e27E29A08299382134fA07037b4Aab8b521A09e",
-      "symbol": "PREY",
-      "name": "PREDATOR",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf4f62416C607a99A0D47F55b5ABfF3e8ADd079D3",
       "symbol": "CRYPTOPUNKS",
       "name": "CRYPTOPUNKSB",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6FCFC9BaCC1cfBA33ba5C2e3b93A2592585b2257",
+      "symbol": "PQC",
+      "name": "PQCProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7148,
-    "minor": 7148,
+    "major": 7149,
+    "minor": 7149,
     "patch": 84
   }
 }
