@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0196373242A730Ba3A4d29C76979D77b51DC6936",
-      "symbol": "ATLANTIS",
-      "name": "LostEmpire",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe4b745427A511da7bd2F9836CA7EbB3fed772e6e",
       "symbol": "DONOTBUY",
       "name": "Test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x700Ba61BfA99b0611F5486074Fd9aDe0B17c1C13",
+      "symbol": "PROB",
+      "name": "ProbablyNothing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7150,
-    "minor": 7150,
+    "major": 7151,
+    "minor": 7151,
     "patch": 84
   }
 }
