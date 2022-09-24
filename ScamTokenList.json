@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98399E02d5717CB87c2A4bF9aa46dF14f537EccF",
-      "symbol": "TAKOTSUBO",
-      "name": "Takotsubo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x101fcEE60b4332F88142CCd95c8be44cCdC59A71",
       "symbol": "FADE",
       "name": "FadeSystems",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51bc63a26EFA74bf5af7bf48eaEb068B9A8105f8",
+      "symbol": "OKUNI",
+      "name": "Okuninushi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7154,
-    "minor": 7154,
+    "major": 7155,
+    "minor": 7155,
     "patch": 84
   }
 }
