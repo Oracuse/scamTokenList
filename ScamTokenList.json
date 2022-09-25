@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0f30AA3917765c517B02f8f7Cd4b258a8faA4F82",
-      "symbol": "ODIN",
-      "name": "Odineum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5818b3cf8E532CE0b61828BFcE63B43fa0cD19e8",
       "symbol": "MARHABA",
       "name": "MosqueDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x427243Db19E19690096c51EaEa006D7bC2FBe85E",
+      "symbol": "BUSDT",
+      "name": "BabyUSDT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7305,
-    "minor": 7305,
+    "major": 7306,
+    "minor": 7306,
     "patch": 84
   }
 }
