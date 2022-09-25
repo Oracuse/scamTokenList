@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x120b6a75fc9a00D9E9092078e27958b00f6C49d9",
-      "symbol": "ZINU",
-      "name": "ZenInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbF838e6eeCcf40535F913F6648CcdFc318812744",
       "symbol": "KOK",
       "name": "KokInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Db09E2276aEc67BF3b0a582B6c241e739Fb3ECF",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 7364,
-    "minor": 7364,
+    "major": 7365,
+    "minor": 7365,
     "patch": 84
   }
 }
