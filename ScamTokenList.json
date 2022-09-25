@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa2DdEf2915007A1D9A4aa19c3Be47a3379CC4Be9",
-      "symbol": "SUPERPIG",
-      "name": "SuperPig",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3C2c293ecB00674937041E7E7a0AF16bB42fFA82",
       "symbol": "BROKENSEA",
       "name": "BROKENSEA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x649516DbEb78967678B16C0DB023A109233F398B",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 7359,
-    "minor": 7359,
+    "major": 7360,
+    "minor": 7360,
     "patch": 84
   }
 }
