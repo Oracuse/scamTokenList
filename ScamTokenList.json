@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc2e698fAf8462E1a8A64cf7d083322748a713321",
-      "symbol": "CRONY",
-      "name": "CRONY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69a6E4B9F736600DAFB4a815F9873Bf4B7D7e0F7",
       "symbol": "GRIFFIN",
       "name": "GriffinToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Afabe5192EE4dC658a4Ea7A331bAb77Fd73A3Eb",
+      "symbol": "SAFPRO",
+      "name": "SAFEProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7370,
-    "minor": 7370,
+    "major": 7371,
+    "minor": 7371,
     "patch": 84
   }
 }
