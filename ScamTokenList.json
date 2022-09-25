@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4F954bDfcA2389233455F52bCcb03d8B6fE1586c",
-      "symbol": "GAMBLE",
-      "name": "GambleCoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x86123C76D4056f4e0C6dEFf2af503923951e8720",
       "symbol": "FTA",
       "name": "ForTheAlphas",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB67C8409cB93fEa5f028DC2aF75c998B66F80663",
+      "symbol": "SAAS",
+      "name": "SAASProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7415,
-    "minor": 7415,
+    "major": 7416,
+    "minor": 7416,
     "patch": 84
   }
 }
