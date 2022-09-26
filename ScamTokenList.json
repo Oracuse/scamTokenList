@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb86168DDb4dC4FecA163D9673458e2a0A14344a9",
-      "symbol": "POKER",
-      "name": "POKEREUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x755da7F931D11C42F723C7Dc9EDE35A2808817A3",
       "symbol": "SELL",
       "name": "SELLTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcB8e35229135d096C169A62e091cD99835792Ab9",
+      "symbol": "CWAMER",
+      "name": "BabyCramer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7460,
-    "minor": 7460,
+    "major": 7461,
+    "minor": 7461,
     "patch": 84
   }
 }
