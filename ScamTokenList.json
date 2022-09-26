@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x68B5a1E111Ee626CA52c452f7915120622a9d00c",
-      "symbol": "SELL",
-      "name": "SELLTOKEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDfeD718Ac45963fE83643E79339A5cC5F6356cB9",
       "symbol": "PRIEST",
       "name": "PriestInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0c99729fae5221ac4fbBc9fA87dA40501Fb9bDE",
+      "symbol": "ZBCZ",
+      "name": "ZebecProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7462,
-    "minor": 7462,
+    "major": 7463,
+    "minor": 7463,
     "patch": 84
   }
 }
