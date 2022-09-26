@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xae63c5bC11B7792a446850570dc4717Ed330ddAE",
-      "symbol": "CAFFEINU",
-      "name": "CaffeineInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x92FF2FD79D09626d2ba803c6A8C8AEaB7C92245a",
       "symbol": "RAIJIN",
       "name": "Raijin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc881a2457912b76EF1f40fbAB40293d4D55236C8",
+      "symbol": "SHIBKINAMI",
+      "name": "ShibKinami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7499,
-    "minor": 7499,
+    "major": 7500,
+    "minor": 7500,
     "patch": 84
   }
 }
