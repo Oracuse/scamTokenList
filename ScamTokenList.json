@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2B26be4A1d2DB5F1538cf7c4297F5505D546b635",
-      "symbol": "MEME",
-      "name": "MemeFace",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x690a64Ef521246A2f8dBD5a716D6098b94d0e8d3",
       "symbol": "MIDAS",
       "name": "HandsofMidas",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4Df6BFadcc2f7eD546C8278201288B6C43A96AA",
+      "symbol": "TRUMP",
+      "name": "TrumpToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7548,
-    "minor": 7548,
+    "major": 7549,
+    "minor": 7549,
     "patch": 84
   }
 }
