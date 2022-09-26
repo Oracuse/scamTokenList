@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDbccfe4A00df9b8F8858CAD0106E4cE9cF7731d8",
-      "symbol": "INFLATION",
-      "name": "InflationInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9Dc56782609CF36d862316bD2829DE9dBAeFB6d0",
       "symbol": "MASTER",
       "name": "ShinraiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37Dc28E11F2e6647b66357de605BDb2087Bc37E7",
+      "symbol": "POF",
+      "name": "ProofofDollar",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7588,
-    "minor": 7588,
+    "major": 7589,
+    "minor": 7589,
     "patch": 84
   }
 }
