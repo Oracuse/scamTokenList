@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7471D392715aBb5f867991dc9B266d304B2a618c",
-      "symbol": "TRADER",
-      "name": "TraderWallet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x220E221cc0d7a96aa3cDD310ccCFcC7661AF7007",
       "symbol": "OKIDOKI",
       "name": "Okidoki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc9FB823821b51fD0A5dE7e0052De91Bf2A57586",
+      "symbol": "CASA",
+      "name": "Casablanca",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 7539,
-    "minor": 7539,
+    "major": 7540,
+    "minor": 7540,
     "patch": 84
   }
 }
