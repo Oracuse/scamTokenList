@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4Ad4EfB2545415Aa9a4E31Eb5183c57886f4ac0e",
-      "symbol": "GIVEMYMONEY",
-      "name": "GiveMyUSDC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1962E5fFBA6EC276B17ec020dbA67193cE5f8043",
       "symbol": "MINI",
       "name": "MINIINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD122BbE3468e3C1BC4815453Ce2bb30aC2a27593",
+      "symbol": "SAPRO",
+      "name": "SAFEProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7471,
-    "minor": 7471,
+    "major": 7472,
+    "minor": 7472,
     "patch": 84
   }
 }
