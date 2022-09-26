@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x27Fa7776A1a0a728a690D0F620942daA1A8b9877",
-      "symbol": "DDUCK",
-      "name": "DiamondDuck",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x488854b7B1b9dE09FDcf1fB034B2EB647339B2C0",
       "symbol": "FUT",
       "name": "FuckUtilityToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF22f83644d171Da7c19FC283db4A078380dFc5f6",
+      "symbol": "BANKTSUKA",
+      "name": "BankofTsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7440,
-    "minor": 7440,
+    "major": 7441,
+    "minor": 7441,
     "patch": 84
   }
 }
