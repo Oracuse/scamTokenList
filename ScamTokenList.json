@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x92FF2FD79D09626d2ba803c6A8C8AEaB7C92245a",
-      "symbol": "RAIJIN",
-      "name": "Raijin",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc1B984a35b34E266cd88E52dD56E6f8da7B21E87",
       "symbol": "SIMPLE",
       "name": "Aquietplace",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaD81d3917339C6Da2496E6E6BAEFd5b3EB53F106",
+      "symbol": "DESU",
+      "name": "DejitaruSenju",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7500,
-    "minor": 7500,
+    "major": 7501,
+    "minor": 7501,
     "patch": 84
   }
 }
