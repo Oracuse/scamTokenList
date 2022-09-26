@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x755da7F931D11C42F723C7Dc9EDE35A2808817A3",
-      "symbol": "SELL",
-      "name": "SELLTOKEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x68B5a1E111Ee626CA52c452f7915120622a9d00c",
       "symbol": "SELL",
       "name": "SELLTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fE0fFCa7E97b5f3e211b55F2c823Ac99e64D7F1",
+      "symbol": "TREEFINANCE",
+      "name": "TREE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7461,
-    "minor": 7461,
+    "major": 7462,
+    "minor": 7462,
     "patch": 84
   }
 }
