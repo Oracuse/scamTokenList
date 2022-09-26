@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf6045C635E4680003e90F098b9DB053cc2d71080",
-      "symbol": "METH",
-      "name": "MethToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdBEBb9C554814915ac23E1aC4584484018437913",
       "symbol": "YONKO2",
       "name": "Yonko2",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x900a684356DF7e13bd0720D69F8aA12af149625D",
+      "symbol": "TSN",
+      "name": "TheStarryNight",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7590,
-    "minor": 7590,
+    "major": 7591,
+    "minor": 7591,
     "patch": 84
   }
 }
