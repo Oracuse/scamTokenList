@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x481290cc666Cb9fF1ad1FF34ea7612dc47fD6e65",
-      "symbol": "PAY",
-      "name": "PAYLOAD",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcf920B7346a5c25B34cc8472C0c69b6A75A9e157",
       "symbol": "FTC",
       "name": "ForTheCulture",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00823A44daD9C080a5f959662076E9Ee261ec271",
+      "symbol": "HEXCAKE",
+      "name": "HexCake",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7707,
-    "minor": 7707,
+    "major": 7708,
+    "minor": 7708,
     "patch": 84
   }
 }
