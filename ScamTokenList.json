@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb4cA392Ef3A48dff75a04869347DE5A60BAf278d",
-      "symbol": "CATRO",
-      "name": "CATROBOT",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6111494B00a625CbFf89Ad890543C70a5D3FC3fe",
       "symbol": "MURPHY",
       "name": "MurphyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8072879D8eBE0b854C32639365566dc3f4a6Ec6",
+      "symbol": "CAKEDAO",
+      "name": "CakeDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7720,
-    "minor": 7720,
+    "major": 7721,
+    "minor": 7721,
     "patch": 84
   }
 }
