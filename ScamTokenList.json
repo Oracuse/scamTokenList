@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD458B839899EB66b569EEe54A5b2B2B78E99048E",
-      "symbol": "RAPTURE",
-      "name": "TheSecondComing",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x13D22C3dbb479EB498BA25BA1c3bD660DC84E1c0",
       "symbol": "FIBO",
       "name": "Fibonacci",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77001fB9431da445837D74d6fE419C4f253a5213",
+      "symbol": "KWONZI",
+      "name": "KwonsPonzi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7687,
-    "minor": 7687,
+    "major": 7688,
+    "minor": 7688,
     "patch": 84
   }
 }
