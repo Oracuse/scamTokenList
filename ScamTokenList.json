@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x47EAAc90BBA840E6cD02dDc5F2AA263385c25CEB",
-      "symbol": "SPEC",
-      "name": "Spectrum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcbc6922BB75e55d7cA5DAbcF0EA2D7787Fd023f6",
       "symbol": "BITS",
       "name": "Gridcraft",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC21B0fA7630fdCFB22aD1412ABAD6d7AC96Fb7C2",
+      "symbol": "SC",
+      "name": "SquidCake",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7701,
-    "minor": 7701,
+    "major": 7702,
+    "minor": 7702,
     "patch": 84
   }
 }
