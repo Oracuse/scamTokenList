@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2cAc9bBaF8ee877296274FC7c68C422e54aAB12F",
-      "symbol": "CATFISH",
-      "name": "CatFish",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1C59Fd999bBD418D27505c5e489648F59068407E",
       "symbol": "MP",
       "name": "MetaPaint",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D8313aBc3CCF156C5ffD7b39877e544aEb0d4b8",
+      "symbol": "HYPER",
+      "name": "InuFlation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7618,
-    "minor": 7618,
+    "major": 7619,
+    "minor": 7619,
     "patch": 84
   }
 }
