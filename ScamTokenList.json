@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAc1Baa3A6fF9EEfBd2ea9bb009eDAB83614da3D1",
-      "symbol": "ODIN",
-      "name": "Odineum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC4Ac39093c0d4B4De13EaC7a3734fe819E4687dc",
       "symbol": "FUT",
       "name": "FuckUtilityToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf84588a64D90F5FDD8c8E05DD4bA670d33b182AA",
+      "symbol": "HALLAS",
+      "name": "HallasToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7740,
-    "minor": 7740,
+    "major": 7741,
+    "minor": 7741,
     "patch": 84
   }
 }
