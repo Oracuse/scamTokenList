@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFE9840353da1dea7D5064e613AAeA06d1607a420",
-      "symbol": "RUMOR",
-      "name": "TheRumor",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7eE5fef234d9Cfff73fF2bE690108b43D375d91a",
       "symbol": "DEGENS",
       "name": "DegensOfETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7105E64bF67ECA3Ae9b123F0e5Ca2b83b2eF2dA0",
+      "symbol": "X7DAO",
+      "name": "X7DAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7727,
-    "minor": 7727,
+    "major": 7728,
+    "minor": 7728,
     "patch": 84
   }
 }
