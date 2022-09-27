@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7881880288d651d540c330E12A5235Beb94FF27A",
-      "symbol": "KIRK",
-      "name": "KirkDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBa7f949fc4C4A624Bc20D0Bb7D9CAc27f74dad57",
       "symbol": "CHERISH",
       "name": "Moment",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x692C941f30c2C2fe7728eC601eB4b02e1eDdD348",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7659,
-    "minor": 7659,
+    "major": 7660,
+    "minor": 7660,
     "patch": 84
   }
 }
