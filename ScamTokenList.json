@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x79B8BA872e8D02aCe1891E31C3d11381B95CD518",
-      "symbol": "GRANDI",
-      "name": "GrandiToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7dFeE22F8E15908682e59088CE88b83953Dd45df",
       "symbol": "CX",
       "name": "CubeX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1542947e272607057C9d36D3C0920C37dB7a4172",
+      "symbol": "POLGE",
+      "name": "OnPolge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7815,
-    "minor": 7815,
+    "major": 7816,
+    "minor": 7816,
     "patch": 84
   }
 }
