@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x305c9fcEf20b050396827629D3CA8627Af0055a2",
-      "symbol": "SPACEWW3",
-      "name": "SpaceWW3",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa6eE2948A438EfABeA3ea42b73aDE9A711B29eE4",
       "symbol": "GENESIS",
       "name": "GENESIS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf45409EDb249631388e77CAf3cec29c4907CE238",
+      "symbol": "SLIPPAGE",
+      "name": "WYS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 7819,
-    "minor": 7819,
+    "major": 7820,
+    "minor": 7820,
     "patch": 84
   }
 }
