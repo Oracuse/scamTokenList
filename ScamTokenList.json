@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB9cfA59e1Fab575cBd3c017cF2EAA20C309036a8",
-      "symbol": "7LEV",
-      "name": "SevenLevels",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc5F36a91dF25fFBB42960652e92c11d2c55D7aAD",
       "symbol": "SHIBASAUDI",
       "name": "ShibaSaudi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8aC9a06dd5a1b76199439F90039b32482305EAF5",
+      "symbol": "TKF",
+      "name": "TheKekFather",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7882,
-    "minor": 7882,
+    "major": 7883,
+    "minor": 7883,
     "patch": 84
   }
 }
