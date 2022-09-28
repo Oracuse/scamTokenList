@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4b7cC634F5F4469d77A8E3c89762C27BC97646b3",
-      "symbol": "DOC",
-      "name": "DeathOfTheCrow",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd146e5593B4E6168535c23535cd7CDc43bf53f1c",
       "symbol": "LIMU",
       "name": "LimeWireInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDa99396b6Be2408e0aeF3d1a412072fA30102a7E",
+      "symbol": "AKIRA",
+      "name": "Akira",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 7799,
-    "minor": 7799,
+    "major": 7800,
+    "minor": 7800,
     "patch": 84
   }
 }
