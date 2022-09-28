@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF80fBf5C7570e362D0E77cA9d26746AbF837c6dd",
-      "symbol": "RUSH",
-      "name": "TheRush",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7b816A29ddb5C7592B3e35E9E47B5724d239316D",
       "symbol": "BULL",
       "name": "BULLEREUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F6D57A54995c9dF0d0bDC62A3ceDd54a954F5FA",
+      "symbol": "MCDONALDSFRENCHFRIE",
+      "name": "MFF",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 7853,
-    "minor": 7853,
+    "major": 7854,
+    "minor": 7854,
     "patch": 84
   }
 }
