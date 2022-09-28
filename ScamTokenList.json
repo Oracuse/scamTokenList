@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa6eE2948A438EfABeA3ea42b73aDE9A711B29eE4",
-      "symbol": "GENESIS",
-      "name": "GENESIS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81895833eEbF10Fb4CEe7dc2BA5A921ec7802a2B",
       "symbol": "PAN",
       "name": "ThePantheon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a98F4BB3fCF26a782B4ec08F1764F10895BA09B",
+      "symbol": "AGENERATE",
+      "name": "AiGenerate",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7820,
-    "minor": 7820,
+    "major": 7821,
+    "minor": 7821,
     "patch": 84
   }
 }
