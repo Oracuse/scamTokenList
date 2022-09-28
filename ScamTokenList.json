@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17D5587764AF629f652970BE6C6D59b2c9994E89",
-      "symbol": "GHIDORAH",
-      "name": "GhidorahInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x132fC527658983768461966E4a73a25abC804573",
       "symbol": "GENESIS",
       "name": "GENESISProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8Ec5b27de7D971D74e8531BaA27853cFfDFae1D",
+      "symbol": "MNC",
+      "name": "Manic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7806,
-    "minor": 7806,
+    "major": 7807,
+    "minor": 7807,
     "patch": 84
   }
 }
