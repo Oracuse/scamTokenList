@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6A16D9dd877d47c25F9874f426777fcA0F9907b0",
-      "symbol": "SHIRON",
-      "name": "ShironToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc57eFFb5bB64C18B06B3145919F4e5D28f7750De",
       "symbol": "TSUKASANGHA",
       "name": "TsukaSangha",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA76D9DC75Cf5aE4422149e1F5c07DCA3a7dEfFaF",
+      "symbol": "NIMBLE",
+      "name": "Nimble",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7824,
-    "minor": 7824,
+    "major": 7825,
+    "minor": 7825,
     "patch": 84
   }
 }
