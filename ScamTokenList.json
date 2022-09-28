@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x68aEb2F6B6010318fBa7240BF4b47f83FB49aa99",
-      "symbol": "YOUTUBE",
-      "name": "YouTube",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDebC8Db6b8038578eC19A7521c9fAfea4467CFeF",
       "symbol": "ELDORADO",
       "name": "TheLostCityofGold",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E24224484c7E445438AE9eD9B03a0108aD798f2",
+      "symbol": "CHIP",
+      "name": "ChipToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 7849,
-    "minor": 7849,
+    "major": 7850,
+    "minor": 7850,
     "patch": 84
   }
 }
