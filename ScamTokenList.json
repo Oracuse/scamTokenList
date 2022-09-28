@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x548D404A08D8BED5D1a97FB940124E4D0c2d323e",
-      "symbol": "BULL",
-      "name": "BearPredator",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x43c8aFD2a5893742506beffF2A6496240D26109B",
       "symbol": "PHLYTE",
       "name": "Phlyte",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa8779342D1DfF3b0a5D1B1A8618d569f157f437c",
+      "symbol": "CHAGAMA",
+      "name": "BunbukuChagama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7898,
-    "minor": 7898,
+    "major": 7899,
+    "minor": 7899,
     "patch": 84
   }
 }
