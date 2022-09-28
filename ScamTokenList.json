@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA5fa387D56505b16e20fA1d5ae621Be6d7991524",
-      "symbol": "POKETH",
-      "name": "Pokereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x91B6008a9bCD041440F39Cc9EAbB8aaf8dDEEDa3",
       "symbol": "HERUKA",
       "name": "Tsangnyon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72BD2930663b30dBA3cd362bc1f8C2251E24C73A",
+      "symbol": "JEETKILLER",
+      "name": "JeetDestroyer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 7812,
-    "minor": 7812,
+    "major": 7813,
+    "minor": 7813,
     "patch": 84
   }
 }
