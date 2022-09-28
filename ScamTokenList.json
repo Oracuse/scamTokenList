@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2a7e453C8d4136313e4CCcc6D6fA1dB684B50cC8",
-      "symbol": "HANNYA",
-      "name": "HannyaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xee814b2850632CAB16646F8Bdaf972Fdef8733C5",
       "symbol": "UP",
       "name": "OnlyUP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5ad406dd08d0ABA38C1fE23B72e09969d5291e0f",
+      "symbol": "MXS",
+      "name": "MixSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7861,
-    "minor": 7861,
+    "major": 7862,
+    "minor": 7862,
     "patch": 84
   }
 }
