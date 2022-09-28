@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD2ecF08545A352694A0f8aaDA0Eb8Ad699e4F750",
-      "symbol": "BSU",
-      "name": "BlackSheepUnited",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5058B3d3908B8C732a604251df86aA68354E150C",
       "symbol": "HAKUDRAGON",
       "name": "HakuDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDeb372B9d42E39072e36f77d005541bcB15c8Dd3",
+      "symbol": "TSUKI",
+      "name": "Tsukimoto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7902,
-    "minor": 7902,
+    "major": 7903,
+    "minor": 7903,
     "patch": 84
   }
 }
