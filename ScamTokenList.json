@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9493c1f5B2bBd521FF4d628cfc3B23Fa255E0ED4",
-      "symbol": "MBULL",
-      "name": "MoonBullToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2a7e453C8d4136313e4CCcc6D6fA1dB684B50cC8",
       "symbol": "HANNYA",
       "name": "HannyaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBeCF1D2C74Bcb5700dfb6bA29C19681127AB2727",
+      "symbol": "SARU",
+      "name": "Saru",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7860,
-    "minor": 7860,
+    "major": 7861,
+    "minor": 7861,
     "patch": 84
   }
 }
