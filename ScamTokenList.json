@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2804D3C29590CC7D52487b43e1129b847B8b1e02",
-      "symbol": "FRITZ",
-      "name": "FritzToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80c847Bdc8cFd0e34CfEb3ed6215D353ad25B12C",
       "symbol": "TOUJIN",
       "name": "HaikiToujin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66de7276F45CD6A88B14ab554F8ab9fD45E59Cfa",
+      "symbol": "BOSHI",
+      "name": "AtaruMoroboshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7890,
-    "minor": 7890,
+    "major": 7891,
+    "minor": 7891,
     "patch": 84
   }
 }
