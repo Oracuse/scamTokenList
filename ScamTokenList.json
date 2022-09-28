@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe802b9C361eB3Af1F5E5319F7c874D4a3b26A1e3",
-      "symbol": "FINU",
-      "name": "FirstInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x806a7a6D3fD178faF22fc78c27f37173Bf257D86",
       "symbol": "DREAM",
       "name": "DREAM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCE87EEd03e8beE829a6dBdf9af88D824cdb6dB31",
+      "symbol": "WCF",
+      "name": "WORLDCUPFRENS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7801,
-    "minor": 7801,
+    "major": 7802,
+    "minor": 7802,
     "patch": 84
   }
 }
