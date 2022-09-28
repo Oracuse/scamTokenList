@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7cfFAe6627F95e24A9dD3984239Ae2B9B960cCf2",
-      "symbol": "RYUJIN",
-      "name": "GodOfSea",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93C13673c283c39ea25fFd11B904b46c798c4fFC",
       "symbol": "HIMITSU",
       "name": "Himitsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B85d9ac45C79558D1CA4660A0f86Ea5F07b11c1",
+      "symbol": "BUKA",
+      "name": "DejitaruBuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7900,
-    "minor": 7900,
+    "major": 7901,
+    "minor": 7901,
     "patch": 84
   }
 }
