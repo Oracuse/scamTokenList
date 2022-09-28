@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x295c91a5De744053Ca4528d1C7c974433457cA0A",
-      "symbol": "APOINU",
-      "name": "APOINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93F7af38d848dFeb2F6d4EaD737e8AA0418d026E",
       "symbol": "HODL",
       "name": "hodl",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x626C4fa5Bd2e9299C581eD9F5EA4A83E49833665",
+      "symbol": "CRAMSER",
+      "name": "JeetCramer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7856,
-    "minor": 7856,
+    "major": 7857,
+    "minor": 7857,
     "patch": 84
   }
 }
