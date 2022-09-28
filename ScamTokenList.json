@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xee814b2850632CAB16646F8Bdaf972Fdef8733C5",
-      "symbol": "UP",
-      "name": "OnlyUP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97d515967B8c1A89e45F2ee5b85dea5c46F4E9C5",
       "symbol": "FOMO",
       "name": "FearOfMissingOut",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61CB0e0cbE562f6d2e615038B0942eAdd645443A",
+      "symbol": "CKWON",
+      "name": "CakeKwon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7862,
-    "minor": 7862,
+    "major": 7863,
+    "minor": 7863,
     "patch": 84
   }
 }
