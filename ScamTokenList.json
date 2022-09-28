@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x97d515967B8c1A89e45F2ee5b85dea5c46F4E9C5",
-      "symbol": "FOMO",
-      "name": "FearOfMissingOut",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5Dc58B30c6c15eEcFD03BCB2798055fe01AC8b2f",
       "symbol": "TTMOON",
       "name": "ToTheMoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54231b44340100140fA30D2B44062a8D354b1C5E",
+      "symbol": "SARU",
+      "name": "SARU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7863,
-    "minor": 7863,
+    "major": 7864,
+    "minor": 7864,
     "patch": 84
   }
 }
