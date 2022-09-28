@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25140361E3c6133e63d43A590EC8975fC8ED11bc",
-      "symbol": "MILF",
-      "name": "MothersIdLiketoFund",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4b7cC634F5F4469d77A8E3c89762C27BC97646b3",
       "symbol": "DOC",
       "name": "DeathOfTheCrow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1cB8F9738AdFf8C280D6Eae8e2285a839B79F80",
+      "symbol": "UNDO",
+      "name": "CtrlZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7798,
-    "minor": 7798,
+    "major": 7799,
+    "minor": 7799,
     "patch": 84
   }
 }
