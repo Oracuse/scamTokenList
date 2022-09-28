@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8AE340d333fFB274969f505A6520b91024BC856C",
-      "symbol": "KOI",
-      "name": "TheDragonGate",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84B6E73EbB3E5cfF1F0eA7f8c817185F01c10205",
       "symbol": "TWIY",
       "name": "THEWORLDISYOURS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3c94eF694DCbaBFfc40F6D5437878aEe8D8F0D95",
+      "symbol": "STS",
+      "name": "Signits",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7884,
-    "minor": 7884,
+    "major": 7885,
+    "minor": 7885,
     "patch": 84
   }
 }
