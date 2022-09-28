@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAFa86976226c6b22C4828048b88B0fBFac861cc2",
-      "symbol": "ASG",
-      "name": "Asgard",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x223bC83ECAcDe7EECb7d24FDe8ca4477c4bbbc4a",
       "symbol": "BSU",
       "name": "BlackSheepUnited",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d98b3734f7FBB20AD9d9f391c4226aF57C67a47",
+      "symbol": "TSUFI",
+      "name": "TsukaFisherman",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7892,
-    "minor": 7892,
+    "major": 7893,
+    "minor": 7893,
     "patch": 84
   }
 }
