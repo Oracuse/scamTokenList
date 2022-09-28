@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56152D5000dE20974210B80D3F427c3792744d85",
-      "symbol": "TEST",
-      "name": "test",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa98BB1B16a691bf8e399c97Ef843ED1Ceea75fd7",
       "symbol": "BMO",
       "name": "BearMarketOver",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92e3a3f41DE74bc721C2c7BD4AE515B7e99C0445",
+      "symbol": "SARU",
+      "name": "SARU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7869,
-    "minor": 7869,
+    "major": 7870,
+    "minor": 7870,
     "patch": 84
   }
 }
