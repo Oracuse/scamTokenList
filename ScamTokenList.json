@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x68EaCE083DB2Ac035083B53f6bc0ca6545EfF013",
-      "symbol": "GREEN",
-      "name": "GREENCANDLE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x68aEb2F6B6010318fBa7240BF4b47f83FB49aa99",
       "symbol": "YOUTUBE",
       "name": "YouTube",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e992914aA7441b736628E7C082E9716EA20CD08",
+      "symbol": "FIX",
+      "name": "NorthStreamPipeline",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7848,
-    "minor": 7848,
+    "major": 7849,
+    "minor": 7849,
     "patch": 84
   }
 }
