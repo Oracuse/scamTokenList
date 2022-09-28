@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x132fC527658983768461966E4a73a25abC804573",
-      "symbol": "GENESIS",
-      "name": "GENESISProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25dB515570A3F7629035049051f5FA403d4775fc",
       "symbol": "PAMP",
       "name": "Pamp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC0F45678DA6C6506d8519B79051f292a4ecE39Fc",
+      "symbol": "MOONCAKE",
+      "name": "AHuntersCake",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7807,
-    "minor": 7807,
+    "major": 7808,
+    "minor": 7808,
     "patch": 84
   }
 }
