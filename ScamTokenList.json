@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5Dc58B30c6c15eEcFD03BCB2798055fe01AC8b2f",
-      "symbol": "TTMOON",
-      "name": "ToTheMoon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1C9BD3843b5f6F934c66B9847554CB87525185Ad",
       "symbol": "TSUKATSUKA",
       "name": "TsukaTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A1CF3275eBfc9371c70db59512efbC7e22309E0",
+      "symbol": "MP",
+      "name": "MoneyPrinter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7864,
-    "minor": 7864,
+    "major": 7865,
+    "minor": 7865,
     "patch": 84
   }
 }
