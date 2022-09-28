@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36319C3473d16483087431fdf7F41bc8c6e2a781",
-      "symbol": "MTSUKA",
-      "name": "TsukaMaster",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22eF1297F0fED02087C0c855D3a3683Aa57B0C56",
       "symbol": "BTS",
       "name": "BurnTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdd0B75B3E6626fA8Cb1bCd1F61a1A9b65131979C",
+      "symbol": "TSUKAG",
+      "name": "TsukaGrow",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7875,
-    "minor": 7875,
+    "major": 7876,
+    "minor": 7876,
     "patch": 84
   }
 }
