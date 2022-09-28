@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2a6fFb3c137BbCCB4F1dA7E736cdcE5f8bFC2D75",
-      "symbol": "FROG",
-      "name": "FROG",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x909F4B5ccE428848994C1EaA2465c0fAC75eFE00",
       "symbol": "PHLYTE",
       "name": "Phlyte",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b490E4c5BA22d79A447453E37dc699d3B493321",
+      "symbol": "CLOSE",
+      "name": "AltF4",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7895,
-    "minor": 7895,
+    "major": 7896,
+    "minor": 7896,
     "patch": 84
   }
 }
