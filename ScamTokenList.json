@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBa48B1bBcE0cD6d29AE4ac7fFe907f0B163Ef3Af",
-      "symbol": "COOLKOMA",
-      "name": "COOLKOMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x56152D5000dE20974210B80D3F427c3792744d85",
       "symbol": "TEST",
       "name": "test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xabbC846a1e9ca669A5def90C30e02c6Ce61E9867",
+      "symbol": "COO",
+      "name": "AHuntersHope",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7868,
-    "minor": 7868,
+    "major": 7869,
+    "minor": 7869,
     "patch": 84
   }
 }
