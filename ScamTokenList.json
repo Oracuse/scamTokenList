@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc5F36a91dF25fFBB42960652e92c11d2c55D7aAD",
-      "symbol": "SHIBASAUDI",
-      "name": "ShibaSaudi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8AE340d333fFB274969f505A6520b91024BC856C",
       "symbol": "KOI",
       "name": "TheDragonGate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15Df1432715702021332734A396cE9159564c207",
+      "symbol": "SARU",
+      "name": "MergeGuardian",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 7883,
-    "minor": 7883,
+    "major": 7884,
+    "minor": 7884,
     "patch": 84
   }
 }
