@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1202103D3520De416C8DA5dDdf945a98e2EF0F17",
-      "symbol": "SAFU",
-      "name": "JeetsSleep",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD36ddD1DD9643C4250CD8916699BFcde7451d6b7",
       "symbol": "SYM",
       "name": "SELFDESTROYED",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2cA52bB5Ed93627F8CAAa4A4A94303111D60Eb36",
+      "symbol": "ACQ",
+      "name": "AcquireFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7828,
-    "minor": 7828,
+    "major": 7829,
+    "minor": 7829,
     "patch": 84
   }
 }
