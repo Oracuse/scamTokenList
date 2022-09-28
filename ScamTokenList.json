@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x80c847Bdc8cFd0e34CfEb3ed6215D353ad25B12C",
-      "symbol": "TOUJIN",
-      "name": "HaikiToujin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAFa86976226c6b22C4828048b88B0fBFac861cc2",
       "symbol": "ASG",
       "name": "Asgard",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB28B72a2fd50043f8E43e012aAB247AbC8d545dA",
+      "symbol": "VLS",
+      "name": "VitaliksLargeSpaces",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7891,
-    "minor": 7891,
+    "major": 7892,
+    "minor": 7892,
     "patch": 84
   }
 }
