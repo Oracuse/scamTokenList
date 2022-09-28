@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8Eaf63BCd074BF5D2f63F12C777EcEe485D1D555",
-      "symbol": "PR",
-      "name": "PurpleRabbit",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x423BC1C5B89FE00AC82521794c2536EC5BE83603",
       "symbol": "FUT",
       "name": "FuckUtilityToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xde1972989F633F10B6e6Dc581b785c4618AA8490",
+      "symbol": "BOB",
+      "name": "KingBob",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7784,
-    "minor": 7784,
+    "major": 7785,
+    "minor": 7785,
     "patch": 84
   }
 }
