@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7dFeE22F8E15908682e59088CE88b83953Dd45df",
-      "symbol": "CX",
-      "name": "CubeX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x656D5ff25442103aE2aCe90Ac89461cDe1c9Ff1E",
       "symbol": "KYOSHI",
       "name": "Kyoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88EFE4470C5BCFacFD273d0077B2b5eb31374FCC",
+      "symbol": "GMI20",
+      "name": "GemInu20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7816,
-    "minor": 7816,
+    "major": 7817,
+    "minor": 7817,
     "patch": 84
   }
 }
