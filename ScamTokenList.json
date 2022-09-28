@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22eF1297F0fED02087C0c855D3a3683Aa57B0C56",
-      "symbol": "BTS",
-      "name": "BurnTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x335c767450B64D920E0a9D09Bf2479dCe4F87220",
       "symbol": "AZURE",
       "name": "Azure",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8121Dc26177b9A1C8d753502eB6B79c3ca3383DE",
+      "symbol": "SKULLINU",
+      "name": "SKULLINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7876,
-    "minor": 7876,
+    "major": 7877,
+    "minor": 7877,
     "patch": 84
   }
 }
