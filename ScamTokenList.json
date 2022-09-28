@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93C13673c283c39ea25fFd11B904b46c798c4fFC",
-      "symbol": "HIMITSU",
-      "name": "Himitsu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD2ecF08545A352694A0f8aaDA0Eb8Ad699e4F750",
       "symbol": "BSU",
       "name": "BlackSheepUnited",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C1f941Eb2dF808809Db1d8d85D87C928e5d0480",
+      "symbol": "HULK",
+      "name": "ETHULK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7901,
-    "minor": 7901,
+    "major": 7902,
+    "minor": 7902,
     "patch": 84
   }
 }
