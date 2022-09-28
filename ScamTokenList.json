@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA461ad0fcfb702b61b3347F07f3c6bc647647C5c",
-      "symbol": "SINU",
-      "name": "ShepherdInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA5fa387D56505b16e20fA1d5ae621Be6d7991524",
       "symbol": "POKETH",
       "name": "Pokereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB72588061EE1eCaF606C7a953912Ff4768127b90",
+      "symbol": "HOSHI",
+      "name": "Hoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7811,
-    "minor": 7811,
+    "major": 7812,
+    "minor": 7812,
     "patch": 84
   }
 }
