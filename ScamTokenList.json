@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0CA14163Fe3a6b85d975Dd605162BAFDB353D698",
-      "symbol": "7LVLS",
-      "name": "SevenLevels",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2a6fFb3c137BbCCB4F1dA7E736cdcE5f8bFC2D75",
       "symbol": "FROG",
       "name": "FROG",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4065be32c0d747d07adeDA8bcE4AEE1f0391aCd4",
+      "symbol": "TEST",
+      "name": "test",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7894,
-    "minor": 7894,
+    "major": 7895,
+    "minor": 7895,
     "patch": 84
   }
 }
