@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x06cC98b8Ca16e0C0ce93799422930CF2b8Bf39b3",
-      "symbol": "GLITCH",
-      "name": "glitch",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAEE4a03fA3Cb2Cf02C14b24745029eD0F47b6029",
       "symbol": "KIRA",
       "name": "KiraInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33b2c92b3De922cAd95492B571318a7205D970aC",
+      "symbol": "HIROKO",
+      "name": "Hiroko",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7954,
-    "minor": 7954,
+    "major": 7955,
+    "minor": 7955,
     "patch": 84
   }
 }
