@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x685944EA167C034B1B912539B2b7Dd950396bFbc",
-      "symbol": "NUKE",
-      "name": "NUCLEARDOGE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5cb80f977ad105DA465da8133b28A98318DA15B7",
       "symbol": "RORO",
       "name": "RomanticFrogInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x633ACa6e410B48E07c599aF61C4B53264a87014c",
+      "symbol": "BOT",
+      "name": "BalanceOfTrade",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8073,
-    "minor": 8073,
+    "major": 8074,
+    "minor": 8074,
     "patch": 84
   }
 }
