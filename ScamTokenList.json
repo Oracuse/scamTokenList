@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1217F41eF3E0C0bE90Df241099c26bB0E824c15d",
-      "symbol": "TSUKASAINU",
-      "name": "TsukasaINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7955B9e775CaD296467fD7fc9e766A551424B7b0",
       "symbol": "DRAGONSTONE",
       "name": "Targaryen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93f63C85Ca0F3a3767113d12a7289a995ccCDAE2",
+      "symbol": "NAGINATA",
+      "name": "Naginata",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 7932,
-    "minor": 7932,
+    "major": 7933,
+    "minor": 7933,
     "patch": 84
   }
 }
