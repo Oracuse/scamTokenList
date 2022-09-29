@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x13Ef85B1573e990D24A3a2A507A1f7A3EBD50d6f",
-      "symbol": "PRIMO",
-      "name": "PrimordialNetwork",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF963234bBd61A5d19509e92DAbc4Ed5e485edB84",
       "symbol": "BAG",
       "name": "PaperBag",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Fb128ac8E46E1abeDc22297B88C3CB520F0047e",
+      "symbol": "TSUBASA",
+      "name": "Hitsujikai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7920,
-    "minor": 7920,
+    "major": 7921,
+    "minor": 7921,
     "patch": 84
   }
 }
