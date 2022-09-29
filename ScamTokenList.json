@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb0F6C886acaCE91Fc46A42FadF76e67E0a5aE2cF",
-      "symbol": "RETH",
-      "name": "Returnereum",
-      "decimals": 5,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21F88139C19Dc49bb986383af1Bc2E5156EaC771",
       "symbol": "BINLADEN",
       "name": "BINLADEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98eEDEFD3C80Ccb4Df42Aa9B45115458Af339975",
+      "symbol": "QATAR",
+      "name": "QatarInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8013,
-    "minor": 8013,
+    "major": 8014,
+    "minor": 8014,
     "patch": 84
   }
 }
