@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8E6250FEceb3d8a30270fF6A71f0Eb5aa40b59c1",
-      "symbol": "SANGO",
-      "name": "SangoWEB3Dao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x34a32A41Cf8bD1F78E225A074EAe5F59E6242436",
       "symbol": "DEGYPT",
       "name": "Degyptian",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd740f775d4886D03f19EAed6660C1353375aF579",
+      "symbol": "AMAZON",
+      "name": "AmazonInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8053,
-    "minor": 8053,
+    "major": 8054,
+    "minor": 8054,
     "patch": 84
   }
 }
