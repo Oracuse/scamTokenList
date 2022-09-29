@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8F929d4Cd8fc17e45D8088F9F4B4Bd226d1354C2",
-      "symbol": "TSUKA",
-      "name": "DejitaruTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF409CcE59A0cf0d889E00092192B1710F0D9E5da",
       "symbol": "TSUKA",
       "name": "DejitaruTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBc75054C3CDCcA2637F5669e52a68d9971af18FC",
+      "symbol": "VELADA",
+      "name": "Velada",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8083,
-    "minor": 8083,
+    "major": 8084,
+    "minor": 8084,
     "patch": 84
   }
 }
