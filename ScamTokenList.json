@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73886b74F0651be5981f405341268461441f63Ca",
-      "symbol": "SPUNK20",
-      "name": "ShibaPunkz20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0eEC233f60018380D0e195aCd12756E9F5A9DEC1",
       "symbol": "CRY",
       "name": "CRYPTIC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x166A47c3413972360C3eB2Ee7f4Bceb6e1c82D47",
+      "symbol": "ETHSYRUP",
+      "name": "EthereumSyrup",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8044,
-    "minor": 8044,
+    "major": 8045,
+    "minor": 8045,
     "patch": 84
   }
 }
