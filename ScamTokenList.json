@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC28Db7633662c532348dB40a448C6C680016968D",
-      "symbol": "SR",
-      "name": "SECRETROOM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5AC63FE4391D9eBe7D78151AEF00f10986550EfE",
       "symbol": "APOSTLE",
       "name": "ApostleDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBAFA519a80Eb37D8c649C3C5a1eD6A8EfDC81cD8",
+      "symbol": "RIP",
+      "name": "BOZO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8006,
-    "minor": 8006,
+    "major": 8007,
+    "minor": 8007,
     "patch": 84
   }
 }
