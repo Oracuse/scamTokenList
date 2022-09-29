@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd3150420732edbC97AAB9c33c37e1787a853648A",
-      "symbol": "HOPIUM",
-      "name": "HOPIUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1370221a26ED151163E07cf0910aCe59fA1E60a5",
       "symbol": "FALCON",
       "name": "FalconHeavy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E778416060e2Fa3D0638F8d2879Cf87A59094e9",
+      "symbol": "KANO",
+      "name": "Kano",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7981,
-    "minor": 7981,
+    "major": 7982,
+    "minor": 7982,
     "patch": 84
   }
 }
