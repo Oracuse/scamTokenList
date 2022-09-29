@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8129B03C15eC6e7373B57De20e60d023b8f377F3",
-      "symbol": "WHALEV2",
-      "name": "MobyDick20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1eaEdE761f42D736764a97C54a8D9E057456f24f",
       "symbol": "VAR",
       "name": "Variable",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00329708A10bbEC7b32dd731E235464414703c0F",
+      "symbol": "0XPFL",
+      "name": "0xPFL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8059,
-    "minor": 8059,
+    "major": 8060,
+    "minor": 8060,
     "patch": 84
   }
 }
