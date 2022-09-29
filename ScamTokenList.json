@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5F4a0838A80569772f135a2592C0579871060782",
-      "symbol": "TSUKIYOMI",
-      "name": "Tsukiyomi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0bbB7A5C1C63d40580c73E7446ba30f3b83C1D9",
       "symbol": "SDRAGON",
       "name": "SaudiDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34fDbbCEb89092fAaCe8c5dAFF0009d5F10C4314",
+      "symbol": "DOSA",
+      "name": "Dosa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8075,
-    "minor": 8075,
+    "major": 8076,
+    "minor": 8076,
     "patch": 84
   }
 }
