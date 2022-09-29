@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7Ca2818d7A75B307C580e95779941B6eDC37b035",
-      "symbol": "FLKING",
-      "name": "FloKingdom",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0f696B370D9E6eE1a8e0c4e839f54cb4f3B976d0",
       "symbol": "SHIKAI",
       "name": "Hyorinmaru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1CC4932198472BF8436DFcD5eB1FbB1585e66db1",
+      "symbol": "GEM",
+      "name": "Gem",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8025,
-    "minor": 8025,
+    "major": 8026,
+    "minor": 8026,
     "patch": 84
   }
 }
