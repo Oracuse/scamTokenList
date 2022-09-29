@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeeD0E4fF307342058e7e445113586828eE52dD48",
-      "symbol": "OPINU",
-      "name": "OptimismInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC28Db7633662c532348dB40a448C6C680016968D",
       "symbol": "SR",
       "name": "SECRETROOM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00705C7a97951132A1DA87965BF138eA59c579FC",
+      "symbol": "YUM",
+      "name": "DYOR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8005,
-    "minor": 8005,
+    "major": 8006,
+    "minor": 8006,
     "patch": 84
   }
 }
