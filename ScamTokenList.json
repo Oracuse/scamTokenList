@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD525BAe608A23A64F4eEb31F19142B4d42Ec6c7e",
-      "symbol": "WK",
-      "name": "WhoKnows",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDeEe85a7AE6DFA808Ea8C56755fdE166Ca0216e9",
       "symbol": "HYPERION",
       "name": "HYPERION",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fAC64da6DBc4E7f431591Aaa74bC62D4b9dA5cA",
+      "symbol": "BFIFA",
+      "name": "BabyFIFA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7926,
-    "minor": 7926,
+    "major": 7927,
+    "minor": 7927,
     "patch": 84
   }
 }
