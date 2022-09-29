@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8FA6212e78EB808789Dd6D827544462cC510Af19",
-      "symbol": "OKANETOKEN",
-      "name": "OKANETOKEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE94cb7413129E32Cd3fbe6133574E42D7bf4A3D7",
       "symbol": "TSUKA20",
       "name": "Tsuka20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02808403e3E8D1d9f28c4ecF33b3Bf2146E965fE",
+      "symbol": "TILL",
+      "name": "Rammstein",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7945,
-    "minor": 7945,
+    "major": 7946,
+    "minor": 7946,
     "patch": 84
   }
 }
