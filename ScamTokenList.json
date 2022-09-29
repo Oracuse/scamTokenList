@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x01765d31b806dcB431E1Dd44B31E11F3a13a7cDE",
-      "symbol": "FTM",
-      "name": "ForTheMoney",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F22a5A45B8d17120ADaCC31FacaE278e9aE6611",
       "symbol": "GG",
       "name": "GeekGod",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f050be79dDb480DEdcdb2af7F0c8724d7B54fcb",
+      "symbol": "KYOTO",
+      "name": "Kyoto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8009,
-    "minor": 8009,
+    "major": 8010,
+    "minor": 8010,
     "patch": 84
   }
 }
