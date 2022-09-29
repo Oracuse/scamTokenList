@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF963234bBd61A5d19509e92DAbc4Ed5e485edB84",
-      "symbol": "BAG",
-      "name": "PaperBag",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF7AD70c7E8441A9Fa161dF4faa6bba7867ab98bb",
       "symbol": "EPUNK",
       "name": "EtherPunks",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4890f18bf3305071872DAf32C6c081052aa03255",
+      "symbol": "INC",
+      "name": "Incinerator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7921,
-    "minor": 7921,
+    "major": 7922,
+    "minor": 7922,
     "patch": 84
   }
 }
