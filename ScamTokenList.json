@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEe3c06e5c775f92F290D68d2813914B0B5B7Fa30",
-      "symbol": "DEFI20",
-      "name": "DeFi20Dao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9f1584Cc188a907dD634C4aF78ad248602aeA08C",
       "symbol": "EPUNK",
       "name": "EtherPunks",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0CFACcaC9bD3541aCb77F4BDA4Db5B8843a3Bd7d",
+      "symbol": "KAMI",
+      "name": "Kami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7958,
-    "minor": 7958,
+    "major": 7959,
+    "minor": 7959,
     "patch": 84
   }
 }
