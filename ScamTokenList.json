@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3cD956Ab32Abb559F088dBE9D1fBc17D176c99d7",
-      "symbol": "EPUNK",
-      "name": "EtherPunks",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAD05F74aE358F161bB354a5Ea5c11C4aa9361D2d",
       "symbol": "BULLISH",
       "name": "BULLISHRUNNER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A3cEed77A037F135639facc3EFcA1475b90192d",
+      "symbol": "BPOM",
+      "name": "BabyProofofMemes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7948,
-    "minor": 7948,
+    "major": 7949,
+    "minor": 7949,
     "patch": 84
   }
 }
