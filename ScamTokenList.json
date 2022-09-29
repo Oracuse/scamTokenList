@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51aF3AF50B4ad7f1A16e4B642A522E56c502aB9A",
-      "symbol": "NERO",
-      "name": "NEROPROTOCOL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF14c335Da72A089f8393F03E8eF1c2caE608D271",
       "symbol": "SHIKAI",
       "name": "Hyorinmaru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6185e544e043392e6E6AB23fE53c89e086453E07",
+      "symbol": "NAAS",
+      "name": "NodeService",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7993,
-    "minor": 7993,
+    "major": 7994,
+    "minor": 7994,
     "patch": 84
   }
 }
