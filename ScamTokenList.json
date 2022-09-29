@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9198986Cf2e3Cf38EBb1E9c0ca2ed288F9d7e07c",
-      "symbol": "HADES",
-      "name": "Hades",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD562644491e51d7779BbC3a24Ca0a1AeA688b20D",
       "symbol": "TSUKAMA",
       "name": "Tsukama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5BD23BCc2BC9cD1c97bAe866454b1c3B344742Ae",
+      "symbol": "RSRS",
+      "name": "ReaerveRights",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7917,
-    "minor": 7917,
+    "major": 7918,
+    "minor": 7918,
     "patch": 84
   }
 }
