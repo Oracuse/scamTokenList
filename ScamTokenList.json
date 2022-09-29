@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x340F3603173C05D375bfb6e40e116C845D7d52cc",
-      "symbol": "HOPIUM",
-      "name": "HOPIUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbBcBb8596F75881Cc87B4A9C4AD46105494C81E8",
       "symbol": "BITZ",
       "name": "BitMitzvah",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC39c5bf0384B5fD6c9d4D1448Bd06dbDD0D7beef",
+      "symbol": "TAU",
+      "name": "TAUToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7975,
-    "minor": 7975,
+    "major": 7976,
+    "minor": 7976,
     "patch": 84
   }
 }
