@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF7AD70c7E8441A9Fa161dF4faa6bba7867ab98bb",
-      "symbol": "EPUNK",
-      "name": "EtherPunks",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2100b6cE1D114bD9dAFB2D601ddB65AF0B7e6598",
       "symbol": "JOE420",
       "name": "joegrower420",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAF9A70b6DebEDea64beeA385617C1de9213279a0",
+      "symbol": "RUN",
+      "name": "WinR",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7922,
-    "minor": 7922,
+    "major": 7923,
+    "minor": 7923,
     "patch": 84
   }
 }
