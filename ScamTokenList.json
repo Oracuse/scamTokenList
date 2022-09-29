@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9DaBE1A5923b879a91FDc484cC783C61675fCEB6",
-      "symbol": "URARA",
-      "name": "ShiraishiUrara",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa5E8134fa5b8E5b75d39aD84bb5fD2Bb1F48d805",
       "symbol": "RAIJIN",
       "name": "Raijin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32549fB46aA40F89b22FFe25fEEE0baC7A474294",
+      "symbol": "NIPPY",
+      "name": "Nippy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8090,
-    "minor": 8090,
+    "major": 8091,
+    "minor": 8091,
     "patch": 84
   }
 }
