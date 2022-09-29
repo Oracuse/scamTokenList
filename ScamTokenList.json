@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb4b48b3Dd5121f6864E12b744a614F90Daa917E5",
-      "symbol": "INSHALLAH",
-      "name": "Inshallah",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x989a0368723e604FDF4D308cf01F07EfC0C07AA5",
       "symbol": "ALGODAO",
       "name": "TheAlgorithmicDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B2605CB273AebCFE3eD7AA9D9Ad38AbB99ad0fB",
+      "symbol": "WSB",
+      "name": "WALLSTREETBETS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8030,
-    "minor": 8030,
+    "major": 8031,
+    "minor": 8031,
     "patch": 84
   }
 }
