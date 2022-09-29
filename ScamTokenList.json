@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2088396eC8DE8B783A9Db704Cb5268B22EB265de",
-      "symbol": "TSUKAMA",
-      "name": "Tsukama",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x13Ef85B1573e990D24A3a2A507A1f7A3EBD50d6f",
       "symbol": "PRIMO",
       "name": "PrimordialNetwork",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE33b0063a19d2aF14bdbBFce655c1BeEC4e48402",
+      "symbol": "DONT",
+      "name": "DontKwon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7919,
-    "minor": 7919,
+    "major": 7920,
+    "minor": 7920,
     "patch": 84
   }
 }
