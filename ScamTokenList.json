@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFb65E075a404ac933c9ca571fD2Dd201AF5EAA32",
-      "symbol": "STRAYBEAR",
-      "name": "STRAYBEAR",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4aEbdC8A0b48061D62b723e3f0615B1238B8e372",
       "symbol": "STRAYDUCK",
       "name": "strayduck",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xECaf16c85Ce80443C6D1deE4Fe17AeAb64926CeA",
+      "symbol": "NARA",
+      "name": "Nara",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7969,
-    "minor": 7969,
+    "major": 7970,
+    "minor": 7970,
     "patch": 84
   }
 }
