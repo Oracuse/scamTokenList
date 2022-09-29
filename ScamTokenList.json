@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb03384d1749D75c0593Eb8E9928c723F1AE37e0E",
-      "symbol": "SHIKAI",
-      "name": "Hyorinmaru",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdFAf48004Fe33E204D89667e033c5c9b10f213c9",
       "symbol": "BAA",
       "name": "sheepDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8225cFF47D13e1cF2651a5eD677FBFe187f35Fc5",
+      "symbol": "NAAS",
+      "name": "NodeService",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8017,
-    "minor": 8017,
+    "major": 8018,
+    "minor": 8018,
     "patch": 84
   }
 }
