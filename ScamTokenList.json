@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC7cab6A5c3E3243ddF2Fd904971dFbb4a9887917",
-      "symbol": "HELIX",
-      "name": "HELIX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5D58Be2eD6Bf44c4092C628a83E93A2FeCbfE706",
       "symbol": "EPUNK",
       "name": "EtherPunks",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77b64f4a7d2b5bB0198E6A94DAe64269537b1aCD",
+      "symbol": "EAT",
+      "name": "EATTHERICH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8001,
-    "minor": 8001,
+    "major": 8002,
+    "minor": 8002,
     "patch": 84
   }
 }
