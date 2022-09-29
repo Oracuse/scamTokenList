@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x35F833FBd5aD48Bf697890817fa0C4E45bE729b6",
-      "symbol": "TSUKAPE",
-      "name": "TsukaApe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3cD956Ab32Abb559F088dBE9D1fBc17D176c99d7",
       "symbol": "EPUNK",
       "name": "EtherPunks",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x762a970dE52d303AD7D197570013eA76B0B9606F",
+      "symbol": "SNIFF",
+      "name": "SNIFF",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7947,
-    "minor": 7947,
+    "major": 7948,
+    "minor": 7948,
     "patch": 84
   }
 }
