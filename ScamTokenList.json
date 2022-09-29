@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x88764243Fda6d5b098eb5b5991001ffC4d41F4b6",
-      "symbol": "DUSD",
-      "name": "DefiUSD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA0146A4Daa4b4bE5Cbc7c6E7b00b0b0F693827b1",
       "symbol": "RINU",
       "name": "RugratsInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1028Fd6DCB0E50095C652ef44c10f9Cf17e89110",
+      "symbol": "COFFEEINU",
+      "name": "NationalCoffeeDay",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8048,
-    "minor": 8048,
+    "major": 8049,
+    "minor": 8049,
     "patch": 84
   }
 }
