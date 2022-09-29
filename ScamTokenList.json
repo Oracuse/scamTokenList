@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x989a0368723e604FDF4D308cf01F07EfC0C07AA5",
-      "symbol": "ALGODAO",
-      "name": "TheAlgorithmicDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeEF19c8d6F8b637d8dF2957477c75842F291657A",
       "symbol": "GAR",
       "name": "COUGARX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdcC82b3836844D5a313a390095F750139BA45FD4",
+      "symbol": "TGINU",
+      "name": "TelegramInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8031,
-    "minor": 8031,
+    "major": 8032,
+    "minor": 8032,
     "patch": 84
   }
 }
