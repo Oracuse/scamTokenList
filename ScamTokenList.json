@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Ca1727353204F4Bb9085c5521E822687A75b653",
-      "symbol": "KINU",
-      "name": "KYLORINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3177Dbe3543Da9123066B902A5D7D611E7E58FD4",
       "symbol": "SHIBTRILLION",
       "name": "ShibTrillion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1B26B9918b350e9657D9Ab43A45088805d65E4e",
+      "symbol": "KINGS",
+      "name": "KingsCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8033,
-    "minor": 8033,
+    "major": 8034,
+    "minor": 8034,
     "patch": 84
   }
 }
