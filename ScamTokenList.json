@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc6Ac1bfA0823E64E7A83cb643dB1b74777cD9721",
-      "symbol": "EPUNK",
-      "name": "EtherPunks",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x30e3d618f231a6b0bb7089467FC64dA089353666",
       "symbol": "SHIKAI",
       "name": "Hyorinmaru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA5bf8D1c5CC254B31c1b7cEFA12E0744Ae083980",
+      "symbol": "ATHENA",
+      "name": "ATHENA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8003,
-    "minor": 8003,
+    "major": 8004,
+    "minor": 8004,
     "patch": 84
   }
 }
