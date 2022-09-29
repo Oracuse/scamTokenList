@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3f106618D58Fdd807337C9c8Aad879C2dE722d2e",
-      "symbol": "SAYA",
-      "name": "Saya",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd561Cf9652935bc4c3DD1a7cEd04704d638Dd118",
       "symbol": "WENMARKETING",
       "name": "WENMARKETING",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d78d138669D6D35e2D8CBE0c197328cE36aB77f",
+      "symbol": "YAGA",
+      "name": "BabaYaga",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8086,
-    "minor": 8086,
+    "major": 8087,
+    "minor": 8087,
     "patch": 84
   }
 }
