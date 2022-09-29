@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeEF19c8d6F8b637d8dF2957477c75842F291657A",
-      "symbol": "GAR",
-      "name": "COUGARX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3Ca1727353204F4Bb9085c5521E822687A75b653",
       "symbol": "KINU",
       "name": "KYLORINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9db6922b3ac96f4B4675620442c1D5d14d2A350F",
+      "symbol": "APPLEINC",
+      "name": "APPLE",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8032,
-    "minor": 8032,
+    "major": 8033,
+    "minor": 8033,
     "patch": 84
   }
 }
