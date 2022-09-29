@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa9fE95859D5a848826baC69219962877492d2572",
-      "symbol": "NICK",
-      "name": "Nickelodeon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88764243Fda6d5b098eb5b5991001ffC4d41F4b6",
       "symbol": "DUSD",
       "name": "DefiUSD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb14983CF8575Bca4a688b411cce7B57082c451e7",
+      "symbol": "SHITAKIRISUZUME",
+      "name": "TongueCutSparrow",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8047,
-    "minor": 8047,
+    "major": 8048,
+    "minor": 8048,
     "patch": 84
   }
 }
