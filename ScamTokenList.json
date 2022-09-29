@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x375E63a51C4406727cbF9b3EB4e770D2ED5e43E4",
-      "symbol": "SCIENTOLOGY",
-      "name": "SCIENTOLOGY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC7cab6A5c3E3243ddF2Fd904971dFbb4a9887917",
       "symbol": "HELIX",
       "name": "HELIX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x250d7253C8eCfe09EA4FbAC7A41609a2156227AA",
+      "symbol": "DTSUKA",
+      "name": "DarkTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8000,
-    "minor": 8000,
+    "major": 8001,
+    "minor": 8001,
     "patch": 84
   }
 }
