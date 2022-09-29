@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd435BB2C8E297Dcfb8D2464F8322540A17dA2e6A",
-      "symbol": "DUCKERD",
-      "name": "DUCKERD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC10aBa636264c903fbBcBCe403313b3375966372",
       "symbol": "MAYHEM",
       "name": "Mayhem",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3854aDCE0aEC306c57aC9aa5D03A7475eE60205E",
+      "symbol": "CAURONG",
+      "name": "TsukaBridge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7977,
-    "minor": 7977,
+    "major": 7978,
+    "minor": 7978,
     "patch": 84
   }
 }
