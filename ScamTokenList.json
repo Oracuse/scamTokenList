@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x19eDf56cCa5D052c992070E7237A160bF130FBCf",
-      "symbol": "INUNYMOUS",
-      "name": "INUnymous",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x272CC9BC31c6CCFBF68C58Dd9ee27e9B8DE38840",
       "symbol": "HOTDOG",
       "name": "HotdogInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaB5697aB432424CfffF241B8339D61CbF5F21758",
+      "symbol": "RODDO",
+      "name": "RyoshiNoRoddo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 7985,
-    "minor": 7985,
+    "major": 7986,
+    "minor": 7986,
     "patch": 84
   }
 }
