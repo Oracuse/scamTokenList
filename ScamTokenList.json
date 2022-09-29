@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE72f245F0Aa246a300E973916dE42E7cc9cBf1b8",
-      "symbol": "TSUKE",
-      "name": "Tsukereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x79a543D34c44A6Eb07Beb65C48A81B7aBE9d55F1",
       "symbol": "STHINGS",
       "name": "STRANGERTHINGS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Cf8953D5D0B3cB9fd72C3Eac244790AB8d2007F",
+      "symbol": "HONESTY",
+      "name": "Honesty",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7914,
-    "minor": 7914,
+    "major": 7915,
+    "minor": 7915,
     "patch": 84
   }
 }
