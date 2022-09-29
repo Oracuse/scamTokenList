@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA90287e839eb2439cdBbCD29aAD6F9B0966e1E79",
-      "symbol": "HOPIUM",
-      "name": "HOPIUM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x695e83A4c37FC57BDfF31B7C43a110B82CF1D629",
       "symbol": "BETH",
       "name": "Buthereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1faEa31b7f02ED4F8111902E669D91d60974dD0",
+      "symbol": "PAWADOX",
+      "name": "BabyParadox",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8064,
-    "minor": 8064,
+    "major": 8065,
+    "minor": 8065,
     "patch": 84
   }
 }
