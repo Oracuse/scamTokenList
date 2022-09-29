@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0e6f900A0050be359c343Cb3c4D1E0cc890027Dc",
-      "symbol": "SPIRALBURN",
-      "name": "SPIRALBURNTOKEN",
-      "decimals": 0,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcd2933156AAEa25429A4C2C667061d251c5903f3",
       "symbol": "SPIRALBURN",
       "name": "SPIRALBURNTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x970cf867Ca0530a989f222bE01FdD67C1ab5b2bF",
+      "symbol": "BASAN",
+      "name": "BASAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8081,
-    "minor": 8081,
+    "major": 8082,
+    "minor": 8082,
     "patch": 84
   }
 }
