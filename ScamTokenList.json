@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9B7c089C087dA1304E951235818fb11984cf9273",
-      "symbol": "GOOD",
-      "name": "TheGoodToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71E623dAE7298806c2413ae529de7AAE2685cAf2",
       "symbol": "INSIDE",
       "name": "Insidoooor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1dB6b526b905255d1b65EA13F4b2e16d2e91F44b",
+      "symbol": "PESUTO",
+      "name": "CtrlV",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7988,
-    "minor": 7988,
+    "major": 7989,
+    "minor": 7989,
     "patch": 84
   }
 }
