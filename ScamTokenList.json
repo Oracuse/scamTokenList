@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e7EeEE748164b3bdF4190618E3ba6a76e2a3Dbb",
-      "symbol": "SPIRALDAO",
-      "name": "SpiralDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0e6f900A0050be359c343Cb3c4D1E0cc890027Dc",
       "symbol": "SPIRALBURN",
       "name": "SPIRALBURNTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88f872DC4D83Ed2949d6CbA086817cd1F4395e6f",
+      "symbol": "TSUG",
+      "name": "TsukaGrow",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8080,
-    "minor": 8080,
+    "major": 8081,
+    "minor": 8081,
     "patch": 84
   }
 }
