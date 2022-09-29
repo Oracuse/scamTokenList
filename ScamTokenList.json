@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2e10894CdCa06B4BfA9F8a63ef8BF0A389752bB4",
-      "symbol": "SILENCE",
-      "name": "TheSilence",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1d4502FE058274BdCd24D52609fec58984fE22A0",
       "symbol": "FUKU",
       "name": "Fukurokuju",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3BD72751d5BACd5C627e2fa258A843aad6E06f08",
+      "symbol": "FAITH",
+      "name": "CryOutFor",
+      "decimals": 3,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8042,
-    "minor": 8042,
+    "major": 8043,
+    "minor": 8043,
     "patch": 84
   }
 }
