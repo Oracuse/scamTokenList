@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4083f07d6906Ed1c03F058aB4d8Fa6eDF4062023",
-      "symbol": "SHINJEW",
-      "name": "Shinjew",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7DbAE447Bffc92857fe2f8e198B7f1F6A1633756",
       "symbol": "KDAS",
       "name": "KDAS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xce626026E2b1F38a9337faE30D117bB0544301BB",
+      "symbol": "TSLA",
+      "name": "TeslaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8061,
-    "minor": 8061,
+    "major": 8062,
+    "minor": 8062,
     "patch": 84
   }
 }
