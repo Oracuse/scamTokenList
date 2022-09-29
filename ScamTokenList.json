@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAEE4a03fA3Cb2Cf02C14b24745029eD0F47b6029",
-      "symbol": "KIRA",
-      "name": "KiraInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAdA5BDD7Cd3eA0d831ceCdcC1e1A677843A25b4f",
       "symbol": "URETH",
       "name": "Gobbling",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0ab477DB88dAe437eDba11d7F5f9F5FEaC8A6A5",
+      "symbol": "HOSHI",
+      "name": "Hoshi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7955,
-    "minor": 7955,
+    "major": 7956,
+    "minor": 7956,
     "patch": 84
   }
 }
