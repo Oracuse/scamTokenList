@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51F4c1243bCaA6C7cf4d582081D242e218cd1220",
-      "symbol": "DOM",
-      "name": "DragonBorn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x11F8e606a2aC858fB5eb63BaC31E491A47e88969",
       "symbol": "TINY",
       "name": "Tiny",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x505967B14AD06a783dB2a0468f834CA78b646f63",
+      "symbol": "HBO",
+      "name": "HBOInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8015,
-    "minor": 8015,
+    "major": 8016,
+    "minor": 8016,
     "patch": 84
   }
 }
