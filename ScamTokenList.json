@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x47db7bBec8360BCfeEEDa92F6dbD560b1f8050d6",
-      "symbol": "STRAY",
-      "name": "StrayCat",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8404fda05c43612fEE14a90361A930B657D10483",
       "symbol": "TSUKABANK",
       "name": "BankofTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfF8b5bf1FC464c627e48381014019eDb6Aa8357D",
+      "symbol": "MARIKO",
+      "name": "Mariko",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7961,
-    "minor": 7961,
+    "major": 7962,
+    "minor": 7962,
     "patch": 84
   }
 }
