@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0795619e02716a81ac9ef6e55363d538da104e57",
-      "symbol": "CC",
-      "name": "ClaimCompound",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5F4687FdceceB6C0336989E38809Dcd259A58b3E",
       "symbol": "TOM",
       "name": "TOMINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97E1BD904034271390235B2AE4D70Be41CAbB365",
+      "symbol": "YUUKI",
+      "name": "Yuuki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7973,
-    "minor": 7973,
+    "major": 7974,
+    "minor": 7974,
     "patch": 84
   }
 }
