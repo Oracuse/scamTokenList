@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x41CC552c8De16F10b45f205bDE7b51f5Db8e60C8",
-      "symbol": "GENESISV2",
-      "name": "GENESISProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x07F42E4AA370557b05603467a4e135D48f302047",
       "symbol": "TSUKABANK",
       "name": "BankofTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7dB01920935F72D455Cd3d3e5B951E9b5D9AE350",
+      "symbol": "ARES",
+      "name": "ARES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7908,
-    "minor": 7908,
+    "major": 7909,
+    "minor": 7909,
     "patch": 84
   }
 }
