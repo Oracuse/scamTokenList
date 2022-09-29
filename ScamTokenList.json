@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1d4502FE058274BdCd24D52609fec58984fE22A0",
-      "symbol": "FUKU",
-      "name": "Fukurokuju",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73886b74F0651be5981f405341268461441f63Ca",
       "symbol": "SPUNK20",
       "name": "ShibaPunkz20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFcaA609c6567d6Ed51A9CD330A69eeEEB72c4343",
+      "symbol": "SQUID20",
+      "name": "SquidGame",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8043,
-    "minor": 8043,
+    "major": 8044,
+    "minor": 8044,
     "patch": 84
   }
 }
