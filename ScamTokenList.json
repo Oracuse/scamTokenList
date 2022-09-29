@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7714b39F1171f33F8814Ddea8a19e15AcD76d013",
-      "symbol": "CYCLE",
-      "name": "TheCycle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x41CC552c8De16F10b45f205bDE7b51f5Db8e60C8",
       "symbol": "GENESISV2",
       "name": "GENESISProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfCA50F57e18E1253dE16ea34BEb68eF1d24076af",
+      "symbol": "TARGARYENINU",
+      "name": "BurnThemAll",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7907,
-    "minor": 7907,
+    "major": 7908,
+    "minor": 7908,
     "patch": 84
   }
 }
