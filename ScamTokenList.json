@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcd2933156AAEa25429A4C2C667061d251c5903f3",
-      "symbol": "SPIRALBURN",
-      "name": "SPIRALBURNTOKEN",
-      "decimals": 0,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8F929d4Cd8fc17e45D8088F9F4B4Bd226d1354C2",
       "symbol": "TSUKA",
       "name": "DejitaruTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x637388290c67ca918940F91E1b1b89677fFA1918",
+      "symbol": "DOSA",
+      "name": "DOSATOKENOMICS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8082,
-    "minor": 8082,
+    "major": 8083,
+    "minor": 8083,
     "patch": 84
   }
 }
