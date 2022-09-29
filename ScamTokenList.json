@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2d18909e49e6369E5DB503E6fD388B6791Db4BFe",
-      "symbol": "YYX",
-      "name": "YinYang",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82c2A17dA0C2699daB813F01dBEe236e618D5f5a",
       "symbol": "ZION",
       "name": "ZION",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3e8BC76ea8B5BaE9A2fc8eD15fC347FadA9b905",
+      "symbol": "DD",
+      "name": "DDex",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7935,
-    "minor": 7935,
+    "major": 7936,
+    "minor": 7936,
     "patch": 84
   }
 }
