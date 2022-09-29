@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x82c2A17dA0C2699daB813F01dBEe236e618D5f5a",
-      "symbol": "ZION",
-      "name": "ZION",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6511672e23CCd7dA756175249287aa80fFeF1A5B",
       "symbol": "SHIZUKI",
       "name": "ShizukiToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD157810699A4Dac276eb599A29CacC1C98C366c1",
+      "symbol": "OROCHI",
+      "name": "YamatanoOrochi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 7936,
-    "minor": 7936,
+    "major": 7937,
+    "minor": 7937,
     "patch": 84
   }
 }
