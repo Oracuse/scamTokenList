@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6f74680316489DA1F1286Eb6bb5AF6753844C5da",
-      "symbol": "TPUNK",
-      "name": "TsukaPunkz",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6409fd36aE2c94b5282e367D4ebf8c2Db6D51853",
       "symbol": "0LIMITS",
       "name": "LimitlessUtility",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03E84ee9B5EacFbaB69a2a840AbC1bA1625Ef7E6",
+      "symbol": "UNIFY",
+      "name": "Unify",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8069,
-    "minor": 8069,
+    "major": 8070,
+    "minor": 8070,
     "patch": 84
   }
 }
