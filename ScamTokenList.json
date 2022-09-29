@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x21F88139C19Dc49bb986383af1Bc2E5156EaC771",
-      "symbol": "BINLADEN",
-      "name": "BINLADEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51F4c1243bCaA6C7cf4d582081D242e218cd1220",
       "symbol": "DOM",
       "name": "DragonBorn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdFD92421e94572A128E3b638979b22961aC4e5e0",
+      "symbol": "PIPELINE",
+      "name": "GasSabotage",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8014,
-    "minor": 8014,
+    "major": 8015,
+    "minor": 8015,
     "patch": 84
   }
 }
