@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0146A4Daa4b4bE5Cbc7c6E7b00b0b0F693827b1",
-      "symbol": "RINU",
-      "name": "RugratsInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbAD123dC5F3c3D3c0436aeA5DD369aF242742E26",
       "symbol": "EVA",
       "name": "EvaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A22bF2DF5fBfC4Cea6cB3C5ecc32de0ffd059B1",
+      "symbol": "MASS",
+      "name": "MidnightMASS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8049,
-    "minor": 8049,
+    "major": 8050,
+    "minor": 8050,
     "patch": 84
   }
 }
