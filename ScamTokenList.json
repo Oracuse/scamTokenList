@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC6E4453F37A7e4f43bDbf0d1AA26C840A15BBDD5",
-      "symbol": "TRAZOR",
-      "name": "Trazor",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7459F025A5dD9c7DAe04027468751820573E019C",
       "symbol": "X",
       "name": "CipherX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a3590b6d7536aA7450c06bBa41c8783420037Dd",
+      "symbol": "SORYU",
+      "name": "BlueDragonSociety",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8104,
-    "minor": 8104,
+    "major": 8105,
+    "minor": 8105,
     "patch": 84
   }
 }
