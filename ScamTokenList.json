@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB0F82Cb27943A986d436e14c43820DAAc7c7FA20",
-      "symbol": "URASHIMATARO",
-      "name": "FisherLad",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x24730A80Bdb9Cab266F242DB6161837E28869b99",
       "symbol": "DRAGONCOIN",
       "name": "DragonCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x014E4e3073C46f40Bd4aCB515B6D6CE67431B5e5",
+      "symbol": "CURSE",
+      "name": "Curse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8096,
-    "minor": 8096,
+    "major": 8097,
+    "minor": 8097,
     "patch": 84
   }
 }
