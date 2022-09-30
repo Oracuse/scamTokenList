@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x19Da2e61DAb0aE450d418874F9BdfEBDeAC3dCAC",
-      "symbol": "TATE",
-      "name": "AndrewTate",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25b8EfFf81488F1C2F3fC672d316e006902176f8",
       "symbol": "ONIZUKA",
       "name": "Onizukama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3fF0f0172005148252e8e2340265E5AbE9dF9Fd7",
+      "symbol": "POUR",
+      "name": "Pour",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8163,
-    "minor": 8163,
+    "major": 8164,
+    "minor": 8164,
     "patch": 84
   }
 }
