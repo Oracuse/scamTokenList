@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4fe5709808E4793BB81feE85C8B8B5b97984170f",
-      "symbol": "TSUKATSUKA",
-      "name": "TsukaTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6c45D06b1D2F049f16A70717822eB425093dBBa1",
       "symbol": "FLOW",
       "name": "TheFlow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81C9ec866dc35d48262Da24B4620164baf8B054e",
+      "symbol": "BXRP",
+      "name": "BabyXRP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8154,
-    "minor": 8154,
+    "major": 8155,
+    "minor": 8155,
     "patch": 84
   }
 }
