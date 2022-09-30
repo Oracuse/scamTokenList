@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe50B86c205FAD96e009A407EEa84d28e2D3e92e0",
-      "symbol": "RMINU",
-      "name": "RedMarsInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8AdbEF738661Eba0806b9A25Afb028DE985428d6",
       "symbol": "SOCRATES",
       "name": "Socrates",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDcbdA615b422eCaCe7242058EB2C321949290ff6",
+      "symbol": "OASIS",
+      "name": "TheLiquidityParadis",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8142,
-    "minor": 8142,
+    "major": 8143,
+    "minor": 8143,
     "patch": 84
   }
 }
