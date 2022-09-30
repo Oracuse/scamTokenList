@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x30412a2bCa67A7a93c445FC6Fa4c21D52FD81C08",
-      "symbol": "BULLRUN",
-      "name": "BullRun",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8828588b7939d416e4131537A88b210E563D5a06",
       "symbol": "BETA",
       "name": "Beta",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE09629BAE063fA2bEa021809A7c3273a6E700315",
+      "symbol": "WCF",
+      "name": "WORLDCUPFRENS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8148,
-    "minor": 8148,
+    "major": 8149,
+    "minor": 8149,
     "patch": 84
   }
 }
