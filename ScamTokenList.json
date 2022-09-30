@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdE59b88abEFA5e6C8aA6D742EeE0f887Dab136ac",
-      "symbol": "GAIN",
-      "name": "GAIN",
-      "decimals": 5,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x13f7Aef9D8008fB10dDDda2B74c4Ee5F33A046bA",
       "symbol": "SMOON",
       "name": "SpiralMoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc98C3c9296242cC3EbDE2d376C70D1efC43cb208",
+      "symbol": "GOLGO13",
+      "name": "DukeTogo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8092,
-    "minor": 8092,
+    "major": 8093,
+    "minor": 8093,
     "patch": 84
   }
 }
