@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa6BaaB64781d24E12F02a24e8583071f4A6Ee951",
-      "symbol": "KUNTZ",
-      "name": "KittyPunkz",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd775d2056dEf417eEB65a1c5281cDa0d9074a899",
       "symbol": "SHIBSHIB",
       "name": "ShibShib",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0E3BB378C30149A7B79D2a01BC6281B5Da2aaB1",
+      "symbol": "DOTA",
+      "name": "DotaToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8126,
-    "minor": 8126,
+    "major": 8127,
+    "minor": 8127,
     "patch": 84
   }
 }
