@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5D2D411AF9D22c9E04Bb13a9D29ff2961e918130",
-      "symbol": "ABYSS",
-      "name": "TheGreatAbyss",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09AB73584FFe955064439e1EA284e1F8129EB56B",
       "symbol": "ATOM",
       "name": "ATOM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA489A0A1781d0a9BB42d19ac1701233A76553CD0",
+      "symbol": "WCF",
+      "name": "WORLDCUPFRENS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8139,
-    "minor": 8139,
+    "major": 8140,
+    "minor": 8140,
     "patch": 84
   }
 }
