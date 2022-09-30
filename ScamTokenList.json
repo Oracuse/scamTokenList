@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x956439A05F9E8457D20De042a0432B0e8f6A113c",
-      "symbol": "MVMT",
-      "name": "Movement",
-      "decimals": 0,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x13d60b5FD4DaADb81833defD6bf7616b6da636De",
       "symbol": "TAQ",
       "name": "TerminusAdQuem",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B7cfAc3FE900745ff0e755529575FA73DF05636",
+      "symbol": "SEC",
+      "name": "SECInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8113,
-    "minor": 8113,
+    "major": 8114,
+    "minor": 8114,
     "patch": 84
   }
 }
