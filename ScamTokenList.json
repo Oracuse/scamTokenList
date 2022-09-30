@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF49DFB599BE1448BC36c37D2F4D54De06643F992",
-      "symbol": "ELIXIREUM",
-      "name": "ElixirofCrypto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Fb3AFf07e51108Bae58A9c877a23f0EF61eFf4b",
       "symbol": "DADDYCAT",
       "name": "DADDYCAT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9618E8189645037038f2EB4280c0E1a2ef862d63",
+      "symbol": "MRFOOTBALL",
+      "name": "MrFootball",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8129,
-    "minor": 8129,
+    "major": 8130,
+    "minor": 8130,
     "patch": 84
   }
 }
