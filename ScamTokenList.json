@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x846d603b24D97a807d187C9769b90c44Eb037EEF",
-      "symbol": "INUWORLD",
-      "name": "InuWorld",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38ee7C247034E5F1Aa212110c03097B630923AC1",
       "symbol": "SSNIFFER",
       "name": "SeatSniffer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f03A12860c47FcceecaF82A338A4b6DaB4eAa3B",
+      "symbol": "KINTARO",
+      "name": "Kintaro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8144,
-    "minor": 8144,
+    "major": 8145,
+    "minor": 8145,
     "patch": 84
   }
 }
