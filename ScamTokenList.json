@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeFF09Ae12b0B84145a368a027e1bA2573cDF6Ae1",
-      "symbol": "DUMP",
-      "name": "PUMPAND",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcECB0B3CDFC8FF5D866A4900B8b1db54D5eb13E9",
       "symbol": "META",
       "name": "MetaCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b98406A0c3Bd9512B8C32F02fC8307609a9eB02",
+      "symbol": "LIQUIDITY",
+      "name": "LiquidityDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8116,
-    "minor": 8116,
+    "major": 8117,
+    "minor": 8117,
     "patch": 84
   }
 }
