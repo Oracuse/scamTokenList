@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7a0a05c13279e064FD1B4EA7401722E2f969FB31",
-      "symbol": "HTMCOIN",
-      "name": "HighwaytoMoon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F3F774e90f9e94d4E535e3c3047ddc188236244",
       "symbol": "URANUS",
       "name": "UranusCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCADC6f430aDD282e60ed3CcFbEb57e87Bd4A369F",
+      "symbol": "0",
+      "name": "Block",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8135,
-    "minor": 8135,
+    "major": 8136,
+    "minor": 8136,
     "patch": 84
   }
 }
