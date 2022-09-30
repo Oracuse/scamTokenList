@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x24730A80Bdb9Cab266F242DB6161837E28869b99",
-      "symbol": "DRAGONCOIN",
-      "name": "DragonCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x676aBd2872b62Ce6940210787192e06f1c028142",
       "symbol": "KINU",
       "name": "KINTAROINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE22F81dD98697D78655096f1Ef77436E6A2AD5D4",
+      "symbol": "CRT",
+      "name": "CyberRaceWars",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8097,
-    "minor": 8097,
+    "major": 8098,
+    "minor": 8098,
     "patch": 84
   }
 }
