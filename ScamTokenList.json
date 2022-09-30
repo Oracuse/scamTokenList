@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x92f49742C3BD06e8D6730181A3037391f8Bc224F",
-      "symbol": "M87",
-      "name": "MESSIERMISSION",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2b2906229118BfD2d548C2af2593910A597a1D7D",
       "symbol": "PRIEST",
       "name": "PriestDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCD99c5ca81AA1D82df180f859d53791380333695",
+      "symbol": "KOJIMA",
+      "name": "HideoKojima",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8122,
-    "minor": 8122,
+    "major": 8123,
+    "minor": 8123,
     "patch": 84
   }
 }
