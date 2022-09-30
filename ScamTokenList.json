@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbaE5446E658257834f09054a7De0351f7b2a45ec",
-      "symbol": "ENCHANT",
-      "name": "Enchanter",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD1e682E8cEefBacb276328276c6f9315Fc971666",
       "symbol": "SPHINX",
       "name": "TheGreatSphinx",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91ae8Bd2a996af1b9C7addC45205F06892C310cB",
+      "symbol": "SHERON",
+      "name": "DejitaruShenron",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8171,
-    "minor": 8171,
+    "major": 8172,
+    "minor": 8172,
     "patch": 84
   }
 }
