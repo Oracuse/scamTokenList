@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8f0d1a753f0e7Ad678D8178C706E77D6AA30FCAb",
-      "symbol": "PINU",
-      "name": "PIZZAINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE977991E341fBE0652af5D3fb683fEdFB758237F",
       "symbol": "DOGIBA",
       "name": "DOGENSHIBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC1e03014cb85b9dD4eFE2121A7495a7c3b24f52b",
+      "symbol": "OSFA",
+      "name": "OSFArt",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8156,
-    "minor": 8156,
+    "major": 8157,
+    "minor": 8157,
     "patch": 84
   }
 }
