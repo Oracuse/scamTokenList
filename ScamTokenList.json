@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x920A37b56e95B997dF16aD352fe81738EcA032a8",
-      "symbol": "GAM",
-      "name": "GAMBIT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xed32401452b17b13088Db33c5E5e67d335da350d",
       "symbol": "MERUEM",
       "name": "MERUEM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9D055AD6D2f4731D480730088A3b2A435f6dB7a",
+      "symbol": "OPPS",
+      "name": "OpaquePoweredPumpin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8150,
-    "minor": 8150,
+    "major": 8151,
+    "minor": 8151,
     "patch": 84
   }
 }
