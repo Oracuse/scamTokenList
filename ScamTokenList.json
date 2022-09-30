@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36b4A59b0F62E33582Dbdbe4cbCA3E0A52dc98D1",
-      "symbol": "PREACHER",
-      "name": "PreacherDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbB5Ad0009D3f7b2Ed4373b455E7F0a375aB642DA",
       "symbol": "CIRCLE",
       "name": "CircleInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3c4E3E64572E869cED9D8e5066c23D2387cffE41",
+      "symbol": "BETH",
+      "name": "BabyEth",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8132,
-    "minor": 8132,
+    "major": 8133,
+    "minor": 8133,
     "patch": 84
   }
 }
