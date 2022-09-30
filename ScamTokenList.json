@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x395945FbD0D9E5EA3e7cd60B2b7DcE78148b0D90",
-      "symbol": "RBC",
-      "name": "ROBOTS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5d55791980251210a060DD75D77e0cE9F147BE97",
       "symbol": "IPUNK",
       "name": "InuPunkz",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08d4092e3E16B15ff23EfebC22BDcE9E8AEe0ff7",
+      "symbol": "SUKO",
+      "name": "MITSUKO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8137,
-    "minor": 8137,
+    "major": 8138,
+    "minor": 8138,
     "patch": 84
   }
 }
