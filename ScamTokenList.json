@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbB5Ad0009D3f7b2Ed4373b455E7F0a375aB642DA",
-      "symbol": "CIRCLE",
-      "name": "CircleInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7B3d6c44502f5228f552455b3Fe3Ee848168047A",
       "symbol": "TITAN",
       "name": "TITAN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC32cB0Fe9703BF11e28Cd512C50b60009F385D8F",
+      "symbol": "MTRL",
+      "name": "Mithrillium",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8133,
-    "minor": 8133,
+    "major": 8134,
+    "minor": 8134,
     "patch": 84
   }
 }
