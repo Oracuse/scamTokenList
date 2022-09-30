@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x591F7eb74EA6328b1636c3F0111a120C99f408cf",
-      "symbol": "SHINJEW",
-      "name": "Shinjew",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC6E4453F37A7e4f43bDbf0d1AA26C840A15BBDD5",
       "symbol": "TRAZOR",
       "name": "Trazor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8af837AaC79C1052FB36C063831A040780250041",
+      "symbol": "UDP",
+      "name": "UnitedDegeneratePar",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8103,
-    "minor": 8103,
+    "major": 8104,
+    "minor": 8104,
     "patch": 84
   }
 }
