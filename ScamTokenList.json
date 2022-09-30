@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1ED27C08adC2736cF84AC2C8a2711e158b5b62E0",
-      "symbol": "SILK",
-      "name": "SpiderSilk",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19Da2e61DAb0aE450d418874F9BdfEBDeAC3dCAC",
       "symbol": "TATE",
       "name": "AndrewTate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb455cD0Bcb3B68B09092f7112e7945171FB37596",
+      "symbol": "PEPE",
+      "name": "FeelsGoodMan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8162,
-    "minor": 8162,
+    "major": 8163,
+    "minor": 8163,
     "patch": 84
   }
 }
