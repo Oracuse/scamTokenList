@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8e336Ac1070bDf77d1c3c7992ba25D68d0c3f239",
-      "symbol": "APESQUAD",
-      "name": "ApeSquadInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa6193F1BD8D476769Ea06fE8568e2ad7BA48151d",
       "symbol": "PEPE",
       "name": "PEPEGOD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa56fB0c23c56ea5969a68636d17E3275caD09a1E",
+      "symbol": "OPPS",
+      "name": "OpaquePoweredPumpin",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8146,
-    "minor": 8146,
+    "major": 8147,
+    "minor": 8147,
     "patch": 84
   }
 }
