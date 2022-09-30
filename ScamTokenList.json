@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x09AB73584FFe955064439e1EA284e1F8129EB56B",
-      "symbol": "ATOM",
-      "name": "ATOM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x013A862b3e1F7FF2D632021c7A1C8C0Bb9935D99",
       "symbol": "ULINU",
       "name": "ULTIMATEINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3960f04Bf69C0C19dcDee065A07B6265d917D957",
+      "symbol": "AGED",
+      "name": "Inveteratus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8140,
-    "minor": 8140,
+    "major": 8141,
+    "minor": 8141,
     "patch": 84
   }
 }
