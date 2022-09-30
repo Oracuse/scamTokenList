@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF2E639aDbFe39507B15B79cb65Fa21149699cb69",
-      "symbol": "UNIII",
-      "name": "UniInuInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x36b4A59b0F62E33582Dbdbe4cbCA3E0A52dc98D1",
       "symbol": "PREACHER",
       "name": "PreacherDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82f6d1c09cf4aDD02c5ae941a42aDdB1DF8b70aC",
+      "symbol": "OBNK",
+      "name": "OpaqueBank",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8131,
-    "minor": 8131,
+    "major": 8132,
+    "minor": 8132,
     "patch": 84
   }
 }
