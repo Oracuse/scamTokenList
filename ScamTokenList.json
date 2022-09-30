@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4Ab55539BdeF47391C619afF1c3A78c659D66fDC",
-      "symbol": "MOKINAMI",
-      "name": "MiniKanagawaNami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbcD14f2c0bcF0b8312FcCC4F3484e07830e9F622",
       "symbol": "FUCKETHER",
       "name": "FuckEtherscan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x591eeC72E770743593bb15a2ECE438802f1ea08c",
+      "symbol": "META",
+      "name": "MetaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8108,
-    "minor": 8108,
+    "major": 8109,
+    "minor": 8109,
     "patch": 84
   }
 }
