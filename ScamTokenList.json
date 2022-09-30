@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD1e682E8cEefBacb276328276c6f9315Fc971666",
-      "symbol": "SPHINX",
-      "name": "TheGreatSphinx",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x89225c618006A26e72c0A14EED03d9E11F8DA0c1",
       "symbol": "SHIKI",
       "name": "Shikimori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc70A7C35A42250A76A35A137975Ba5b20F98cB06",
+      "symbol": "CAP",
+      "name": "Capitalism",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8172,
-    "minor": 8172,
+    "major": 8173,
+    "minor": 8173,
     "patch": 84
   }
 }
