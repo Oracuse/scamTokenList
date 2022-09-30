@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x99B517F2d56bE37A593cfbFD4305F5C5d327c0a1",
-      "symbol": "RESTART",
-      "name": "GreatRestart",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa6BaaB64781d24E12F02a24e8583071f4A6Ee951",
       "symbol": "KUNTZ",
       "name": "KittyPunkz",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA06587269a2E2897dbf5C10744FeE411B0e78fD8",
+      "symbol": "MANKEINEKO",
+      "name": "JapeneseLuckyCat",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8125,
-    "minor": 8125,
+    "major": 8126,
+    "minor": 8126,
     "patch": 84
   }
 }
