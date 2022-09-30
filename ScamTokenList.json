@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x032d6d90BC907c2cbE5134c58FBD62AFABc674Aa",
-      "symbol": "ASUNA",
-      "name": "AsunaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7f883494124AB60CcBFAafdf83060D93D1cfB440",
       "symbol": "CORE",
       "name": "Core",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd26ADe7E740d16B2c03A820594BfC72C1b2F0001",
+      "symbol": "UNIQUE",
+      "name": "TheOnlyOne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8099,
-    "minor": 8099,
+    "major": 8100,
+    "minor": 8100,
     "patch": 84
   }
 }
