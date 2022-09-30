@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xed32401452b17b13088Db33c5E5e67d335da350d",
-      "symbol": "MERUEM",
-      "name": "MERUEM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9cAAEC9613fD29ceAC732A3e64b7b7e173f16066",
       "symbol": "STINU",
       "name": "STORMINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08DE83526737f67db29BEb0229Eae921CC92E59B",
+      "symbol": "AKINU",
+      "name": "AkiraInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8151,
-    "minor": 8151,
+    "major": 8152,
+    "minor": 8152,
     "patch": 84
   }
 }
