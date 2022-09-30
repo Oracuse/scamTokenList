@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3D556B9839ea8f9EF7F0a88623dBc6BEb7e2F4bA",
-      "symbol": "GOLDGOOSE",
-      "name": "GOLDENGOOSE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8994486722a283Accd9cee144bF8179185a35637",
       "symbol": "SHIKI",
       "name": "ShikigamiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f7cdE4AF99951171d3B66300eFdbfF86141737f",
+      "symbol": "VISAINU",
+      "name": "VISAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8119,
-    "minor": 8119,
+    "major": 8120,
+    "minor": 8120,
     "patch": 84
   }
 }
