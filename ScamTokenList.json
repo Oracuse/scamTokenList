@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4Fb3AFf07e51108Bae58A9c877a23f0EF61eFf4b",
-      "symbol": "DADDYCAT",
-      "name": "DADDYCAT",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF2E639aDbFe39507B15B79cb65Fa21149699cb69",
       "symbol": "UNIII",
       "name": "UniInuInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCcB3E68048ACbc1a8C9A6FCf6709d4557a2B5119",
+      "symbol": "NAAS",
+      "name": "NodeService",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8130,
-    "minor": 8130,
+    "major": 8131,
+    "minor": 8131,
     "patch": 84
   }
 }
