@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x58Fa41f856bEaa874DEeDBc848A33FAA89bd5Ec3",
-      "symbol": "SEXY",
-      "name": "SexyDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4fe5709808E4793BB81feE85C8B8B5b97984170f",
       "symbol": "TSUKATSUKA",
       "name": "TsukaTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77b142B1E03685279b0752c50B391d04959673BE",
+      "symbol": "BCC",
+      "name": "BlindCarbonCopy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8153,
-    "minor": 8153,
+    "major": 8154,
+    "minor": 8154,
     "patch": 84
   }
 }
