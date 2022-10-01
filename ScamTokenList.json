@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9c645457861DBd049f6025874C6375D1Eb82D00c",
-      "symbol": "NEO",
-      "name": "NEOINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB4d190A2eC7a9456617207e10FEf2D79076b715F",
       "symbol": "SHINTAMA",
       "name": "Shintama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2DDc281ff65B677e9ED0945d65d4a4203E9c2422",
+      "symbol": "SHINJA",
+      "name": "SHINJA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8304,
-    "minor": 8304,
+    "major": 8305,
+    "minor": 8305,
     "patch": 84
   }
 }
