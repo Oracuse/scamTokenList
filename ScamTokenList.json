@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeF0D36180759C491a819B1892Ec21Ffc7e860a7f",
-      "symbol": "AZY",
-      "name": "Amazy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x586c364437Da60c1f3E25B0D29a6c39eBE4aF56F",
       "symbol": "GOT",
       "name": "GOTETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5248C3571D0d6f7e6ca0C44ff8D7812b711F6a7d",
+      "symbol": "HALLUCINATION",
+      "name": "PsychedelicTrance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8265,
-    "minor": 8265,
+    "major": 8266,
+    "minor": 8266,
     "patch": 84
   }
 }
