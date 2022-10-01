@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAe8025380E69C48666c197D2EBF5D1a83669C577",
-      "symbol": "SURGE",
-      "name": "SurgeDao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBbE338B99f0EBDC7A19b6041AE20A99481a076F3",
       "symbol": "LIGHTNINGE",
       "name": "LightningETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82ef3061d2330afe2BdE02fC405B64Ea9b3AF293",
+      "symbol": "BLX",
+      "name": "Bolix",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8372,
-    "minor": 8372,
+    "major": 8373,
+    "minor": 8373,
     "patch": 84
   }
 }
