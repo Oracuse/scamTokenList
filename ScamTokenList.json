@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xed8f48262d870A0dCD36FD70C9d7ad8F30b22395",
-      "symbol": "DISORDER",
-      "name": "TehGreatAnarchy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDe3b2277935fc03AE983e033DeedC6581c4F10e1",
       "symbol": "DETH",
       "name": "DarkEthereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42a4b36fa5F83275732Ce31998bf9446486048EE",
+      "symbol": "LNR",
+      "name": "LinageeNameRegistra",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8345,
-    "minor": 8345,
+    "major": 8346,
+    "minor": 8346,
     "patch": 84
   }
 }
