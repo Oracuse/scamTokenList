@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x83B965f383cAd2Cc23901AEd0A8aF3f1f07b9919",
-      "symbol": "GVRBANK",
-      "name": "GroveBankToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x61d95cDa1e5258A7154914D7EaA5A0175a4101e6",
       "symbol": "GIZOGE",
       "name": "GizaDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf94009061e7C09250d1985e125ce2Ac829B2F4cF",
+      "symbol": "HALLOWEENINU",
+      "name": "HalloweenINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8382,
-    "minor": 8382,
+    "major": 8383,
+    "minor": 8383,
     "patch": 84
   }
 }
