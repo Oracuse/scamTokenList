@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x576722C9D62dFF690521c53106e1a9eBca75c312",
-      "symbol": "HERETIC",
-      "name": "HereticDao",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6616Bb9eaf9Af3F4712DeF0DcAd3335CDa507424",
       "symbol": "HCHIMP",
       "name": "HOODCHIMP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x557d15dF62D23dC778b81e8AA5532d5e71B3Ff97",
+      "symbol": "DWIONE",
+      "name": "DioneHelper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8351,
-    "minor": 8351,
+    "major": 8352,
+    "minor": 8352,
     "patch": 84
   }
 }
