@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe8379D0369730d41fb942fB86C141Ad4b32C6799",
-      "symbol": "MINMI",
-      "name": "MinmiToken",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDB254702d5C41b80515394eF7B3281E8C80D2875",
       "symbol": "HOPIUM",
       "name": "Hopium",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E5e85d3E4ECbfA382887B6D5E61B2ee1b026817",
+      "symbol": "EMP",
+      "name": "EMPORIUM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8230,
-    "minor": 8230,
+    "major": 8231,
+    "minor": 8231,
     "patch": 84
   }
 }
