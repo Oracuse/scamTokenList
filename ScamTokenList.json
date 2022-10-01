@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0803594cB3B85ae531721D313fb1099c168473FD",
-      "symbol": "ILLUSION",
-      "name": "Illusion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0afd745e7B581BFEFb2b8178Fa20a1A97Ee8a7fC",
       "symbol": "RLTC",
       "name": "Reluctant",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3A00C2dbC91D3C2881CCf59eD459Aa2BdFEB5ed",
+      "symbol": "GHL",
+      "name": "GhiliToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8399,
-    "minor": 8399,
+    "major": 8400,
+    "minor": 8400,
     "patch": 84
   }
 }
