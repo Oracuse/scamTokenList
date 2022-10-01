@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x99c8DA50BD9a2500A289F60385B2511200520d2B",
-      "symbol": "30PND",
-      "name": "30MintutesPnD",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5E8e66a0E0656390435a6a7AB98d2C5070afc7E6",
       "symbol": "TVB",
       "name": "TheVeryBeginning",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Aa107b18007dCF21A162e486ceeb2F335659121",
+      "symbol": "GENSO",
+      "name": "FantasticFantasy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8331,
-    "minor": 8331,
+    "major": 8332,
+    "minor": 8332,
     "patch": 84
   }
 }
