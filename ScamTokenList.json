@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6dC1732888bc18C1bC206e251f3EA18eC7AcFfCf",
-      "symbol": "IBX",
-      "name": "IBEX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE6183dC39E5d80723C4F25aDb58d59A2aE62213e",
       "symbol": "D3GN",
       "name": "TERMINAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCdEe6702162AFf49EDe2D64e0F9Edb7Bc3a5c276",
+      "symbol": "BROKAR",
+      "name": "BrokarToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8323,
-    "minor": 8323,
+    "major": 8324,
+    "minor": 8324,
     "patch": 84
   }
 }
