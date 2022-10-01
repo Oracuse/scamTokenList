@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe57780F8f86025FB4a5d7a7dEFF9350645E5FBfE",
-      "symbol": "4ETH",
-      "name": "Thanks",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5e555e7c9eB7a33304248F8a82ee6D793E45dB03",
       "symbol": "SHIBATROLL",
       "name": "TrollShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7618a55c6935122b604eE9750A5aa273a1e0Ce0",
+      "symbol": "SHIBZ",
+      "name": "ZombieShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8388,
-    "minor": 8388,
+    "major": 8389,
+    "minor": 8389,
     "patch": 84
   }
 }
