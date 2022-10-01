@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x586c364437Da60c1f3E25B0D29a6c39eBE4aF56F",
-      "symbol": "GOT",
-      "name": "GOTETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8ee9eca8D9764230884cA2F3c1e7e7E224896870",
       "symbol": "SNOWFALL",
       "name": "snowfall",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B999aEba784308e44d6045A5509cb4a84d27A04",
+      "symbol": "SQUEEZE",
+      "name": "GmeSqueeze",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8266,
-    "minor": 8266,
+    "major": 8267,
+    "minor": 8267,
     "patch": 84
   }
 }
