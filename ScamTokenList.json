@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6733Ffa226477c28A1E893b4d8bA03C91f474969",
-      "symbol": "LGND",
-      "name": "Legend",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDbe9807450aC6F058C168dC992b8D68113CeD3AA",
       "symbol": "OKI",
       "name": "OkidokiSocial",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xddd80ceFA9b6c4FBC39eAE3592DE472429d2BB93",
+      "symbol": "STORY",
+      "name": "TimeLine",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8280,
-    "minor": 8280,
+    "major": 8281,
+    "minor": 8281,
     "patch": 84
   }
 }
