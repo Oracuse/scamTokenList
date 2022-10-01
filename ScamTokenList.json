@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe2E83a1DbBfB03f08852DE3FB00F32FC10A94EA0",
-      "symbol": "SHINURI",
-      "name": "Shinuri",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3dC3508BBEEc4B6A5FAa9460C3434B0bA3d143A7",
       "symbol": "ORPHEUS",
       "name": "Orpheus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC393DB94e2E3f99F3dD7b6b629D6e2d42baA887C",
+      "symbol": "TSURU",
+      "name": "Tsuru",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8378,
-    "minor": 8378,
+    "major": 8379,
+    "minor": 8379,
     "patch": 84
   }
 }
