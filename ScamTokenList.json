@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf9E076E8F72fe0636e39907DB29fEEe00d9D4683",
-      "symbol": "BLACK",
-      "name": "BlackEthereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x37a6Bf76103300cFfa3d17cBf8C078Cbef170551",
       "symbol": "OPTIMUS",
       "name": "OptimusPrimed",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf44d9ad4cDc9624327BB95BA7191f75FD4d660f7",
+      "symbol": "ORCHI",
+      "name": "OrchiNami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8321,
-    "minor": 8321,
+    "major": 8322,
+    "minor": 8322,
     "patch": 84
   }
 }
