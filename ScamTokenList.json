@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x616F9B7bc707A2dDf0548a089a4727255506Ece4",
-      "symbol": "BILLMURRAY",
-      "name": "BILLMURRAY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x576722C9D62dFF690521c53106e1a9eBca75c312",
       "symbol": "HERETIC",
       "name": "HereticDao",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x261Cfbed95198a0Fe2ae2C124Cd4A7e9E315Fd1D",
+      "symbol": "YESNT",
+      "name": "Yesnt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8350,
-    "minor": 8350,
+    "major": 8351,
+    "minor": 8351,
     "patch": 84
   }
 }
