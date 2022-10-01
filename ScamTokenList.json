@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60F92BDCBa6911b2b1bfcBc13E03060BED4B0F29",
-      "symbol": "SHINURI",
-      "name": "Shinuri",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x37e33912F7282cE827C7a59Fe0F87257A5215EeD",
       "symbol": "CON",
       "name": "Consecro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCDc013ca77c9B1021B37b68393071BD98E975f7d",
+      "symbol": "QUEENS",
+      "name": "QueensCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8328,
-    "minor": 8328,
+    "major": 8329,
+    "minor": 8329,
     "patch": 84
   }
 }
