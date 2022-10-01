@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8b1807cB9AfE460FED8A9c59F84565e4824A5e11",
-      "symbol": "SEIRYU",
-      "name": "SEIRYU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe9D8a0ded025A852E359423429471B92fF3Ea11c",
       "symbol": "SHIKI",
       "name": "Shikimori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06C2DCb8ED4D13248e0Dec3269eB681CEacb48a1",
+      "symbol": "POWER",
+      "name": "Tairyoku",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8204,
-    "minor": 8204,
+    "major": 8205,
+    "minor": 8205,
     "patch": 84
   }
 }
