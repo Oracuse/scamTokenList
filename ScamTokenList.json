@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7311E2114D89AB5F85fE5013Cd33FE07297c0Fdb",
-      "symbol": "TAR",
-      "name": "TaR",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F7d317737b4256Fb4aC361b2162461DA6b6B667",
       "symbol": "PASS",
       "name": "TheGoldenPortal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30F74D9080c027426aFb1183B9507F2D8e3B5475",
+      "symbol": "SONSAT",
+      "name": "SonSatoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8423,
-    "minor": 8423,
+    "major": 8424,
+    "minor": 8424,
     "patch": 84
   }
 }
