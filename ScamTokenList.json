@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD7aB6696f14C6c6A7A94b61f734efbAeF164fF78",
-      "symbol": "APEBIRD",
-      "name": "ApeBird",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6f253A8B3143a705B23ba0c2093bB0566eeB45BC",
       "symbol": "RASEN",
       "name": "InfiniteSpiral",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7dD4f32c82285d8F9E7e5c425BA0f6E289038fDf",
+      "symbol": "POS20",
+      "name": "ProofofVitalik",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8364,
-    "minor": 8364,
+    "major": 8365,
+    "minor": 8365,
     "patch": 84
   }
 }
