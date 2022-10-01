@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9F7C535c15a339cC95A7b0dCf4B762fDb8C5f4CF",
-      "symbol": "SMUPPY",
-      "name": "SMUPPYINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb759a47a8b7011439D2911e92740DDf6130d12bD",
       "symbol": "FL",
       "name": "FinancialLiteracy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFe3BD807a20507180392fBB8DEc72879df0e327F",
+      "symbol": "FTMKING",
+      "name": "FTMKing",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8300,
-    "minor": 8300,
+    "major": 8301,
+    "minor": 8301,
     "patch": 84
   }
 }
