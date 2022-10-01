@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x33b3Bb91e74F5bb1E2C0E80E53d51Df8BB1ab921",
-      "symbol": "KGM",
-      "name": "Kagami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x83B965f383cAd2Cc23901AEd0A8aF3f1f07b9919",
       "symbol": "GVRBANK",
       "name": "GroveBankToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA6e7c1452DD88E1a84E8845bB6C61edc5f29E529",
+      "symbol": "ERNE",
+      "name": "EthemityChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8381,
-    "minor": 8381,
+    "major": 8382,
+    "minor": 8382,
     "patch": 84
   }
 }
