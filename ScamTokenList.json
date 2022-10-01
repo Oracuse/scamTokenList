@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3e8ea88bA0D84D18603cDce3ae2c8867EfC50432",
-      "symbol": "LMEC",
-      "name": "Crypto4CausesCollec",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "Killable"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4B9e6C8bc6Db256A9Bc2C13786E37Dc2046E026A",
       "symbol": "SNJW",
       "name": "Shinjew",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E552F6ea01F5cC313e9850911bA9c968584bdA2",
+      "symbol": "ESU",
+      "name": "ProofofRyoshi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8249,
-    "minor": 8249,
+    "major": 8250,
+    "minor": 8250,
     "patch": 84
   }
 }
