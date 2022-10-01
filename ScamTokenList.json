@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcd866b9B9286DE19982d93Be6238c598D5137e66",
-      "symbol": "BURN",
-      "name": "Heat",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2007747D26d266782935bfABbDA5B0F1864Eb135",
       "symbol": "FIDUS",
       "name": "FIDUSFINANCE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69fB109164a58975C779CCc1Fbbedf3E4e6aB169",
+      "symbol": "IKIGOI",
+      "name": "Nishikigoi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8404,
-    "minor": 8404,
+    "major": 8405,
+    "minor": 8405,
     "patch": 84
   }
 }
