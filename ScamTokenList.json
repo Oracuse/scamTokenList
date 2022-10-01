@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x37a6Bf76103300cFfa3d17cBf8C078Cbef170551",
-      "symbol": "OPTIMUS",
-      "name": "OptimusPrimed",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6dC1732888bc18C1bC206e251f3EA18eC7AcFfCf",
       "symbol": "IBX",
       "name": "IBEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6CC9879c912b003dCE68bF7E7d2b76c1A5043840",
+      "symbol": "CHANCEY",
+      "name": "Chancey",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8322,
-    "minor": 8322,
+    "major": 8323,
+    "minor": 8323,
     "patch": 84
   }
 }
