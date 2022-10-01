@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x43f56564b2026696388F32E4b2E3764113ad6683",
-      "symbol": "TARO",
-      "name": "UrashimaTaro",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x72725abC87F315dfB0B490AA046381877E15F001",
       "symbol": "GRIMOIRE",
       "name": "ENCHANTED",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6325Bb11dDFA2aD08B88f8e733809519C34CE856",
+      "symbol": "M2",
+      "name": "MOONII",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8298,
-    "minor": 8298,
+    "major": 8299,
+    "minor": 8299,
     "patch": 84
   }
 }
