@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Dab4F114DAd3feDf6dfe350664D90B75f011256",
-      "symbol": "SHOOTER",
-      "name": "Shooter",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcFE6C9dE06d4F1dBd7f897c0440117609aca1A3C",
       "symbol": "KOJIGAME",
       "name": "KojimaGame",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55FE6774e5a772b57C60ba09EE93bac60bFF3C0E",
+      "symbol": "UNDEAD",
+      "name": "UndeadShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8292,
-    "minor": 8292,
+    "major": 8293,
+    "minor": 8293,
     "patch": 84
   }
 }
