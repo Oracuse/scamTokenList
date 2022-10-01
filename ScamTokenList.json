@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAc4b00A61C8d57b8d3C8085eCB408A8518f46Fd9",
-      "symbol": "SKY",
-      "name": "SKY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x249Ffb81b8c91AA0A7cAAE95a6cC9FA6C702F9A8",
       "symbol": "ASAKI",
       "name": "ASAKI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E3d5aF4FA9fCD7F98e866d7A904Fb839F6f0b59",
+      "symbol": "SAYLOR",
+      "name": "SaylorInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8181,
-    "minor": 8181,
+    "major": 8182,
+    "minor": 8182,
     "patch": 84
   }
 }
