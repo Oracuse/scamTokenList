@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x962fAf9D664b26Eb895f00e4F45129a722541c41",
-      "symbol": "KIRA",
-      "name": "KiraInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x13D3527956a1aa0bb0da4cc7B33dEfDC57A7a7C7",
       "symbol": "BUZZ",
       "name": "Buzz",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAfD6d4ce2226b580e4d06601D0Ae0f0Ad9013a3a",
+      "symbol": "TSUDOG",
+      "name": "ADragonsDog",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8201,
-    "minor": 8201,
+    "major": 8202,
+    "minor": 8202,
     "patch": 84
   }
 }
