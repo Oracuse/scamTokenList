@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x49F3Ad232AA958a133D9E660f037042069F50B86",
-      "symbol": "SAITSUKA",
-      "name": "Saitsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x087761529B4d9821f845E5a3ffEcEc6a758C9301",
       "symbol": "REBABANK",
       "name": "BankofReba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e6933b43618AB631f3AE6DBE62cbDca683Bde4F",
+      "symbol": "QWSH",
+      "name": "QWSH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8242,
-    "minor": 8242,
+    "major": 8243,
+    "minor": 8243,
     "patch": 84
   }
 }
