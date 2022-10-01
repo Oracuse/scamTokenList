@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbA543bdC6C684d4f63924806888EF0fE24ac1317",
-      "symbol": "BRI",
-      "name": "BurnRebaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x41ef1A0Ce9bdCC645358e44f4B922E81A099BB7b",
       "symbol": "MUSIC",
       "name": "MUSIC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9060bB083Ff999A59288e8f439Dad13101960ac",
+      "symbol": "PR070",
+      "name": "Proto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8212,
-    "minor": 8212,
+    "major": 8213,
+    "minor": 8213,
     "patch": 84
   }
 }
