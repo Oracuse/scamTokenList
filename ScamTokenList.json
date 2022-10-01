@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x13D3527956a1aa0bb0da4cc7B33dEfDC57A7a7C7",
-      "symbol": "BUZZ",
-      "name": "Buzz",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97DbE5BB0CE4b4b675Fbf301288e05154c758432",
       "symbol": "GRAPE",
       "name": "GrapeFinance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x895917741dD920393A915B3184Bb374E9810A441",
+      "symbol": "SPN",
+      "name": "SPACEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8202,
-    "minor": 8202,
+    "major": 8203,
+    "minor": 8203,
     "patch": 84
   }
 }
