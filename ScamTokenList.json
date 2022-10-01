@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x12666fB74150A70A4f92d9459a39736914DcE72C",
-      "symbol": "BRRR",
-      "name": "BRRRINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x277174DE11EEf9509159F8617C19d7912032B749",
       "symbol": "STSUKA",
       "name": "STSUKA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73f831807495c9147ec409f4D99e9e393C2599eE",
+      "symbol": "YORI",
+      "name": "HitsugayaYori",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8179,
-    "minor": 8179,
+    "major": 8180,
+    "minor": 8180,
     "patch": 84
   }
 }
