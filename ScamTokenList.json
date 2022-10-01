@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0cf191E6Bd51b6776B5b4bf26a2A37dd09D2e0C2",
-      "symbol": "SEIRYU",
-      "name": "SEIRYU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd6CA6c35BBaEE4aea15BD9D3d74C0bd5b256d792",
       "symbol": "TSURUGI",
       "name": "KusanagiTsurugi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb21BB992009f6782603a98df27B45795718cA3c4",
+      "symbol": "NOBITCHES20",
+      "name": "ProofofBitches",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8191,
-    "minor": 8191,
+    "major": 8192,
+    "minor": 8192,
     "patch": 84
   }
 }
