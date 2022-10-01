@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4134472aCE47D108c2cf174D586e1f192b1D3182",
-      "symbol": "BOGDAN",
-      "name": "BOGDAN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd96199c654dE067E823746F222fd9DBeB85A84FA",
       "symbol": "FANTASY",
       "name": "Fantasy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3618856DC77Dfc09276A86435A56af063f538188",
+      "symbol": "FIFA",
+      "name": "FIFAWouldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8358,
-    "minor": 8358,
+    "major": 8359,
+    "minor": 8359,
     "patch": 84
   }
 }
