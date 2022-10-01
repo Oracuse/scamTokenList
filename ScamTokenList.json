@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5d70fD0CeCE354ac4d148ba16628D8695d531A1D",
-      "symbol": "TAPE",
-      "name": "TheTape",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x962fAf9D664b26Eb895f00e4F45129a722541c41",
       "symbol": "KIRA",
       "name": "KiraInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B63B8Ec754358bdA6fb2145CCd546a06c362F24",
+      "symbol": "QUORUM",
+      "name": "Quorate",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8200,
-    "minor": 8200,
+    "major": 8201,
+    "minor": 8201,
     "patch": 84
   }
 }
