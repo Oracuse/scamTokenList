@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb759a47a8b7011439D2911e92740DDf6130d12bD",
-      "symbol": "FL",
-      "name": "FinancialLiteracy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfeb58ACB92f7aca71e9CE19a10360a47EA0f2B10",
       "symbol": "CAN",
       "name": "CanDao",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA7a6C92cbeF8f93dE1b5CdC8a2C388505Ba639E3",
+      "symbol": "MCHAIN",
+      "name": "MAGICHAIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8301,
-    "minor": 8301,
+    "major": 8302,
+    "minor": 8302,
     "patch": 84
   }
 }
