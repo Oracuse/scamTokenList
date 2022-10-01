@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE6183dC39E5d80723C4F25aDb58d59A2aE62213e",
-      "symbol": "D3GN",
-      "name": "TERMINAL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbf96393421B83A81b47E9215aA21A474ca51459c",
       "symbol": "GINTOKIINU",
       "name": "GintokiSakataINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3205dE5C88E49D8261D5811a6eB022E120d51F9b",
+      "symbol": "SINU",
+      "name": "SPARROWINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8324,
-    "minor": 8324,
+    "major": 8325,
+    "minor": 8325,
     "patch": 84
   }
 }
