@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4998dd30E943d1162591578bdebbb4773Bb14BC5",
-      "symbol": "SHUINSEN",
-      "name": "Shuinsen",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2221146A0243e6238e0c995B22b7A4cA0664ab7c",
       "symbol": "SHINJEW",
       "name": "Shinjew",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09fC992fD3a99826c691d0CD51A04B8168C4E3a6",
+      "symbol": "EOS",
+      "name": "EndofSummer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8244,
-    "minor": 8244,
+    "major": 8245,
+    "minor": 8245,
     "patch": 84
   }
 }
