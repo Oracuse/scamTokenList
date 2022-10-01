@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5699b625eca33139ec91e3e3E7e722856c064DdE",
-      "symbol": "SPIRAL",
-      "name": "Spiral",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD0A13C9cc7340BA11D1Bfdf616D3B975F1f7F025",
       "symbol": "SHUINSEN",
       "name": "Shuinsen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B4C67E414E5e09b755CAbFaDD4b85b0A415273e",
+      "symbol": "CRASH",
+      "name": "OctoBear",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8238,
-    "minor": 8238,
+    "major": 8239,
+    "minor": 8239,
     "patch": 84
   }
 }
