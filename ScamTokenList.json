@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd3CB03E105e0E7c39dc50078d6bD4647451e86cc",
-      "symbol": "SCOR",
-      "name": "Scorpion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeA1b7c2AC583aB1005F38AE3d9c03b5097bb3502",
       "symbol": "ULTIMATE",
       "name": "ultimate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7101a844288e652b4f312fdd51416f80D9a30b24",
+      "symbol": "JUNLON",
+      "name": "JunlonToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8269,
-    "minor": 8269,
+    "major": 8270,
+    "minor": 8270,
     "patch": 84
   }
 }
