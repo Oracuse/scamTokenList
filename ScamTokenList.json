@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3dC3508BBEEc4B6A5FAa9460C3434B0bA3d143A7",
-      "symbol": "ORPHEUS",
-      "name": "Orpheus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76cacB1d83262688F51a6d79818C4e5e7cb37073",
       "symbol": "NURE",
       "name": "Nureonna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb76C52B4840042bb166291A5712fD0B4Ff7488Ab",
+      "symbol": "TOKAIDO",
+      "name": "TOKAIDO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8379,
-    "minor": 8379,
+    "major": 8380,
+    "minor": 8380,
     "patch": 84
   }
 }
