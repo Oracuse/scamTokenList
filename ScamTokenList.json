@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2b16c677BD9c5bCC1453b8539B70c9aE1F0399b5",
-      "symbol": "CLIFF",
-      "name": "CliffTwoZero",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x729d56B5C541D10D9d37a11DcDb0A78a79949961",
       "symbol": "WAX",
       "name": "WARRIORX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAF96dd1E9265fD37A2C45A2cC82EEC8f90e9F3eb",
+      "symbol": "AKAKIRYU",
+      "name": "REDDRAGON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8367,
-    "minor": 8367,
+    "major": 8368,
+    "minor": 8368,
     "patch": 84
   }
 }
