@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCC8FF864550cB3c687C5152448e09cD337f5152D",
-      "symbol": "PI",
-      "name": "PiNetwork",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe0a33AbBa55a242ea1ab16055CC293C6aA13Bf51",
       "symbol": "HEAVEN",
       "name": "GatesOfWisdom",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06A11d94Ae88BfAc98446648358823AEBc59fa78",
+      "symbol": "TAROT",
+      "name": "LifeorDeath",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8227,
-    "minor": 8227,
+    "major": 8228,
+    "minor": 8228,
     "patch": 84
   }
 }
