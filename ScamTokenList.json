@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf8e36EF4E967D0dBA6c3f57402AEafA849cDAAca",
-      "symbol": "RAID",
-      "name": "Raid",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4758baAb638B1bf5AB146010627f82953d5074C7",
       "symbol": "SHILL",
       "name": "ShillitToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEFF33c62D1F9Bc35230D9ddC5F92Bf0Da981C50e",
+      "symbol": "TARUMA",
+      "name": "TARUMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8175,
-    "minor": 8175,
+    "major": 8176,
+    "minor": 8176,
     "patch": 84
   }
 }
