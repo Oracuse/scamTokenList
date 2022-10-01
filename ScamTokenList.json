@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3b38bAB9289f00411Bb34a28CeBB53a2010483Ec",
-      "symbol": "FISHERMAN",
-      "name": "RedHerring",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0cf191E6Bd51b6776B5b4bf26a2A37dd09D2e0C2",
       "symbol": "SEIRYU",
       "name": "SEIRYU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf86464c67462B8B79D65ee84Dd3E9F2208b999B6",
+      "symbol": "ERMIUM",
+      "name": "ErmiumProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8190,
-    "minor": 8190,
+    "major": 8191,
+    "minor": 8191,
     "patch": 84
   }
 }
