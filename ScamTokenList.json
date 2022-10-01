@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd96199c654dE067E823746F222fd9DBeB85A84FA",
-      "symbol": "FANTASY",
-      "name": "Fantasy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd97Af77d0c0053c19B1549486dD5892831050705",
       "symbol": "CHADFINDER",
       "name": "ChadFinder",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFe2bcb306FEd1EF86Bb4EfFfD233B2babb70b09E",
+      "symbol": "KOLC",
+      "name": "Kollect",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8359,
-    "minor": 8359,
+    "major": 8360,
+    "minor": 8360,
     "patch": 84
   }
 }
