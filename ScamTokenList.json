@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x802D63eeedbd511eFA84147DA8Ce2ac775f9c863",
-      "symbol": "SHARP",
-      "name": "Cheddar",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6CE48cA77Cfd098D3B2B576dB9A96Ae9a1E1eD05",
       "symbol": "KAREN",
       "name": "KarensDiner",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1bd2Ca6eFd530a2Bc8ED97E84E7099feFfF20276",
+      "symbol": "TRADET",
+      "name": "UniTrade",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8411,
-    "minor": 8411,
+    "major": 8412,
+    "minor": 8412,
     "patch": 84
   }
 }
