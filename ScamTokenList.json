@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76cacB1d83262688F51a6d79818C4e5e7cb37073",
-      "symbol": "NURE",
-      "name": "Nureonna",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x33b3Bb91e74F5bb1E2C0E80E53d51Df8BB1ab921",
       "symbol": "KGM",
       "name": "Kagami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23de0011D5D6D21751C34E7606Bf0ABa8AB592b4",
+      "symbol": "SOCIAL",
+      "name": "SOCIAL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8380,
-    "minor": 8380,
+    "major": 8381,
+    "minor": 8381,
     "patch": 84
   }
 }
