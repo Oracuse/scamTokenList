@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x291eEca20cE214AcFd692816D45074bf0f3e4712",
-      "symbol": "OLDCHAD",
-      "name": "OLDCHAD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE2A359312D7FcB36A4144b5D8c921Ff3C8c0FFe5",
       "symbol": "DONKEY",
       "name": "DonkeyDao",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Bbadf3B11f06bE6A26DAe4191b28C0c64F12Da9",
+      "symbol": "ABOOST",
+      "name": "AthletesBoost",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8340,
-    "minor": 8340,
+    "major": 8341,
+    "minor": 8341,
     "patch": 84
   }
 }
