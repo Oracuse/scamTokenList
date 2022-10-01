@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x755EebCb7b2d035b53d0D9C7143f526F5856f4fC",
-      "symbol": "FTC",
-      "name": "ForTheCommunity",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88338f1aD6fe90A133C299454fE819f5CE511f6D",
       "symbol": "SHIBMETA",
       "name": "ShibMeta",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1082632820cE1E38896208dF6079aBF0fEE3041",
+      "symbol": "DEGENSNIPE",
+      "name": "DegenSnipe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8355,
-    "minor": 8355,
+    "major": 8356,
+    "minor": 8356,
     "patch": 84
   }
 }
