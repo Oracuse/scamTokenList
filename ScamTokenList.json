@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x72725abC87F315dfB0B490AA046381877E15F001",
-      "symbol": "GRIMOIRE",
-      "name": "ENCHANTED",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9F7C535c15a339cC95A7b0dCf4B762fDb8C5f4CF",
       "symbol": "SMUPPY",
       "name": "SMUPPYINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCdDE1d5540F919C3bdE24436e6acEBEB12046025",
+      "symbol": "KIRIN",
+      "name": "Kirin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8299,
-    "minor": 8299,
+    "major": 8300,
+    "minor": 8300,
     "patch": 84
   }
 }
