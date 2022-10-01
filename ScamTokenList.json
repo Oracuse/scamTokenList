@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62528A9F240D66902616aa6A6baEa854BF8faf5b",
-      "symbol": "HIMITSU",
-      "name": "Himitsu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe72870F03cd9Ef5FC5c825B03D2Df9b51Eb32684",
       "symbol": "SANO",
       "name": "SusanoonoMikoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00259f6Cf9F5C2875e3CC450ed3286E8b05030e9",
+      "symbol": "POP",
+      "name": "ProofofOptimus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8187,
-    "minor": 8187,
+    "major": 8188,
+    "minor": 8188,
     "patch": 84
   }
 }
