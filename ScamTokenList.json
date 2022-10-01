@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0809C7D655b25AE6C795950E50475Fb50f132956",
-      "symbol": "RYU",
-      "name": "Ryujin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7311E2114D89AB5F85fE5013Cd33FE07297c0Fdb",
       "symbol": "TAR",
       "name": "TaR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14183ef22952c7f6Fc8761886c33cA16d7D351BC",
+      "symbol": "KANNAZUKI",
+      "name": "MonthWithoutGods",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8422,
-    "minor": 8422,
+    "major": 8423,
+    "minor": 8423,
     "patch": 84
   }
 }
