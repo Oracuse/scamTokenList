@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC54DC10BaC1de45C158d38aB563cB362c539F41d",
-      "symbol": "TSUKAINU",
-      "name": "TsukaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf8e36EF4E967D0dBA6c3f57402AEafA849cDAAca",
       "symbol": "RAID",
       "name": "Raid",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03ED4498D9e4825EC01B1C4F4322ffb53FD2e70b",
+      "symbol": "ICEFI",
+      "name": "IceFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8174,
-    "minor": 8174,
+    "major": 8175,
+    "minor": 8175,
     "patch": 84
   }
 }
