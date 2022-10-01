@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0afd745e7B581BFEFb2b8178Fa20a1A97Ee8a7fC",
-      "symbol": "RLTC",
-      "name": "Reluctant",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFecdCD5C778B5673A02Ca9962BE8c2b17f2b858b",
       "symbol": "INFZ",
       "name": "Influenza",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x026abD87EC2B39f5040A468D5AF00f7Ffd1B4881",
+      "symbol": "TSURU",
+      "name": "Tsuru",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8400,
-    "minor": 8400,
+    "major": 8401,
+    "minor": 8401,
     "patch": 84
   }
 }
