@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22409F4bf58AeeE159E32b91045B515931667228",
-      "symbol": "TRIKO",
-      "name": "TRIKO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5699b625eca33139ec91e3e3E7e722856c064DdE",
       "symbol": "SPIRAL",
       "name": "Spiral",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA4cFd61f82b24b56040AB7c8240ccE02B39b7e1b",
+      "symbol": "MORGOTH",
+      "name": "Morgoth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8237,
-    "minor": 8237,
+    "major": 8238,
+    "minor": 8238,
     "patch": 84
   }
 }
