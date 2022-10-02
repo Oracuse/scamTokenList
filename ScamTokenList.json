@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1de475E285951ed78992553956707f1dEC37dE69",
-      "symbol": "CINU",
-      "name": "CommunityInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x03F24d8aeC3c998240D78aa63c31A01caB6229F4",
       "symbol": "BLADEE",
       "name": "Bladee",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c344e925D1C7490012Fa693392B6BF64763ceB8",
+      "symbol": "DBINU",
+      "name": "DeutscheBankInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8577,
-    "minor": 8577,
+    "major": 8578,
+    "minor": 8578,
     "patch": 84
   }
 }
