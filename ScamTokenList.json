@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6603978CFBdC954064c3c41658534d94973FF544",
-      "symbol": "KOTO",
-      "name": "Kotoamatsukami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5853F9402F8b4e03E2263cA6AB8568eA099E1bC4",
       "symbol": "USHI",
       "name": "UrashimaTaro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeF8FDb97E85816920f0c96Fb6E34f4D97CF5eDF7",
+      "symbol": "SHEN",
+      "name": "Caishen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8434,
-    "minor": 8434,
+    "major": 8435,
+    "minor": 8435,
     "patch": 84
   }
 }
