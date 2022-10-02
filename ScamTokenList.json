@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDD5637E8258b4b539bA181FF7B6a1f0B4d22CB49",
-      "symbol": "RINU",
-      "name": "ROTTWEILERINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x043F6056935012B6ac22a927Bb06D66d5009997C",
       "symbol": "PAR",
       "name": "Paradise",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xecb0f7395672c474Ce7CFeaceFDE58ec09a70042",
+      "symbol": "42",
+      "name": "Uchunokotae",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8509,
-    "minor": 8509,
+    "major": 8510,
+    "minor": 8510,
     "patch": 84
   }
 }
