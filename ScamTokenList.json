@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf5F9eF56A2b3d674A4895587240B0D5Dd3F8c28e",
-      "symbol": "NEWDOGEORDER",
-      "name": "NewDogeOrder",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEE33Cc95EE2cf0073F289EB1265A00A8761bCa52",
       "symbol": "DAFFY",
       "name": "DAFFYDUCK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cf35BF564De4420CE66f5A9FCD4eabC2c21B30c",
+      "symbol": "HALLOWEENU",
+      "name": "HalloweenInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8507,
-    "minor": 8507,
+    "major": 8508,
+    "minor": 8508,
     "patch": 84
   }
 }
