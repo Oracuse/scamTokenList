@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9a273B38a5D5fd94c9C066f74027f66726698BFF",
-      "symbol": "AZTECINU",
-      "name": "AZTECINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAdeD8E5398404f2677F7037e68445AD87662d15f",
       "symbol": "WAVES",
       "name": "SevenSeas",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0837d321BEaF37C8a4019aEc5378ed0ee497F00c",
+      "symbol": "HELP",
+      "name": "HelpTsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8566,
-    "minor": 8566,
+    "major": 8567,
+    "minor": 8567,
     "patch": 84
   }
 }
