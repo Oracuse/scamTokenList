@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x30e7605cc499C008df05A3EF95520A326247D377",
-      "symbol": "SUKEHIRO",
-      "name": "Sukehiro",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x501e58BAc1dFE777f725aBe94BBE6a80c4197d7D",
       "symbol": "MPOX",
       "name": "Monkeypox",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBCb1459b3b430d0C7a7f50431322b380F18F24cF",
+      "symbol": "GRONK",
+      "name": "GronkowskiToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8447,
-    "minor": 8447,
+    "major": 8448,
+    "minor": 8448,
     "patch": 84
   }
 }
