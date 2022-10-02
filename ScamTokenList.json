@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98Af1b56bF612Cf32B4959e2d287008dEA5028bb",
-      "symbol": "CHIPS",
-      "name": "Chips",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9334f24547CC9E01a3EAD2d63756e672B4264670",
       "symbol": "HDOGE",
       "name": "HypeDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3E36e3c8D8B2230dA7Acb381f80d832ca4716f3",
+      "symbol": "SLENDER",
+      "name": "SLENDERMAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8528,
-    "minor": 8528,
+    "major": 8529,
+    "minor": 8529,
     "patch": 84
   }
 }
