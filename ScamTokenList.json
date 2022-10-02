@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x18272A039897300A2847f460f3A304d714C74b02",
-      "symbol": "EST",
-      "name": "Estate",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1189b47e9BbD8938945784E4E8495aDdAb912E7c",
       "symbol": "OTAKU",
       "name": "TheComputerNerd",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1CEd4fb40cD04A29aA7F9B4F6FB8D207d43ddCdd",
+      "symbol": "DKERBERUS",
+      "name": "DogKerberus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8563,
-    "minor": 8563,
+    "major": 8564,
+    "minor": 8564,
     "patch": 84
   }
 }
