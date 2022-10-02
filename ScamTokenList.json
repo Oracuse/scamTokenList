@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5853F9402F8b4e03E2263cA6AB8568eA099E1bC4",
-      "symbol": "USHI",
-      "name": "UrashimaTaro",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF5eEB982ae2ec95500A3d9Cf9c3f57A034e76a40",
       "symbol": "FISHERMAN",
       "name": "FISHERMAN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa91ab0bcA76968c9b04EBd14228f4A5BB0CDcD2B",
+      "symbol": "BABYTAMA",
+      "name": "BabyTamaDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8435,
-    "minor": 8435,
+    "major": 8436,
+    "minor": 8436,
     "patch": 84
   }
 }
