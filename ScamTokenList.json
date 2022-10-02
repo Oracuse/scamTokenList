@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2e81e36B37B5614a47ea65d24633E2947f321531",
-      "symbol": "MOONMAN",
-      "name": "MoonMan",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf5F9eF56A2b3d674A4895587240B0D5Dd3F8c28e",
       "symbol": "NEWDOGEORDER",
       "name": "NewDogeOrder",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7221c1965e515645a3dBC14663960FF730B6F3a6",
+      "symbol": "SSWAR",
+      "name": "SenshiWarriors",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8506,
-    "minor": 8506,
+    "major": 8507,
+    "minor": 8507,
     "patch": 84
   }
 }
