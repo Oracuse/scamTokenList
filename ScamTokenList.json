@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5A3Eb4Eaa64472fE65BDC05AB25Da3efAdefd927",
-      "symbol": "NERVE",
-      "name": "Nerve",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x005Aec4583F06008E9E334170f4e8B6d3b42816E",
       "symbol": "SHINZO",
       "name": "ShinzoOrigami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x901E507bC77Bb67f762655DE60AA7BEb06aDDcc4",
+      "symbol": "BOOM",
+      "name": "ADegensDream",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8500,
-    "minor": 8500,
+    "major": 8501,
+    "minor": 8501,
     "patch": 84
   }
 }
