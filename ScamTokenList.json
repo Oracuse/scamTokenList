@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17c6A3A714fC8a7BDfD3d9736AD386Bcb654E17D",
-      "symbol": "OCTAVIUS",
-      "name": "Octavius",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0F71D082c4e30608B398d5F4537f5ED45AEbDe1c",
       "symbol": "TACOS",
       "name": "TacosInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x002f0233262aD652619d9bC26F132C4bb35ac7FC",
+      "symbol": "BOOST",
+      "name": "DayofRight",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8495,
-    "minor": 8495,
+    "major": 8496,
+    "minor": 8496,
     "patch": 84
   }
 }
