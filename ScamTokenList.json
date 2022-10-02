@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEE33Cc95EE2cf0073F289EB1265A00A8761bCa52",
-      "symbol": "DAFFY",
-      "name": "DAFFYDUCK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDD5637E8258b4b539bA181FF7B6a1f0B4d22CB49",
       "symbol": "RINU",
       "name": "ROTTWEILERINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x827373846bE281C209c322B637d646b2D9AF1A29",
+      "symbol": "OFC",
+      "name": "OldFlokiCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8508,
-    "minor": 8508,
+    "major": 8509,
+    "minor": 8509,
     "patch": 84
   }
 }
