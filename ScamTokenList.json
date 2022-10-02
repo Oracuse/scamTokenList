@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDe14dE44E4ED727013d26110511E98d8B3A96Ee8",
-      "symbol": "SHIT",
-      "name": "ShibTurbo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x283e21645d11d8d864D020Cb81f1487534b6142f",
       "symbol": "CRIT",
       "name": "Critical",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27BA5F75E88e95D337622ED91F030b7923425045",
+      "symbol": "TSURIHITO",
+      "name": "Tsurihito",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8489,
-    "minor": 8489,
+    "major": 8490,
+    "minor": 8490,
     "patch": 84
   }
 }
