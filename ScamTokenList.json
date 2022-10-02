@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x75713Ae260B8476116a22036fa0F4eb3E9aB38C5",
-      "symbol": "ORIGAMI",
-      "name": "Origami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x44D47Ef4c53026828709247aC154d20B96AB4379",
       "symbol": "KUON",
       "name": "FounderofOnmyodo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1da43C145B573A1fdcEC9072b7AA4c618e18ED1a",
+      "symbol": "GME",
+      "name": "GamestopInuV2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8550,
-    "minor": 8550,
+    "major": 8551,
+    "minor": 8551,
     "patch": 84
   }
 }
