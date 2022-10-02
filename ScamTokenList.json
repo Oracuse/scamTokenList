@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbd13bb011e9f0a048C1B98007E24496f54525Fd5",
-      "symbol": "POISON",
-      "name": "Poison",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5AB7c5A7B4Cfc86820F873f55cB2662dA98937fb",
       "symbol": "WOLF",
       "name": "WolfinSheepsClothin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC3Fed00F0A7B6adBFE6F83a8936464eF082F6eFE",
+      "symbol": "COLLAPSE",
+      "name": "CreditSuisse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8502,
-    "minor": 8502,
+    "major": 8503,
+    "minor": 8503,
     "patch": 84
   }
 }
