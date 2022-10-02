@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf842caE67867d98b3fE6b484471D53BB6b209BFC",
-      "symbol": "KITSU",
-      "name": "Kitsune",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa48000EE4AdB1599DC66695FF187B2c0c6138a7E",
       "symbol": "PROTOCOL",
       "name": "Protocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88D87c739EEaE8FFde5DF6BC9c668c7582d3a074",
+      "symbol": "ASANA",
+      "name": "AsanaToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8453,
-    "minor": 8453,
+    "major": 8454,
+    "minor": 8454,
     "patch": 84
   }
 }
