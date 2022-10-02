@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9334f24547CC9E01a3EAD2d63756e672B4264670",
-      "symbol": "HDOGE",
-      "name": "HypeDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4EAF3D09Fd7d67e8bf67B5ECA7E5d9F5B4679d18",
       "symbol": "MINU",
       "name": "MarmadukeInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaF03B12a153D350144ea4dAF003266527F6c2F1A",
+      "symbol": "SHINDO",
+      "name": "SHINDO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8529,
-    "minor": 8529,
+    "major": 8530,
+    "minor": 8530,
     "patch": 84
   }
 }
