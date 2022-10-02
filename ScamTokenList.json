@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8C41E0d4317a979482ca863E3e9aEB316812e1eD",
-      "symbol": "XAPE",
-      "name": "ExtraApe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69688DE4c6dbdC20f59287253670ED8ae9b75Afc",
       "symbol": "DOGS",
       "name": "DOGSBATTLE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Bc67f54A3681Edf1297e94B654037b0e0dB5195",
+      "symbol": "PLAY",
+      "name": "Playgroud",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8482,
-    "minor": 8482,
+    "major": 8483,
+    "minor": 8483,
     "patch": 84
   }
 }
