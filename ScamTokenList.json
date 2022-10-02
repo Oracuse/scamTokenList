@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAdeD8E5398404f2677F7037e68445AD87662d15f",
-      "symbol": "WAVES",
-      "name": "SevenSeas",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x91f29D0e8D76Bc0ce8000f9158D8881AdaC42344",
       "symbol": "NTB",
       "name": "NanditheBull",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x582217d85a75E1F0065D46CC28f4Daa12CBE724a",
+      "symbol": "TWHALE",
+      "name": "TsukaWhale",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8567,
-    "minor": 8567,
+    "major": 8568,
+    "minor": 8568,
     "patch": 84
   }
 }
