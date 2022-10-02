@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23a8fB57E863c756C5ef362F7588b68d0DdA635D",
-      "symbol": "WALDO",
-      "name": "WaldoInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAAE6aaFD363D6b9Cb1917f9f6A28c215847f873f",
       "symbol": "DTMZ",
       "name": "DegenTimez",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ce9661a8E7f2618ACc4f2a78a6A2Aa216eAb9C2",
+      "symbol": "BASHIRA",
+      "name": "BASHIRA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8455,
-    "minor": 8455,
+    "major": 8456,
+    "minor": 8456,
     "patch": 84
   }
 }
