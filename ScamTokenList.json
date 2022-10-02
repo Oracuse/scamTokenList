@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDE5FA6835637Af0efa694876617Fc4b1Ae325a15",
-      "symbol": "SHIKIGAMI",
-      "name": "Shikigami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x70AE7FD62D96778fc2856Ef95CbD5F1C30e1b7aD",
       "symbol": "FSOCIETY",
       "name": "FSOCIETY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A1C8F1eF26a2e7B6b643FA14b2F7c6A411d1314",
+      "symbol": "FLOKI20",
+      "name": "ProofofElon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8428,
-    "minor": 8428,
+    "major": 8429,
+    "minor": 8429,
     "patch": 84
   }
 }
