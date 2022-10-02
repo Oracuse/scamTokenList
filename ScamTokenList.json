@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4e58cb7973cca306a315bc9bfB29D6Fd7eBc0178",
-      "symbol": "CONI",
-      "name": "ConanInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9212658516e32e98AB497117b09Dfd73A1281866",
       "symbol": "MOONMAN",
       "name": "MoonMan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1E873bc120AD97C1B0bd3B842E5fbEB2EB927fd",
+      "symbol": "FLOKISTEIN",
+      "name": "FLOKISTEIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8459,
-    "minor": 8459,
+    "major": 8460,
+    "minor": 8460,
     "patch": 84
   }
 }
