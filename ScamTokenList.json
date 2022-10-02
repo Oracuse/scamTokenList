@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x94B8608D5d78CEcd7EB1FA0266E5e94Fc79ecf8B",
-      "symbol": "SHIBATOY",
-      "name": "ShibaToy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75713Ae260B8476116a22036fa0F4eb3E9aB38C5",
       "symbol": "ORIGAMI",
       "name": "Origami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbE7E36B6C7c33af2cbbC749C2668fB86c82287E9",
+      "symbol": "TOM",
+      "name": "TamaPredator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8549,
-    "minor": 8549,
+    "major": 8550,
+    "minor": 8550,
     "patch": 84
   }
 }
