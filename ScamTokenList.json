@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xff0dC29808D6Af5f6392f74A9Cc62D9695C581C4",
-      "symbol": "TAP",
-      "name": "TAPCrypto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5f799C46EE8eaa7907c4D32008fcb28fCB2e2331",
       "symbol": "ASHITA",
       "name": "KoishikawaYuki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5E4E6Ad22a894A78Ea0dEbBB571AEa087875F6E",
+      "symbol": "DAHMER",
+      "name": "JeffreyDahmer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8449,
-    "minor": 8449,
+    "major": 8450,
+    "minor": 8450,
     "patch": 84
   }
 }
