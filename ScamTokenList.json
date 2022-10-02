@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf8D38719D42515f5Db572454e72B6d2ed67596B2",
-      "symbol": "PAKKUN",
-      "name": "PakkunInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x63165E7ACFc024705054256cF89c8597Ad61348F",
       "symbol": "TLD",
       "name": "THELASTDOGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8191Bb872847D0Fd4edA4852a386F252652404e",
+      "symbol": "TCHAIN",
+      "name": "TsukaChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8585,
-    "minor": 8585,
+    "major": 8586,
+    "minor": 8586,
     "patch": 84
   }
 }
