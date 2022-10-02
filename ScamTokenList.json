@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x552BfC8837011885F2a1A45C086FA373CaC922F7",
-      "symbol": "PSYCH",
-      "name": "Psychedelic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6c1Ca87369a84fA80345182D60B8459605b22685",
       "symbol": "KATSUMI",
       "name": "Katsumi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9a9590c63Cc495cAa01F0cbF1cd1924ba5f7489",
+      "symbol": "DAMN",
+      "name": "Damn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8440,
-    "minor": 8440,
+    "major": 8441,
+    "minor": 8441,
     "patch": 84
   }
 }
