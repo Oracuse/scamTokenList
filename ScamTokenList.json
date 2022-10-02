@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4bfD501257543D8F4D50CfFb26e34CE2A3394e42",
-      "symbol": "NAGINATA",
-      "name": "NAGINATA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD0536284984617cC5a9a4D796Abb5C2C9691e4E5",
       "symbol": "REDD",
       "name": "REDDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC902B8426697FD44197AbD38DDc4Bb90544E847C",
+      "symbol": "DUNGUS",
+      "name": "Dogeungus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8464,
-    "minor": 8464,
+    "major": 8465,
+    "minor": 8465,
     "patch": 84
   }
 }
