@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x39E92eFf5c0904c58EA8543E36A4298850a50e1c",
-      "symbol": "FIDUS",
-      "name": "FIDUSFINANCE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFE0B998b9a631ffBE7863F5Af040F80f0b167153",
       "symbol": "MAGICBOOK",
       "name": "MAGICBOOK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1036788286e1aa0353Bed3Bc078894E6a98098a0",
+      "symbol": "BSI",
+      "name": "BabySuisseBank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8581,
-    "minor": 8581,
+    "major": 8582,
+    "minor": 8582,
     "patch": 84
   }
 }
