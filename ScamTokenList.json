@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD0536284984617cC5a9a4D796Abb5C2C9691e4E5",
-      "symbol": "REDD",
-      "name": "REDDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb44377B74Ef1773639B663d0754cB8410A847d02",
       "symbol": "DREAM",
       "name": "DREAM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6418281d9Cdc0a934b4978F611C8D43853Ef7d74",
+      "symbol": "IFT",
+      "name": "infiniteprotocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8465,
-    "minor": 8465,
+    "major": 8466,
+    "minor": 8466,
     "patch": 84
   }
 }
