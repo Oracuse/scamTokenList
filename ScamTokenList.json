@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53e0da5d25E0C1220d96aeaBDA607b33bB05ff2E",
-      "symbol": "DRAGON",
-      "name": "DRAGON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd0C727eDca088fc588647B81d10EC20c05e47886",
       "symbol": "PARROT",
       "name": "Parrot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c0b8B89662AaCE4e1d63ee3a70dcc90a977ec48",
+      "symbol": "HUNTER",
+      "name": "HunterXHunter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8541,
-    "minor": 8541,
+    "major": 8542,
+    "minor": 8542,
     "patch": 84
   }
 }
