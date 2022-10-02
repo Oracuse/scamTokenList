@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87af1Fd5Dbc5E6134E4716CbfD254cb07F3bfeB8",
-      "symbol": "ISLAND",
-      "name": "IslandToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98Af1b56bF612Cf32B4959e2d287008dEA5028bb",
       "symbol": "CHIPS",
       "name": "Chips",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDA67d28c162Dc0aab7393366DFB223cDF3831A7E",
+      "symbol": "FUJ",
+      "name": "Fujisaninu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8527,
-    "minor": 8527,
+    "major": 8528,
+    "minor": 8528,
     "patch": 84
   }
 }
