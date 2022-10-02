@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4e18996A70a426A6362A7b633F064Ff12fEE7918",
-      "symbol": "DIEHARD",
-      "name": "Diehard",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9a273B38a5D5fd94c9C066f74027f66726698BFF",
       "symbol": "AZTECINU",
       "name": "AZTECINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75eFe956666084674d3514e0584BBEf7B76c450B",
+      "symbol": "CST",
+      "name": "CreditSuisseTama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8565,
-    "minor": 8565,
+    "major": 8566,
+    "minor": 8566,
     "patch": 84
   }
 }
