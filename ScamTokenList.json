@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x69688DE4c6dbdC20f59287253670ED8ae9b75Afc",
-      "symbol": "DOGS",
-      "name": "DOGSBATTLE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x673Ebb44e322EA1c0A199b0aFD3225590F341831",
       "symbol": "KITSUNE",
       "name": "Kitsune",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48477262964a5f1C8E3eC1da1C8342Fe02da3F30",
+      "symbol": "SYC",
+      "name": "SatoshiYachtClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8483,
-    "minor": 8483,
+    "major": 8484,
+    "minor": 8484,
     "patch": 84
   }
 }
