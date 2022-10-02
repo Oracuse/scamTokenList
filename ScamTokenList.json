@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x501e58BAc1dFE777f725aBe94BBE6a80c4197d7D",
-      "symbol": "MPOX",
-      "name": "Monkeypox",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xff0dC29808D6Af5f6392f74A9Cc62D9695C581C4",
       "symbol": "TAP",
       "name": "TAPCrypto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7cB1bF38e80bb5102eE9e89822eC59FbB7C642b7",
+      "symbol": "LEHMAN",
+      "name": "Lehman",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8448,
-    "minor": 8448,
+    "major": 8449,
+    "minor": 8449,
     "patch": 84
   }
 }
