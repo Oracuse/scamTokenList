@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1fCe82558436C066E4bfE19e527f8d3aB4d0aB37",
-      "symbol": "CYRUS",
-      "name": "CyrusDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8e1bAE67204DD155520b3027668Ff3b31CBbcD4C",
       "symbol": "FIDUS",
       "name": "FIDUSFINANCE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdD98C35c13997D2176D224dBB95F1Da00A9faAB1",
+      "symbol": "WD",
+      "name": "WisdomDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8512,
-    "minor": 8512,
+    "major": 8513,
+    "minor": 8513,
     "patch": 84
   }
 }
