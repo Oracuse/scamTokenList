@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x623480267F01D1E1bE6222c5521aB91a47eafe55",
-      "symbol": "GTJ",
-      "name": "GasTheJet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x87af1Fd5Dbc5E6134E4716CbfD254cb07F3bfeB8",
       "symbol": "ISLAND",
       "name": "IslandToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEe93844eab92Bf1aa16f5460E53634997E09f29C",
+      "symbol": "HTAMA",
+      "name": "HuskyTama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8526,
-    "minor": 8526,
+    "major": 8527,
+    "minor": 8527,
     "patch": 84
   }
 }
