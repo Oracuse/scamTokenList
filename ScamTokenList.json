@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x283e21645d11d8d864D020Cb81f1487534b6142f",
-      "symbol": "CRIT",
-      "name": "Critical",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB4d22021625C5bf37E20Cb1e3cAc49342A8fAAeC",
       "symbol": "VEN",
       "name": "Vengeance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0557BA5A6138eaB0855F4E40b51f88a8d098480F",
+      "symbol": "BURNT",
+      "name": "Burnt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8490,
-    "minor": 8490,
+    "major": 8491,
+    "minor": 8491,
     "patch": 84
   }
 }
