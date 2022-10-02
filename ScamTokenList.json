@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4E66b5BE2028e7d42C2dE95d9c17AA664c38360b",
-      "symbol": "SHIM",
-      "name": "ShibMaestro",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3b044285CE3D373Bf58A396EaB27584280DF5866",
       "symbol": "MIGHTSEND",
       "name": "MightSend",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6AC799A0d4Ed75A380b39F2E734fF5c69500f1a0",
+      "symbol": "NXTG",
+      "name": "NextGenerationSocie",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8475,
-    "minor": 8475,
+    "major": 8476,
+    "minor": 8476,
     "patch": 84
   }
 }
