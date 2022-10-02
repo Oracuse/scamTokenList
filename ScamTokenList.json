@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9af9990D711Ab277B5C0DD0F05144384cc4DBd28",
-      "symbol": "OMEN",
-      "name": "666",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0D9399AEe6B1d5AcA3b56af31aF9B6F086e47BBD",
       "symbol": "NISTRO",
       "name": "Nistro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3703ef7a47Bd7925e4DbDbd087552D9cce5a7647",
+      "symbol": "PIGO",
+      "name": "PIGODZILLA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8545,
-    "minor": 8545,
+    "major": 8546,
+    "minor": 8546,
     "patch": 84
   }
 }
