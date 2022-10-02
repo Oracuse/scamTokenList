@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23Ceae0D6dFc368cDA638c8A2eF40A0b700C974c",
-      "symbol": "JARY",
-      "name": "TheJary",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa3F7B2fa41F3D8ED76D2bE4ab177AdC219Ea1c96",
       "symbol": "COLICE",
       "name": "CommunityPolice",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A105ab04123440F38B666262Fa99C0D374349B0",
+      "symbol": "DBINU",
+      "name": "DeutscheBankInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8574,
-    "minor": 8574,
+    "major": 8575,
+    "minor": 8575,
     "patch": 84
   }
 }
