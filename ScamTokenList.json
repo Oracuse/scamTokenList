@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x18A2e71E2D7A15769a300757492f276eFd0bAE9f",
-      "symbol": "COOLDOG",
-      "name": "CoolDog",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7536e99696b66aa744F91490F6c5C8B0Be3601cE",
       "symbol": "SECURE",
       "name": "SECURE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x799e2C21886068365B70558F34f19a2a1dc09E73",
+      "symbol": "KING",
+      "name": "King",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8556,
-    "minor": 8556,
+    "major": 8557,
+    "minor": 8557,
     "patch": 84
   }
 }
