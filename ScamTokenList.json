@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0b2D8B2f61f1CCC503028999a50d776888694c1c",
-      "symbol": "LBL",
-      "name": "LABEL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF7D6eC4964b523397ff5E0822A85F23c630E0801",
       "symbol": "SHINURI",
       "name": "Shinuri",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3407c786A133244795d8BCB07E9f428d5479A9ca",
+      "symbol": "UP",
+      "name": "UP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8519,
-    "minor": 8519,
+    "major": 8520,
+    "minor": 8520,
     "patch": 84
   }
 }
