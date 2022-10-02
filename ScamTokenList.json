@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xec9c313f57F5a1Bd44c0c4Fedb4e8889b430393e",
-      "symbol": "DREVERINU",
-      "name": "DREVERINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x33b87Bf4e74B121853C41304205Ab4C04F072F13",
       "symbol": "SJM",
       "name": "FromSJM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1003827b6B5e1f6cb03c46cE3eeFdf00DA9eDDC",
+      "symbol": "NITO",
+      "name": "Incognitoerc",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8583,
-    "minor": 8583,
+    "major": 8584,
+    "minor": 8584,
     "patch": 84
   }
 }
