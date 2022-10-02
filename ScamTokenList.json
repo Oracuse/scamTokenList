@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14203df1f1cecE52b8eaEA658443cc7032cbD9CD",
-      "symbol": "DBT",
-      "name": "dontbuythis",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbE9e962879dd73cEc023DA9F9EA0Ef8a6aC6a59A",
       "symbol": "HITAGI",
       "name": "HitagiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C6F200f9b98e2627441E4Bd2E347a1F7cEf9ba7",
+      "symbol": "TESTT",
+      "name": "TESTT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8539,
-    "minor": 8539,
+    "major": 8540,
+    "minor": 8540,
     "patch": 84
   }
 }
