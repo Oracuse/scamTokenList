@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4b9C72414D24B86151F640868f974603bCe86121",
-      "symbol": "MORSE",
-      "name": "MorseCode",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x18A2e71E2D7A15769a300757492f276eFd0bAE9f",
       "symbol": "COOLDOG",
       "name": "CoolDog",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA2d71Af4Bb78B83498e3e82f5e71120b4de450D7",
+      "symbol": "REKTOBER",
+      "name": "Rektober",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8555,
-    "minor": 8555,
+    "major": 8556,
+    "minor": 8556,
     "patch": 84
   }
 }
