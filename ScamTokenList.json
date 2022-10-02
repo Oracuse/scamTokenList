@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf767F9F5a8CdfA89322AB2Cd89ed49993fdEe68A",
-      "symbol": "DEFI",
-      "name": "Defilancer",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x02C195A70e33d542650e849bEC6661D917baB139",
       "symbol": "ODIN",
       "name": "Odineum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfafBa60c31CEA898bB3A5d1770104f6d8D883B78",
+      "symbol": "MESSI",
+      "name": "LeoMessi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8517,
-    "minor": 8517,
+    "major": 8518,
+    "minor": 8518,
     "patch": 84
   }
 }
