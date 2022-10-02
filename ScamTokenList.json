@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFC13ea2d4Dac5Ea50A118E94b974aff0aD85DfC4",
-      "symbol": "KOLR",
-      "name": "KoLr",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x18272A039897300A2847f460f3A304d714C74b02",
       "symbol": "EST",
       "name": "Estate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8032d5643f76b420A43AAc2604fD56EF9764a145",
+      "symbol": "BRR",
+      "name": "MoneyPrinter",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8562,
-    "minor": 8562,
+    "major": 8563,
+    "minor": 8563,
     "patch": 84
   }
 }
