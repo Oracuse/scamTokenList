@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0905F668ae5e6016c2Ac2f92Af4DAB5A6Cae21f9",
-      "symbol": "DAWAE",
-      "name": "DaWae",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDaA727aA5a5Ef21170f97DBfa1376DBaDc2f3260",
       "symbol": "TYR",
       "name": "TyrRevenant",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCBdb85A69f732187ECFa7DCD819427fbf2c6EB9e",
+      "symbol": "ORDER",
+      "name": "OrangeOrder",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8487,
-    "minor": 8487,
+    "major": 8488,
+    "minor": 8488,
     "patch": 84
   }
 }
