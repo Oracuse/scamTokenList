@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA7bBcE9B369c77033E5e7a5d42Dd003CF18e50Cd",
-      "symbol": "UNOPEARL",
-      "name": "UnoPearl",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xccDAd10E2B26e7B2FE61952Dc5461F916ae4A68F",
       "symbol": "SYMMETRY",
       "name": "YRTEMMYS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd742EbCb99744bF55d3eacd657f90AC3676560Ce",
+      "symbol": "TSUDOGE",
+      "name": "Tsukadoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8471,
-    "minor": 8471,
+    "major": 8472,
+    "minor": 8472,
     "patch": 84
   }
 }
