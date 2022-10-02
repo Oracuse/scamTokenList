@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2eAF2E62160537a47DAbc658a8243C2c7c20bE29",
-      "symbol": "OINK",
-      "name": "OinkersInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90e010b0A8F117696F5f529E1dc882b043F85976",
       "symbol": "KUGISAKI",
       "name": "KugisakiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x572d7b724B9D60c075b6Ffe98547Fb80Bac1b3D7",
+      "symbol": "GT",
+      "name": "GREENTOBER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8536,
-    "minor": 8536,
+    "major": 8537,
+    "minor": 8537,
     "patch": 84
   }
 }
