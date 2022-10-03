@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2E7B7083Bfa4cE8c9b8B8160333059F7b72f9Fb1",
-      "symbol": "SHIKASHI",
-      "name": "Shikashi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6e04504a34A2a3CB6A8f4D86Bb918Af7de5c0704",
       "symbol": "SHIKASHI",
       "name": "Shikashi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11dafdd6C83b4A5Efd46E969A949477DA42eC7e6",
+      "symbol": "BULL",
+      "name": "BullTerrier",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8684,
-    "minor": 8684,
+    "major": 8685,
+    "minor": 8685,
     "patch": 84
   }
 }
