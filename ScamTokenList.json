@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x41a1b3e344fa38C9E485BAFD3e4b80309666c6C2",
-      "symbol": "HS",
-      "name": "HerosShrine",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB465A50a48920Ce1f7704636AE6E9c1B398c13F7",
       "symbol": "NACETH",
       "name": "NacciVERSE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFCF2c6CB309292727Ec718F31718e8fB980C95A1",
+      "symbol": "TAIKAINU",
+      "name": "TaikaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8614,
-    "minor": 8614,
+    "major": 8615,
+    "minor": 8615,
     "patch": 84
   }
 }
