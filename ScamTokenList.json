@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0aab0BAac06914f1A8f8A3c01868b98e3Ca4bEdf",
-      "symbol": "USACOIN",
-      "name": "USACOIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4e0e94c23ADDc685150C3D75CC9f9cE1Ba7815B3",
       "symbol": "KIDDOCOIN",
       "name": "KIDDOCOIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47Cb6DFAaBD20cB8e1728cA9EF59684A0a3a0Bd7",
+      "symbol": "TSUKARAMI",
+      "name": "Tsukarami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8608,
-    "minor": 8608,
+    "major": 8609,
+    "minor": 8609,
     "patch": 84
   }
 }
