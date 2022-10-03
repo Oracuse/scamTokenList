@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA4f787f03F8328e462D423253917ED7b5c93C87B",
-      "symbol": "DEG",
-      "name": "DEGEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x67873a14804e9db31De66601E8f81FDEf0169BEe",
       "symbol": "LIVE",
       "name": "BULLBEAR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90088bfC71e4c89a1939CE51bE4c8036f66a4362",
+      "symbol": "U",
+      "name": "Uranium",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8659,
-    "minor": 8659,
+    "major": 8660,
+    "minor": 8660,
     "patch": 84
   }
 }
