@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb8b875E098dc1aE922782B145bF5aF94963dA0D3",
-      "symbol": "MONKEY",
-      "name": "MONKEY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa2a5B9E7c56A59fE3042FDCE34CFd60Ffe98147a",
       "symbol": "HITAGI",
       "name": "HitagiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C80e18FD418c7A243E30008C9F250959CF049EB",
+      "symbol": "ZIP",
+      "name": "ZipFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8626,
-    "minor": 8626,
+    "major": 8627,
+    "minor": 8627,
     "patch": 84
   }
 }
