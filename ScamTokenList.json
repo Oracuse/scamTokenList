@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9d96E50D27EeF6d1Bb8360a10FfFD95693A220c9",
-      "symbol": "HUGELY",
-      "name": "Hugely",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc554dcAc7a4892410230Fcb6d00388e3bFCBB8DD",
       "symbol": "BOOM",
       "name": "KABOOM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB3F3b6df042A5BDB62b2841C3e36a55dEC8067a1",
+      "symbol": "SRPN",
+      "name": "Scorpion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8708,
-    "minor": 8708,
+    "major": 8709,
+    "minor": 8709,
     "patch": 84
   }
 }
