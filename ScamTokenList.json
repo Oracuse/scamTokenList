@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e95C8CFd41BC487a0d32e91c7F1E5139461Fb10",
-      "symbol": "VINCI",
-      "name": "Vinci",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5d6dC343a980a0afe624e05C75c3EfEb236540d3",
       "symbol": "ACNOLOGIA",
       "name": "Acnologia",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84aDF19E311B4d2dA9eDAc81A29b5F2A27B4Df72",
+      "symbol": "ASTROMOON",
+      "name": "ASTROMOON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8735,
-    "minor": 8735,
+    "major": 8736,
+    "minor": 8736,
     "patch": 84
   }
 }
