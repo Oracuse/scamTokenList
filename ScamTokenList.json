@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1D0cCD5f656299f770C0aF3DBA30C5d74D603826",
-      "symbol": "BABYSCX",
-      "name": "BabyShibaCrypt",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5da44304dEd80DBc9345945bDe7954600E015940",
       "symbol": "CHIDE",
       "name": "Chide",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Baad056984C6C955c84738147177Acc6F25b077",
+      "symbol": "TSUKADAO",
+      "name": "TsukaDao",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8716,
-    "minor": 8716,
+    "major": 8717,
+    "minor": 8717,
     "patch": 84
   }
 }
