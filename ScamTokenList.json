@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5C977453df54c8d4Ff5940793dbA027c0c280A2c",
-      "symbol": "CHOCOB",
-      "name": "ChocoboInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x47E1331C0D7932Ca0873CE44De92395c55beC523",
       "symbol": "ZOMBIEDRAGON",
       "name": "ZombieDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x108c91Be148Dc22A6383DFb329D4eF9dfb817F11",
+      "symbol": "GAMET",
+      "name": "GameOfTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8652,
-    "minor": 8652,
+    "major": 8653,
+    "minor": 8653,
     "patch": 84
   }
 }
