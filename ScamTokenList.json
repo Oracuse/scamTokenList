@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6D60fC09E99F1CB2E174422fF9a81D89AEF1BefB",
-      "symbol": "CODE",
-      "name": "DaVinci",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x813AAa4e1AABb852F8FBbE8CAD1C8672Ba9B13e9",
       "symbol": "LSVRC",
       "name": "LASREVERCLASSIC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF783e3Ac9f02d39e0A4c49f8488Dad0661D0c9bB",
+      "symbol": "TENSHIDAO",
+      "name": "Tenshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8721,
-    "minor": 8721,
+    "major": 8722,
+    "minor": 8722,
     "patch": 84
   }
 }
