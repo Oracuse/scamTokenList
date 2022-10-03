@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x47224C1e9A2ef631CE819757b2989BB054d7943f",
-      "symbol": "NOBUNAGA",
-      "name": "NOBUNAGA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa88a4588a022574544517b95e9eE863331945f42",
       "symbol": "HUSTLY",
       "name": "HustlyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83959709b32643Ed773baA7418f65Ae2c791D0Be",
+      "symbol": "GOT",
+      "name": "GameOfTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8596,
-    "minor": 8596,
+    "major": 8597,
+    "minor": 8597,
     "patch": 84
   }
 }
