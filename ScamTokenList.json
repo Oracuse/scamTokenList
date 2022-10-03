@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x46F6F45FE2F514bb0F161F0Cbb6eCb4932598f1b",
-      "symbol": "FIDUS",
-      "name": "FIDUSFINANCE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4A4cFa26C4e42726E03130601d1D0eBDC4075a91",
       "symbol": "WAVE",
       "name": "WAVE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b02e523800f5bf71714e08B818CFF97752756Da",
+      "symbol": "MCI",
+      "name": "ManchesterCityInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8611,
-    "minor": 8611,
+    "major": 8612,
+    "minor": 8612,
     "patch": 84
   }
 }
