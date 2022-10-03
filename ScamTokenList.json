@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf977935536b998F46a589219230B9f8a496e5c61",
-      "symbol": "MINU",
-      "name": "MORTYINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEe319D67C57E420D2e1cA533A8C05d4Dc2516C59",
       "symbol": "YOSHIMITSU",
       "name": "YOSHIMITSU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA2bbb77aD22096443c02dc8562BCc0a8a534C7F1",
+      "symbol": "GEFI",
+      "name": "GenesisFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8677,
-    "minor": 8677,
+    "major": 8678,
+    "minor": 8678,
     "patch": 84
   }
 }
