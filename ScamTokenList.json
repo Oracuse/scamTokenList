@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1e2ee523F9D4917f755e97A76a693A647eeB77ac",
-      "symbol": "KAIDO",
-      "name": "KAIDO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x47fd66547801C64926e57fE3FbDD342000eE9451",
       "symbol": "FIDUS",
       "name": "FIDUSFINANCE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77E5456f8841aD5627A8a1dc49Dea33DebBe28bF",
+      "symbol": "TBS",
+      "name": "TheBigShort",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8634,
-    "minor": 8634,
+    "major": 8635,
+    "minor": 8635,
     "patch": 84
   }
 }
