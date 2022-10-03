@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEee4BA8c10B06337E05C987F742A63fCFbfe2a8D",
-      "symbol": "HTW",
-      "name": "HTW",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1f4f1B501E60ED0Ac1B16a8eEF40f6AE2F9A81B6",
       "symbol": "BETA",
       "name": "TheBETA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfAe08DA8e74E7dfb8aAf1318ce9d4aAf11f81fFe",
+      "symbol": "SGI",
+      "name": "SocieteGeneraleInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8642,
-    "minor": 8642,
+    "major": 8643,
+    "minor": 8643,
     "patch": 84
   }
 }
