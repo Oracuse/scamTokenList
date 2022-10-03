@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3eB35CB25c320079983d0Bb023BFAEcF4C04B703",
-      "symbol": "FIDUS",
-      "name": "FIDUSFINANCE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEee4BA8c10B06337E05C987F742A63fCFbfe2a8D",
       "symbol": "HTW",
       "name": "HTW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7ed5c8137B83A3e90f5Ffb4320a35745e1690c96",
+      "symbol": "MOASS",
+      "name": "MotherOfAllShortSqu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8641,
-    "minor": 8641,
+    "major": 8642,
+    "minor": 8642,
     "patch": 84
   }
 }
