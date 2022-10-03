@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA983A0Ef69b1703982e9b1f5f796CF4037af5174",
-      "symbol": "TLS",
-      "name": "TheLastShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbfF8e2D0aee92c11559A5f024FF13Eb4D36d116B",
       "symbol": "HIJINKS",
       "name": "Hijinks",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5CB8d1E73F8e46DFa124B0d56e262742EFf42bfA",
+      "symbol": "INCOGNITO",
+      "name": "Incognito",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8623,
-    "minor": 8623,
+    "major": 8624,
+    "minor": 8624,
     "patch": 84
   }
 }
