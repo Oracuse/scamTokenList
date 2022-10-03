@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4e0e94c23ADDc685150C3D75CC9f9cE1Ba7815B3",
-      "symbol": "KIDDOCOIN",
-      "name": "KIDDOCOIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x002e79d50E61a73DE91edF3C82a8F2577f9E680d",
       "symbol": "SPARK",
       "name": "Spark",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6D09c4E3F77EeB841F5869b0dC32f9CE9dBD788",
+      "symbol": "LORDTSUKA",
+      "name": "DwagonLord",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8609,
-    "minor": 8609,
+    "major": 8610,
+    "minor": 8610,
     "patch": 84
   }
 }
