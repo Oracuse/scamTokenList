@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x24288B0a4769c78307fD758088A7FEA6fcd25Ff8",
-      "symbol": "SUBLIMINAL",
-      "name": "Subliminal",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x53BcE35d9c0709AecFA7bae55CE64b1584AAa406",
       "symbol": "MYSTERYSHENRON",
       "name": "MysteryShenron",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20cA0b59Bf957fB18E68Da72e2C7CfC798F4dc1D",
+      "symbol": "ZOMBDOGE",
+      "name": "UndeadDoge",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8605,
-    "minor": 8605,
+    "major": 8606,
+    "minor": 8606,
     "patch": 84
   }
 }
