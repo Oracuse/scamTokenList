@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62Ad15D86B7745Be58f810bD93cbe54F6b0f56Fc",
-      "symbol": "NA",
-      "name": "Sodium",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3eB35CB25c320079983d0Bb023BFAEcF4C04B703",
       "symbol": "FIDUS",
       "name": "FIDUSFINANCE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c939C9bF9bc4587CAa0b8EF16EF72F2Aab29fec",
+      "symbol": "3575",
+      "name": "Revolvution",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8640,
-    "minor": 8640,
+    "major": 8641,
+    "minor": 8641,
     "patch": 84
   }
 }
