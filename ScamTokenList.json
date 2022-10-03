@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x263feE29B0b5609058d340AE707c4f8f48c355f7",
-      "symbol": "TSUNE",
-      "name": "DejitaruKitsune",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfC318B956B5DC201DE7A4f1E1Eb320986eeb0f49",
       "symbol": "M59V2",
       "name": "MESSIERMISSION",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2eff2eeaFA28140513CD780c1f254b3Df724a50f",
+      "symbol": "SBOND",
+      "name": "SHIBABOND",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8679,
-    "minor": 8679,
+    "major": 8680,
+    "minor": 8680,
     "patch": 84
   }
 }
