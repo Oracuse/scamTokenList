@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36C9ca0ebb4BB6b33db0eaee6F5323814F357CB1",
-      "symbol": "INFINITY",
-      "name": "Infinity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeAfCef6f52406c97A8b51BFA38c608237B63518B",
       "symbol": "APOL",
       "name": "MackBuk",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFe009E71Bf8A24c36d56B14Ad82E41D77576cF88",
+      "symbol": "UTKU",
+      "name": "UTK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8700,
-    "minor": 8700,
+    "major": 8701,
+    "minor": 8701,
     "patch": 84
   }
 }
