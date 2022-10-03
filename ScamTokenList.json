@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd980b9ce4cb3E9A5d08c50F19A87463B14DBdC52",
-      "symbol": "YAMI",
-      "name": "KURAI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9d96E50D27EeF6d1Bb8360a10FfFD95693A220c9",
       "symbol": "HUGELY",
       "name": "Hugely",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCFc3f831421d91642Df1c59CDE3eC10Ee901b24D",
+      "symbol": "DICE",
+      "name": "RollTheDice",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8707,
-    "minor": 8707,
+    "major": 8708,
+    "minor": 8708,
     "patch": 84
   }
 }
