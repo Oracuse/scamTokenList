@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD8Cc13209896f548C3aEf5FF6c24D568B99710e5",
-      "symbol": "GAMMA",
-      "name": "TheGAMMAPrinciple",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc5fBA639D0D273e9F8C966cA75d3A8d7Cb3F6775",
       "symbol": "HARA",
       "name": "Harakiri",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x232EcF51d12A2dAA9FFfaCC7C467d575fB4A49b2",
+      "symbol": "YORI",
+      "name": "YoriToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8637,
-    "minor": 8637,
+    "major": 8638,
+    "minor": 8638,
     "patch": 84
   }
 }
