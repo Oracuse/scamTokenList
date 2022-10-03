@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb9E32D6B0181aa6758Ec094A52e0B519ed8c427f",
-      "symbol": "APO",
-      "name": "APOLLO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0aab0BAac06914f1A8f8A3c01868b98e3Ca4bEdf",
       "symbol": "USACOIN",
       "name": "USACOIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62e13a30865796687281Cc06Ea70f8CA4df9bE26",
+      "symbol": "BABY",
+      "name": "BabyMikoto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8607,
-    "minor": 8607,
+    "major": 8608,
+    "minor": 8608,
     "patch": 84
   }
 }
