@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE78DA3ADdA2F5b959aec602da8240cAE23133ed0",
-      "symbol": "FOLLOW",
-      "name": "follow",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F38A343deE0F28A546E162e90fbA2934Df2aCC5",
       "symbol": "MORI",
       "name": "HAMONSHU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E11A673768d9671CF03c321734b6a8Ea62c9E88",
+      "symbol": "TSUKAG",
+      "name": "GameOfTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8731,
-    "minor": 8731,
+    "major": 8732,
+    "minor": 8732,
     "patch": 84
   }
 }
