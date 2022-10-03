@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa0ca9Dc9b01fd682defaEc0ef8771A36333CF08D",
-      "symbol": "UPLAY",
-      "name": "UplayCasino",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9ac546e2016D59aE8AaB988A1DBbCeB59a19621a",
       "symbol": "AKITA",
       "name": "TheDogeGate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24D92988a4737a6db8683c8c419F24fE2780F0ba",
+      "symbol": "CHARADE",
+      "name": "Charade",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8691,
-    "minor": 8691,
+    "major": 8692,
+    "minor": 8692,
     "patch": 84
   }
 }
