@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcbD16F317E5847cB562a74B12347B386e86c22fa",
-      "symbol": "LIQUOR",
-      "name": "LiquidityMonster",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19C7ec005FB279e7294f3291Dca5449BDb51BC14",
       "symbol": "POAP",
       "name": "ProofOfAttendancePr",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4a87183484eAB6402D9b06B62DA0a475A4693d0",
+      "symbol": "BS",
+      "name": "SuisseBank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8593,
-    "minor": 8593,
+    "major": 8594,
+    "minor": 8594,
     "patch": 84
   }
 }
