@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe9224aC8B4F538204CD862E0A4E32b2Fbe0e5d8F",
-      "symbol": "TSUKI",
-      "name": "Tsukiyomi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x14c39d558B9eC9735514eFA6c924B979E35A9F80",
       "symbol": "FOG",
       "name": "FogInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC3AFFC0AC2e353b7E28953487981935f2b84494D",
+      "symbol": "TSUKAHARU",
+      "name": "IkariTsukaHaru",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8675,
-    "minor": 8675,
+    "major": 8676,
+    "minor": 8676,
     "patch": 84
   }
 }
