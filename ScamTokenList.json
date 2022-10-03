@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfcBfD6e4cBF539F39FbE7EdF71Dc521b3F63a2c2",
-      "symbol": "SENSOJI",
-      "name": "Sensoji",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA291986bea832Df54eF0FefedD4D6b3B877e813a",
       "symbol": "DASBABY",
       "name": "DasBaby",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B03417f91A8ca83E47293C74a646CD8C2536c48",
+      "symbol": "DA",
+      "name": "DomoArigato",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8619,
-    "minor": 8619,
+    "major": 8620,
+    "minor": 8620,
     "patch": 84
   }
 }
