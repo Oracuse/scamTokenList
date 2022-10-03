@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x064313F481DE380ACf2f7E26dde4f7d4a0302c13",
-      "symbol": "SHINIGAMI",
-      "name": "Shinigami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2E7B7083Bfa4cE8c9b8B8160333059F7b72f9Fb1",
       "symbol": "SHIKASHI",
       "name": "Shikashi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfee981894D5184E24bdb500F0967C2A043163581",
+      "symbol": "MOON",
+      "name": "MOON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8683,
-    "minor": 8683,
+    "major": 8684,
+    "minor": 8684,
     "patch": 84
   }
 }
