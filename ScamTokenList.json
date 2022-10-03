@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9ac546e2016D59aE8AaB988A1DBbCeB59a19621a",
-      "symbol": "AKITA",
-      "name": "TheDogeGate",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3BA367501ec7Bf93e3C9e06076bF91aDeFAc1057",
       "symbol": "MUSDC",
       "name": "miniUSDC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCE47412b7Bb0C75915a018A47dFE99945e2B15d4",
+      "symbol": "CYA",
+      "name": "CoverYourAssets",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8692,
-    "minor": 8692,
+    "major": 8693,
+    "minor": 8693,
     "patch": 84
   }
 }
