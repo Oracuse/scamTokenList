@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25AE3Fd5fb168e339ea17E12C8465B5070a00234",
-      "symbol": "DRGN",
-      "name": "DRAGONSDEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1533B4b0392B864A842a4ec57c258c2c1ac73806",
       "symbol": "RYUTSUKA",
       "name": "RYUUKOTSUKA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9DA14c90c2787d57DE43F9176222e4d25cD0190D",
+      "symbol": "SECX",
+      "name": "KimSECxTape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8711,
-    "minor": 8711,
+    "major": 8712,
+    "minor": 8712,
     "patch": 84
   }
 }
