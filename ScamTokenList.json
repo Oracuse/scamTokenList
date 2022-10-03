@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC054B78E94Caac50715b038FC00135eB68CaD3c0",
-      "symbol": "OMAN",
-      "name": "OMAN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCcc35d6Dc9307ecb0249458b7fFD71DB3981e426",
       "symbol": "GENIE",
       "name": "GenieInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x054216b307637E43712373f91B0cD29705064167",
+      "symbol": "TSHIB",
+      "name": "TAMASHIB",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8600,
-    "minor": 8600,
+    "major": 8601,
+    "minor": 8601,
     "patch": 84
   }
 }
