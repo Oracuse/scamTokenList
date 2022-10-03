@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x002e79d50E61a73DE91edF3C82a8F2577f9E680d",
-      "symbol": "SPARK",
-      "name": "Spark",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x46F6F45FE2F514bb0F161F0Cbb6eCb4932598f1b",
       "symbol": "FIDUS",
       "name": "FIDUSFINANCE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79795B70d93CFb7EeB89516f12c97A7bF07AD019",
+      "symbol": "TSUKANOMICS",
+      "name": "Tsukanomics",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8610,
-    "minor": 8610,
+    "major": 8611,
+    "minor": 8611,
     "patch": 84
   }
 }
