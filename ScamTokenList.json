@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc554dcAc7a4892410230Fcb6d00388e3bFCBB8DD",
-      "symbol": "BOOM",
-      "name": "KABOOM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEb62f0A03eA1F5fB85C80e02896e4bA4040742D1",
       "symbol": "BORDER",
       "name": "BORDERINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d841288EBe584f61f12029c401Af1a75293340b",
+      "symbol": "SPRK",
+      "name": "Sprinkley",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8709,
-    "minor": 8709,
+    "major": 8710,
+    "minor": 8710,
     "patch": 84
   }
 }
