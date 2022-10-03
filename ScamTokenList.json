@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60833177F7A6F4152301cb80ee42E03814e6A959",
-      "symbol": "KCAL",
-      "name": "KCAL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6D60fC09E99F1CB2E174422fF9a81D89AEF1BefB",
       "symbol": "CODE",
       "name": "DaVinci",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5C6e75085528E577fE6Fe125217120471593249",
+      "symbol": "SWISS",
+      "name": "SwissBankInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8720,
-    "minor": 8720,
+    "major": 8721,
+    "minor": 8721,
     "patch": 84
   }
 }
