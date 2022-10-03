@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x89Bcbe6f419c507d6cBDe2127E31CD29b59E6A6A",
-      "symbol": "JINX",
-      "name": "JINX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98319A6e94a194274D3e7220a67c5E3Df6D76d2A",
       "symbol": "NIMU",
       "name": "NIMIINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97be5B1B5045CeCdEa3a33cD5f07933dbeDAeD4D",
+      "symbol": "KAMA",
+      "name": "Kama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8631,
-    "minor": 8631,
+    "major": 8632,
+    "minor": 8632,
     "patch": 84
   }
 }
