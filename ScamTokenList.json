@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB465A50a48920Ce1f7704636AE6E9c1B398c13F7",
-      "symbol": "NACETH",
-      "name": "NacciVERSE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x83d212935361047b68c5C9C6D85d996730B84404",
       "symbol": "KAIZU",
       "name": "Shenkaizu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23c4c19e39343fAFA6a391651733a5195e56A5c0",
+      "symbol": "TSUKADAO",
+      "name": "TsukaDaoProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8615,
-    "minor": 8615,
+    "major": 8616,
+    "minor": 8616,
     "patch": 84
   }
 }
