@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x32509174e0036386Df50f0FDb622c4bB4548D8e4",
-      "symbol": "ADAO",
-      "name": "ApocalypseDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x843bD84E733AAAB6d93111D496b085325C43a33c",
       "symbol": "ARES",
       "name": "ARES",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F5b08F83bd9b23DC2d085bbE162ed1148002bD6",
+      "symbol": "TSUKAFLAMES",
+      "name": "TsukaFlames",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8724,
-    "minor": 8724,
+    "major": 8725,
+    "minor": 8725,
     "patch": 84
   }
 }
