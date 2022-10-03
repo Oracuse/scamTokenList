@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA576f3eA956c200e301B86cCA18D69D0F081b18A",
-      "symbol": "TUKI",
-      "name": "TANUKI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1947130fBf5dF7eBf61D1a6Ee4a04b74333c6784",
       "symbol": "SHOGAMI",
       "name": "SHIROUOGAMI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe063709252Cdabde6f1b5D87B155c25Df46410A4",
+      "symbol": "LMO",
+      "name": "LMO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8590,
-    "minor": 8590,
+    "major": 8591,
+    "minor": 8591,
     "patch": 84
   }
 }
