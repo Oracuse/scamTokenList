@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc69054f7fD16A6ef2e56D08cf80d1feB13dEFF04",
-      "symbol": "POLINU",
-      "name": "PoliticallyIncorrec",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x27063de63B2fe3320d6b055cB59CDe24Ec4122f2",
       "symbol": "ASUKA",
       "name": "ASUKA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6885289a0D5A22EB818fBD2758E59cdA63d80B6",
+      "symbol": "JPMI",
+      "name": "JPMorganInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8644,
-    "minor": 8644,
+    "major": 8645,
+    "minor": 8645,
     "patch": 84
   }
 }
