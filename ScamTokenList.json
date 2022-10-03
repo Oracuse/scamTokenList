@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66178c371B294cDBcD5339e19ceFb2bAfC7280ca",
-      "symbol": "TINU",
-      "name": "TurtleInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8d9D67db7121A99A3a5DFCa2A4B0565f804E01e6",
       "symbol": "SGMA",
       "name": "Sigma",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3FAaBefFC3ca1D453Aa497d912385ca59D252e2",
+      "symbol": "DTHRND",
+      "name": "Dethroned",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8696,
-    "minor": 8696,
+    "major": 8697,
+    "minor": 8697,
     "patch": 84
   }
 }
