@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbfF8e2D0aee92c11559A5f024FF13Eb4D36d116B",
-      "symbol": "HIJINKS",
-      "name": "Hijinks",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x48f550D17aAE773cb40F871eA2cF8D6D63Efb27C",
       "symbol": "PARROT",
       "name": "Parrot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x807c2c392bf17bCb4f768d8A011682b2E11382AD",
+      "symbol": "SIGMALIQUIDITY",
+      "name": "SigmaLiquidity",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8624,
-    "minor": 8624,
+    "major": 8625,
+    "minor": 8625,
     "patch": 84
   }
 }
