@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x813AAa4e1AABb852F8FBbE8CAD1C8672Ba9B13e9",
-      "symbol": "LSVRC",
-      "name": "LASREVERCLASSIC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x056d1a71c71Ac553834A9A85D221ebf255936963",
       "symbol": "INUCRYPT",
       "name": "InuCrypt",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23778AA7a27Ae149b51390748e3ffe66e2C3E198",
+      "symbol": "NKI",
+      "name": "NorthKoreaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8722,
-    "minor": 8722,
+    "major": 8723,
+    "minor": 8723,
     "patch": 84
   }
 }
