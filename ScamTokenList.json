@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd9Af1C9ab160c8f600BF9Da54cC12686926973b9",
-      "symbol": "CULT",
-      "name": "CULT",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x266f312848D5644A1977771E25E5CE84978Cf5fc",
       "symbol": "KONGTOR",
       "name": "KongTorToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74f921f6B10436De14BE8F5aA083681f805Ed644",
+      "symbol": "GENBANK",
+      "name": "BANKOFGENESIS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8703,
-    "minor": 8703,
+    "major": 8704,
+    "minor": 8704,
     "patch": 84
   }
 }
