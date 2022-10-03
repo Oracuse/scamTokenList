@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBC245B1aa27Da00020D9b8C99e3A52D4BB23A8D9",
-      "symbol": "OCTOPUS",
-      "name": "OCTOPUS20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6Afa59769FCF55d193404BB0D480a7AdD1a639BB",
       "symbol": "EAGLEMAN",
       "name": "EaglemanInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x102796f58917128996D1C9fb95F2612d4bEE090e",
+      "symbol": "KIMREKT",
+      "name": "KimRektInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8664,
-    "minor": 8664,
+    "major": 8665,
+    "minor": 8665,
     "patch": 84
   }
 }
