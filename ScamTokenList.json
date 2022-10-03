@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa738064ac36FF83E3ee40ec8e1a6732a0911BbAC",
-      "symbol": "PAKKUN",
-      "name": "PakkunInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA576f3eA956c200e301B86cCA18D69D0F081b18A",
       "symbol": "TUKI",
       "name": "TANUKI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a99C3dE5A6eC18E3A7982104108f8f0BA224027",
+      "symbol": "TYCOON",
+      "name": "CryptoTycoon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8589,
-    "minor": 8589,
+    "major": 8590,
+    "minor": 8590,
     "patch": 84
   }
 }
