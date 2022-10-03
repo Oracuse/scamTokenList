@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x266f312848D5644A1977771E25E5CE84978Cf5fc",
-      "symbol": "KONGTOR",
-      "name": "KongTorToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3DE9fe18F22ea8107C2C34bb756FEF20d3DF5e30",
       "symbol": "GOLIATH",
       "name": "Goliath",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBcd1f36c4161687f5a4D764492e328bD1eF12AC9",
+      "symbol": "PEACH",
+      "name": "MomoTaro",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8704,
-    "minor": 8704,
+    "major": 8705,
+    "minor": 8705,
     "patch": 84
   }
 }
