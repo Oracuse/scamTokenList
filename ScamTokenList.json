@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6Afa59769FCF55d193404BB0D480a7AdD1a639BB",
-      "symbol": "EAGLEMAN",
-      "name": "EaglemanInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd75f03A3dA2DA646666fCeE422BDFC7D82A31CdE",
       "symbol": "COOLCORN",
       "name": "CoolCorn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB225a0bEDEd421AE95F9b39d0DF69F13CD6E8db9",
+      "symbol": "BCI",
+      "name": "BankingCollapseInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8665,
-    "minor": 8665,
+    "major": 8666,
+    "minor": 8666,
     "patch": 84
   }
 }
