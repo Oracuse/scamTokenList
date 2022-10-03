@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAD3dBFfB1F60316b1e25028b478D4B05819b9Bc9",
-      "symbol": "KARAOKE",
-      "name": "Karaoke",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66178c371B294cDBcD5339e19ceFb2bAfC7280ca",
       "symbol": "TINU",
       "name": "TurtleInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9758d54cB48D11dc5BBFD65dEb5a4Eb7B35aaB86",
+      "symbol": "MPZ",
+      "name": "MetaPrintz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8695,
-    "minor": 8695,
+    "major": 8696,
+    "minor": 8696,
     "patch": 84
   }
 }
