@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22EA82767CC6FD249A006eB70D639c6f3b87D7Ef",
-      "symbol": "CTZ",
-      "name": "CryptoTankz",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5685FC0BEC1073638E6B78491007c42C073A4BAb",
       "symbol": "NINKYO",
       "name": "NinkyoDantai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE469dE076BaB1E4C0502f2E47aB72c5eB0b72fCe",
+      "symbol": "ALPHA",
+      "name": "THEWOLF",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8654,
-    "minor": 8654,
+    "major": 8655,
+    "minor": 8655,
     "patch": 84
   }
 }
