@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6421D381fB99374bAE223772963981e684CFb71b",
-      "symbol": "CROAKZ",
-      "name": "CroakzToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbB9B2aC93C0F4f7425020f73a484016Bf1DB40A4",
       "symbol": "PEBAT",
       "name": "PepeBattles",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF12866045eb826E469CD5493833c6108A74221B1",
+      "symbol": "POETOLATRY",
+      "name": "Poetolatry",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8800,
-    "minor": 8800,
+    "major": 8801,
+    "minor": 8801,
     "patch": 84
   }
 }
