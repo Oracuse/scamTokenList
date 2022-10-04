@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x33d265447141Ca1acC68c639C91f904A9A0731B0",
-      "symbol": "FUGAKU",
-      "name": "FUGAKU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x715Ee3b53c878b484519B5f5483Bf7026f9b5c66",
       "symbol": "AMANOZAKO",
       "name": "Amanozako",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc9ff4387591DF04fD0eb5b8B621909De0B8D82f6",
+      "symbol": "RYUTSUKA",
+      "name": "RyuTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8775,
-    "minor": 8775,
+    "major": 8776,
+    "minor": 8776,
     "patch": 84
   }
 }
