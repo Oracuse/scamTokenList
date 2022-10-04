@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x78266F8782418Ba5A93B02a5552421E4abf3E238",
-      "symbol": "IRONSHIBA",
-      "name": "Ironshiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFCb8065A21f44e0788F4696B700f0A2C98c0c0B6",
       "symbol": "APEP",
       "name": "Apophis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0269c2F421A15D6583CaA9b0eFDE4D7137aF3e7",
+      "symbol": "TACO",
+      "name": "TacoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8889,
-    "minor": 8889,
+    "major": 8890,
+    "minor": 8890,
     "patch": 84
   }
 }
