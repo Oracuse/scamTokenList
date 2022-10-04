@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0B1CF00e8e891686c09eedee812B95af6db505f8",
-      "symbol": "MEDIA",
-      "name": "SeekingMachine",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x960e5fc3DeeF6B1Bb0E98e91F727bcc1390FF0cB",
       "symbol": "SHIBX",
       "name": "SHIBX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a8656498863c2d04Bb46020F08fAbf5943B0E99",
+      "symbol": "TOSHI",
+      "name": "Toshi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8884,
-    "minor": 8884,
+    "major": 8885,
+    "minor": 8885,
     "patch": 84
   }
 }
