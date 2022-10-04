@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBc8C8D4BbF9a8fc22d7954d2E11B2c48076Ebcb2",
-      "symbol": "BERAS",
-      "name": "HypeBeras",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x99D8A69a5f17C01e97A3E27C626E6ceF1D10162b",
       "symbol": "DISNEY",
       "name": "DisneyLand",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70F4C5D89CF0b806f6dD9B733A34bF56e9aE5300",
+      "symbol": "DB",
+      "name": "dontBuy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8920,
-    "minor": 8920,
+    "major": 8921,
+    "minor": 8921,
     "patch": 84
   }
 }
