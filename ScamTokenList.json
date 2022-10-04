@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x868C7a43926274F4CdF68E18A2429609BaDeDA6F",
-      "symbol": "NPC",
-      "name": "NPC",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15C928667d780B1ef88Bbe348AB2FDAf4dB1e759",
       "symbol": "KIRBYCASH",
       "name": "KirbyCash",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50083B13cae04Ae3aF65471c7eDdD859e39e3ea1",
+      "symbol": "WWBT",
+      "name": "THOUSANDAIRE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8940,
-    "minor": 8940,
+    "major": 8941,
+    "minor": 8941,
     "patch": 84
   }
 }
