@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfe83D6140E73F07D1dA370E88B2b2E58e02d2003",
-      "symbol": "SFIND",
-      "name": "SniperFinder",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCB06919c8228e7591E0daC49B4d490Cd45a46159",
       "symbol": "DIABLO",
       "name": "DIALBOIMMORTAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d255AA0E9b47b8F68138454045f152ecC9a3077",
+      "symbol": "NAAS",
+      "name": "NodeService",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8755,
-    "minor": 8755,
+    "major": 8756,
+    "minor": 8756,
     "patch": 84
   }
 }
