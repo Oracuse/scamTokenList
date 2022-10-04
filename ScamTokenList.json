@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x03c8444050AF2B5154A59550ef171444B6280DcF",
-      "symbol": "DECEWORK",
-      "name": "DeceworkSpace",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcA55B9d6bc7c38dc74575455356C5C6e469bF97A",
       "symbol": "GREENWALL",
       "name": "GreenWall",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xef3bD631e597418e122F10d153716046aAC81712",
+      "symbol": "STONKS",
+      "name": "ILikeTheStock",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8844,
-    "minor": 8844,
+    "major": 8845,
+    "minor": 8845,
     "patch": 84
   }
 }
