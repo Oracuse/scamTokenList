@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd65561C93C5ff9b03Fb4f586544C6f33c276f9A6",
-      "symbol": "SHIBMASTER",
-      "name": "ShibaMaster",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe64e5d09d92b2d75c45858a38c36cb2F44f93bef",
       "symbol": "HAVEN",
       "name": "Haven",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c40c09E36A0ab87697A19Cb9f95421Cf61c8B6f",
+      "symbol": "SRDPT",
+      "name": "SerendipityInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8796,
-    "minor": 8796,
+    "major": 8797,
+    "minor": 8797,
     "patch": 84
   }
 }
