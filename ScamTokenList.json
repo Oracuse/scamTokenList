@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCfF8C7b0843a39B5315F8857d5da755aAc9D7D39",
-      "symbol": "WEALTH",
-      "name": "Audumbla",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbbE9dd2346aCafD9D5BFF69fCe0c7D7A1A4728c7",
       "symbol": "MEGAKAIJU",
       "name": "MEGAKAIJU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F4155D63C2a9A176A10E4e28e917563d0882483",
+      "symbol": "YORI",
+      "name": "YoriToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8791,
-    "minor": 8791,
+    "major": 8792,
+    "minor": 8792,
     "patch": 84
   }
 }
