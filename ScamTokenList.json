@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x277338749C1895eD31A88Ff5265F4C894DcdE0E8",
-      "symbol": "JADEY",
-      "name": "JadeyToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x945750e27c62c058Fa09E97378183BAEe6655E14",
       "symbol": "WHITEWOLF",
       "name": "YamaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d803160308b1181CD4293A80C20D5bE9A0a82dE",
+      "symbol": "ACC",
+      "name": "AnonymousCryptoholi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8911,
-    "minor": 8911,
+    "major": 8912,
+    "minor": 8912,
     "patch": 84
   }
 }
