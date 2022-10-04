@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAfD8E1DdEaCb7136C66091f4C4aD222ba5427691",
-      "symbol": "DEBTS",
-      "name": "LANNISTER",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x89e8E3698fceF31F370Fe710276Acfb688391b54",
       "symbol": "VIS",
       "name": "VISBODY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x776A927238236df0E62Ccb675B1b620Bd19f7BBd",
+      "symbol": "TSUKAMIASHI",
+      "name": "TsukaMiashi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8740,
-    "minor": 8740,
+    "major": 8741,
+    "minor": 8741,
     "patch": 84
   }
 }
