@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa9Da6C0865e25908f736EDa6320720a04F2e7AcC",
-      "symbol": "BABYSTREAMERINU",
-      "name": "BABYSTREAMERINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x44838fAA3cc61D3218CAeEF6F927B8655F028751",
       "symbol": "WYVERN",
       "name": "WYVERN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84a475d3433d9A52d3b458e5cA22fA3b0CF0Cc66",
+      "symbol": "YORI",
+      "name": "YoriToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8827,
-    "minor": 8827,
+    "major": 8828,
+    "minor": 8828,
     "patch": 84
   }
 }
