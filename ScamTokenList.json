@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6bD58Cf7E86A5EAC4F504cEc016c7176fbaaa508",
-      "symbol": "EXTRA",
-      "name": "ExtraCash",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6b3f303b3E910Fe8210e0A76F19342bA8b15736f",
       "symbol": "VERVE",
       "name": "VERVE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0029981d46667fe58F3C1871624530a4141FbfD5",
+      "symbol": "SOVEREIGNTY",
+      "name": "Dominatus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8793,
-    "minor": 8793,
+    "major": 8794,
+    "minor": 8794,
     "patch": 84
   }
 }
