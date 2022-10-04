@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbbE9dd2346aCafD9D5BFF69fCe0c7D7A1A4728c7",
-      "symbol": "MEGAKAIJU",
-      "name": "MEGAKAIJU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6bD58Cf7E86A5EAC4F504cEc016c7176fbaaa508",
       "symbol": "EXTRA",
       "name": "ExtraCash",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f4C48fc5FFa7d8DE860C4F2d56a6238B7CE5906",
+      "symbol": "BAI",
+      "name": "BankOfAmericaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8792,
-    "minor": 8792,
+    "major": 8793,
+    "minor": 8793,
     "patch": 84
   }
 }
