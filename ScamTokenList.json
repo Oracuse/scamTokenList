@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xda0B055767D27962d2a59cddAdd9E0BF142B568b",
-      "symbol": "JAKAPAN",
-      "name": "Jakapan",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5c2E876a7d9e1503AeBdA16EB889bC78bBd4Ba1c",
       "symbol": "AWAKEN",
       "name": "FallenEra",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63b81C244f3c8db72F87dAfe2F43AFd63f32b1b5",
+      "symbol": "TKIM",
+      "name": "TsukaKardashian",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8804,
-    "minor": 8804,
+    "major": 8805,
+    "minor": 8805,
     "patch": 84
   }
 }
