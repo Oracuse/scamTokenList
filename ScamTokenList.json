@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB545e23C77652AC9Ad8eA3c6415b7be887C8a419",
-      "symbol": "ETHMATRIX",
-      "name": "ETHMATRIX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbf172092B98b3825b501B25dC64E85f095f91f02",
       "symbol": "APETHIS",
       "name": "ApeThis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x856d78ea5e6fDdAb85BfD733B8FDb5B8149427a5",
+      "symbol": "HAFUMI",
+      "name": "Hafumi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8812,
-    "minor": 8812,
+    "major": 8813,
+    "minor": 8813,
     "patch": 84
   }
 }
