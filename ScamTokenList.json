@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x491552FE1d3EBBA3eA3f758178AAFA030E2f5411",
-      "symbol": "BLKCAP",
-      "name": "BlockCapital",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x03c8444050AF2B5154A59550ef171444B6280DcF",
       "symbol": "DECEWORK",
       "name": "DeceworkSpace",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF8961b41Ff85BafD22085a0D76dD945864Cd58Ec",
+      "symbol": "TAX0",
+      "name": "ZEROTAX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8843,
-    "minor": 8843,
+    "major": 8844,
+    "minor": 8844,
     "patch": 84
   }
 }
