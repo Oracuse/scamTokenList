@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x74F2aBa9e8692189E4177Ad7C017A061206F9620",
-      "symbol": "TEST",
-      "name": "TestLaunch",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0b4AD579585DDE1b4806215a97f632776301bc16",
       "symbol": "HF",
       "name": "Highfalutin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x768Acf92B4eDBAeF83f83baA90D74C0D2Cb50E6E",
+      "symbol": "YORI",
+      "name": "YORI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8859,
-    "minor": 8859,
+    "major": 8860,
+    "minor": 8860,
     "patch": 84
   }
 }
