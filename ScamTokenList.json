@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x72072A725676Fae4Aa62aB986D0f772bE5cEA3bd",
-      "symbol": "BUDAI",
-      "name": "Budai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6421D381fB99374bAE223772963981e684CFb71b",
       "symbol": "CROAKZ",
       "name": "CroakzToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66f02A09df0EB2006A05eD9a5f44eE04438A483C",
+      "symbol": "M81",
+      "name": "Messier",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8799,
-    "minor": 8799,
+    "major": 8800,
+    "minor": 8800,
     "patch": 84
   }
 }
