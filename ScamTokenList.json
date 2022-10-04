@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6AFb94c865005D892cE70AB7B3fd43A63576778E",
-      "symbol": "OCDNC",
-      "name": "OrallyConsumeDeezNu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3E4f1022cd2c334cc72487EB002C97Afd3125530",
       "symbol": "ETHKAMI",
       "name": "EthKami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xda81ed91A5A88700FF3511F049e6Fc3d406c1ea6",
+      "symbol": "BLAH",
+      "name": "Blah",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8820,
-    "minor": 8820,
+    "major": 8821,
+    "minor": 8821,
     "patch": 84
   }
 }
