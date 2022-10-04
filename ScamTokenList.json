@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0b4AD579585DDE1b4806215a97f632776301bc16",
-      "symbol": "HF",
-      "name": "Highfalutin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x48E490171a4132fB5de5aA90548B4D4039C33D48",
       "symbol": "IWD",
       "name": "InuWomensday",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5bb50e1CB82D53F35d468d6269ff94E54C01810",
+      "symbol": "DAR",
+      "name": "Dargaon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8860,
-    "minor": 8860,
+    "major": 8861,
+    "minor": 8861,
     "patch": 84
   }
 }
