@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9627015C40336be8f329e4C68F7F3D8cfCDE5b21",
-      "symbol": "0",
-      "name": "ZERO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x39DF6fcb089d4e76a567f4F536905fd837c56408",
       "symbol": "VIB",
       "name": "Vibration",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4CB9f9d1E780c25Df4bedf74463e0e62E88EAdec",
+      "symbol": "PKI",
+      "name": "PumpkinInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8840,
-    "minor": 8840,
+    "major": 8841,
+    "minor": 8841,
     "patch": 84
   }
 }
