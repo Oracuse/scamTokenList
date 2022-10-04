@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7607219EFa876d4D8746b777e12a2AfaB76aC637",
-      "symbol": "NFTX",
-      "name": "NFTXToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB5caC6437abFc8b1f1107feD66e2f0fdec8422Db",
       "symbol": "VERVE",
       "name": "VERVE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7F0dF0F1EE08CeA902D4F8559d51FdDFFdFaA7c",
+      "symbol": "DTATSU",
+      "name": "DejitaruTatsu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8785,
-    "minor": 8785,
+    "major": 8786,
+    "minor": 8786,
     "patch": 84
   }
 }
