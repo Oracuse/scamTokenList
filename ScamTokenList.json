@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB5caC6437abFc8b1f1107feD66e2f0fdec8422Db",
-      "symbol": "VERVE",
-      "name": "VERVE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7dF14374Fbe9f0568bf40d7162eFFFCEBC235034",
       "symbol": "MARS",
       "name": "MarsMallows",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8b1b92160741140A6cD78993E9c47AdFea2c002",
+      "symbol": "NEBLIO",
+      "name": "Neblio",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8786,
-    "minor": 8786,
+    "major": 8787,
+    "minor": 8787,
     "patch": 84
   }
 }
