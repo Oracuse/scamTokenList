@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x06109fF09b5BE225873E9190E1884Bb01Cbd0d35",
-      "symbol": "ANBU",
-      "name": "ANBUDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB55286f7548c4cDd6c1F06BBe6FdDd1b68f88F35",
       "symbol": "MATI",
       "name": "Mati",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0DafB9F676A62930aCb325bbf284bC80a4d857a2",
+      "symbol": "BOND",
+      "name": "Consol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8901,
-    "minor": 8901,
+    "major": 8902,
+    "minor": 8902,
     "patch": 84
   }
 }
