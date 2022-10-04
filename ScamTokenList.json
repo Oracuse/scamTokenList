@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE165a282837E9B35Fa78Ca59992d603710B15B06",
-      "symbol": "KOHU",
-      "name": "KOHAKU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x022a60a02aE49dC1F0eD0119A03c001c5EfF18Ab",
       "symbol": "MEGUMIINU",
       "name": "MEGUMIINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa62800cBdC8417225459F6118F38eC1Ed2d7e573",
+      "symbol": "GAMETS",
+      "name": "GameOfTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8853,
-    "minor": 8853,
+    "major": 8854,
+    "minor": 8854,
     "patch": 84
   }
 }
