@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC5C41Ec08596FCe4E22Ee6818Bf0De4d0ADC2C58",
-      "symbol": "VIRUS",
-      "name": "Virus",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeCa2cFd46323CeCDd8A93E5041F4c42c64Ced1ed",
       "symbol": "HERACLES",
       "name": "HeraclesMyth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x740da257fF7D3E1d134812Cf93331a039fCcf3b5",
+      "symbol": "BYORI",
+      "name": "Babyyori",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8802,
-    "minor": 8802,
+    "major": 8803,
+    "minor": 8803,
     "patch": 84
   }
 }
