@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8b4934b21C3ab02bb12a49E2e7A400533B7B0DA8",
-      "symbol": "MINATO",
-      "name": "MINATO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf44247b6eFB407E69B9ea21367B93C258D7D17aB",
       "symbol": "NOVA",
       "name": "SuperNova",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Ccc279fc13A6ecB5c0a0a4CC92939522aC7a01a",
+      "symbol": "ROAR",
+      "name": "RoaringDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8770,
-    "minor": 8770,
+    "major": 8771,
+    "minor": 8771,
     "patch": 84
   }
 }
