@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x945750e27c62c058Fa09E97378183BAEe6655E14",
-      "symbol": "WHITEWOLF",
-      "name": "YamaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3884C9560246B35447F89B47e8ab7D8180d35D72",
       "symbol": "TINU",
       "name": "TurtleInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1C6CDB7E807eC77B1Fc4a2b9838Ff2b583d41B9",
+      "symbol": "AURAOFETH",
+      "name": "AuraOfETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8912,
-    "minor": 8912,
+    "major": 8913,
+    "minor": 8913,
     "patch": 84
   }
 }
