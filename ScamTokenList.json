@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2e4C2F1Fa0b93f4EbB2A84f372d10b6C41a69B81",
-      "symbol": "OYEN",
-      "name": "Oyen",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1697e0ce1D6167daBF7F06e63f0a245c1D8e2362",
       "symbol": "MORSE",
       "name": "TheMorseCode",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3720565Eac478a4D88C8C576A804572A7Cb33372",
+      "symbol": "SCAT",
+      "name": "SpookyCat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8943,
-    "minor": 8943,
+    "major": 8944,
+    "minor": 8944,
     "patch": 84
   }
 }
