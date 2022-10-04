@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x870563Be646A78825e5b4f083795744408Ebbd90",
-      "symbol": "LIGHT",
-      "name": "LUMEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08bD15F2114855Fc2180CDeC0E0F36054797567f",
       "symbol": "PARKIFY",
       "name": "PARKIFY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfd854e4557296Bd16246f2C8A4E914143ECf7846",
+      "symbol": "AIFI",
+      "name": "AxieInfinityInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8891,
-    "minor": 8891,
+    "major": 8892,
+    "minor": 8892,
     "patch": 84
   }
 }
