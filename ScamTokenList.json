@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7dF14374Fbe9f0568bf40d7162eFFFCEBC235034",
-      "symbol": "MARS",
-      "name": "MarsMallows",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x200ED384Abcd8ed44d721a3bA61dD50d1c80520B",
       "symbol": "SFT",
       "name": "Safethereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF8fE8DA1d4DdC6aBdF6A5Eb3eE73b90b96f131D4",
+      "symbol": "TATSUMAKIRYOKA",
+      "name": "TatsumakiRyoka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8787,
-    "minor": 8787,
+    "major": 8788,
+    "minor": 8788,
     "patch": 84
   }
 }
