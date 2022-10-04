@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbA6dF331A00D080353B59DBC3024d716EE2c8fB0",
-      "symbol": "KUMO",
-      "name": "Kumoji",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10923783734b12D0b56187F772CFd808Dfd8c5Ad",
       "symbol": "JPI",
       "name": "JeromePowellInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B83e204e94b10f481de0765CEc02647B14B4f1a",
+      "symbol": "SAI",
+      "name": "sAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8899,
-    "minor": 8899,
+    "major": 8900,
+    "minor": 8900,
     "patch": 84
   }
 }
