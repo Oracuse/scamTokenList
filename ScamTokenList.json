@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x99f1d8e1F6f7e3D8Acd980B746d40bBCB7600f69",
-      "symbol": "COPING",
-      "name": "CopeInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x057Db749584c65501882729Fa2AE162DDD2b8B34",
       "symbol": "LUCID",
       "name": "LUCID",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07c9733a794A5f79fe998812f1A8695AEeD39069",
+      "symbol": "INUZULA",
+      "name": "InuzulaToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8915,
-    "minor": 8915,
+    "major": 8916,
+    "minor": 8916,
     "patch": 84
   }
 }
