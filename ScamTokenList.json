@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4aef5990F8638011D2252474103665b9F39873a2",
-      "symbol": "YOLK",
-      "name": "EGG",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8Ab9F65F7F407FDb8395671878c974254a31EEF2",
       "symbol": "MINATO",
       "name": "MINATO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D7267F10a0f9afF59e066026BB4CC5686CA4F3C",
+      "symbol": "ETERNALTSUKA",
+      "name": "EternalTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8746,
-    "minor": 8746,
+    "major": 8747,
+    "minor": 8747,
     "patch": 84
   }
 }
