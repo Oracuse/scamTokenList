@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x338196a509B4c66749c3f44c21C00501E6ACF7BC",
-      "symbol": "DCOMET",
-      "name": "DragonComet",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4B41229384E4E1EBe7Eb017d0A650ff23c55711D",
       "symbol": "RINU",
       "name": "ReverseInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08957C2B0c8A30fB370DDd9a622Ec6617C7F0c4b",
+      "symbol": "HILL",
+      "name": "TheHill",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8862,
-    "minor": 8862,
+    "major": 8863,
+    "minor": 8863,
     "patch": 84
   }
 }
