@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x222a6D8D75Be3c638833f9aE287c115a5F449fb1",
-      "symbol": "VERVE",
-      "name": "VERVE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1D5Aa0bb0175ef6835512930EA4348acECEBdae",
       "symbol": "LOWLIQUIDITY",
       "name": "LowLiquidity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5dfF56d26D9cd325DaeC78118214ed4b5Dc31b1",
+      "symbol": "RGOLD",
+      "name": "RGOLD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8886,
-    "minor": 8886,
+    "major": 8887,
+    "minor": 8887,
     "patch": 84
   }
 }
