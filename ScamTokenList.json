@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x161b16AE3f4a40319aB4Cecb53651E3957601FaB",
-      "symbol": "LUCK",
-      "name": "Leprechaun",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5ae332C4AEA24501418D9Ad8ddfC466C1E627c3b",
       "symbol": "APEP",
       "name": "Apophis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2e66c663F069DD2ff29BAEA8eDC80501973B031",
+      "symbol": "CFY",
+      "name": "Compoundify",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8881,
-    "minor": 8881,
+    "major": 8882,
+    "minor": 8882,
     "patch": 84
   }
 }
