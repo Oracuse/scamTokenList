@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x960e5fc3DeeF6B1Bb0E98e91F727bcc1390FF0cB",
-      "symbol": "SHIBX",
-      "name": "SHIBX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x222a6D8D75Be3c638833f9aE287c115a5F449fb1",
       "symbol": "VERVE",
       "name": "VERVE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8546620F70cb104e06d327FB4a4d7637813cBbe0",
+      "symbol": "DKWON",
+      "name": "DOKWONINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8885,
-    "minor": 8885,
+    "major": 8886,
+    "minor": 8886,
     "patch": 84
   }
 }
