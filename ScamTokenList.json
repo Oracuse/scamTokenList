@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1D690D698bE532c10dF1274a81BB5965e4679924",
-      "symbol": "UPONLY",
-      "name": "UpOnly",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x826BDA0337e4904d0D31C7Faeef7AE0F7B85A955",
       "symbol": "SOLE",
       "name": "SocialLess",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F38E9e1A3f283FEE5Ae3432447dD2C00352F0ee",
+      "symbol": "MESUKI",
+      "name": "Mesuki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8918,
-    "minor": 8918,
+    "major": 8919,
+    "minor": 8919,
     "patch": 84
   }
 }
