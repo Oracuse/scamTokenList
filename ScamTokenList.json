@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x755D8bE8B84828DB2Ee4cDe495ce462AcE81baB7",
-      "symbol": "TINU",
-      "name": "TurtleInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x277338749C1895eD31A88Ff5265F4C894DcdE0E8",
       "symbol": "JADEY",
       "name": "JadeyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc970be61362CF0B000246Ea961e542dF9Bf0b197",
+      "symbol": "TAMATSUKA",
+      "name": "Tamatsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8910,
-    "minor": 8910,
+    "major": 8911,
+    "minor": 8911,
     "patch": 84
   }
 }
