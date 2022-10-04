@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf4072C29FA2e115A06aDd971A806C36DBc58287d",
-      "symbol": "MMASTER",
-      "name": "MONEYMASTER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD1A2C0a402CFf864ed295189245e2c544e86B6f3",
       "symbol": "SOHEI",
       "name": "SOHEI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xafBF3be677B7A13f0d51e0d72aE29F8a652BA59b",
+      "symbol": "LATTE",
+      "name": "PumpKing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8751,
-    "minor": 8751,
+    "major": 8752,
+    "minor": 8752,
     "patch": 84
   }
 }
