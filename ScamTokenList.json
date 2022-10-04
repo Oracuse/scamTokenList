@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE1D5Aa0bb0175ef6835512930EA4348acECEBdae",
-      "symbol": "LOWLIQUIDITY",
-      "name": "LowLiquidity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5e30935e2c86c50A6626B487124C07e6839D28ff",
       "symbol": "DRINU",
       "name": "DreamInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e953382612974F30dA9d2fE330Bcb21182bf7B0",
+      "symbol": "HETH",
+      "name": "HalloweETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8887,
-    "minor": 8887,
+    "major": 8888,
+    "minor": 8888,
     "patch": 84
   }
 }
