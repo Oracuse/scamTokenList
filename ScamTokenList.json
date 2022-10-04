@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x943B7c456079f5fbf4c222D894Db1D75F54cE62E",
-      "symbol": "CARS",
-      "name": "Cars",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1306c66A7174E7D5b870636Fc4094b0Ce3C848B3",
       "symbol": "CHIB2",
       "name": "ChibagushiV2",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9fEbF32b0668E19de0AcFEAa36c02e2477cD81AC",
+      "symbol": "SAZANAMI",
+      "name": "Sazanami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8838,
-    "minor": 8838,
+    "major": 8839,
+    "minor": 8839,
     "patch": 84
   }
 }
