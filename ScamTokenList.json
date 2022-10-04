@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6b3f303b3E910Fe8210e0A76F19342bA8b15736f",
-      "symbol": "VERVE",
-      "name": "VERVE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcA575ea87bbeEDE82fbF8b4Eb9eF513Bd08EE2FB",
       "symbol": "NORMAL",
       "name": "PARA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D48C9d14CCA527b8D19b8B2D0E14B10791A74D1",
+      "symbol": "JPMI",
+      "name": "JPMorganInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8794,
-    "minor": 8794,
+    "major": 8795,
+    "minor": 8795,
     "patch": 84
   }
 }
