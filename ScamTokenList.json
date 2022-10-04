@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9F9d5FA63043A80dcBd04d2E54cA550a5F5FA1Fc",
-      "symbol": "THORINU",
-      "name": "ThorInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4aef5990F8638011D2252474103665b9F39873a2",
       "symbol": "YOLK",
       "name": "EGG",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb868e4B584446e45244696Fc8781e34FB6963f7D",
+      "symbol": "ST",
+      "name": "SpookyTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8745,
-    "minor": 8745,
+    "major": 8746,
+    "minor": 8746,
     "patch": 84
   }
 }
