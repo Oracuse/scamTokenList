@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0291654a966388EA915DbEaB1C10D6cB22723aA2",
-      "symbol": "RUFFY",
-      "name": "RuffyInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15aA2Acd55d337f1e37A07cb884Eacf795E33f6E",
       "symbol": "MOONI",
       "name": "Moonicorn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3EF33801189691ed1162e05C3BB5223d49c7b98B",
+      "symbol": "GETBTC",
+      "name": "GetBTC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8874,
-    "minor": 8874,
+    "major": 8875,
+    "minor": 8875,
     "patch": 84
   }
 }
