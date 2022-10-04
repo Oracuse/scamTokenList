@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x80b71992dFF20F43Ff5016dc3fd6d79b79306D6e",
-      "symbol": "GEASS",
-      "name": "Geass",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2e4C2F1Fa0b93f4EbB2A84f372d10b6C41a69B81",
       "symbol": "OYEN",
       "name": "Oyen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cCf1cd6696A70A39A00510Df38c5d1CAB513E8E",
+      "symbol": "ROY",
+      "name": "RoyOshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8942,
-    "minor": 8942,
+    "major": 8943,
+    "minor": 8943,
     "patch": 84
   }
 }
