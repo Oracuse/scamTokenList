@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBF4dB1Fb7d3D11135Bb2f6Fc25153B6bb314a00F",
-      "symbol": "SEGA",
-      "name": "SEGA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42c113e02bf078402552eFD1dFEc8ADDC19fa940",
       "symbol": "LUCID",
       "name": "Lucid",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1aa2265C6611Cf2b3C71af18a00D6dfC5bd6238",
+      "symbol": "1M",
+      "name": "Tsira",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8759,
-    "minor": 8759,
+    "major": 8760,
+    "minor": 8760,
     "patch": 84
   }
 }
