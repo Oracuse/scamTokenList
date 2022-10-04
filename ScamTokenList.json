@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x519AeADE640c152dEeb3D133e66F9D9D253821f6",
-      "symbol": "VINCI",
-      "name": "vinci",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9E0f8EC54c7a04B1BE2D8E79bBFf993E57d5fF0c",
       "symbol": "DRINU",
       "name": "DoctorInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59684a1A3Bb96b817EfD58fab562c023c4EEaAB4",
+      "symbol": "TSUMI",
+      "name": "OyamatsumiNoMikoto",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8865,
-    "minor": 8865,
+    "major": 8866,
+    "minor": 8866,
     "patch": 84
   }
 }
