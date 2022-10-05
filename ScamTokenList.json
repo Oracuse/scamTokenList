@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17Be19A728b9e164C1fC418d7B994b4387042145",
-      "symbol": "SOURBET",
-      "name": "SOURBET",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdB9454B08867FE3c9341E9fc32319f3C0A68DcA6",
       "symbol": "START",
       "name": "TheFuture",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9598F270643A12ECD3611bEfd383a8eb42E32a1a",
+      "symbol": "NGL",
+      "name": "ngl",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9084,
-    "minor": 9084,
+    "major": 9085,
+    "minor": 9085,
     "patch": 84
   }
 }
