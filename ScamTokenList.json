@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB2b2c23256172147f67bB3f2f6b2139E03036781",
-      "symbol": "GREAT74",
-      "name": "ItsGreatToBe74",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1881406964745C241fb71C85804A879D043AF512",
       "symbol": "REVOLUTION",
       "name": "OldSchoolETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xef403c932979fEa2b253E5a73A04d8a90fb14ed2",
+      "symbol": "DIGI",
+      "name": "DigitalInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9110,
-    "minor": 9110,
+    "major": 9111,
+    "minor": 9111,
     "patch": 84
   }
 }
