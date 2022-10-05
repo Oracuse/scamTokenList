@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1CAB4ed987eC1e2cCC41b334B81E7BcD09E38B1F",
-      "symbol": "IFRIT",
-      "name": "HELLFIRE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0B64996f5270147aC7f79635D050472B7351c9dd",
       "symbol": "ABIHS",
       "name": "ABIHS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b80f5ECa755e08fc0A7d353075bF121373cA0DE",
+      "symbol": "SUKIYU",
+      "name": "SukiyuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9052,
-    "minor": 9052,
+    "major": 9053,
+    "minor": 9053,
     "patch": 84
   }
 }
