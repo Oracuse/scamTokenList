@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc3cFAeC9F7c7224A6Ffb74238576Dc084F161F06",
-      "symbol": "PRT",
-      "name": "Parrot",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6934872f0BA6f0C41d8B135f80F181242D576AD5",
       "symbol": "SQUIDD",
       "name": "SquidDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04db3CbBa17D7316965b05e1b1eD1fe6C57Fe653",
+      "symbol": "ZUMA",
+      "name": "Zuma",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9107,
-    "minor": 9107,
+    "major": 9108,
+    "minor": 9108,
     "patch": 84
   }
 }
