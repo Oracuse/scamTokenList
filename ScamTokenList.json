@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3180F544Fd03be18b2aE84356AfD3B93c788b743",
-      "symbol": "BEAST",
-      "name": "BeastInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x77D61E2aF5E82E17C49e6468E9461f167243C272",
       "symbol": "FHH",
       "name": "5iveHeadHydra",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA18574c40b21344D70e0F9ec39064e319174cB00",
+      "symbol": "ZAP",
+      "name": "Zip",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8955,
-    "minor": 8955,
+    "major": 8956,
+    "minor": 8956,
     "patch": 84
   }
 }
