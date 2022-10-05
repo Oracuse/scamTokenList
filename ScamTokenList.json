@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdBC72baD9dd4BeFFD2Ef4a49596A7C5deD8d2106",
-      "symbol": "AMLSAFE",
-      "name": "AMLSafe",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5Bd5EE275aaBB226FcE61860c36a234E7E72BfC3",
       "symbol": "QUIET",
       "name": "QUIET",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5DF1DaA3816313476A43B2328Bb2c91977Ba7de4",
+      "symbol": "DUBAI",
+      "name": "DubaShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9119,
-    "minor": 9119,
+    "major": 9120,
+    "minor": 9120,
     "patch": 84
   }
 }
