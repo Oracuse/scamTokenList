@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFbB0e99d1D43b55a1Cc08b97b2f3b0089F1A2559",
-      "symbol": "GOCZ",
-      "name": "LetsGoCZ",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1034425887C9A5ac7F78D02B7cB6984cde978c6D",
       "symbol": "SUD",
       "name": "SecondUncleDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2DF4961c5FA5f230731e6Df17b464e8783315a7",
+      "symbol": "TSS",
+      "name": "TheSecretSociety",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9087,
-    "minor": 9087,
+    "major": 9088,
+    "minor": 9088,
     "patch": 84
   }
 }
