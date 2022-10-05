@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x37Ef2B418030E35E305d92e282464c0668cEF3AF",
-      "symbol": "333",
-      "name": "HopeProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2e236F5B0Ef067640f8F469973118c7b9ad89497",
       "symbol": "MK",
       "name": "MountKailash",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa43d2C03CFFDc4b376233AB2ee781667Ec602cB3",
+      "symbol": "NPC",
+      "name": "npc",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9076,
-    "minor": 9076,
+    "major": 9077,
+    "minor": 9077,
     "patch": 84
   }
 }
