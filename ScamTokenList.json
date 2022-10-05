@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x37E7a85523778bfE61bDF13f9AF3a2098641072e",
-      "symbol": "TOMORI",
-      "name": "NaoTomori",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5aBDd33336259f235bCC5A6629080A99cDc9Bf27",
       "symbol": "X3Y3",
       "name": "X3Y3Token",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfA7F9dC59146b850241cb0065D2D10788bD5501c",
+      "symbol": "YASUKE",
+      "name": "Yasuke",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9064,
-    "minor": 9064,
+    "major": 9065,
+    "minor": 9065,
     "patch": 84
   }
 }
