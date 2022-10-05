@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb564739483b03503aaB603AE2CF508b5d4745046",
-      "symbol": "BEGIN",
-      "name": "TheFuture",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08E2998D97B7d43449354A4a86Bc9b7966C6fE2D",
       "symbol": "TOK",
       "name": "NeoTokyo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x770ED96F453400c6A3aa881ef0f2f0453d3cF823",
+      "symbol": "SAKURAI",
+      "name": "HayatoSakurai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9104,
-    "minor": 9104,
+    "major": 9105,
+    "minor": 9105,
     "patch": 84
   }
 }
