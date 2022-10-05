@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDeA8764907cb3077a559EACd703c9736ed9fb3C0",
-      "symbol": "PORTAL",
-      "name": "Portal",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcF69CFb38414d823dF36cab7a0B2c18da090a942",
       "symbol": "HEINU",
       "name": "HeInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0F23F71321e3b35f8A7D7Eb3751B88C1ceDf6eDB",
+      "symbol": "DD",
+      "name": "DejitaruDracula",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8979,
-    "minor": 8979,
+    "major": 8980,
+    "minor": 8980,
     "patch": 84
   }
 }
