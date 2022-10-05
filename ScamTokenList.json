@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x666C9684d902b7E52b0Ba8AA825eda4d671A126B",
-      "symbol": "SHARPSHOOTER",
-      "name": "SharpShooter",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeB23Ce0F2eF140Aa8Cb05FFA71851035f6618A4c",
       "symbol": "GIORNO",
       "name": "DelGiorno",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3F1ab10970CA28f2F9204FA8a702f924b5beD31",
+      "symbol": "RDS",
+      "name": "RadojoSPA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9081,
-    "minor": 9081,
+    "major": 9082,
+    "minor": 9082,
     "patch": 84
   }
 }
