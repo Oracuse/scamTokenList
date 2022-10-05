@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfD5CA27681B05247f4Beed8aA4353d513DD0d4f1",
-      "symbol": "VISIONARY",
-      "name": "VisionaryDeFi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb6C0e0def20C01564952be04Ad7535f84Cf50286",
       "symbol": "MONK",
       "name": "MontKilash",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x883bb51318b724922921b867f91E9c5c3768994c",
+      "symbol": "TH",
+      "name": "TriptoHell",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9002,
-    "minor": 9002,
+    "major": 9003,
+    "minor": 9003,
     "patch": 84
   }
 }
