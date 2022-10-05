@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfDb317c24131a7176dFD03cB1286d6f281e6A0E1",
-      "symbol": "TYPHOON",
-      "name": "Typhoon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76A84b9617523dFA8B5edeF79893f6798a10ADC8",
       "symbol": "PDPINU",
       "name": "PewdiepieInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7959b065cA265eAb3915e4803BA3cA381465087",
+      "symbol": "7FIGURES",
+      "name": "SevenFigures",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9093,
-    "minor": 9093,
+    "major": 9094,
+    "minor": 9094,
     "patch": 84
   }
 }
