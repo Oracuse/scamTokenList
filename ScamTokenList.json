@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd349d79Bc211be108C555F2197F9b2208593811c",
-      "symbol": "CUBE",
-      "name": "CUBEINFINITY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd991015C56CAffcA40db737dDf11d5f9A4c4DFCd",
       "symbol": "TIME",
       "name": "TimeCapsule",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71b43C13c5c2a3D8cd19A2BBB1B8138b40f897b3",
+      "symbol": "SMILE",
+      "name": "TheSmileCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9113,
-    "minor": 9113,
+    "major": 9114,
+    "minor": 9114,
     "patch": 84
   }
 }
