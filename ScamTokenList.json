@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2D2Aef54A1828f94ebc8F962cF3BD2D3d007AA13",
-      "symbol": "BLACK",
-      "name": "BlackToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x439D81774e67542d8Af55305591255605bDed910",
       "symbol": "INUS",
       "name": "Inustrator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA88F4E1CC0cC5e9D5210ff76952546eB27e69426",
+      "symbol": "ALPHAMOON",
+      "name": "ALPHA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9095,
-    "minor": 9095,
+    "major": 9096,
+    "minor": 9096,
     "patch": 84
   }
 }
