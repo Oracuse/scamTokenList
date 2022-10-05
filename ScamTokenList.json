@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x451Ca7A19a69026002CB071871ff3adD4d1905c3",
-      "symbol": "RNS",
-      "name": "Renaissance",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFF6758dF32dc79Fc8710Aa36F4C34d3bF1C1b694",
       "symbol": "KIBA",
       "name": "KibaInuzuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7fFF149b4ce4A2A8c48E3cE36272b06b3b442b8c",
+      "symbol": "SAFUTAMA",
+      "name": "Safutama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9123,
-    "minor": 9123,
+    "major": 9124,
+    "minor": 9124,
     "patch": 84
   }
 }
