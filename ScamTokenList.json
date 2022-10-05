@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFCe8b7921760793Fb93B2aE464d6955302497eB8",
-      "symbol": "RECESSION",
-      "name": "RecessionINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdB4857e05400E4638eBC3ab63d431A7eaAF68e4B",
       "symbol": "CSFI",
       "name": "CoinStore",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51BAF9B1712b8eA5Ba0ea7f69Bb310c39571a5aD",
+      "symbol": "LIKA",
+      "name": "LikaRefined",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9115,
-    "minor": 9115,
+    "major": 9116,
+    "minor": 9116,
     "patch": 84
   }
 }
