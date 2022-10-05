@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x761c5398007337c039AB7fEd674Dd31f82Bc542B",
-      "symbol": "FDOGE",
-      "name": "FLAMINGDOGE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEEfcA809E3dC7662129F9B32eEe49b71B1F3030d",
       "symbol": "SHIBI",
       "name": "DigiShibi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf7F6Fe6b30885916C5dF95655cAd52eE033809B3",
+      "symbol": "KEIJI",
+      "name": "MaedaKeiji",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9024,
-    "minor": 9024,
+    "major": 9025,
+    "minor": 9025,
     "patch": 84
   }
 }
