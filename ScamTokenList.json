@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcF69CFb38414d823dF36cab7a0B2c18da090a942",
-      "symbol": "HEINU",
-      "name": "HeInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x06DB2bb72a11048Ab45f0fBCD9d3E0Ca3951D0Ea",
       "symbol": "GYURI",
       "name": "Gyrui",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdf8932fEA9a8F766E8F634b56129ccC18aE9924f",
+      "symbol": "OSAMU",
+      "name": "OsamuDazai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8980,
-    "minor": 8980,
+    "major": 8981,
+    "minor": 8981,
     "patch": 84
   }
 }
