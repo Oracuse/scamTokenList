@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5fedB249CCa2Fa82Be74ec1E8e5961e2277D297b",
-      "symbol": "PKIP4",
-      "name": "PEPEPIKACHUINUPUTIN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1CAB4ed987eC1e2cCC41b334B81E7BcD09E38B1F",
       "symbol": "IFRIT",
       "name": "HELLFIRE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x424885505259306312f146D530d425414aF0ca18",
+      "symbol": "ETH",
+      "name": "teslaEtherum20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9051,
-    "minor": 9051,
+    "major": 9052,
+    "minor": 9052,
     "patch": 84
   }
 }
