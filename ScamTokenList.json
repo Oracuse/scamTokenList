@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd991015C56CAffcA40db737dDf11d5f9A4c4DFCd",
-      "symbol": "TIME",
-      "name": "TimeCapsule",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFCe8b7921760793Fb93B2aE464d6955302497eB8",
       "symbol": "RECESSION",
       "name": "RecessionINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x680B46A533870EE53457887543EE99E862d99695",
+      "symbol": "ISAMU",
+      "name": "Isamu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9114,
-    "minor": 9114,
+    "major": 9115,
+    "minor": 9115,
     "patch": 84
   }
 }
