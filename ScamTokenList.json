@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb0e374568c6CB8B2aF05Cf4cd2f4f0ED981ef170",
-      "symbol": "EGOD",
-      "name": "EGOD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf1e8aE68Bde73bAafc1dfaD22C13e19676C1Bfe6",
       "symbol": "DUSTSWAP",
       "name": "DUST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4ac888c2AC18c63c37a6ED090E864E692c83B64",
+      "symbol": "ARCADE",
+      "name": "ArcadeGames",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9049,
-    "minor": 9049,
+    "major": 9050,
+    "minor": 9050,
     "patch": 84
   }
 }
