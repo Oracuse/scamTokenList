@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc6e769595F8DAc4Bda5e497CD78D26820c0e91B9",
-      "symbol": "OOM",
-      "name": "OOMER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3180F544Fd03be18b2aE84356AfD3B93c788b743",
       "symbol": "BEAST",
       "name": "BeastInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30e3AA78E70e2958040666C6B778222140fd8cd0",
+      "symbol": "NUM",
+      "name": "NUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8954,
-    "minor": 8954,
+    "major": 8955,
+    "minor": 8955,
     "patch": 84
   }
 }
