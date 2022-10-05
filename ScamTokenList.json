@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x193Dee720e6823bF08c01D637c62bcA66EcF0685",
-      "symbol": "8",
-      "name": "EIGHT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x680e585180F455346dC75CEeF9c7c4cF9cc3947D",
       "symbol": "VITALIK",
       "name": "VITALIKINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D3F113476B2b36C8d3ECe55A6c1Ca6822b2961d",
+      "symbol": "SORA",
+      "name": "YosugaNoSora",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9035,
-    "minor": 9035,
+    "major": 9036,
+    "minor": 9036,
     "patch": 84
   }
 }
