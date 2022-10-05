@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x21efd0b913F08c6Bd462C3F8936AdF75ef919f4c",
-      "symbol": "TOMOEGOZEN",
-      "name": "TOMOEGOZEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x45d7c83B2ccD1A40C0A2AC2bC841db66cE950c85",
       "symbol": "SINU",
       "name": "SafariInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5AEE020327631DEe5B869a96440Bc70384215916",
+      "symbol": "KAMA",
+      "name": "FujiwaraNoKamatari",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8958,
-    "minor": 8958,
+    "major": 8959,
+    "minor": 8959,
     "patch": 84
   }
 }
