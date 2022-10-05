@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15Ea0Ae64369f8D9E1338FA5D516f43bB38DBD14",
-      "symbol": "DBODS",
-      "name": "dBods",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0331777c778248e33Db24003530A76D217f75AfB",
       "symbol": "CALL",
       "name": "Call",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67288e61eB7019D8a8B5F5766A2E9485edA6B091",
+      "symbol": "TSUKA",
+      "name": "ClassicDegen",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8985,
-    "minor": 8985,
+    "major": 8986,
+    "minor": 8986,
     "patch": 84
   }
 }
