@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFeeeef4D7b4Bf3cc8BD012D02D32Ba5fD3D51e31",
-      "symbol": "TAIL",
-      "name": "Tail",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd4B894ea4d1A6030a3973f52A512A1365b0a12DB",
       "symbol": "BULLRUN",
       "name": "BULLRUN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2152A477e1B464e6b8c8e738b8eB4f7C9B5b0cC9",
+      "symbol": "CDAO",
+      "name": "ChimpsDao",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9133,
-    "minor": 9133,
+    "major": 9134,
+    "minor": 9134,
     "patch": 84
   }
 }
