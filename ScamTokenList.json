@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3c340b7A0d713c5bEA29c95aAfdA5057ae1eB915",
-      "symbol": "PREDATOR",
-      "name": "Predator",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19EFc04e0f26d0745c8648E36f86f880AfD4F2c3",
       "symbol": "DGEN",
       "name": "DEGENEREUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7c941f4DAe8685eeDD0F127805620c31d093c18",
+      "symbol": "SPANKY",
+      "name": "InuBecameDruggy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9010,
-    "minor": 9010,
+    "major": 9011,
+    "minor": 9011,
     "patch": 84
   }
 }
