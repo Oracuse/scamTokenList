@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x44752B2e040bc3EAD91ECA7e02CF64C2649C61Db",
-      "symbol": "ALPHA",
-      "name": "CHAD",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3c340b7A0d713c5bEA29c95aAfdA5057ae1eB915",
       "symbol": "PREDATOR",
       "name": "Predator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xda8A3B45e275064111CFBcCCf764070E99111069",
+      "symbol": "A51",
+      "name": "Area51",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9009,
-    "minor": 9009,
+    "major": 9010,
+    "minor": 9010,
     "patch": 84
   }
 }
