@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15eD1efbd36d74E54d97219a2DE8C462Ad661b5C",
-      "symbol": "INFERNO",
-      "name": "INFERNO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC3F1a3064E11e88cDCA630139559324e248C2368",
       "symbol": "TATE",
       "name": "TATE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6a1584890Ee784c69DCe304dcFDa024FB915666E",
+      "symbol": "TWITTER",
+      "name": "TwitterInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9016,
-    "minor": 9016,
+    "major": 9017,
+    "minor": 9017,
     "patch": 84
   }
 }
