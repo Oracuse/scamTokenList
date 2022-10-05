@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5B9CdAbDda5C7e69DdEB6ba9a97116b618Ba76f7",
-      "symbol": "BOT",
-      "name": "Auto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd4eb176139130E17B649E1622e92cd50d796dec1",
       "symbol": "6SENSE",
       "name": "SixthSense",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCb50F23b8dF9deD7Ca40ec8128E19CDEEaCf6461",
+      "symbol": "TANUKI",
+      "name": "ShapeShiftingYokai",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 8995,
-    "minor": 8995,
+    "major": 8996,
+    "minor": 8996,
     "patch": 84
   }
 }
