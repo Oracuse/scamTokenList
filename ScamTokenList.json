@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08E2998D97B7d43449354A4a86Bc9b7966C6fE2D",
-      "symbol": "TOK",
-      "name": "NeoTokyo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15a520ccA46E530Dd0556B20D391573Bf996E573",
       "symbol": "TNT",
       "name": "DYNAETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7732D97a6535d1B8099032e136F11c971AD95197",
+      "symbol": "TBONE",
+      "name": "TsukaBone",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9105,
-    "minor": 9105,
+    "major": 9106,
+    "minor": 9106,
     "patch": 84
   }
 }
