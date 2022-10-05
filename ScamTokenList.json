@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1881406964745C241fb71C85804A879D043AF512",
-      "symbol": "REVOLUTION",
-      "name": "OldSchoolETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2658FAF467Da6F9EAA1744EE4B99C06806D65503",
       "symbol": "OKAMI",
       "name": "OKAMI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0BbD9b0dBFd70529c81c71BC550EC6B6CEb98E61",
+      "symbol": "BOLT",
+      "name": "BoltInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9111,
-    "minor": 9111,
+    "major": 9112,
+    "minor": 9112,
     "patch": 84
   }
 }
