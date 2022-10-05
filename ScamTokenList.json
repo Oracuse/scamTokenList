@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc3De63e5E6af72B08a68D791190F71061d231cdF",
-      "symbol": "YAMAOKAMI",
-      "name": "TwinWolf",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbfd59dd51996D3dbb44435Da5a26a4d0a89423c7",
       "symbol": "SAWA",
       "name": "Sawamura",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5602a2066Ee376589A47f4C3Fe9858C869FCbcBb",
+      "symbol": "HEXBLOK",
+      "name": "TheHexicanBlock",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9126,
-    "minor": 9126,
+    "major": 9127,
+    "minor": 9127,
     "patch": 84
   }
 }
