@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15a520ccA46E530Dd0556B20D391573Bf996E573",
-      "symbol": "TNT",
-      "name": "DYNAETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc3cFAeC9F7c7224A6Ffb74238576Dc084F161F06",
       "symbol": "PRT",
       "name": "Parrot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd25487c17fA7424c06a5F70a0DECD3679D8E18EC",
+      "symbol": "DENJI",
+      "name": "Denji",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9106,
-    "minor": 9106,
+    "major": 9107,
+    "minor": 9107,
     "patch": 84
   }
 }
