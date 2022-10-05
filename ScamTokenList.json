@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Fd1D6A43bC012A2d515133dBD563cCc648c7d1B",
-      "symbol": "BURNINGTATE",
-      "name": "BurningTate",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb564739483b03503aaB603AE2CF508b5d4745046",
       "symbol": "BEGIN",
       "name": "TheFuture",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D4b7c5585Cb5248DBf0c40EE725902625A5339b",
+      "symbol": "ANGELS",
+      "name": "GuardianAngels",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9103,
-    "minor": 9103,
+    "major": 9104,
+    "minor": 9104,
     "patch": 84
   }
 }
