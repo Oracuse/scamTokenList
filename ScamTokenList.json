@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8fbE62FDe3B897a0E4BfB5D63EE4fF5A4034722B",
-      "symbol": "CLRTY",
-      "name": "Clarity",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdBC72baD9dd4BeFFD2Ef4a49596A7C5deD8d2106",
       "symbol": "AMLSAFE",
       "name": "AMLSafe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ebb43c70184Ec77afF1D33A9115cB0D64c68Ce7",
+      "symbol": "FIFA",
+      "name": "FIFAWouldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9118,
-    "minor": 9118,
+    "major": 9119,
+    "minor": 9119,
     "patch": 84
   }
 }
