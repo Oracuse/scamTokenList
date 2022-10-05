@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8cFc1d2dA5DACE95376Eaeaf6D1415d98D23Ff39",
-      "symbol": "POTD",
-      "name": "PlayOfTheDay",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x519fe0383981b37150938fd959042b8965f6E1a0",
       "symbol": "SPYRO",
       "name": "SpiralPyro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d593020369964b8a2a3aFB80bB0489f9ac70729",
+      "symbol": "NORMIE",
+      "name": "NormieTools",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9079,
-    "minor": 9079,
+    "major": 9080,
+    "minor": 9080,
     "patch": 84
   }
 }
