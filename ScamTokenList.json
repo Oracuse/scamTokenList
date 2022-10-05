@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x730dC871E075a55151509669cfBaCec22e5cA0D2",
-      "symbol": "SHINITA",
-      "name": "SHINITAINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x605f469FC7D368359fD138F180B403c9c3181987",
       "symbol": "ZOMBO",
       "name": "Anything",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C5F6d0C3B0c70b71A6b219d4c7d91aE2D4fb0B1",
+      "symbol": "CHZC",
+      "name": "ChillizC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9000,
-    "minor": 9000,
+    "major": 9001,
+    "minor": 9001,
     "patch": 84
   }
 }
