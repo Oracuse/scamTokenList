@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8b26e3358Dc17AB99b2D9b4ec2CaB7df22C87D5e",
-      "symbol": "HEPHAISTOS",
-      "name": "HEPHAISTOS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB711DD37C8c17566C818Dac14B477c5dfB0DC595",
       "symbol": "DEGENRATOR",
       "name": "Degenrator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99D4f51cA5fa558aF0a17986C2df5b457fFa212f",
+      "symbol": "SAFE",
+      "name": "SAFEDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9070,
-    "minor": 9070,
+    "major": 9071,
+    "minor": 9071,
     "patch": 84
   }
 }
