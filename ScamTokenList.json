@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2e236F5B0Ef067640f8F469973118c7b9ad89497",
-      "symbol": "MK",
-      "name": "MountKailash",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x40E2eA0609B9E37D32B419b0ffAa75321141D3A2",
       "symbol": "ETHWORM",
       "name": "ETHWORM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38988AFc4c692Db8fa28EF0d38723E2a5929ED7e",
+      "symbol": "YORI",
+      "name": "Yori",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9077,
-    "minor": 9077,
+    "major": 9078,
+    "minor": 9078,
     "patch": 84
   }
 }
