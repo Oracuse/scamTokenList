@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2F4F6A8524DF5e4c1864BFd1951f03c01502CC68",
-      "symbol": "SWRR",
-      "name": "ShibWarrior",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7ec7F0915cd50DeEe542D44426fFe683e45fDAc5",
       "symbol": "SHACKLES",
       "name": "BreakTheShackles",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f63517d8212369B961aB1FC7603287C95054a15",
+      "symbol": "SAZ",
+      "name": "Sazuno",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9062,
-    "minor": 9062,
+    "major": 9063,
+    "minor": 9063,
     "patch": 84
   }
 }
