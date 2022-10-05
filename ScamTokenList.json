@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2327E539622C06581A51774aD6371fE4c5Bb2C60",
-      "symbol": "ROIDS",
-      "name": "ROIDSGIVEPUMP",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDB219A7F628a6d287fe533Fd7497C8466F4cc259",
       "symbol": "HOWLY",
       "name": "HowlyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x761953ed51209C6bdd5757fC70daF15774afE6ac",
+      "symbol": "THEPYRAMIDOFGIZA",
+      "name": "ThePyramidofGiza",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9032,
-    "minor": 9032,
+    "major": 9033,
+    "minor": 9033,
     "patch": 84
   }
 }
