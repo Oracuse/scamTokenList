@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x82C2F739f4aF3b401a9f78d9a0d6844dB485F098",
-      "symbol": "SIMBA",
-      "name": "SimbaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDc4630DCEB355F2F2Cc5685b2F56E4752ceDFdeF",
       "symbol": "BUSHI",
       "name": "Samurai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2BCC12927583A234062555cd184f0c9E06dfB285",
+      "symbol": "GSB",
+      "name": "GoldmanSachsBank",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 8970,
-    "minor": 8970,
+    "major": 8971,
+    "minor": 8971,
     "patch": 84
   }
 }
