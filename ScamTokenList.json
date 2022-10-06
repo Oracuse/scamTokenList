@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf967dE7C8e9f98Fc3bc4C4398C578a8412e52540",
-      "symbol": "KODACHI",
-      "name": "KodachiToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Fa34F0469942f905aeef6f4035AAE35BD0fD6D9",
       "symbol": "REVIVE",
       "name": "TheGlory",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDfc25Ed03000526534419E80220c48fE177f9719",
+      "symbol": "MANIFESTO",
+      "name": "MANIFESTO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9233,
-    "minor": 9233,
+    "major": 9234,
+    "minor": 9234,
     "patch": 84
   }
 }
