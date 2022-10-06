@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd0300098eFDe19A80674d51A5D83E5D3E91ba50d",
-      "symbol": "SHIRUTO",
-      "name": "ShirutoBurn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x659633F4f7247Cf0B63C1e52A8734aDA95Faa773",
       "symbol": "VENGEANCE",
       "name": "Vengeance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6DcD3937A477E84d8ccec4a7774258d84AE45F00",
+      "symbol": "STAKE",
+      "name": "STAKING",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9165,
-    "minor": 9165,
+    "major": 9166,
+    "minor": 9166,
     "patch": 84
   }
 }
