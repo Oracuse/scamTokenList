@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1951eDef4E173900439BD32D4E09Bb050F6E350D",
-      "symbol": "SQUID",
-      "name": "CALAMARI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfe9Dbede18F11a073109185a5Ab383eFEBB1B6B1",
       "symbol": "COLORLESS",
       "name": "COLORLESSETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBb9BF849ac1135ee2bfc8cfc8069A70BCf124d77",
+      "symbol": "SHIPOMCHI",
+      "name": "Shipomchi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9221,
-    "minor": 9221,
+    "major": 9222,
+    "minor": 9222,
     "patch": 84
   }
 }
