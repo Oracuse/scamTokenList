@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb1A1A145d25818a0129f6A1406966eC6bee64639",
-      "symbol": "D3OT",
-      "name": "D3ot",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDBdBf8FdE1012c212FBd691F194Cb6AE75436572",
       "symbol": "MERGE",
       "name": "EtherMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD97FD51acD073558bA6d01208b7Fc64bB7A06962",
+      "symbol": "PUMP",
+      "name": "PUMPKING",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9315,
-    "minor": 9315,
+    "major": 9316,
+    "minor": 9316,
     "patch": 84
   }
 }
