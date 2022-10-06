@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEEa88eF91a53603766f1d41bC86B16d655dAdC7e",
-      "symbol": "CARIBANAINU",
-      "name": "CaribanaINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9FFDa4dc17429Ac0B03A7b57cfcc3Fc9F46bC04c",
       "symbol": "HYDRO",
       "name": "HydroMatic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10D0E90413137Da827f6AFdEEeE378c57EABC0d5",
+      "symbol": "MCD",
+      "name": "AdultHappyMeal",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9155,
-    "minor": 9155,
+    "major": 9156,
+    "minor": 9156,
     "patch": 84
   }
 }
