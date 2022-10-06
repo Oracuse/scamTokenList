@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDBdBf8FdE1012c212FBd691F194Cb6AE75436572",
-      "symbol": "MERGE",
-      "name": "EtherMerge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x931E415D41d089d22a56b58B1E38Db9473010eeC",
       "symbol": "FELICETTE",
       "name": "CatInSpace",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2970e9707016b57e504C901024cBFd7140491711",
+      "symbol": "KIMETSU",
+      "name": "StoryOfKinu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9316,
-    "minor": 9316,
+    "major": 9317,
+    "minor": 9317,
     "patch": 84
   }
 }
