@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0441565683fF13b25B8FC8728D7487E8B3fa7d12",
-      "symbol": "KODACHI",
-      "name": "KodachiToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeEda5cfd963e6820fc13858Ef0F542729bf7f9e3",
       "symbol": "BLNT",
       "name": "BluntToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03f8f89496Ff681a7d221eBf06AD95caAb488716",
+      "symbol": "EDGERUNNER",
+      "name": "LUCY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9332,
-    "minor": 9332,
+    "major": 9333,
+    "minor": 9333,
     "patch": 84
   }
 }
