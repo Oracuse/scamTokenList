@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF5F6BBbC50F0EFf85114BEBcDcD2aF5d688aB86F",
-      "symbol": "ZILLADIN",
-      "name": "ZilladinToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB4921Fb90C93db3429355a39f6394487fe6C393F",
       "symbol": "DEJI",
       "name": "Deji",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90775626d26e44bd43d63E8d712Db24738197019",
+      "symbol": "NESHIBA",
+      "name": "NemeaShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9293,
-    "minor": 9293,
+    "major": 9294,
+    "minor": 9294,
     "patch": 84
   }
 }
