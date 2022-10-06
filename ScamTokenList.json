@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf665F598d062aeE1196854bFc25931714526C2F8",
-      "symbol": "USERS",
-      "name": "Users",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x081DC55C0F3F129FC1669F3Dae88D41F4b6290c2",
       "symbol": "CORP",
       "name": "TheCorporation",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7cdFA245694DA1747D40D6Be2051B3a319712a58",
+      "symbol": "SUSHIS",
+      "name": "SushiSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9170,
-    "minor": 9170,
+    "major": 9171,
+    "minor": 9171,
     "patch": 84
   }
 }
