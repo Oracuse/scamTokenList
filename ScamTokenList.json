@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x02f9Ca7A55CF54ca0Cb16042BE11d29513c3231A",
-      "symbol": "APTOS",
-      "name": "AptosCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe42dF978053f952512Af084Bef6b9203265A077E",
       "symbol": "BAKI",
       "name": "BAKI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3dDc7956E1ec5837a62A80118f8CaeCC89Ff67aC",
+      "symbol": "PDD",
+      "name": "pheidippides",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9245,
-    "minor": 9245,
+    "major": 9246,
+    "minor": 9246,
     "patch": 84
   }
 }
