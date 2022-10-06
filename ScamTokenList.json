@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7c7706255Ba6fDF07f6F6668B5A0fC10257A39E8",
-      "symbol": "THING",
-      "name": "Strange",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd70B930dcF56B6aA7D219eA8f101C6ea62ae31B3",
       "symbol": "KRAKATOA",
       "name": "Krakatoa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55d0ae73189aA6E1b0dFF0800F34466D96730006",
+      "symbol": "ALOKA",
+      "name": "ALoka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9229,
-    "minor": 9229,
+    "major": 9230,
+    "minor": 9230,
     "patch": 84
   }
 }
