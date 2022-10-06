@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4961d769529703DF2dCE3779E89c83E7ea64b26f",
-      "symbol": "POE",
-      "name": "PilgrimageofEntity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC2bF6af3eE7f23752be2f4d2d3eEe6e4C56AcfD8",
       "symbol": "SCATS",
       "name": "SUPERCATS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x120224bd972957731f1B99B164B26EE311528C54",
+      "symbol": "WETH",
+      "name": "WrappedBNBERC20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9359,
-    "minor": 9359,
+    "major": 9360,
+    "minor": 9360,
     "patch": 84
   }
 }
