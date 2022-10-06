@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9Fc6d58d06fCdf1Bc13c18a12f804DF9dF2D192E",
-      "symbol": "DOQAL",
-      "name": "DoQal",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf2640dDE8bB5c5071b27E027A424CAA7B4c9d253",
       "symbol": "TW",
       "name": "TWIZZLER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3F3e889086040ee1507f717fC22720134ED4c13",
+      "symbol": "CSI",
+      "name": "CreditSuisseInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9259,
-    "minor": 9259,
+    "major": 9260,
+    "minor": 9260,
     "patch": 84
   }
 }
