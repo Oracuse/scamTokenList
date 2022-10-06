@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0C2489F117AfE7c289e207d7e40F3B9607234fb7",
-      "symbol": "GALAHAD",
-      "name": "Galahad",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd8E1c9EE537C5b1a795AE40900C155B97a9500A3",
       "symbol": "LEVER",
       "name": "leverage",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20b7C91DB1dd3448D0a27Bc23587C50e6D468AEc",
+      "symbol": "666",
+      "name": "Diabolus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9300,
-    "minor": 9300,
+    "major": 9301,
+    "minor": 9301,
     "patch": 84
   }
 }
