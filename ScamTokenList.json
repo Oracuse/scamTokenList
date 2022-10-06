@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbdD4b81E6d6c2FDbe1f6AC656de38c9680a0386f",
-      "symbol": "LAIKA2",
-      "name": "Laika20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6D3311a76Ca95185dFD975CE47e2c42dF4B43113",
       "symbol": "LAIKABURN",
       "name": "LAIKABURN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa8AB5e9Ba5738d583BD4006cc4633f5ea7fb445",
+      "symbol": "SPOOKYDEJITARU",
+      "name": "SpookyDejitaru",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9262,
-    "minor": 9262,
+    "major": 9263,
+    "minor": 9263,
     "patch": 84
   }
 }
