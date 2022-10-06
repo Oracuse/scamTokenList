@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE0BA8B338D581C18bc2bB531c205755Edc527E82",
-      "symbol": "EV",
-      "name": "EscapeVelocity",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x001588A9BC2081Fa0614C92bf529E12F712AcD12",
       "symbol": "GOD",
       "name": "GOOFOLDDAYS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69d6e726FB07234ebc0Af35Eb2B304966de69a14",
+      "symbol": "SNAB",
+      "name": "CrabMarket",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9175,
-    "minor": 9175,
+    "major": 9176,
+    "minor": 9176,
     "patch": 84
   }
 }
