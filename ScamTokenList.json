@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFB5480E54d94AC0DBD2E2B23d66DD28fffd24906",
-      "symbol": "KARMA",
-      "name": "Zenith",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x775128C56D93FEe4b865702b7dAC4D30804b5A38",
       "symbol": "HELL",
       "name": "HELLBOY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39832e9B4851C76160D754267D4a169617C27d88",
+      "symbol": "THAND",
+      "name": "TheHand",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9137,
-    "minor": 9137,
+    "major": 9138,
+    "minor": 9138,
     "patch": 84
   }
 }
