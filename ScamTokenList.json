@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9FFDa4dc17429Ac0B03A7b57cfcc3Fc9F46bC04c",
-      "symbol": "HYDRO",
-      "name": "HydroMatic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD51A7e38f76d189503CeC79028579A30284Ec271",
       "symbol": "SULK",
       "name": "SheHUlk",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe250a3587efB5e8e39824a7834e7c343d3B5e7a0",
+      "symbol": "DCHAIN",
+      "name": "TsukaChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9156,
-    "minor": 9156,
+    "major": 9157,
+    "minor": 9157,
     "patch": 84
   }
 }
