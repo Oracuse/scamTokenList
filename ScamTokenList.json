@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x148304d2Dd3e3Be3A4873c40EA4f4DD3bAf48abc",
-      "symbol": "AHAB",
-      "name": "CaptainAhab",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFB5480E54d94AC0DBD2E2B23d66DD28fffd24906",
       "symbol": "KARMA",
       "name": "Zenith",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08e335BE6389684E8E06F358e1c55dBb18c08054",
+      "symbol": "MIZU",
+      "name": "Mizuchi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9136,
-    "minor": 9136,
+    "major": 9137,
+    "minor": 9137,
     "patch": 84
   }
 }
