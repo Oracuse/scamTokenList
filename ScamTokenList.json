@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x682111C81c135C4555310237e47B16ffA748DAF4",
-      "symbol": "TNT",
-      "name": "TNTINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x29D0BcA6e054F3203A4d8eAad192F4783F295AC7",
       "symbol": "FIESTA",
       "name": "TheParty",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD5F6f16543565c68CE4f32e8F86eb56EB11916f8",
+      "symbol": "MIB",
+      "name": "ETProtector",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9201,
-    "minor": 9201,
+    "major": 9202,
+    "minor": 9202,
     "patch": 84
   }
 }
