@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x19638B34ca0c8f8f026922483B293d68826BCe8f",
-      "symbol": "PURGE",
-      "name": "Purge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbc3872d46e445CC3BC6e390302e352c835833C3A",
       "symbol": "HYRA",
       "name": "HydraToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbe800304AD01F3E948Dd14fAFBA05CC5f72E6AD5",
+      "symbol": "KAKKAZAN",
+      "name": "GaifuKaisei",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9149,
-    "minor": 9149,
+    "major": 9150,
+    "minor": 9150,
     "patch": 84
   }
 }
