@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5D448aF8F797EC3E6DB909F143c7Ac1A927583Ad",
-      "symbol": "TSINU",
-      "name": "TsukaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC039b0B3187e7e7E8C444372D19D022968B625a4",
       "symbol": "NCNM",
       "name": "NeoConomy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x122D311773650D3A548c45D6C44307CC6E579161",
+      "symbol": "BFLOKI",
+      "name": "BnbFloki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9361,
-    "minor": 9361,
+    "major": 9362,
+    "minor": 9362,
     "patch": 84
   }
 }
