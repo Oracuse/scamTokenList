@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc813F8ab3932b458362AE2F8752c9dadf0620b04",
-      "symbol": "WHIRL",
-      "name": "Whirl",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5691f3a6acbA941C3D00dD5EA1bd45CD637bC071",
       "symbol": "FREYA",
       "name": "Freya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA223e8a8d445B5B9a2F477c00AE79267A8f94225",
+      "symbol": "MEME",
+      "name": "MemeProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9191,
-    "minor": 9191,
+    "major": 9192,
+    "minor": 9192,
     "patch": 84
   }
 }
