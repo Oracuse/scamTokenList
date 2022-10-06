@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x33Dd8199C174C0BC9D0330F3170c632C2B79E00d",
-      "symbol": "TENGU",
-      "name": "TENGU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2591b4fD90F62Dc73a96Be9dba2055748b0CDf5a",
       "symbol": "FUZANGLONG",
       "name": "Fuzanglong",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf39C0F019bC320d3890f0f513e8CB940A944D029",
+      "symbol": "KIKEN",
+      "name": "ADangerousJourney",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9255,
-    "minor": 9255,
+    "major": 9256,
+    "minor": 9256,
     "patch": 84
   }
 }
