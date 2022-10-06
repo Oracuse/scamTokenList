@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8f78EB42D7d77942F5E18A0c8b3D2Defae4c7C63",
-      "symbol": "AKIAL",
-      "name": "AKIAL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75265C3b9B8bfA678AF1D231c4Ed3B9D5B0a36c2",
       "symbol": "TSYGAN",
       "name": "TSYGAN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E2B8e7fa0b6fD9590B2D92bcD1c0a9c532048F5",
+      "symbol": "FUNDUSAFU",
+      "name": "FundsAreSafe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9354,
-    "minor": 9354,
+    "major": 9355,
+    "minor": 9355,
     "patch": 84
   }
 }
