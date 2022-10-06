@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeEda5cfd963e6820fc13858Ef0F542729bf7f9e3",
-      "symbol": "BLNT",
-      "name": "BluntToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x494893Ba40D93bDcA5D3d1Cf5f807f0085fA2422",
       "symbol": "AIM",
       "name": "Marxman",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x097EeC5F8a6C6E60D68112A87d222539025BD39d",
+      "symbol": "32APES",
+      "name": "32Monkeys",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9333,
-    "minor": 9333,
+    "major": 9334,
+    "minor": 9334,
     "patch": 84
   }
 }
