@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6ef4297B187D1997CcEb12Ee7Db74944bB409175",
-      "symbol": "TAQUA",
-      "name": "Taqua",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x36FF43b66572EEf3485116cF89767c75F97538b9",
       "symbol": "MONA",
       "name": "MONA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89fb029fBF57dda4fd3786750cE8cfbaFdEeFb12",
+      "symbol": "GN",
+      "name": "GoodNight",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9308,
-    "minor": 9308,
+    "major": 9309,
+    "minor": 9309,
     "patch": 84
   }
 }
