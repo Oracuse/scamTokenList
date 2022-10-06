@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE0a2BE01f8330F56D6687458504081436BFD71BE",
-      "symbol": "KIMBU",
-      "name": "KimbuToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80db2BE21a98BB425E39cFc769D8aB13Cf9b78CD",
       "symbol": "MYST",
       "name": "Mystereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6587003a4B59e58876f6CefF1b33B6c7C4D2b4C",
+      "symbol": "THANOS",
+      "name": "TheAnounceOfShiba",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9168,
-    "minor": 9168,
+    "major": 9169,
+    "minor": 9169,
     "patch": 84
   }
 }
