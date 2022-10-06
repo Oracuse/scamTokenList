@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x95e01AafC27f2C0D9a1AA435bd220E617c2718f0",
-      "symbol": "HYRA",
-      "name": "HydraToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5Ed6a792F2D0562D6dFFa0aF656d8Af422f8d25B",
       "symbol": "STEELINU",
       "name": "SteelInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd62552a6FC25B8f08b1b2e1c9173a2208682aA0C",
+      "symbol": "SUSHO",
+      "name": "Susho",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9146,
-    "minor": 9146,
+    "major": 9147,
+    "minor": 9147,
     "patch": 84
   }
 }
