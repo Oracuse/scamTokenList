@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xee919213c2ef7A16810F7e9eb6044E89A39A620A",
-      "symbol": "CARIBANA",
-      "name": "Caribana",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDd13B15f1517B7dD4e30C0464AF13a2233465179",
       "symbol": "CARIBANA",
       "name": "Caribana",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD79932dd606aD026AfD37189F66764055aCE9019",
+      "symbol": "DB",
+      "name": "DontBuy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9151,
-    "minor": 9151,
+    "major": 9152,
+    "minor": 9152,
     "patch": 84
   }
 }
