@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x071Ce7aa548c9BACFe719dA10979fAe3e78fD444",
-      "symbol": "BTCST",
-      "name": "BTCST",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xccea0ce96e2f5eC562B9952293c06DEc38c36706",
       "symbol": "RED",
       "name": "REDETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0edA6C7be1fEe554F44E19a1eCc99521392E738b",
+      "symbol": "GTI",
+      "name": "GOLDENTREEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9269,
-    "minor": 9269,
+    "major": 9270,
+    "minor": 9270,
     "patch": 84
   }
 }
