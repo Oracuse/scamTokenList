@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67c6e1A93AC4E36383504f9168cbf3e983E867b9",
-      "symbol": "MUSASHI",
-      "name": "MUSASHI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa44409806B6b9F6CEa4783ebE7DbBEbBcfedA606",
       "symbol": "KCHI",
       "name": "Kodachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38c4687b5a58bDC3F4f7ea6B5305d681Fa29030c",
+      "symbol": "AUTH",
+      "name": "Authenticator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9264,
-    "minor": 9264,
+    "major": 9265,
+    "minor": 9265,
     "patch": 84
   }
 }
