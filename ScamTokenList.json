@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbc3872d46e445CC3BC6e390302e352c835833C3A",
-      "symbol": "HYRA",
-      "name": "HydraToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xee919213c2ef7A16810F7e9eb6044E89A39A620A",
       "symbol": "CARIBANA",
       "name": "Caribana",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfB9581B6a9c636651739d2E6C070D9387c9DeAEB",
+      "symbol": "CHANT",
+      "name": "Decantate",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9150,
-    "minor": 9150,
+    "major": 9151,
+    "minor": 9151,
     "patch": 84
   }
 }
