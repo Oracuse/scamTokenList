@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc0E4431d51F8B8F2fF9809BD0C5C895726038977",
-      "symbol": "TNT",
-      "name": "TNT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x071Ce7aa548c9BACFe719dA10979fAe3e78fD444",
       "symbol": "BTCST",
       "name": "BTCST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0D3C88aAfAC06BfC6C1AA3F450951f14D5d8051D",
+      "symbol": "SPADE",
+      "name": "TheSpade",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9268,
-    "minor": 9268,
+    "major": 9269,
+    "minor": 9269,
     "patch": 84
   }
 }
