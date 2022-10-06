@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x103A1C682AC3fFc4a446e73492F0Cea706383955",
-      "symbol": "HYPER",
-      "name": "HyperFinance",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE0BA8B338D581C18bc2bB531c205755Edc527E82",
       "symbol": "EV",
       "name": "EscapeVelocity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb2bDB543b2a7faBc5ed1bEb4d8C09832BBC88Fa",
+      "symbol": "POMSHINJA",
+      "name": "ProofOfMemesShinja",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9174,
-    "minor": 9174,
+    "major": 9175,
+    "minor": 9175,
     "patch": 84
   }
 }
