@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD669D27eE20E7a387846F6934072458a57bB6cEF",
-      "symbol": "0",
-      "name": "Nothing",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb1A1A145d25818a0129f6A1406966eC6bee64639",
       "symbol": "D3OT",
       "name": "D3ot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71982d4E8bfbd5aafbfd432E1C012e1b8F0856C5",
+      "symbol": "WUKONG",
+      "name": "SunWukong",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9314,
-    "minor": 9314,
+    "major": 9315,
+    "minor": 9315,
     "patch": 84
   }
 }
