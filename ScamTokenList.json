@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9ebd348E2dD810eb2C82E4678f008bDb11Eb24e6",
-      "symbol": "WAKA",
-      "name": "WAKABURN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x108F8CC08313C2FbC25934C01b969f2Cf0b04e04",
       "symbol": "HELL",
       "name": "HELLBOY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x052c02eaf2De5d123585dCfE6217BA7a085F4a97",
+      "symbol": "SHIYORI",
+      "name": "ThePathofDarkness",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9140,
-    "minor": 9140,
+    "major": 9141,
+    "minor": 9141,
     "patch": 84
   }
 }
