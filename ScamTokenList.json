@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe42dF978053f952512Af084Bef6b9203265A077E",
-      "symbol": "BAKI",
-      "name": "BAKI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4fd1ba20356b5908E1c6A035991D1DE5042ECd01",
       "symbol": "PARLY",
       "name": "Parly",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF9a6Ef3ec627C17dB265A8871BA60bcF907754e7",
+      "symbol": "COMOSITY",
+      "name": "ComosityBank",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9246,
-    "minor": 9246,
+    "major": 9247,
+    "minor": 9247,
     "patch": 84
   }
 }
