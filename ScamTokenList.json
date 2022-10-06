@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeB5af96e259A0A0BF9942619E0faEd0a2dbE1142",
-      "symbol": "BUDAI",
-      "name": "BudaiToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x54211C4cf8B72d77fE6337771c80006235932A11",
       "symbol": "INKIGAYO",
       "name": "INKIGAYO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA72b46EbB7F686a9e6eaB6042001FacAA03515Ef",
+      "symbol": "SOSHIWORLD",
+      "name": "ShiyoshisWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9327,
-    "minor": 9327,
+    "major": 9328,
+    "minor": 9328,
     "patch": 84
   }
 }
