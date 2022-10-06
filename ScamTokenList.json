@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB9563D095432E609A88D0d358efAAc55E5a11c16",
-      "symbol": "KHEOPS",
-      "name": "Kheops",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE2Cba126666Dd86f1e21586724042c4881018d05",
       "symbol": "DAMON",
       "name": "DAMON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x263553Dd6F4Fd0b157ef5127E3B9e28352831e33",
+      "symbol": "IFT2",
+      "name": "infiniteprotocol2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9186,
-    "minor": 9186,
+    "major": 9187,
+    "minor": 9187,
     "patch": 84
   }
 }
