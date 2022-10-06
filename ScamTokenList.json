@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x41F38e00665686233C1a72192843affdA6649268",
-      "symbol": "MANGOGROW",
-      "name": "MangoGrow",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4493A4c979078f8eE43E7cBa1E6E86cb30C2C4Ee",
       "symbol": "WAIKA",
       "name": "WHITELAIKA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa692bb2313a8168cCF8DC5F5638e9949b6f68444",
+      "symbol": "MIRAGE",
+      "name": "MIRAGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9352,
-    "minor": 9352,
+    "major": 9353,
+    "minor": 9353,
     "patch": 84
   }
 }
