@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0601388fe0dBcB9E6439F5a6b9FC0fD343D92Ea",
-      "symbol": "OBSVR",
-      "name": "Corrupt",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4de6233dAA30d2b08cd1949E7b11eC91d6A100B7",
       "symbol": "VALU",
       "name": "Valueless",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x096C834A02CB02EC09CE8746B70372c61d1665E3",
+      "symbol": "POMSHIBA",
+      "name": "POMShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9291,
-    "minor": 9291,
+    "major": 9292,
+    "minor": 9292,
     "patch": 84
   }
 }
