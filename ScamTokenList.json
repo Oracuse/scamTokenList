@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBD6116cF829aDFC131Ec09b996e53CD41389D774",
-      "symbol": "SAXON",
-      "name": "Saxon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeBfE8442591545906e5404F22A8E8B7644CAca5e",
       "symbol": "BW",
       "name": "BWETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFFD3f551E189Cf01f5Fdc36EDA30a093b40BFE6a",
+      "symbol": "SHINJI",
+      "name": "ShinjiHirakoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9215,
-    "minor": 9215,
+    "major": 9216,
+    "minor": 9216,
     "patch": 84
   }
 }
