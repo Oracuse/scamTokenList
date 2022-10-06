@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf7A6b73a6fEAcC0FCF88FAc2B3523185343d948d",
-      "symbol": "SASHIMI",
-      "name": "SashimiSwap",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x61DF5163be677BF80C800959e5F29b7Edff8293F",
       "symbol": "BION6",
       "name": "TheMonkeysInSpace",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71899C95d795D6B5706392063b095bB66028C7d2",
+      "symbol": "BYE",
+      "name": "ByenanceInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9350,
-    "minor": 9350,
+    "major": 9351,
+    "minor": 9351,
     "patch": 84
   }
 }
