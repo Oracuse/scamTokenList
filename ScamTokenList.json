@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x10B99dfC70215E6b66d50490108b44365186febD",
-      "symbol": "X2CODE",
-      "name": "X2Code",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9CdC000b8a2Ae671027482c0b29C95d00c40Ec4F",
       "symbol": "DOWN",
       "name": "down",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5c08aeE5006Af574D36c9F6568bb132a2ae3D32",
+      "symbol": "FINU",
+      "name": "FinoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9274,
-    "minor": 9274,
+    "major": 9275,
+    "minor": 9275,
     "patch": 84
   }
 }
