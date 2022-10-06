@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAFa5F7d168bC36c9e33e3816a84239A287Ba9C6A",
-      "symbol": "GOLD",
-      "name": "TehGoldenBitcoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08FaDE879c9d93FFA3D79E37340d535264B71d4B",
       "symbol": "INABA",
       "name": "HareofInaba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8580877aF79429E4fbE3e7103c7d2E1Ed5b907E5",
+      "symbol": "POSHI",
+      "name": "POMSHIB",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9217,
-    "minor": 9217,
+    "major": 9218,
+    "minor": 9218,
     "patch": 84
   }
 }
