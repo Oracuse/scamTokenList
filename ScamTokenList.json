@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7c98734dB1c2951C46E507274DC91b3AEFe6724F",
-      "symbol": "INVERTED",
-      "name": "TheUpsideDown",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8471737Caca8F0A28A88BD48B5f125749B6beb4d",
       "symbol": "GMDAO",
       "name": "gmDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfdEb510CfDdE7d5b48fFb6D59f4DeDa28C3133EB",
+      "symbol": "TWITTER",
+      "name": "Twitter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9227,
-    "minor": 9227,
+    "major": 9228,
+    "minor": 9228,
     "patch": 84
   }
 }
