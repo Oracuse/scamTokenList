@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x33348Cb0FB639EA56FBbCcB95F8946D29f2ED3f1",
-      "symbol": "WALANG",
-      "name": "WalangToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x038262B4499BbE30aeFED2bbB08dfA5b84D2C6B8",
       "symbol": "BJAVA",
       "name": "BabyJava",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE287D4a7C7c0bF09dce121159482D9b87c0005bA",
+      "symbol": "MCC",
+      "name": "MemeCoinClub",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9289,
-    "minor": 9289,
+    "major": 9290,
+    "minor": 9290,
     "patch": 84
   }
 }
