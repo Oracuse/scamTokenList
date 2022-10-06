@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeBfE8442591545906e5404F22A8E8B7644CAca5e",
-      "symbol": "BW",
-      "name": "BWETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAFa5F7d168bC36c9e33e3816a84239A287Ba9C6A",
       "symbol": "GOLD",
       "name": "TehGoldenBitcoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ED1ADb35870066867c78118a23df3392dA2a664",
+      "symbol": "FLOKINAMI",
+      "name": "Flokinami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9216,
-    "minor": 9216,
+    "major": 9217,
+    "minor": 9217,
     "patch": 84
   }
 }
