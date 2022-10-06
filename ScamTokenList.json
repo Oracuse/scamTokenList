@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6D5Cdfa6E40b9c69881c9871811B59Ad1f0f9a1b",
-      "symbol": "WARME",
-      "name": "Warme",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90c645A45B1C5Fb867CfF4f8d5342230c15fbA4A",
       "symbol": "SHINURI",
       "name": "Shinuri",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8ac9dE1D4a871133907c4e8B8303D17826c9bfA",
+      "symbol": "EL",
+      "name": "EnhancedLiquidity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9271,
-    "minor": 9271,
+    "major": 9272,
+    "minor": 9272,
     "patch": 84
   }
 }
