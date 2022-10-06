@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7c3037c0f4E29265D26ba685b12961A45ccB351f",
-      "symbol": "DOGNOMIC",
-      "name": "DOGENOMICS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7F974dD7b5b8d25198F9Df776bBF5cADB6D3C462",
       "symbol": "AM",
       "name": "AM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF70DA37f6D6C1Be42c81E9Fc5B6c1bbef4F54fE6",
+      "symbol": "KITSUNE",
+      "name": "KitsuneMask",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9160,
-    "minor": 9160,
+    "major": 9161,
+    "minor": 9161,
     "patch": 84
   }
 }
