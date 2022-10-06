@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC2bF6af3eE7f23752be2f4d2d3eEe6e4C56AcfD8",
-      "symbol": "SCATS",
-      "name": "SUPERCATS",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5D448aF8F797EC3E6DB909F143c7Ac1A927583Ad",
       "symbol": "TSINU",
       "name": "TsukaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0CcDf45b7e2F683f5068AdC1a5f6Afde8076022",
+      "symbol": "BNBUST",
+      "name": "BnBUST",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9360,
-    "minor": 9360,
+    "major": 9361,
+    "minor": 9361,
     "patch": 84
   }
 }
