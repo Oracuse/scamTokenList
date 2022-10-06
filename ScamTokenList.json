@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf79f43aD607f94b833dE39DCdcAB8994aF4Db1D5",
-      "symbol": "SAINYI",
-      "name": "SAINYINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x340021BE23a764bBEf5d787bbF349f5C3613f25d",
       "symbol": "DIDA",
       "name": "DiDa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55Cb1ad49A152503fe2203dae91E29CCc45Faa34",
+      "symbol": "REFINU",
+      "name": "ReferendumInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9231,
-    "minor": 9231,
+    "major": 9232,
+    "minor": 9232,
     "patch": 84
   }
 }
