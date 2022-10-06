@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4220ed25e4fC7ac2858990e390F6814Bb87A39Fe",
-      "symbol": "HARU",
-      "name": "Harumoi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x34357da6381B733815D0F1FdB4D9E7fa367127C6",
       "symbol": "TARO",
       "name": "UrashimaTaro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6f5AD2eFaA5BE740A77fC9945021bB617b33FfB",
+      "symbol": "FMOON",
+      "name": "FullMoon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9235,
-    "minor": 9235,
+    "major": 9236,
+    "minor": 9236,
     "patch": 84
   }
 }
