@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC08b33C558b682f81Aeff29860c91a34f83DD9b0",
-      "symbol": "BERG",
-      "name": "Icethereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0C2489F117AfE7c289e207d7e40F3B9607234fb7",
       "symbol": "GALAHAD",
       "name": "Galahad",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E34EaBBa54C8f6651E88690dCaC053141573dB2",
+      "symbol": "SPIRIT",
+      "name": "Tokumei",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9299,
-    "minor": 9299,
+    "major": 9300,
+    "minor": 9300,
     "patch": 84
   }
 }
