@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3a29eC072d58C92AcF3557f943dBE91B86D47965",
-      "symbol": "CSFI",
-      "name": "CoinStore",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x52190CA370fbB3b354976E7900e9B6787BC7D240",
       "symbol": "AIM",
       "name": "Marxman",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB2E30f22753783A3fAA6daC3F27e1c5c67656019",
+      "symbol": "KRAAA",
+      "name": "ANewBloodBeckons",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9452,
-    "minor": 9452,
+    "major": 9453,
+    "minor": 9453,
     "patch": 84
   }
 }
