@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25abb89c2EE36883d6c393682476c567934711c7",
-      "symbol": "EVOAN",
-      "name": "AugmentedEvo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x92F95e0f498F6A5f39622075d3Bf8A07AfE082B3",
       "symbol": "SOWL",
       "name": "SAMURAIOWL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B18f580c7ED5DD3887E7731359211028e951D9a",
+      "symbol": "SHIBGADO",
+      "name": "ShibsamaProtector",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9398,
-    "minor": 9398,
+    "major": 9399,
+    "minor": 9399,
     "patch": 84
   }
 }
