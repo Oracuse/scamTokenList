@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdd3540674EC15B0D2C593AE87803B34e9f180Bd0",
-      "symbol": "MOONOPEDIA",
-      "name": "MOONOPEDIA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeFB1B48c46726Db3ac5C641DDf0103cB40a9142F",
       "symbol": "PKX",
       "name": "PokerXToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49fF8058e8DC176cAE01c672E4B2175858C4aa45",
+      "symbol": "ETHTAS",
+      "name": "Danzayemon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9476,
-    "minor": 9476,
+    "major": 9477,
+    "minor": 9477,
     "patch": 84
   }
 }
