@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76E22e24E0705C3d13eD1D61c883026Ace957DA5",
-      "symbol": "CLACK",
-      "name": "SNAKEEYES",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF7Ec7B7f43fF97959554E790924E534BB7C556a7",
       "symbol": "KODACHI",
       "name": "KodachiToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa451EB53E1EA9176F6130ACe19C1C39704EfEd1E",
+      "symbol": "BTAMA",
+      "name": "BabyTama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9450,
-    "minor": 9450,
+    "major": 9451,
+    "minor": 9451,
     "patch": 84
   }
 }
