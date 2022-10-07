@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE484Ee669b99299FBAAef7d3b85F5B112917f00B",
-      "symbol": "TOYOTAMA",
-      "name": "ToyotamaHime",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7f763DDF1594A0A247b3715B83bDba4166DE5B68",
       "symbol": "SS",
       "name": "SquidSaudi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74339A6fFc3a5A89E25dC6F5a9c4C2DD106fa0D5",
+      "symbol": "MICRO",
+      "name": "MACRO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9523,
-    "minor": 9523,
+    "major": 9524,
+    "minor": 9524,
     "patch": 84
   }
 }
