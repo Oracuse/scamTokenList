@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE59e514E93e30B8B44078517d71921C2BA523D1f",
-      "symbol": "REBEL",
-      "name": "Rebel",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25abb89c2EE36883d6c393682476c567934711c7",
       "symbol": "EVOAN",
       "name": "AugmentedEvo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7783D98903bcaa2B5d1cd6f97da2F393251223F",
+      "symbol": "PORTIN",
+      "name": "PORTIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9397,
-    "minor": 9397,
+    "major": 9398,
+    "minor": 9398,
     "patch": 84
   }
 }
