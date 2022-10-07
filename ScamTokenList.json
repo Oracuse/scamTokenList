@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x39e5D1EefD1941eCBCEFa6BD1750fA1Db739695d",
-      "symbol": "CULT",
-      "name": "Cult",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd8B4CF387CEAd15c1e37EF226a36B68a210C28cB",
       "symbol": "SUNI",
       "name": "SUNICOINORG",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3863566e48EDEC59380B91288b7a2b892Ce42e06",
+      "symbol": "QI",
+      "name": "Chi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9506,
-    "minor": 9506,
+    "major": 9507,
+    "minor": 9507,
     "patch": 84
   }
 }
