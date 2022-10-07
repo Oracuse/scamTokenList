@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0A789B17e2CBE832BcBc6578A8aB2F3707eC6ac9",
-      "symbol": "HATSUNE",
-      "name": "Hatsune",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1eB7b2A1a2EFc1844066F80654AD1A39f563cE76",
       "symbol": "BURRATA",
       "name": "Burrata",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E3410ED4E95dbf0057BfF149EBE9ca6a588Bf6D",
+      "symbol": "WNXMS",
+      "name": "NexusnMutual",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9405,
-    "minor": 9405,
+    "major": 9406,
+    "minor": 9406,
     "patch": 84
   }
 }
