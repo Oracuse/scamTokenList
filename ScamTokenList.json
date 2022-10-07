@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x92F95e0f498F6A5f39622075d3Bf8A07AfE082B3",
-      "symbol": "SOWL",
-      "name": "SAMURAIOWL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76742DAeD7B6B958d21bBaa0F12509a3Ba2e9897",
       "symbol": "SBLM",
       "name": "SUBLIME",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75E2601577486B9b574588CD5814Ef5951E77Cc6",
+      "symbol": "FLAMESCAPE",
+      "name": "FlameScape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9399,
-    "minor": 9399,
+    "major": 9400,
+    "minor": 9400,
     "patch": 84
   }
 }
