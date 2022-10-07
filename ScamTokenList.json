@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC039b0B3187e7e7E8C444372D19D022968B625a4",
-      "symbol": "NCNM",
-      "name": "NeoConomy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73A6bE3C2929dA74A91291e9132311C63265934d",
       "symbol": "SCATS",
       "name": "SUPERCATS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa89EC565519Ca6758048a55C5bB1e554Eb1AC9c6",
+      "symbol": "BABYBNB",
+      "name": "BabyBNB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9362,
-    "minor": 9362,
+    "major": 9363,
+    "minor": 9363,
     "patch": 84
   }
 }
