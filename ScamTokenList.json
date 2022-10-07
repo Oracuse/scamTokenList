@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8A284B0f26710496559e5655076f7252e672E237",
-      "symbol": "SC",
-      "name": "SuperCats",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3Ec5e4C628f94aD4c90A712e8a185Cc2eCF2900B",
       "symbol": "BPURGE",
       "name": "BurnPurge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x579d71A964ABa678B902386f3E0e2Ff9D7719806",
+      "symbol": "TTP",
+      "name": "TehTsukaPlay",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9376,
-    "minor": 9376,
+    "major": 9377,
+    "minor": 9377,
     "patch": 84
   }
 }
