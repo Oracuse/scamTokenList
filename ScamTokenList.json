@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x78034C91c693152AF5395bac06470a7e348a74a3",
-      "symbol": "KODACHI",
-      "name": "KodachiToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xba69c5B5349B3ACC05C1630555304E3c3BEEF434",
       "symbol": "REMAIN",
       "name": "Future",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54992853DC100832921E2D6f37f188f8bCf71Ce8",
+      "symbol": "AKASHICINU",
+      "name": "AkashicInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9388,
-    "minor": 9388,
+    "major": 9389,
+    "minor": 9389,
     "patch": 84
   }
 }
