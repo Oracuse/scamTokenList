@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3F68210cc746408E5d8A037415CC0af5e2CC2E17",
-      "symbol": "RPS",
-      "name": "RockPaperScissors",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa7514635270ABF31DC07Be8A70664650106540c0",
       "symbol": "CHONK",
       "name": "ChonkToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD99F01dcd426Bb60D253F22eb92c4DA2B907D7e2",
+      "symbol": "ISOGASHI",
+      "name": "Isogashi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9372,
-    "minor": 9372,
+    "major": 9373,
+    "minor": 9373,
     "patch": 84
   }
 }
