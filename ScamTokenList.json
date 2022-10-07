@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4A0D3237460752A9E2134c9A92B1aBA34298514A",
-      "symbol": "FCKED",
-      "name": "DONTBUY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0974dAf28dDd3DDD8342b95217A68aA7690ecf92",
       "symbol": "KURAMA",
       "name": "Kurama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaF55252aE996A4C2219dA5B0AD70E37143CFC9c4",
+      "symbol": "RENGA",
+      "name": "RENGA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9483,
-    "minor": 9483,
+    "major": 9484,
+    "minor": 9484,
     "patch": 84
   }
 }
