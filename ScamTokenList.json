@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9E468a1d46329dfE8c4B07599661282A8885c44e",
-      "symbol": "VITALIK",
-      "name": "VitalikInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA8435B54fB12D3b52383F4c2C3294832Da9E03dC",
       "symbol": "QUINN",
       "name": "Quinn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2e66082a96f303D3D20d1e402d30f4839dEcB49",
+      "symbol": "MCKINLEY",
+      "name": "MCKINLEY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9393,
-    "minor": 9393,
+    "major": 9394,
+    "minor": 9394,
     "patch": 84
   }
 }
