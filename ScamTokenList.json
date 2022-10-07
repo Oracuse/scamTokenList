@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8Cc5d983444f7b6251B480F8624F07Eed5a060d1",
-      "symbol": "MUTSUKI",
-      "name": "TOORU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0A789B17e2CBE832BcBc6578A8aB2F3707eC6ac9",
       "symbol": "HATSUNE",
       "name": "Hatsune",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28457A1b6E4633B7d47490aC8F1df7ccD78a7549",
+      "symbol": "STN",
+      "name": "StareumNetwork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9404,
-    "minor": 9404,
+    "major": 9405,
+    "minor": 9405,
     "patch": 84
   }
 }
