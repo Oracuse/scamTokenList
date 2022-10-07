@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2b9024D83c327B5012f54829eD283b110DeE5140",
-      "symbol": "DDV",
-      "name": "DogeDoriansVision",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x32ecC532e76a0A769F7494AED8B9B3fda06852CB",
       "symbol": "TEST",
       "name": "Test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58d109d288419900B8CFf363976B8a1758Bb77F6",
+      "symbol": "PLEDGED",
+      "name": "BloodMoon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9461,
-    "minor": 9461,
+    "major": 9462,
+    "minor": 9462,
     "patch": 84
   }
 }
