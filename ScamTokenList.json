@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd67a9F6c59e6C2A49B8D224d2D7C2618Ad60b1B7",
-      "symbol": "POTARA",
-      "name": "Potara",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5C03acF6c051916e7E0a8Cda52d992f11c85C332",
       "symbol": "CULTV",
       "name": "CultVibe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02BfeD0E1b1186e80Ea3c74b43b22ffde8F8238a",
+      "symbol": "PENGUIN",
+      "name": "PEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9374,
-    "minor": 9374,
+    "major": 9375,
+    "minor": 9375,
     "patch": 84
   }
 }
