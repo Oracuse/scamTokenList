@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1Acf8f5e63a7b5BE2FA109374fe0E43f519ABC88",
-      "symbol": "CHESS",
-      "name": "ChessPlay",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7c3CDCf99cFEd3Cb79BB899F4470ef1A7D208963",
       "symbol": "SAXON",
       "name": "SaxonDao",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Bd74baf9a65044cFca733d0a21A3D2613d40b28",
+      "symbol": "AOA",
+      "name": "AngelsofAymathos",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9521,
-    "minor": 9521,
+    "major": 9522,
+    "minor": 9522,
     "patch": 84
   }
 }
