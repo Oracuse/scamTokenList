@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe4D8f60684D9b24110b028D05f4437d21C369a83",
-      "symbol": "FLOKIGROW",
-      "name": "FlokiGrow",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB82d74528De4C13f92BD517f5182c193482C00bD",
       "symbol": "SAORI",
       "name": "WhiteSand",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x090FC4D5436D98E13473c4d6109De6A18BCfB0d4",
+      "symbol": "SKY",
+      "name": "TheSkyToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9514,
-    "minor": 9514,
+    "major": 9515,
+    "minor": 9515,
     "patch": 84
   }
 }
