@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDD5B3b101d782DF0c740303E20d8A9b1f5c766cc",
-      "symbol": "KOSOVO",
-      "name": "KOSOVO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17bFD84E4d90Fc0547ED1458a09b4BE05B0D156F",
       "symbol": "NAKAMA",
       "name": "NAKAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22dA4fF61e0be9d7c4280D62cECED759413507B1",
+      "symbol": "DOGERING",
+      "name": "DogeRing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9430,
-    "minor": 9430,
+    "major": 9431,
+    "minor": 9431,
     "patch": 84
   }
 }
