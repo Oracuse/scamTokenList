@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF7Ec7B7f43fF97959554E790924E534BB7C556a7",
-      "symbol": "KODACHI",
-      "name": "KodachiToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3a29eC072d58C92AcF3557f943dBE91B86D47965",
       "symbol": "CSFI",
       "name": "CoinStore",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6D4D725e4e9D306e2864ec16cBE5E4abdCd0CB01",
+      "symbol": "ITANIMULLI",
+      "name": "illuminati",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9451,
-    "minor": 9451,
+    "major": 9452,
+    "minor": 9452,
     "patch": 84
   }
 }
