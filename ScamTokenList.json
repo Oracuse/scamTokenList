@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7f50c9E55FDC437D1aebeEdd635263EaA6aC9Fa3",
-      "symbol": "SUPERCATS",
-      "name": "SUPERCATS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5BD2B74997dAF91e051cFb00f690feDCa62bE66f",
       "symbol": "LAIBURN",
       "name": "LaikaBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBdc9A1453eD211Ceb324935dE6D82dE670Cf2068",
+      "symbol": "SIGAMI",
+      "name": "SigamiClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9379,
-    "minor": 9379,
+    "major": 9380,
+    "minor": 9380,
     "patch": 84
   }
 }
