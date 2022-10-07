@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x32ecC532e76a0A769F7494AED8B9B3fda06852CB",
-      "symbol": "TEST",
-      "name": "Test",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9536a78Eb4Ca675a672d546710D6044366340255",
       "symbol": "PRISM",
       "name": "PRISM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcAB676E52CCdde37912AdC5ee6385D387a142E8B",
+      "symbol": "FLAMESCAPE",
+      "name": "FlameScape",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9462,
-    "minor": 9462,
+    "major": 9463,
+    "minor": 9463,
     "patch": 84
   }
 }
