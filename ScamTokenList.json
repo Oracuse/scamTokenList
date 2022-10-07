@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1b93eC9f009d6eaFFAd735A15C09669F3bDA3952",
-      "symbol": "CHANT",
-      "name": "ChantForGrant",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42956624A19eAaF9De2CE37eE05EF45C331fd9F6",
       "symbol": "BALLSDAO",
       "name": "BallsDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x899aacb6B6eDf8466C12561bf62B110161536f68",
+      "symbol": "DKINU",
+      "name": "DogKwonInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9508,
-    "minor": 9508,
+    "major": 9509,
+    "minor": 9509,
     "patch": 84
   }
 }
