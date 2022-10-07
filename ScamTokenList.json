@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42956624A19eAaF9De2CE37eE05EF45C331fd9F6",
-      "symbol": "BALLSDAO",
-      "name": "BallsDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x779fe78bcFeBce5445179ce09d006efd3F934F25",
       "symbol": "TLZ",
       "name": "TheLastZero",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04eB0eF162f37e741379cdAD5A8d97585445Dd00",
+      "symbol": "UZUKI",
+      "name": "Uzuki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9509,
-    "minor": 9509,
+    "major": 9510,
+    "minor": 9510,
     "patch": 84
   }
 }
