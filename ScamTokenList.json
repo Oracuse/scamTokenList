@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17bFD84E4d90Fc0547ED1458a09b4BE05B0D156F",
-      "symbol": "NAKAMA",
-      "name": "NAKAMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9712f4cAdcCc574a8D33A4cc225680d0Eae732db",
       "symbol": "FOMO",
       "name": "FOMOCOIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcbFD16E6C2338cf5059151F7e337634a8D345d86",
+      "symbol": "JACK",
+      "name": "JackOLantern",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9431,
-    "minor": 9431,
+    "major": 9432,
+    "minor": 9432,
     "patch": 84
   }
 }
