@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa855a3b3E4A84cc79f555191Be2b64299BEDc085",
-      "symbol": "YNLP",
-      "name": "YNLP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6953f996026d291b0882213f7aD84c2b13B8cDBd",
       "symbol": "MMINT",
       "name": "MirrorMint",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf6ce982195Ae5961B561bE43066ADFCE0169E966",
+      "symbol": "NASA",
+      "name": "NoAliensSeenAnywher",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9479,
-    "minor": 9479,
+    "major": 9480,
+    "minor": 9480,
     "patch": 84
   }
 }
