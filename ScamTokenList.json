@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x987Ad245C0d1b71455427D58B07aB89A6Dab16E8",
-      "symbol": "OPAR",
-      "name": "OpaR",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6bB54f2B538DE6C0BA8d5f72BB6fF29e75AD7ADE",
       "symbol": "COFU",
       "name": "Coinfuel",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49D85D64D3EeB2aA39C6dba6D38882D5C60B08C2",
+      "symbol": "CC",
+      "name": "CarbonCopy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9448,
-    "minor": 9448,
+    "major": 9449,
+    "minor": 9449,
     "patch": 84
   }
 }
