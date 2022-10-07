@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2e8F7Dc8A750F5b9CCd5bA3fFB8485e6d75F1E0e",
-      "symbol": "UEF",
-      "name": "UniversalEthFund",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1106013F9A7c3Eb9690A6a3DcB0f1c7502c6944d",
       "symbol": "GRINGOTTS",
       "name": "Gringotts",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73d9FF35A051B6d3c92949794B203209060470AC",
+      "symbol": "TSYNC",
+      "name": "Tsync",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9435,
-    "minor": 9435,
+    "major": 9436,
+    "minor": 9436,
     "patch": 84
   }
 }
