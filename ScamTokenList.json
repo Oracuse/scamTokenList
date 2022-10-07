@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87C07Ace6A097DD23aCAc671e75318d0857680C3",
-      "symbol": "BONER",
-      "name": "Bonereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe564dAFa5f66eEA047233E7A34bd210B7366BAb4",
       "symbol": "KODACHI",
       "name": "Kodachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe11D845192Bcf071d8d9b2772875B2814535553D",
+      "symbol": "BNB20",
+      "name": "ProofofSafu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9369,
-    "minor": 9369,
+    "major": 9370,
+    "minor": 9370,
     "patch": 84
   }
 }
