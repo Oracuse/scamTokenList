@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x90e3ec902F091bFbaB283FCBdC63Cbc5942f1dBe",
-      "symbol": "BULLRUN",
-      "name": "BULLRUN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeBde2153Ad4504c8Bf97C20675DAa86a8A827E8F",
       "symbol": "HOOK",
       "name": "FinalCast",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE21224ebc10218d2267574201e512c1732B502Db",
+      "symbol": "INODE",
+      "name": "iNode512",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9501,
-    "minor": 9501,
+    "major": 9502,
+    "minor": 9502,
     "patch": 84
   }
 }
