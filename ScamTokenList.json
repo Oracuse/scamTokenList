@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x72f989f215824bBCD6BAef38CE827AD27E6BD39f",
-      "symbol": "SM",
-      "name": "Supermojo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfA7d3bEe90f2f920dB383731AE197765A35Cdb41",
       "symbol": "VERGE",
       "name": "Verge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x522C10D60B1c0F751700C44DceAf58058078D3D9",
+      "symbol": "SHUGART",
+      "name": "TheShugart",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9366,
-    "minor": 9366,
+    "major": 9367,
+    "minor": 9367,
     "patch": 84
   }
 }
