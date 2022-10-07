@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF9e6B1C7830Ee17edB7dfAD526f4EEFFA165253b",
-      "symbol": "POZALY",
-      "name": "PozalyToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x47377310109C9c536e26E4942CA3b8917BD11b69",
       "symbol": "ELONMUM",
       "name": "ElonMum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3c3C97668e7615475eB108E2D3AB1093b4C56245",
+      "symbol": "ZOMBIEPETS",
+      "name": "ZombiePets",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9527,
-    "minor": 9527,
+    "major": 9528,
+    "minor": 9528,
     "patch": 84
   }
 }
