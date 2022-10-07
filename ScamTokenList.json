@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfA7d3bEe90f2f920dB383731AE197765A35Cdb41",
-      "symbol": "VERGE",
-      "name": "Verge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9fC2a552FBCfb822D4f68B1b6419956581F053cb",
       "symbol": "FIRE",
       "name": "FirePit",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x775AF804A5365C4D4B755C6b6028300fFE95a53e",
+      "symbol": "BHEX",
+      "name": "BabyHex",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9367,
-    "minor": 9367,
+    "major": 9368,
+    "minor": 9368,
     "patch": 84
   }
 }
