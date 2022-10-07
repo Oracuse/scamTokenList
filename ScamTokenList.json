@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEEA1Afd988b7A87408168e459D0D0b9792C0af08",
-      "symbol": "DOT",
-      "name": "DotCapital",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd049D0e87fe5C3F2bB51f26dc0f1481D2c4CE6FD",
       "symbol": "APES",
       "name": "APOCALYPTICAPES",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAaa3B1abF50C30128Bf4AB09FEc7015D610A5884",
+      "symbol": "GLXY",
+      "name": "Galaxy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9409,
-    "minor": 9409,
+    "major": 9410,
+    "minor": 9410,
     "patch": 84
   }
 }
