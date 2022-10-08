@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9d759B8651a36A5EFa01961c4A27B88055cFEf1f",
-      "symbol": "SHIBRALLY",
-      "name": "ShibaRally",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB195bd6fF5a09Ca3BBab3be15B80465218aD8121",
       "symbol": "FOREVER",
       "name": "FOREVER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08737D7A7396DA28bb3B30d9f56fA8DB1f53b9AA",
+      "symbol": "TAMAT",
+      "name": "Tamadoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9608,
-    "minor": 9608,
+    "major": 9609,
+    "minor": 9609,
     "patch": 84
   }
 }
