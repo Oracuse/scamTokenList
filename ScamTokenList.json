@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4000Dc9F43e95A3D82793841798Ff1602beda1eE",
-      "symbol": "DOGEX",
-      "name": "DogeX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x070689090344976AE4284BeBdf61bbCbeAE5E0af",
       "symbol": "VEN",
       "name": "Vendren",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24358973e014218C9daf8726feDbeE0e477be070",
+      "symbol": "WER120",
+      "name": "WeR120",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9625,
-    "minor": 9625,
+    "major": 9626,
+    "minor": 9626,
     "patch": 84
   }
 }
