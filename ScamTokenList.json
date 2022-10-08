@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA7fB3Cd0D847fEf5c6b64c746BD556Cb57dB4D98",
-      "symbol": "MCG",
-      "name": "MicroChainsGovToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe340ED6A2F8a58DDEd2FaF6A18C1f838E9355e68",
       "symbol": "SAFU",
       "name": "SAFU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC786f3281A3A364d6B51EB41eA9d1d3DD46D9CE7",
+      "symbol": "OS",
+      "name": "OnlyStables",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9578,
-    "minor": 9578,
+    "major": 9579,
+    "minor": 9579,
     "patch": 84
   }
 }
