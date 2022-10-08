@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x68CE3a4f24cA07fcdbbC03FcFD8fef26B31357E0",
-      "symbol": "FAIRSPIN",
-      "name": "FairSpin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1b4C72e4418Eb2c80D8607429855fCd373176c4",
       "symbol": "KODACHI",
       "name": "KodachiToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B4767aB9e9aC1007B46A292F197A6e87eE1fd32",
+      "symbol": "DP",
+      "name": "DegenProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9574,
-    "minor": 9574,
+    "major": 9575,
+    "minor": 9575,
     "patch": 84
   }
 }
