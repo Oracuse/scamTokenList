@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF627Bf6ef4CaaD5F7b9Bd2549Cc6F32bEA92fFd0",
-      "symbol": "REVO",
-      "name": "REVO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5953294247475e0D9D81349007ba4122671ed6FD",
       "symbol": "AVSA",
       "name": "AsvaChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA97a126b28C883Bf1dBCA24E800Cbb82139545D1",
+      "symbol": "DB",
+      "name": "Smiling",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9636,
-    "minor": 9636,
+    "major": 9637,
+    "minor": 9637,
     "patch": 84
   }
 }
