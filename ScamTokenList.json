@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x654Af118163D13A7161F6040b67eBE422220BE6D",
-      "symbol": "SZN",
-      "name": "DeFiSeason",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcc897C172B4d9fe5E9ea6d62b7b62756992516cF",
       "symbol": "METH",
       "name": "MICROETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4283878f081A41Ed0CFd1A1CcC26EaFAd8aFE096",
+      "symbol": "RESSA",
+      "name": "RessaPanda",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9682,
-    "minor": 9682,
+    "major": 9683,
+    "minor": 9683,
     "patch": 84
   }
 }
