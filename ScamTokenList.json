@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9560cDa22d01B49FC63fE3DAff6fFE27e0895e00",
-      "symbol": "CNOMAD",
-      "name": "NewCommunityNomad",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x26CF0fF0b91Ca968D52b3f960BC622D4462ccdaE",
       "symbol": "SK",
       "name": "ShibaKombat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C61D7b971203DFEC03894578fbB6b610179c8F2",
+      "symbol": "MEMES",
+      "name": "MemeStonks",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9567,
-    "minor": 9567,
+    "major": 9568,
+    "minor": 9568,
     "patch": 84
   }
 }
