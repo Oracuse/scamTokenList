@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x427362D36Df05C68807638Fc5c61bb56827dc23C",
-      "symbol": "KING",
-      "name": "KingBuy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0E33b29863c6e2CDF6A70398d3cB739443D4b2A8",
       "symbol": "CERVEZA",
       "name": "TheBeer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22c0fE29a1D705de5AeA2d6Cd24499461b55a922",
+      "symbol": "ORIGIN20",
+      "name": "ProofOfOrigin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9675,
-    "minor": 9675,
+    "major": 9676,
+    "minor": 9676,
     "patch": 84
   }
 }
