@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x336555b15d778F9cF9B1c292F97285785FE45860",
-      "symbol": "OTTER",
-      "name": "Ottereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3Fa89922b5E646826C3F6dD4Fc3b781D3db1FC97",
       "symbol": "OTTER",
       "name": "Ottereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92dE56a5c69dF730E8a93788695dA91677A1fdDa",
+      "symbol": "NAFOD",
+      "name": "NoApparentFearofDea",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9562,
-    "minor": 9562,
+    "major": 9563,
+    "minor": 9563,
     "patch": 84
   }
 }
