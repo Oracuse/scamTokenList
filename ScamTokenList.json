@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8239372247ab216C3F38d26cD27f54b22Ed8bF16",
-      "symbol": "TSUKATAMA",
-      "name": "TSUKATAMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB89c2dF5E3A2a069d485F2c138113d446163D018",
       "symbol": "THELIGHT",
       "name": "Alumbrado",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60481629BA183A25b25E758AB3FEe49d71abB44a",
+      "symbol": "TWTR",
+      "name": "Twitter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9638,
-    "minor": 9638,
+    "major": 9639,
+    "minor": 9639,
     "patch": 84
   }
 }
