@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x822EA6C0Ba626064Fd84F7F37430fBaBE841d45e",
-      "symbol": "NEKO51",
-      "name": "NEKO51",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2634208809d0Ca27Fe3DB40FD8c8E84b91B8BffC",
       "symbol": "SPITZ",
       "name": "SpitzInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43263456ecb98F6aB47888736dBdEd6498eF32f4",
+      "symbol": "MONONOKE20",
+      "name": "ProofofMononoke",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9599,
-    "minor": 9599,
+    "major": 9600,
+    "minor": 9600,
     "patch": 84
   }
 }
