@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x31427C540527f8b66Cd2692c1a434d0c114FeA10",
-      "symbol": "DAPE",
-      "name": "DapeToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9F8d215Bd827aa8cd8957176EA0f0614f6793cA6",
       "symbol": "MSINU",
       "name": "MichaelSaylorInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a22753F5773D4bB59B8E9ab07004B6ec3Bd1E83",
+      "symbol": "XEN",
+      "name": "XENCrypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9671,
-    "minor": 9671,
+    "major": 9672,
+    "minor": 9672,
     "patch": 84
   }
 }
