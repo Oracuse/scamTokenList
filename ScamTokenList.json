@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x33EbD390d986EB21Fb91a5B72Ee5AD8a1F40e43e",
-      "symbol": "CLIFFC",
-      "name": "CliffordClassic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7Af57816b7cdF3959B1460669835Ca61EE251Bb2",
       "symbol": "SOE",
       "name": "StateofEmergency",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00A2fCedcdf56bFc1cAAB62B0BDB04e91eC4545F",
+      "symbol": "AL347",
+      "name": "ProofofAliens",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9572,
-    "minor": 9572,
+    "major": 9573,
+    "minor": 9573,
     "patch": 84
   }
 }
