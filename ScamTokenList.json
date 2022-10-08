@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD526B7D6aAF69789D141AF121CDc5D35118674c6",
-      "symbol": "PRT",
-      "name": "Parrot",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0924e1dE2A1229Ca37693C9ccd338a742E96f4a1",
       "symbol": "GGROW",
       "name": "GrootGrow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDBE57fbDf3249f34250e7F1F5e2BCC3C0D7c0776",
+      "symbol": "DM",
+      "name": "DuskM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9651,
-    "minor": 9651,
+    "major": 9652,
+    "minor": 9652,
     "patch": 84
   }
 }
