@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0135d524b34184dB3e511331077C28335C1a7420",
-      "symbol": "THANATOS",
-      "name": "THANATOS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4834138B94B1f826447EcC25F8Be2c0D1072b47f",
       "symbol": "NOCAP",
       "name": "NoCap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x697d4e5B388ef7d5a8122C9FA02c9C1f784A193B",
+      "symbol": "TSUKA20",
+      "name": "ProofOfDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9554,
-    "minor": 9554,
+    "major": 9555,
+    "minor": 9555,
     "patch": 84
   }
 }
