@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x77460Ee994C8961C8d153d42f81C7Cdc5002D600",
-      "symbol": "SCROH",
-      "name": "SCROHoldings",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF627Bf6ef4CaaD5F7b9Bd2549Cc6F32bEA92fFd0",
       "symbol": "REVO",
       "name": "REVO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e7E8228Ef67da9ecF23B60EaF7333f14b3Ee377",
+      "symbol": "WETH20",
+      "name": "ProofofMemes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9635,
-    "minor": 9635,
+    "major": 9636,
+    "minor": 9636,
     "patch": 84
   }
 }
