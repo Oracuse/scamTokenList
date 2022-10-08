@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd46FE4101ab13A37C87e9A7533bafC223D9eb284",
-      "symbol": "FDOGE",
-      "name": "FlamingDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8A0Fd3d55F85BDEC542Ca6496B83487C2CA72418",
       "symbol": "THF",
       "name": "TheHyperFund",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A39f2c40DD1dB40459b577770a8AE906675feA6",
+      "symbol": "PING",
+      "name": "LarPING",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9684,
-    "minor": 9684,
+    "major": 9685,
+    "minor": 9685,
     "patch": 84
   }
 }
