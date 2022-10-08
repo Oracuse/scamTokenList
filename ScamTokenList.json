@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc91Bc0202002dE858917e44ff45CA6C6E0E040a4",
-      "symbol": "KODACHI",
-      "name": "Kodachi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F039d33227a4838DC3552b53BDe9225e846DE55",
       "symbol": "IMPULSE",
       "name": "ImpulseWave",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x781866A0367A478Df559F050dA69983C198AB8F6",
+      "symbol": "TEON",
+      "name": "TwoEyesOneNose",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9658,
-    "minor": 9658,
+    "major": 9659,
+    "minor": 9659,
     "patch": 84
   }
 }
