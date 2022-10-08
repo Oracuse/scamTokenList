@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x383F468De3B08Df7d9A8466DfD0E329b0C917E37",
-      "symbol": "SULEGROW",
-      "name": "SULEGROW",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4366a188b0193074Df049f5B92660e2D3B1A135D",
       "symbol": "BAKEGROW",
       "name": "BAKEGROW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5C472A822D198483C1d80BB5202D59D7E33e975",
+      "symbol": "MURAGAMI",
+      "name": "MurasakiKagami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9615,
-    "minor": 9615,
+    "major": 9616,
+    "minor": 9616,
     "patch": 84
   }
 }
