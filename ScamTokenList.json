@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4834138B94B1f826447EcC25F8Be2c0D1072b47f",
-      "symbol": "NOCAP",
-      "name": "NoCap",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x99cdf30e0CdFF166F6216E27dCaC2d7B1A437f5C",
       "symbol": "CHOPPY",
       "name": "ChoppyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeD1fa0FB4602E61F9FD207a378b38d195c3257ad",
+      "symbol": "PUTIN20",
+      "name": "ProofOfNUKE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9555,
-    "minor": 9555,
+    "major": 9556,
+    "minor": 9556,
     "patch": 84
   }
 }
