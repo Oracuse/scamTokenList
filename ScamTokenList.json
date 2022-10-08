@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1c85C81FA1aC552b190Fc3b8525ce03739c99a21",
-      "symbol": "DOGEDAO",
-      "name": "DOGEDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0e887270093dEeb3c61C6918Ff5a4AE93eD2D6b9",
       "symbol": "LORE",
       "name": "MYTH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEb3c64FF9954aA1a0880088cA91E5A049c4dA42d",
+      "symbol": "DAO20",
+      "name": "ProofofDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9580,
-    "minor": 9580,
+    "major": 9581,
+    "minor": 9581,
     "patch": 84
   }
 }
