@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBd5688BCbcC243C17B1006f6714246116ba8Fd7d",
-      "symbol": "NOTHING",
-      "name": "SOMETHING",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe50559A16D5047f53F450e8957c947d1CF4C79A3",
       "symbol": "HER",
       "name": "HerToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x003656b2FB6243c924EAf216dBCf7Fc76020f53d",
+      "symbol": "RI",
+      "name": "Ribka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9642,
-    "minor": 9642,
+    "major": 9643,
+    "minor": 9643,
     "patch": 84
   }
 }
