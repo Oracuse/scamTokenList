@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB6174D972c6B863fF355B4e78430759e13b95e39",
-      "symbol": "SCROH",
-      "name": "SCROHoldings",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD3c0F86a1671b6D12244d26FA34614950f7Fdc5f",
       "symbol": "CANABIS",
       "name": "TerpyDepthsClub",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xab6E6f9F531F070Eed0b9794df0e0384FccC8Dcd",
+      "symbol": "WER1DOGE",
+      "name": "WeR1Doge",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9628,
-    "minor": 9628,
+    "major": 9629,
+    "minor": 9629,
     "patch": 84
   }
 }
