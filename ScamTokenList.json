@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE1b4C72e4418Eb2c80D8607429855fCd373176c4",
-      "symbol": "KODACHI",
-      "name": "KodachiToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x618A8EebE56AfF9f2d042Ed51b2FF2c7BE9FA73F",
       "symbol": "GRAIL",
       "name": "GrailofTears",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3073b6384e32E103ea4AC09B4b14AED01275BC8f",
+      "symbol": "MNBASE",
+      "name": "Moonbase",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9575,
-    "minor": 9575,
+    "major": 9576,
+    "minor": 9576,
     "patch": 84
   }
 }
