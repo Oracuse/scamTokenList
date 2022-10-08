@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0e887270093dEeb3c61C6918Ff5a4AE93eD2D6b9",
-      "symbol": "LORE",
-      "name": "MYTH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf9E76912813beeD13A09810bb505ad8268c01Eb3",
       "symbol": "PLEDGE",
       "name": "PLEDGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcF7B9D9Cc5E82917cC4e27A05ACf7f23F85864e5",
+      "symbol": "NUN",
+      "name": "NUNCOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9581,
-    "minor": 9581,
+    "major": 9582,
+    "minor": 9582,
     "patch": 84
   }
 }
