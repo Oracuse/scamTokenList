@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9d66ddA0c81F5A074068222A764f75AF2128913A",
-      "symbol": "FINDME",
-      "name": "FindMe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76F504913C0B21C3f2f4A646865bC51601C02277",
       "symbol": "SPEEDY",
       "name": "SpeedySniperBot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5df334fc75B1459993607D169C4A27ef2843B0A0",
+      "symbol": "HELP",
+      "name": "ProofOfHelp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9645,
-    "minor": 9645,
+    "major": 9646,
+    "minor": 9646,
     "patch": 84
   }
 }
