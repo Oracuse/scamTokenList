@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x77465064837bA6d66f3626e58f123CfA131dD600",
-      "symbol": "SCROH",
-      "name": "SCROHoldings",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x77460Ee994C8961C8d153d42f81C7Cdc5002D600",
       "symbol": "SCROH",
       "name": "SCROHoldings",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x691b957B82e7ccf9B89602988C00830889b7c046",
+      "symbol": "WERINU",
+      "name": "ProtectorofInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9634,
-    "minor": 9634,
+    "major": 9635,
+    "minor": 9635,
     "patch": 84
   }
 }
