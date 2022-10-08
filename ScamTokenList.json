@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73C07D0BA6564D19D66A731d2336F3B7E201ed89",
-      "symbol": "REMAIN",
-      "name": "TheFuture",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x383F468De3B08Df7d9A8466DfD0E329b0C917E37",
       "symbol": "SULEGROW",
       "name": "SULEGROW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e96368735cb19ED87B2029d4Cb7F5A1a71d35e2",
+      "symbol": "BACK",
+      "name": "BackToWork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9614,
-    "minor": 9614,
+    "major": 9615,
+    "minor": 9615,
     "patch": 84
   }
 }
