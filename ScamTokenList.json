@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcc897C172B4d9fe5E9ea6d62b7b62756992516cF",
-      "symbol": "METH",
-      "name": "MICROETH",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd46FE4101ab13A37C87e9A7533bafC223D9eb284",
       "symbol": "FDOGE",
       "name": "FlamingDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A70987d6Db36B72E3d8e72dd2dE7dECC9c24805",
+      "symbol": "XEN",
+      "name": "XENCrypto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9683,
-    "minor": 9683,
+    "major": 9684,
+    "minor": 9684,
     "patch": 84
   }
 }
