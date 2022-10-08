@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9F8d215Bd827aa8cd8957176EA0f0614f6793cA6",
-      "symbol": "MSINU",
-      "name": "MichaelSaylorInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9f0DCc88789B43F87882edb8aaC0c66427bff1b6",
       "symbol": "GLORY",
       "name": "RighteousGlory",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48B009635A1AeA392e672fCAD2a21C6005DcD8Ac",
+      "symbol": "POM",
+      "name": "ProofOfMusk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9672,
-    "minor": 9672,
+    "major": 9673,
+    "minor": 9673,
     "patch": 84
   }
 }
