@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7afcbEB7E85bA2402b302307c30BC937C9E86112",
-      "symbol": "HTML",
-      "name": "JAVA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB97e6021BF6406856212e8e9cf0b432dB3A093Da",
       "symbol": "INFECT",
       "name": "ETHERINFECTIONDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e28aF30f2187EfDBB81FD08aCC209A2b637c14F",
+      "symbol": "LUNA20",
+      "name": "ProofofCommunity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9539,
-    "minor": 9539,
+    "major": 9540,
+    "minor": 9540,
     "patch": 84
   }
 }
