@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x347BDE8F6833B7613D9981E86DAE07C134e4b506",
-      "symbol": "BOOM",
-      "name": "EtherBomb",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD526B7D6aAF69789D141AF121CDc5D35118674c6",
       "symbol": "PRT",
       "name": "Parrot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F4820bbC79A956db13dAb8645fA1Ca7e83bB2a7",
+      "symbol": "PUNCH",
+      "name": "PROOFOFSAITAMA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9650,
-    "minor": 9650,
+    "major": 9651,
+    "minor": 9651,
     "patch": 84
   }
 }
