@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0E33b29863c6e2CDF6A70398d3cB739443D4b2A8",
-      "symbol": "CERVEZA",
-      "name": "TheBeer",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa52829C2E49e4a8f35E6a2e82Dc3A886f832E868",
       "symbol": "REALITY",
       "name": "IMAGINATION",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B034063c12b7289111dB7cAdf53AD483c4FF823",
+      "symbol": "DNADAO",
+      "name": "DnaCoinDAO",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9676,
-    "minor": 9676,
+    "major": 9677,
+    "minor": 9677,
     "patch": 84
   }
 }
