@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Fa89922b5E646826C3F6dD4Fc3b781D3db1FC97",
-      "symbol": "OTTER",
-      "name": "Ottereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9Ef7B15Ec02a2556bD689D409E76936364Af416d",
       "symbol": "FC",
       "name": "FlameCOCK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5FDd93A2EeaFb6359EeAcC08B927923c64552d1",
+      "symbol": "ETH21",
+      "name": "MemeOrigin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9563,
-    "minor": 9563,
+    "major": 9564,
+    "minor": 9564,
     "patch": 84
   }
 }
