@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3bBDc10763215b7B284F400D93D76b841Be8688b",
-      "symbol": "HER",
-      "name": "HerToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8e7f6Bc41702F44EFFFd6C5Ed905843c050e1748",
       "symbol": "GERONIMO",
       "name": "Geronimo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFD8e45ff1eBf0cD09F48ca3134d65CB0FEd245Fa",
+      "symbol": "ERNC",
+      "name": "EthernityChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9632,
-    "minor": 9632,
+    "major": 9633,
+    "minor": 9633,
     "patch": 84
   }
 }
