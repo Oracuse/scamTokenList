@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x383Ff5a4CeDaAa57d41Ca1381a387A524c2d793f",
-      "symbol": "RSHIB",
-      "name": "ROYALSHIB",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB6174D972c6B863fF355B4e78430759e13b95e39",
       "symbol": "SCROH",
       "name": "SCROHoldings",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9bDBB823886155Ac4b7c7EE9aDE3968Dc7e86b1",
+      "symbol": "GLANCE",
+      "name": "GlanceFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9627,
-    "minor": 9627,
+    "major": 9628,
+    "minor": 9628,
     "patch": 84
   }
 }
