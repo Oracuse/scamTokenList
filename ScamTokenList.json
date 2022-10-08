@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd33e0df4f5786D2B8F787F572b4D2f17a3a596A8",
-      "symbol": "BTSUKA",
-      "name": "bTSUKA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9d759B8651a36A5EFa01961c4A27B88055cFEf1f",
       "symbol": "SHIBRALLY",
       "name": "ShibaRally",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0CE8b1273103523071f942D3D0a247F5b5e5BDB5",
+      "symbol": "SUZAKU",
+      "name": "THEFIREDRAGON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9607,
-    "minor": 9607,
+    "major": 9608,
+    "minor": 9608,
     "patch": 84
   }
 }
