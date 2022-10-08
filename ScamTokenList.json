@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e557d5FDfa136836418d30057B92DC96a194395",
-      "symbol": "THF",
-      "name": "TheHyperFund",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCb8f12cDc29128eE7BdBFe027235451Fb1cD08c4",
       "symbol": "CONFIDENTIAL",
       "name": "Private",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xefc23c5de8Cb65eBeb286B4AaC71535708cA5a90",
+      "symbol": "H20",
+      "name": "ProofofLife",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9689,
-    "minor": 9689,
+    "major": 9690,
+    "minor": 9690,
     "patch": 84
   }
 }
