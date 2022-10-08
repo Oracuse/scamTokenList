@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC61e699b4110fF7107Faff16C5e00CcBb4AfF45A",
-      "symbol": "RETH",
-      "name": "RedEthereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeA8a58688c0391Fd067C0f10E5189B70537Eb23d",
       "symbol": "KUJAKU",
       "name": "KUJAKUINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3DA7758727d9e5cf044F3FCa41d1Ff7494511F0",
+      "symbol": "POS",
+      "name": "ProofofShitcoins",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9552,
-    "minor": 9552,
+    "major": 9553,
+    "minor": 9553,
     "patch": 84
   }
 }
