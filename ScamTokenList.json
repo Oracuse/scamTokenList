@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAb2A6063e2B82fD193A571eD42d1Da9B014c1d4A",
-      "symbol": "CHILL",
-      "name": "ChadOfTheHill",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x63d5EDe2325fB264EC92b0b945DE66e151BF4c65",
       "symbol": "TRUST",
       "name": "Justgottotrustme",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0EB97ADc64Fb0De08D2C852188403BeC533abCC8",
+      "symbol": "POW20",
+      "name": "ProofofWealth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9665,
-    "minor": 9665,
+    "major": 9666,
+    "minor": 9666,
     "patch": 84
   }
 }
