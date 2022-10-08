@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xde90B9DDC4c05dd72f420454eCeFf4c38D98A8f7",
-      "symbol": "SQUO",
-      "name": "StatusQuo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB8A271DECd1B815231Be38839fe9576f99e60702",
       "symbol": "NOTALARP",
       "name": "RyoshisLaughing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0aABf124dd65DDe63DaD3b1eD18a8cEb8a36a401",
+      "symbol": "POW20",
+      "name": "ProofofWealth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9663,
-    "minor": 9663,
+    "major": 9664,
+    "minor": 9664,
     "patch": 84
   }
 }
