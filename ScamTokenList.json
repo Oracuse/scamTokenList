@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x196b29B08d1bd1737244F6e4411810AbCCD5E928",
-      "symbol": "HURRICOIN",
-      "name": "HurricoinTracker",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5FE0CaDa39152744ece8736E4A7b72593ca83467",
       "symbol": "EVERYBODY",
       "name": "everybody",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19d858478B255Af2516e19F9536D39b065a9626c",
+      "symbol": "RENA",
+      "name": "DerivedRena",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9602,
-    "minor": 9602,
+    "major": 9603,
+    "minor": 9603,
     "patch": 84
   }
 }
