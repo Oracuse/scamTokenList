@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA53A6a50b89BD6Ae777A5325E136D48593Fc88AB",
-      "symbol": "CONFIDENTIAL",
-      "name": "Private",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc91Bc0202002dE858917e44ff45CA6C6E0E040a4",
       "symbol": "KODACHI",
       "name": "Kodachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb469bdc3099412FDfb9f4AF7bA6c388EBA9F4f45",
+      "symbol": "SARTO",
+      "name": "SARTOToken",
+      "decimals": 13,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9657,
-    "minor": 9657,
+    "major": 9658,
+    "minor": 9658,
     "patch": 84
   }
 }
