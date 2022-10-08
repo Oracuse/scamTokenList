@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08eBF4dd8ec128bc596f7b8E588da66861017371",
-      "symbol": "ARABIAN",
-      "name": "ArabianCamel",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x328b212ed718C8EfEfD1cfC3544cf3f631E48d25",
       "symbol": "KUSH",
       "name": "KUSH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x090c65b424Ce5B5417d67f4E6193BDEa6B13A5B7",
+      "symbol": "ONNA",
+      "name": "Futakuchi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9569,
-    "minor": 9569,
+    "major": 9570,
+    "minor": 9570,
     "patch": 84
   }
 }
