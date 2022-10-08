@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe50559A16D5047f53F450e8957c947d1CF4C79A3",
-      "symbol": "HER",
-      "name": "HerToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Da082C4E3EA5b4C47660E5dEae0F581E7c84343",
       "symbol": "MARS",
       "name": "GodOfWar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B80D58d8E6e3d06CbedD2B833a3DCD565F79e80",
+      "symbol": "V35",
+      "name": "Vestige",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9643,
-    "minor": 9643,
+    "major": 9644,
+    "minor": 9644,
     "patch": 84
   }
 }
