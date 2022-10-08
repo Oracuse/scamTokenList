@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x328b212ed718C8EfEfD1cfC3544cf3f631E48d25",
-      "symbol": "KUSH",
-      "name": "KUSH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82a530417e54cA402fC72484D5137579e61AAE4D",
       "symbol": "BGKR",
       "name": "BGKR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc12C6A089E0F1114377ceB5Ee1425E2a146fb33F",
+      "symbol": "HWT",
+      "name": "HalloTweETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9570,
-    "minor": 9570,
+    "major": 9571,
+    "minor": 9571,
     "patch": 84
   }
 }
