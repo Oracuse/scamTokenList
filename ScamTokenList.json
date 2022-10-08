@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe340ED6A2F8a58DDEd2FaF6A18C1f838E9355e68",
-      "symbol": "SAFU",
-      "name": "SAFU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1c85C81FA1aC552b190Fc3b8525ce03739c99a21",
       "symbol": "DOGEDAO",
       "name": "DOGEDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F61931Db0EB5535491635BB04Ea373751030408",
+      "symbol": "LUNA20",
+      "name": "ProofofKwon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9579,
-    "minor": 9579,
+    "major": 9580,
+    "minor": 9580,
     "patch": 84
   }
 }
