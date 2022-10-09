@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5D5bb78C20fDE6B5d8e3671c8553543b2000052b",
-      "symbol": "BLSVR",
-      "name": "BurnLasrever",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50506ca7534BDB31C422453FdC33565887578160",
       "symbol": "BURNSOL",
       "name": "BurnSolana",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02E96148BA6Bd87d09Be088487B0b643d1270290",
+      "symbol": "TENOME",
+      "name": "TheTenome",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9736,
-    "minor": 9736,
+    "major": 9737,
+    "minor": 9737,
     "patch": 84
   }
 }
