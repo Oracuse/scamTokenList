@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x368D21c4C04d85B3f8D10C5f9c7490C754949eDa",
-      "symbol": "MOONKE",
-      "name": "MOONKELABS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd293D53631900A46e9472ac73B5e63229FF6A22a",
       "symbol": "JAM",
       "name": "JamToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x340c4e6621CC7B9CE9d4Bb5A0d2ADd795198CAF6",
+      "symbol": "LOTTO",
+      "name": "LottoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9755,
-    "minor": 9755,
+    "major": 9756,
+    "minor": 9756,
     "patch": 84
   }
 }
