@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2A24746F89d9E39446bc73f7899319C340b6DbB6",
-      "symbol": "SOINU",
-      "name": "SolanaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x30dcBa0405004cF124045793E1933C798Af9E66a",
       "symbol": "YDF",
       "name": "Yieldification",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x298F81f5Bc906e38c97a554814370A1343b7048B",
+      "symbol": "XEN",
+      "name": "XENCrypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9704,
-    "minor": 9704,
+    "major": 9705,
+    "minor": 9705,
     "patch": 84
   }
 }
