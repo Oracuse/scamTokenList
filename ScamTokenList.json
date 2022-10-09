@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9A24b552686Af21DD80BA0197d98F7717244fDe9",
-      "symbol": "RONALD",
-      "name": "RONALDTHESNAKE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC99897d10073618790C85B510E5005070225bC60",
       "symbol": "KYC",
       "name": "KYOKUCOIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c805Ee1e0388782D9259D5a038d349732f21B18",
+      "symbol": "XEN20",
+      "name": "XENCrypto20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9715,
-    "minor": 9715,
+    "major": 9716,
+    "minor": 9716,
     "patch": 84
   }
 }
