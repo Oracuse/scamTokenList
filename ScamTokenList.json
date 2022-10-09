@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8c07f45FD07D3307F4c8B1D4a9F3C0d712c6fB1A",
-      "symbol": "DIVINE",
-      "name": "PowerBeyondEverythi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB5fe77A96510651574764ea77BE838189b2c5982",
       "symbol": "NOSTRUM",
       "name": "NOSTRUMPLATONIS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1013FAB5DEde0a5fe11c469148D92626AF40b451",
+      "symbol": "FROGE",
+      "name": "FrankenDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9747,
-    "minor": 9747,
+    "major": 9748,
+    "minor": 9748,
     "patch": 84
   }
 }
