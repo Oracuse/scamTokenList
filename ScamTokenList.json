@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x527320b7148520098c9A69913fbFa5BA1aFd1A8F",
-      "symbol": "CULT",
-      "name": "CultGrow",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA8078D04e5C06Aed6Be71AACF9845D4bd00c1CaD",
       "symbol": "SHEX",
       "name": "sHEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5120Bd45f300Ea1d2C487a295980f3D85e674f1A",
+      "symbol": "ICHIKA",
+      "name": "ProtectorOfTheDrago",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9720,
-    "minor": 9720,
+    "major": 9721,
+    "minor": 9721,
     "patch": 84
   }
 }
