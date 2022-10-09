@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfcc94De9205a13Ac92aD579B1DB60fECBBBf8fAC",
-      "symbol": "SOLINU",
-      "name": "SolanaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfC5D82f9E66a38C1D2Ec41a8188895348E26E340",
       "symbol": "KURAIBUSHI",
       "name": "KURAIBUSHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04a3A87c60c65abF51458398e1dFDDC9b05E1D1c",
+      "symbol": "TENOME",
+      "name": "Tenome",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9733,
-    "minor": 9733,
+    "major": 9734,
+    "minor": 9734,
     "patch": 84
   }
 }
