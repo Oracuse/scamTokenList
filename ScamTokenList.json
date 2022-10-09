@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5Ce76ceC767F1bd834DF9A717ae48AC9Cd551bFF",
-      "symbol": "GNT",
-      "name": "GinTonic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4c179E99112b37B7fBb6EF589A5196bBd5C736E2",
       "symbol": "RESIST",
       "name": "TheWar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37D63f8ca743C44372DA02702976794F7494d1F1",
+      "symbol": "GETH",
+      "name": "GIGAETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9698,
-    "minor": 9698,
+    "major": 9699,
+    "minor": 9699,
     "patch": 84
   }
 }
