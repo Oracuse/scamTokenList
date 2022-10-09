@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd162B7845eFBEdBbD705A4E8CD99C79844390817",
-      "symbol": "CTERRA",
-      "name": "CHIROPTERRA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2A24746F89d9E39446bc73f7899319C340b6DbB6",
       "symbol": "SOINU",
       "name": "SolanaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3dA72fD54981Ee3C6B8070f3252b16166219A27",
+      "symbol": "MELLOW",
+      "name": "ProofOfChill",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9703,
-    "minor": 9703,
+    "major": 9704,
+    "minor": 9704,
     "patch": 84
   }
 }
