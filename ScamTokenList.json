@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB5fe77A96510651574764ea77BE838189b2c5982",
-      "symbol": "NOSTRUM",
-      "name": "NOSTRUMPLATONIS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x34fa2560C8138bF2030835091bD02Ccfe088EbFc",
       "symbol": "ENOUGH",
       "name": "EnoughIsEnough",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5030d661C43122a2B52afE4BEa223078c2e7B88B",
+      "symbol": "DMEME",
+      "name": "MEMEDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9748,
-    "minor": 9748,
+    "major": 9749,
+    "minor": 9749,
     "patch": 84
   }
 }
