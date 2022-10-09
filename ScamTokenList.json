@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC99897d10073618790C85B510E5005070225bC60",
-      "symbol": "KYC",
-      "name": "KYOKUCOIN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x624cd4e0c3d168D12bCBE855d25ceC110BE826c8",
       "symbol": "8888",
       "name": "CasinoWar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b89E43E41aCE5e9fBb8D8702f8A7B2527ccF7Eb",
+      "symbol": "CATSUNE",
+      "name": "Catsune",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9716,
-    "minor": 9716,
+    "major": 9717,
+    "minor": 9717,
     "patch": 84
   }
 }
