@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5b8CEB4d61349e0F42eEA2d6eCA9C7d07E41E187",
-      "symbol": "SOL2",
-      "name": "SOL20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaeE1815B3A004A6cb9eB4ee08a7e794FaB4b2A60",
       "symbol": "SHIFU",
       "name": "SHIFU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23D269a4587f068B14E06a006238236CEb6463eD",
+      "symbol": "BITFARM",
+      "name": "BitFarmUniverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9741,
-    "minor": 9741,
+    "major": 9742,
+    "minor": 9742,
     "patch": 84
   }
 }
