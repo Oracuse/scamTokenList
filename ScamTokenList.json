@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbAFA3ac4A9140AdA7fa5851B00BB97c784F2a2e3",
-      "symbol": "HTML5",
-      "name": "HTML5WEB",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfcc94De9205a13Ac92aD579B1DB60fECBBBf8fAC",
       "symbol": "SOLINU",
       "name": "SolanaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04c92d4Ff54e51536b08FC544e388dcD366FA532",
+      "symbol": "KYODAI",
+      "name": "KYO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9732,
-    "minor": 9732,
+    "major": 9733,
+    "minor": 9733,
     "patch": 84
   }
 }
