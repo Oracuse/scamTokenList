@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x593c4481083Da90B9BA2C2b46F011094D6b493Ea",
-      "symbol": "CONFIDENTIAL",
-      "name": "Private",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb9CcaaeC28C761aeE26153FdB097329e56af8378",
       "symbol": "RAPTURE",
       "name": "TheRapture",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x447b527C19e6ea103A0BE7D6Ecd6D111968A696E",
+      "symbol": "WLM",
+      "name": "WhiteLivesMatter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9695,
-    "minor": 9695,
+    "major": 9696,
+    "minor": 9696,
     "patch": 84
   }
 }
