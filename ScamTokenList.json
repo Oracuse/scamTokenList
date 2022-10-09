@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1b6D67F6D6626120B7543fbd46E1d215931e4EE1",
-      "symbol": "DEGENTRADINGFUND",
-      "name": "DTF",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFF171dC29315d215e998bDe69D0165facEDefCBd",
       "symbol": "SAPPHO",
       "name": "DrinkersofInfinity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x171244672D917e08ed08f23f365dF0bb8B5B0c58",
+      "symbol": "SAGA",
+      "name": "ApeSaga",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9700,
-    "minor": 9700,
+    "major": 9701,
+    "minor": 9701,
     "patch": 84
   }
 }
