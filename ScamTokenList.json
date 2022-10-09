@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD4a456d320025a54Cdaf1b1B9BB33057feC7540f",
-      "symbol": "MICRO",
-      "name": "MACRO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0B1882D3901762F02928aC290A695389Ba0cE429",
       "symbol": "KALEIDOSCOPE",
       "name": "Kaleidoscope",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9bc2686D168Adde5c999A0b505356358DB365f2D",
+      "symbol": "DMEME",
+      "name": "MEMEDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9745,
-    "minor": 9745,
+    "major": 9746,
+    "minor": 9746,
     "patch": 84
   }
 }
