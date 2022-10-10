@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x11742F8c430DdA45eF026c71C6870e57c071e256",
-      "symbol": "FRACTAL",
-      "name": "Fractal",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x33e2343D2a2856d50239EcF86995e76aD6F536c9",
       "symbol": "ENOCH",
       "name": "TheEnochianOrder",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc9AfF9bB3c776C4dD69038D660b7887570669e4D",
+      "symbol": "TATSUMAKIRYOKA",
+      "name": "TatsumakiRyoka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9848,
-    "minor": 9848,
+    "major": 9849,
+    "minor": 9849,
     "patch": 84
   }
 }
