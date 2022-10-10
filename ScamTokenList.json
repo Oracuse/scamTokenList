@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3fF5B10105E2142f9D0218b6a7FD166c37a2A871",
-      "symbol": "GRETH",
-      "name": "GreenEth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x519601EaF2E7F5BBBB925dFDE19F952b095d4FE6",
       "symbol": "CABAL",
       "name": "CabalDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBF0f90F0d0adCa4Ee454C181de10c4d41048B6de",
+      "symbol": "ELAPSE",
+      "name": "Elapse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9771,
-    "minor": 9771,
+    "major": 9772,
+    "minor": 9772,
     "patch": 84
   }
 }
