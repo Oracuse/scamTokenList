@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x71E2487C554FAeB46dB318099391Ae6ff43f3Cd5",
-      "symbol": "CARTEL",
-      "name": "LaFamilia",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8EB5abf65d17B09CB94fF8A7731767a417d3bbCE",
       "symbol": "SUMOGORILLA",
       "name": "SumoGorilla",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDC3d43b944dB3846B011e5D09e8215363b99EF3F",
+      "symbol": "BULLETH",
+      "name": "BULLETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9840,
-    "minor": 9840,
+    "major": 9841,
+    "minor": 9841,
     "patch": 84
   }
 }
