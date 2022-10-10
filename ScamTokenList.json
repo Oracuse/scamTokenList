@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53bBe5c442c987f1F5A12eDbDb99561149FEEda4",
-      "symbol": "LAMBO",
-      "name": "OGLAMBO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9fb9Ec13a18EFf7072Ee8cA7Ee7a2B295649e00d",
       "symbol": "JAM",
       "name": "JamToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF81af66994Fba6A736D03C74E9c4bC9C40Ddf0C5",
+      "symbol": "CAISH",
+      "name": "Caishen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9779,
-    "minor": 9779,
+    "major": 9780,
+    "minor": 9780,
     "patch": 84
   }
 }
