@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4CE2E13c2Bd7E1C8a42D4652Fc7883AF23c4B087",
-      "symbol": "USDCAT",
-      "name": "USDCat",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6361CA5a18D15516a6300EfA3Cbfa616fa716422",
       "symbol": "APES",
       "name": "GoldenApes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCd9efE2400219BB9390ea4d10F55e9CAfBE5ef02",
+      "symbol": "KIM",
+      "name": "Kardashian",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9843,
-    "minor": 9843,
+    "major": 9844,
+    "minor": 9844,
     "patch": 84
   }
 }
