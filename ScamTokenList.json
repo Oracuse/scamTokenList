@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x70615ED595f8130B50204df6d063221b2b96B48e",
-      "symbol": "SPACEMAN",
-      "name": "SPACEMAN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBaf193622Eab7d59f1ed30B725c0861a013268a1",
       "symbol": "BIRB",
       "name": "BirbProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8767E2947ef54f65cDFdB88C7f7786770782AF6D",
+      "symbol": "SHUCK",
+      "name": "BlackShuck",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9787,
-    "minor": 9787,
+    "major": 9788,
+    "minor": 9788,
     "patch": 84
   }
 }
