@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3B0Bd908126ce773b51870944CEF49af0adC7F83",
-      "symbol": "MAGMA",
-      "name": "FloorIsLava",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x559b2bB9Fd67f21A05C48B7699726f4955b63a4d",
       "symbol": "EXCLUSIVE",
       "name": "Exclusive",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAa341764d36542968c907FC33d9Eff24AA0cc9cD",
+      "symbol": "SPN",
+      "name": "SpacenToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9815,
-    "minor": 9815,
+    "major": 9816,
+    "minor": 9816,
     "patch": 84
   }
 }
