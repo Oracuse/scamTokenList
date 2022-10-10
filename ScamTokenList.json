@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6bcD248E913c1a7E178c3d56B19e8210759987C0",
-      "symbol": "SOLGROW",
-      "name": "SOLGROW",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB2A67D3865D637d89B71ed58E397465028A55f24",
       "symbol": "SULKI",
       "name": "SultanFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeACDce01e65e096fE34610DF45F95F99011EC30e",
+      "symbol": "TBF",
+      "name": "TrialByFire",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9824,
-    "minor": 9824,
+    "major": 9825,
+    "minor": 9825,
     "patch": 84
   }
 }
