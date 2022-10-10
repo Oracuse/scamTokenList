@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB2A67D3865D637d89B71ed58E397465028A55f24",
-      "symbol": "SULKI",
-      "name": "SultanFloki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9F31dF87fA963b8B2AC249B5C54CFa41E7E184eb",
       "symbol": "STURDY",
       "name": "SturdyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAdccBF7D60EC8C54c3c6A01C5A763CA33E37DC1E",
+      "symbol": "CC",
+      "name": "CancelCulture",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9825,
-    "minor": 9825,
+    "major": 9826,
+    "minor": 9826,
     "patch": 84
   }
 }
