@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6361CA5a18D15516a6300EfA3Cbfa616fa716422",
-      "symbol": "APES",
-      "name": "GoldenApes",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4750A238cc23C36A70F096e0f7af4BfC7B63B95C",
       "symbol": "CHEEMSDAO",
       "name": "CHEEMSDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25bee24c090edEd4EF9bAc7d0749B4c3B283845d",
+      "symbol": "YZY",
+      "name": "YeezyToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9844,
-    "minor": 9844,
+    "major": 9845,
+    "minor": 9845,
     "patch": 84
   }
 }
