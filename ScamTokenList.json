@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5F763f8BBCCC40773D50f3fEfb4743Ad1848B4D2",
-      "symbol": "SKA",
-      "name": "Sakura",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7B4F624d337069d906243d24Dd6BBc59407d9878",
       "symbol": "EYE",
       "name": "EYEOFRA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f62e3633A6B3899bB1D19487596FEb202A66AeD",
+      "symbol": "XEN20",
+      "name": "ProofofXen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9806,
-    "minor": 9806,
+    "major": 9807,
+    "minor": 9807,
     "patch": 84
   }
 }
