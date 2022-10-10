@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa51C067d5aa6446B3aC86cC5381f119171600c35",
-      "symbol": "JOINUS",
-      "name": "HeavensGate",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x40e2EC7Fe9b2E105F349291384DD179386a67514",
       "symbol": "OMNIS",
       "name": "Omnis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11471092d861F853686c3BAb20a63Dc7d527cdE5",
+      "symbol": "POR",
+      "name": "ProofOfRevert",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9777,
-    "minor": 9777,
+    "major": 9778,
+    "minor": 9778,
     "patch": 84
   }
 }
