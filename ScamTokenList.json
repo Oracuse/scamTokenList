@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF009A4C169B71b9C00cf98Fb0b0231f9690613Eb",
-      "symbol": "SPIRALGROW",
-      "name": "SpiralGrow",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeE2a733fA73072772B05284f93eb3E61625CF5F9",
       "symbol": "TM",
       "name": "Theramoore",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3CaB0d0918c39E29088c495a077EcD022758798",
+      "symbol": "KMASK",
+      "name": "KMask",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9800,
-    "minor": 9800,
+    "major": 9801,
+    "minor": 9801,
     "patch": 84
   }
 }
