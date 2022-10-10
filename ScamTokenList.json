@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1234567Cd517E0e179Fba33abBe7a54Bdd55a647",
-      "symbol": "CHAKRAS",
-      "name": "The7Chakras",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2a7599bd7D9BaF481551Ce0f0F3E22B2B8eE74bc",
       "symbol": "ETHC",
       "name": "ETHnicity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96Fb28a0E016616959A50007f5d8969d7Bcf6D2F",
+      "symbol": "XENBLOCK",
+      "name": "XenBlock",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9784,
-    "minor": 9784,
+    "major": 9785,
+    "minor": 9785,
     "patch": 84
   }
 }
