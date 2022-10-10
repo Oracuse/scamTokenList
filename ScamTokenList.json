@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7B4F624d337069d906243d24Dd6BBc59407d9878",
-      "symbol": "EYE",
-      "name": "EYEOFRA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x91b553b05Cf1c91675d9809540a0b01a0a9D63b5",
       "symbol": "CPLANET",
       "name": "CryptoPlanet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBd5d6674c6CEeEb6f1dC5d0aEdc88D441bc23755",
+      "symbol": "XEN",
+      "name": "XENCrypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9807,
-    "minor": 9807,
+    "major": 9808,
+    "minor": 9808,
     "patch": 84
   }
 }
