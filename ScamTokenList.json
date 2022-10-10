@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6b7d67c66dd3118f123EC006c764F99ef041a70D",
-      "symbol": "TANUKI",
-      "name": "Tanuki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCeBAed1cBcF85c2a1e9f0bd04DA1DbfBAac018F8",
       "symbol": "NP",
       "name": "NancyPelosi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66bcD0C22Bb15cD1bA7199C7a383DC89528f4427",
+      "symbol": "BUH",
+      "name": "BUHUND",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9834,
-    "minor": 9834,
+    "major": 9835,
+    "minor": 9835,
     "patch": 84
   }
 }
