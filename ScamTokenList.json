@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x712Ce0De2401E632D75e307Ed8325774Daaa3c51",
-      "symbol": "DAIMOND",
-      "name": "DAImond",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8fdD16f7eD1E7e3e782cE93CC2158E53C33b4655",
       "symbol": "KILL",
       "name": "GrowKiller",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x333c3666924370999Dd3Ba3B24277095157a862c",
+      "symbol": "ROR",
+      "name": "RiseofRonin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9853,
-    "minor": 9853,
+    "major": 9854,
+    "minor": 9854,
     "patch": 84
   }
 }
