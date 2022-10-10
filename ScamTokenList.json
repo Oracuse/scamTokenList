@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe13155a6E28FDbb990f43529b8c8762b5097373c",
-      "symbol": "ZODIAC",
-      "name": "TheEvocation",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x57EA050BE1782a52C779Eb03Fb7CA82cd36AC6a3",
       "symbol": "SHIBT",
       "name": "SHIBTRIP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e8C72A2C0Df62cc2dC6c2CCB7F04502C45DD472",
+      "symbol": "TALOS",
+      "name": "TALOS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9767,
-    "minor": 9767,
+    "major": 9768,
+    "minor": 9768,
     "patch": 84
   }
 }
