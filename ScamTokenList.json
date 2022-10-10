@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2f6255eD4e8Aa18Cca74f5d7a9962f5EcEE97494",
-      "symbol": "CATCOIN",
-      "name": "Catcoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6b7d67c66dd3118f123EC006c764F99ef041a70D",
       "symbol": "TANUKI",
       "name": "Tanuki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAd181d8fcc7839Ff3E2323a9F9161f80515FA572",
+      "symbol": "PI",
+      "name": "ZuChongzhi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9833,
-    "minor": 9833,
+    "major": 9834,
+    "minor": 9834,
     "patch": 84
   }
 }
