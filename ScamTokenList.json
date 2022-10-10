@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8B1d8Ce64467f6AC575Ab581441260EBaf3d3cC0",
-      "symbol": "CETH",
-      "name": "CommunityETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe129F69385a6328A86d107fA3985AC4bE8101DcB",
       "symbol": "SOLTAMA",
       "name": "SOLTAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4da79Ca87133f788b07282fe859A1E78A7D4268D",
+      "symbol": "CHEW",
+      "name": "ChewieInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9863,
-    "minor": 9863,
+    "major": 9864,
+    "minor": 9864,
     "patch": 84
   }
 }
