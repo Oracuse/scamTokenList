@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1faBd7F896282C8cf95E39CC2507bCE34F7d73d7",
-      "symbol": "ERROR",
-      "name": "Error404",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3fF5B10105E2142f9D0218b6a7FD166c37a2A871",
       "symbol": "GRETH",
       "name": "GreenEth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08077aacb217ee14A52EAD86f802641d464cb3C3",
+      "symbol": "APHANTOMSDREAM",
+      "name": "ProofofGhosts",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9770,
-    "minor": 9770,
+    "major": 9771,
+    "minor": 9771,
     "patch": 84
   }
 }
