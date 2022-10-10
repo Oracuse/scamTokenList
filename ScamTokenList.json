@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x941bF0E5452c5fE7030381E9cE5b2D62B98E44B4",
-      "symbol": "BEAST",
-      "name": "BlackBeast",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8B1d8Ce64467f6AC575Ab581441260EBaf3d3cC0",
       "symbol": "CETH",
       "name": "CommunityETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6A067998c940bca426c9F9d048FD044Bf2999E3F",
+      "symbol": "CHEDDA20",
+      "name": "ProofOfCheese",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9862,
-    "minor": 9862,
+    "major": 9863,
+    "minor": 9863,
     "patch": 84
   }
 }
