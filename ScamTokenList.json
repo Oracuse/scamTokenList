@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaf1a8Df98d1389afA8CF9281e4e1a0AaFae20B97",
-      "symbol": "COINDAO",
-      "name": "COINDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04514D77852B5AE2c37aeAe0772fa18F38171091",
       "symbol": "RAMP",
       "name": "MetaRamp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDbC26fdfD1b20efC89D606Da45b3eFDa351D419C",
+      "symbol": "XENB",
+      "name": "XENBurn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9846,
-    "minor": 9846,
+    "major": 9847,
+    "minor": 9847,
     "patch": 84
   }
 }
