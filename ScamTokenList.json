@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x31487975D422100e98352F28daEbEC8C62C200f2",
-      "symbol": "VISION",
-      "name": "LongTerm",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8aD47Fe7E5EFdf6EEC65d24930da27f9cf89E1Ae",
       "symbol": "KYNO",
       "name": "DragonKyla",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4713e61501589D99844691F3d5154BaE6A5b95c",
+      "symbol": "SIGMA",
+      "name": "SigmaProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9795,
-    "minor": 9795,
+    "major": 9796,
+    "minor": 9796,
     "patch": 84
   }
 }
