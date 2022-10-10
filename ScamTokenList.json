@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbA6e7B64ed53D88eff207B191aaf6623BC040E57",
-      "symbol": "APEARMY",
-      "name": "ApeArmy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01Aa6DAbbF3018f6b3e61626cC26f6100f44a9AA",
       "symbol": "GRETH",
       "name": "GreenEth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3a909699B686DDf8cbF79B4c42A6ccD46330a1d",
+      "symbol": "CYNTAX",
+      "name": "CyntaxWallet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9775,
-    "minor": 9775,
+    "major": 9776,
+    "minor": 9776,
     "patch": 84
   }
 }
