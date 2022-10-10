@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9fb9Ec13a18EFf7072Ee8cA7Ee7a2B295649e00d",
-      "symbol": "JAM",
-      "name": "JamToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8F88Ce977B549fc22b5507693Ab68c881081103d",
       "symbol": "SLYTHERIN",
       "name": "Slytherin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3fAA99b36763765A48673a4ff95eDfA6132944d",
+      "symbol": "XENOGE",
+      "name": "XenDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9780,
-    "minor": 9780,
+    "major": 9781,
+    "minor": 9781,
     "patch": 84
   }
 }
