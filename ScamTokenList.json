@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5d5B03ede9E4Ec9917827AC49FDA3C9853cF6AD4",
-      "symbol": "SHINIGAMI",
-      "name": "Shinigami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9b28EEE3C3c0B729F52B3bFE19C8e5A2e0d332ec",
       "symbol": "HOOD",
       "name": "TheHood",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80064A7B15bCc005c3c3eE3ce933A723aeE0E37B",
+      "symbol": "KWC",
+      "name": "KanyeWestCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9879,
-    "minor": 9879,
+    "major": 9880,
+    "minor": 9880,
     "patch": 84
   }
 }
