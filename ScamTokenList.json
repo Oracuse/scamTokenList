@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa841D749fF31C2ebeCa3E70ac148CdEA7E5ec430",
-      "symbol": "BAKU",
-      "name": "BakuHunter",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7A9c428AFD724a0B36db96Ab22A5Fdc11DECE357",
       "symbol": "ROE",
       "name": "RoeCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb19189Fb36c816f3e0f16065057B07B790998fDC",
+      "symbol": "SER",
+      "name": "Serum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9916,
-    "minor": 9916,
+    "major": 9917,
+    "minor": 9917,
     "patch": 84
   }
 }
