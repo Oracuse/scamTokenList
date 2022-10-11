@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8382febaD4e3ae3823486e795B1B941146Af3FAc",
-      "symbol": "VOODOO",
-      "name": "Voodoo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfFf1de849CBebBb6D9B7409Fa63586CBb163BA8A",
       "symbol": "SFLOKI",
       "name": "SultanFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2bc617F3c51a8950DE16BEECc1de42C6Cf7ad165",
+      "symbol": "POS",
+      "name": "ProofOfSatoshi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9958,
-    "minor": 9958,
+    "major": 9959,
+    "minor": 9959,
     "patch": 84
   }
 }
