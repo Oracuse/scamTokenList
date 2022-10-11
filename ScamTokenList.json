@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8174eA243Aabc2b0551EcdC5d46048d59C2265c6",
-      "symbol": "MARIEX",
-      "name": "MariEx",
-      "decimals": 10,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x363f071A901f92a11a041bf491f35Cdd18224289",
       "symbol": "JITEL",
       "name": "JiteL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEeA10FA33Ff2d32C37e7Ea0727Ff384Fdba924A2",
+      "symbol": "ALBA",
+      "name": "Alba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9906,
-    "minor": 9906,
+    "major": 9907,
+    "minor": 9907,
     "patch": 84
   }
 }
