@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x632530c45597202A44e0062915fBd3d0142880e0",
-      "symbol": "BIHS",
-      "name": "SHIB",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x666945791d760e98562b42a7fde5f9c3f5Cf2848",
       "symbol": "NEBULOUS",
       "name": "Nebulous",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F288162cB625f0B92902099F3aE18d2f30Da599",
+      "symbol": "FLORA",
+      "name": "FLORA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9873,
-    "minor": 9873,
+    "major": 9874,
+    "minor": 9874,
     "patch": 84
   }
 }
