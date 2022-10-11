@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdab3f3D6820cb007980f459bfff0343ac909f0d0",
-      "symbol": "SHIBANOMICS",
-      "name": "ShibaNomics",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3DF60137aC6F37DB56e0359E4A3881200755EE36",
       "symbol": "1000X",
       "name": "1000xgem",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3CeeeDd001EB199bab5063e3b381599a981Ef5b1",
+      "symbol": "PROOFOFAPE",
+      "name": "APE20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9977,
-    "minor": 9977,
+    "major": 9978,
+    "minor": 9978,
     "patch": 84
   }
 }
