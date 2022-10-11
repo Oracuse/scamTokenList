@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9b28EEE3C3c0B729F52B3bFE19C8e5A2e0d332ec",
-      "symbol": "HOOD",
-      "name": "TheHood",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x287F2eB14fA0993E5455aF529A732b87F8E9f562",
       "symbol": "BSHEESH",
       "name": "BabySHEESH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5E57C528EF9126200D76620e7b843600635E74Ca",
+      "symbol": "IR",
+      "name": "SIRToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9880,
-    "minor": 9880,
+    "major": 9881,
+    "minor": 9881,
     "patch": 84
   }
 }
