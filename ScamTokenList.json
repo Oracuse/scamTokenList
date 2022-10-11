@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD590934b4022daa271e021578d03511F834EC6Ea",
-      "symbol": "CRI",
-      "name": "CoinRockInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3401832Dc2201c221BA670e2b4538dF340dad693",
       "symbol": "FUJIN",
       "name": "Fujin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56b32F5cA8d5aC11585F988Fa4B6494a2F839c95",
+      "symbol": "CHAINS",
+      "name": "ChainsawMan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9928,
-    "minor": 9928,
+    "major": 9929,
+    "minor": 9929,
     "patch": 84
   }
 }
