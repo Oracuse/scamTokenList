@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAefc72B834CbD819344277544A039C6Afb8eeB71",
-      "symbol": "SHUSH",
-      "name": "SHUSH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1Cd939Fe31883CdDF30c0e698AD4fDBadCB90431",
       "symbol": "GETH",
       "name": "GoblinETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x712b011b6b1a684Fdb688C8483492E1c46Bc0712",
+      "symbol": "BABYJOJO",
+      "name": "BOJO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9926,
-    "minor": 9926,
+    "major": 9927,
+    "minor": 9927,
     "patch": 84
   }
 }
