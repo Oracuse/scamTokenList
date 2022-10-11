@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xebA2c59b3576c4B174bFEf5e27CEE3D53F76E321",
-      "symbol": "WICCA",
-      "name": "HornedGod",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEfd0D5D822eB375B5b34c8e7abA21f4E985415bf",
       "symbol": "YDFP",
       "name": "YDFP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaa219BE8CbB15FB66D5430CC3189EfA84bd56cf5",
+      "symbol": "GENWEB",
+      "name": "GenesisWeb",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9867,
-    "minor": 9867,
+    "major": 9868,
+    "minor": 9868,
     "patch": 84
   }
 }
