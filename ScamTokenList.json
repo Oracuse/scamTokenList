@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x59F62b027D67e9dc612A3b13f75Dc4F76374ad09",
-      "symbol": "SHEEBONE",
-      "name": "SHEEBONE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x44882C4D99e4b0bf7ea375672c4C9887624fAF0F",
       "symbol": "BIBO",
       "name": "BibosDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf46Bf038A1777e3101195Bc6031F7D686A29FEB0",
+      "symbol": "POSHIB",
+      "name": "ProofofShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9979,
-    "minor": 9979,
+    "major": 9980,
+    "minor": 9980,
     "patch": 84
   }
 }
