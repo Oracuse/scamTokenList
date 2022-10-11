@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x652FE7f7490F986701FF2c25174dA9Baf2Ec20Ad",
-      "symbol": "YANG",
-      "name": "YinYang",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x417aA92fa53eAc9269D3A0478e593f2a7D32c786",
       "symbol": "SHEEFLOKI",
       "name": "SheeshFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x211e89380679783A662A6A0875DC8a7334d037DF",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9972,
-    "minor": 9972,
+    "major": 9973,
+    "minor": 9973,
     "patch": 84
   }
 }
