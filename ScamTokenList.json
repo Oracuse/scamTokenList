@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x40f85830194467c27028224CeBABd539A77d701b",
-      "symbol": "ETHGRAM",
-      "name": "EthGram",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5d5B03ede9E4Ec9917827AC49FDA3C9853cF6AD4",
       "symbol": "SHINIGAMI",
       "name": "Shinigami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31FCCF7d55aE360a5bf9c2C262Ec6bb9a75BBF92",
+      "symbol": "FGUARD",
+      "name": "FlokiGuard",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9878,
-    "minor": 9878,
+    "major": 9879,
+    "minor": 9879,
     "patch": 84
   }
 }
