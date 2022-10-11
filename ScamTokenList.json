@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x84Cc389d72Ed502Ab226B8c618Df2576c2950805",
-      "symbol": "NFTFF",
-      "name": "NFTff",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x671193Cb50e7f38e0EBb5869803Fa2636ee568b7",
       "symbol": "MOONPLAY",
       "name": "MoonPlay",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x541049e711dB463D79592DEB2b816882103930Ab",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9982,
-    "minor": 9982,
+    "major": 9983,
+    "minor": 9983,
     "patch": 84
   }
 }
