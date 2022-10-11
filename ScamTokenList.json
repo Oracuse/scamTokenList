@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1C0d06D55D9237c5959F79736102Cda691bD1d89",
-      "symbol": "OBSERVER",
-      "name": "OBSERVER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22FC40816adc9F26e479e453D6f7Af771cE85a7b",
       "symbol": "BROSKI",
       "name": "Broski",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x016B767871A6B95DdEf681C15354792caF01d9fa",
+      "symbol": "XENF",
+      "name": "XenFlow",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9910,
-    "minor": 9910,
+    "major": 9911,
+    "minor": 9911,
     "patch": 84
   }
 }
