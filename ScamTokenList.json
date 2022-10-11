@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56d9f68E101FecF21fd7509B68ea99548cbe7e52",
-      "symbol": "ETERNAL",
-      "name": "ETERNAL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC1D09a8a89171C8C74A4dC2c70c836ddA042Bd87",
       "symbol": "MERC",
       "name": "SOPRANO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74cF636952CAB6fAf562D0DCE76D4BCe6C191bE3",
+      "symbol": "KIBBLES",
+      "name": "BUHUNDSKIBBLES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9945,
-    "minor": 9945,
+    "major": 9946,
+    "minor": 9946,
     "patch": 84
   }
 }
