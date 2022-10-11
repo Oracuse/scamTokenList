@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBE682C3E3beB8e82623D30e9608Ca2313e47bA4D",
-      "symbol": "VRT",
-      "name": "VeganRobToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x519F32e4e60a16e2C2946D06b6c7E7C6cC2148aE",
       "symbol": "KAI",
       "name": "KeeperAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10A73d4532077DA8B93A65bb78b5B813b18B16F6",
+      "symbol": "MINU",
+      "name": "MindfulnessInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9960,
-    "minor": 9960,
+    "major": 9961,
+    "minor": 9961,
     "patch": 84
   }
 }
