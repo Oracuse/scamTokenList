@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x225Db1bF6b26E9534521541fdaca4bCb5C536d2E",
-      "symbol": "TSUKIAMA",
-      "name": "Tsukiama",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x56d9f68E101FecF21fd7509B68ea99548cbe7e52",
       "symbol": "ETERNAL",
       "name": "ETERNAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x871E4Cb4D0863D87097455d30375F335986571A9",
+      "symbol": "OGETSU",
+      "name": "Ukemochi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9944,
-    "minor": 9944,
+    "major": 9945,
+    "minor": 9945,
     "patch": 84
   }
 }
