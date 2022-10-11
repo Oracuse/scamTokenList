@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA70E3e0589207306Fe1C3BC9397A2Dc01E31C546",
-      "symbol": "CASS",
-      "name": "Cassiopeia",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAefc72B834CbD819344277544A039C6Afb8eeB71",
       "symbol": "SHUSH",
       "name": "SHUSH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87d4983698F2B148A0a0D8aB6f9db8f8e79f4726",
+      "symbol": "ODON",
+      "name": "Odon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9925,
-    "minor": 9925,
+    "major": 9926,
+    "minor": 9926,
     "patch": 84
   }
 }
