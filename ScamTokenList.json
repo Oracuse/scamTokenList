@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x287F2eB14fA0993E5455aF529A732b87F8E9f562",
-      "symbol": "BSHEESH",
-      "name": "BabySHEESH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa020430aB7BC508F89C74edDA66678089fF54cEF",
       "symbol": "INFINITY",
       "name": "Infinity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x389913C96B0F46212d5E25CdD91946d71556F777",
+      "symbol": "VENUSAUR",
+      "name": "Venusaur",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9881,
-    "minor": 9881,
+    "major": 9882,
+    "minor": 9882,
     "patch": 84
   }
 }
