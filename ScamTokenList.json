@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8bD658357194DB7f0ead74aCCA7c38312587EC86",
-      "symbol": "WARON",
-      "name": "Waron",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x006DbeD840DACA23F6Dc7Ec132469D785e5dF28c",
       "symbol": "KOBO",
       "name": "KOBOINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x012264322126Ae208c93E3898fDAba834Ad70EFC",
+      "symbol": "LOYALTY",
+      "name": "Loyalty",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9962,
-    "minor": 9962,
+    "major": 9963,
+    "minor": 9963,
     "patch": 84
   }
 }
