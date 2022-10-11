@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73fbfD424F0c1c8F7a84fDbb800A26D5D72fDbEc",
-      "symbol": "RA",
-      "name": "Obelisk",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98B7325328E3257A4921FDB7806679F5CF68184F",
       "symbol": "DAIABLOII",
       "name": "DAIabloII",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC08948b45336fF7E0b060922A65d7881bAC39dC4",
+      "symbol": "FC",
+      "name": "FlokiCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9875,
-    "minor": 9875,
+    "major": 9876,
+    "minor": 9876,
     "patch": 84
   }
 }
