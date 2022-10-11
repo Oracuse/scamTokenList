@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x32fCAF4dA4416562D5F9bdE14D5274982b6E45Fa",
-      "symbol": "SPIRIT",
-      "name": "Spirit",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA652492a384758B676CD61464Ab34e69C15E51eE",
       "symbol": "SUMO",
       "name": "SumoGorilla",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE8EBA7CCddC4c557d41f48B2Da616F326aD6ceC7",
+      "symbol": "POE",
+      "name": "ProofOfElon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9899,
-    "minor": 9899,
+    "major": 9900,
+    "minor": 9900,
     "patch": 84
   }
 }
