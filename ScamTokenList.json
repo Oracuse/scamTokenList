@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x63E70Cfaf7c2dc6a2Bd6d5c0C461b6e4C9cA6212",
-      "symbol": "DND",
-      "name": "Deionzed",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x33D7fA7D63b27527B8Db2f7a4471d55449cc0833",
       "symbol": "MITTENS",
       "name": "DANE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90647737C4b8F6F65452Fdb17c2424c4A97dAdD5",
+      "symbol": "POUNCE",
+      "name": "PounceETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9940,
-    "minor": 9940,
+    "major": 9941,
+    "minor": 9941,
     "patch": 84
   }
 }
