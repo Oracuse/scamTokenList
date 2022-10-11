@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0B972aa52A4143ee0DC92F01e0Fec63d7b121758",
-      "symbol": "SHEX",
-      "name": "SHEX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeA32E8b93Dad9D9Fd441c3761d7ee888167daB13",
       "symbol": "KURAIBUSHI",
       "name": "KURAIBUSHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B875E3a18c538Ded5d1b356B7eAF7721eB77A75",
+      "symbol": "SKUNK",
+      "name": "SkunkInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9901,
-    "minor": 9901,
+    "major": 9902,
+    "minor": 9902,
     "patch": 84
   }
 }
