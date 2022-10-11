@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6B9322447a31a96B3E20a310b49e20DE68A93d09",
-      "symbol": "URETH",
-      "name": "Taking",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF36585D97Cb8Ce2302F82BeD85F2CBEDB0Bc6711",
       "symbol": "URETH",
       "name": "Confiscating",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86ae1a9275Bc99A9871D9980F4d217B819eC6D0b",
+      "symbol": "CHADS",
+      "name": "CHADS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9952,
-    "minor": 9952,
+    "major": 9953,
+    "minor": 9953,
     "patch": 84
   }
 }
