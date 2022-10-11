@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7CB651fcc1A7604Ff019af2E45Ca23f7B909Dc0b",
-      "symbol": "LATEN",
-      "name": "Laten",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8C82039a7BF7A7BC75a12bA2F50ddD860f9a756c",
       "symbol": "TPUSD",
       "name": "TsunamiPayCoinUSD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42d87e63646bc11Eaf8DC5004669D11758B9FF1e",
+      "symbol": "WHALE",
+      "name": "WhaleEth",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9904,
-    "minor": 9904,
+    "major": 9905,
+    "minor": 9905,
     "patch": 84
   }
 }
