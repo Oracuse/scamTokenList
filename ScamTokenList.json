@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x691b1965BF9A6Cb960b578bcFa2282B0D5672513",
-      "symbol": "FUTURE",
-      "name": "WhatWeOweTheFuture",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x32fCAF4dA4416562D5F9bdE14D5274982b6E45Fa",
       "symbol": "SPIRIT",
       "name": "Spirit",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2240bf253F31D44E74AcFaECB0aB5119c0F6AB3a",
+      "symbol": "KYD",
+      "name": "KanyeDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9898,
-    "minor": 9898,
+    "major": 9899,
+    "minor": 9899,
     "patch": 84
   }
 }
