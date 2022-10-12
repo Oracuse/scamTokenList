@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdb9aBC1B437EEf8CF6270DE8053254930Cd090c2",
-      "symbol": "DOODOO",
-      "name": "BABYSHARK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDa7A2D0E8a8F3114080d6F7FF4bdD3b38D84CD28",
       "symbol": "ODIN",
       "name": "Odineum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfF4B291126bb95ED3BAB2ecE724043428Ef712b4",
+      "symbol": "ONE",
+      "name": "JustOneToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10105,
-    "minor": 10105,
+    "major": 10106,
+    "minor": 10106,
     "patch": 85
   }
 }
