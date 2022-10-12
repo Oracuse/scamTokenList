@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xceb42AAcF1df2c78F1a4736D7d087daF0bFd86A2",
-      "symbol": "INUC",
-      "name": "InuCraft",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb6a1b86Be879cAe674013E0A90B555B621AF889b",
       "symbol": "DBSC",
       "name": "DeadBearsSociety",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1B2a6f28355d283705Aaf04d9BAe6B6BcF86FEb",
+      "symbol": "CE",
+      "name": "CommonEra",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10102,
-    "minor": 10102,
+    "major": 10103,
+    "minor": 10103,
     "patch": 85
   }
 }
