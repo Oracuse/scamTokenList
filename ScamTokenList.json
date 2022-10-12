@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x47C980aebDF5D8546Ba1d7841BF777528F474683",
-      "symbol": "KODACHI",
-      "name": "Kodachi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x930697DbdAe3682759E7DfDE286c92826e1C293d",
       "symbol": "MONTERO",
       "name": "Montero",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f97FB852E94Ac6639eF2cd54a3cC41384afC1D3",
+      "symbol": "CHUCKY",
+      "name": "ChuckyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10040,
-    "minor": 10040,
+    "major": 10041,
+    "minor": 10041,
     "patch": 85
   }
 }
