@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x33C13f11D52Ef80B8CE0B443561f6e8053DA6cf9",
-      "symbol": "COPPERFI",
-      "name": "CopperFi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x52D629bF5B36D6c99Ef9d40BAA44cff367a397E1",
       "symbol": "PEACE",
       "name": "PeaceETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34A8351CA1716345DC1602DB31Cc1377A6C57667",
+      "symbol": "BABYCOIL",
+      "name": "BabyCoil",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10152,
-    "minor": 10152,
+    "major": 10153,
+    "minor": 10153,
     "patch": 85
   }
 }
