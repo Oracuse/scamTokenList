@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCCE4b5b2023C1322bDFD98691F11FFF40fd8dbC0",
-      "symbol": "ASCENT",
-      "name": "Ascension",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5E6812cf73544b7A9b65F8899E24C0e31A5f200e",
       "symbol": "TPP",
       "name": "ThePassiveProject",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35809a1e61baAdaEF638aA2f863957DdF3A2432b",
+      "symbol": "AURI",
+      "name": "AureumIcoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9994,
-    "minor": 9994,
+    "major": 9995,
+    "minor": 9995,
     "patch": 84
   }
 }
