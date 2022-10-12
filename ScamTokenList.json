@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE82d67C4208Bd61a732E8B219BF373b170f09ec1",
-      "symbol": "BROVE",
-      "name": "brolove",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9928e1F1596f80aB85a55427541C5d0a37329C76",
       "symbol": "FUTURA",
       "name": "Futura",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0CccbbA6E6D081Eb64c3883206108da2A8Ec304B",
+      "symbol": "POD",
+      "name": "ProofofDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10015,
-    "minor": 10015,
+    "major": 10016,
+    "minor": 10016,
     "patch": 84
   }
 }
