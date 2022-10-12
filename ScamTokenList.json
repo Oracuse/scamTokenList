@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8F1afaea4f40326262618DdB866414FA1A795CaC",
-      "symbol": "21CARDS",
-      "name": "21Cards",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x47C980aebDF5D8546Ba1d7841BF777528F474683",
       "symbol": "KODACHI",
       "name": "Kodachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07e82D89Db9Dd4Af7bfF51780483Ca21b6980000",
+      "symbol": "KANG",
+      "name": "Kangal",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10039,
-    "minor": 10039,
+    "major": 10040,
+    "minor": 10040,
     "patch": 85
   }
 }
