@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x90b6082aE77E5fb8E5214E9C7Cc18badE7BE7693",
-      "symbol": "MONTERO",
-      "name": "Montero",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49f1e13FCE0f03F1D7B503F865F778C1e3816699",
       "symbol": "FULLSEND",
       "name": "FullSend",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17B8E80F607521fAC56Be397794b354a3b82F5da",
+      "symbol": "PURPLE",
+      "name": "Purple",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10052,
-    "minor": 10052,
+    "major": 10053,
+    "minor": 10053,
     "patch": 85
   }
 }
