@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x20F6614c085BD8AB9871852F447Ffa0C923419Bb",
-      "symbol": "SOLSHINU",
-      "name": "SOLSHINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97fef38B79640ee95EaEF250aAf8733C70007a58",
       "symbol": "MNFT",
       "name": "MemeNFT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b3F2Eb4f7829E3085Eca5356A2068A365278e0A",
+      "symbol": "TAMAT",
+      "name": "Tamadoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10056,
-    "minor": 10056,
+    "major": 10057,
+    "minor": 10057,
     "patch": 85
   }
 }
