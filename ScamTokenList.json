@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x30b1e3CFa5ccb92f787C838D53Ede01B2812Ed10",
-      "symbol": "HACHIMURA",
-      "name": "TheShogun",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCcFE76EB46D46C2D2334DF7Cab8E165e80050fCB",
       "symbol": "BOITATA",
       "name": "SERPENTOFFIRE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x823870a7c79e78A11fbD11B82eFBc3a25337D094",
+      "symbol": "888POKER",
+      "name": "888Poker",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10045,
-    "minor": 10045,
+    "major": 10046,
+    "minor": 10046,
     "patch": 85
   }
 }
