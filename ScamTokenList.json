@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x03898d6248554C042775F9E916D15029C3215Fc2",
-      "symbol": "TAIZOKAI",
-      "name": "Taizokai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xED3a4Bcdda976D66bD928cf6500DA33484ed4b64",
       "symbol": "GOLEM",
       "name": "GolemofPrague",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96C94FC5e8276746a0D0bC21B77a87C6ED44B524",
+      "symbol": "BLX",
+      "name": "Bolix",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10028,
-    "minor": 10028,
+    "major": 10029,
+    "minor": 10029,
     "patch": 84
   }
 }
