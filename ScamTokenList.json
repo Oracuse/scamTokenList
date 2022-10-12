@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD912E7ac27e8b1BeFC7d1c2c782387dE9d247914",
-      "symbol": "SK",
-      "name": "ShibaKombat",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x47BEC9edF43a4a5ef1C850118a2d58B71A2fa330",
       "symbol": "FLAME",
       "name": "Flame",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c6E697c246a55dD2531cE9eD70088dF26379082",
+      "symbol": "SAFU",
+      "name": "ProofOfRug",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10125,
-    "minor": 10125,
+    "major": 10126,
+    "minor": 10126,
     "patch": 85
   }
 }
