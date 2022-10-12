@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x46a42bc8e4D5Af769Fb65D548169A9aae688f4f1",
-      "symbol": "TPI",
-      "name": "ThePassiveIncome",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1578D508B6cF0D67334F34e46897Ae2003AB4568",
       "symbol": "KURAIBUSHI",
       "name": "KURAIBUSHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F3a846f067DF5d10Ebd164a54E5CD87a1C16b66",
+      "symbol": "FND",
+      "name": "Foundation",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 9998,
-    "minor": 9998,
+    "major": 9999,
+    "minor": 9999,
     "patch": 84
   }
 }
