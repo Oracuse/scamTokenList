@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDA3162D6dC596eFbb5f3e1b9f5083352a534D88B",
-      "symbol": "BBONE",
-      "name": "BabyBone",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x637C01a2Fa3f5fCB60d1191491d1c13B8da26b9E",
       "symbol": "SAPES",
       "name": "ShatteredApes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20875C5C0FAC11419c318604083401024fd9043c",
+      "symbol": "FINEST",
+      "name": "BurntHair",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10024,
-    "minor": 10024,
+    "major": 10025,
+    "minor": 10025,
     "patch": 84
   }
 }
