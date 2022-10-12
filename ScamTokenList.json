@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb52109Fa0A89829bCa487FBD0443549A40e0a514",
-      "symbol": "ETHS",
-      "name": "ETHS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4d9CcbcD3962fe026103664DEfc11258d4549DA0",
       "symbol": "LOKIX",
       "name": "LokiX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e54d1e598e90e0Dd3Dd9B75feECD53b63668C61",
+      "symbol": "BEPE",
+      "name": "BabyMemeProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10089,
-    "minor": 10089,
+    "major": 10090,
+    "minor": 10090,
     "patch": 85
   }
 }
