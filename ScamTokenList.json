@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x570BBd06019086BeA1F447d0ba484e192d480027",
-      "symbol": "RHINOINU",
-      "name": "RhinoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x57363EaE616C2A96E68Cc3BCA8dAD1b3F6182d0b",
       "symbol": "KODACHI",
       "name": "Kodachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8AD6807f32A509Fa8DafAFe35EFd580CAa5301Ad",
+      "symbol": "HEI",
+      "name": "Hei",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10141,
-    "minor": 10141,
+    "major": 10142,
+    "minor": 10142,
     "patch": 85
   }
 }
