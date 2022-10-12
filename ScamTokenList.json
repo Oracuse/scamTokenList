@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x99E5Bdf894e10fBFc194d486aa604107f4951905",
-      "symbol": "MEMENTOVIVERE",
-      "name": "MementoVivere",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8100EcE9305544C3770AbBcc61BAfda322ba9b90",
       "symbol": "KURAIBUSHI",
       "name": "KURAIBUSHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x532Bb9a256B78A14Ee0B91486285e830B1cd6550",
+      "symbol": "TZR",
+      "name": "Tazor",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10059,
-    "minor": 10059,
+    "major": 10060,
+    "minor": 10060,
     "patch": 85
   }
 }
