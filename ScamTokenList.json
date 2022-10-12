@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x959e391341aEf0411746B3585e7348Deb6BD3C27",
-      "symbol": "THEBOOKOFCAVERNS",
-      "name": "TheBookofCaverns",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC39e7e543CF1151B13276edc9BC5B0Ea7A8cb388",
       "symbol": "SCALLOPSINU",
       "name": "ScallopsInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCFc1121A161B1bdBB9FC861b9aE19CDb6f9D7D28",
+      "symbol": "CHEMIST",
+      "name": "Chemicals",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10112,
-    "minor": 10112,
+    "major": 10113,
+    "minor": 10113,
     "patch": 85
   }
 }
