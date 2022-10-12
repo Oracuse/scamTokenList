@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x653b746e45F9400d796D19b7C3013F2ADc4dd24D",
-      "symbol": "PDAO",
-      "name": "PlanetDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeBF24f649fb81DC5c4cb3D3dF3061C2F77bC1191",
       "symbol": "SHEEDOGE",
       "name": "SheeshDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b7025fBf10044886a5Fc54D9739B43C6A605B82",
+      "symbol": "BUGGY",
+      "name": "BUGGY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10092,
-    "minor": 10092,
+    "major": 10093,
+    "minor": 10093,
     "patch": 85
   }
 }
