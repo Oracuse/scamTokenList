@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe9DabE8Cc7a5957f8dafFd5E611CA81894F4bC8E",
-      "symbol": "MIRROR",
-      "name": "MirrorEth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xceb42AAcF1df2c78F1a4736D7d087daF0bFd86A2",
       "symbol": "INUC",
       "name": "InuCraft",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF221E64fF4bDB698029090Af21e755bEC54727A7",
+      "symbol": "ROBLOX",
+      "name": "ROBLOX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10101,
-    "minor": 10101,
+    "major": 10102,
+    "minor": 10102,
     "patch": 85
   }
 }
