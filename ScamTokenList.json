@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFFD19D68fa3390CDf2C916F92D496BBC4679996F",
-      "symbol": "1ROSE",
-      "name": "FEIXIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE49f52F2aEC9657Bf3415382122C737bd5CB5266",
       "symbol": "AZURITE",
       "name": "ExpandedAwareness",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9558B66b2c7EB0c7Af5a3c1598E5a79F16D81F89",
+      "symbol": "ZENNYO",
+      "name": "ZennyoRyuo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10000,
-    "minor": 10000,
+    "major": 10001,
+    "minor": 10001,
     "patch": 84
   }
 }
