@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7B05C3d0198283B74B1F499516C7E6958c927e6D",
-      "symbol": "BPHMY",
-      "name": "Blasphemy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8363AE748C6c14C752A17a3254C08e4aA8220aD5",
       "symbol": "HARPOON",
       "name": "HARPOONHARPOONfinan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF0BB8D40195D99358D9296634CaddbAeEe3a761A",
+      "symbol": "FLOKCHAIN",
+      "name": "Flokchain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10070,
-    "minor": 10070,
+    "major": 10071,
+    "minor": 10071,
     "patch": 85
   }
 }
