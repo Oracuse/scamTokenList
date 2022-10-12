@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa80cb6D65d650CD709192b17b5cEeCd600501CEC",
-      "symbol": "GLDN",
-      "name": "TheGoldenApe",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1B09A8ea086747B5d7d8d117B8707f36Aa74fFE3",
       "symbol": "MONA",
       "name": "MONANEKO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86D499143225676eFc6905046425F46D92f789Cc",
+      "symbol": "TOAO",
+      "name": "TheOneAndOnly",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10010,
-    "minor": 10010,
+    "major": 10011,
+    "minor": 10011,
     "patch": 84
   }
 }
