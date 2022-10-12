@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE15D85c08f60fE9A3d2263c76D981540E2a8fa70",
-      "symbol": "AK",
-      "name": "AGNIKAI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x653b746e45F9400d796D19b7C3013F2ADc4dd24D",
       "symbol": "PDAO",
       "name": "PlanetDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1599c88406dc1F08ceB3772895C017190f04d5d4",
+      "symbol": "FOIL",
+      "name": "Foil",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10091,
-    "minor": 10091,
+    "major": 10092,
+    "minor": 10092,
     "patch": 85
   }
 }
