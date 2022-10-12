@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x19E27C536fDA7A690E4D0BDe9f6FbF5a812d13E8",
-      "symbol": "KURAIBUSHI",
-      "name": "KuraiBushi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x30b1e3CFa5ccb92f787C838D53Ede01B2812Ed10",
       "symbol": "HACHIMURA",
       "name": "TheShogun",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6F065f5f50FcF006C862084c1A5590f135370f3B",
+      "symbol": "OPTIMUS",
+      "name": "OptimusNetwork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10044,
-    "minor": 10044,
+    "major": 10045,
+    "minor": 10045,
     "patch": 85
   }
 }
