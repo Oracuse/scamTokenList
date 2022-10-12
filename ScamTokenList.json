@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x74F5A1658B9A4b04FfC90347BE980078f31d1Daf",
-      "symbol": "DOGEIAN",
-      "name": "DogeGuardian",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4b25C258197d2C1A11ed8DaE0a5E2890083887eB",
       "symbol": "PEACE",
       "name": "PeaceETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb16dCc2C98fb46B709cf377E9fA7a31CC84BAD5d",
+      "symbol": "FLOOZ",
+      "name": "FLOOZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10150,
-    "minor": 10150,
+    "major": 10151,
+    "minor": 10151,
     "patch": 85
   }
 }
