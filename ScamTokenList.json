@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA62fDcF18451694a5CF8B30122a16B41801De2A3",
-      "symbol": "STHETA",
-      "name": "THETA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa07D057f005D410687fDcC803972DD3Bcb7792Eb",
       "symbol": "OCTOINU",
       "name": "OctoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc892f5113683b3d965989Fd9FEA3650BE4c12573",
+      "symbol": "PERFUME",
+      "name": "EauDeParfum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10155,
-    "minor": 10155,
+    "major": 10156,
+    "minor": 10156,
     "patch": 85
   }
 }
