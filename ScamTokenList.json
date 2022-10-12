@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x540e941696FBE4461Db396809791eB806a3b6D4a",
-      "symbol": "SQUIDWARDINU",
-      "name": "SquidwardInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7AB93f23a419f55C56C8b272D0BF52D6FCFE524d",
       "symbol": "MYKONOS",
       "name": "MYKONOS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56D1534Fa94E8DB9e2173A82998118495A4b7664",
+      "symbol": "CE",
+      "name": "CommonEra",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10099,
-    "minor": 10099,
+    "major": 10100,
+    "minor": 10100,
     "patch": 85
   }
 }
