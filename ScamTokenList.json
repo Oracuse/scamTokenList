@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60789C92009c58fd44cE022f8d5a614083885df1",
-      "symbol": "AK",
-      "name": "AGNIKAI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2e8A864A82063C64c50B427A952c95ea7F625b49",
       "symbol": "IDEAL",
       "name": "IDEAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F985f2914b683C9A2d5E2D3A3A7E007b5566E44",
+      "symbol": "POOR",
+      "name": "InflationInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10048,
-    "minor": 10048,
+    "major": 10049,
+    "minor": 10049,
     "patch": 85
   }
 }
