@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF04D1aBA861c3e03E7205045FAb81254F3a178d3",
-      "symbol": "SHIBUKI",
-      "name": "SHIBUKIINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA7065567F6d52a1B4b7451093A1Fa066f0925B29",
       "symbol": "AAPE",
       "name": "AncientApe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc390C24FE1c338C59382E3ff4D4bEc0b1358fB28",
+      "symbol": "HOSHIKA",
+      "name": "HoshiKatachi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10132,
-    "minor": 10132,
+    "major": 10133,
+    "minor": 10133,
     "patch": 85
   }
 }
