@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x437fd710be7f5b748a0983CF0AD20D616Aacd663",
-      "symbol": "SHEESHEREUM",
-      "name": "SHEESHEREUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2C7c4Fa857A11549F6E7353Ecda1ac5BC7967bA8",
       "symbol": "TEST",
       "name": "TestContract",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB94b650c3c8E7f2F352A71919E59aC2375CAc400",
+      "symbol": "FLAG",
+      "name": "Flag",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10128,
-    "minor": 10128,
+    "major": 10129,
+    "minor": 10129,
     "patch": 85
   }
 }
