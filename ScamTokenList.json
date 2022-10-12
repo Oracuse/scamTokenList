@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x52D629bF5B36D6c99Ef9d40BAA44cff367a397E1",
-      "symbol": "PEACE",
-      "name": "PeaceETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4b004EA577Ec1553041c863F39974741b9E78442",
       "symbol": "PAGEOFCUPS",
       "name": "PageofCups",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD065e6F129109330D746E0eE9a05638E9cE5768c",
+      "symbol": "REI",
+      "name": "Rei",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10153,
-    "minor": 10153,
+    "major": 10154,
+    "minor": 10154,
     "patch": 85
   }
 }
