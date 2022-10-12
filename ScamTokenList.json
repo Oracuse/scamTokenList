@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCcFE76EB46D46C2D2334DF7Cab8E165e80050fCB",
-      "symbol": "BOITATA",
-      "name": "SERPENTOFFIRE",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCb5202b04223F1Fff9aE9b2e701F5613ae63d261",
       "symbol": "FEMTOM",
       "name": "Femtomolar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a451239473FaDe5706909B351f308FEf8ba760C",
+      "symbol": "TOGASU",
+      "name": "TokugawaLeyasu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10046,
-    "minor": 10046,
+    "major": 10047,
+    "minor": 10047,
     "patch": 85
   }
 }
