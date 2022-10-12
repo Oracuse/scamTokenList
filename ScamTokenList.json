@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x275089a7078Cd86847dd0469AA5fbDff13eC48cc",
-      "symbol": "CPYRO",
-      "name": "CommunityPyro",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8F1afaea4f40326262618DdB866414FA1A795CaC",
       "symbol": "21CARDS",
       "name": "21Cards",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4bB373C6B37e919ACB40509bfFA1dA6A13D3fbaa",
+      "symbol": "CHEMX",
+      "name": "ChemicalX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10038,
-    "minor": 10038,
+    "major": 10039,
+    "minor": 10039,
     "patch": 85
   }
 }
