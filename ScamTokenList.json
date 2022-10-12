@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE49f52F2aEC9657Bf3415382122C737bd5CB5266",
-      "symbol": "AZURITE",
-      "name": "ExpandedAwareness",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe0686Ba1C70b43fF76409cb3d4C61dE346A9133E",
       "symbol": "0X",
       "name": "0X",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e8c93caB244916F16D022b8D0348B8d75b5d1a2",
+      "symbol": "GUCCI",
+      "name": "GucciInu",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10001,
-    "minor": 10001,
+    "major": 10002,
+    "minor": 10002,
     "patch": 84
   }
 }
