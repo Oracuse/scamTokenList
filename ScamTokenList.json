@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe0686Ba1C70b43fF76409cb3d4C61dE346A9133E",
-      "symbol": "0X",
-      "name": "0X",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x264FdFecCa13334d0c2CC5F4B416b7C1fe549517",
       "symbol": "NEKO",
       "name": "NEKONEKO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x660f8120eBa4DeA7703035f3826e051273A21609",
+      "symbol": "PARA",
+      "name": "Paradigm",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10002,
-    "minor": 10002,
+    "major": 10003,
+    "minor": 10003,
     "patch": 84
   }
 }
