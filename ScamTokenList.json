@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcc3C8bb67918AB6109994c5dEFAE91CA101068d3",
-      "symbol": "KRAKENINU",
-      "name": "KrakenInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x046D83e50E14F911513486b83981aa158de82b70",
       "symbol": "SHIZUNE",
       "name": "Takahari",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2ba45fcfB118C591D36d8c963EaAce1522918Ff",
+      "symbol": "EMP",
+      "name": "Emptiness",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10162,
-    "minor": 10162,
+    "major": 10163,
+    "minor": 10163,
     "patch": 85
   }
 }
