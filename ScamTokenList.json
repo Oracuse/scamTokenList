@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x637C01a2Fa3f5fCB60d1191491d1c13B8da26b9E",
-      "symbol": "SAPES",
-      "name": "ShatteredApes",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x26487eC318b0138dcf6CD1f43Ee68927756dbc1d",
       "symbol": "FUTURA",
       "name": "Futura",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1CEBc6cb877870C62d0A5D4d774D264Cf79a271",
+      "symbol": "FINEST",
+      "name": "BurntHair",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10025,
-    "minor": 10025,
+    "major": 10026,
+    "minor": 10026,
     "patch": 84
   }
 }
