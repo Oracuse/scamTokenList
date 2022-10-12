@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6D62fB99658F486066b88fa132F907bC0522CdB2",
-      "symbol": "YDF",
-      "name": "YIELDFACTORY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3E055B6cbE13C355e0D8C59cf257C1C0B36e4619",
       "symbol": "SHIBOBA",
       "name": "SHIBOBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x721a50d8aD3b86e00E49F476C7A674EBd595De5e",
+      "symbol": "POS",
+      "name": "ProofOfSerum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10079,
-    "minor": 10079,
+    "major": 10080,
+    "minor": 10080,
     "patch": 85
   }
 }
