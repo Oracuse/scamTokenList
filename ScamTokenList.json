@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDa7A2D0E8a8F3114080d6F7FF4bdD3b38D84CD28",
-      "symbol": "ODIN",
-      "name": "Odineum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x56D1CBef353b691BD1cDDF582D03C05f636E8906",
       "symbol": "WILLOW",
       "name": "TheWILLOWS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C591f39f1A0Edf2CE78aa1d6de6b330D0346Fcb",
+      "symbol": "ONE",
+      "name": "JUSTONETOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10106,
-    "minor": 10106,
+    "major": 10107,
+    "minor": 10107,
     "patch": 85
   }
 }
