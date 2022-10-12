@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9C5Eab4A42A826924F74c70D7CF0Cc5d29edA1D1",
-      "symbol": "HORCRUX",
-      "name": "HORCRUXES",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50c2f743f9eF185d95Ec5c9805B53900f9cDbe0A",
       "symbol": "BOONMIRDS",
       "name": "BoonMirds",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b5031600895094325ce54C7Bf19090c8B57Ca01",
+      "symbol": "ODT",
+      "name": "OnlyDevs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10114,
-    "minor": 10114,
+    "major": 10115,
+    "minor": 10115,
     "patch": 85
   }
 }
