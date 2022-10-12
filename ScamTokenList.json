@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7AB93f23a419f55C56C8b272D0BF52D6FCFE524d",
-      "symbol": "MYKONOS",
-      "name": "MYKONOS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe9DabE8Cc7a5957f8dafFd5E611CA81894F4bC8E",
       "symbol": "MIRROR",
       "name": "MirrorEth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7fd49757E9c4390dcA9735913Bc11566a46e6901",
+      "symbol": "SOCCER",
+      "name": "ProofOfSoccer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10100,
-    "minor": 10100,
+    "major": 10101,
+    "minor": 10101,
     "patch": 85
   }
 }
