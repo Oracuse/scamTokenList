@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbf54dECB6EF179933667E4f5122A8F2bEe2eea29",
-      "symbol": "ETA",
-      "name": "ELONATAMA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73d881F016b922D1eC90fE48286a3178BD06119D",
       "symbol": "MELGINY",
       "name": "MelginyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xee70dEd48BB003746a04894b7C8949e22256acE0",
+      "symbol": "BWCI",
+      "name": "BabyWorldCupInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10076,
-    "minor": 10076,
+    "major": 10077,
+    "minor": 10077,
     "patch": 85
   }
 }
