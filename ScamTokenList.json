@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6879Bb9dE32dF2Ef34783aD27712594Cb8060d96",
-      "symbol": "LP",
-      "name": "Liquidity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdb9aBC1B437EEf8CF6270DE8053254930Cd090c2",
       "symbol": "DOODOO",
       "name": "BABYSHARK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x118C7272c53b6bD6763fF393B33AA30344f4F537",
+      "symbol": "AWOLF",
+      "name": "ArmouredWolf",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10104,
-    "minor": 10104,
+    "major": 10105,
+    "minor": 10105,
     "patch": 85
   }
 }
