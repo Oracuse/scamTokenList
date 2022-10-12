@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEbEe86a4754E8B15313c4aa257E6129fc8f45b92",
-      "symbol": "NAMI",
-      "name": "OniNami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5693fC49b32DAE9Cdb7c3135A00282d0c6c31E41",
       "symbol": "SHEESHSHEESH",
       "name": "SheeshSheesh",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEF420a03C7a31C1cCCb29cadbf06CEe2EA4D947C",
+      "symbol": "OPTIMUS",
+      "name": "OptimusNetwork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10042,
-    "minor": 10042,
+    "major": 10043,
+    "minor": 10043,
     "patch": 85
   }
 }
