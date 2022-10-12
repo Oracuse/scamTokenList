@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCb5202b04223F1Fff9aE9b2e701F5613ae63d261",
-      "symbol": "FEMTOM",
-      "name": "Femtomolar",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x60789C92009c58fd44cE022f8d5a614083885df1",
       "symbol": "AK",
       "name": "AGNIKAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d1F28eb3A364E3CE9888C5edA36a5159D313699",
+      "symbol": "POPUP",
+      "name": "ProofOfPowell",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10047,
-    "minor": 10047,
+    "major": 10048,
+    "minor": 10048,
     "patch": 85
   }
 }
