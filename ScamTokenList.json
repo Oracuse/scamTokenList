@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x930697DbdAe3682759E7DfDE286c92826e1C293d",
-      "symbol": "MONTERO",
-      "name": "Montero",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEbEe86a4754E8B15313c4aa257E6129fc8f45b92",
       "symbol": "NAMI",
       "name": "OniNami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x970bda3CCEb01BC43015bF2Bc76e627B01f0F23c",
+      "symbol": "ROIDS",
+      "name": "LIGHTWEIGHT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10041,
-    "minor": 10041,
+    "major": 10042,
+    "minor": 10042,
     "patch": 85
   }
 }
