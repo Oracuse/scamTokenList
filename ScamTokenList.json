@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6D25b1595b3fB9Eda53BEA7B08E871e3F88c1393",
-      "symbol": "SENDELON",
-      "name": "FULLSENDELON",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xabB2fc8B1949a2CC40691b1b4512C971B14dc61B",
       "symbol": "RAIJUINU",
       "name": "RaijuInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c2C6791AD2fa8F681c05876b27186d7CE77Df9d",
+      "symbol": "BXEN",
+      "name": "XENCrypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10035,
-    "minor": 10035,
+    "major": 10036,
+    "minor": 10036,
     "patch": 85
   }
 }
