@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6F0333Dada085AA43127cFDefB579749621c5962",
-      "symbol": "XNOM",
-      "name": "XNOM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9fd2e5AC1F25E727853FEA83301C24DCF72e3900",
       "symbol": "EUPHORIA",
       "name": "Euphoria",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5049574b216Cf0a6707e4cDaB7De4EcBe3FA2bf",
+      "symbol": "ARIES",
+      "name": "AriesSwap",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10064,
-    "minor": 10064,
+    "major": 10065,
+    "minor": 10065,
     "patch": 85
   }
 }
