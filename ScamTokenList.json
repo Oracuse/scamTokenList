@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56Acb543D39696be7D098C06a7b7F4a8FFB12Ff6",
-      "symbol": "DOUGHNUTINU",
-      "name": "DoughnutInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB188EbAA145F7173c5FCe4daCF7a3eb99517fc78",
       "symbol": "ETHEREAL",
       "name": "RealEthereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5f25c6f7c531594b489E9A11ECdEA39885d0Dd0",
+      "symbol": "MIKABOSHI20",
+      "name": "Mikaboshi20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10144,
-    "minor": 10144,
+    "major": 10145,
+    "minor": 10145,
     "patch": 85
   }
 }
