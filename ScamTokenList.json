@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x26e2E86c7C085BC8b752F3F603A70ce650bD3993",
-      "symbol": "GRIDLOCK",
-      "name": "gridlockgridlockfin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfbe79725E6BD58fdFeafA5d0DB4f9a80d2AC98d5",
       "symbol": "ERI",
       "name": "Selectivereality",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6DaBc2c6235DD60Abfb600b75c230AF397B63717",
+      "symbol": "MM",
+      "name": "MangoMango",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 9990,
-    "minor": 9990,
+    "major": 9991,
+    "minor": 9991,
     "patch": 84
   }
 }
