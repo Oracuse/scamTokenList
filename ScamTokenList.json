@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1B09A8ea086747B5d7d8d117B8707f36Aa74fFE3",
-      "symbol": "MONA",
-      "name": "MONANEKO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA7338df3E4F33c4373A6788aeE59dF107D897DFa",
       "symbol": "SLEEP",
       "name": "Insomnia",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5FC2fC41a57F9FF132C3B7a16CB78d8D4438375E",
+      "symbol": "SERP",
+      "name": "SerProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10011,
-    "minor": 10011,
+    "major": 10012,
+    "minor": 10012,
     "patch": 84
   }
 }
