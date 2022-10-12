@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8100EcE9305544C3770AbBcc61BAfda322ba9b90",
-      "symbol": "KURAIBUSHI",
-      "name": "KURAIBUSHI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x394d52Ddf95E3Fe6c233836bd407522a5784150a",
       "symbol": "ARINU",
       "name": "ArabianInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41eB8c6a8f51F339231f2576CBF9F23fbA2AE5Db",
+      "symbol": "SHITVERSE",
+      "name": "PieceofShit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10060,
-    "minor": 10060,
+    "major": 10061,
+    "minor": 10061,
     "patch": 85
   }
 }
