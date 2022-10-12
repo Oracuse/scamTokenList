@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4d9CcbcD3962fe026103664DEfc11258d4549DA0",
-      "symbol": "LOKIX",
-      "name": "LokiX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE15D85c08f60fE9A3d2263c76D981540E2a8fa70",
       "symbol": "AK",
       "name": "AGNIKAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a6248d260272d6a83C6B212C022d9BAD42948Ab",
+      "symbol": "FOIL",
+      "name": "Foil",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10090,
-    "minor": 10090,
+    "major": 10091,
+    "minor": 10091,
     "patch": 85
   }
 }
