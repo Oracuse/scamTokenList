@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x32f23fEf3708090b69dC04f2777194E3188BBD7E",
-      "symbol": "YORIMITSU",
-      "name": "MinamotoNoYorimitsu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3d422C1A958c042dCAbC07D61d74210758BDdC1c",
       "symbol": "BLACKSOL",
       "name": "BLACKSOLANA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A04a90921a907B9705Dc89A04bDE8C2C2908eBB",
+      "symbol": "DEFI",
+      "name": "Thedegenfinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10020,
-    "minor": 10020,
+    "major": 10021,
+    "minor": 10021,
     "patch": 84
   }
 }
