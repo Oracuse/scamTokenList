@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x80AAce20DfCECaCC061A1F9DD174a3171A7B1758",
-      "symbol": "FTK",
-      "name": "ForTheKids",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5D3b4F099530f771adE033ccEE6e6769C29CA65D",
       "symbol": "1000X",
       "name": "1000x",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95C7e62Ed5Aa8a78666ca8917A15066952bFedec",
+      "symbol": "BBLUE",
+      "name": "BabyBlue",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10097,
-    "minor": 10097,
+    "major": 10098,
+    "minor": 10098,
     "patch": 85
   }
 }
