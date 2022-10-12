@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB38e796e7246127CAe166805bc3cEb0A14e451dC",
-      "symbol": "TEST2",
-      "name": "TestContract2",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6b2225424329bc8d7DC77f254c748Efa2371520f",
       "symbol": "ELUMIA",
       "name": "Firestarter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x040461368764F7F8C651AD0599BbaafE4BaB01ee",
+      "symbol": "REDPILL",
+      "name": "RedPill",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10130,
-    "minor": 10130,
+    "major": 10131,
+    "minor": 10131,
     "patch": 85
   }
 }
