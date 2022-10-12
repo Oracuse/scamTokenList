@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x264FdFecCa13334d0c2CC5F4B416b7C1fe549517",
-      "symbol": "NEKO",
-      "name": "NEKONEKO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeC655dD9F68005885d742b1F74624e6b6Eef223F",
       "symbol": "DI",
       "name": "DIAMONDIMPACT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54F48E679d546EEEc9E03c8546316BBf4b4126D8",
+      "symbol": "WAKI",
+      "name": "WakiyaKitachi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10003,
-    "minor": 10003,
+    "major": 10004,
+    "minor": 10004,
     "patch": 84
   }
 }
