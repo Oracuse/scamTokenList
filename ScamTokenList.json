@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2e8A864A82063C64c50B427A952c95ea7F625b49",
-      "symbol": "IDEAL",
-      "name": "IDEAL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x787E744B125E4e82afA9097DbD27c531A54B30C0",
       "symbol": "ILLUSION",
       "name": "DeceptiveAppearance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7417c37ff8c1700aEE110164A0832A533569B8d",
+      "symbol": "GARDEN",
+      "name": "TerrestrialParadise",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10049,
-    "minor": 10049,
+    "major": 10050,
+    "minor": 10050,
     "patch": 85
   }
 }
