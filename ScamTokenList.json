@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56d0DC9AC0104EfB5F48620522a5E3864afe93Ab",
-      "symbol": "INUJIRO",
-      "name": "INUJIRO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x20F6614c085BD8AB9871852F447Ffa0C923419Bb",
       "symbol": "SOLSHINU",
       "name": "SOLSHINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38CeC016d81c0E2BD9A0BE52DC9b7dC85E62c0f9",
+      "symbol": "BLUE",
+      "name": "BLUEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10055,
-    "minor": 10055,
+    "major": 10056,
+    "minor": 10056,
     "patch": 85
   }
 }
