@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA7338df3E4F33c4373A6788aeE59dF107D897DFa",
-      "symbol": "SLEEP",
-      "name": "Insomnia",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9CbB63E60A5f35e19476b1e2Bbbf0908CE232A11",
       "symbol": "12345",
       "name": "12345",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08FE5E20854736884FC25E8EAF5dE74B7BF4a0D3",
+      "symbol": "BSER",
+      "name": "BabySerum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10012,
-    "minor": 10012,
+    "major": 10013,
+    "minor": 10013,
     "patch": 84
   }
 }
