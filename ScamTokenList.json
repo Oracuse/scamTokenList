@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x49f1e13FCE0f03F1D7B503F865F778C1e3816699",
-      "symbol": "FULLSEND",
-      "name": "FullSend",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb9e6Dc7521491835E018A2F37ca5f7Eea04d6ea5",
       "symbol": "SHEESHBA",
       "name": "SHEESHBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA796f2CfF2F11C4092B57053601CA0D46D1Ae31A",
+      "symbol": "BLUESHIBA",
+      "name": "BLUESHIBA",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10053,
-    "minor": 10053,
+    "major": 10054,
+    "minor": 10054,
     "patch": 85
   }
 }
