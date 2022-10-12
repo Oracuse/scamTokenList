@@ -14,28 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE891f654c2fB4653bA57eCdb3e38d8fe902153Fe",
-      "symbol": "MRG",
-      "name": "MergeInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x2758E8FCdcF1ECa406D0dcf3Bbb63e3F5a19a266",
-      "symbol": "KANON",
-      "name": "KnownAnon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd3E18f949022b49498fBDb177Ba8B32390ed0310",
       "symbol": "POX",
       "name": "MONKEYPOX",
@@ -110000,11 +109978,33 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x653d75d0c63427b3D4e348fF4EA49aE3D1411d43",
+      "symbol": "FP",
+      "name": "FlokiProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7E2DC01222c273E3807C88DD2Fb9F14eAd47335",
+      "symbol": "KDA",
+      "name": "DejitaruKaida",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10067,
-    "minor": 10067,
+    "major": 10069,
+    "minor": 10069,
     "patch": 85
   }
 }
