@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbB228Ba26e2197634FB6238793349359C2512C07",
-      "symbol": "ME",
-      "name": "MiniEth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0BBdD3992Be0037744682Fb2d3B933485e16333",
       "symbol": "FRKS",
       "name": "Frankenstein",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBa3e312337b80998DcCde4a01b14A859887F8271",
+      "symbol": "CHELONE",
+      "name": "Aspidochelone",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10083,
-    "minor": 10083,
+    "major": 10084,
+    "minor": 10084,
     "patch": 85
   }
 }
