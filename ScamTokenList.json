@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x99663f6CDeA43576aE00Dd30472b6C82fDAf6C7d",
-      "symbol": "WIN",
-      "name": "Winners",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x200943a397B888999673f08f1f1f6a9190B2CfD3",
       "symbol": "Z",
       "name": "Zenko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64AC32119E8A5a2904ca802a0B41E1EFE537ae85",
+      "symbol": "EKERMIT",
+      "name": "EvilKermit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10265,
-    "minor": 10265,
+    "major": 10266,
+    "minor": 10266,
     "patch": 85
   }
 }
