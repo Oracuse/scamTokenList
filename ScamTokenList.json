@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x35dc79E222656A958f49C5c6468BF59506277C28",
-      "symbol": "KITTYINU",
-      "name": "KittyInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x85586B6403F04A3279952cFAe157D745af1e2377",
       "symbol": "SEND",
       "name": "FULLSEND",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf06d0F173d0a540F483386cbe25EF559CcB64097",
+      "symbol": "CHIBA",
+      "name": "AThousandLeaves",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10241,
-    "minor": 10241,
+    "major": 10242,
+    "minor": 10242,
     "patch": 85
   }
 }
