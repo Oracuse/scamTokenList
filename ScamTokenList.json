@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x31C0EBc3b0098a5D6A515917cf07Aa264d2139F0",
-      "symbol": "YAMATA",
-      "name": "YamatanoOrochi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x122d3Fc0983BF8f579AB7034ca184EE2fB52AC40",
       "symbol": "CDS",
       "name": "CATDIDAS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2BeA2b1F0b0131FEeCEC161C21c2d9234Ce90F46",
+      "symbol": "DOMINATUS",
+      "name": "Sovereignty",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10170,
-    "minor": 10170,
+    "major": 10171,
+    "minor": 10171,
     "patch": 85
   }
 }
