@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4635A08140c3085AadeDB09014d35dD7612c675B",
-      "symbol": "OCTOPUSINU",
-      "name": "OctopusInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x35dc79E222656A958f49C5c6468BF59506277C28",
       "symbol": "KITTYINU",
       "name": "KittyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78290354C9c788cf8b2239ee9a3a9829E2e66bD0",
+      "symbol": "TROPHY",
+      "name": "SportSwap",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10240,
-    "minor": 10240,
+    "major": 10241,
+    "minor": 10241,
     "patch": 85
   }
 }
