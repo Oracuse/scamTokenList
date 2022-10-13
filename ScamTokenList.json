@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC689FaA785d3903755419e48E55434f4B0D3AB2f",
-      "symbol": "TRIOMIX",
-      "name": "TriomixNetwork",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x29b0BF572E8726f9519f660EA226Ca4C1bDa649A",
       "symbol": "4CLOVER",
       "name": "FourClover",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87991FbeA933e87D92d5cc39429c3b1638236E11",
+      "symbol": "RAIN",
+      "name": "Rainforest",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10275,
-    "minor": 10275,
+    "major": 10276,
+    "minor": 10276,
     "patch": 85
   }
 }
