@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xec5dE174FFaF1670dd1c8743aC7D444e9fc842d3",
-      "symbol": "ALPHA",
-      "name": "AlphaToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfd514a79f451beEA6027834737355C6971AB3635",
       "symbol": "INSOMNIA",
       "name": "TheLongestNightDocu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x404Ed271B169Dab1085eaee87D719bA3D1CA01AA",
+      "symbol": "KANG",
+      "name": "Kangal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10194,
-    "minor": 10194,
+    "major": 10195,
+    "minor": 10195,
     "patch": 85
   }
 }
