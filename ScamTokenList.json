@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67C9A4eb71c02D50CA6c124e98d83bdBA0942087",
-      "symbol": "OWLINU",
-      "name": "OwlInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC793D324868E25487f892990D72Aa55EEeA5012E",
       "symbol": "HIDE",
       "name": "HideFromUs",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e4ECAA11608f8622b12076B94F9B03EF3100D04",
+      "symbol": "POW",
+      "name": "FederalReserveInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10249,
-    "minor": 10249,
+    "major": 10250,
+    "minor": 10250,
     "patch": 85
   }
 }
