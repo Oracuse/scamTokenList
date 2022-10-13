@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5B483d71311620Fe7F88c756e0F455BBc538a209",
-      "symbol": "WEED",
-      "name": "Cannabis",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x61e3cC875602D50c3987D4d678de25829513078D",
       "symbol": "BEERINU",
       "name": "BEERINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7b76E3B2d37208969deB9f099EF1edC339Ba113",
+      "symbol": "APESER",
+      "name": "ApeSerum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10176,
-    "minor": 10176,
+    "major": 10177,
+    "minor": 10177,
     "patch": 85
   }
 }
