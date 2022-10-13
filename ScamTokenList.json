@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x220EE7fE4a36601CACa05108d1cC53B6a7aB794D",
-      "symbol": "BITOSHI",
-      "name": "Bitoshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x236577EAF00CDFd7B7e13810B666Cc04c7B4A9e7",
       "symbol": "RETURN",
       "name": "TheOldTimes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x318C210626d49f20C4899dBE33d33ca20Cfb93dD",
+      "symbol": "CDV",
+      "name": "CruellaDeVil",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10243,
-    "minor": 10243,
+    "major": 10244,
+    "minor": 10244,
     "patch": 85
   }
 }
