@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98B355CBd47617B2C961bFd5eCF72cC18Ec911d0",
-      "symbol": "CSHITCOIN",
-      "name": "CommunityShitcoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9309A80228FFE735e33962cb7e992B7c58de432A",
       "symbol": "POWETH",
       "name": "PoWETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x360d26fe5542dA50EF8Fb151d99cB3C9400dfbBd",
+      "symbol": "NEXTLEG",
+      "name": "Nextlegup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10258,
-    "minor": 10258,
+    "major": 10259,
+    "minor": 10259,
     "patch": 85
   }
 }
