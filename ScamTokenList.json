@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb65FC10700861a710A66D7680ed8D5b016D61255",
-      "symbol": "HYPE",
-      "name": "HypeInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDE5a7055A50E0192B452a791BBeaf3e3b28ce64A",
       "symbol": "STRIFE",
       "name": "STRIFE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBeB79F425a794098a6fbf5f32c81AEFc6493D2bF",
+      "symbol": "IHYPE",
+      "name": "Hyperinflation",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10229,
-    "minor": 10229,
+    "major": 10230,
+    "minor": 10230,
     "patch": 85
   }
 }
