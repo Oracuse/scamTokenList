@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd7b48c201443fa930C2e49cc5DF04D8c48c19556",
-      "symbol": "DOGGOINU",
-      "name": "DOGGOINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x14117741Ac2275C8Da952b064fD541B0e8166A87",
       "symbol": "MIERIN",
       "name": "Mierin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xad99cACe0331D555ba07369642aE122f66b271Ea",
+      "symbol": "FLASH",
+      "name": "HERO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10190,
-    "minor": 10190,
+    "major": 10191,
+    "minor": 10191,
     "patch": 85
   }
 }
