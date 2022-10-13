@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC577C63aeDaB143Eb5e2DBAc225c64a4B129C415",
-      "symbol": "ABTA",
-      "name": "ABT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x78FfcD48807956cA10c8aa9c0490091c9e09041e",
       "symbol": "FUJIN",
       "name": "Daijirin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5101dd81c18df935A4689F19E9BcA13D704A5fDE",
+      "symbol": "RUSE",
+      "name": "Ruse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10252,
-    "minor": 10252,
+    "major": 10253,
+    "minor": 10253,
     "patch": 85
   }
 }
