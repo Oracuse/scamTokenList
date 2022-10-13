@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53d8C85815A0F1e9F11f56450fe8CD21D3b8C180",
-      "symbol": "UNRUS",
-      "name": "UnRus",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x816DD6C28130F3678700bd90cBC93bC9dacED835",
       "symbol": "TAXFARM",
       "name": "TAXFARM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Fd088949af022a7C8EcC7BCeC18cBC596f35360",
+      "symbol": "PEPER",
+      "name": "Pepereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10205,
-    "minor": 10205,
+    "major": 10206,
+    "minor": 10206,
     "patch": 85
   }
 }
