@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDE5a7055A50E0192B452a791BBeaf3e3b28ce64A",
-      "symbol": "STRIFE",
-      "name": "STRIFE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbBe09165c31cc2C9D1aBa64357841E2D7155CBe6",
       "symbol": "UFO2",
       "name": "THESIGN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88e2289d75c74fAB6a3a6F321f1E22E61288B387",
+      "symbol": "CHAOS",
+      "name": "TehLadder",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10230,
-    "minor": 10230,
+    "major": 10231,
+    "minor": 10231,
     "patch": 85
   }
 }
