@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeA4a4168EEEc4c74EF14519599580c7CaA69f20f",
-      "symbol": "YOURETH",
-      "name": "Yorick",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x387840CEB5fD9C914Ab370A92717fe6C285f68AC",
       "symbol": "AKIHABARA",
       "name": "AKIHABARA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x058e4a753B7Af0Cd4aB3D155B1F0c85316DD60ee",
+      "symbol": "ALXG",
+      "name": "AlexGO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10196,
-    "minor": 10196,
+    "major": 10197,
+    "minor": 10197,
     "patch": 85
   }
 }
