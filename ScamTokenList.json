@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAEf66428a39bf90A04eaf73841dBb6F17372A029",
-      "symbol": "WHALEINU",
-      "name": "WhaleInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x530759199116B9c261211d95686fD46A5f9B3175",
       "symbol": "XR",
       "name": "XRCOIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x619585b0A040A0a4Ad60Fb003655e817D51CB7BF",
+      "symbol": "AGG",
+      "name": "ArezdagWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10180,
-    "minor": 10180,
+    "major": 10181,
+    "minor": 10181,
     "patch": 85
   }
 }
