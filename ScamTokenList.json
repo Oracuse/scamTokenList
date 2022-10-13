@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb2b1649b925631578722db7e06f1dc5fe98d5d28",
-      "symbol": "SZKU",
-      "name": "SuzakU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xec5dE174FFaF1670dd1c8743aC7D444e9fc842d3",
       "symbol": "ALPHA",
       "name": "AlphaToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49e3c6F8D6bDfB3E4AED5263c1030437b2A55e7a",
+      "symbol": "Q",
+      "name": "ChildhoodBack",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10193,
-    "minor": 10193,
+    "major": 10194,
+    "minor": 10194,
     "patch": 85
   }
 }
