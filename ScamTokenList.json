@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x85586B6403F04A3279952cFAe157D745af1e2377",
-      "symbol": "SEND",
-      "name": "FULLSEND",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x220EE7fE4a36601CACa05108d1cC53B6a7aB794D",
       "symbol": "BITOSHI",
       "name": "Bitoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFCE712Aa936e29F735F4Cc286828F38874dC8e49",
+      "symbol": "SAVE",
+      "name": "CtrlS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10242,
-    "minor": 10242,
+    "major": 10243,
+    "minor": 10243,
     "patch": 85
   }
 }
