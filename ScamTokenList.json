@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x35b8d0306F21F6c44d13c776dF116c80Fc8b3EB7",
-      "symbol": "LOBSTERROLL",
-      "name": "LobsterRoll",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4a3967BAF603A236AC5FBAD44607F4B2ba2c4c7a",
       "symbol": "LOBSTER",
       "name": "Lobster",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3C4f548f3D51A1ACE5F5F7bCe7Ed808F6c2f09c",
+      "symbol": "POU",
+      "name": "Proofofuniverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10224,
-    "minor": 10224,
+    "major": 10225,
+    "minor": 10225,
     "patch": 85
   }
 }
