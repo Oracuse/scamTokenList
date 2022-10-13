@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd01c4FDc5d5AD18C3D4455Ce40d9c7191515eE58",
-      "symbol": "MAYASCRIPT",
-      "name": "MayaScript",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3F989311116FD486B847275F9445788ce98D0270",
       "symbol": "SQI",
       "name": "SQUIDETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3bA80eA4f950F785E94A248827aE43dA2622FE16",
+      "symbol": "MOONSHOT",
+      "name": "Moonshot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10263,
-    "minor": 10263,
+    "major": 10264,
+    "minor": 10264,
     "patch": 85
   }
 }
