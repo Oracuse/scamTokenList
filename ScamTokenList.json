@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9309A80228FFE735e33962cb7e992B7c58de432A",
-      "symbol": "POWETH",
-      "name": "PoWETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6F233b175ec681BCdeE9f3464D2De4a7aEfee857",
       "symbol": "SHIBAKOMBAT",
       "name": "ShibaKombat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf54Ee74c2A9b2b80DDEC174590b28C1d590C1eA8",
+      "symbol": "WILL",
+      "name": "Willows",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10259,
-    "minor": 10259,
+    "major": 10260,
+    "minor": 10260,
     "patch": 85
   }
 }
