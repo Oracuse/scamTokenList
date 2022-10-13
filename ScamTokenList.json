@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5d33a77bFF2B5d92076c3676bAe73Ad8A8F2ECB",
-      "symbol": "RICEINU",
-      "name": "RiceInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3b7EC69CA41Aa5E2F8035f969481289291B67ACa",
       "symbol": "NINJAZ",
       "name": "Ninjaz",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAB56e87e27B81345Ffa6C622b1805B1a46e2AB34",
+      "symbol": "SANADA",
+      "name": "SanadaYukimura",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10184,
-    "minor": 10184,
+    "major": 10185,
+    "minor": 10185,
     "patch": 85
   }
 }
