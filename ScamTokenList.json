@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8c0E712CfEC1C2Ed98607d2F9e777e54c174137e",
-      "symbol": "FRIENDLOBSTER",
-      "name": "FriendLobster",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x61288b74ED14e3332aaf1C92332b29bb418f2a09",
       "symbol": "REDLOBSTER",
       "name": "RedLobster",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6a8d54FE3B7e48ed44f868B902B07C0cD39c615c",
+      "symbol": "CYPHER",
+      "name": "Cypher",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10221,
-    "minor": 10221,
+    "major": 10222,
+    "minor": 10222,
     "patch": 85
   }
 }
