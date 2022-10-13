@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x89A1645EDc58797133625869B3D7b571938d321e",
-      "symbol": "RISE",
-      "name": "RisingETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x53d8C85815A0F1e9F11f56450fe8CD21D3b8C180",
       "symbol": "UNRUS",
       "name": "UnRus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x564cF2D7eE71c9cd1839E382931785f8230F84dc",
+      "symbol": "REDPILL",
+      "name": "RedPill",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10204,
-    "minor": 10204,
+    "major": 10205,
+    "minor": 10205,
     "patch": 85
   }
 }
