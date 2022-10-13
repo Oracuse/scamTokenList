@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x244a8C3068Bbd2b8968E9bff6FF16e66F99BB2b2",
-      "symbol": "HODLER",
-      "name": "HodlerInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc2C3B2bcd4C2F1ddE8e23c1bF8f6475fd00749c9",
       "symbol": "HAVOC",
       "name": "HAVOC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8D52574c6511934A1e72Ba434a88835B76D65Ef",
+      "symbol": "BLT",
+      "name": "BaconLettuceTomato",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10216,
-    "minor": 10216,
+    "major": 10217,
+    "minor": 10217,
     "patch": 85
   }
 }
