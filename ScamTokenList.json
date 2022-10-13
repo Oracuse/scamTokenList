@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x875660E1848231be3E9FB16d75c869641598C787",
-      "symbol": "NEPH",
-      "name": "Nephilim",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x89A1645EDc58797133625869B3D7b571938d321e",
       "symbol": "RISE",
       "name": "RisingETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb94C4A6ed9910fE574583b5e1Ae49c07EBc83011",
+      "symbol": "COKE",
+      "name": "LosPepe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10203,
-    "minor": 10203,
+    "major": 10204,
+    "minor": 10204,
     "patch": 85
   }
 }
