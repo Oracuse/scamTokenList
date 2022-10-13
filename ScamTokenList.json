@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC793D324868E25487f892990D72Aa55EEeA5012E",
-      "symbol": "HIDE",
-      "name": "HideFromUs",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76478A1E1108E7497065cdf48a95e2B56CCFDf12",
       "symbol": "LOBSTERINU",
       "name": "LobsterInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF7bbbbED72e388EDa885b6c114741f972a30358D",
+      "symbol": "ABA",
+      "name": "Abacus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10250,
-    "minor": 10250,
+    "major": 10251,
+    "minor": 10251,
     "patch": 85
   }
 }
