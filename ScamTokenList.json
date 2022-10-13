@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7102A83aF0824A8165380a9B640FD708861417F2",
-      "symbol": "FEAR",
-      "name": "PARANOIA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x85C3235e8C0Dc586C5d0aA036e4B891B5D4EF879",
       "symbol": "POOPINU",
       "name": "PoopInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0fD7d4709DE8281c0E9f6c584da6F7D1E698437C",
+      "symbol": "PEPEBET",
+      "name": "PEPEbetToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10198,
-    "minor": 10198,
+    "major": 10199,
+    "minor": 10199,
     "patch": 85
   }
 }
