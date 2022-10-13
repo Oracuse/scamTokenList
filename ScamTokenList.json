@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA51b9C283ACb65353E03B7C688f8Ed54c13E523e",
-      "symbol": "CHINA",
-      "name": "China",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98B355CBd47617B2C961bFd5eCF72cC18Ec911d0",
       "symbol": "CSHITCOIN",
       "name": "CommunityShitcoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD5b7a300AA4c5F7b6637E1ec5446d425b4A24f82",
+      "symbol": "HOMELESS",
+      "name": "HOMELESS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10257,
-    "minor": 10257,
+    "major": 10258,
+    "minor": 10258,
     "patch": 85
   }
 }
