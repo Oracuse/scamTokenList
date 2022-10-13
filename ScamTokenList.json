@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7500D5af40DA7C8A777c8996Fc2C437b1A4b49FF",
-      "symbol": "WATERINU",
-      "name": "WaterInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4E439EC8A6222d677326670422217ad48b70E04a",
       "symbol": "OMAN",
       "name": "Omania",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaaa1FaEB5017679E6C7b84a1752E906B53e4D96B",
+      "symbol": "JASMINE",
+      "name": "JASMINE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10212,
-    "minor": 10212,
+    "major": 10213,
+    "minor": 10213,
     "patch": 85
   }
 }
