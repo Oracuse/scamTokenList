@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53499444243BC04b2DF862A83A32960AC88e7D2d",
-      "symbol": "BLACKHOLE",
-      "name": "Blackhole",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd073FD245Ea4d7e6F357A328a457eA811745e29f",
       "symbol": "K0DE",
       "name": "Thek0de",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x983A41b346C9949Ee0e236a21ca2Fe71611533c2",
+      "symbol": "ETHCOGNITO",
+      "name": "ETHCOGNITO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10210,
-    "minor": 10210,
+    "major": 10211,
+    "minor": 10211,
     "patch": 85
   }
 }
