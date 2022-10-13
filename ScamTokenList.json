@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x563F77Ec28a3D0E4B22440dd3608B6181d91e217",
-      "symbol": "HAMACHI",
-      "name": "HamachiInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb90e9848416097Bf6A510956196CD77F2e5292e9",
       "symbol": "SHRIMP",
       "name": "Shrimp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3Ad3c4E16b4b576A247Ec493Eb84055C3f54bDF",
+      "symbol": "MACHINE",
+      "name": "Machine",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10227,
-    "minor": 10227,
+    "major": 10228,
+    "minor": 10228,
     "patch": 85
   }
 }
