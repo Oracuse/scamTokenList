@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC8f883F5a6d2A86F07207E87147Ad2ae4C5C589D",
-      "symbol": "YAGAMI",
-      "name": "YagamiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9277a19a83b5EDf0a9d922cace7991F3D49DC649",
       "symbol": "RING",
       "name": "TheCircle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x274A6723556B8682B55dd52A942dCC56ab60a214",
+      "symbol": "AORUN",
+      "name": "DragonKing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10254,
-    "minor": 10254,
+    "major": 10255,
+    "minor": 10255,
     "patch": 85
   }
 }
