@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x91E976F9dfbE2e02D9834Eb8BB717CF4A30D2C98",
-      "symbol": "JOEGROWERINU",
-      "name": "JoegrowerInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x279CB6DbC31f4Ab66B0611eA7a41D7Eea30d563C",
       "symbol": "GOD",
       "name": "OhMy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1CC61A2b97183be24Ff307BdEAd57Fc11C41e5EB",
+      "symbol": "BORING",
+      "name": "BoringToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10270,
-    "minor": 10270,
+    "major": 10271,
+    "minor": 10271,
     "patch": 85
   }
 }
