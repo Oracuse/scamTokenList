@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd1551DF422b4D90FD40CB3E4549D9EC5dd95c8b2",
-      "symbol": "AKASHI",
-      "name": "AKASHIBA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC689FaA785d3903755419e48E55434f4B0D3AB2f",
       "symbol": "TRIOMIX",
       "name": "TriomixNetwork",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCEF853E5EcDA6b9F8aEDfb0DF15239dbA07e6d40",
+      "symbol": "1000X",
+      "name": "FinancialFreedom",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10274,
-    "minor": 10274,
+    "major": 10275,
+    "minor": 10275,
     "patch": 85
   }
 }
