@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbDa696FecAdE36d691C5262DAf65067B96757733",
-      "symbol": "BRUTUS",
-      "name": "IDESOFMARCH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfB531c669fbCC93671Bf85c1d7B5B982961A496f",
       "symbol": "BITOSHI",
       "name": "BITOSHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36eCf67664FcD8409dD5968b4dE24285A51109E0",
+      "symbol": "RYO",
+      "name": "SpookyRyo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10207,
-    "minor": 10207,
+    "major": 10208,
+    "minor": 10208,
     "patch": 85
   }
 }
