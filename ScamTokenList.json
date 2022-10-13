@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9DA7215698768E37dd6A0c2eF68785D779a98700",
-      "symbol": "TIGERINU",
-      "name": "TigerInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd01c4FDc5d5AD18C3D4455Ce40d9c7191515eE58",
       "symbol": "MAYASCRIPT",
       "name": "MayaScript",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x168a9E6595323F7eC41e51da3acCf62D86eE61Ff",
+      "symbol": "YNO",
+      "name": "YamataNoOrochi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10262,
-    "minor": 10262,
+    "major": 10263,
+    "minor": 10263,
     "patch": 85
   }
 }
