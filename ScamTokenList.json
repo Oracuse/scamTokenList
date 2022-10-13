@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd073FD245Ea4d7e6F357A328a457eA811745e29f",
-      "symbol": "K0DE",
-      "name": "Thek0de",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7500D5af40DA7C8A777c8996Fc2C437b1A4b49FF",
       "symbol": "WATERINU",
       "name": "WaterInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x884eDF29B94785576C06327A75eb19527D2a0fF8",
+      "symbol": "BYTC",
+      "name": "BoredYugaTrollClub",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10211,
-    "minor": 10211,
+    "major": 10212,
+    "minor": 10212,
     "patch": 85
   }
 }
