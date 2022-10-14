@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC9df0Eca4Be8A1a3CD92cfd8f58863067Ae5a857",
-      "symbol": "KATABAMI",
-      "name": "Katabami",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc08515d77C8E20D5957DF9ad492E426020be64fE",
       "symbol": "NFMTOKEN",
       "name": "NonFungibleMediaTok",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x444108aa43A1F9A3193350C92741b0bBDC80cEBD",
+      "symbol": "POS",
+      "name": "ProofofScam",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10430,
-    "minor": 10430,
+    "major": 10431,
+    "minor": 10431,
     "patch": 85
   }
 }
