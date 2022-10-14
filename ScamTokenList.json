@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x59b36ea15C3c9679C01eBBb8d6d8e87b4bAb5D04",
-      "symbol": "APED",
-      "name": "PerfectEntry",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0534f82c213A34f82086A245ad1d20fDdBF76cd9",
       "symbol": "WHALING",
       "name": "MegaWhale",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFaA0150Bb305bfF091dfF7358d2659D810d36201",
+      "symbol": "BLOOD",
+      "name": "BloodyHalloween",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10314,
-    "minor": 10314,
+    "major": 10315,
+    "minor": 10315,
     "patch": 85
   }
 }
