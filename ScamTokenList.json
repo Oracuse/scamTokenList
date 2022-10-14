@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9783ef8ae64586167323EA56E3ba614AEe949e0b",
-      "symbol": "ATOM",
-      "name": "Atom",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC657d24b7FF13e41B3957483Ad4020F0f129Dc09",
       "symbol": "SG",
       "name": "SoundsGood",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x395982e501CB5eb3AeE59cB6345Ce10C82C50172",
+      "symbol": "12X",
+      "name": "JeetCity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10298,
-    "minor": 10298,
+    "major": 10299,
+    "minor": 10299,
     "patch": 85
   }
 }
