@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaf2CA3E4177c4620ba4EE137387180B8a4c9dDBA",
-      "symbol": "WAMI",
-      "name": "WhoAmI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x193F11FA759Db1af1E4F565abBdE969B6028e92E",
       "symbol": "TRUTH",
       "name": "Alethea",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa56AD1C7EaB081403a908BE2b5Cd1CA1C0df877d",
+      "symbol": "THE20",
+      "name": "PROOFOFTHE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10420,
-    "minor": 10420,
+    "major": 10421,
+    "minor": 10421,
     "patch": 85
   }
 }
