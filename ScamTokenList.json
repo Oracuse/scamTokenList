@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x977E81E159648ac917fF5ef603C3cFc4a1d6f9ac",
-      "symbol": "MAGNET",
-      "name": "Magnet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD643610c4E71bA120C20849CF1B81a7274c1aDF7",
       "symbol": "TALISMAN",
       "name": "TalismanTate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11d8d231d6f2F5b9cEf1A1216b1E5aef4d1C37Bb",
+      "symbol": "DOGEBOKKI",
+      "name": "DogeBokki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10363,
-    "minor": 10363,
+    "major": 10364,
+    "minor": 10364,
     "patch": 85
   }
 }
