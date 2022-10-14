@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x240D04e890CAdcaf149581932Ebea9b305e0C0bB",
-      "symbol": "AKAGANIINU",
-      "name": "AkaganiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3CbcB58B334148B237D0f9a6EF4ce6Ac8cD42e4b",
       "symbol": "LRFI",
       "name": "LoopringFinance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdC42E32938e6FD20967cF5Cf147Fe67Bb5af6928",
+      "symbol": "THE",
+      "name": "THEProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10401,
-    "minor": 10401,
+    "major": 10402,
+    "minor": 10402,
     "patch": 85
   }
 }
