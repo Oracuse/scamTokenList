@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x85BcE44d10aa9D998847Ce87e5E8ec46cF0a37c3",
-      "symbol": "LL",
-      "name": "LL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x52245A97c216345d27D35Ea89fB1489a0AbdF5d1",
       "symbol": "VOID",
       "name": "TheVoid",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC38560Bf9652b408e60452A775961b72C0ec43c5",
+      "symbol": "TAKARA",
+      "name": "TakaraKuji",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10348,
-    "minor": 10348,
+    "major": 10349,
+    "minor": 10349,
     "patch": 85
   }
 }
