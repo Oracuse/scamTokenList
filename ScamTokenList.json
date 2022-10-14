@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBaCF2aF0d187F4ba4A7106f32FA37122e72D2B7f",
-      "symbol": "OPTIX",
-      "name": "OPTIXNETWORK",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6C50cc2Ba93F864e7353e3B51f9c993CD25c3850",
       "symbol": "BITSATOSHI",
       "name": "BitSatoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA705b4D03933dfB3532597A2B0Bbf23D47Ae6944",
+      "symbol": "ATTITUDE",
+      "name": "ADegensMind",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10323,
-    "minor": 10323,
+    "major": 10324,
+    "minor": 10324,
     "patch": 85
   }
 }
