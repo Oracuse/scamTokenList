@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66C0Ec762cC516fff13d37c5829795DA8C33063E",
-      "symbol": "BEYE",
-      "name": "BlindEye",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73Ca6bb29A253d0D3d45DcA81e095C973bb13D9f",
       "symbol": "LUCY",
       "name": "Lucy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFE5dBa53bed205064e934975a625cA1A1FF95C3C",
+      "symbol": "BASED",
+      "name": "NothingButBased",
+      "decimals": 10,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10414,
-    "minor": 10414,
+    "major": 10415,
+    "minor": 10415,
     "patch": 85
   }
 }
