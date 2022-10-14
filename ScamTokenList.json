@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe1eef78a5E752C370913f205a875639D9fE2f391",
-      "symbol": "SAITSUKA",
-      "name": "Saitsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7Cc92E374328501BA7f0400BF94758c9d4975eC3",
       "symbol": "KOALAINU",
       "name": "KoalaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12Bc58b356b30338f7b6055Cb0F3fb4E65432388",
+      "symbol": "TOUTETSU",
+      "name": "MythicalBeast",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10438,
-    "minor": 10438,
+    "major": 10439,
+    "minor": 10439,
     "patch": 85
   }
 }
