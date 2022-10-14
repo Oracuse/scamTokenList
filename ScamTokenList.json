@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x96E3307e8eF17700277630C2701Eebd788321647",
-      "symbol": "GLIZZY",
-      "name": "GlizzyGladiators",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9D1caFE88D271ccf9514cacc9b63E0F412782a95",
       "symbol": "EMPTY",
       "name": "Empty",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEc296c8e4d8910497d1c88c811851DD417c96e5B",
+      "symbol": "KAMIKO",
+      "name": "WindsOfFortune",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10291,
-    "minor": 10291,
+    "major": 10292,
+    "minor": 10292,
     "patch": 85
   }
 }
