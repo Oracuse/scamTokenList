@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73d693dE9f801FEd8Fcf49Da26a701cC5Ff034a3",
-      "symbol": "PYMAN",
-      "name": "PYROMANCER",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa8332A38Ea9AF604A072E0d33B9d13298D6130A1",
       "symbol": "MWEB20",
       "name": "MuseWeb2",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1f8628B297C3AfC03230742C60498ec6386959A",
+      "symbol": "X999",
+      "name": "Fortune",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10340,
-    "minor": 10340,
+    "major": 10341,
+    "minor": 10341,
     "patch": 85
   }
 }
