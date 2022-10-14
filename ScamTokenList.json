@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDA90a528255a99f485d82A962fF4d6F06B432eaB",
-      "symbol": "GROOTGROW",
-      "name": "GrootGrow",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x60B794753b46808EAF8d2B86C77BA45e1f3b2957",
       "symbol": "THEJUGGLER",
       "name": "TheJuggler",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa004963aEa075601536f27380E7A184fe85A0f35",
+      "symbol": "KAIDA",
+      "name": "DejitaruKaida",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10428,
-    "minor": 10428,
+    "major": 10429,
+    "minor": 10429,
     "patch": 85
   }
 }
