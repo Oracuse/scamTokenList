@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2F3c67D6Fd47B94eE3AE4F47f2AE972D56Bf6804",
-      "symbol": "FB",
-      "name": "FIREBALL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xab09687114f8fD1125422CA202c7B9EDc63C18Ee",
       "symbol": "CATATE",
       "name": "Catate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD95f441A49eD4665Cae6FF3b01662D115dC5ca05",
+      "symbol": "KDA",
+      "name": "DejitaruKaida",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10383,
-    "minor": 10383,
+    "major": 10384,
+    "minor": 10384,
     "patch": 85
   }
 }
