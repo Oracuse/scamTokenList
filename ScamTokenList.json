@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93BFc660C619Cb4167f86200d3b14eC6eaA6bda7",
-      "symbol": "SNIBBU",
-      "name": "Snibbu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDA90a528255a99f485d82A962fF4d6F06B432eaB",
       "symbol": "GROOTGROW",
       "name": "GrootGrow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D4f52E1a3163f768636625fD290Ba3BD46D8a62",
+      "symbol": "POP",
+      "name": "ProofOfPaper",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10427,
-    "minor": 10427,
+    "major": 10428,
+    "minor": 10428,
     "patch": 85
   }
 }
