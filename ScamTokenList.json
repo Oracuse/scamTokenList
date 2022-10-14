@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEEB7611CE2551ca40D2fEfAAF05527D27AfAEC2C",
-      "symbol": "ASH",
-      "name": "Incinerate",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x55cdAaCB408E070E1856d41cE6c4FCfA6C54C1E4",
       "symbol": "CORTEZ",
       "name": "MAGAAOC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23068230c08704C0ea960b9558C6C3c2DFaC548a",
+      "symbol": "POL",
+      "name": "PumpOLantern",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10304,
-    "minor": 10304,
+    "major": 10305,
+    "minor": 10305,
     "patch": 85
   }
 }
