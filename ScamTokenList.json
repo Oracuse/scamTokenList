@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x09F3c71D510FCcFec7c53243564C1F308288d01C",
-      "symbol": "STARS",
-      "name": "MiniStars",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFA1d2F83Deb5316e17dFcDB4375d8D779171db16",
       "symbol": "OPULEX",
       "name": "OPULEXTECH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3dED44aA8104C917Fec2c52A396980D507A367e",
+      "symbol": "FTF",
+      "name": "FuckTheFuds",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10351,
-    "minor": 10351,
+    "major": 10352,
+    "minor": 10352,
     "patch": 85
   }
 }
