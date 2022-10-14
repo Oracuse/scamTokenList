@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x75BbA372911d7CD3fc06a976905d8329DaE7dD15",
-      "symbol": "PABLO",
-      "name": "PabloTheFlamingo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE576b64DECe4458b542E5bF9DC58614499256C74",
       "symbol": "DCK",
       "name": "UglyDuck",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE39722865aa9Ecef59Df37dB06476B5e5A0e220E",
+      "symbol": "THE",
+      "name": "THEProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10444,
-    "minor": 10444,
+    "major": 10445,
+    "minor": 10445,
     "patch": 85
   }
 }
