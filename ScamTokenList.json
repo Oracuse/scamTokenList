@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8Ecc5e1b36b254bAB61173C85d346939729997Ea",
-      "symbol": "SYMMETRY",
-      "name": "Symmetry",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb8110896d6F6055bB3DA35904b8Bf040064dEFD9",
       "symbol": "BLINDEYE",
       "name": "BLINDEYE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5ba819F6560b60A020e1a2412d4eA89c3e2FC576",
+      "symbol": "TPRO",
+      "name": "TheProtocolPro",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10409,
-    "minor": 10409,
+    "major": 10410,
+    "minor": 10410,
     "patch": 85
   }
 }
