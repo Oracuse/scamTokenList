@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7f842c60EAac13021AF32ff075743B5507560930",
-      "symbol": "STARS",
-      "name": "MINISTARS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x54Ce58EB76108DCda861f2934dbe003807374501",
       "symbol": "KINGCRABINU",
       "name": "KingCrabInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00a424A58096855a4c18A378D99874aC8cDE279D",
+      "symbol": "BRIS",
+      "name": "BridgeSplit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10360,
-    "minor": 10360,
+    "major": 10361,
+    "minor": 10361,
     "patch": 85
   }
 }
