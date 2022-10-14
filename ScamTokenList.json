@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1d6A1b9a3351afA11a6CFF4C04EF5C1B5e0c2022",
-      "symbol": "BITOSHI",
-      "name": "EarnBTC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf107232BA79C5925FFdc713e8C728332bC39b409",
       "symbol": "STARS",
       "name": "MINISTARS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E777D32E50a22C9CF8fffE37671d6eFe10f43C2",
+      "symbol": "CTAMA",
+      "name": "TAMACHEEMS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10396,
-    "minor": 10396,
+    "major": 10397,
+    "minor": 10397,
     "patch": 85
   }
 }
