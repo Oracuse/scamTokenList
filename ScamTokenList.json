@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB5768291504c6015E8D597df519B41D35475B59F",
-      "symbol": "KOLCIUM",
-      "name": "KolciumToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDa142B8f6F5cA1f755fd7C0C4c20Af0FB2a86912",
       "symbol": "SAUDICHAD",
       "name": "SAUDICHAD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d61aBd2F344f72d326EaAF23823d7832573ec97",
+      "symbol": "MEWN",
+      "name": "PepewillMEWN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10448,
-    "minor": 10448,
+    "major": 10449,
+    "minor": 10449,
     "patch": 85
   }
 }
