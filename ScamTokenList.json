@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2e193c1070228dE3e8d830091f7f19d1B689D4fC",
-      "symbol": "FLAMINGOINU",
-      "name": "FlamingoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdd7Fa770a232FFa4cd4f1CfaAc35E5553ae56782",
       "symbol": "STARS",
       "name": "MiniStars",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x848b88380f57aE95C367C87568A238bF3afE6740",
+      "symbol": "SPACE",
+      "name": "Spaciens",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10411,
-    "minor": 10411,
+    "major": 10412,
+    "minor": 10412,
     "patch": 85
   }
 }
