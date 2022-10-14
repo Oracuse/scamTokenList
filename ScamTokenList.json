@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeFee1D07C3fDC0159028f0311747Eccc00DCEc0E",
-      "symbol": "AKAGANI",
-      "name": "AkaganiInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x250050ACD30e382A39b00f2D172058160050A9E4",
       "symbol": "K0DE",
       "name": "Thek0de",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F9e822Cc86887Ede663827437545925Fcaf6016",
+      "symbol": "FCI",
+      "name": "FlokiCupInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10407,
-    "minor": 10407,
+    "major": 10408,
+    "minor": 10408,
     "patch": 85
   }
 }
