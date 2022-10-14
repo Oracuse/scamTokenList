@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xab09687114f8fD1125422CA202c7B9EDc63C18Ee",
-      "symbol": "CATATE",
-      "name": "Catate",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69BAC2AC9Aa1A23f3BdF67893CC2a21c24EA82b8",
       "symbol": "THETOPG",
       "name": "TheTopG",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30da93d9A7BB4349D96ACB6DE1e1BE3ED5E28FeB",
+      "symbol": "PFZ",
+      "name": "PfizerInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10384,
-    "minor": 10384,
+    "major": 10385,
+    "minor": 10385,
     "patch": 85
   }
 }
