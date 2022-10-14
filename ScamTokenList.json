@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1d84E1FeB53b56367A34DBA8F466Ec2B1aaA5543",
-      "symbol": "TATEREUM",
-      "name": "Tatereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0cC2850233a89D7c96962f25570f8fd4605b5ec",
       "symbol": "SGT",
       "name": "SideGToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBEBD5152b0CC56EC58915f51d4097129d9c44934",
+      "symbol": "SRSLY",
+      "name": "Seriously",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10368,
-    "minor": 10368,
+    "major": 10369,
+    "minor": 10369,
     "patch": 85
   }
 }
