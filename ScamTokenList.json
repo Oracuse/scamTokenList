@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE576b64DECe4458b542E5bF9DC58614499256C74",
-      "symbol": "DCK",
-      "name": "UglyDuck",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x58DA18c0605153EadcE8FBFD17caeCaeE1A5Dc21",
       "symbol": "SMILE",
       "name": "SMILE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3FAB2bDE98f33a380adeCA144D72977604C1019d",
+      "symbol": "SHINDER",
+      "name": "ShitcoinTinder",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10445,
-    "minor": 10445,
+    "major": 10446,
+    "minor": 10446,
     "patch": 85
   }
 }
