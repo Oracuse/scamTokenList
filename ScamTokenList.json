@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x190373F0e54ae5Bfce419e8f4C9c78383c92cEC8",
-      "symbol": "SHEEP",
-      "name": "SHEEP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF7705C5c239177BB791F2CFf6BD227Ab3A6F97AD",
       "symbol": "CLASSICWAFFLES",
       "name": "ClassicWaffles",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x229DB76D554B7567120E52b61E2998691f9cc77F",
+      "symbol": "IG300",
+      "name": "IGNITE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10329,
-    "minor": 10329,
+    "major": 10330,
+    "minor": 10330,
     "patch": 85
   }
 }
