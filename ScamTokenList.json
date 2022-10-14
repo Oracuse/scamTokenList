@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3CbcB58B334148B237D0f9a6EF4ce6Ac8cD42e4b",
-      "symbol": "LRFI",
-      "name": "LoopringFinance",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7c941984c29B42E9b93d79Cf20aBF54316f948c0",
       "symbol": "SCORPION",
       "name": "Scorpion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdC3A8D621B8893397C392DAb59aB44dda3fAC363",
+      "symbol": "ACHE",
+      "name": "AlchemyPay",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10402,
-    "minor": 10402,
+    "major": 10403,
+    "minor": 10403,
     "patch": 85
   }
 }
