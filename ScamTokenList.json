@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEE0Ca7fAB08E5a3A43F47C416426D511eD915B46",
-      "symbol": "GHOST1",
-      "name": "GHOSTone",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09F3c71D510FCcFec7c53243564C1F308288d01C",
       "symbol": "STARS",
       "name": "MiniStars",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75E4407A7040CB0420C0cE1B2BC573C610D2157B",
+      "symbol": "HODL",
+      "name": "HoldOnForDearLife",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10350,
-    "minor": 10350,
+    "major": 10351,
+    "minor": 10351,
     "patch": 85
   }
 }
