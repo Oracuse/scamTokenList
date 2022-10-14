@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x84821f4F68f0EEdfAD71814258ef0F0F2846aF43",
-      "symbol": "ZAYOLA",
-      "name": "ZaYola",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa1503978f8969628D37325DD99BcFe422b226753",
       "symbol": "AT",
       "name": "Astatine",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ff2afC0D0ecBCACE357C6cd447932Fc4Fc35750",
+      "symbol": "SIMU",
+      "name": "MARIOSIMULATION",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10399,
-    "minor": 10399,
+    "major": 10400,
+    "minor": 10400,
     "patch": 85
   }
 }
