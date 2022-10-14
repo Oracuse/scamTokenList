@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x834CC386cF406174B7bd77F22A180A90b4E57f2a",
-      "symbol": "BLOOD",
-      "name": "BadBlood",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x019c382b09EB9FDd6d5abCFde40fB811212fd746",
       "symbol": "NONI",
       "name": "NONINONI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe385b812859a4C0CCBBE2fadB46fbCFF60D354fc",
+      "symbol": "VBOYZ",
+      "name": "VitalikBoz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10356,
-    "minor": 10356,
+    "major": 10357,
+    "minor": 10357,
     "patch": 85
   }
 }
