@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x542E5a2459C3eeF79b5bD473e97752DA5eE6ad7D",
-      "symbol": "BULLMARKET",
-      "name": "BullMarket",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0E61e36a7AabC32254FC44a70c226c9dC0a935e4",
       "symbol": "INUTED",
       "name": "INUTED",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E777B92da1aB10301352A858e5E04f9eAC05f71",
+      "symbol": "GOD",
+      "name": "Anunnaki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10326,
-    "minor": 10326,
+    "major": 10327,
+    "minor": 10327,
     "patch": 85
   }
 }
