@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0F79351Ac58Ee2B3F5AEEc56D8d933F5c1a21233",
-      "symbol": "X1000",
-      "name": "Degen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7f842c60EAac13021AF32ff075743B5507560930",
       "symbol": "STARS",
       "name": "MINISTARS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x769362997d369ed313C4AF4a867900326fc98FB5",
+      "symbol": "BANSHO",
+      "name": "Shinra",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10359,
-    "minor": 10359,
+    "major": 10360,
+    "minor": 10360,
     "patch": 85
   }
 }
