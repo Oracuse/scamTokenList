@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0534f82c213A34f82086A245ad1d20fDdBF76cd9",
-      "symbol": "WHALING",
-      "name": "MegaWhale",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9A03d346586553980a1b81efc2fd8e26d299F102",
       "symbol": "SHIM",
       "name": "Shimizu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2911af16F957C1F2ab6e8e0caF5420f4003AF3f0",
+      "symbol": "CPI82",
+      "name": "CPI82",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10315,
-    "minor": 10315,
+    "major": 10316,
+    "minor": 10316,
     "patch": 85
   }
 }
