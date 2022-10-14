@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbcaFba0Dd6bC6B016F81a1494bcb75bFEc928b05",
-      "symbol": "OWLS",
-      "name": "INSOMNIAC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3d59b134fB00c8aD9c6879adfCb8De1B940f0669",
       "symbol": "OKAMI",
       "name": "OKAMI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27834D6d0E0A77D07676CB2C0D193105FdDc5D0e",
+      "symbol": "MOONS",
+      "name": "MoonSmoke",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10440,
-    "minor": 10440,
+    "major": 10441,
+    "minor": 10441,
     "patch": 85
   }
 }
