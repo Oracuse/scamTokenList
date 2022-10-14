@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Fa2616287cc2be28d953a0c41F2DB06dfCAC81B",
-      "symbol": "BOTBUYCASH",
-      "name": "BOTBUYCASH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd2Fa3EA8dbd4562C68955d35A73DD895D8Aca320",
       "symbol": "BGT",
       "name": "BottomGToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5715AF144EE0bb201169B7c00D4E5b1f0ce8F29",
+      "symbol": "DIU",
+      "name": "DIU",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10354,
-    "minor": 10354,
+    "major": 10355,
+    "minor": 10355,
     "patch": 85
   }
 }
