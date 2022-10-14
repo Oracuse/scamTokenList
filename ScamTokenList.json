@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf3dD75055f283ffd05AC5B99F3889ed94518ae2A",
-      "symbol": "SHITCOIN",
-      "name": "ShitCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0479a00e6211f3DA735575103c0Fa53b1d5F056",
       "symbol": "TGT",
       "name": "TopGTate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2962DB8C8B5c6b1457936d88E66250b04F2398D",
+      "symbol": "YOKENZO",
+      "name": "GodOfYamoshami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10300,
-    "minor": 10300,
+    "major": 10301,
+    "minor": 10301,
     "patch": 85
   }
 }
