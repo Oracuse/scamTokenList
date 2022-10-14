@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9D1caFE88D271ccf9514cacc9b63E0F412782a95",
-      "symbol": "EMPTY",
-      "name": "Empty",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDdBeAd2eB351686976857Cd840aE434cA6bE8c9a",
       "symbol": "BURNTSHARK",
       "name": "BurntShark",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0FcD0700fa1598B1454402EaFC91F7209B2fbb10",
+      "symbol": "STARFALL",
+      "name": "STARFALL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10292,
-    "minor": 10292,
+    "major": 10293,
+    "minor": 10293,
     "patch": 85
   }
 }
