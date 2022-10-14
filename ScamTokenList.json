@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60B794753b46808EAF8d2B86C77BA45e1f3b2957",
-      "symbol": "THEJUGGLER",
-      "name": "TheJuggler",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC9df0Eca4Be8A1a3CD92cfd8f58863067Ae5a857",
       "symbol": "KATABAMI",
       "name": "Katabami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fE84727Cb8408CEc85cd34F115008bb6fBf6471",
+      "symbol": "ETHCOGNITO",
+      "name": "ETHCOGNITO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10429,
-    "minor": 10429,
+    "major": 10430,
+    "minor": 10430,
     "patch": 85
   }
 }
