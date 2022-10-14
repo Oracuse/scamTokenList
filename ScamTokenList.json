@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb0cC2850233a89D7c96962f25570f8fd4605b5ec",
-      "symbol": "SGT",
-      "name": "SideGToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB0136bb186EB2ad439D5aBDae875CC40584473bf",
       "symbol": "FTG",
       "name": "FuckTopG",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2DD7a72f16Cfa5DD8f9f5B49d251b2fd2163FF6",
+      "symbol": "SXC",
+      "name": "SocialClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10369,
-    "minor": 10369,
+    "major": 10370,
+    "minor": 10370,
     "patch": 85
   }
 }
