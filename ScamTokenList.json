@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x79525725bE268dD26FA678B914A61E86DB0C8eD6",
-      "symbol": "BTF",
-      "name": "BTFCoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0F79351Ac58Ee2B3F5AEEc56D8d933F5c1a21233",
       "symbol": "X1000",
       "name": "Degen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B2E4347C44a254bB8a672423AE02eF83C1f1497",
+      "symbol": "BAGIX",
+      "name": "BabySingularityNET",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10358,
-    "minor": 10358,
+    "major": 10359,
+    "minor": 10359,
     "patch": 85
   }
 }
