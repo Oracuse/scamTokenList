@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdA62116F2E45c52cdFE71627eDCEE36D933536a4",
-      "symbol": "HAMSTER",
-      "name": "hamster",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8C88Fa751968Faf464d6E635Caa6D75149a6c342",
       "symbol": "ASGARD",
       "name": "Asgard",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD283EC9db7B3094ED5a2c87Eb48D54f5FA96e96D",
+      "symbol": "FMON",
+      "name": "FMONEYTOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10442,
-    "minor": 10442,
+    "major": 10443,
+    "minor": 10443,
     "patch": 85
   }
 }
