@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDa142B8f6F5cA1f755fd7C0C4c20Af0FB2a86912",
-      "symbol": "SAUDICHAD",
-      "name": "SAUDICHAD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1d0369AF700D07240a037B3CecFc2F1013bC92C8",
       "symbol": "SHIBUP",
       "name": "SHIBAUPONLY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x552dcb76AD69B1a779c4A50f1443D5e03c3b097D",
+      "symbol": "H04X",
+      "name": "Retxed",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10449,
-    "minor": 10449,
+    "major": 10450,
+    "minor": 10450,
     "patch": 85
   }
 }
