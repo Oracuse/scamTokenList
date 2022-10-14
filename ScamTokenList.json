@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x58DA18c0605153EadcE8FBFD17caeCaeE1A5Dc21",
-      "symbol": "SMILE",
-      "name": "SMILE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xca694e3C11C2f5df26E1f64401d6984306FB8D94",
       "symbol": "BONER",
       "name": "Boner",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bcDb07C2E0104038DABC6D75E62F20101Ff8Ae0",
+      "symbol": "SOTD",
+      "name": "SeekersoftheDarknes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10446,
-    "minor": 10446,
+    "major": 10447,
+    "minor": 10447,
     "patch": 85
   }
 }
