@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2481FBAB16443f49769cB9922E400B9766dE91D2",
-      "symbol": "SCHIZO",
-      "name": "Schizophrenia",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEEB7611CE2551ca40D2fEfAAF05527D27AfAEC2C",
       "symbol": "ASH",
       "name": "Incinerate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1f94fC45bB559EF115cfE4a7Ac75754f9AB6dCa",
+      "symbol": "MEME30",
+      "name": "ProofOfBROOTS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10303,
-    "minor": 10303,
+    "major": 10304,
+    "minor": 10304,
     "patch": 85
   }
 }
