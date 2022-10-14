@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb8110896d6F6055bB3DA35904b8Bf040064dEFD9",
-      "symbol": "BLINDEYE",
-      "name": "BLINDEYE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2e193c1070228dE3e8d830091f7f19d1B689D4fC",
       "symbol": "FLAMINGOINU",
       "name": "FlamingoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07219EacA26Fd6f480bfcfD3c3d26295E5469270",
+      "symbol": "OPUS",
+      "name": "MagnumOpus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10410,
-    "minor": 10410,
+    "major": 10411,
+    "minor": 10411,
     "patch": 85
   }
 }
