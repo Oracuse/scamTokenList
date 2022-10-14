@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8F8af787252319B2aaa8f51F35e0126ea50C3BC1",
-      "symbol": "SEKAI",
-      "name": "ShinSekai",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeB75bD9DeC95cE9CfE276f201A2403F26eda0f95",
       "symbol": "TSUKU",
       "name": "TsukuyomiNoMikoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6dc5d006F91FE397661fc302A286D2E4d3746083",
+      "symbol": "NOMO",
+      "name": "Nomocracy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10387,
-    "minor": 10387,
+    "major": 10388,
+    "minor": 10388,
     "patch": 85
   }
 }
