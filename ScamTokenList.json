@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF1953609C8244c26139E6792553b03a64A5D2195",
-      "symbol": "FTATE",
-      "name": "FudTate",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBBcEfDE0C96bdB3b2e216196d25A46fdbb9c9D12",
       "symbol": "TATEBURN",
       "name": "TateBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF75Ed0ffaFbB8767C39aA4B3AdEEaD98CE62eDec",
+      "symbol": "2023",
+      "name": "EndofTheWorld",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10391,
-    "minor": 10391,
+    "major": 10392,
+    "minor": 10392,
     "patch": 85
   }
 }
