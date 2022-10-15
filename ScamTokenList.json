@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaadf4D1dEcfd8F0907c0DDDd10042dA7D53A6490",
-      "symbol": "UMIBOZU",
-      "name": "Umibozu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8b6aD5Da1afd0433b6380b996D183ACeB7980dfF",
       "symbol": "PM",
       "name": "PrivacyMatters",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0f1eF7f084C4c1240b885B63cdb558de1DbE886",
+      "symbol": "THEREUM",
+      "name": "TheReum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10579,
-    "minor": 10579,
+    "major": 10580,
+    "minor": 10580,
     "patch": 85
   }
 }
