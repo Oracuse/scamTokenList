@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4ED6728D8edfBf763f599aD18B1B0AA49755a154",
-      "symbol": "SFIRES",
-      "name": "StaticFires",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x950Ced4809a2Da5c593b3DE2650DECD208a1AcDf",
       "symbol": "MUSICETH",
       "name": "MusicETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bcB2843a187d6F198a50e4253C5e091C5e9f6dc",
+      "symbol": "THINU",
+      "name": "THEProtocolInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10574,
-    "minor": 10574,
+    "major": 10575,
+    "minor": 10575,
     "patch": 85
   }
 }
