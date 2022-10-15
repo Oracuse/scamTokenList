@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x78Ce31E0384d4F856b6CCEcC05F69C3200c2cc60",
-      "symbol": "MICRO",
-      "name": "Micro",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcfD7897348e6496c172C63aC97d069C8355e9F7C",
       "symbol": "REBORN",
       "name": "ETHReborn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC75EB2b95908E4CA473cb64e279272022630f111",
+      "symbol": "CHI",
+      "name": "Taichi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10461,
-    "minor": 10461,
+    "major": 10462,
+    "minor": 10462,
     "patch": 85
   }
 }
