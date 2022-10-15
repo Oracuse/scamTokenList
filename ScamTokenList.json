@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x381061C4A0915bc76fdc0965fd125790A88b0F58",
-      "symbol": "KPART",
-      "name": "Kpart",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x02e7fcC71F84C7b686Cc3BD7267b5d49b263e20A",
       "symbol": "ZECZ",
       "name": "ZEC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F22c4E09fB6369818019A8C1bA2bD3Aa39Eef0C",
+      "symbol": "BABYWCI",
+      "name": "BabyWorldCupInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10478,
-    "minor": 10478,
+    "major": 10479,
+    "minor": 10479,
     "patch": 85
   }
 }
