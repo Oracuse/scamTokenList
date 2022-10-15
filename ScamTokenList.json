@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x41ef60C918093860d639Dc385F3880814210C5F9",
-      "symbol": "DBETZ",
-      "name": "DegenBetz",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x647d46db12c3157083Cb4A5dA103fe2aC971FBA0",
       "symbol": "NEWPE",
       "name": "PepeTheNewWorld",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8b3778D7193E40e8288088C1D3BDb0eEEaB144f",
+      "symbol": "E7EN",
+      "name": "7DeadlySins",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10518,
-    "minor": 10518,
+    "major": 10519,
+    "minor": 10519,
     "patch": 85
   }
 }
