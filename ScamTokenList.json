@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2A095A0151830E97D740Cd5F06601b100B3C250a",
-      "symbol": "TORNADO",
-      "name": "TORNADO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2d1fc9Da5297bDB60F3b5d718365da7D58cA969E",
       "symbol": "FIRE",
       "name": "PHOENIX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x519dC14516F11D73E55385AbAbEc9994450927FE",
+      "symbol": "SIL",
+      "name": "Silentium",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10466,
-    "minor": 10466,
+    "major": 10467,
+    "minor": 10467,
     "patch": 85
   }
 }
