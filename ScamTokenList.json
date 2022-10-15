@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA6473F0a8807D656509DD7882215Ea86b84dF2d1",
-      "symbol": "OPO",
-      "name": "OptimismO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x061bf02B6222F86a74ce161c5D6bF936342a3F32",
       "symbol": "LP",
       "name": "LittlePrincess",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x573E53B75C0079281EA464b44E07d20c75BE353E",
+      "symbol": "BTHE",
+      "name": "BabyTheProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10522,
-    "minor": 10522,
+    "major": 10523,
+    "minor": 10523,
     "patch": 85
   }
 }
