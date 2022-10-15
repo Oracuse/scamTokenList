@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1019f73017F3F9A5b667d0c3d896b5A8d1134E6d",
-      "symbol": "IAPE",
-      "name": "IA",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDe2B1f2c533aA4f5F852829659AA2B46B2d846AD",
       "symbol": "KILOS",
       "name": "KilosInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24b80D37bEB3960bb1685CA23aeE2c221913eD4c",
+      "symbol": "BTHE",
+      "name": "TheProtocolBurn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10566,
-    "minor": 10566,
+    "major": 10567,
+    "minor": 10567,
     "patch": 85
   }
 }
