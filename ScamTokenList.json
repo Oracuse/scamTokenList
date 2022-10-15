@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8C713642c1dC17608186F548650E8a8d7Afbe5D1",
-      "symbol": "FOCUS",
-      "name": "Distraction",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9688d94A7019f6355f1347cB9d78027e634CbE54",
       "symbol": "HAM",
       "name": "Ham",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEA82d2717815C0039A44B9f63830d0984E216379",
+      "symbol": "SLAMM",
+      "name": "SLAMM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10546,
-    "minor": 10546,
+    "major": 10547,
+    "minor": 10547,
     "patch": 85
   }
 }
