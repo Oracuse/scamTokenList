@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x950Ced4809a2Da5c593b3DE2650DECD208a1AcDf",
-      "symbol": "MUSICETH",
-      "name": "MusicETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x11083Fb908c2aFcb990Ad41c6640696181405ED0",
       "symbol": "ICULT",
       "name": "ICULT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x411340C8BE722BEceC59133817F2eA47E90DD76E",
+      "symbol": "IINU",
+      "name": "InsidorsInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10575,
-    "minor": 10575,
+    "major": 10576,
+    "minor": 10576,
     "patch": 85
   }
 }
