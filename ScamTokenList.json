@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x119cA8329C4ce2986430c23ff662078cAEE23203",
-      "symbol": "DSTONKS",
-      "name": "DevilStonks",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE6fef2Dcdc9Ce70F242CE48e17343471c3Bc29ca",
       "symbol": "DEVDIED",
       "name": "DEVDIED",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B83aC391c59FEA54e48517FD5b5B1084f81c50B",
+      "symbol": "BITDIV",
+      "name": "BitDividend",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10550,
-    "minor": 10550,
+    "major": 10551,
+    "minor": 10551,
     "patch": 85
   }
 }
