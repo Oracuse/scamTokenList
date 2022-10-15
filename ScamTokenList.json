@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2d1fc9Da5297bDB60F3b5d718365da7D58cA969E",
-      "symbol": "FIRE",
-      "name": "PHOENIX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x980B2868B18E1730950Cee7BEB7629F82fc5Aaea",
       "symbol": "DEVSWORKING",
       "name": "ETHDEVS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1FCebAca40bfE3A1B2c7b66584BBDc636a6E1506",
+      "symbol": "STARFALL",
+      "name": "Starfall",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10467,
-    "minor": 10467,
+    "major": 10468,
+    "minor": 10468,
     "patch": 85
   }
 }
