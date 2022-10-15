@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x656C6A1c41E9d360fAf25eca6B7827AEE1aEdED7",
-      "symbol": "HAITAMA",
-      "name": "HAITAMA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe93d10fbf879f2a4c4c0ce04cF5093C21FFE6319",
       "symbol": "HAITAMA",
       "name": "HAITAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDb828B4A22B4119a833CD3A3FdB75B5b465aa5DB",
+      "symbol": "XMA",
+      "name": "XMAS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10527,
-    "minor": 10527,
+    "major": 10528,
+    "minor": 10528,
     "patch": 85
   }
 }
