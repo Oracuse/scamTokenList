@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5DB4dd19a5dd709f1745f07CF5FBEFBC0B6C3496",
-      "symbol": "ENDLESS",
-      "name": "TheSandman",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD80E1d77E2695E1717d1cEF60A6dC72C7E51841b",
       "symbol": "SENDOOR",
       "name": "Sendoor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C6D2351321B0800508551Fe2f2a38a45eE35F3b",
+      "symbol": "SHIBASQUAD",
+      "name": "ShibaSquad",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10464,
-    "minor": 10464,
+    "major": 10465,
+    "minor": 10465,
     "patch": 85
   }
 }
