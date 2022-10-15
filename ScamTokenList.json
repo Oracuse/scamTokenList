@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x38D57105889Df4FF1B5DC951f0ac8e6a36236F2e",
-      "symbol": "BUCKSINU",
-      "name": "BucksInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09BF6f0dE999b4aE641020602E65fD2364d47052",
       "symbol": "SBOSS",
       "name": "SQUIDBOSS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7384f5d3dcD0149B9346c453c6441569c874dFea",
+      "symbol": "NIGHT",
+      "name": "Midnight",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10560,
-    "minor": 10560,
+    "major": 10561,
+    "minor": 10561,
     "patch": 85
   }
 }
