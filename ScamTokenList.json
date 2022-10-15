@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15fF4FC9498362F4398B88987374030c31D034C7",
-      "symbol": "BASED",
-      "name": "BoredBasedDev",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9fEe682d6375f61da1BCd5E160ec2cC39B1f5B56",
       "symbol": "PUREBLOOD",
       "name": "PureBlood",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x677E76B10E8c2Aa8a6D0e3f4CCa86B27fb05151a",
+      "symbol": "RAISE",
+      "name": "EtherRaise",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10571,
-    "minor": 10571,
+    "major": 10572,
+    "minor": 10572,
     "patch": 85
   }
 }
