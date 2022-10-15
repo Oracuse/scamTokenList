@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x77C340407fF73fc8913BBF3BF20Eef4E986Df372",
-      "symbol": "NTFOX",
-      "name": "NineTailedFox",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5564C438dFA13b733CC8504270d94811AE5E9Ebc",
       "symbol": "MADDOGINU",
       "name": "MadDogInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88D3A903ae9c336fBac1fa38B9C618d496D9dC3e",
+      "symbol": "BELLAMY",
+      "name": "BellamyToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10537,
-    "minor": 10537,
+    "major": 10538,
+    "minor": 10538,
     "patch": 85
   }
 }
