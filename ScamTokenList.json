@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1BEd9bEE23184B9db0A0841cD8A2B62215D8478C",
-      "symbol": "PLUSMINUS",
-      "name": "PlusMinus",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x43dD4E54Ca342043e97D731c1B3831E34003cF66",
       "symbol": "SUPERNOVA",
       "name": "supernova",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6C823B27D9ddA90050de85821158061299491A8",
+      "symbol": "ZD951",
+      "name": "ZeroDawn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10494,
-    "minor": 10494,
+    "major": 10495,
+    "minor": 10495,
     "patch": 85
   }
 }
