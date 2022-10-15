@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFE0847001Df46F9A19C8304BE94ddf92Fa8340fc",
-      "symbol": "ALPHABETACOIN",
-      "name": "AlphaBetaCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0A98f93a8e7e104144F8CaCdF3A3660c3399627a",
       "symbol": "CHINAONE",
       "name": "ChinaOne",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ADCce71A3DEdf1eb2712C9d7bfE5e560Be88c8f",
+      "symbol": "USHI20",
+      "name": "Ushi20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10488,
-    "minor": 10488,
+    "major": 10489,
+    "minor": 10489,
     "patch": 85
   }
 }
