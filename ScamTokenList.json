@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe0D567439Bc9D240761B8eBc6953064243f2Ca41",
-      "symbol": "REBOUND",
-      "name": "ETHRebound",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2270c1B76851bf07f130BFbD59Df2Edb25dEd90d",
       "symbol": "GODOFDUMPLINGS",
       "name": "GodofDumplings",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x802F257B637DeEa8B9C257dfdbd34E999b7c4331",
+      "symbol": "YATOMI",
+      "name": "YatonoKami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10459,
-    "minor": 10459,
+    "major": 10460,
+    "minor": 10460,
     "patch": 85
   }
 }
