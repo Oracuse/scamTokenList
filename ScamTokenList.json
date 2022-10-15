@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcfD7897348e6496c172C63aC97d069C8355e9F7C",
-      "symbol": "REBORN",
-      "name": "ETHReborn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10d6701Fb663e8Cf1c4205057355B7289779974D",
       "symbol": "NSTP",
       "name": "Nonstop",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC9a35e3B24EAe4eE47f2F896338c4422506631e4",
+      "symbol": "MEMEDOGE",
+      "name": "MemeDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10462,
-    "minor": 10462,
+    "major": 10463,
+    "minor": 10463,
     "patch": 85
   }
 }
