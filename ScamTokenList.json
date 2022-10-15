@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD80E1d77E2695E1717d1cEF60A6dC72C7E51841b",
-      "symbol": "SENDOOR",
-      "name": "Sendoor",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2A095A0151830E97D740Cd5F06601b100B3C250a",
       "symbol": "TORNADO",
       "name": "TORNADO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21301846Ed27D441230c31B3DDC2A99d70140388",
+      "symbol": "KI",
+      "name": "Ikigai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10465,
-    "minor": 10465,
+    "major": 10466,
+    "minor": 10466,
     "patch": 85
   }
 }
