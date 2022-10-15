@@ -14,28 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6De884CA75a4ECC905F51ddf178510A0a04dFA16",
-      "symbol": "CHINU",
-      "name": "CHININU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x19455464c3b52a9e20974e2679f4A20c2b1774fe",
-      "symbol": "KIN",
-      "name": "KIN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x34CBE2Be916628D0D1758aF6903f7B87e1e35F65",
       "symbol": "MOVE",
       "name": "Move",
@@ -110000,11 +109978,33 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c85899A7eA055C5C6852fDAa3521884a4C994A2",
+      "symbol": "NIGHT",
+      "name": "Midnight",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFd114E88C7C4Ca662e78740D338f0006f4F15C67",
+      "symbol": "BALERION",
+      "name": "TheBlackDread",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10556,
-    "minor": 10556,
+    "major": 10558,
+    "minor": 10558,
     "patch": 85
   }
 }
