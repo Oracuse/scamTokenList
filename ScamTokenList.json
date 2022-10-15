@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4C97706797df3a6DF24eDCe0Bdd40427f38e42C6",
-      "symbol": "PARABELLUM",
-      "name": "Parabellum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x26791c0827B5CC98910E148C7D9F6eBF01bdF8Fe",
       "symbol": "AMOR",
       "name": "Amortentia",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdd1769A654b5bcb343084c3382a28b67459DD51D",
+      "symbol": "BABYTATSU",
+      "name": "BabyTatsu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10480,
-    "minor": 10480,
+    "major": 10481,
+    "minor": 10481,
     "patch": 85
   }
 }
