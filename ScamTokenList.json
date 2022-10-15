@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81f96469518Dd8bE534c14c69fb45D99355CB48d",
-      "symbol": "LD",
-      "name": "LinkDao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa810B18Fb441f1e3b30Ab649FA99429Fd14834d3",
       "symbol": "SERENITY",
       "name": "Moon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x591D1835eF8E73A831d10cF1CE9daE3C9947a835",
+      "symbol": "HUDDLN",
+      "name": "HuddlnToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10513,
-    "minor": 10513,
+    "major": 10514,
+    "minor": 10514,
     "patch": 85
   }
 }
