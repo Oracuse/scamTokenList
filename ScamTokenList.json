@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2dD94Cd6BE78C41aA30d581FaE9A8c25dC21F398",
-      "symbol": "APEDEEZ",
-      "name": "APEDEEZ",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA6473F0a8807D656509DD7882215Ea86b84dF2d1",
       "symbol": "OPO",
       "name": "OptimismO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5304b779E0bEaC16ad5B5f1dC110b261441f4E24",
+      "symbol": "THEPROTOCOL",
+      "name": "TheProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10521,
-    "minor": 10521,
+    "major": 10522,
+    "minor": 10522,
     "patch": 85
   }
 }
