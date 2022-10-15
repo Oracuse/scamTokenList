@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa8088BA6f443a86D75799648E16280d5C548F777",
-      "symbol": "TAXFARM",
-      "name": "TaxFarm",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x02168D80448c57662711980782cdb07BA00b7cfF",
       "symbol": "CYCLE",
       "name": "WindintheReeds",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23Cd0f12E788a89Fd747f9474411712a8cAfE3D6",
+      "symbol": "OS",
+      "name": "OnlyStables",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10475,
-    "minor": 10475,
+    "major": 10476,
+    "minor": 10476,
     "patch": 85
   }
 }
