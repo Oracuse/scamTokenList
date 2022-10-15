@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd6b2f1d9B1fb7eD09562CCE444c3b84a43e45f45",
-      "symbol": "BOO",
-      "name": "Boolish",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09CC750F86750a63786f1bC0230CC256604C1f1F",
       "symbol": "TEAR",
       "name": "Tears",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB58B769b18168308eF70E1Aa4a6289C9841598B0",
+      "symbol": "POECLAN",
+      "name": "ThePoeClan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10508,
-    "minor": 10508,
+    "major": 10509,
+    "minor": 10509,
     "patch": 85
   }
 }
