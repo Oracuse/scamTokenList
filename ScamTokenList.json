@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x10d6701Fb663e8Cf1c4205057355B7289779974D",
-      "symbol": "NSTP",
-      "name": "Nonstop",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5DB4dd19a5dd709f1745f07CF5FBEFBC0B6C3496",
       "symbol": "ENDLESS",
       "name": "TheSandman",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2070A420D5f7f73471367e06F2Df1245e4d22Fb",
+      "symbol": "YAMA",
+      "name": "Sugiyama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10463,
-    "minor": 10463,
+    "major": 10464,
+    "minor": 10464,
     "patch": 85
   }
 }
