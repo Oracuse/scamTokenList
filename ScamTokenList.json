@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x516A2893Fb0300D88C99d1622744DC0233095402",
-      "symbol": "FOXINU",
-      "name": "FoxInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x476eFC49DfA62C6a508cC172E4043585438EAec5",
       "symbol": "GHNY",
       "name": "GrizzlyHoney",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFDbCaF2873A451b766a15516014A6A41D74Eb617",
+      "symbol": "FEEDBOBBY",
+      "name": "FEEDBOBBY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10529,
-    "minor": 10529,
+    "major": 10530,
+    "minor": 10530,
     "patch": 85
   }
 }
