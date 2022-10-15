@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x75D706DC5A78129bdF5D0639fDD4C83B6B39B468",
-      "symbol": "CLA",
-      "name": "CryptoLotteryAssoci",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8C713642c1dC17608186F548650E8a8d7Afbe5D1",
       "symbol": "FOCUS",
       "name": "Distraction",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D04B2f20d08b81DA0DeAA08Fac99809c2b5D0F9",
+      "symbol": "REKT",
+      "name": "DegensNightmare",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10545,
-    "minor": 10545,
+    "major": 10546,
+    "minor": 10546,
     "patch": 85
   }
 }
