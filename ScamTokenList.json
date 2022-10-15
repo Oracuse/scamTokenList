@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAc5913f586769AB3F2a55C22c9022762E2b40735",
-      "symbol": "ZENNYO",
-      "name": "ZennyoRyuo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe0D567439Bc9D240761B8eBc6953064243f2Ca41",
       "symbol": "REBOUND",
       "name": "ETHRebound",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8FC17CAA8aBA3720D830DBFf5c274ffbe0e979c",
+      "symbol": "SERIOUS",
+      "name": "Seriously",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10458,
-    "minor": 10458,
+    "major": 10459,
+    "minor": 10459,
     "patch": 85
   }
 }
