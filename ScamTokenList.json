@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9E653F9D1d8F93B85d2Cd5b2C781BE2BdEdA70d8",
-      "symbol": "THESAURUS",
-      "name": "TheAllKnowing",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x56bd0C900acAF04125Ee26f546d6214634fD970F",
       "symbol": "HUB",
       "name": "Hubcoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdf3f9B6837f1e7dd9fF028Ead36C8007c0b4c68d",
+      "symbol": "IZU",
+      "name": "Izu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10498,
-    "minor": 10498,
+    "major": 10499,
+    "minor": 10499,
     "patch": 85
   }
 }
