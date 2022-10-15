@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe93d10fbf879f2a4c4c0ce04cF5093C21FFE6319",
-      "symbol": "HAITAMA",
-      "name": "HAITAMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x516A2893Fb0300D88C99d1622744DC0233095402",
       "symbol": "FOXINU",
       "name": "FoxInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA696071DB2f76842d5BA3c43a4f30231BF8Ee3ce",
+      "symbol": "RECESSIONDAO",
+      "name": "RDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10528,
-    "minor": 10528,
+    "major": 10529,
+    "minor": 10529,
     "patch": 85
   }
 }
