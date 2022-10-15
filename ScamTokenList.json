@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9688d94A7019f6355f1347cB9d78027e634CbE54",
-      "symbol": "HAM",
-      "name": "Ham",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x540b542e78174Df0e6647BD2F5b56539239A540e",
       "symbol": "BNW",
       "name": "BlackandWhite",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ea4cDdD6867609e9861d962feb5998a7D8a9684",
+      "symbol": "MVE",
+      "name": "MoonVerse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10547,
-    "minor": 10547,
+    "major": 10548,
+    "minor": 10548,
     "patch": 85
   }
 }
