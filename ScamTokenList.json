@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x43dD4E54Ca342043e97D731c1B3831E34003cF66",
-      "symbol": "SUPERNOVA",
-      "name": "supernova",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0e2C1c90EEe45aF7D4be84713581c928E57BeE43",
       "symbol": "GAY",
       "name": "GayShrimp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6796359CE5f355389195DF2767261ADc853e09bb",
+      "symbol": "SWC",
+      "name": "ShibaWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10495,
-    "minor": 10495,
+    "major": 10496,
+    "minor": 10496,
     "patch": 85
   }
 }
