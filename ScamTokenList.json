@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x11083Fb908c2aFcb990Ad41c6640696181405ED0",
-      "symbol": "ICULT",
-      "name": "ICULT",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3dbB9Ae39Bfc4F1D6c933d7661EB1Db025860ac4",
       "symbol": "CATO",
       "name": "CaToInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0fbf6232CF6DDA8B8ec16027e90f0aE98fdf27F6",
+      "symbol": "REN",
+      "name": "Renascence",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10576,
-    "minor": 10576,
+    "major": 10577,
+    "minor": 10577,
     "patch": 85
   }
 }
