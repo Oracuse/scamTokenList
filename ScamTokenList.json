@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x476eFC49DfA62C6a508cC172E4043585438EAec5",
-      "symbol": "GHNY",
-      "name": "GrizzlyHoney",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x44B3248e8A8D0CE962e5fC58aeb8Ad0221Db5B69",
       "symbol": "CAF",
       "name": "ColdAsFuck",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Ae489c6abB2aF187DaF7ebFB223E064FF1fC30A",
+      "symbol": "FUJINUSHI",
+      "name": "FujinUshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10530,
-    "minor": 10530,
+    "major": 10531,
+    "minor": 10531,
     "patch": 85
   }
 }
