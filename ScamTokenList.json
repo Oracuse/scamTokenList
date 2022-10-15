@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD9E48cA4BBE924Fac6FB6b439917614D126ac98D",
-      "symbol": "TOMATO",
-      "name": "TomatoCash",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2dD94Cd6BE78C41aA30d581FaE9A8c25dC21F398",
       "symbol": "APEDEEZ",
       "name": "APEDEEZ",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x554307c01B98c02C097a4D1C54Ee92246051De73",
+      "symbol": "SHIBACUP",
+      "name": "SUPERSHIBAWORLDCUP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10520,
-    "minor": 10520,
+    "major": 10521,
+    "minor": 10521,
     "patch": 85
   }
 }
