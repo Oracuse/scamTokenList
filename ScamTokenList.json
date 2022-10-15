@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4b9F45Fb0e9d05e5EC1A79B78F6Cc83F9a70A397",
-      "symbol": "ACEOFSPADES",
-      "name": "AceofSpades",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC026e6CC27d3D991CAD229239c8FF62981aca88D",
       "symbol": "100XGEMX",
       "name": "100xGemx",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfEDbd7d2dd27faaB8bB8BfeAAeeb4adf025a4b05",
+      "symbol": "G5L",
+      "name": "G5L",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10583,
-    "minor": 10583,
+    "major": 10584,
+    "minor": 10584,
     "patch": 85
   }
 }
