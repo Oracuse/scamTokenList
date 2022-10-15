@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3De5b5D0dfD4C7d3fff6c5464aBAeC9b07E56Db9",
-      "symbol": "OR",
-      "name": "Paradox",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2BF89981D503936eF822e5626EC2Cb8cD274d1ca",
       "symbol": "GAYDOLPHIN",
       "name": "GayDolphin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf78364C543824f0cecaCaFfE0A8E5Fd0D11b2c37",
+      "symbol": "KIREI",
+      "name": "Kirei",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10506,
-    "minor": 10506,
+    "major": 10507,
+    "minor": 10507,
     "patch": 85
   }
 }
