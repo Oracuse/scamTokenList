@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14fC4974A10538f4FDE8658332fD3a243E548558",
-      "symbol": "SUTZU",
-      "name": "SuTzu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81f96469518Dd8bE534c14c69fb45D99355CB48d",
       "symbol": "LD",
       "name": "LinkDao",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ea3d3F8F26BbE22D9D34d096e4Ad9B346bBFb89",
+      "symbol": "GHOST",
+      "name": "GhostOfShibuya",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10512,
-    "minor": 10512,
+    "major": 10513,
+    "minor": 10513,
     "patch": 85
   }
 }
