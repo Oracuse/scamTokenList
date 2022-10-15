@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7a09799a66984BE8b1B94AE6Fe9Ed3e595649ACb",
-      "symbol": "DDOA",
-      "name": "DokodemoDoa",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaadf4D1dEcfd8F0907c0DDDd10042dA7D53A6490",
       "symbol": "UMIBOZU",
       "name": "Umibozu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4CdE420Fc84B14414c124dAFD6BeFE574840aC62",
+      "symbol": "DIGITAL",
+      "name": "TheDejitaruProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10578,
-    "minor": 10578,
+    "major": 10579,
+    "minor": 10579,
     "patch": 85
   }
 }
