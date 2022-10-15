@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf11E58c98a4013a5257fA2Ae1Cc5a7793fBf4728",
-      "symbol": "SAFEAPE",
-      "name": "SafeApe",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15fF4FC9498362F4398B88987374030c31D034C7",
       "symbol": "BASED",
       "name": "BoredBasedDev",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5de075A9561AaD2acC204D3C6E37340fEf2aED86",
+      "symbol": "EINU",
+      "name": "EtherscanInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10570,
-    "minor": 10570,
+    "major": 10571,
+    "minor": 10571,
     "patch": 85
   }
 }
