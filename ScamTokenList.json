@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3eAb5A48f3eb5214DbFC9CA0C7743834388F9530",
-      "symbol": "WHALE",
-      "name": "WHALE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFA1e2bfD8D46fd1E17c3369cb7321867d18bE26C",
       "symbol": "OKIDOKI",
       "name": "OkidokiSocial",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x761d961204d0a929a77815561132E3257f4e0E9F",
+      "symbol": "XYST",
+      "name": "XystToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10500,
-    "minor": 10500,
+    "major": 10501,
+    "minor": 10501,
     "patch": 85
   }
 }
