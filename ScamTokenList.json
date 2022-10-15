@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x182D798235A691f2Dfe1647D8D0BCdf23e39dDb2",
-      "symbol": "EYES",
-      "name": "TheAncientEyes",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04059A3B3178F076a18dc37725Fa3f0a6a4d0D6f",
       "symbol": "QUEST",
       "name": "HERACLOS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbA49Ad7059952bd423257708f8B81C29b7a0f54a",
+      "symbol": "SWING",
+      "name": "SwingDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10502,
-    "minor": 10502,
+    "major": 10503,
+    "minor": 10503,
     "patch": 85
   }
 }
