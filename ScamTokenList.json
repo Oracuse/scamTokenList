@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56bd0C900acAF04125Ee26f546d6214634fD970F",
-      "symbol": "HUB",
-      "name": "Hubcoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3eAb5A48f3eb5214DbFC9CA0C7743834388F9530",
       "symbol": "WHALE",
       "name": "WHALE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcD5205AA3Bb83B300c5fc0B2E613cE460226C64A",
+      "symbol": "O",
+      "name": "EMPTINESS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10499,
-    "minor": 10499,
+    "major": 10500,
+    "minor": 10500,
     "patch": 85
   }
 }
