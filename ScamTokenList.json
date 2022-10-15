@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5a32628cC8b16543084b0836979493e1C4f13feE",
-      "symbol": "ARCANE",
-      "name": "ARCANE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc58fDa8937fb025b74096D0432353aa2143a4A37",
       "symbol": "TARO",
       "name": "Momotaro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a5b4C677fEab8DBB370bBDd2681A4d7a5E8CDd7",
+      "symbol": "THEDEGEN",
+      "name": "TheDegenProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10564,
-    "minor": 10564,
+    "major": 10565,
+    "minor": 10565,
     "patch": 85
   }
 }
