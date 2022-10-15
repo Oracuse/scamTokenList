@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFA1e2bfD8D46fd1E17c3369cb7321867d18bE26C",
-      "symbol": "OKIDOKI",
-      "name": "OkidokiSocial",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x182D798235A691f2Dfe1647D8D0BCdf23e39dDb2",
       "symbol": "EYES",
       "name": "TheAncientEyes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDaD9731D7dF2506727C1BD18b3384390e1fC7Ebd",
+      "symbol": "TAZR",
+      "name": "TazorDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10501,
-    "minor": 10501,
+    "major": 10502,
+    "minor": 10502,
     "patch": 85
   }
 }
