@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0244D128f585a5593dc7713566100B4F3fa8e253",
-      "symbol": "MIND",
-      "name": "MiNDToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdc52565Aa570656f29C151f13ec5D066cc6866AE",
       "symbol": "PRAXIS",
       "name": "ModusOperandi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f0B99F5547e90E00FeBAF5A66029e87C0982081",
+      "symbol": "BN",
+      "name": "BrownNoser",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10568,
-    "minor": 10568,
+    "major": 10569,
+    "minor": 10569,
     "patch": 85
   }
 }
