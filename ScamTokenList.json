@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDe2B1f2c533aA4f5F852829659AA2B46B2d846AD",
-      "symbol": "KILOS",
-      "name": "KilosInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0244D128f585a5593dc7713566100B4F3fa8e253",
       "symbol": "MIND",
       "name": "MiNDToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3dEd348b0Ca302c9b4bC26452aC54858536c5895",
+      "symbol": "NICHI",
+      "name": "NICHIYOUBI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10567,
-    "minor": 10567,
+    "major": 10568,
+    "minor": 10568,
     "patch": 85
   }
 }
