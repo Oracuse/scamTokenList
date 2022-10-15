@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDb977bE2457E84a486F2E4FB4f9c12d525c9D0d8",
-      "symbol": "WHITEWASH",
-      "name": "NOMORE",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE802cBF1ae4f67003a423Fa0E4bae409900fb841",
       "symbol": "TVW",
       "name": "TheVirtualWorld",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2b85c8AAd00518A42ECc3808aaaAc8Bb3e62E1C",
+      "symbol": "BABYTHE",
+      "name": "BabyTHEProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10541,
-    "minor": 10541,
+    "major": 10542,
+    "minor": 10542,
     "patch": 85
   }
 }
