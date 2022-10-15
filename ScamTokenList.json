@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4B6Cb32dF50467f26C3f365e55403673111d5FbA",
-      "symbol": "BRENDA",
-      "name": "BrendaToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38D57105889Df4FF1B5DC951f0ac8e6a36236F2e",
       "symbol": "BUCKSINU",
       "name": "BucksInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0D20389869469C738CB5b48f5d3D32cd2ad62a4F",
+      "symbol": "GRIN",
+      "name": "KuchisakeOnna",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10559,
-    "minor": 10559,
+    "major": 10560,
+    "minor": 10560,
     "patch": 85
   }
 }
