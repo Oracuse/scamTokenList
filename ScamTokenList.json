@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0ED561b11979b226E36A0dDa0a736aeD5fcCcd55",
-      "symbol": "SBP",
-      "name": "ShibaBurnProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6D3825b8e43B37C28689949Faf5394cB4F0dd1C3",
       "symbol": "PLSS",
       "name": "PulseShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD09A600CdDFeB6aaB1827B90be45f3e601c0Cb63",
+      "symbol": "THEIA",
+      "name": "OneOfTheTwelveTitan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10627,
-    "minor": 10627,
+    "major": 10628,
+    "minor": 10628,
     "patch": 85
   }
 }
