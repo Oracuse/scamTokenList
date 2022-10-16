@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf774dBf3144fC8AdE7043c7F6634C88cF83140f3",
-      "symbol": "VCASH",
-      "name": "voidcash",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa79Df25db5CF174F9b8a594806554ba74616a4E5",
       "symbol": "SPERM",
       "name": "SPERMWHALE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbE5E8dD983487D204126113087Bf62A76791162d",
+      "symbol": "WCP",
+      "name": "WorldCupProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10758,
-    "minor": 10758,
+    "major": 10759,
+    "minor": 10759,
     "patch": 85
   }
 }
