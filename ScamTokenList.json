@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4F551Ce50ea902A86fFB1d1a32BB87eccC44C556",
-      "symbol": "CLINU",
-      "name": "CleanInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1165Ce434377D9E0CafF79F9562B6cFC1C3d8Ea3",
       "symbol": "HYA",
       "name": "HydraToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79335a5B26A21effB16fcE566C91d32952feC6F8",
+      "symbol": "TIP",
+      "name": "TheInuProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10638,
-    "minor": 10638,
+    "major": 10639,
+    "minor": 10639,
     "patch": 85
   }
 }
