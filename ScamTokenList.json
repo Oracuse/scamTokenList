@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x809847eA8B4245B4E77d898Bd14650374d97bb37",
-      "symbol": "SNELL",
-      "name": "Snell",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8B909Bd3E48dfD6689DEF4FF252b95F54511eC14",
       "symbol": "NUTS",
       "name": "Thisisnuts",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f1E504F0274baAD9F7f497c4A0A99fEf95f7CB0",
+      "symbol": "TRTDONTBUY",
+      "name": "TestDeployment",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10621,
-    "minor": 10621,
+    "major": 10622,
+    "minor": 10622,
     "patch": 85
   }
 }
