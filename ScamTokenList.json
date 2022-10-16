@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe5bc1877CfE99FB97431674d2B0f3b79795F4EC0",
-      "symbol": "OUTFLATION",
-      "name": "Outflation",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7791c371e9404956792b3e69798C785fA7C68A47",
       "symbol": "ETHTO",
       "name": "ETHTOTHEMOON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75f723348DCaBCa845071450e4944c44Ea68e529",
+      "symbol": "DASBABY",
+      "name": "DasBaby",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10614,
-    "minor": 10614,
+    "major": 10615,
+    "minor": 10615,
     "patch": 85
   }
 }
