@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5aAF4d31E3d1d4933228DF31666345EBE18A2C35",
-      "symbol": "GINU",
-      "name": "GoogleInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe1c7E2927f1587a92969c4FDae283D2646651269",
       "symbol": "WRKSHP",
       "name": "THEWORKSHOP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27d6f0734b6e17C64886dd4B51c241a43A6b9DC1",
+      "symbol": "SWINU",
+      "name": "sweatinu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10592,
-    "minor": 10592,
+    "major": 10593,
+    "minor": 10593,
     "patch": 85
   }
 }
