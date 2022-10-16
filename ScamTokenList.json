@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x438a6E42813118548C065336844239b63ad4Fcfd",
-      "symbol": "CYBR",
-      "name": "Cyber",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0ED561b11979b226E36A0dDa0a736aeD5fcCcd55",
       "symbol": "SBP",
       "name": "ShibaBurnProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C6c11C073ee65670D0476A9baB792DCC86242da",
+      "symbol": "THEYACHT",
+      "name": "THEYACHTCLUB",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10626,
-    "minor": 10626,
+    "major": 10627,
+    "minor": 10627,
     "patch": 85
   }
 }
