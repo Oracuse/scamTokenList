@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa79Df25db5CF174F9b8a594806554ba74616a4E5",
-      "symbol": "SPERM",
-      "name": "SPERMWHALE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBD24549592FD6aD27722a9a92949cEA188BA454f",
       "symbol": "ELONPHANT",
       "name": "ElonphantInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x523aEEA8f5dc0522Aeb4107cFff4D3aF0294e5ec",
+      "symbol": "DXM",
+      "name": "DeusXMachina",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10759,
-    "minor": 10759,
+    "major": 10760,
+    "minor": 10760,
     "patch": 85
   }
 }
