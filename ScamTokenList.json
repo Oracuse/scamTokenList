@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE94C8C0B445d6eBB958B3B82Cc38C771DB075fF6",
-      "symbol": "FLOKI",
-      "name": "IsraelFloki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x32DF9f482a0959d5471882fD954Cd05dfE9CbC88",
       "symbol": "WST",
       "name": "WeStandT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5BC254acBAf94FF7390FC93A42287b63978ab102",
+      "symbol": "CIKO",
+      "name": "CIKO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10740,
-    "minor": 10740,
+    "major": 10741,
+    "minor": 10741,
     "patch": 85
   }
 }
