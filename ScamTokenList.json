@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x292258842B9e3e6b5C53ED986Ef4B5e60862FA0a",
-      "symbol": "MJ12",
-      "name": "MAJESTIC12",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB5fC46855bdb00b2560FCfb7A61d4d61EfA92321",
       "symbol": "GNANON",
       "name": "GoodnightAnon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A9e32b8ac4e90c6476C0eD1C80c90aA67e14fBb",
+      "symbol": "UNIK",
+      "name": "UnikNetwork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10646,
-    "minor": 10646,
+    "major": 10647,
+    "minor": 10647,
     "patch": 85
   }
 }
