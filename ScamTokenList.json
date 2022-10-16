@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2161a3d57c07355Eb1Fb49A32D3836573107a63f",
-      "symbol": "GALAXY",
-      "name": "Galaxy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x83ce934A9e0816B0b8A61B2322Aa2CAc0c46755c",
       "symbol": "CHIDORI",
       "name": "Chidori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x843d28FeFC639ad66E063D2c0F27d8B7054FC17f",
+      "symbol": "BTP",
+      "name": "BabyTennisProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10656,
-    "minor": 10656,
+    "major": 10657,
+    "minor": 10657,
     "patch": 85
   }
 }
