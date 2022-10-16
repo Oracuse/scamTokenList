@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1C05bBc5b8C3B0c519c6Bab2B4af814AE6cFDf26",
-      "symbol": "ZETSU",
-      "name": "KuroZetsu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc2D4123ca43306ccB13fde800164F12570EDc707",
       "symbol": "PLSC",
       "name": "PulseCult",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1403508E339A32aaCea7B1FFf883721072184445",
+      "symbol": "DXM",
+      "name": "DeusXMachina",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10751,
-    "minor": 10751,
+    "major": 10752,
+    "minor": 10752,
     "patch": 85
   }
 }
