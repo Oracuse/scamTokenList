@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5b6a35c90d7f7D25899EE52F1Aa63344a5bE786F",
-      "symbol": "PALS",
-      "name": "FlokiMarvinPals",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEC94A05A57A7f5dd523D20f456013C3f7F798ADa",
       "symbol": "MIN",
       "name": "Minimal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd70Eda39A476eb189Ef6b6706dFFb43eA7d266F2",
+      "symbol": "HOPIUM",
+      "name": "DegensAddiction",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10698,
-    "minor": 10698,
+    "major": 10699,
+    "minor": 10699,
     "patch": 85
   }
 }
