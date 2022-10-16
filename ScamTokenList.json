@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x429Bea6C09fBdE52ed7ead462077889Ec6Cdc522",
-      "symbol": "FORTUNE",
-      "name": "13Questions",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x216D711dB93490565F045E25B0650aae77881C7B",
       "symbol": "SCP",
       "name": "SecureContainProtec",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x612c6aB3c55B897BFf8cdFFc9e71143fd01f7f2A",
+      "symbol": "IR",
+      "name": "SIRToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10676,
-    "minor": 10676,
+    "major": 10677,
+    "minor": 10677,
     "patch": 85
   }
 }
