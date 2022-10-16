@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9f1FccA0d0E073EEfb3669029a827d43A7403dc0",
-      "symbol": "NGMI",
-      "name": "NotGoingtoMakeInfla",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA76D8660E0e8b17E01589432E3CC163Eee5e1e8F",
       "symbol": "BLACKDAI",
       "name": "BLACKDAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAA2DEd323944b25C0B6f1F891Bc96F010b65622C",
+      "symbol": "THERADIO",
+      "name": "Radioreum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10619,
-    "minor": 10619,
+    "major": 10620,
+    "minor": 10620,
     "patch": 85
   }
 }
