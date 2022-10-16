@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x33EEE4400B6F1C423de8754901470a7eA1A467C4",
-      "symbol": "APTOS",
-      "name": "Aptos",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8223835Ab9a49CF018ec72eF42E75403Ed76AeF9",
       "symbol": "5D",
       "name": "FifthDimension",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90d7da93df207cb9B961dB97ac15e198739a1B59",
+      "symbol": "DMEDIA",
+      "name": "DMedia",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10705,
-    "minor": 10705,
+    "major": 10706,
+    "minor": 10706,
     "patch": 85
   }
 }
