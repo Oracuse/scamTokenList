@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x44d068C8e2484CC45a09b72a9e9D3de3f2365e6F",
-      "symbol": "SYMBOL",
-      "name": "NAME",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3Bb537186B4C7d690aA719E857e1BAdf3e66B294",
       "symbol": "PCLF",
       "name": "PULSECLIFF",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB08A7B675f8759fAAB42d4CC86769FC97AF0cD73",
+      "symbol": "EKWON",
+      "name": "EvilDogekwon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10680,
-    "minor": 10680,
+    "major": 10681,
+    "minor": 10681,
     "patch": 85
   }
 }
