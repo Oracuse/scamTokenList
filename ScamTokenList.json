@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd9888F75126605e7dca516e8f1b4af35398FD53e",
-      "symbol": "PULSETAMA",
-      "name": "Pulsetama",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1cBa86C73dD03B733E549AcDFb1104E176F5a97A",
       "symbol": "1900",
       "name": "ETH1900",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a91f59157c561b07982AB52C5613e74F1c79a76",
+      "symbol": "AMUNSCREED",
+      "name": "TheHiidenOnes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10695,
-    "minor": 10695,
+    "major": 10696,
+    "minor": 10696,
     "patch": 85
   }
 }
