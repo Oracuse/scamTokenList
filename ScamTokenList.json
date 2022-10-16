@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x771E14B1b6F19c4E738751135E475FfC95e0Dbc7",
-      "symbol": "BTFD",
-      "name": "BitcoinFoundationDA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17F6D90fBE33C9aaE21Ca5D669c23ddB8Ebb481D",
       "symbol": "FUPM",
       "name": "FUPM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Cf65Bc2D05C60EF0055027Fc7e5603FA33D4551",
+      "symbol": "MISSILE",
+      "name": "Missile",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10691,
-    "minor": 10691,
+    "major": 10692,
+    "minor": 10692,
     "patch": 85
   }
 }
