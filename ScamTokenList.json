@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4F064968EdC76cC10cC52f223332A77Af04E66F8",
-      "symbol": "CCT",
-      "name": "ComeCheckThis",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x839866b86fA72705A31A51Dd577dcc14cb9C0E07",
       "symbol": "LGE",
       "name": "LETSGOETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9630A248bB16464C0e414e9aB5012c5A04a1f92",
+      "symbol": "TSUKAPROTOCOL",
+      "name": "TheTsukaProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10712,
-    "minor": 10712,
+    "major": 10713,
+    "minor": 10713,
     "patch": 85
   }
 }
