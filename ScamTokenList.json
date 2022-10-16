@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42815B718Df254b31f3598D2bDdA52C442887929",
-      "symbol": "MOO",
-      "name": "MOO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4cdf242B61C72d1a5Ebd74A3b7cBE9Bc73BA30ee",
       "symbol": "CMOO",
       "name": "SheeshMoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C95AFE2dC69A9F7abDEe6B60579d2E5038B9c59",
+      "symbol": "REALITY",
+      "name": "ADreamWithinADream",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10667,
-    "minor": 10667,
+    "major": 10668,
+    "minor": 10668,
     "patch": 85
   }
 }
