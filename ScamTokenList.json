@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x555e501914a98004CAdFed85d983Da279a9989F9",
-      "symbol": "UMIBOZU",
-      "name": "Umibozu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x95BBdE732D27F46CA1a4D32DDB08039Dc9D6fa70",
       "symbol": "ABYSS",
       "name": "Aliv3",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x940353FB9027aCb64D039DB57D1a53B5fE588A5C",
+      "symbol": "PEPEBET",
+      "name": "PEPEbet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10665,
-    "minor": 10665,
+    "major": 10666,
+    "minor": 10666,
     "patch": 85
   }
 }
