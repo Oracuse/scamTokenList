@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6b795B72AC68C29144cC3787b776dEC58f4e8Fd9",
-      "symbol": "KATSUMI",
-      "name": "KATSUMIINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDf1DF7A6eFA1599FD197Eccb86fC5F025626ff2F",
       "symbol": "BAKITA",
       "name": "BASEDAKITA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8192A299cD90AE1Fd6d1CAE01dAC24bA331F0A29",
+      "symbol": "BASED",
+      "name": "BASED",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10720,
-    "minor": 10720,
+    "major": 10721,
+    "minor": 10721,
     "patch": 85
   }
 }
