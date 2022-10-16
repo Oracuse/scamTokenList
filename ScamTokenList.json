@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Bb537186B4C7d690aA719E857e1BAdf3e66B294",
-      "symbol": "PCLF",
-      "name": "PULSECLIFF",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb273c39e265153Ae9F6661783C1ACF6F92408418",
       "symbol": "ESP",
       "name": "Telepathy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f334C27F9d5d573222DE228D1D793e02fB2B902",
+      "symbol": "KITSUNEMASK",
+      "name": "KitsuneMask",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10681,
-    "minor": 10681,
+    "major": 10682,
+    "minor": 10682,
     "patch": 85
   }
 }
