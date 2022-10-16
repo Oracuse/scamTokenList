@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x176465168550835Ecc6476fe1f80dFf838AcB535",
-      "symbol": "CAT",
-      "name": "CAT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6e1D10Ac79c3eB2B53EB8C97d5EbB27af4185691",
       "symbol": "3AC",
       "name": "3ACINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xED71Fc879fA17ACe4ee31530a42b044F711bd588",
+      "symbol": "MANIFEST",
+      "name": "Manifest",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10730,
-    "minor": 10730,
+    "major": 10731,
+    "minor": 10731,
     "patch": 85
   }
 }
