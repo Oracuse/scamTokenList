@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66D0c18b74c2e604096D1F4F16662A1BE93419Bf",
-      "symbol": "TCASH",
-      "name": "ThunderCash",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7095045Ed86431d66204937DEf4A2121f102d495",
       "symbol": "PULSAR",
       "name": "PULSAR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x277Df2da7DF23B6f5f7896e5F188615962Ad2c95",
+      "symbol": "THEB",
+      "name": "TheBabyProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10718,
-    "minor": 10718,
+    "major": 10719,
+    "minor": 10719,
     "patch": 85
   }
 }
