@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x09f7e0493Fd7E9209C8f0eAE7827779A4D92413b",
-      "symbol": "SHIFU",
-      "name": "Shibfan",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x583fA83ac7F0C3DE740f03ead0e6261dC5cB9702",
       "symbol": "SBP",
       "name": "ShibaBurnProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4dDb4bda82A7BCCa654C836BA2AaD3b7cA6B38BA",
+      "symbol": "BWCI",
+      "name": "BURNWORLDCUPINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10612,
-    "minor": 10612,
+    "major": 10613,
+    "minor": 10613,
     "patch": 85
   }
 }
