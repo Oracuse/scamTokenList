@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeE62CE32e2AC35EE713C2E4eAF7Ecf7E8b18c107",
-      "symbol": "SHINGEKI",
-      "name": "SHINGEKI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2d78BE046E7551656DDC83eE0CEe9B459B25474B",
       "symbol": "AINU",
       "name": "AinuInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xea026341987B6C943Ec47F794A3F1eE176e6dFe5",
+      "symbol": "TDP",
+      "name": "TheDegenProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10654,
-    "minor": 10654,
+    "major": 10655,
+    "minor": 10655,
     "patch": 85
   }
 }
