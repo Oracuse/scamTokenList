@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf3dAD16f02821325273f5AFA23c38b6Df5b8A486",
-      "symbol": "IWATCH",
-      "name": "InfluencerWatch",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x528F5f24FaC9f86023F209a0F9CD00852d9E01d2",
       "symbol": "SEND",
       "name": "FULLSEND",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1cff66dCdDa23477f609fc0c78aee038fb3E803",
+      "symbol": "KRK",
+      "name": "KURKANU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10732,
-    "minor": 10732,
+    "major": 10733,
+    "minor": 10733,
     "patch": 85
   }
 }
