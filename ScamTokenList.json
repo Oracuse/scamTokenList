@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2a0D74A88c2CAa520BDF77cC0d622c04A6D99eE0",
-      "symbol": "UMIBOZU",
-      "name": "Umibozu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcC9C45461e4Fa144D0468174aD5C7E70cfD4ed00",
       "symbol": "APEPE",
       "name": "APEPE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67b9C376D7C608e5eb7fdB6eB8487dAdBc597512",
+      "symbol": "SPHINX",
+      "name": "ProtectorofPyramids",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10632,
-    "minor": 10632,
+    "major": 10633,
+    "minor": 10633,
     "patch": 85
   }
 }
