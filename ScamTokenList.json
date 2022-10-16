@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x143a4b1d8453d478cD2616Cf1F45CD98faC42B2D",
-      "symbol": "HITO",
-      "name": "HibakushaSabaiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6A770CACA2Ee5E76390bcC56be5D2E5110158840",
       "symbol": "FLOKI",
       "name": "GasFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22b7D309bB5b22F1AC5443Be29E645a984946B8B",
+      "symbol": "POC",
+      "name": "ProofofChampion",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10686,
-    "minor": 10686,
+    "major": 10687,
+    "minor": 10687,
     "patch": 85
   }
 }
