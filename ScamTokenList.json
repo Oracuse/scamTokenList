@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5881D981aa77af5F0A210748ee00431cF65F8A51",
-      "symbol": "STARS",
-      "name": "MiniStars",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F551Ce50ea902A86fFB1d1a32BB87eccC44C556",
       "symbol": "CLINU",
       "name": "CleanInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c2eE6C0Bf05311175Cc5A53b51c9dd7dD4596CF",
+      "symbol": "BABYWCI",
+      "name": "BabyWorldCupInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10637,
-    "minor": 10637,
+    "major": 10638,
+    "minor": 10638,
     "patch": 85
   }
 }
