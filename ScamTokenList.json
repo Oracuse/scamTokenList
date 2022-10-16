@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7F14C4125deca402BFf99765Eeb0228640940f35",
-      "symbol": "ONLYUP",
-      "name": "OnlyUp",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x58B6B27f581c7b9EF5205828406D9EbB37FF6DB5",
       "symbol": "CHIDORI",
       "name": "Chidori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46cE776bca835D4F704072c28ab1d9A54f4b7B46",
+      "symbol": "DGROW",
+      "name": "DegenGrow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10661,
-    "minor": 10661,
+    "major": 10662,
+    "minor": 10662,
     "patch": 85
   }
 }
