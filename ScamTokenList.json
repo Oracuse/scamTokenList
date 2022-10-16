@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe7938C583D3aE1762cE79980278e8254aB5FfDAb",
-      "symbol": "SAPIENS",
-      "name": "AlienMirror",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE0Aa94059Db17D0ac38A7F5D98C78767f12aA83C",
       "symbol": "UNKNOWN",
       "name": "UNKNOWN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x483d4d5DFD9d4305e43B45970E68DC7831C08e1c",
+      "symbol": "LOL",
+      "name": "LackofLuck",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10728,
-    "minor": 10728,
+    "major": 10729,
+    "minor": 10729,
     "patch": 85
   }
 }
