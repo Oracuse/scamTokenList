@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4cdf242B61C72d1a5Ebd74A3b7cBE9Bc73BA30ee",
-      "symbol": "CMOO",
-      "name": "SheeshMoon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5271F443EBD60C6E92fA088C1Cb8043DFD55632f",
       "symbol": "SEAPRIEST",
       "name": "Umibozu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f35b41400ef34da23f7f94a1972bE2097f76d38",
+      "symbol": "TSP",
+      "name": "TheSoccerProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10668,
-    "minor": 10668,
+    "major": 10669,
+    "minor": 10669,
     "patch": 85
   }
 }
