@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9BB2cf8ccEf3bf9E11af8b6E4B67B3255bA4E4Aa",
-      "symbol": "S7NS",
-      "name": "S7NSSTATION",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5e1e918A752d993157E94b0F40C26B30e87D632f",
       "symbol": "OVERBET",
       "name": "OVERBET",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7083698caAB5D58f6F7C0572E4Db660653fd217f",
+      "symbol": "JEFFT1",
+      "name": "MyNameIsJeffT1",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10598,
-    "minor": 10598,
+    "major": 10599,
+    "minor": 10599,
     "patch": 85
   }
 }
