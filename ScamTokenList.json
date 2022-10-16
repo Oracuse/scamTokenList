@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE2E1858454d681e0933F3d5A1B05db4667E09eEE",
-      "symbol": "STATICFIRES",
-      "name": "StaticFires",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8EC4c7D6aC4081F122DC7fCcACeCabcD5f603F89",
       "symbol": "MANDOR",
       "name": "MANDOR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5cce4b6c0369749651527CfC87a434553da48EdD",
+      "symbol": "OUSHI",
+      "name": "DejitaruOushi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10702,
-    "minor": 10702,
+    "major": 10703,
+    "minor": 10703,
     "patch": 85
   }
 }
