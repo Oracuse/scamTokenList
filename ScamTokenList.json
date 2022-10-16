@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC9fa6B78aa375c0Dc0Fd54bf24c3834fE7d46D92",
-      "symbol": "VEEF",
-      "name": "VeeFriends",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F064968EdC76cC10cC52f223332A77Af04E66F8",
       "symbol": "CCT",
       "name": "ComeCheckThis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x073bE5B9f6bc8cc42E74e592ae9B03c573FcbA4d",
+      "symbol": "APHA",
+      "name": "aPhalaNetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10711,
-    "minor": 10711,
+    "major": 10712,
+    "minor": 10712,
     "patch": 85
   }
 }
