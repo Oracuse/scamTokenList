@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x528F5f24FaC9f86023F209a0F9CD00852d9E01d2",
-      "symbol": "SEND",
-      "name": "FULLSEND",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8B4847E6fDbDe154493521fD0c29fEa8B0043cB6",
       "symbol": "GOAT",
       "name": "Destiny",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a62c18e84AEC8DA388757E100a81A8023Aae12B",
+      "symbol": "KYC",
+      "name": "KnowyourCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10733,
-    "minor": 10733,
+    "major": 10734,
+    "minor": 10734,
     "patch": 85
   }
 }
