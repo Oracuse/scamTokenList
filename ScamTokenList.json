@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc2D4123ca43306ccB13fde800164F12570EDc707",
-      "symbol": "PLSC",
-      "name": "PulseCult",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xff3bc6d6FdEb6Bcf1caD57DEbAcD390a1003C2F3",
       "symbol": "GR33N",
       "name": "Initiative",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14513E7A1f393b01A21E668e9Fc6d5eE55F4973D",
+      "symbol": "DRACO",
+      "name": "DRACO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10752,
-    "minor": 10752,
+    "major": 10753,
+    "minor": 10753,
     "patch": 85
   }
 }
