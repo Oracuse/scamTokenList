@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x58B6B27f581c7b9EF5205828406D9EbB37FF6DB5",
-      "symbol": "CHIDORI",
-      "name": "Chidori",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3a0a3e77217BAf13454314269077C32AA217E2cB",
       "symbol": "LAVENDER",
       "name": "LAVENDER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15c1108C0D1D79dE03a4378785109e8E17e5FEdA",
+      "symbol": "CAIMR",
+      "name": "Caimr",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10662,
-    "minor": 10662,
+    "major": 10663,
+    "minor": 10663,
     "patch": 85
   }
 }
