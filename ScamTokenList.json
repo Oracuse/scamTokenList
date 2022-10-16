@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3a0a3e77217BAf13454314269077C32AA217E2cB",
-      "symbol": "LAVENDER",
-      "name": "LAVENDER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21108784DE7Cc103bD8B3cA1EAA5152595d98886",
       "symbol": "UMIBOZU",
       "name": "Umibozu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2FFd0fD94C5F64CaCFA35527Af621cb031a3D0B2",
+      "symbol": "TT",
+      "name": "TsukaTennis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10663,
-    "minor": 10663,
+    "major": 10664,
+    "minor": 10664,
     "patch": 85
   }
 }
