@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x20723ae8393F78e760cb679e510d51Bb24907397",
-      "symbol": "PAN",
-      "name": "Pancea",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x53C87B65629419D76098fC54dB81e03ADa5F1421",
       "symbol": "FLY",
       "name": "Fly",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c33cfF4ef2Ff1095FEbef3A26927fE8669006a7",
+      "symbol": "WCD",
+      "name": "WorldCupDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10606,
-    "minor": 10606,
+    "major": 10607,
+    "minor": 10607,
     "patch": 85
   }
 }
