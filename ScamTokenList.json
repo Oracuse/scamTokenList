@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8EC4c7D6aC4081F122DC7fCcACeCabcD5f603F89",
-      "symbol": "MANDOR",
-      "name": "MANDOR",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeDE6A016659722278CBb2d60db78B837c7f2F8a9",
       "symbol": "PLSE",
       "name": "PULSETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1A8469cc1765E481A0726C3611a7ADda24eCBBB",
+      "symbol": "SHOJO",
+      "name": "Nakayoshi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10703,
-    "minor": 10703,
+    "major": 10704,
+    "minor": 10704,
     "patch": 85
   }
 }
