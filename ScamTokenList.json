@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe1c7E2927f1587a92969c4FDae283D2646651269",
-      "symbol": "WRKSHP",
-      "name": "THEWORKSHOP",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF164594ed3cBFB08E10ec8fDF08D20b8a821A769",
       "symbol": "HANDS",
       "name": "HANDS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9C50714b19C04b3394B6460656d79e0BBa02BF1a",
+      "symbol": "ROCK",
+      "name": "TheRockCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10593,
-    "minor": 10593,
+    "major": 10594,
+    "minor": 10594,
     "patch": 85
   }
 }
