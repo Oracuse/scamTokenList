@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeDE6A016659722278CBb2d60db78B837c7f2F8a9",
-      "symbol": "PLSE",
-      "name": "PULSETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x33EEE4400B6F1C423de8754901470a7eA1A467C4",
       "symbol": "APTOS",
       "name": "Aptos",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe07328AE5ec6176dB1b22C2E1aa6a186985fB2a5",
+      "symbol": "DYOR",
+      "name": "DoYourOwnResearch",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10704,
-    "minor": 10704,
+    "major": 10705,
+    "minor": 10705,
     "patch": 85
   }
 }
