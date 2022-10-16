@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBD3c351522e1b828B7CCDB81B045Abf62fE26bf8",
-      "symbol": "BULL",
-      "name": "BULL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x127D03dCB66AabbacA9A414E9a46F9Bf5C573B52",
       "symbol": "888",
       "name": "X8liens",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB9B9798ba0858E34F41E5FF922c7EEFEb1fcdeC5",
+      "symbol": "POS",
+      "name": "ProofofSER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10722,
-    "minor": 10722,
+    "major": 10723,
+    "minor": 10723,
     "patch": 85
   }
 }
