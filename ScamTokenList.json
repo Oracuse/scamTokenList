@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62348a76c24a96293700dDB4fAf5013db1F9A7A7",
-      "symbol": "DUST",
-      "name": "Dust",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2b9393F47d7a34f91Aeb39F58998164751dCF842",
       "symbol": "BUCKS",
       "name": "Starbucks",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x927CBE58dBF965C1DB32Ae671fd7ec052B40582a",
+      "symbol": "SHIBOSHI",
+      "name": "ShibaEternity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10585,
-    "minor": 10585,
+    "major": 10586,
+    "minor": 10586,
     "patch": 85
   }
 }
