@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcFa9a022e9A4D56A4628B0445621B0EBAB11C8a2",
-      "symbol": "BURNIE",
-      "name": "Burnie",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8620199Aa6359AD559F1F33964efE9D79c64Af4B",
       "symbol": "TWILIGHT",
       "name": "Twilight",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEa107C670378f08f6adfacF7a43f35506700583E",
+      "symbol": "TLL",
+      "name": "TheLaziestLarp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10630,
-    "minor": 10630,
+    "major": 10631,
+    "minor": 10631,
     "patch": 85
   }
 }
