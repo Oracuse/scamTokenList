@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x492866A46Fbd51f7E830b9351857be6B84978F97",
-      "symbol": "TINU",
-      "name": "TartarusInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5e579Ec235C76f746fE570B9cde02d64E559fadF",
       "symbol": "DRACO",
       "name": "Dracarys",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd55231b619Ec464347d7b6eB12Cc7AE19fBbf37D",
+      "symbol": "YANTRA",
+      "name": "YANTRA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10746,
-    "minor": 10746,
+    "major": 10747,
+    "minor": 10747,
     "patch": 85
   }
 }
