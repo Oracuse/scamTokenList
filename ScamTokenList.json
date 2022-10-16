@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7095045Ed86431d66204937DEf4A2121f102d495",
-      "symbol": "PULSAR",
-      "name": "PULSAR",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6b795B72AC68C29144cC3787b776dEC58f4e8Fd9",
       "symbol": "KATSUMI",
       "name": "KATSUMIINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa33a9144FE6eAed271cf0aA8b217Afe2cdE689AF",
+      "symbol": "FGOLD",
+      "name": "FGOLDTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10719,
-    "minor": 10719,
+    "major": 10720,
+    "minor": 10720,
     "patch": 85
   }
 }
