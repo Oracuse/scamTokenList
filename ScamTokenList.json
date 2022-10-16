@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEC94A05A57A7f5dd523D20f456013C3f7F798ADa",
-      "symbol": "MIN",
-      "name": "Minimal",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb1886454799BA4f8f09a56256df836aa7d87a9A5",
       "symbol": "AGELESS",
       "name": "FountainofYouth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x786046Ff72b3dF0032aaDBAfB209D2d6d2A2964d",
+      "symbol": "OX",
+      "name": "OXOXOX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10699,
-    "minor": 10699,
+    "major": 10700,
+    "minor": 10700,
     "patch": 85
   }
 }
