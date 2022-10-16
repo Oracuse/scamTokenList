@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7791c371e9404956792b3e69798C785fA7C68A47",
-      "symbol": "ETHTO",
-      "name": "ETHTOTHEMOON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x68392B4b42f2D7594C9830E1F0AcB4211D5C5cD2",
       "symbol": "SUKI",
       "name": "SUKI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19ea5077a4D5CFC6906f3651A7207300B66855a9",
+      "symbol": "KBGAGENT",
+      "name": "PotSecret",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10615,
-    "minor": 10615,
+    "major": 10616,
+    "minor": 10616,
     "patch": 85
   }
 }
