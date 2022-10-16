@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0387dA6b8071625D97240b8211f2b7eD29373a28",
-      "symbol": "SHIBSV",
-      "name": "ShibaSV",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x292258842B9e3e6b5C53ED986Ef4B5e60862FA0a",
       "symbol": "MJ12",
       "name": "MAJESTIC12",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F5523A697981D97b8bEa62E568CDfdEce960388",
+      "symbol": "UNITY",
+      "name": "OneWorld",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10645,
-    "minor": 10645,
+    "major": 10646,
+    "minor": 10646,
     "patch": 85
   }
 }
