@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe1884499D3b6687B749719Cf07fB762500104214",
-      "symbol": "SHINGEKI",
-      "name": "ShingekinoKyojin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC2C43b81D3f9b7fCf0F188b937bD7e90506C8f1F",
       "symbol": "SHOGUN",
       "name": "ShogunDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcA1168A0fcfa01b94923a27Cc94EBdb5142c01DC",
+      "symbol": "TSUTENNIS",
+      "name": "TSUKATENNIS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10648,
-    "minor": 10648,
+    "major": 10649,
+    "minor": 10649,
     "patch": 85
   }
 }
