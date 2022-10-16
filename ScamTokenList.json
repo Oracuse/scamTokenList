@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDEd99dF57a33DDfc8d0cF94B8f2B72dfbe792aA2",
-      "symbol": "UNKNOWN",
-      "name": "UNKNOWN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x41a9cc4953A59582cE2a09045738dBCfcEed133F",
       "symbol": "GM",
       "name": "gm",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x466e5209aBFD8AC928bFDFd80b34dBAc3A811F1A",
+      "symbol": "MWCI",
+      "name": "MINIWORLDCUPINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10603,
-    "minor": 10603,
+    "major": 10604,
+    "minor": 10604,
     "patch": 85
   }
 }
