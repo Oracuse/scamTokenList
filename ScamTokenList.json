@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53C87B65629419D76098fC54dB81e03ADa5F1421",
-      "symbol": "FLY",
-      "name": "Fly",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbE2d31AC4d8c9Ac88Dd5f2bc4D9A74Eb700BA824",
       "symbol": "WXW",
       "name": "WuxiaWorld",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28D847E9B9089f598Da8678FFF8Af554b65C8200",
+      "symbol": "GCI",
+      "name": "GolfCapInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10607,
-    "minor": 10607,
+    "major": 10608,
+    "minor": 10608,
     "patch": 85
   }
 }
