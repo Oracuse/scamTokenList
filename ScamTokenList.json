@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x68b1d605B40FEfa7F7A1354637E86Cc1271DE5ab",
-      "symbol": "BATCOIN",
-      "name": "Batcoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x87DA5Fb675FD6ee5ac9Dcae5a7C51A385De636F2",
       "symbol": "SHIBASV",
       "name": "SHIBASV",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFc148ab84d2f01c20118F07Ef0E4B5460cf3B8E4",
+      "symbol": "ALLITERATION",
+      "name": "Paromoeon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10652,
-    "minor": 10652,
+    "major": 10653,
+    "minor": 10653,
     "patch": 85
   }
 }
