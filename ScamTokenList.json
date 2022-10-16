@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe85Dd2e1Cf8785000E9974b5B1c110c48714A109",
-      "symbol": "PLSS",
-      "name": "PulseShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x41BC34963E8b0b76B23aa547A7169c2B15d7DCDa",
       "symbol": "FWC",
       "name": "FifaWordCup",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33Cf519030235F75A13F29aFcFF5D6ff4Fd10350",
+      "symbol": "PEPEBET",
+      "name": "PEPEbetToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10726,
-    "minor": 10726,
+    "major": 10727,
+    "minor": 10727,
     "patch": 85
   }
 }
