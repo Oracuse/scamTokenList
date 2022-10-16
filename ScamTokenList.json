@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb273c39e265153Ae9F6661783C1ACF6F92408418",
-      "symbol": "ESP",
-      "name": "Telepathy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42Ff983d085EA43cC7679cCF05824730ad4cfb42",
       "symbol": "PLSK",
       "name": "PulseKiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaFFd22436EDfc45575Cf9405C394f2a198E149f3",
+      "symbol": "DOGEZILLA2O",
+      "name": "ProofOfZilla",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10682,
-    "minor": 10682,
+    "major": 10683,
+    "minor": 10683,
     "patch": 85
   }
 }
