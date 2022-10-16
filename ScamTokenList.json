@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28df58E99DaD74690cA0159C463667E28ec4DD44",
-      "symbol": "SMUDGE",
-      "name": "SmudgeCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf1D8501d175E6FBf416f46cAA74Fbd3E85CAe2bc",
       "symbol": "EFLOKI",
       "name": "ElonFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE63De5347a54cDd0383739E59Bce98be16E52Fe7",
+      "symbol": "TIP",
+      "name": "TheINUProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10640,
-    "minor": 10640,
+    "major": 10641,
+    "minor": 10641,
     "patch": 85
   }
 }
