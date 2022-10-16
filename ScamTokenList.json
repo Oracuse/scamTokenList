@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87DA5Fb675FD6ee5ac9Dcae5a7C51A385De636F2",
-      "symbol": "SHIBASV",
-      "name": "SHIBASV",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeE62CE32e2AC35EE713C2E4eAF7Ecf7E8b18c107",
       "symbol": "SHINGEKI",
       "name": "SHINGEKI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa020AFb992B82EE4deb13006B193Ed3f2B443C85",
+      "symbol": "DISORDER",
+      "name": "Overset",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10653,
-    "minor": 10653,
+    "major": 10654,
+    "minor": 10654,
     "patch": 85
   }
 }
