@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42Ff983d085EA43cC7679cCF05824730ad4cfb42",
-      "symbol": "PLSK",
-      "name": "PulseKiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa14136bD9BEDF4B4854159f07A800aee6A8234c0",
       "symbol": "DEZIK",
       "name": "Dezik",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59962beb304983F4422198984f8DE2d8B0D68C2b",
+      "symbol": "KITSUNEMASK",
+      "name": "KitsuneMask",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10683,
-    "minor": 10683,
+    "major": 10684,
+    "minor": 10684,
     "patch": 85
   }
 }
