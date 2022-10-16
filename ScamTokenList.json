@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5D9702d34dcF725076C8c43f4589F332E4De149",
-      "symbol": "STARS",
-      "name": "MiniStars",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x27BF0D59bAea32a122b5d119AE17e81071a19916",
       "symbol": "OSF",
       "name": "OSFEditions",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC07C4E7A709011803552bA6E3482da6bBbB71Ce2",
+      "symbol": "KTM390",
+      "name": "THEKTMProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10596,
-    "minor": 10596,
+    "major": 10597,
+    "minor": 10597,
     "patch": 85
   }
 }
