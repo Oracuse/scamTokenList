@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbaF8e4c1Aa9798B8D050dCF6099Feb5BCF4CA178",
-      "symbol": "UMIBOZU",
-      "name": "Umibozu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x879CB2DEFc50FAd0dA77EbE03072186b76e56F94",
       "symbol": "EMP",
       "name": "ElonsMasterPlan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E5e0255D3771Ce1952dFb06759d27E08B939137",
+      "symbol": "TONE",
+      "name": "TONE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10588,
-    "minor": 10588,
+    "major": 10589,
+    "minor": 10589,
     "patch": 85
   }
 }
