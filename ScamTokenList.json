@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6e1D10Ac79c3eB2B53EB8C97d5EbB27af4185691",
-      "symbol": "3AC",
-      "name": "3ACINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf3dAD16f02821325273f5AFA23c38b6Df5b8A486",
       "symbol": "IWATCH",
       "name": "InfluencerWatch",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05336c7c3fE147e9d231dD061d11305Ed4D9AeFf",
+      "symbol": "SHERPA",
+      "name": "SHERPATOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10731,
-    "minor": 10731,
+    "major": 10732,
+    "minor": 10732,
     "patch": 85
   }
 }
