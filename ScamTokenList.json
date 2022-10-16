@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb06f4Caa70C8395dDAB25015b478314B3723c96e",
-      "symbol": "BTFD",
-      "name": "BitcoinFoundationDA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE5e687193fA0E4254801Ce9de75C3452a183012e",
       "symbol": "UNKNOWN",
       "name": "UNKNOWN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77eA2798142b7322Ee2683AA8eE642b8161Db1E6",
+      "symbol": "GAMBLE",
+      "name": "DegensDestiny",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10600,
-    "minor": 10600,
+    "major": 10601,
+    "minor": 10601,
     "patch": 85
   }
 }
