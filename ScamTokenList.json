@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2C6c31B021B32BC12a8e73057966000f1dA4cF0b",
-      "symbol": "EPHERNITE",
-      "name": "Ephernite",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x20C59999388096E090655C723b0a0174a09E29ed",
       "symbol": "BULL",
       "name": "BULL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4CFed0Fd80D2668c0c1288148F213956549A7B2F",
+      "symbol": "VINTAGE",
+      "name": "OLDSTYLE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10736,
-    "minor": 10736,
+    "major": 10737,
+    "minor": 10737,
     "patch": 85
   }
 }
