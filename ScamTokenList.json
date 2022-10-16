@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7c97721D0FEc128d391bA97C637128a6f1586182",
-      "symbol": "FOMO",
-      "name": "FearOfMissingOut",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF0a33B37f365df77954208892f05F955e2882AB8",
       "symbol": "WHITEUSDC",
       "name": "WHITEUSDC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77F384Ba63A06bC2eF652018cb33C3937A0CB87F",
+      "symbol": "DASBOOT",
+      "name": "DasBoot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10610,
-    "minor": 10610,
+    "major": 10611,
+    "minor": 10611,
     "patch": 85
   }
 }
