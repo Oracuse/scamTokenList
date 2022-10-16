@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBD24549592FD6aD27722a9a92949cEA188BA454f",
-      "symbol": "ELONPHANT",
-      "name": "ElonphantInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa528A4F2F3ce3D07D815665B4f53Eba2B8BbD8A1",
       "symbol": "PIRONY",
       "name": "PulseIrony",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6Da89311c0CA71a4Fca7c5c4932691B1Ba091DBd",
+      "symbol": "SLEEPYDEV",
+      "name": "SleepyDev",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10760,
-    "minor": 10760,
+    "major": 10761,
+    "minor": 10761,
     "patch": 85
   }
 }
