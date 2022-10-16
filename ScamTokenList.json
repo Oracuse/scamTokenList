@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2e59759e41EC57B88A5DE4EC9Fb0f2DF397F28Bd",
-      "symbol": "AZUKA",
-      "name": "AzukaApe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf774dBf3144fC8AdE7043c7F6634C88cF83140f3",
       "symbol": "VCASH",
       "name": "voidcash",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7DbAb6151033C5c8E14263CEa56Ade34541c9aC4",
+      "symbol": "DW",
+      "name": "DAEWOO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10757,
-    "minor": 10757,
+    "major": 10758,
+    "minor": 10758,
     "patch": 85
   }
 }
