@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x583fA83ac7F0C3DE740f03ead0e6261dC5cB9702",
-      "symbol": "SBP",
-      "name": "ShibaBurnProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe5bc1877CfE99FB97431674d2B0f3b79795F4EC0",
       "symbol": "OUTFLATION",
       "name": "Outflation",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE982FC3df8c0A98Df1FA638ead1CAdFa023d0912",
+      "symbol": "GOLEM",
+      "name": "Golem",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10613,
-    "minor": 10613,
+    "major": 10614,
+    "minor": 10614,
     "patch": 85
   }
 }
