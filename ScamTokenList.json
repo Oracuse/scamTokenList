@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8E1D4245126f5602AE7a437895566442BAF8dDF6",
-      "symbol": "SS",
-      "name": "ShitakiriSuzume",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66D0c18b74c2e604096D1F4F16662A1BE93419Bf",
       "symbol": "TCASH",
       "name": "ThunderCash",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaa89405A1329014a69C9f89989D8a586060D97A2",
+      "symbol": "HODL",
+      "name": "HoldOnForDearLife",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10717,
-    "minor": 10717,
+    "major": 10718,
+    "minor": 10718,
     "patch": 85
   }
 }
