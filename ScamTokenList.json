@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3374ec461192d295a91C436fcf4B2B9636479130",
-      "symbol": "MOON",
-      "name": "Moonopoly",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7F14C4125deca402BFf99765Eeb0228640940f35",
       "symbol": "ONLYUP",
       "name": "OnlyUp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F303Aef49C6D6ADd0BD9843d2b4caE4242509B3",
+      "symbol": "WTC",
+      "name": "WorldTennisCup",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10660,
-    "minor": 10660,
+    "major": 10661,
+    "minor": 10661,
     "patch": 85
   }
 }
