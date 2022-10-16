@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xff3bc6d6FdEb6Bcf1caD57DEbAcD390a1003C2F3",
-      "symbol": "GR33N",
-      "name": "Initiative",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x146542eDbcd0DFF9DD7fB04D37414CCa0AA97632",
       "symbol": "REKT",
       "name": "SellersGetRekt",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06CA1A46C49cF58E82246e696692eb7C707A924a",
+      "symbol": "DXMI",
+      "name": "DeusXMachinaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10753,
-    "minor": 10753,
+    "major": 10754,
+    "minor": 10754,
     "patch": 85
   }
 }
