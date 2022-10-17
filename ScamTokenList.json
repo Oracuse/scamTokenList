@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2a95859780C8103059B62E417CC8532348Fc7889",
-      "symbol": "META",
-      "name": "Metamorphosis",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA5658d466D858C0463886dE24fc1561604bADa3f",
       "symbol": "PLSV",
       "name": "PulseVolt",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d69548f746a800D21D8b75445af6011F0eC52B9",
+      "symbol": "BABYWCI",
+      "name": "BabyWorldCupInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10902,
-    "minor": 10902,
+    "major": 10903,
+    "minor": 10903,
     "patch": 85
   }
 }
