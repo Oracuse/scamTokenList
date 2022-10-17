@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0DEd7787E872C1D6Bf14E68bB99f018882579D0d",
-      "symbol": "CANDY",
-      "name": "Candyland",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3477c6074bEe6842dE7c8337206b739ECd851fce",
       "symbol": "PULSETH",
       "name": "PULSETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBf91A4e46E806bB42ebFd8A313439Cb6B2b3EaB3",
+      "symbol": "UCI",
+      "name": "UEFACupInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10897,
-    "minor": 10897,
+    "major": 10898,
+    "minor": 10898,
     "patch": 85
   }
 }
