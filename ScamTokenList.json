@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x628DbB6CB5cB6E5aefB6c4f4A5210b911dadCba5",
-      "symbol": "RI",
-      "name": "RamenInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x79a4315Dbd0CcB4097CBa9b37B2bB65F1c4e23d8",
       "symbol": "SMERGE",
       "name": "subMERGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3384654eFb4D3a7304629aeC32Fe4e5efab15093",
+      "symbol": "BACK",
+      "name": "BackToWork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10816,
-    "minor": 10816,
+    "major": 10817,
+    "minor": 10817,
     "patch": 85
   }
 }
