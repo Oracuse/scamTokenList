@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x490A3AaA278519279E796f049bbf9aB0263D0a58",
-      "symbol": "PLSSG",
-      "name": "PulseSquidGame",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51C43D51B52f5ABaCA8D699E36A895950E8d6b70",
       "symbol": "HEDGY",
       "name": "HEDGY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e0063352e5d4Becb1AE9877580b9c9A3E5302C9",
+      "symbol": "X",
+      "name": "Something",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10921,
-    "minor": 10921,
+    "major": 10922,
+    "minor": 10922,
     "patch": 85
   }
 }
