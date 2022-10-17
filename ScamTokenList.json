@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2dF581abA53F2576e7D3A248c38c827A958A7c46",
-      "symbol": "PLRY",
-      "name": "PulseRyoshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdA48d475cE738A81A67F774618ddBAf845488421",
       "symbol": "INUHOO",
       "name": "Inuhoo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd87932Fb84A5d6E58797417c2bed1F4d4A6B2b7f",
+      "symbol": "VP",
+      "name": "ETHProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10964,
-    "minor": 10964,
+    "major": 10965,
+    "minor": 10965,
     "patch": 85
   }
 }
