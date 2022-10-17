@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6640d3a51CAF48dB48EC6c57A38dbd9C374e502B",
-      "symbol": "PIMP",
-      "name": "PulseChimp",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x03D158DF9Ba52eEBCC0CAB85014019523D0d0836",
       "symbol": "PLSDAI",
       "name": "PulseDAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57aB493Fb72c0646A992674f5369B342437a6843",
+      "symbol": "META",
+      "name": "Metaverse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10892,
-    "minor": 10892,
+    "major": 10893,
+    "minor": 10893,
     "patch": 85
   }
 }
