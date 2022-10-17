@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5F29ECD3aDfCB2bA518693b3ed4E24C61bD79cF2",
-      "symbol": "PLSN",
-      "name": "PulseShibnobi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x200fE56FEDADF1cbB082D0936b2dFE1FC64c3FA3",
       "symbol": "ALTRUISM",
       "name": "ALTRUISM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDAE153209976ffE6694e16556Ad2768EBBAB96B6",
+      "symbol": "FRINU",
+      "name": "FrankensteinInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10853,
-    "minor": 10853,
+    "major": 10854,
+    "minor": 10854,
     "patch": 85
   }
 }
