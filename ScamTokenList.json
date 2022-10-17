@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7bc5d4F2F716Aa25E14630343C29c5Efe7469970",
-      "symbol": "DMC",
-      "name": "DeadMansChest",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25E268E0D74bf27E2D5784a07b1aCC0B2D7E818a",
       "symbol": "MEGE",
       "name": "METAMERGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e0Fe12577750D5491c89A7b0514bD7f50aAAfF0",
+      "symbol": "TQP",
+      "name": "TheQatarProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10849,
-    "minor": 10849,
+    "major": 10850,
+    "minor": 10850,
     "patch": 85
   }
 }
