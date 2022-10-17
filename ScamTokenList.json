@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcb1AE2eAca4E8188EbFa23928e06F9F4C72F6796",
-      "symbol": "SBP",
-      "name": "ShibaBurnProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbF60c4556e9b9f4AbE6AC30C0e986ea5615842BC",
       "symbol": "SHINTO",
       "name": "Shinto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf62d07120087c48bf07abf511725bc948Da11252",
+      "symbol": "FITLER",
+      "name": "FITLER",
+      "decimals": 12,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10776,
-    "minor": 10776,
+    "major": 10777,
+    "minor": 10777,
     "patch": 85
   }
 }
