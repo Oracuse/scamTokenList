@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAf6f74587c5d6163a568306b63B82B00Db7Fb844",
-      "symbol": "MUKBANGINU",
-      "name": "PrimitiveInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7B687d1112d31F16C02AC5f32Cef40671aeCd8Bf",
       "symbol": "PLST",
       "name": "PulseTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3aFeDB22892fe654ECe7501E187aE9Ebd6B9D352",
+      "symbol": "FISTDAO",
+      "name": "FISTCoinDAO",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10823,
-    "minor": 10823,
+    "major": 10824,
+    "minor": 10824,
     "patch": 85
   }
 }
