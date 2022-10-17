@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe252485fc3eD76250973805013A54F98DEb63A0D",
-      "symbol": "OKANEETH",
-      "name": "OkaneEth",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe260563ff90545A0799227c7D72BC80a0387A884",
       "symbol": "WPULSE",
       "name": "WHITEPULSE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f8f874a4Abefab2d07f0B36274b5dffea71BF47",
+      "symbol": "PROTOCOLX",
+      "name": "ProjectX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10949,
-    "minor": 10949,
+    "major": 10950,
+    "minor": 10950,
     "patch": 85
   }
 }
