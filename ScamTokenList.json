@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6209a6f24f79E055694413225EF4d0D82C605d02",
-      "symbol": "ION",
-      "name": "Ionity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x92c063EE604B6Be4829fda1B7B95e2805F07679b",
       "symbol": "ULTI",
       "name": "ULTIMATEDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9fcD71f14C52ED5d22888E5527f1a292769e6918",
+      "symbol": "NBAI",
+      "name": "NBAINU",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10812,
-    "minor": 10812,
+    "major": 10813,
+    "minor": 10813,
     "patch": 85
   }
 }
