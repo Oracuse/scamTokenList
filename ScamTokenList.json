@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x099cfB8f0A4e866b6905d8e79fB1C09F6A7aB79B",
-      "symbol": "SHIBA",
-      "name": "SquaredShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9D0CaAD7Ee82e3FfAfabB65f8330DfCAA13F8fF5",
       "symbol": "PULSMARS",
       "name": "PULSMARS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc768142e3BF132fdff1968C87d79AE7E989435e1",
+      "symbol": "THROAT",
+      "name": "Throat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10937,
-    "minor": 10937,
+    "major": 10938,
+    "minor": 10938,
     "patch": 85
   }
 }
