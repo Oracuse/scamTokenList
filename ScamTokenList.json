@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x048B0ef8ef17EA3433a0eb2899a7536A93afE297",
-      "symbol": "ZERO",
-      "name": "PulseZero",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0845082AB682dd727aC6BaBae7798bbD8E8fE830",
       "symbol": "PLSD",
       "name": "PulseDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x885a5d9C0D8e78F90Ecd9B9D305F8B89933EA569",
+      "symbol": "1",
+      "name": "One",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10835,
-    "minor": 10835,
+    "major": 10836,
+    "minor": 10836,
     "patch": 85
   }
 }
