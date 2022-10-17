@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0fF5A828fBB35378B16be7e7dF229f7cdF0405b6",
-      "symbol": "MSYC",
-      "name": "MutantShibYachtClub",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCF46C63E58a99317aA895a964F15D5Eef05C1308",
       "symbol": "BPYRO",
       "name": "BabyPyroMatic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36f65bE34dC8Df92EEbF5077B65626bcC299a56D",
+      "symbol": "LIANGXIED",
+      "name": "liangxied",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10914,
-    "minor": 10914,
+    "major": 10915,
+    "minor": 10915,
     "patch": 85
   }
 }
