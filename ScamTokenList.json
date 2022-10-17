@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x63b10880a4369353bE7fD6B60590432F90239a4b",
-      "symbol": "POSDN",
-      "name": "POSEIDON",
-      "decimals": 4,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7aD939eF91c0918aA168aE3080BA26c09EaCBE7B",
       "symbol": "ONNA",
       "name": "Nureonna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF63c1C4461f17e4CA8fa3Cb9a1881cA30AF90aB",
+      "symbol": "MWCI",
+      "name": "MiniWCI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10785,
-    "minor": 10785,
+    "major": 10786,
+    "minor": 10786,
     "patch": 85
   }
 }
