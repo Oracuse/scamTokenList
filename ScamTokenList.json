@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a87a4C138f92461bBF2CaF8f010727FD307cb8a",
-      "symbol": "PULSEREUM",
-      "name": "PULSEREUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x57F954754f90698c71F2f335B321f2a0a4fd75bb",
       "symbol": "TSUKAC",
       "name": "TsukaClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49cDef539aA81E9B6501268ec4F6509E69574444",
+      "symbol": "AINU",
+      "name": "ArgentinaInu",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10945,
-    "minor": 10945,
+    "major": 10946,
+    "minor": 10946,
     "patch": 85
   }
 }
