@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7cEDc26761FF84f53604E5ac6d681fB451a4fb2A",
-      "symbol": "MPULSE",
-      "name": "MetaPulse",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdf8fB0ff8413e0381f75b78D165cE143652e3e7c",
       "symbol": "GETBTC",
       "name": "GETBTC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21A1082881950958e655f8F2f4aa779b42e3ac09",
+      "symbol": "WSI",
+      "name": "WorldSoldierInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10947,
-    "minor": 10947,
+    "major": 10948,
+    "minor": 10948,
     "patch": 85
   }
 }
