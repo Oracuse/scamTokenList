@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9051B74C6842C7dd365fDa1a43A9B993A537eb00",
-      "symbol": "BENKI",
-      "name": "BENKIINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x05c3435B0DcAf3A35C12ef5BC5d807367D0fC9AC",
       "symbol": "TVL",
       "name": "TatevsLogan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72668a78a6761B0e1B8e34437334Aa0DD7312866",
+      "symbol": "AOM",
+      "name": "TheArtOfMeme",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10941,
-    "minor": 10941,
+    "major": 10942,
+    "minor": 10942,
     "patch": 85
   }
 }
