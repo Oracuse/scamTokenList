@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x05c3435B0DcAf3A35C12ef5BC5d807367D0fC9AC",
-      "symbol": "TVL",
-      "name": "TatevsLogan",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBDe70591AF565704e70F320EB928678F78e940c5",
       "symbol": "HRSY",
       "name": "Heresy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A5bCC9BE7CA85DF6E7D2c5fE2D81683d9D78Af4",
+      "symbol": "WSI",
+      "name": "WorldSoldierInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10942,
-    "minor": 10942,
+    "major": 10943,
+    "minor": 10943,
     "patch": 85
   }
 }
