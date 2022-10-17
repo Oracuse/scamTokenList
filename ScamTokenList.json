@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFdc16D435badE0efe527f16C19e75B58Af440823",
-      "symbol": "MINU",
-      "name": "MEDIUMINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x56effEbeC8Ed2982D641475FCb6eeA0d8143c6bb",
       "symbol": "IMPULSE",
       "name": "THEIMPULSE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f7377e4C543B297b4a250E2CEF640f349920eb9",
+      "symbol": "META",
+      "name": "Meta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10842,
-    "minor": 10842,
+    "major": 10843,
+    "minor": 10843,
     "patch": 85
   }
 }
