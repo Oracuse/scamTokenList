@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD2e06280eAa150F4FE2805eD0513A5Cfe16A8B96",
-      "symbol": "BASS",
-      "name": "BearAssassin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x628DbB6CB5cB6E5aefB6c4f4A5210b911dadCba5",
       "symbol": "RI",
       "name": "RamenInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E7ae21105BA0cD6056109D6C7B80628E6653666",
+      "symbol": "SC",
+      "name": "ShibaCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10815,
-    "minor": 10815,
+    "major": 10816,
+    "minor": 10816,
     "patch": 85
   }
 }
