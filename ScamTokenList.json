@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22CEf2d14035C88e4eBdc408F10a616faceEB42B",
-      "symbol": "TATEWIN",
-      "name": "CommonTateW",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBCD363EF54e88ad0b0A38B014Be622A0772C174f",
       "symbol": "MITE",
       "name": "MiningTech",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF02D8b3d5dc091353F65596b4857f94f7FF7d1A",
+      "symbol": "BINKS",
+      "name": "BinksInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10800,
-    "minor": 10800,
+    "major": 10801,
+    "minor": 10801,
     "patch": 85
   }
 }
