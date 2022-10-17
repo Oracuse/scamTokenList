@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x13F7728FeB779565838667e8FCbE5AA10364EeD4",
-      "symbol": "CULTCOW",
-      "name": "CultCow",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5B13565f279644ABdf8127CD80780D575694EF47",
       "symbol": "ASH",
       "name": "XAEA12Musk",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Df337F1396b2bBFD55693db4E5AF6837c1Eeb3b",
+      "symbol": "TEH",
+      "name": "TehProtocol",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10861,
-    "minor": 10861,
+    "major": 10862,
+    "minor": 10862,
     "patch": 85
   }
 }
