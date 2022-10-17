@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x028D88d2e476Ec15B93ea16d0006e82aC9F36681",
-      "symbol": "CHOTEN",
-      "name": "SeiseiChoten",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5D2362D44151e32541fc93818487b92eCc00B1B3",
       "symbol": "UNKNOWN",
       "name": "Unknown",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x399574B658ABE4BF06ADC81bAFCe12E80315d5Fe",
+      "symbol": "YELON",
+      "name": "YelonInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10978,
-    "minor": 10978,
+    "major": 10979,
+    "minor": 10979,
     "patch": 85
   }
 }
