@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93ae2Ce842839023A3f1AC1cd730fb442120E9c1",
-      "symbol": "BOWZLEY",
-      "name": "BowzleyToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x820C4a042346E7aFae1cA10943f318D3a1baaF51",
       "symbol": "FLOKIGOLD",
       "name": "FlokiGold",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xacAb90D6F2E176E3B7A1FCa1f34BE3dfA7E444DC",
+      "symbol": "BUSA",
+      "name": "HAYABUSA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10923,
-    "minor": 10923,
+    "major": 10924,
+    "minor": 10924,
     "patch": 85
   }
 }
