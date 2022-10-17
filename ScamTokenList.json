@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa45EC545B576C94C565D113D07B2B0BD9299A291",
-      "symbol": "PTSUKA",
-      "name": "PulseTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x038a7687d8C8d7B4b101EE8Ec9012464a9057aE5",
       "symbol": "300PULSE",
       "name": "The300PulseLaw",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0652425A8eaC6C34d2409BBb196b71ee773321f1",
+      "symbol": "NO",
+      "name": "NOPurotokoru",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10970,
-    "minor": 10970,
+    "major": 10971,
+    "minor": 10971,
     "patch": 85
   }
 }
