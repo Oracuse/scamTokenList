@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x409274667A5658559a6aC529B1A58C5fB8A043F7",
-      "symbol": "UNKNOWN",
-      "name": "UNKNOWN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb4A5d9C28AA15443078666f2C797c982864e98b7",
       "symbol": "RHLLOR",
       "name": "RHLLOR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x897957E19a2a3C017C04Fe7A73cfD06F2dCE6B2f",
+      "symbol": "TS4",
+      "name": "Test4",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10934,
-    "minor": 10934,
+    "major": 10935,
+    "minor": 10935,
     "patch": 85
   }
 }
