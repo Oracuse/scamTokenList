@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb19642b91495877c99e332610F315465696f7De3",
-      "symbol": "BLZD",
-      "name": "Blizzard",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84D2c1Ec493d0888E5300bC5DC778A59774AAd5A",
       "symbol": "OWL",
       "name": "WhiteOwl",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcaaf8aE14303F1a995472F9657291dBc6F15eA26",
+      "symbol": "SUS",
+      "name": "Supersus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10831,
-    "minor": 10831,
+    "major": 10832,
+    "minor": 10832,
     "patch": 85
   }
 }
