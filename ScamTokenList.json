@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x05Cb56C2E56b969188CDcFc69C9827af4Cceb4dE",
-      "symbol": "PLSO",
-      "name": "PulseOkinami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc0bf10374936FA949f2F1463506b3755AFa2D7f0",
       "symbol": "SBP",
       "name": "ShibaBurnProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9971cFC0b289e5c0fD23078f45A3636eC0b5EA47",
+      "symbol": "META",
+      "name": "Meta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10839,
-    "minor": 10839,
+    "major": 10840,
+    "minor": 10840,
     "patch": 85
   }
 }
