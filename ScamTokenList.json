@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4d234F5C45f8698E9309a1452A68c80bd71b4e11",
-      "symbol": "PLBD",
-      "name": "PulseBabyDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAD0016e5e2bd5558e9994D1250b5068AaF16C457",
       "symbol": "SBP",
       "name": "ShibaBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x354A3800980F75747C2FdB5447e75C6C5A26495b",
+      "symbol": "BBRC",
+      "name": "IVYBOYS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10868,
-    "minor": 10868,
+    "major": 10869,
+    "minor": 10869,
     "patch": 85
   }
 }
