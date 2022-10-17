@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x80C12653DF69A0aBe51Fc83CfB8B0F5793D36ED3",
-      "symbol": "2KETH",
-      "name": "2kETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe95f2a92316687337b3E18E747241E0225fB4Bd6",
       "symbol": "PLFLO",
       "name": "PulseFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e4c87bf57d48935d1643A7b8a3383B928B040de",
+      "symbol": "AEGIS",
+      "name": "AegisoftheImmortal",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10975,
-    "minor": 10975,
+    "major": 10976,
+    "minor": 10976,
     "patch": 85
   }
 }
