@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4518be553bf2De038D000bd039978874168416Ea",
-      "symbol": "EDGE",
-      "name": "MSEdge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a87a4C138f92461bBF2CaF8f010727FD307cb8a",
       "symbol": "PULSEREUM",
       "name": "PULSEREUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45eEcf4BBf141950Fb3E03590cB94F1D57c7d758",
+      "symbol": "BWI",
+      "name": "BabyWorldInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10944,
-    "minor": 10944,
+    "major": 10945,
+    "minor": 10945,
     "patch": 85
   }
 }
