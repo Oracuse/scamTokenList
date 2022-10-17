@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCF46C63E58a99317aA895a964F15D5Eef05C1308",
-      "symbol": "BPYRO",
-      "name": "BabyPyroMatic",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbc5222ba3618548F2fd5Ca2A60Bd63dF46b4A099",
       "symbol": "WORLD",
       "name": "Poplulation",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x286F23EAd71BC8b6F10E7D42859B26A66E973E31",
+      "symbol": "BEAM",
+      "name": "Beamer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10915,
-    "minor": 10915,
+    "major": 10916,
+    "minor": 10916,
     "patch": 85
   }
 }
