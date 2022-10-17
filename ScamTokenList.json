@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDf5585537d08DC2E1B815497E89e7aF318fe5419",
-      "symbol": "PLKI",
-      "name": "PulseKishu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x438C2D447A9c7Aa8e5784f5CA6AFd4985375b5bf",
       "symbol": "2000",
       "name": "ETH2000",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD95f2986cf4656a896eb2418CE49EA1E3eC358dC",
+      "symbol": "YELON",
+      "name": "Yelon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10973,
-    "minor": 10973,
+    "major": 10974,
+    "minor": 10974,
     "patch": 85
   }
 }
