@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x96F8df86CBbD1fe859107A7B681f18A986f09856",
-      "symbol": "TAMADOGE",
-      "name": "Tamadoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb8915590379515c94E5880609FbdA0e77f655760",
       "symbol": "TENTH",
       "name": "TheTenth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBdF75C56c183F99bb4858D8d3C5032F717Cb2396",
+      "symbol": "CODE",
+      "name": "TheCode",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10894,
-    "minor": 10894,
+    "major": 10895,
+    "minor": 10895,
     "patch": 85
   }
 }
