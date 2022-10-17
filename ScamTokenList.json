@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9A233235B4D9d9a374F059CC087e4b992137cd07",
-      "symbol": "XPULSE",
-      "name": "xPulse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1633E0635c8f80707dBb1f328191503f38cd8d1c",
       "symbol": "PLSL",
       "name": "PulseLuna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67f10579C2752fAdE1b8C711605913D17c57D239",
+      "symbol": "NULL",
+      "name": "NULLHYPOTHESIS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10782,
-    "minor": 10782,
+    "major": 10783,
+    "minor": 10783,
     "patch": 85
   }
 }
