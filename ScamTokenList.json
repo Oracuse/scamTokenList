@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3d99a6F6a266dC840D8d7d17A9a0F323dfbf977b",
-      "symbol": "SBP",
-      "name": "ShibaBurnProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAE99cd72D29B59Fec3B30266d41dB1A642ffcE2f",
       "symbol": "CHINAONE",
       "name": "httpschinaonetokenc",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x729613690E7aA1EE343766641BB5Ec1603Ac5d07",
+      "symbol": "SHENNONG",
+      "name": "SlashandBurn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10885,
-    "minor": 10885,
+    "major": 10886,
+    "minor": 10886,
     "patch": 85
   }
 }
