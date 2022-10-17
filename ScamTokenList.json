@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x016c63E4257b71F4884c7BAa060F9A2a090306AB",
-      "symbol": "AURUM",
-      "name": "Aurum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15C0F804CB96CE23A2Ac246D19c41AECc693990f",
       "symbol": "BEANS",
       "name": "DogeCoffee",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2FC1825c7eDF9Ac265DD5C8f6f0Ee0CbB6B1463",
+      "symbol": "SBI",
+      "name": "SuperBowlInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10807,
-    "minor": 10807,
+    "major": 10808,
+    "minor": 10808,
     "patch": 85
   }
 }
