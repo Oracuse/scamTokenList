@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x099dbA3bEEdd2a55467bDc8E8492701eC891149C",
-      "symbol": "REKT",
-      "name": "PULSEREKT",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x166B2a6ad22aA7EaB26B6B4b2E10CBc1d6A05A71",
       "symbol": "PLSK",
       "name": "PULSEKIBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d6D1011d371fd4b4CE48f418668EAD416362E5d",
+      "symbol": "TIP",
+      "name": "TheINUProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10956,
-    "minor": 10956,
+    "major": 10957,
+    "minor": 10957,
     "patch": 85
   }
 }
