@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x836b715ce6f66BB69586E2f3c054fdBb2aec3a8a",
-      "symbol": "FULLMOON",
-      "name": "FullMoon",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9f95Ef03da30846Ff882493b0612dA2e7F0A41Fe",
       "symbol": "SEKAIINU",
       "name": "SekaiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x935bE7C3bB984Fe7FcAD6f972B46c3a0E61A78F4",
+      "symbol": "RECOIL",
+      "name": "RECOIL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10780,
-    "minor": 10780,
+    "major": 10781,
+    "minor": 10781,
     "patch": 85
   }
 }
