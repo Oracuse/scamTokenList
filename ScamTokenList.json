@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd23A948219712b42E6FCB2821CA5Fc477FFb63C6",
-      "symbol": "PULSEMOON",
-      "name": "PulseMoon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0ac3440774CfFdAF7e23Bb4C7dA210013D327192",
       "symbol": "ETHW",
       "name": "EthereumPoW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02093ffbba28E4aDaa99caf2544B6B8fE9FC7885",
+      "symbol": "RPILL",
+      "name": "RedPill",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10988,
-    "minor": 10988,
+    "major": 10989,
+    "minor": 10989,
     "patch": 85
   }
 }
