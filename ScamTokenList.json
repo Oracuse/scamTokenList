@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe66D68163e0b9A42bC40FE532681Ce82787258f7",
-      "symbol": "PDIA",
-      "name": "PulseDiamond",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe4f856Cd2bA6037cB79aAbf7D7948F431583D70c",
       "symbol": "PLSTK",
       "name": "PulseTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c19a57BB8fad617B37adD83bbBAaC39520bcbcD",
+      "symbol": "WMI",
+      "name": "WorldMemeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10875,
-    "minor": 10875,
+    "major": 10876,
+    "minor": 10876,
     "patch": 85
   }
 }
