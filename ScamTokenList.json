@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdf8fB0ff8413e0381f75b78D165cE143652e3e7c",
-      "symbol": "GETBTC",
-      "name": "GETBTC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe252485fc3eD76250973805013A54F98DEb63A0D",
       "symbol": "OKANEETH",
       "name": "OkaneEth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd6FB5149b2a0196E04CA04cB4093ECD298a90090",
+      "symbol": "WDI",
+      "name": "WhalesDogeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10948,
-    "minor": 10948,
+    "major": 10949,
+    "minor": 10949,
     "patch": 85
   }
 }
