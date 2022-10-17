@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x71428fF4cEE126CbB181a9eA89D7231a18F85280",
-      "symbol": "MEINU",
-      "name": "MeinuETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF9d0679a2Bddc6A025C6A63F26c7562c2A057d94",
       "symbol": "AT",
       "name": "AdunToridas",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E3CD3d973Be7A5Fe2425ad391d9E9d5E2ab9eC9",
+      "symbol": "SCSER",
+      "name": "SoccerSerum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10912,
-    "minor": 10912,
+    "major": 10913,
+    "minor": 10913,
     "patch": 85
   }
 }
