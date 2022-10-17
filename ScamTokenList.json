@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x57F954754f90698c71F2f335B321f2a0a4fd75bb",
-      "symbol": "TSUKAC",
-      "name": "TsukaClassic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7cEDc26761FF84f53604E5ac6d681fB451a4fb2A",
       "symbol": "MPULSE",
       "name": "MetaPulse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x310D066CC95e3f4E08E81000CC7e67EFF95b83AB",
+      "symbol": "LOM",
+      "name": "TheLegendofMemes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10946,
-    "minor": 10946,
+    "major": 10947,
+    "minor": 10947,
     "patch": 85
   }
 }
