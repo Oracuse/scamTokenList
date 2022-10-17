@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9D0CaAD7Ee82e3FfAfabB65f8330DfCAA13F8fF5",
-      "symbol": "PULSMARS",
-      "name": "PULSMARS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21C4938A044526486a77dB1d2D8A12798a43806A",
       "symbol": "FOW",
       "name": "FlamesofWisdom",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7f64F27437C568a5a942d634A497717929eC889",
+      "symbol": "WOC",
+      "name": "WorldOceanCleanupIn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10938,
-    "minor": 10938,
+    "major": 10939,
+    "minor": 10939,
     "patch": 85
   }
 }
