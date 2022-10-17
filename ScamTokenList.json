@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x59196115D700B86552e500F7FDc730DA163F4999",
-      "symbol": "HEXS",
-      "name": "HexShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8cd911d8519b6BD62fB43a933cfc68F64EbBf5C3",
       "symbol": "THEFROGPRINCE",
       "name": "TheFrogPrince",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F38F55F75E07b45c100e6E67d255298Bb2A0E0e",
+      "symbol": "SAURON",
+      "name": "SauronScan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10887,
-    "minor": 10887,
+    "major": 10888,
+    "minor": 10888,
     "patch": 85
   }
 }
