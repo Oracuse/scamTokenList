@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x94E3c005e793D6dAD68182C2Db6f3637143c0FB9",
-      "symbol": "TLP",
-      "name": "TheLastPulse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0Db7464368B3Acc28ADF9E7175604aAD12Bb28A5",
       "symbol": "NMP",
       "name": "NoMorePulse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09a0d91EAB76EAE0E90170eCa98FF2889CaBd4d4",
+      "symbol": "FI",
+      "name": "Formula1Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10930,
-    "minor": 10930,
+    "major": 10931,
+    "minor": 10931,
     "patch": 85
   }
 }
