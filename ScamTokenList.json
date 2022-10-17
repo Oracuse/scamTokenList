@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf489570470285E7F1C50aCc20ed0693f06C45bE3",
-      "symbol": "PLSONE",
-      "name": "PulseOne",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeA39cde8f3b3796d2d9AeE7AF7C55335266aCA2B",
       "symbol": "DIREWOLF",
       "name": "Nymeria",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF71FC797c64F56b8FD8e0b54518115a06a910fC0",
+      "symbol": "LUNCP",
+      "name": "LUNCPenguins",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10788,
-    "minor": 10788,
+    "major": 10789,
+    "minor": 10789,
     "patch": 85
   }
 }
