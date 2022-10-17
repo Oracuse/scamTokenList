@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3f4a2dADB975a8e2E3594d56e23854dd303d935F",
-      "symbol": "MOON",
-      "name": "MOONPULSE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD725f570E26f9a57676D8f783390237C30Fa5794",
       "symbol": "SD",
       "name": "ShibDex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x392Dd0628fE3EE7e72c86Fd6c7214Fe7fF690a5a",
+      "symbol": "NWI",
+      "name": "NuclearWarInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10889,
-    "minor": 10889,
+    "major": 10890,
+    "minor": 10890,
     "patch": 85
   }
 }
