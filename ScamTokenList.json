@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa431B7746fc65F76fce1f53ECF7fd45dCC273cea",
-      "symbol": "VAN",
-      "name": "Vansire",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6209a6f24f79E055694413225EF4d0D82C605d02",
       "symbol": "ION",
       "name": "Ionity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x596d1e7Cb9720Cd3283D742c5eeAeC6E5F0Caf4a",
+      "symbol": "TLP",
+      "name": "THELaikaProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10811,
-    "minor": 10811,
+    "major": 10812,
+    "minor": 10812,
     "patch": 85
   }
 }
