@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x97820577E33211f90166a0e76DFF379d773D9f92",
-      "symbol": "MURA",
-      "name": "Murasaki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x712cDcacF7Cc1E84Ee28F3558694698018e2f0EB",
       "symbol": "PLSP",
       "name": "PulsePredator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95ec358eAfe2C6d0409a0DD9aB39a967Ba4875Ac",
+      "symbol": "THE20",
+      "name": "ProofOfProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10984,
-    "minor": 10984,
+    "major": 10985,
+    "minor": 10985,
     "patch": 85
   }
 }
