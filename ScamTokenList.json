@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x292144DE9f5c19A250CD72E62A0Ba22455769923",
-      "symbol": "POLITICAL",
-      "name": "SpeakersCorner",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71428fF4cEE126CbB181a9eA89D7231a18F85280",
       "symbol": "MEINU",
       "name": "MeinuETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71cFbEF3beA4Bc36B012eD7eCc7ff61CF3FE0198",
+      "symbol": "NTH",
+      "name": "Nothing",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10911,
-    "minor": 10911,
+    "major": 10912,
+    "minor": 10912,
     "patch": 85
   }
 }
