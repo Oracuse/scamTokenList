@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbc5222ba3618548F2fd5Ca2A60Bd63dF46b4A099",
-      "symbol": "WORLD",
-      "name": "Poplulation",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x732fA5d05C480e0913305f9f875F19655f90FfA4",
       "symbol": "PLSA",
       "name": "PulseAkita",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xACce5CACd3aB47451f66E1DA565c1896E90005b7",
+      "symbol": "LIANGXI",
+      "name": "LiangXi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10916,
-    "minor": 10916,
+    "major": 10917,
+    "minor": 10917,
     "patch": 85
   }
 }
