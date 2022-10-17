@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3477c6074bEe6842dE7c8337206b739ECd851fce",
-      "symbol": "PULSETH",
-      "name": "PULSETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc299b5F240cc51cc2D9d09e9a1520A147409AAa1",
       "symbol": "UGHH",
       "name": "UGHH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a7b77ef43f48B1c033AF353FCfe7bCBc7D294A6",
+      "symbol": "NYI",
+      "name": "NewYearInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10898,
-    "minor": 10898,
+    "major": 10899,
+    "minor": 10899,
     "patch": 85
   }
 }
