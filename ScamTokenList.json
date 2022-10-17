@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc299b5F240cc51cc2D9d09e9a1520A147409AAa1",
-      "symbol": "UGHH",
-      "name": "UGHH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6104Ddd334be243779667af00b98FD1601E2bCC1",
       "symbol": "TSUKATAMA",
       "name": "TSUKATAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x699aB4c844dC2471F9A66Fb13965bA63a62DA668",
+      "symbol": "MSHIB",
+      "name": "MonsterShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10899,
-    "minor": 10899,
+    "major": 10900,
+    "minor": 10900,
     "patch": 85
   }
 }
