@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5501e916fAE6daFb0B5e0d6c19b19D536BFf8813",
-      "symbol": "PLSM",
-      "name": "PulseMars",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x292144DE9f5c19A250CD72E62A0Ba22455769923",
       "symbol": "POLITICAL",
       "name": "SpeakersCorner",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e1e7b463862bf0E6BF1c503685b8290Ebe76106",
+      "symbol": "G",
+      "name": "GInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10910,
-    "minor": 10910,
+    "major": 10911,
+    "minor": 10911,
     "patch": 85
   }
 }
