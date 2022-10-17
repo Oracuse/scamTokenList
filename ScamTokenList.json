@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFe2a7108F007C617C12D7ADAd2b50BDfA0816Fa0",
-      "symbol": "PULSECULT",
-      "name": "PulseCult",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x20C4022570030d7e8E522deE813fDE1F8A2008A7",
       "symbol": "JIAO",
       "name": "Jiaolong",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFa63b9Fcc5A6e4cF6cB22faE5CcB37ae18F06802",
+      "symbol": "POMINATOR",
+      "name": "Pominator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10846,
-    "minor": 10846,
+    "major": 10847,
+    "minor": 10847,
     "patch": 85
   }
 }
