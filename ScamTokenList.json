@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfc9031c0C0E971DA742125875F0c8B879111DF7c",
-      "symbol": "SBP",
-      "name": "ShibaBurn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9d3Bd85c4b70098600fD488Ca5702cE2f6e36282",
       "symbol": "HIKARI",
       "name": "Hikari",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCDEBDBc1D842C9Fe827fbF3724e9875E5c252Eb1",
+      "symbol": "WWI",
+      "name": "WorldWarInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10882,
-    "minor": 10882,
+    "major": 10883,
+    "minor": 10883,
     "patch": 85
   }
 }
