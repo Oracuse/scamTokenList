@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x84D2c1Ec493d0888E5300bC5DC778A59774AAd5A",
-      "symbol": "OWL",
-      "name": "WhiteOwl",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc62eF996448F5991E1d0fbB73008062E5Dc74701",
       "symbol": "SK",
       "name": "ShibaKombat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1dEef1928a5661bfE1EFd069580007A5976afdf5",
+      "symbol": "SS",
+      "name": "SticksAndStones",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10832,
-    "minor": 10832,
+    "major": 10833,
+    "minor": 10833,
     "patch": 85
   }
 }
