@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa210f95D665bB4537434be96D9a2866cCA629D5B",
-      "symbol": "WPLS",
-      "name": "WrappedPulse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x836b715ce6f66BB69586E2f3c054fdBb2aec3a8a",
       "symbol": "FULLMOON",
       "name": "FullMoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2816e5091c52aB42Fd38fec9008CaEF7fB984722",
+      "symbol": "PAIX",
+      "name": "PAIX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10779,
-    "minor": 10779,
+    "major": 10780,
+    "minor": 10780,
     "patch": 85
   }
 }
