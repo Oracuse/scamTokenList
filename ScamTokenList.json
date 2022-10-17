@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4B8AC727681A36d5fcC93fc00ba2Fa6D6A3D9930",
-      "symbol": "ELOK",
-      "name": "Elok",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF28a5A500A098c71df632b3f4D7fd2e16Cecb82c",
       "symbol": "UNKNOWN",
       "name": "Unknown",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9006638a162F71E3ea88253BAF1A0fa63A2EcFcf",
+      "symbol": "CAI",
+      "name": "CopaAmericaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10904,
-    "minor": 10904,
+    "major": 10905,
+    "minor": 10905,
     "patch": 85
   }
 }
