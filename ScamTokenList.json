@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x166B2a6ad22aA7EaB26B6B4b2E10CBc1d6A05A71",
-      "symbol": "PLSK",
-      "name": "PULSEKIBA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB627a00b3D36811A3cF8B908306B564EC8637540",
       "symbol": "ANON",
       "name": "Anonymous",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAF73924ed1aac20549dd84650572ceF4562EB0b2",
+      "symbol": "THES",
+      "name": "TheProtocols",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10957,
-    "minor": 10957,
+    "major": 10958,
+    "minor": 10958,
     "patch": 85
   }
 }
