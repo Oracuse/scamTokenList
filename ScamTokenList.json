@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd65C149e2c770c2c5360C668D0033dc84AAa007c",
-      "symbol": "COINSYMBOL",
-      "name": "COINNAME",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x768De24D898840a595cC98FB2ac154820797a3a5",
       "symbol": "CHEROOT",
       "name": "CherootToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDb656EAD32481aEBafB13355F5056Efa64b43cc0",
+      "symbol": "OSRS",
+      "name": "ObeliskofFire",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10804,
-    "minor": 10804,
+    "major": 10805,
+    "minor": 10805,
     "patch": 85
   }
 }
