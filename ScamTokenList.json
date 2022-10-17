@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51C43D51B52f5ABaCA8D699E36A895950E8d6b70",
-      "symbol": "HEDGY",
-      "name": "HEDGY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93ae2Ce842839023A3f1AC1cd730fb442120E9c1",
       "symbol": "BOWZLEY",
       "name": "BowzleyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ccA4751E189f9529606b1Bcd12608a2Cd7509E0",
+      "symbol": "MAM",
+      "name": "SergarMomma",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10922,
-    "minor": 10922,
+    "major": 10923,
+    "minor": 10923,
     "patch": 85
   }
 }
