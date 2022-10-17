@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x50bD8901739f70043e7D89dC9D803bd322B3F102",
-      "symbol": "EREKT",
-      "name": "EveryoneRekt",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa027EB7D1F17A6F888A504c5fb32fE42e0D07D8E",
       "symbol": "SHAKTI",
       "name": "TheReckoningForce",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57372F22423CcfEc4C89EAF08596391f67f9Fd8A",
+      "symbol": "WTP",
+      "name": "WhatTheProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10980,
-    "minor": 10980,
+    "major": 10981,
+    "minor": 10981,
     "patch": 85
   }
 }
