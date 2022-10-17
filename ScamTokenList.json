@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB75d8561a7C24194B7A6cd818daC16d530CD7F96",
-      "symbol": "PLSONE",
-      "name": "PulseOne",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0b6043eCB0Df527dC39C5159C2b8798d1574f0F8",
       "symbol": "WHITEPULSE",
       "name": "WHITEpulse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6819d60b89c175F991bd6D89E4fC91550A14F9b2",
+      "symbol": "WARPCOIN",
+      "name": "WarpCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10908,
-    "minor": 10908,
+    "major": 10909,
+    "minor": 10909,
     "patch": 85
   }
 }
