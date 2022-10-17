@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9BF25a76b6279dFf3D17b5A96c3E76DC73F90F24",
-      "symbol": "KAIKEN",
-      "name": "KodaiKaiken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97820577E33211f90166a0e76DFF379d773D9f92",
       "symbol": "MURA",
       "name": "Murasaki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x277D2d954297A16eE9A1479a76dd154F39b594E6",
+      "symbol": "FACELESS",
+      "name": "WeThePeople",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10983,
-    "minor": 10983,
+    "major": 10984,
+    "minor": 10984,
     "patch": 85
   }
 }
