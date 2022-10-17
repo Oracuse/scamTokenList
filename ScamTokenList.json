@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9fb7e4676122c120EfE3967D9e99a946898565D2",
-      "symbol": "ESLUP",
-      "name": "TheLastPulse",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x35e14cbF39DB9D3F36d8c32AeF02f7E6a6C014Ed",
       "symbol": "BNBC",
       "name": "BNBClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86Eda6FD1682681f7C3cEDC33b920EDBDe7F05a9",
+      "symbol": "THEM",
+      "name": "ThemProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10967,
-    "minor": 10967,
+    "major": 10968,
+    "minor": 10968,
     "patch": 85
   }
 }
