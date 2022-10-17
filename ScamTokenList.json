@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7B687d1112d31F16C02AC5f32Cef40671aeCd8Bf",
-      "symbol": "PLST",
-      "name": "PulseTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4AC0345ad691E88F605245a9b6E4c9378EB7c573",
       "symbol": "GOLDRUSH",
       "name": "EthMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x210DFC498BEAe0ae889744dA0ED66Adb9D541f61",
+      "symbol": "SCI",
+      "name": "STANLEYCUPINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10824,
-    "minor": 10824,
+    "major": 10825,
+    "minor": 10825,
     "patch": 85
   }
 }
