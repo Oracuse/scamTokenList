@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa1e413Fa690949adE1bbfED93FdA0d4e9271bCfc",
-      "symbol": "MFTT",
-      "name": "Mainframet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x686ABD0afCC5c5642B17039db8af8239df1996f1",
       "symbol": "TOSHISA",
       "name": "ToshisaInuToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2dD260F5eEDAFD1D54C751E170c7FF9b86cE1692",
+      "symbol": "SUC",
+      "name": "SUC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10794,
-    "minor": 10794,
+    "major": 10795,
+    "minor": 10795,
     "patch": 85
   }
 }
