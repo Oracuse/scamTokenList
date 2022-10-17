@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeA39cde8f3b3796d2d9AeE7AF7C55335266aCA2B",
-      "symbol": "DIREWOLF",
-      "name": "Nymeria",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeA7f09894b3d1184E0e4FE43dA7820068F2f4821",
       "symbol": "BBDEV",
       "name": "BuyBackDev",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe129995FF17c8816B7565dAd7dB2eB0c6bD171dc",
+      "symbol": "YIM",
+      "name": "YIELDMACHINEYIM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10789,
-    "minor": 10789,
+    "major": 10790,
+    "minor": 10790,
     "patch": 85
   }
 }
