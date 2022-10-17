@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x768De24D898840a595cC98FB2ac154820797a3a5",
-      "symbol": "CHEROOT",
-      "name": "CherootToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFB5d76f4E6136Bf8b6048763e655C3A70AD96c23",
       "symbol": "PLST",
       "name": "PULSETSUKA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA376eA54e362c0e406245b6Bd804c60d65C50bc0",
+      "symbol": "WACMI",
+      "name": "WorldAllCupMakeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10805,
-    "minor": 10805,
+    "major": 10806,
+    "minor": 10806,
     "patch": 85
   }
 }
