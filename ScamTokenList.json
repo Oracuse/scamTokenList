@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAD0016e5e2bd5558e9994D1250b5068AaF16C457",
-      "symbol": "SBP",
-      "name": "ShibaBurn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB29859827d6A21D5a66A27b4Fdfdde81edE58a7F",
       "symbol": "KYOTO",
       "name": "FushimiInari",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xadd5fBd0c519041b135aC86c2efbC556562d572E",
+      "symbol": "FI",
+      "name": "Formula1Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10869,
-    "minor": 10869,
+    "major": 10870,
+    "minor": 10870,
     "patch": 85
   }
 }
