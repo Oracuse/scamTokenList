@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x71f0f1C7613a5eF58B39127A094AC842304C1E19",
-      "symbol": "AAPES",
-      "name": "ApocalypticApes",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb075a12F6170593508621227f1B28cC5290925d0",
       "symbol": "FRIEND",
       "name": "Kemozabe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x225B8FB44fBAeec6340737d702383Cc8A1b4421B",
+      "symbol": "CLBDAO",
+      "name": "ChampionsLeagueBett",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10918,
-    "minor": 10918,
+    "major": 10919,
+    "minor": 10919,
     "patch": 85
   }
 }
