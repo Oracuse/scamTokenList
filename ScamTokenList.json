@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD041E4427412edE81CCAC87f08Fa3490Af61033D",
-      "symbol": "SEKI",
-      "name": "SesshoSeki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x94E3c005e793D6dAD68182C2Db6f3637143c0FB9",
       "symbol": "TLP",
       "name": "TheLastPulse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA93f71F010210f218567d30044f9444afA762493",
+      "symbol": "HIYAKU",
+      "name": "Hiyaku",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10929,
-    "minor": 10929,
+    "major": 10930,
+    "minor": 10930,
     "patch": 85
   }
 }
