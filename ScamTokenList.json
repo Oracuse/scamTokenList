@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2Cf79C91a67ec833f0aC2060E54481a6DB9DeD4a",
-      "symbol": "DEON",
-      "name": "DecentralizedOnion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdEAC8A19F24a63B0D8f1Cde7E0c2d8B898ED51F7",
       "symbol": "RI",
       "name": "RamenInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91428dC56d5a66c0B5318DaeE41B491706A4bafF",
+      "symbol": "DC",
+      "name": "DogeCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10818,
-    "minor": 10818,
+    "major": 10819,
+    "minor": 10819,
     "patch": 85
   }
 }
