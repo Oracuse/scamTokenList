@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf18649dd9f143104D298B1f92095FD817a104148",
-      "symbol": "PLCAW",
-      "name": "PulseCAW",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5F29ECD3aDfCB2bA518693b3ed4E24C61bD79cF2",
       "symbol": "PLSN",
       "name": "PulseShibnobi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF0F5254097964257703626202a93F31893eDeBaf",
+      "symbol": "TESTD",
+      "name": "TESTDAO",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 10852,
-    "minor": 10852,
+    "major": 10853,
+    "minor": 10853,
     "patch": 85
   }
 }
