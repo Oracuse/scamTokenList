@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0b6043eCB0Df527dC39C5159C2b8798d1574f0F8",
-      "symbol": "WHITEPULSE",
-      "name": "WHITEpulse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5501e916fAE6daFb0B5e0d6c19b19D536BFf8813",
       "symbol": "PLSM",
       "name": "PulseMars",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57640D5C5C5b24035c5D8D95D6631f4ec50AfeA6",
+      "symbol": "MIKASA",
+      "name": "MikasaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10909,
-    "minor": 10909,
+    "major": 10910,
+    "minor": 10910,
     "patch": 85
   }
 }
