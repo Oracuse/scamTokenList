@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7706085F3DC51eC434Fa0Fde3E73Fa5cC266E5b7",
-      "symbol": "OFFICE",
-      "name": "MSOFficeDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9051B74C6842C7dd365fDa1a43A9B993A537eb00",
       "symbol": "BENKI",
       "name": "BENKIINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdcBCd616c9CcE85B62D74346002eAfd6c6457e99",
+      "symbol": "OMARS",
+      "name": "OptimusMars",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10940,
-    "minor": 10940,
+    "major": 10941,
+    "minor": 10941,
     "patch": 85
   }
 }
