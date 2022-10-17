@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0F19A3ab40C7504243A945219496bb889C0A8a58",
-      "symbol": "CROOGE",
-      "name": "RestInPeace",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22CEf2d14035C88e4eBdc408F10a616faceEB42B",
       "symbol": "TATEWIN",
       "name": "CommonTateW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Bd70D174ffeF6d671da0cc4104D368B2807ca8A",
+      "symbol": "ATV",
+      "name": "ATV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10799,
-    "minor": 10799,
+    "major": 10800,
+    "minor": 10800,
     "patch": 85
   }
 }
