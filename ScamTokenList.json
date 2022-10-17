@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9fD07324258318f57B1139e6Ed6B3654d5d11436",
-      "symbol": "GLMS",
-      "name": "GLMS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x40D852ACBB84B47aC6a7Ea9f6D3ba89B61DacA00",
       "symbol": "PLSCORGI",
       "name": "PulseCorgi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbD687743c1285Fd2baFEe297d1867E62eBa8b5a9",
+      "symbol": "HUOBI",
+      "name": "HUOBI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10990,
-    "minor": 10990,
+    "major": 10991,
+    "minor": 10991,
     "patch": 85
   }
 }
