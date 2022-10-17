@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBCD363EF54e88ad0b0A38B014Be622A0772C174f",
-      "symbol": "MITE",
-      "name": "MiningTech",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf9D1dc0c5c4deEdC0CE9Aa1A75dD570E77c4Df87",
       "symbol": "BLAZE",
       "name": "BLAZE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE307A22e25dc4316f86BCA2BCC4DCbAfF1E0820c",
+      "symbol": "RDAO",
+      "name": "RecessionDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10801,
-    "minor": 10801,
+    "major": 10802,
+    "minor": 10802,
     "patch": 85
   }
 }
