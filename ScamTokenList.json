@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x344189cEFCf7E785fD88eCb528d823f7Cc0258bd",
-      "symbol": "REDINU",
-      "name": "RedditInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9c530b8c091206455e8f605cd6B1a0Cc87d6122a",
       "symbol": "SURF",
       "name": "SurgeFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x855FEBEbaE1c0D54F208664aE6ABE89aFC0E2c24",
+      "symbol": "RDAO",
+      "name": "RecessionDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10797,
-    "minor": 10797,
+    "major": 10798,
+    "minor": 10798,
     "patch": 85
   }
 }
