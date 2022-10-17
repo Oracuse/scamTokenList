@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x40e5E1D3b00957A4cfce0383a140F8b094c02462",
-      "symbol": "PLSK",
-      "name": "PulseKishimoto",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x927e1acA0C60fF88D5b7971A5288e6598Da2C848",
       "symbol": "SUZU",
       "name": "Suzushib",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71da58C8212F2986521744Df3299f8fB738F983e",
+      "symbol": "BINU",
+      "name": "BrazilInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10858,
-    "minor": 10858,
+    "major": 10859,
+    "minor": 10859,
     "patch": 85
   }
 }
