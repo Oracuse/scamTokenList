@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7354A05E1e417219C3c6848f8921dF40c10ce2D3",
-      "symbol": "PLSCI",
-      "name": "PulseCliffordInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x701EDA3bd789d638fcd8368eA311a0fD1CEb0BCA",
       "symbol": "ASTRAEA",
       "name": "DimensionSeven",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63CfF68fd0C8aCB85e8336AC94cA5D44b8dF8CEc",
+      "symbol": "WIC",
+      "name": "WorldInuCup",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10820,
-    "minor": 10820,
+    "major": 10821,
+    "minor": 10821,
     "patch": 85
   }
 }
