@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD9524d5E12e953EC73bb27aDC63e33d67d2E1efF",
-      "symbol": "SBP",
-      "name": "ShibaBurnProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93a9D35Cc983F339a17B64739280de979D4ce7A9",
       "symbol": "LP",
       "name": "LiquidityProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4f187161D00A7B963b95E9CcE9976d357F94A204",
+      "symbol": "AC",
+      "name": "AlphaCats",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10863,
-    "minor": 10863,
+    "major": 10864,
+    "minor": 10864,
     "patch": 85
   }
 }
