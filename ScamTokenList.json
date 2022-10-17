@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4A27e9aAb8F8bA9de06766C8476eD1D16494E35F",
-      "symbol": "PEPE",
-      "name": "PEPEGOLD",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2CA0D5b5Fd8128442A0bE7E14439e93Da1112622",
       "symbol": "KITSUNE",
       "name": "KITSUNE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5DFDE8A0096ad0A860D09764aCa623A0070c733b",
+      "symbol": "ECI",
+      "name": "EagleCupInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10996,
-    "minor": 10996,
+    "major": 10997,
+    "minor": 10997,
     "patch": 85
   }
 }
