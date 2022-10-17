@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe95f2a92316687337b3E18E747241E0225fB4Bd6",
-      "symbol": "PLFLO",
-      "name": "PulseFloki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDeA2afEefc0ed6C49efb9f473154967EB725EA15",
       "symbol": "CHOTEN",
       "name": "SeiseiChoten",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfa228184cF6F3f5992938deb0454a97f698DE530",
+      "symbol": "SHE",
+      "name": "SheProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10976,
-    "minor": 10976,
+    "major": 10977,
+    "minor": 10977,
     "patch": 85
   }
 }
