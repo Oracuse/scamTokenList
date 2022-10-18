@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3285b84AF9F5AF85BF422212151Acd3Bc3d3fC37",
-      "symbol": "PAINTDAO",
-      "name": "mspaintdaocom",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe268843da818E44960423696E11605f6D9CE1232",
       "symbol": "1941",
       "name": "AttactonPearlHabor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33E72E2ED832e3822e8832062f4e9CA1Ee54228a",
+      "symbol": "EWI",
+      "name": "EnergyWarInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11155,
-    "minor": 11155,
+    "major": 11156,
+    "minor": 11156,
     "patch": 85
   }
 }
