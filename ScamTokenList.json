@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdf5CC19187af3b439D0F325F637c448960E89D5A",
-      "symbol": "MATRIXINU",
-      "name": "MatrixInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2cf852a1d382Dc28e0043fbEBF8E33fB120336C3",
       "symbol": "BPI",
       "name": "BlackPantherInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD333952e55f515A7612C23aC582eDDfdF12951bC",
+      "symbol": "ATI",
+      "name": "AlThumamaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11241,
-    "minor": 11241,
+    "major": 11242,
+    "minor": 11242,
     "patch": 85
   }
 }
