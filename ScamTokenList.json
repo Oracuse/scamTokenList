@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x82F7A39611891D702667cB42A6F38B720b1Ff748",
-      "symbol": "MINI",
-      "name": "MINIONS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0601BEa80F8e20F101787D895102ca2a44252265",
       "symbol": "VS",
       "name": "Vansire",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbA6c2839a46cd2e4D40192F1A83004eA63512645",
+      "symbol": "LISTEN",
+      "name": "Silent",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11112,
-    "minor": 11112,
+    "major": 11113,
+    "minor": 11113,
     "patch": 85
   }
 }
