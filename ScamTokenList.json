@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4c6151b3854e220faD7Cf94851F2C086AAB0a0bA",
-      "symbol": "SAYATSUKA",
-      "name": "SAYATSUKA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2686191936fe1BC05aa5E2e7b19F639ebF8cd018",
       "symbol": "CB",
       "name": "CloutBase",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf2d83e56bc8184Aba2B04df70c95139BA016D998",
+      "symbol": "KANEKI",
+      "name": "KanekiKen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11070,
-    "minor": 11070,
+    "major": 11071,
+    "minor": 11071,
     "patch": 85
   }
 }
