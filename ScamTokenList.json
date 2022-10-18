@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x136532816788A2056EC649b2a4626efB3c0e9280",
-      "symbol": "DRGN",
-      "name": "DragonSwap",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdA55FECbAB9214BfB9e555a55797071FBD16623B",
       "symbol": "KIN",
       "name": "KakushiBurokku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x760746E5483eA6aC47CeD2a848F8A5003c6cDb19",
+      "symbol": "CIPHER",
+      "name": "THECode",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11189,
-    "minor": 11189,
+    "major": 11190,
+    "minor": 11190,
     "patch": 85
   }
 }
