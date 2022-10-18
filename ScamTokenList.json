@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD39A7D13510b1874a28E3c95A6AF39Bad0D6c7E9",
-      "symbol": "DEGENERIUM",
-      "name": "Degenerium",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb5740c9F17453586412f7efc57B3EC4f482C76E2",
       "symbol": "ALTR",
       "name": "Altruism",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7BF5ea63c78b15C78563749Ef019171ED51420e5",
+      "symbol": "TETH",
+      "name": "THEETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11087,
-    "minor": 11087,
+    "major": 11088,
+    "minor": 11088,
     "patch": 85
   }
 }
