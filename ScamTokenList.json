@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfC8b4F6d77c78c9c80509a56c489F5b3f7e87248",
-      "symbol": "PEPES",
-      "name": "PEPESILVER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB9350736625b131455aFdD6f98FB579EA56344FE",
       "symbol": "BMERGE",
       "name": "BullMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11622CC0fCf3A6159e2C52E1D9229036a159AcC0",
+      "symbol": "WRI",
+      "name": "WorldRecoveryInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11022,
-    "minor": 11022,
+    "major": 11023,
+    "minor": 11023,
     "patch": 85
   }
 }
