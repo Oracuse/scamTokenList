@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf44608DF9719C9B0D03384cfaB46D18740169d92",
-      "symbol": "FIVES",
-      "name": "ProjectFives",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0DBD31C9E172b6226a30b9d3c00A7bb7ef05c9B7",
       "symbol": "PEPEDAI",
       "name": "PEPEDAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB23A6a2258913a68E44c3806F2e5a48B551db530",
+      "symbol": "MCI",
+      "name": "WorldPill",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11007,
-    "minor": 11007,
+    "major": 11008,
+    "minor": 11008,
     "patch": 85
   }
 }
