@@ -13,18 +13,6 @@
   "timestamp": "2021-08-15T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1,
-      "address": "0x3eAb81b00524601cda0d98eE9602e1F2dD5eE43E",
-      "symbol": "EUQITOLIM",
-      "name": "Euqitolim",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09a68ECe21897E2013374439369C9427768B9a0a",
       "symbol": "TSUKABANK",
       "name": "BankofTsuka",
@@ -110000,11 +109988,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0bC6278b6BBD02c657f91964CC79a7161c5B221",
+      "symbol": "TRIPLETOADINU",
+      "name": "TTI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11100,
-    "minor": 11100,
+    "major": 11101,
+    "minor": 11101,
     "patch": 85
   }
 }
