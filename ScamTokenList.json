@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE208e21FfEB8894231f8729b637b5e98Cd09f876",
-      "symbol": "TKD",
-      "name": "ToxicKingsDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB0e265fd80aF16c490D65E5Eb6169C176027D50F",
       "symbol": "CHOWY",
       "name": "ChowyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9a268b927F89Bc301972204b51e1a7DCe7310Ed",
+      "symbol": "TOLKIEN",
+      "name": "Istari",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11085,
-    "minor": 11085,
+    "major": 11086,
+    "minor": 11086,
     "patch": 85
   }
 }
