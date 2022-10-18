@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFB90dFF340e003d3598bC4Eee9Bb85F89ce403D0",
-      "symbol": "UMAINU",
-      "name": "UmamInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x960D8d3aBfd9a67028B852f9AEf8e29788D4bE2F",
       "symbol": "CANTO",
       "name": "CantoUtilityToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB17473779944b3651E7e85e8Aa00F14b661c7e1b",
+      "symbol": "BR7",
+      "name": "BabyRonaldo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11206,
-    "minor": 11206,
+    "major": 11207,
+    "minor": 11207,
     "patch": 85
   }
 }
