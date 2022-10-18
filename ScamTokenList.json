@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA90EfDfe3F759AaAf23F5f43923Db0A1b0f525E9",
-      "symbol": "PETH",
-      "name": "PulseEthereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x68BD9C9dc832dD462c87051d201f63BF65c92e03",
       "symbol": "BREACH",
       "name": "Breach",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9c220785B98F551A303BE732220a95A02d7dE82",
+      "symbol": "FR",
+      "name": "ForReal",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11226,
-    "minor": 11226,
+    "major": 11227,
+    "minor": 11227,
     "patch": 85
   }
 }
