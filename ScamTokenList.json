@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcfF747F94D379A2B213f19Cebbf71a4782d43675",
-      "symbol": "PULSEORIGIN",
-      "name": "TheFirstPulse",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc751e7f2c5a887ae85FdA90dCeED911CeEAd3547",
       "symbol": "GINU",
       "name": "AntiGravityInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ed3458E611d1e15618456bcd0710BdB1ab5Db03",
+      "symbol": "E",
+      "name": "Enzyme",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11011,
-    "minor": 11011,
+    "major": 11012,
+    "minor": 11012,
     "patch": 85
   }
 }
