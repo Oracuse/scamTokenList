@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x909181Df9CB8595D66255C58058Bc21A1577C348",
-      "symbol": "SSJPEPE",
-      "name": "SUPERSAIYANPEPE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc0472f3bc17BaF66eA8951e2871f213A2FC90BD2",
       "symbol": "WOJAK",
       "name": "WojakGold",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd56eFc0d844802d7CE36Df03a338D92820Ed5d78",
+      "symbol": "POLONIEX",
+      "name": "Poloniex",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11045,
-    "minor": 11045,
+    "major": 11046,
+    "minor": 11046,
     "patch": 85
   }
 }
