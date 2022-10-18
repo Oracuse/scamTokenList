@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1462ded04Be4346942B5bA3FB99b5eEac9D0dFeD",
-      "symbol": "USA",
-      "name": "AMERICANDREAM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10346a01bDB6954B89b87C95a55Ee1e6fdd4f1c3",
       "symbol": "PULSEPOPOY",
       "name": "DameTuCositaPulse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x395A52C46b41B4ee04F08A3F94CacdD4b8096afC",
+      "symbol": "THESIMP",
+      "name": "ProofOfSubmission",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11005,
-    "minor": 11005,
+    "major": 11006,
+    "minor": 11006,
     "patch": 85
   }
 }
