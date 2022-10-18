@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFd1689B21e4a7D7ba1d65816D183820c8E5728F2",
-      "symbol": "BUCKETS",
-      "name": "Buckets",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5d98Eabe617a10d2495546269DDB57538E7Aa91A",
       "symbol": "KPLS",
       "name": "KishuPulse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04c120B177b30Cba06E6f46cEA565B6412fa2649",
+      "symbol": "TEHPROTOCOL",
+      "name": "TehP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11030,
-    "minor": 11030,
+    "major": 11031,
+    "minor": 11031,
     "patch": 85
   }
 }
