@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf10b80EEf42aC66DBfD88484797cec1f11EE9aC8",
-      "symbol": "ODOGE",
-      "name": "OsakuDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9F5747414dDc6111aabE6fc6D41806D267d590AD",
       "symbol": "HDXX",
       "name": "HedronXX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf7B3A608c26Cb0103179EdD6F876C746DE7708E3",
+      "symbol": "INUFLATION",
+      "name": "WorldInflationInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11095,
-    "minor": 11095,
+    "major": 11096,
+    "minor": 11096,
     "patch": 85
   }
 }
