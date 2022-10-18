@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x32f38eDbeF76D9b2160E79cC8B09D2E9D3f951f9",
-      "symbol": "SUZAKU",
-      "name": "DejitaruSuzaku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF5c684721Dd54493294Ee47558249F9D67C43475",
       "symbol": "CHIKYU",
       "name": "DejitaruChikyu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83082078f74A6F36f46d598A7e46d89271B34e3a",
+      "symbol": "THECOMPOUND",
+      "name": "THECompoundProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11175,
-    "minor": 11175,
+    "major": 11176,
+    "minor": 11176,
     "patch": 85
   }
 }
