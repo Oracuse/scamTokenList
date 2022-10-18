@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6281D06a251dE49DB5c959A4B42eaC77C71Eb7E4",
-      "symbol": "YAMATO",
-      "name": "YamatoInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xABF813421264935D2Adb4ED351c683b35349E8a0",
       "symbol": "YUGURI",
       "name": "EveningMist",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x606bd2cBc1982E91CC7B3A9106955553eD682273",
+      "symbol": "MM",
+      "name": "MichaelMyers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11178,
-    "minor": 11178,
+    "major": 11179,
+    "minor": 11179,
     "patch": 85
   }
 }
