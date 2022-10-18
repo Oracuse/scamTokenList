@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbc8EE91499915F924834cF5e1b67Bdd192b4f3CE",
-      "symbol": "0X24",
-      "name": "Ip",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA91bBD259C137f70e3A194aad67917B8848820d4",
       "symbol": "SOULS",
       "name": "Matsuyama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5094c016E82221768B8ceA3D8e3A2B372c16104C",
+      "symbol": "BULLS",
+      "name": "ProofOfBull",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11239,
-    "minor": 11239,
+    "major": 11240,
+    "minor": 11240,
     "patch": 85
   }
 }
