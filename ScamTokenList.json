@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x26932705B469C8d4Bba3c89F4D361BA74C551F17",
-      "symbol": "RSRE",
-      "name": "ReserveRights",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDfb518d3506Fe2559fecd4F8C7Ac1F20aEB43226",
       "symbol": "PINU",
       "name": "PepeInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8B23069f6Dcf67ad227a80817e104624448F4a3",
+      "symbol": "TRF",
+      "name": "TRIFEFINANCETRF",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11015,
-    "minor": 11015,
+    "major": 11016,
+    "minor": 11016,
     "patch": 85
   }
 }
