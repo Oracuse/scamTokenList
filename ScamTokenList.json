@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x577A6539EDd899745fb434C9A68AEFd2dD4d4479",
-      "symbol": "TON618",
-      "name": "TON618",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5a3F87C895EdFAC699b5758236Fa5387914a847F",
       "symbol": "PANDINOW",
       "name": "PandinowToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0E024669e46f89172b712bDC6fE10d733eA8079",
+      "symbol": "RAINBOW",
+      "name": "LGBTQIA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11200,
-    "minor": 11200,
+    "major": 11201,
+    "minor": 11201,
     "patch": 85
   }
 }
