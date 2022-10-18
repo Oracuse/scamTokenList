@@ -13,16 +13,6 @@
   "timestamp": "2021-08-15T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0x09a68ECe21897E2013374439369C9427768B9a0a",
-      "symbol": "TSUKABANK",
-      "name": "BankofTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
       "chainId": 1,
       "address": "0xb7E6781f44Fe5727c8F68559B27a89c315c33058",
       "symbol": "IZANAMI",
@@ -109999,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf906C1C7cce035Ba08E3912C09BE0CFC456fD2df",
+      "symbol": "SHIBAPPE",
+      "name": "Shibappe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11101,
-    "minor": 11101,
+    "major": 11102,
+    "minor": 11102,
     "patch": 85
   }
 }
