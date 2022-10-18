@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF5c684721Dd54493294Ee47558249F9D67C43475",
-      "symbol": "CHIKYU",
-      "name": "DejitaruChikyu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x39Db79b66Fc58fcc971E4Db4CA31A5B0d7D04d72",
       "symbol": "PUSH",
       "name": "PUSHOK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3C1899e498bf2Cf3342F2e2b09D2f509DE5e287",
+      "symbol": "APT",
+      "name": "Aptos",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11176,
-    "minor": 11176,
+    "major": 11177,
+    "minor": 11177,
     "patch": 85
   }
 }
