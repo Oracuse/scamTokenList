@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE0Ab9B183C34F7CDFfF18Df60f2CC020796964F7",
-      "symbol": "BUTTERINU",
-      "name": "ButterInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10e64040537A87ce984cbb32B561CC560eA8EB63",
       "symbol": "GASH",
       "name": "Onigashima",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F06602dEC40F17a2455413B9697468d1d1e14D6",
+      "symbol": "FORTE",
+      "name": "ForteProtocol",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11081,
-    "minor": 11081,
+    "major": 11082,
+    "minor": 11082,
     "patch": 85
   }
 }
