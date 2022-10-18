@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x09C6042aeA9DA5f08706f788EF9fbeC510B783FD",
-      "symbol": "WAVE",
-      "name": "TheVaporWave",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbC6Ab120918Ee598029686dA2B132b0491D40D8c",
       "symbol": "KU",
       "name": "KintoUn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb5CA4c27Ed90373b80442e4845b3622e2aD8121",
+      "symbol": "WEN",
+      "name": "LAMBO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11098,
-    "minor": 11098,
+    "major": 11099,
+    "minor": 11099,
     "patch": 85
   }
 }
