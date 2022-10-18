@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x960D8d3aBfd9a67028B852f9AEf8e29788D4bE2F",
-      "symbol": "CANTO",
-      "name": "CantoUtilityToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb78900D9A52E299d5643B5d484Cf3A12AEEac5b0",
       "symbol": "MOON",
       "name": "MOON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeb8196d2c9892fdD4B251Bb004A496B2981483Bf",
+      "symbol": "JIBA",
+      "name": "JibanyanInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11207,
-    "minor": 11207,
+    "major": 11208,
+    "minor": 11208,
     "patch": 85
   }
 }
