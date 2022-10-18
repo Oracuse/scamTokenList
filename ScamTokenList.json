@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1A339f53d59e840683bF3FFB6d8640838FFA975d",
-      "symbol": "REKTBANK",
-      "name": "REKTBANK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x31154f27792544EE3c515A44d7BE25E2DBb45E2F",
       "symbol": "MONERO",
       "name": "Monero",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4746404FCc6b291B9D56e8C2f1B9A36348D0c95",
+      "symbol": "KON",
+      "name": "KINGOFNOTHING",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11122,
-    "minor": 11122,
+    "major": 11123,
+    "minor": 11123,
     "patch": 85
   }
 }
