@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbBd2Ecfa686232bfA93a89355dB0c1952d42Ac9C",
-      "symbol": "PEPEBANK",
-      "name": "PepeBank",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE34D585AA03F1dBCd6d37254B94d7a8557FffDc3",
       "symbol": "VITM",
       "name": "VitruvianMan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a35260F69A965555D60CA8db1Cbe2Db01a95E3B",
+      "symbol": "TAI",
+      "name": "THEAPTOSINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11049,
-    "minor": 11049,
+    "major": 11050,
+    "minor": 11050,
     "patch": 85
   }
 }
