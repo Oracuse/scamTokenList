@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB9350736625b131455aFdD6f98FB579EA56344FE",
-      "symbol": "BMERGE",
-      "name": "BullMerge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb371a72a1d334f830094B66eb25b4585Ce6DF0eA",
       "symbol": "NINJAZ",
       "name": "Ninjaz",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d24512f4e3e9CbD81C7AFCAfcAF1Ab4a50a07b4",
+      "symbol": "DAO2",
+      "name": "DAOMAKERV2DAO2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11023,
-    "minor": 11023,
+    "major": 11024,
+    "minor": 11024,
     "patch": 85
   }
 }
