@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x216A92Ed25011AE953D5519F6AD360273B48802B",
-      "symbol": "BTSUKA",
-      "name": "BankofTsuka",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Fd5f2d2C30215BE3d335E6B4E47c396DD31566B",
       "symbol": "HG",
       "name": "HansGraft",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x521f5103B17162C23e2BC2DDd71F046B9881f94e",
+      "symbol": "CRS",
+      "name": "CristianoRonaldoSoc",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11074,
-    "minor": 11074,
+    "major": 11075,
+    "minor": 11075,
     "patch": 85
   }
 }
