@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2cf852a1d382Dc28e0043fbEBF8E33fB120336C3",
-      "symbol": "BPI",
-      "name": "BlackPantherInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x299672d1A337Ce0a3674867b119cD9Cc3d2c1E8b",
       "symbol": "SHENRON",
       "name": "SHENRONGAIDEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4cFEA16e1e340DCc9de91ed0c60313C004a12E66",
+      "symbol": "POA",
+      "name": "ProofofVitalik",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11242,
-    "minor": 11242,
+    "major": 11243,
+    "minor": 11243,
     "patch": 85
   }
 }
