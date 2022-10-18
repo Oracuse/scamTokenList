@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe71F2F583508b02a7Fa1B1B88bc2Ae1A4325D256",
-      "symbol": "SPLURGE",
-      "name": "Splurge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2969503B8f0a211F9F0b22d6517Cbdd9259D9Bfa",
       "symbol": "LAOHULONG",
       "name": "LaohuLong",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC0E9b1173DaED3d7123C612a4Cb6d9a9ADd2cdEA",
+      "symbol": "PILLAGE",
+      "name": "PILLAGERS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11092,
-    "minor": 11092,
+    "major": 11093,
+    "minor": 11093,
     "patch": 85
   }
 }
