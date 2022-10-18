@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0F504c78D557B736D53981cbC40b5a12AAc1f571",
-      "symbol": "DFY",
-      "name": "DogeFly",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25CE2312a23f977743CD302d04A87A5e8c38b0e4",
       "symbol": "PDOGE",
       "name": "PulseDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x276d2ed5e4902439D432798dae1Ca16cA46905f4",
+      "symbol": "THAT",
+      "name": "THAT",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11106,
-    "minor": 11106,
+    "major": 11107,
+    "minor": 11107,
     "patch": 85
   }
 }
