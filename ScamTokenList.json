@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2f32b39023dA7d6A6486A85d12B346EB9C2A0D19",
-      "symbol": "FER",
-      "name": "FER",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x54934B7d40C282639F4b416912a134fEFFC7D2a5",
       "symbol": "HOKKAIDODAI",
       "name": "HokkaidoDAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x212CF1c53E0E69c0d0C97EA470A241fe4FD15378",
+      "symbol": "DENT",
+      "name": "Degenator",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11160,
-    "minor": 11160,
+    "major": 11161,
+    "minor": 11161,
     "patch": 85
   }
 }
