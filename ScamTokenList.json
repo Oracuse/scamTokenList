@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x54bd57eD468064E316EcC27BDec7A71888B795c9",
-      "symbol": "SHIBMOTO",
-      "name": "Shibmoto",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x92d78d88389C1a2C11CCd7a9d244fF61fC60f2c5",
       "symbol": "KAI",
       "name": "KINGKAIINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFf1c3af3A13Ab70d1450d45AC3Cb927BBBC59112",
+      "symbol": "SWC",
+      "name": "StreamerWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11217,
-    "minor": 11217,
+    "major": 11218,
+    "minor": 11218,
     "patch": 85
   }
 }
