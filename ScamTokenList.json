@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76FDE4C9e8cc9FE7bb1e95a41d418B47a98Ce9d7",
-      "symbol": "HYCH",
-      "name": "HYCH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6AdabbFa17B6B9b0d4f5e65D10dc3E85e8f462D3",
       "symbol": "UNKNOWN",
       "name": "Unknown",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0CEdEc4517f8A9fA1ed0fC5b4Fb3b84A2A7286ff",
+      "symbol": "POF",
+      "name": "ProofOfFifa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11056,
-    "minor": 11056,
+    "major": 11057,
+    "minor": 11057,
     "patch": 85
   }
 }
