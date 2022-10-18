@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC96fa429B7fbB0345A4471E5ceE7AE4E8b541f7c",
-      "symbol": "TSUKANOBI",
-      "name": "TSUKANOBI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA90EfDfe3F759AaAf23F5f43923Db0A1b0f525E9",
       "symbol": "PETH",
       "name": "PulseEthereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E781383124fb34d2DfcCcdc84E892f42dda5162",
+      "symbol": "MBAPPETHEREUM",
+      "name": "Mbappethereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11225,
-    "minor": 11225,
+    "major": 11226,
+    "minor": 11226,
     "patch": 85
   }
 }
