@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x836780B8DB189600cBCb133646252f0098b11072",
-      "symbol": "BPM",
-      "name": "BlackPulse",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84f209D630013c96FA5977ED82B4c30552A8bFDe",
       "symbol": "SAKURAJIMA",
       "name": "Sakurajima",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7fe54B67c8b4ed316E925B364F6c4752f038C2B7",
+      "symbol": "TAPT101",
+      "name": "TheAptos",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11151,
-    "minor": 11151,
+    "major": 11152,
+    "minor": 11152,
     "patch": 85
   }
 }
