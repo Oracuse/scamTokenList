@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC8E3DEFfa94ca059505B0461a1C912fE4966B91B",
-      "symbol": "WNOT",
-      "name": "WhyNot",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51195ba92bFbA7B59341E2A2b66FeAeB2E6AdA0f",
       "symbol": "FUJI",
       "name": "FUJI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBcd570A890957036A1AC7ACC9Bb3a0132747749C",
+      "symbol": "ISE",
+      "name": "IseArisada",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11009,
-    "minor": 11009,
+    "major": 11010,
+    "minor": 11010,
     "patch": 85
   }
 }
