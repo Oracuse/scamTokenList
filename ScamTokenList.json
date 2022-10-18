@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x842F7B3EE4E912a6480D39C8793d7e4FcDB37054",
-      "symbol": "TORO",
-      "name": "ElToro",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08fc9bB77E8ac38114B650cff173D2d70c4c6d62",
       "symbol": "ORANGE",
       "name": "OrangeLobster",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e416BC7505EB55068CD707A6B565d41227EBfC1",
+      "symbol": "BTHE",
+      "name": "TheBabyProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11054,
-    "minor": 11054,
+    "major": 11055,
+    "minor": 11055,
     "patch": 85
   }
 }
