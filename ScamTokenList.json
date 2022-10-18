@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa58dEF73c5306dF55E3267a02A09a05886de564A",
-      "symbol": "SPLS",
-      "name": "ShibPulse",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4E25534C57475027D0672d152c9cBCb39aCDeAA7",
       "symbol": "DEGENBOTS",
       "name": "DegenBots",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Cd3387e2E358f14ecf84cA78D8C11Ae6B4330fe",
+      "symbol": "ABYYS",
+      "name": "MadeinAbbys",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11025,
-    "minor": 11025,
+    "major": 11026,
+    "minor": 11026,
     "patch": 85
   }
 }
