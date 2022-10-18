@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE34D585AA03F1dBCd6d37254B94d7a8557FffDc3",
-      "symbol": "VITM",
-      "name": "VitruvianMan",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6ffd8AF5126A95D2Dc29d9e66A105A95ff83079B",
       "symbol": "ZIGZAG",
       "name": "Zigzag",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d06671D82F5DA42bF1bC3548222d903bf6CA7e4",
+      "symbol": "DP",
+      "name": "DejitaruProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11050,
-    "minor": 11050,
+    "major": 11051,
+    "minor": 11051,
     "patch": 85
   }
 }
