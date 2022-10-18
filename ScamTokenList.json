@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x416BE1Bd884Bb6827B85DD1463fA8383fdf42D28",
-      "symbol": "SPOM",
-      "name": "SPOM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFd1689B21e4a7D7ba1d65816D183820c8E5728F2",
       "symbol": "BUCKETS",
       "name": "Buckets",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4e4E398d025BD6bEABf8D217c4A520cf88FFe96",
+      "symbol": "BASE58",
+      "name": "ASecurityTechnology",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11029,
-    "minor": 11029,
+    "major": 11030,
+    "minor": 11030,
     "patch": 85
   }
 }
