@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73D15a6f0500233A9140780Caf483c384d717BA5",
-      "symbol": "SPACESHIB",
-      "name": "ShibaProtector",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE0C06a44f912992937efFbE71d7bC12EbE59644e",
       "symbol": "BULLME",
       "name": "BullMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x760d23Bdd90BB59f72E27e77D72218f3344195c2",
+      "symbol": "ETH",
+      "name": "ETHProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11035,
-    "minor": 11035,
+    "major": 11036,
+    "minor": 11036,
     "patch": 85
   }
 }
