@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1C99873a3A8D1582b4952431096Fb987B77be84b",
-      "symbol": "GUMINU",
-      "name": "GumihoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCF33E75D1dd925Aa9f519703E25677DB70C9F7Bc",
       "symbol": "AKO",
       "name": "aikido",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdF7E2422799959079D9Ef690817D66Cc4Fc0A621",
+      "symbol": "NFL",
+      "name": "NFLInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11203,
-    "minor": 11203,
+    "major": 11204,
+    "minor": 11204,
     "patch": 85
   }
 }
