@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa3A0a297035aa44ae9Eb6DBeDA9B18B4b6193355",
-      "symbol": "PEPEB",
-      "name": "PEPEBRONZE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38aa9A61381Af639560Aed39736B7081a9C8D1E2",
       "symbol": "LIGHT",
       "name": "LightCode",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x362dfb4D523F3cD4527c0baF2c795FbCf1968299",
+      "symbol": "BAPT",
+      "name": "BabyApt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11166,
-    "minor": 11166,
+    "major": 11167,
+    "minor": 11167,
     "patch": 85
   }
 }
