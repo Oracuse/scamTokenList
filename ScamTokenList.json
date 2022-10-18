@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFd80F2b7bd665C9A2032133acdA91b2c4F01B01f",
-      "symbol": "PBITCOIN",
-      "name": "PulseHarryPotterOba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x13C13E34F1e9E5016B15C31aC153C563b65e6D30",
       "symbol": "GENGARINU",
       "name": "GENGARInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3907b5136d84285E78b9DcedCC8B6B262fC148Cf",
+      "symbol": "WCT",
+      "name": "WorldCupTrophy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11003,
-    "minor": 11003,
+    "major": 11004,
+    "minor": 11004,
     "patch": 85
   }
 }
