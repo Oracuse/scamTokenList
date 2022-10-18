@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7077438fbBa51d6b28897b5ACDceF1fC1f4012FD",
-      "symbol": "GDAI",
-      "name": "GreyDai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09A9abD6Cebf6C6e3c37B8127C62e70153f2DC80",
       "symbol": "SAMANTHA",
       "name": "Samantha",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65B04D4443Fa4d0ac14D1a438b287E744A614949",
+      "symbol": "HRI",
+      "name": "HumanRightsInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11142,
-    "minor": 11142,
+    "major": 11143,
+    "minor": 11143,
     "patch": 85
   }
 }
