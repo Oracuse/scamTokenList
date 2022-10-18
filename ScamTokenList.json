@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5DdcdEC391db198393A1A093F9466335365d12BF",
-      "symbol": "ETHEREAL",
-      "name": "Lightbringer",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfC8b4F6d77c78c9c80509a56c489F5b3f7e87248",
       "symbol": "PEPES",
       "name": "PEPESILVER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1742Fe8bA06922234fB3219502f9e1A79EE9a3b",
+      "symbol": "TEH",
+      "name": "TehProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11021,
-    "minor": 11021,
+    "major": 11022,
+    "minor": 11022,
     "patch": 85
   }
 }
