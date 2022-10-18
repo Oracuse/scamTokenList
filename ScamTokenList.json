@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE0C06a44f912992937efFbE71d7bC12EbE59644e",
-      "symbol": "BULLME",
-      "name": "BullMerge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC5feDE39D060d580321123883f66de0B83eF851A",
       "symbol": "DAIAUR",
       "name": "DairyOfAurelius",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E70Ee58847947081B3573b30822e009FF53AbEF",
+      "symbol": "GB",
+      "name": "GhostBusters",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11036,
-    "minor": 11036,
+    "major": 11037,
+    "minor": 11037,
     "patch": 85
   }
 }
