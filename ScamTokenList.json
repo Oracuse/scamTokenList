@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD08bfA48e36Ee132bB7574416FCa7aa709BD9B95",
-      "symbol": "HAJIME",
-      "name": "Hajime",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeaeCfcC24ad115CbF84A71B5822D9D2cC71153e1",
       "symbol": "AKITAGOLD",
       "name": "AkitaGold",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0984EC887678736Be253Db8B95307c64abB999c4",
+      "symbol": "BPP",
+      "name": "BabyPepeProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11135,
-    "minor": 11135,
+    "major": 11136,
+    "minor": 11136,
     "patch": 85
   }
 }
