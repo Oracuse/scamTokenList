@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x336a9D946Bb170D997B4443fF25b2911df56dA59",
-      "symbol": "RTP",
-      "name": "RatTrap",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF18943E9682F34bcC6F3E7aEDC2c7FE3e592732c",
       "symbol": "RSRE",
       "name": "ReserveRights",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB58A20951feb8c94EEa397546FF161A38325a9Ee",
+      "symbol": "A",
+      "name": "APROTOCOL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11127,
-    "minor": 11127,
+    "major": 11128,
+    "minor": 11128,
     "patch": 85
   }
 }
