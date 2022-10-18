@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB0e265fd80aF16c490D65E5Eb6169C176027D50F",
-      "symbol": "CHOWY",
-      "name": "ChowyToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD39A7D13510b1874a28E3c95A6AF39Bad0D6c7E9",
       "symbol": "DEGENERIUM",
       "name": "Degenerium",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7662195F71525257d819Bafc0C224e0FE0C631B",
+      "symbol": "FAPTOS",
+      "name": "FUCKAPTOS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11086,
-    "minor": 11086,
+    "major": 11087,
+    "minor": 11087,
     "patch": 85
   }
 }
