@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf6e43eF8d81F8CB1d0dF25E2583a59A28471d4d1",
-      "symbol": "NINJAZ",
-      "name": "Ninjaz",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE0Ab9B183C34F7CDFfF18Df60f2CC020796964F7",
       "symbol": "BUTTERINU",
       "name": "ButterInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x871d03440D959a21a473391EfbF5927Ff108B71F",
+      "symbol": "WDI",
+      "name": "WorldDebtInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11080,
-    "minor": 11080,
+    "major": 11081,
+    "minor": 11081,
     "patch": 85
   }
 }
