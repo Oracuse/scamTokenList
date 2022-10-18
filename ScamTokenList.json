@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5740c9F17453586412f7efc57B3EC4f482C76E2",
-      "symbol": "ALTR",
-      "name": "Altruism",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8f0cf447eFEbfaE6405C51337f05Be7be5f7545d",
       "symbol": "LADYCOIN",
       "name": "LadyCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x766e444E9d6Ab6DF426aD95Ed99A0DbB3Bd571A8",
+      "symbol": "TLP",
+      "name": "THELASTPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11088,
-    "minor": 11088,
+    "major": 11089,
+    "minor": 11089,
     "patch": 85
   }
 }
