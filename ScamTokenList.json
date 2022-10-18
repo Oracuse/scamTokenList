@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb0cF338809dE0bb74FAe14DEc4C1189CdBb1D4bC",
-      "symbol": "PEPEMOON",
-      "name": "PEPEMOON",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe71F2F583508b02a7Fa1B1B88bc2Ae1A4325D256",
       "symbol": "SPLURGE",
       "name": "Splurge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84fd9C3e0C69889Bb87f3952e8F904BE9cAEabe2",
+      "symbol": "TEH",
+      "name": "TehnotThe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11091,
-    "minor": 11091,
+    "major": 11092,
+    "minor": 11092,
     "patch": 85
   }
 }
