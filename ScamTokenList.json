@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x85D52C07928041d88b7A4B17ca9146cFc0ba10Dc",
-      "symbol": "TORNADO",
-      "name": "TORNADOMERGE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeC99aF7a3b33b1F3c4C772F6E27e55d9410D614D",
       "symbol": "OKAMI",
       "name": "Kuraokami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7681C3417dD0Af33539273BF2eB1e0836daF7762",
+      "symbol": "KESSEN",
+      "name": "KESSEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11033,
-    "minor": 11033,
+    "major": 11034,
+    "minor": 11034,
     "patch": 85
   }
 }
