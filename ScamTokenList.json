@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc751e7f2c5a887ae85FdA90dCeED911CeEAd3547",
-      "symbol": "GINU",
-      "name": "AntiGravityInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x980d4D4B659c87D5471B7E7DAe83e748664Ec3FA",
       "symbol": "PEPED",
       "name": "PEPEDIAMOND",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf7333b54d4cD209697bb3189118D6cB27609B688",
+      "symbol": "FBWC",
+      "name": "FootballWorldCup",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11012,
-    "minor": 11012,
+    "major": 11013,
+    "minor": 11013,
     "patch": 85
   }
 }
