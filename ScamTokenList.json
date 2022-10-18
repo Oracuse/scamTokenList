@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4597D7aA4AA9B5b3Ebeca24C6E4Eb0fF38767F53",
-      "symbol": "ICHIRO",
-      "name": "IchiroMurakami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x47fD83836A4D0f5A761792cED65294b86C913784",
       "symbol": "PATH",
       "name": "ThePath",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28d19299e02e92D686Db0b3C0F98372c2dbc7aFf",
+      "symbol": "APT",
+      "name": "Aptos",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11065,
-    "minor": 11065,
+    "major": 11066,
+    "minor": 11066,
     "patch": 85
   }
 }
