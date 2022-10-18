@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x543B154Fafbc532450b3d9f2cA87f89A1C5aFEDb",
-      "symbol": "MAZOKU",
-      "name": "Mazoku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEEBFFA2a7a32D62E5c06D6Ee9AFc9cCc97c2EE05",
       "symbol": "OPEN",
       "name": "ThirdEye",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB0f3cDb92708787e81A7372f8E9E0C180ccA48ba",
+      "symbol": "TRINITY",
+      "name": "Tetrahedron",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11108,
-    "minor": 11108,
+    "major": 11109,
+    "minor": 11109,
     "patch": 85
   }
 }
