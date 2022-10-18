@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa7aA11Dd5B852ae15c289B455dda01868162a964",
-      "symbol": "MOPSI",
-      "name": "MopsInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x43e6BCc9D3f5AECcbb3F0d3505894dd4e03F6DcB",
       "symbol": "SPADES",
       "name": "SPADES",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61d444deC3c228a42dCd904a9FD5d090200A21b9",
+      "symbol": "SEEK",
+      "name": "TheSeekers",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11078,
-    "minor": 11078,
+    "major": 11079,
+    "minor": 11079,
     "patch": 85
   }
 }
