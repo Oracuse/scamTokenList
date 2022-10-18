@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x26eCa98546C5105c7620E46c7d5185a1a3D9393F",
-      "symbol": "CASHDOGE",
-      "name": "CASHDOGE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5DdcdEC391db198393A1A093F9466335365d12BF",
       "symbol": "ETHEREAL",
       "name": "Lightbringer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x411575C8f1E2E70c6b960eBa6aB1976f17141aF9",
+      "symbol": "MEMEZ",
+      "name": "MEMEcorp",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11020,
-    "minor": 11020,
+    "major": 11021,
+    "minor": 11021,
     "patch": 85
   }
 }
