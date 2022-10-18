@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2686191936fe1BC05aa5E2e7b19F639ebF8cd018",
-      "symbol": "CB",
-      "name": "CloutBase",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x18cf8c6281C1f9F14035CA03E420467056d9Bb23",
       "symbol": "100",
       "name": "The100Community",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B47b83cf136e6EE96340eBBc2bcb328Edf862Fc",
+      "symbol": "THIS",
+      "name": "ThisProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11071,
-    "minor": 11071,
+    "major": 11072,
+    "minor": 11072,
     "patch": 85
   }
 }
