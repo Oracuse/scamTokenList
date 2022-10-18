@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDfb518d3506Fe2559fecd4F8C7Ac1F20aEB43226",
-      "symbol": "PINU",
-      "name": "PepeInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62e3463F5b7E0A3D7bA62C06C0749C588782fadC",
       "symbol": "GINE",
       "name": "GintokiETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfECE1a4da55b7f7488cE12703F682101c4B626e5",
+      "symbol": "ASTRA",
+      "name": "AdAstra",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11016,
-    "minor": 11016,
+    "major": 11017,
+    "minor": 11017,
     "patch": 85
   }
 }
