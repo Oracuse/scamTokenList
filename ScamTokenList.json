@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f5F953Ebb6269e5E4D55f29c62F618c5Cd8995d",
-      "symbol": "SOAR",
-      "name": "AnInvestorsParadise",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19f259affad4eaB74Ee306F709044B2c8145f692",
       "symbol": "3DB",
       "name": "ThirdDegreeBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x180D6C062B29bb2F4614A609BA0EB30ff1278B6b",
+      "symbol": "TRUST",
+      "name": "TrustAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11195,
-    "minor": 11195,
+    "major": 11196,
+    "minor": 11196,
     "patch": 85
   }
 }
