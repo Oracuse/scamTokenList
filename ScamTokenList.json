@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc2C0a9BFfbe5Cf848775ed96B7668BDC32Fa7d43",
-      "symbol": "STAFIRE",
-      "name": "Staticfires",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90583357f19061db233128C7Fb9AE5e0DF6c3728",
       "symbol": "BLACKDAI",
       "name": "BLACKDAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62C0569BA8E2097fB874710F18D17fF7Eed434C9",
+      "symbol": "OSF",
+      "name": "OSFEditions",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11120,
-    "minor": 11120,
+    "major": 11121,
+    "minor": 11121,
     "patch": 85
   }
 }
