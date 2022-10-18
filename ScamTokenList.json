@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4Fd5f2d2C30215BE3d335E6B4E47c396DD31566B",
-      "symbol": "HG",
-      "name": "HansGraft",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF28f11A64655eC85e747DE9BA4265cCC6BfDe5E9",
       "symbol": "FERNO",
       "name": "Inferno",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71fE4C5A055C4a3b2F2295C0C10574a0f8d70dCf",
+      "symbol": "PERS",
+      "name": "PerfumeSalesman",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11075,
-    "minor": 11075,
+    "major": 11076,
+    "minor": 11076,
     "patch": 85
   }
 }
