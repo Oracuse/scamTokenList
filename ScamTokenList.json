@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9C4d15d5E6f982c2B0487a736D0e627F713ED3FC",
-      "symbol": "NGMI",
-      "name": "NotGonnaMakeIt",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82F7A39611891D702667cB42A6F38B720b1Ff748",
       "symbol": "MINI",
       "name": "MINIONS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB48E5200faE81DF0C08B0B4dF91dc924dcE1B1Ad",
+      "symbol": "THET",
+      "name": "TheProtocolToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11111,
-    "minor": 11111,
+    "major": 11112,
+    "minor": 11112,
     "patch": 85
   }
 }
