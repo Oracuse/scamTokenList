@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x54A67a2a2F44F59E1Ab490Edb6fF34D1150b2fea",
-      "symbol": "CHRON",
-      "name": "Chronicles",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe5fF781ab2485614eb0CFEd86c0B591F5A2FB2dE",
       "symbol": "PLSABYSS",
       "name": "PLSABYSS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb690e0121291286c55413b1c7f509a85Cc301E76",
+      "symbol": "SER",
+      "name": "SerRoom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11229,
-    "minor": 11229,
+    "major": 11230,
+    "minor": 11230,
     "patch": 85
   }
 }
