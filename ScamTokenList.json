@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbE8Bbf9e7FBd98b723eFEF88280f4Dea3129C276",
-      "symbol": "CUNT",
-      "name": "CUNT",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE208e21FfEB8894231f8729b637b5e98Cd09f876",
       "symbol": "TKD",
       "name": "ToxicKingsDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE8A798eB21846F8bae11F1D7152899aF3d173813",
+      "symbol": "ETHER",
+      "name": "TheEthereumProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11084,
-    "minor": 11084,
+    "major": 11085,
+    "minor": 11085,
     "patch": 85
   }
 }
