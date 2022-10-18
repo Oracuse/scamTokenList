@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeaeCfcC24ad115CbF84A71B5822D9D2cC71153e1",
-      "symbol": "AKITAGOLD",
-      "name": "AkitaGold",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa582B05f01f959F652F43525D036F8d21Df21612",
       "symbol": "DINJA",
       "name": "DINJA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0a62C26c52DEeEdC84e2f38E461a4fdecDAAd420",
+      "symbol": "APT",
+      "name": "Aptos",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11136,
-    "minor": 11136,
+    "major": 11137,
+    "minor": 11137,
     "patch": 85
   }
 }
