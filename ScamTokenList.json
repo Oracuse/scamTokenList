@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x967f665e12C20C0Bf8B425BA304fb36A6D84bA12",
-      "symbol": "PLSCLT",
-      "name": "PulseCult",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcFc0F156eDFfeF62A480D5F6AB013968704fcD26",
       "symbol": "FOM",
       "name": "FlamesofMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x610265e92Cc038DdF83629d7Ca32Ae8564DDa7E7",
+      "symbol": "MUCK",
+      "name": "Muck",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11001,
-    "minor": 11001,
+    "major": 11002,
+    "minor": 11002,
     "patch": 85
   }
 }
