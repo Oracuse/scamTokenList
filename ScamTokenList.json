@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0601BEa80F8e20F101787D895102ca2a44252265",
-      "symbol": "VS",
-      "name": "Vansire",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x672EeD2F060e1141CBB9484f0c9915385118341F",
       "symbol": "NEMESIS",
       "name": "Nemesis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE40F7A0333EC9d868C0D6246a06f02f493E059C0",
+      "symbol": "FEAR",
+      "name": "RasniaFEAR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11113,
-    "minor": 11113,
+    "major": 11114,
+    "minor": 11114,
     "patch": 85
   }
 }
