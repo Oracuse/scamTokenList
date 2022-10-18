@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x47fD83836A4D0f5A761792cED65294b86C913784",
-      "symbol": "PATH",
-      "name": "ThePath",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb1F1B24Bb7c3De73D7b986d0fDBE12e8cE2fF853",
       "symbol": "PTSD",
       "name": "confessions",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28bc9Aeb825d8fDCC6C9961AbAC40De47C52E343",
+      "symbol": "NEON",
+      "name": "NEO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11066,
-    "minor": 11066,
+    "major": 11067,
+    "minor": 11067,
     "patch": 85
   }
 }
