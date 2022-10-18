@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA4fc6a1141Eb77580c4Be6e4B2Ec2Af411ea26C6",
-      "symbol": "DARKDOGE",
-      "name": "DARKDOGE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc2C0a9BFfbe5Cf848775ed96B7668BDC32Fa7d43",
       "symbol": "STAFIRE",
       "name": "Staticfires",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2fc3Cc3989cB6600e7aB8d9fBa99E71178e7061f",
+      "symbol": "CERB",
+      "name": "CerberusInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11119,
-    "minor": 11119,
+    "major": 11120,
+    "minor": 11120,
     "patch": 85
   }
 }
