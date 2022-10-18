@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x84f209D630013c96FA5977ED82B4c30552A8bFDe",
-      "symbol": "SAKURAJIMA",
-      "name": "Sakurajima",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9e98C997C4DC44AebE1A2856FA20b1461627a8e3",
       "symbol": "WHALEPOOL",
       "name": "WhalePool",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e6606A0758D15CC03fdA3A1c19c67b20432534A",
+      "symbol": "CN",
+      "name": "Convexnatalism",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11152,
-    "minor": 11152,
+    "major": 11153,
+    "minor": 11153,
     "patch": 85
   }
 }
