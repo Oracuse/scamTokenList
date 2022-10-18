@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x19f259affad4eaB74Ee306F709044B2c8145f692",
-      "symbol": "3DB",
-      "name": "ThirdDegreeBurn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd62564BEe6D5f593D7C46731f1b81644aB91f4df",
       "symbol": "DINU",
       "name": "DejitaruInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C252f5881ED0b3061879126bDc3AC18007aC232",
+      "symbol": "OLYMPICSINU",
+      "name": "Olympics",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11196,
-    "minor": 11196,
+    "major": 11197,
+    "minor": 11197,
     "patch": 85
   }
 }
