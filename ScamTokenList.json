@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3ed48e6b97153C8B9B2546C9379AD2748f7d69Dc",
-      "symbol": "KITSUNE",
-      "name": "KITSUNEETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcfcb0e9880eD7Be26A52344AcC54b59357801CdD",
       "symbol": "YASAKUNI",
       "name": "Yasukuni",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeb8472B5E875dBBcf3bf88E2b134246B1DF5B48b",
+      "symbol": "OGI",
+      "name": "OlympicGamesInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 10999,
-    "minor": 10999,
+    "major": 11000,
+    "minor": 11000,
     "patch": 85
   }
 }
