@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE019F9B8DE4301b84c1CB246604a396B91f7C773",
-      "symbol": "SAKE",
-      "name": "GENSHINSAKE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6FF4425f306f21556176e62180a4f1950cB4C737",
       "symbol": "AYYLMAO",
       "name": "AYYLMAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x424F13EC11FD912B4987f9F75a86CD676f007A26",
+      "symbol": "CAL",
+      "name": "Callisto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11231,
-    "minor": 11231,
+    "major": 11232,
+    "minor": 11232,
     "patch": 85
   }
 }
