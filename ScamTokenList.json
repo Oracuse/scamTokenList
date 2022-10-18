@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x52dA5462c2a2d59339aBB419a4aF9E01c3cC2e45",
-      "symbol": "SHHHH",
-      "name": "Whispers",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4527113BC2F00d7dFb275d1a61617638276547aC",
       "symbol": "MATRIXINU",
       "name": "MatrixInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b030EDE570E89CB565c3A1CFFc150983331fc34",
+      "symbol": "PROTOCOL",
+      "name": "Protocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11235,
-    "minor": 11235,
+    "major": 11236,
+    "minor": 11236,
     "patch": 85
   }
 }
