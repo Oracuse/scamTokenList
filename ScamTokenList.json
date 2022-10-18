@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x59a5Dd498915D6727f3f18a6c066FEa654fe3F32",
-      "symbol": "WOJAG",
-      "name": "WOJAKGOLD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x02259ee03Cd10c91C5D0c82E30d8b3E63431e415",
       "symbol": "FLOKIPAL",
       "name": "FlokiPal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC8C2195B08b966E7CFdE5cdB4B68c8cD138BAaa2",
+      "symbol": "PEPE20",
+      "name": "PepeMeetsWojak",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11170,
-    "minor": 11170,
+    "major": 11171,
+    "minor": 11171,
     "patch": 85
   }
 }
