@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbbD0Eb051eA39d19406EEc9E7ea39167e9a3494D",
-      "symbol": "KAMI",
-      "name": "WayofKami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8c82ea5ec92E56D2234C3F4B65994Bf960575348",
       "symbol": "SUTIKKI",
       "name": "Seishintekini",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd51A07620986515AEcEC2C88a15Ac693E02Cb6b1",
+      "symbol": "BFOLD",
+      "name": "BabyManifold",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11285,
-    "minor": 11285,
+    "major": 11286,
+    "minor": 11286,
     "patch": 85
   }
 }
