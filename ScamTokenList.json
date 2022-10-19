@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB7C0983885241dB097867EDD06Cb4b123f8478cC",
-      "symbol": "KAIDOU",
-      "name": "KaidouInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x56f2b4e5Abb2BeEA9C89eD73f7E33A34Ebf7a8AB",
       "symbol": "RTP",
       "name": "RatTrap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7eda33DE160e76D7E34AF4d7503A8ef0f53629B",
+      "symbol": "BULLSHIT",
+      "name": "BullishShitcoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11261,
-    "minor": 11261,
+    "major": 11262,
+    "minor": 11262,
     "patch": 85
   }
 }
