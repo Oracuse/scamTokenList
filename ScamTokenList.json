@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17690Cf16a8Bb4a4E7a0ba50736903f8149C2Ed4",
-      "symbol": "UTAGAWA",
-      "name": "UtagawaKuniyoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x790a4E018c4aF82203E42D484b505Eaa326c43B9",
       "symbol": "CODEMASTER",
       "name": "Dev4Hire",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD494bDFdD683829f4f2A0F72acC54d5e0F6e136F",
+      "symbol": "TD",
+      "name": "TheDoc",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11410,
-    "minor": 11410,
+    "major": 11411,
+    "minor": 11411,
     "patch": 85
   }
 }
