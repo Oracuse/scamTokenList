@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x29D2479F2a35d564173f604C8Aa0a6673515a893",
-      "symbol": "KIMUTAKU",
-      "name": "Kimutaku",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcC513FF8a4B1eAa4601C49e2242Ef3369D31A78f",
       "symbol": "EAGLE",
       "name": "EagleCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe6Cb53caB30F176c8fbfbE8b85C9cb4680D81f8A",
+      "symbol": "WEN",
+      "name": "BULL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11362,
-    "minor": 11362,
+    "major": 11363,
+    "minor": 11363,
     "patch": 85
   }
 }
