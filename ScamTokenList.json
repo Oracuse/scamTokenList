@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc93627CAf615F5C7f94Dc5c191e2Fc61A3D8982B",
-      "symbol": "ISSH",
-      "name": "ISSHermes",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x332F0e39f414870FAF22Acce83E49d55517F899A",
       "symbol": "TEST",
       "name": "Test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f22a794E32455A0CBC551CA25d777874A521D66",
+      "symbol": "PRINT",
+      "name": "ProofOfPrinter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11344,
-    "minor": 11344,
+    "major": 11345,
+    "minor": 11345,
     "patch": 85
   }
 }
