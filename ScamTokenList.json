@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdb6A0a1a6EF4DCe09f2ACcEd43f18Aee42C18F02",
-      "symbol": "CHRYSEOS",
-      "name": "Chryseos",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDd28826aDbc458d7730E91AC82bAd426C5828291",
       "symbol": "CHS",
       "name": "Chryseos",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09d9491fc9A5ec0E1ECb6bD4F41622C01548fb83",
+      "symbol": "VINU",
+      "name": "VOXINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11450,
-    "minor": 11450,
+    "major": 11451,
+    "minor": 11451,
     "patch": 85
   }
 }
