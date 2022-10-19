@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xabC995b508f2F37b9f88FE5436A7baB048406E7e",
-      "symbol": "ANBU",
-      "name": "AnbuDao",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFCe291AEE08f9fE3504787a1Ff7580caB16D5959",
       "symbol": "HIME",
       "name": "Toyotamahime",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65755C354fc8d5f601d192Eb3585E76D453ed0FD",
+      "symbol": "SCORE",
+      "name": "Score",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11321,
-    "minor": 11321,
+    "major": 11322,
+    "minor": 11322,
     "patch": 85
   }
 }
