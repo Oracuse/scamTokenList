@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x04bB80FfF0F91623FEF2f57971E86Ba41d0dDdfE",
-      "symbol": "BLACKF",
-      "name": "BlackFoloki",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD41E22adE1753376651d6cd1aA1C7FD741Fab88C",
       "symbol": "TETERA",
       "name": "TeteraInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9eFFd4520B8b617A04304bF81343921FAF35E268",
+      "symbol": "SWINGN",
+      "name": "SwingInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11400,
-    "minor": 11400,
+    "major": 11401,
+    "minor": 11401,
     "patch": 85
   }
 }
