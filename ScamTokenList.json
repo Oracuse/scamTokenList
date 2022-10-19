@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x632eB2F15ea3D577B8F011334eA15C1999885038",
-      "symbol": "BDLOL",
-      "name": "BabyDuck",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc361b3c88a725AE255b42c7c36E7D90C9e1013f7",
       "symbol": "NINJAZ",
       "name": "Ninjaz",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09441eF9F713866A76b861dBe6042235D299bF0e",
+      "symbol": "A",
+      "name": "ATOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11406,
-    "minor": 11406,
+    "major": 11407,
+    "minor": 11407,
     "patch": 85
   }
 }
