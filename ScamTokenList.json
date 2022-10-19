@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbb661407415CCdE9B63fD1D0Ff1DD34D4cE011B2",
-      "symbol": "END",
-      "name": "Cataclysm",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc93627CAf615F5C7f94Dc5c191e2Fc61A3D8982B",
       "symbol": "ISSH",
       "name": "ISSHermes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bc2028C026E7eDA72af52537A60190c8069F0Bf",
+      "symbol": "PLI",
+      "name": "PremierLeagueInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11343,
-    "minor": 11343,
+    "major": 11344,
+    "minor": 11344,
     "patch": 85
   }
 }
