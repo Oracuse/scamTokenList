@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9d054489e4E254BC65d862e9A1544661f4E10b00",
-      "symbol": "SHOGUN",
-      "name": "SeiiTaishogun",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x43b1dc35Ec0Fe8247d80a056de5ae1e1726B4F01",
       "symbol": "DC",
       "name": "Dogechain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC55DdecC0A9609Af0B86A917Da5aa1C09aB3bB0F",
+      "symbol": "MUSTPROTOCOL",
+      "name": "MustHaveProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11503,
-    "minor": 11503,
+    "major": 11504,
+    "minor": 11504,
     "patch": 85
   }
 }
