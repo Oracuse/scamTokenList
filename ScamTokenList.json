@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3798704AC88863E5d122092A1C6bc8cFeD7E167d",
-      "symbol": "WHITEINU",
-      "name": "WhiteInuETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6f85A4cB60F31a3E6A9f9861111baBB7Ef569d81",
       "symbol": "FRUITS",
       "name": "FruitsofRyoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e9f4e9EDEA00d1453491cfdC46b8299f4fD4ea5",
+      "symbol": "X",
+      "name": "X",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11480,
-    "minor": 11480,
+    "major": 11481,
+    "minor": 11481,
     "patch": 85
   }
 }
