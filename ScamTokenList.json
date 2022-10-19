@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3ed84f5fb3dA8AB3a57a6114Ca0c31DD5C6dC619",
-      "symbol": "METH",
-      "name": "EthereumMetaverse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x83F6D74c00E30335d6B3ee7aAC960a481C16a9e6",
       "symbol": "LEDGE",
       "name": "Ledge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a17AE9eA57b4A83F13100B09452930f8D44fa69",
+      "symbol": "MIRROROFMATSUYAMA",
+      "name": "MirrorOfMatsuyama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11280,
-    "minor": 11280,
+    "major": 11281,
+    "minor": 11281,
     "patch": 85
   }
 }
