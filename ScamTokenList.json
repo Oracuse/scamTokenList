@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2E9eE00F786c4D94368a93755BaebCe158A79F38",
-      "symbol": "PLSC",
-      "name": "PULSECULT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0D86fCa8dFc1Dc72D85ff7d9173956EEC6bbb51A",
       "symbol": "ASTRO",
       "name": "ASTROBOLIC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbBb1A3d59838F5e4F53603F2A4aea1880fEE0f7e",
+      "symbol": "FI",
+      "name": "Formula1Inu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11299,
-    "minor": 11299,
+    "major": 11300,
+    "minor": 11300,
     "patch": 85
   }
 }
