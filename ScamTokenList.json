@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdc69be117aa3d0753509C75bCED617DcCd6F1272",
-      "symbol": "NAKANOINU",
-      "name": "OnnaMushaTatakai",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3798704AC88863E5d122092A1C6bc8cFeD7E167d",
       "symbol": "WHITEINU",
       "name": "WhiteInuETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x912950A0eB847F34e3bA9BFe50779e6B0a58cb8e",
+      "symbol": "IDEAL",
+      "name": "IdealProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11479,
-    "minor": 11479,
+    "major": 11480,
+    "minor": 11480,
     "patch": 85
   }
 }
