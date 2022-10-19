@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5A546d227544D7f563D9d6ecF4d25bce7158179",
-      "symbol": "LUNCH",
-      "name": "Lunch",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x632eB2F15ea3D577B8F011334eA15C1999885038",
       "symbol": "BDLOL",
       "name": "BabyDuck",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e40B5F470d008B369E43Bae7701EAA50aa0637f",
+      "symbol": "TBP",
+      "name": "TheBurnProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11405,
-    "minor": 11405,
+    "major": 11406,
+    "minor": 11406,
     "patch": 85
   }
 }
