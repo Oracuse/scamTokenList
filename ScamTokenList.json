@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x426bCd937a1a99B3e69C67030Ba5Fd39296cd516",
-      "symbol": "TEHBANK",
-      "name": "TEHBANK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3DA4be7688d225bEA8648b49302aF7EF56441A86",
       "symbol": "VOTI",
       "name": "VotiDao",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16d2880E0747C7021369590b6A9059cE04B1Cb16",
+      "symbol": "HIM",
+      "name": "HIM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11316,
-    "minor": 11316,
+    "major": 11317,
+    "minor": 11317,
     "patch": 85
   }
 }
