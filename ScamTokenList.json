@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaFD91D3a220996c046Bc44C5a629815B3315e58C",
-      "symbol": "ABPE",
-      "name": "ARABIANAPE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a30Ffb0001EF8872a10bE9e807E212714bF996b",
       "symbol": "THESECRETS",
       "name": "TheSecrets",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3420Ff729BDB55AC52DD5Bbb509534E59d52E2b6",
+      "symbol": "DEN",
+      "name": "Mushi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11244,
-    "minor": 11244,
+    "major": 11245,
+    "minor": 11245,
     "patch": 85
   }
 }
