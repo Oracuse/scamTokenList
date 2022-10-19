@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x58382dcb560e3331F0aec614FEc7E3Ec2ED29DBA",
-      "symbol": "PRISM",
-      "name": "DECOMPRESSEDPRISM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB7C0983885241dB097867EDD06Cb4b123f8478cC",
       "symbol": "KAIDOU",
       "name": "KaidouInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1a5BBDe4BFd51A08c2a69b32Bf845DCa598B0BC",
+      "symbol": "AN",
+      "name": "KomdeAn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11260,
-    "minor": 11260,
+    "major": 11261,
+    "minor": 11261,
     "patch": 85
   }
 }
