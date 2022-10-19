@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x94181C4A12EB1F66D29A37B6a3d310E8262d1168",
-      "symbol": "ST00L",
-      "name": "ST00L",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7b74d47D2d8D1c5aEbcC557F6d4f7F89343d6983",
       "symbol": "AYM",
       "name": "Alchymia",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97B3fd8ca048C91B792f61C5146cE5e15492a584",
+      "symbol": "EG",
+      "name": "ExempliGratia",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11484,
-    "minor": 11484,
+    "major": 11485,
+    "minor": 11485,
     "patch": 85
   }
 }
