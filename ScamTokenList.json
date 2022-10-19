@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x838D3f2E56E0A5e3a8d5BF379B822D1D1b28D84d",
-      "symbol": "PTSD",
-      "name": "PTSD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC24E73b8b1C3b2882ADE040C05D5dAAC63Ee1545",
       "symbol": "SHAMONA",
       "name": "Shamona",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d9A844889d6AA4Ef7Ff96F29c66617700304C41",
+      "symbol": "BYE",
+      "name": "bye",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11294,
-    "minor": 11294,
+    "major": 11295,
+    "minor": 11295,
     "patch": 85
   }
 }
