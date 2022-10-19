@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x959b73cbc3C7cb5b2F21ad43b8e62a69446Cf87C",
-      "symbol": "CORSA20",
-      "name": "CORSA20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3F682D8db405987D81DeE7b6541bBeD1B1c05dBB",
       "symbol": "FUJIN",
       "name": "KazeNoKami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2368AD212c70F355691dfae2fADa333FC968A72D",
+      "symbol": "METRICATOR",
+      "name": "MetricatorProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11373,
-    "minor": 11373,
+    "major": 11374,
+    "minor": 11374,
     "patch": 85
   }
 }
