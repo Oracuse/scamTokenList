@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0C4A4C089516fe3a630Edb090Bf1434F1aFbe157",
-      "symbol": "SLAY",
-      "name": "Ichneumon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2F137249CA719C66FfAA9Cd761E40f00f915Cf04",
       "symbol": "SUGOI",
       "name": "DejitaruSugoi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd95510D4b4B3AE83c3ACEa48DcEA25b5919C2398",
+      "symbol": "THIS",
+      "name": "ThisisFine",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11287,
-    "minor": 11287,
+    "major": 11288,
+    "minor": 11288,
     "patch": 85
   }
 }
