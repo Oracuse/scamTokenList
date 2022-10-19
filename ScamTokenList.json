@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe1089004348b3236cE7706bD889ec177a4EF49dB",
-      "symbol": "JINLONG",
-      "name": "GoldenTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdb6A0a1a6EF4DCe09f2ACcEd43f18Aee42C18F02",
       "symbol": "CHRYSEOS",
       "name": "Chryseos",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D6405138A335cE5FD7364086334EfB3E4F28B59",
+      "symbol": "CCX",
+      "name": "ClearCryptos",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11449,
-    "minor": 11449,
+    "major": 11450,
+    "minor": 11450,
     "patch": 85
   }
 }
