@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x127b8BB60e798D3FA0896C9df95bE5036e4B8f27",
-      "symbol": "CHZA",
-      "name": "Chilzia",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x695cfaf6fEB489C561b33A5cD7EF97f41CC3f165",
       "symbol": "INUYA",
       "name": "InuYasha",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b8994b3E4581d79Ca07Cf6b58C63Ea7fF22d4A6",
+      "symbol": "THECOMPOUND",
+      "name": "THECompoundProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11369,
-    "minor": 11369,
+    "major": 11370,
+    "minor": 11370,
     "patch": 85
   }
 }
