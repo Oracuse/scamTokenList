@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x20bc91cc569E379E9A9732d051cB8b3a4E255a46",
-      "symbol": "KODACHI",
-      "name": "Kodachi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x785eBe1F20F638ed98D30a6dfe4D31B5Db64FEf4",
       "symbol": "SINU",
       "name": "StandupInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F01bED8E11e82c58202BA17c4CD34da6633797A",
+      "symbol": "BIRB",
+      "name": "BirbProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11491,
-    "minor": 11491,
+    "major": 11492,
+    "minor": 11492,
     "patch": 85
   }
 }
