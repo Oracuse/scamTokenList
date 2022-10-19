@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x02271c8E029Ad0D11A6A19535d14186eBF31D6c5",
-      "symbol": "ARIEAS",
-      "name": "Arieas",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd57E75E454471BEF3F5D32b4e8087f9ed9534C59",
       "symbol": "MARCCLACASTO",
       "name": "Marcclacasto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9900A93dB7c0b37Df537795823F082F72870Ca60",
+      "symbol": "DITTO",
+      "name": "DittoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11386,
-    "minor": 11386,
+    "major": 11387,
+    "minor": 11387,
     "patch": 85
   }
 }
