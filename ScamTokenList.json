@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x83F6D74c00E30335d6B3ee7aAC960a481C16a9e6",
-      "symbol": "LEDGE",
-      "name": "Ledge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA6AbCFD9c5718CEbd087CA3Bd026974887eD777F",
       "symbol": "PEPES",
       "name": "PepeSilver",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B051b36d4055fa45b5AF7817d7C7C29d264ccb2",
+      "symbol": "THEPAW",
+      "name": "ThePawtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11281,
-    "minor": 11281,
+    "major": 11282,
+    "minor": 11282,
     "patch": 85
   }
 }
