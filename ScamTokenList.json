@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd0f3CeD93e83094f28002bA55CD866eCA07f98bc",
-      "symbol": "TEST",
-      "name": "Test",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfD9D31FC7DCf5B0a0436caBE918aFE8625B85106",
       "symbol": "BLACKDOG",
       "name": "BLACKDOG",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x238683D96E069B54C98b79F5e9Bac7C25440Fc63",
+      "symbol": "OSFE",
+      "name": "OSFEdition",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11347,
-    "minor": 11347,
+    "major": 11348,
+    "minor": 11348,
     "patch": 85
   }
 }
