@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8C7E82AeE6dc335734f5A59cF1B20031fB09A0b4",
-      "symbol": "CHS",
-      "name": "Chryseos",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x03A943080c4485C94Db9B5F421F0Fd2D1d66cE09",
       "symbol": "SUZUCHAIN",
       "name": "SuzumeChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x577b0E485537183deae095bcE1259eAe855990BA",
+      "symbol": "LYD",
+      "name": "LetYouDown",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11445,
-    "minor": 11445,
+    "major": 11446,
+    "minor": 11446,
     "patch": 85
   }
 }
