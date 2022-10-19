@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4292538dB1F7eE4447Ef0aE701df80511fF23744",
-      "symbol": "FLOWL",
-      "name": "FLOW",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc39Ea885eF8645425D3b6d0388399a1EDAA9Fc72",
       "symbol": "A380",
       "name": "DEEPSKYPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1fe7ff2B44805DFeB0A278d4154b5eBD7cd3E597",
+      "symbol": "MEMEZ",
+      "name": "TheMemeCorp",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11434,
-    "minor": 11434,
+    "major": 11435,
+    "minor": 11435,
     "patch": 85
   }
 }
