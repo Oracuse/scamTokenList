@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5432A1c6f7E41b60637F414a33d2F4B58a4B7A93",
-      "symbol": "CAFE",
-      "name": "CafeShop",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd751Cf4D2aB314Df497C785E6F05407352bAe294",
       "symbol": "PHEONIX",
       "name": "PhoenixInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC796220BeF5Fdd6BA27b8a9Aa6fd293507430350",
+      "symbol": "THEPP",
+      "name": "THEPonziverseProtoc",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11307,
-    "minor": 11307,
+    "major": 11308,
+    "minor": 11308,
     "patch": 85
   }
 }
