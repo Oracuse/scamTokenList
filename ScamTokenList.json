@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCa65d3ca8b693E5563D17b7ec647412A5C016f10",
-      "symbol": "LVMH",
-      "name": "LVMHMetaverse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x956b01761F6f3a4F78E54f2F030B871546F5fd0c",
       "symbol": "HORUS",
       "name": "EyeOfHorus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD4b2E61c4B82Fe89EAEc4F25D0cC84EdcFFA4D44",
+      "symbol": "THOSE",
+      "name": "Those",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11505,
-    "minor": 11505,
+    "major": 11506,
+    "minor": 11506,
     "patch": 85
   }
 }
