@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfD9D31FC7DCf5B0a0436caBE918aFE8625B85106",
-      "symbol": "BLACKDOG",
-      "name": "BLACKDOG",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x67A87416934A3EEfFaF141A4AbCF1A5c9078De2f",
       "symbol": "WAGMI",
       "name": "Wagmi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc9e426F77FFa3d1D558f8e6D7d092E7804AE7E8",
+      "symbol": "QTR",
+      "name": "Qatar",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11348,
-    "minor": 11348,
+    "major": 11349,
+    "minor": 11349,
     "patch": 85
   }
 }
