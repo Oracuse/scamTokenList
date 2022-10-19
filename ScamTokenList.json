@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA6AbCFD9c5718CEbd087CA3Bd026974887eD777F",
-      "symbol": "PEPES",
-      "name": "PepeSilver",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62A2751A289D9BC8Cd972c554BA1D3E5D279BFb4",
       "symbol": "LARP",
       "name": "THELARP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9aD3FA29c3a3d4aD0106668e9aC28268B7e193a2",
+      "symbol": "CRAPTOSLABS",
+      "name": "CraptosLabs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11282,
-    "minor": 11282,
+    "major": 11283,
+    "minor": 11283,
     "patch": 85
   }
 }
