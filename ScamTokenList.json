@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Fd4deDc1E634D864059137b692484e63d08f602",
-      "symbol": "X7",
-      "name": "X7Protocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04bB80FfF0F91623FEF2f57971E86Ba41d0dDdfE",
       "symbol": "BLACKF",
       "name": "BlackFoloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x476697405C393Fed1CD4c35eDd52fF32211153E1",
+      "symbol": "WE",
+      "name": "DAPUMP",
+      "decimals": 3,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11399,
-    "minor": 11399,
+    "major": 11400,
+    "minor": 11400,
     "patch": 85
   }
 }
