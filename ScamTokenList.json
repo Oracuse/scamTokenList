@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF7648CdA85fc236dccBFe190619853CabBD6E4fb",
-      "symbol": "INU",
-      "name": "SinperInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3BdcFc0B58995AF0C955A48FDe3D50bf679181ab",
       "symbol": "ADVERSANT",
       "name": "Adversant",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x395f4e2C8066bb06e4eC318b278af5660D6a5B62",
+      "symbol": "BKANEKI",
+      "name": "BabyKanekiKen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11428,
-    "minor": 11428,
+    "major": 11429,
+    "minor": 11429,
     "patch": 85
   }
 }
