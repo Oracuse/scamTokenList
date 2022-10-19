@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6715e1F7232aFDEB4A03c947A4343a1B51D38F6d",
-      "symbol": "GSPOT",
-      "name": "TheClimax",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd5d41F53290fd3AdC8ade17725C95a92d90AF75e",
       "symbol": "WHINU",
       "name": "WHITEINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44C66332cfe31aC6ED862a3Ec0F98BCfe96B0aE0",
+      "symbol": "EXODUS",
+      "name": "ExodusProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11474,
-    "minor": 11474,
+    "major": 11475,
+    "minor": 11475,
     "patch": 85
   }
 }
