@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE5C2E89ceB4D42396c6E21a49C555b24262d32d8",
-      "symbol": "IHSOYR",
-      "name": "PulseRyoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x68757fa29aff773DbB33168F590BBBD8B3b110A5",
       "symbol": "21INU",
       "name": "BlackjackInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5C5f737E7BdF6c526499b7a1FA84f470fcb0720",
+      "symbol": "THP",
+      "name": "TransHookProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11360,
-    "minor": 11360,
+    "major": 11361,
+    "minor": 11361,
     "patch": 85
   }
 }
