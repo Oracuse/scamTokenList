@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB17fD9486D85210716C21C2D97A9B9Fbb22B5D6B",
-      "symbol": "INCYC",
-      "name": "InCycle",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0054B2Ba6BC983579ad5b2D76257ef821eBa1a6f",
       "symbol": "ALCHEMY",
       "name": "Alchemy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB21cb33ACbaA905D0894f9eCd729453fF0FACD69",
+      "symbol": "FYP",
+      "name": "ForyourProtocal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11380,
-    "minor": 11380,
+    "major": 11381,
+    "minor": 11381,
     "patch": 85
   }
 }
