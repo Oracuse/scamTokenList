@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25E7CE7151A59329826B9AbDcdD2F4802ceFa60a",
-      "symbol": "CHAD",
-      "name": "CHAD",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8926f164B991Bc6BA2E1Da9f1ae182F5b6712005",
       "symbol": "SHIKUME",
       "name": "Shikume",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0FE4113a27464C78D91d7c4f00D4E2Fc25832d5B",
+      "symbol": "REDCARD",
+      "name": "FIFAREDCARD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11340,
-    "minor": 11340,
+    "major": 11341,
+    "minor": 11341,
     "patch": 85
   }
 }
