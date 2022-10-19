@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4d3Ff43d82ba14F7D021fC036c3aa248126a5d4c",
-      "symbol": "THIRST",
-      "name": "Thirsty",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfab4e112F2e328D4c537553DDDa52687A7A06085",
       "symbol": "FSN",
       "name": "Fusion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E55c93D22E7aC27C22A7aB38553c643da96319E",
+      "symbol": "VINU",
+      "name": "VitalikInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11420,
-    "minor": 11420,
+    "major": 11421,
+    "minor": 11421,
     "patch": 85
   }
 }
