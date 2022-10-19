@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x315962B0dB9C0123aA31FeAEf0997C6059FD5e89",
-      "symbol": "KIZUKI",
-      "name": "KIZUKI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x845A83bC42123888f5E18B8dD2182459c46FFd80",
       "symbol": "MOW",
       "name": "ManOWar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f5a03948f51723aA7bc1EE8d4D4b19D9767F29D",
+      "symbol": "PERFUME",
+      "name": "PerfumeSalesman",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11441,
-    "minor": 11441,
+    "major": 11442,
+    "minor": 11442,
     "patch": 85
   }
 }
