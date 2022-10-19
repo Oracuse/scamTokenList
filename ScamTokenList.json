@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF6023b53d7e10effE8cA16B06D9345bAcbFA3d3C",
-      "symbol": "DC",
-      "name": "Dogechain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69f935373799495468d2c67fCbD7940B3fc1a287",
       "symbol": "SUZUMEC",
       "name": "SuzumeChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdf8AFE1504842526488C8C140f77c27a9FbdBb6b",
+      "symbol": "POY",
+      "name": "ProofofYield",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11431,
-    "minor": 11431,
+    "major": 11432,
+    "minor": 11432,
     "patch": 85
   }
 }
