@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x13cf14528c41dBd8E1A02E32d43Ac8625B781443",
-      "symbol": "LAMA",
-      "name": "Llamascape",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80e5C91C6bfFb6A58628163280476A66a4B0e0A4",
       "symbol": "WALLY",
       "name": "Wallace",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7df90a3922EFc1090A53E386801a84d252D38eE2",
+      "symbol": "FRINU",
+      "name": "FrankensteinInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11257,
-    "minor": 11257,
+    "major": 11258,
+    "minor": 11258,
     "patch": 85
   }
 }
