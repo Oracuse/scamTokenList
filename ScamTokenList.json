@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3DA4be7688d225bEA8648b49302aF7EF56441A86",
-      "symbol": "VOTI",
-      "name": "VotiDao",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB715B572df384C3AFcEb692B7a23107b1f92F0AD",
       "symbol": "MURAKAMI",
       "name": "TakashiMurakami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9fC102b939DDa588f567bB7f6Bd02AceAFA15FbC",
+      "symbol": "MANAKO",
+      "name": "TheEye",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11317,
-    "minor": 11317,
+    "major": 11318,
+    "minor": 11318,
     "patch": 85
   }
 }
