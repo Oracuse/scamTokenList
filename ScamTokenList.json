@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6dFFdf32CB95caba587572CE592Dd403c1d8f6D8",
-      "symbol": "DLTR",
-      "name": "Deltritus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x259000f1a3C6224675Ffb3ecAB0C060c1ebB65d7",
       "symbol": "TEREBI",
       "name": "DejitaruTerebi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB289c320F25FD12BaD5b1c71d7b51CA9832bAB41",
+      "symbol": "GHOST",
+      "name": "GHOST",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11465,
-    "minor": 11465,
+    "major": 11466,
+    "minor": 11466,
     "patch": 85
   }
 }
