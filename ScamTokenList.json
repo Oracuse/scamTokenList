@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x259000f1a3C6224675Ffb3ecAB0C060c1ebB65d7",
-      "symbol": "TEREBI",
-      "name": "DejitaruTerebi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x099f6BEc86cf0a77973F5120941C2E1d6Aca6A1a",
       "symbol": "COIT",
       "name": "Coituous",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B98815643ceFF1eB401B8a0305CaFfb23950e2A",
+      "symbol": "COPE",
+      "name": "COPIUM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11466,
-    "minor": 11466,
+    "major": 11467,
+    "minor": 11467,
     "patch": 85
   }
 }
