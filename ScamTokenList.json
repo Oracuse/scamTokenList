@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x74628a96cdDa9Ee5b4472B1AF7Ec03fEFD902fc2",
-      "symbol": "HAOCHIBAINU",
-      "name": "HAOCHIBAINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x959b73cbc3C7cb5b2F21ad43b8e62a69446Cf87C",
       "symbol": "CORSA20",
       "name": "CORSA20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5aFeE17cB9884809aafB20eC949cb17379134c6",
+      "symbol": "SHEN",
+      "name": "ShibaEnjin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11372,
-    "minor": 11372,
+    "major": 11373,
+    "minor": 11373,
     "patch": 85
   }
 }
