@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe587A5728fc59FF7251C514d034741FD82f7f14a",
-      "symbol": "BULL",
-      "name": "BULLTRAP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF75d2037640627Cd87AD2721eb9aE7bd3bA6F7FD",
       "symbol": "CANTO",
       "name": "Canto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A020c3f78350D27c8F38cA5B5E69263d37aBA9F",
+      "symbol": "VITOSHI",
+      "name": "TheFinalProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11357,
-    "minor": 11357,
+    "major": 11358,
+    "minor": 11358,
     "patch": 85
   }
 }
