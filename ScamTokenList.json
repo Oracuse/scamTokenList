@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x16F7767A800EAbD16E334e88683D8d0489C8dDBF",
-      "symbol": "M510",
-      "name": "12Monkeys",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd0f3CeD93e83094f28002bA55CD866eCA07f98bc",
       "symbol": "TEST",
       "name": "Test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa787c3eA8daB1160e8c0A2854094C460e61a238f",
+      "symbol": "POA20",
+      "name": "ProofOfApes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11346,
-    "minor": 11346,
+    "major": 11347,
+    "minor": 11347,
     "patch": 85
   }
 }
