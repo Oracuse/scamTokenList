@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x257E2D60B234aA08CE9c0DFFeb8e123DBa59CF8a",
-      "symbol": "DWAC",
-      "name": "DogeWithAChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdc69be117aa3d0753509C75bCED617DcCd6F1272",
       "symbol": "NAKANOINU",
       "name": "OnnaMushaTatakai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbe95351bDdFd2c4260957F3571cA367E0824bb8B",
+      "symbol": "MEVREFUND",
+      "name": "MEVrefund",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11478,
-    "minor": 11478,
+    "major": 11479,
+    "minor": 11479,
     "patch": 85
   }
 }
