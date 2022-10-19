@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE216bF84afff4b29D8F4AEFf301fc7473E3d368c",
-      "symbol": "NINJAZ",
-      "name": "Ninjaz",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5514ef825310c76C2449E23a3d5F1305b7bfa115",
       "symbol": "ZKS",
       "name": "zkSyncio",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d7e64624F009AD2F566D67f6d59E4b6BA15c856",
+      "symbol": "DEGEN",
+      "name": "ADegensChart",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11423,
-    "minor": 11423,
+    "major": 11424,
+    "minor": 11424,
     "patch": 85
   }
 }
