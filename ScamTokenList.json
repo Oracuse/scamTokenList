@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x912b750cC32CCA8A39F0B7a1245d5e1dccFaCd4B",
-      "symbol": "DREGEN",
-      "name": "THEONLYDREGEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x127b8BB60e798D3FA0896C9df95bE5036e4B8f27",
       "symbol": "CHZA",
       "name": "Chilzia",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4961F78d0287Ec69A91237F932C4bCc1e58b4A95",
+      "symbol": "AP",
+      "name": "ApesProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11368,
-    "minor": 11368,
+    "major": 11369,
+    "minor": 11369,
     "patch": 85
   }
 }
