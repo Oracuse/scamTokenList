@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAbAcD06B63fb41937eC38632c7eA1999a982bb68",
-      "symbol": "BULLDAO",
-      "name": "BULLDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17B8F34F493bf71c9C134848d4f2C9337B66b7b6",
       "symbol": "RTP",
       "name": "RatTrap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD714cb300B87129128754926B07045C3f6a478eB",
+      "symbol": "SENOR",
+      "name": "SenorHulkInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11277,
-    "minor": 11277,
+    "major": 11278,
+    "minor": 11278,
     "patch": 85
   }
 }
