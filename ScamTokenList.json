@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3A7B59f89FcE42F44eDF4F351Cdc8CE382E32C5f",
-      "symbol": "NINJAZ",
-      "name": "Ninjaz",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x315962B0dB9C0123aA31FeAEf0997C6059FD5e89",
       "symbol": "KIZUKI",
       "name": "KIZUKI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE4DD6308d34183477344C1Ce004180058F85B943",
+      "symbol": "SPOOK",
+      "name": "SpookProtocol",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11440,
-    "minor": 11440,
+    "major": 11441,
+    "minor": 11441,
     "patch": 85
   }
 }
