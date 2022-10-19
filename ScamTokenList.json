@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa9f9aCB92E4E2f16410511D56839A5Bd1d630a60",
-      "symbol": "BLOCKE",
-      "name": "BLOCKE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90154A2A91C523e1C84C684116c30120A387B450",
       "symbol": "TENNO",
       "name": "TheEmperor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a04b57eC3100afB8baCB92773C8f21E7970a8c9",
+      "symbol": "APT",
+      "name": "Aptos",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11337,
-    "minor": 11337,
+    "major": 11338,
+    "minor": 11338,
     "patch": 85
   }
 }
