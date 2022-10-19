@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbe6f76466C44CF50e4a9c1046dA742179c143c3e",
-      "symbol": "SUMOMO",
-      "name": "SUMOMOINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeEc75C36b6F8DBC007b1FCc4810Aa43AbB602A1c",
       "symbol": "GLOW",
       "name": "Flare",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x838449E5EECa25EC085294Bc7c08941387b769B1",
+      "symbol": "TDT",
+      "name": "TheDragonTyrant",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11255,
-    "minor": 11255,
+    "major": 11256,
+    "minor": 11256,
     "patch": 85
   }
 }
