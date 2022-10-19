@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8F9c1152E449c3c8Ec0f35AFD234D0dA43437b6D",
-      "symbol": "TDOGE",
-      "name": "TrueDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1Fe6EaFD4420E3E600df1Ae2Ab5db5a5210cfAa",
       "symbol": "LARP",
       "name": "THELARP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC2e6acb965c95E6e633e581d0279cb6c24a75929",
+      "symbol": "KANEKI",
+      "name": "KanekiKen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11326,
-    "minor": 11326,
+    "major": 11327,
+    "minor": 11327,
     "patch": 85
   }
 }
