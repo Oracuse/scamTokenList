@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x580D5063422Fe81a1A172B8df0B6ca4771f31436",
-      "symbol": "MURI",
-      "name": "MURINFT",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6f1f1ba1E9e26533Cbac7b110a614B0f7815a5b0",
       "symbol": "KIRU",
       "name": "Kinraru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDaFBb3eA5476a20A837895a0FA4261e778c32342",
+      "symbol": "WTHEN",
+      "name": "THENCHAIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11376,
-    "minor": 11376,
+    "major": 11377,
+    "minor": 11377,
     "patch": 85
   }
 }
