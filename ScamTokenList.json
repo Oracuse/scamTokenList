@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBD2aE65BC9c498c4a27c7349B6aFa3C2D7571737",
-      "symbol": "POW",
-      "name": "PowerOverwhelming",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x18921A7698c517E6eA265a2a87C04B6F796e34EF",
       "symbol": "KINTORA",
       "name": "TehGoldenTiger",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00087bB453fF203ECa1afB9a8d2b80fec94083B6",
+      "symbol": "LOD",
+      "name": "LeagueofDegen",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11495,
-    "minor": 11495,
+    "major": 11496,
+    "minor": 11496,
     "patch": 85
   }
 }
