@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x785eBe1F20F638ed98D30a6dfe4D31B5Db64FEf4",
-      "symbol": "SINU",
-      "name": "StandupInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88EBE0af2202B0612b931d28047E9999de7Cafec",
       "symbol": "OMOIKANE",
       "name": "Omoikane",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7FA87D3bd66D126Eb15aBD5553daEADf316C95A",
+      "symbol": "Z",
+      "name": "Z",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11492,
-    "minor": 11492,
+    "major": 11493,
+    "minor": 11493,
     "patch": 85
   }
 }
