@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x18921A7698c517E6eA265a2a87C04B6F796e34EF",
-      "symbol": "KINTORA",
-      "name": "TehGoldenTiger",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb4D7328E7864058c11fF882595267705F111e9BF",
       "symbol": "BRUTE",
       "name": "Force",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8B1aA6d479d8D14004882053e08514CD0c5d5DD",
+      "symbol": "INFLUENCE",
+      "name": "InfluencerInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11496,
-    "minor": 11496,
+    "major": 11497,
+    "minor": 11497,
     "patch": 85
   }
 }
