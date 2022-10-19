@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3d4D62067AC6c877622899d12FC22ccA23fd6Af6",
-      "symbol": "SUZUME",
-      "name": "ShitaKiriSuzume",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1f2FD1EA01e2C8C8Ca20e92b09F5FB20789ED841",
       "symbol": "KODACHI",
       "name": "KodachiToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7bE3dd9Bd61b3Bd5568f1f6E7fa4B35dcA721a8",
+      "symbol": "RISE",
+      "name": "TheRise",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11499,
-    "minor": 11499,
+    "major": 11500,
+    "minor": 11500,
     "patch": 85
   }
 }
