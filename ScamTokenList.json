@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e1D502689A4DA308729A6ab2d899DCE64642c36",
-      "symbol": "NAKANOINU",
-      "name": "OnnaMushaTatakai",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x257E2D60B234aA08CE9c0DFFeb8e123DBa59CF8a",
       "symbol": "DWAC",
       "name": "DogeWithAChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9FeC8421689205216c7ae964eefB9e1C773468fb",
+      "symbol": "BEX",
+      "name": "BabyExampleProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11477,
-    "minor": 11477,
+    "major": 11478,
+    "minor": 11478,
     "patch": 85
   }
 }
