@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67A87416934A3EEfFaF141A4AbCF1A5c9078De2f",
-      "symbol": "WAGMI",
-      "name": "Wagmi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x886591E9699F0Fa1411873997a6d8DF51Af26cab",
       "symbol": "DEVCUM",
       "name": "DevCum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60CAA5260a9b61FAa6f1e0142a66aF8cd8F0AFEa",
+      "symbol": "POLONIEX",
+      "name": "Poloniex",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11349,
-    "minor": 11349,
+    "major": 11350,
+    "minor": 11350,
     "patch": 85
   }
 }
