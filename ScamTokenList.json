@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe6598cD15694945594661A4A3FfDd0052bB665e0",
-      "symbol": "ONI",
-      "name": "UshiOni",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x912b750cC32CCA8A39F0B7a1245d5e1dccFaCd4B",
       "symbol": "DREGEN",
       "name": "THEONLYDREGEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x065e0a3CF48E85E5bD9fffd0638cB93a7a89bB83",
+      "symbol": "PORTAL",
+      "name": "ThePortal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11367,
-    "minor": 11367,
+    "major": 11368,
+    "minor": 11368,
     "patch": 85
   }
 }
