@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd751Cf4D2aB314Df497C785E6F05407352bAe294",
-      "symbol": "PHEONIX",
-      "name": "PhoenixInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfd8d465cb283628425d67EED8d5f7A0498B96c53",
       "symbol": "INUQLO",
       "name": "INUQLO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc291D9Fa50325D4197B22eaf4feA117DbF805eae",
+      "symbol": "A",
+      "name": "AProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11308,
-    "minor": 11308,
+    "major": 11309,
+    "minor": 11309,
     "patch": 85
   }
 }
