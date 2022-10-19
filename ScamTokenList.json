@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE61EBA06F49a6353cC7B97E9700b573f9f03e567",
-      "symbol": "CSHIBA",
-      "name": "ChainShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x977C2F4D14876eDA1dAd9D2eca08044570B80231",
       "symbol": "SYMBOL",
       "name": "Symbology",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD496eDc778B211Ecd30D261395c9ADB79b81fB11",
+      "symbol": "UEFAINU",
+      "name": "UEFAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11290,
-    "minor": 11290,
+    "major": 11291,
+    "minor": 11291,
     "patch": 85
   }
 }
