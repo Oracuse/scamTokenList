@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x69f935373799495468d2c67fCbD7940B3fc1a287",
-      "symbol": "SUZUMEC",
-      "name": "SuzumeChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xee664b7DAe3d0d393Bd70cb702E9c2378AFD2C91",
       "symbol": "SHIBACHAIN",
       "name": "ShibaChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF0083A5e0fD21346624FF9E44Df78d3F8E129464",
+      "symbol": "THEVOX",
+      "name": "TheVoxProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11432,
-    "minor": 11432,
+    "major": 11433,
+    "minor": 11433,
     "patch": 85
   }
 }
