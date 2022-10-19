@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x83D9975F199AAC77A9978933A11079207d8Da2d5",
-      "symbol": "DARE",
-      "name": "TheDare",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5031f0F509bC26e47461234425B2933c065b6209",
       "symbol": "WARD",
       "name": "WardNFT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCD61cfDb7A39e2271D231fa87Ca042abC78F5ad7",
+      "symbol": "1337",
+      "name": "1000XINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11378,
-    "minor": 11378,
+    "major": 11379,
+    "minor": 11379,
     "patch": 85
   }
 }
