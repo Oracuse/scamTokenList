@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8c82ea5ec92E56D2234C3F4B65994Bf960575348",
-      "symbol": "SUTIKKI",
-      "name": "Seishintekini",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0C4A4C089516fe3a630Edb090Bf1434F1aFbe157",
       "symbol": "SLAY",
       "name": "Ichneumon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x657791C40e9213351e786bdF8D8Dfd938A099fc4",
+      "symbol": "WSI",
+      "name": "WorldSeriesInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11286,
-    "minor": 11286,
+    "major": 11287,
+    "minor": 11287,
     "patch": 85
   }
 }
