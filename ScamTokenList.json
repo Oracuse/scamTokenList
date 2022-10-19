@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaF329Ed0B2aB9Df9E1cDF07ADa533d443B037633",
-      "symbol": "DOGEZARD",
-      "name": "DOGEZARD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe9C0eBd4b5229B70e5d5b12AC2DCa6dAE60B10F6",
       "symbol": "DSNIPER",
       "name": "DogeSniper",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2f73E7BF121aFe3FAE24a653D23CE0d14a06bf4",
+      "symbol": "CC",
+      "name": "CryptoCreepers",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11436,
-    "minor": 11436,
+    "major": 11437,
+    "minor": 11437,
     "patch": 85
   }
 }
