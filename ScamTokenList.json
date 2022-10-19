@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcc8e32d4d99E86e0363b2BdAD5C8cafe190bfEAE",
-      "symbol": "MIYOKU",
-      "name": "Miyoku",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0127776396E42E50d47aCBcb4D0a08C63A7B326a",
       "symbol": "CHI",
       "name": "HaCHIFi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7A0e5E300220f7610e9F619aC55aC15c209a59C",
+      "symbol": "TA",
+      "name": "TheAptos",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11383,
-    "minor": 11383,
+    "major": 11384,
+    "minor": 11384,
     "patch": 85
   }
 }
