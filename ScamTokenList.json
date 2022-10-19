@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5c75dfCAD45C9a9FE594Bee5C204f8ADd1b21E9C",
-      "symbol": "PEPO",
-      "name": "PEPEROCK",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x580D5063422Fe81a1A172B8df0B6ca4771f31436",
       "symbol": "MURI",
       "name": "MURINFT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6AE33451163b9f3faeA3D85D0A51c4BfbA423Ed7",
+      "symbol": "BITFINEX20",
+      "name": "bitfinex20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11375,
-    "minor": 11375,
+    "major": 11376,
+    "minor": 11376,
     "patch": 85
   }
 }
