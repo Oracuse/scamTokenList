@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x50d2D3406643bbC668f887AaB833ca88989224cb",
-      "symbol": "HEXS",
-      "name": "HexShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9E46B6C703BA32Ef3c6974b05676BD42587D0Fcf",
       "symbol": "TEHBANK",
       "name": "TehBank",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE94110B7910A42A91F9e09aE7Dce0Ef847a0F365",
+      "symbol": "QOGE",
+      "name": "QatariDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11314,
-    "minor": 11314,
+    "major": 11315,
+    "minor": 11315,
     "patch": 85
   }
 }
