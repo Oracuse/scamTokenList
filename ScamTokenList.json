@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53a759960f18a1976aBEB45b3BA8bC553e4AB93C",
-      "symbol": "TEHBANK",
-      "name": "TEHBANK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x419e2508CD1CbE13C9b86024D421DA2363F34260",
       "symbol": "PARADISE",
       "name": "Paradise",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb57a702f65281E74d048a52FA6ca749aF66682f2",
+      "symbol": "HNTRSS",
+      "name": "TheIdleHuntress",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11311,
-    "minor": 11311,
+    "major": 11312,
+    "minor": 11312,
     "patch": 85
   }
 }
