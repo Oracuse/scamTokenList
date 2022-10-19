@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB0fa30CcC8D5dF63EE1B10D372a20831E45a2D84",
-      "symbol": "SUDOINU",
-      "name": "SudoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x292Dc1478D24C4E2AcAee1F2Bf489a88847476bc",
       "symbol": "YOKAI",
       "name": "Ungaikyo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x639016780453b87421d34169B27d02416A0218e7",
+      "symbol": "DEGENS",
+      "name": "Degenaut",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11247,
-    "minor": 11247,
+    "major": 11248,
+    "minor": 11248,
     "patch": 85
   }
 }
