@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfd8d465cb283628425d67EED8d5f7A0498B96c53",
-      "symbol": "INUQLO",
-      "name": "INUQLO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1bA6859e161887c64f8543C5cfcb1D422cB822A7",
       "symbol": "TEHBANK",
       "name": "TEHBANK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23BdbF7Cfe491e85e1c5bca5647B2E831823aA0E",
+      "symbol": "DRIBBLE",
+      "name": "dribble",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11309,
-    "minor": 11309,
+    "major": 11310,
+    "minor": 11310,
     "patch": 85
   }
 }
