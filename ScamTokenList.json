@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAfA1D146589AaD78A55877d6b7869fFb448e91aA",
-      "symbol": "NEMEA",
-      "name": "NEMEANLION",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2D289985b119C7a336A8fE36FCF7eAcFFC20edba",
       "symbol": "AKUMA",
       "name": "AkumaNoUtage",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d438ebE642700948354C21be472FFC18de725DC",
+      "symbol": "KANEKI",
+      "name": "KanekiKen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11364,
-    "minor": 11364,
+    "major": 11365,
+    "minor": 11365,
     "patch": 85
   }
 }
