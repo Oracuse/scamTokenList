@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8dBDCA2A2b6Bc28273a0FD3Ecd315b9802F54Dc3",
-      "symbol": "DCNTRA",
-      "name": "DECENTRA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEb9e15ef113fe55234c4B40bB039CAe0724bb8B4",
       "symbol": "SPYRO",
       "name": "Spyro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x831d44e7B8fd4f129D39c618CF4893F8279E6870",
+      "symbol": "POD",
+      "name": "ProofofDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11266,
-    "minor": 11266,
+    "major": 11267,
+    "minor": 11267,
     "patch": 85
   }
 }
