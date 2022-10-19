@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1876f7A41741794B9C577265CF0455b4767620D6",
-      "symbol": "ADONAI",
-      "name": "TheHost",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6dFFdf32CB95caba587572CE592Dd403c1d8f6D8",
       "symbol": "DLTR",
       "name": "Deltritus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeCCd2b916d7D209C8884aBaEc59482726Ede8304",
+      "symbol": "BINU",
+      "name": "BoxingInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11464,
-    "minor": 11464,
+    "major": 11465,
+    "minor": 11465,
     "patch": 85
   }
 }
