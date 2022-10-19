@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0D86fCa8dFc1Dc72D85ff7d9173956EEC6bbb51A",
-      "symbol": "ASTRO",
-      "name": "ASTROBOLIC",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x397B3A4A76ebfD44512B6A0240d83D9B6159BcBF",
       "symbol": "JO",
       "name": "JoGurowa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3697b89cf74c3Be7d9CE3935fa94f1b33d715cC2",
+      "symbol": "WEN",
+      "name": "LAMBO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11300,
-    "minor": 11300,
+    "major": 11301,
+    "minor": 11301,
     "patch": 85
   }
 }
