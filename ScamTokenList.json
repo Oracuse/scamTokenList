@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf3d19A0d69A48EC29540427c08959f5bcc956265",
-      "symbol": "SCHINU",
-      "name": "SchrodingerInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x65FeEE29C82aCe9FA63fc574778B4F73ec662929",
       "symbol": "IRONFIST",
       "name": "Tekken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Fa6b1660D6bc6aE80E9e88fAB797cCA027952E9",
+      "symbol": "VYPER",
+      "name": "Vyper",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11707,
-    "minor": 11707,
+    "major": 11708,
+    "minor": 11708,
     "patch": 85
   }
 }
