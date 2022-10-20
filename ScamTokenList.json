@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4466b799DFa49252d35d229F7dC0f5E0031B221A",
-      "symbol": "WERX",
-      "name": "Para",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98822c06c891150b0Cbd29e8d5F50eD47a42b27E",
       "symbol": "NYANCATZ",
       "name": "Nyan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB51F32881c89DF2f58d68B5CF0b27086482ecB31",
+      "symbol": "ASECT",
+      "name": "ANGLESECT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11743,
-    "minor": 11743,
+    "major": 11744,
+    "minor": 11744,
     "patch": 85
   }
 }
