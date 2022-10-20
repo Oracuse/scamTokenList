@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x407bcfF009A59a0C4ac38361d62b11FF6dc9f198",
-      "symbol": "MONARCHY",
-      "name": "Monarchy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90Aa8C8184B4A2ae881374A1837cD2d32fd4E5D7",
       "symbol": "PASEO",
       "name": "Paseo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A9cd794EE3b4E5fc14D60C49A65c706F0dFCCDD",
+      "symbol": "RADIOREUM",
+      "name": "Radioreum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11596,
-    "minor": 11596,
+    "major": 11597,
+    "minor": 11597,
     "patch": 85
   }
 }
