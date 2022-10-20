@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2c41B488dfde1Edb1f0173a01a51a00738aFa1F3",
-      "symbol": "ABTA",
-      "name": "ABT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59804dCB384e68d38396CBB83Acd1a1e4317D1a0",
       "symbol": "ZUCKER",
       "name": "ZuckerSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39338731d3B66657b42580D4b16DEBAad76eC93b",
+      "symbol": "ROP",
+      "name": "ROps",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11677,
-    "minor": 11677,
+    "major": 11678,
+    "minor": 11678,
     "patch": 85
   }
 }
