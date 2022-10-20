@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBbd9fDFd4C5CD54bA5eb80DEb590cbA8Ee4B7C04",
-      "symbol": "WALRUS",
-      "name": "WALRUS",
-      "decimals": 1,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6cFb0d7cB6Ca1673AC90955cBC37439CB9F4DACE",
       "symbol": "FCVGR",
       "name": "FCVGR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F881fc5b2a6F7bA982f55ae2578B175ebccE0BB",
+      "symbol": "FRA",
+      "name": "FranceFanToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11613,
-    "minor": 11613,
+    "major": 11614,
+    "minor": 11614,
     "patch": 85
   }
 }
