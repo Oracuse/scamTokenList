@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a0b0F619C8D4983196FBd8445CC58E482859015",
-      "symbol": "MONA",
-      "name": "MONA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCDfD13CD21486f1182C819BcBe36a77FE7190D90",
       "symbol": "SUZUDO",
       "name": "SuzuDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39C3D38d09900a1E75b6a0d83798fdAA8477f2f1",
+      "symbol": "DEAL",
+      "name": "Dealwithit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11529,
-    "minor": 11529,
+    "major": 11530,
+    "minor": 11530,
     "patch": 85
   }
 }
