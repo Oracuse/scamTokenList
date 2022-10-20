@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6d56e29d5a168Db1e7b72fe7DF6cea9612dc3eF1",
-      "symbol": "SOCIETY",
-      "name": "SocietyDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x215e9d8e221A5c5e33018c68d16198b131f3C5e0",
       "symbol": "FIDUS",
       "name": "FIDUSFINANCE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94b4d6C082fCb3d818AaB09747Ac59CdCD4C0Ff4",
+      "symbol": "NOO",
+      "name": "Neuro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11723,
-    "minor": 11723,
+    "major": 11724,
+    "minor": 11724,
     "patch": 85
   }
 }
