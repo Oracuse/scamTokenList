@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEDBbf561068E24aa11AA96e1f2B2773351b3875F",
-      "symbol": "SYMC",
-      "name": "Systematic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1185e1a438f274b3BC4d53a474417ba2F7A8c5c4",
       "symbol": "GROW",
       "name": "GrowToEarn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9A122FFBBE6BFcE27c8b4d0Cb09588Bd66a9a3FA",
+      "symbol": "LIVE",
+      "name": "LIVE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11626,
-    "minor": 11626,
+    "major": 11627,
+    "minor": 11627,
     "patch": 85
   }
 }
