@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1b5a68F3B7dbd21ea5A178e5f5A8121A87f6EDbB",
-      "symbol": "KODACHIBURNO",
-      "name": "KodachiBurno",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7d3aCF089f5b462f144514a0ecfC1426B1f859f5",
       "symbol": "REEK",
       "name": "Reek",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x423eD06aa96577964A8708480aAe39E8Ada4e4B6",
+      "symbol": "APM",
+      "name": "AptosMock",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11558,
-    "minor": 11558,
+    "major": 11559,
+    "minor": 11559,
     "patch": 85
   }
 }
