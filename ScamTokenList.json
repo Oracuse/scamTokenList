@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC1dE3961948aF49171b7eB762EC8fB56C02440e1",
-      "symbol": "SHIT3",
-      "name": "ShittierCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x851Ce07F6Eee1190E0b9b1bFa084A2B4a564DB7f",
       "symbol": "ARECIBO",
       "name": "LONESIGNAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBC06ec63Ab8dDC58c39Cc4Cc120c161d733374fe",
+      "symbol": "DIE20",
+      "name": "DIE20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11621,
-    "minor": 11621,
+    "major": 11622,
+    "minor": 11622,
     "patch": 85
   }
 }
