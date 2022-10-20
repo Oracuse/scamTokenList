@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7Af4E5d97c5b34961883c229973a7398adf1d040",
-      "symbol": "DEV",
-      "name": "DevInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc32E6C910994EF390471226c1775ab2f08252F24",
       "symbol": "ENOSUNIVERSITY",
       "name": "ENOS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Dbf965EBB5EA21541ca88a5b5A1CB1d462cF21b",
+      "symbol": "LIVE",
+      "name": "LiveProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11662,
-    "minor": 11662,
+    "major": 11663,
+    "minor": 11663,
     "patch": 85
   }
 }
