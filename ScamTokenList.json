@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc556e6f5d80D95e09891B530FD030FA0420acBF4",
-      "symbol": "EMTD",
-      "name": "ETHmorethanDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x11D243fBF66bbd93a6917057D0B3CF2C143ADEAf",
       "symbol": "FLUXE",
       "name": "Fluxe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA59B7053FaE037718E6e1AB8644B59F726Ec6e6E",
+      "symbol": "BAT",
+      "name": "BigApeToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11635,
-    "minor": 11635,
+    "major": 11636,
+    "minor": 11636,
     "patch": 85
   }
 }
