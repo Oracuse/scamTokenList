@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1a20923Fa4Cd72Cb0ccF60a1D2E9A2c134B53979",
-      "symbol": "ODIN",
-      "name": "ALLFATHER",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfDaa9ADaE17d8223cfEB4B0Cf1Ec1469726097Cb",
       "symbol": "FMK",
       "name": "FortuneMask",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e0935C86968AfA88222dc3D77649c71d852E040",
+      "symbol": "ROPS",
+      "name": "ROPsProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11679,
-    "minor": 11679,
+    "major": 11680,
+    "minor": 11680,
     "patch": 85
   }
 }
