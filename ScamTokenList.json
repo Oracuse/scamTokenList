@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa8E1F941908F8662C15eC9625D0603785EDb1B5e",
-      "symbol": "RAMPAGE",
-      "name": "Rampage",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9aE357521153FB07bE6F5792CE7a49752638fbb7",
       "symbol": "SAFE",
       "name": "SafeToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeE13f4478018F34551E11252ED556c7a583F2B35",
+      "symbol": "DB",
+      "name": "DB",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11668,
-    "minor": 11668,
+    "major": 11669,
+    "minor": 11669,
     "patch": 85
   }
 }
