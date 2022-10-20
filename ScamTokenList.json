@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA65598C72C5adDdD6386B8C20Bb48Df4Ea8e3C61",
-      "symbol": "BACK",
-      "name": "BackToWork",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x06B65dF57BEeD6ABb851ef071D2f09D648F65704",
       "symbol": "YAKU",
       "name": "GohyakuSazaido",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9A442532AF55fD6474A3cfA66BA842f3D661aCc",
+      "symbol": "ABSORB",
+      "name": "AbsorbProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11510,
-    "minor": 11510,
+    "major": 11511,
+    "minor": 11511,
     "patch": 85
   }
 }
