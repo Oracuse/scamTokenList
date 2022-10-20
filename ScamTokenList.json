@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCDfD13CD21486f1182C819BcBe36a77FE7190D90",
-      "symbol": "SUZUDO",
-      "name": "SuzuDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x080C32200bFEB3e19Abaa19CB104D8CeF1f4ae5F",
       "symbol": "TRIM",
       "name": "TRIM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49985ee103f3Ea38426D878C184e10C15fcC854C",
+      "symbol": "THATP",
+      "name": "THATPonziverse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11530,
-    "minor": 11530,
+    "major": 11531,
+    "minor": 11531,
     "patch": 85
   }
 }
