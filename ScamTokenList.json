@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbe2c17F9D7eC0df0447d436594E1992c5680fDA7",
-      "symbol": "SHAGON",
-      "name": "SHAGON",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6e5CF38b216e829e9E4153e48CF8B2415618aD48",
       "symbol": "ICARUS",
       "name": "ICARUS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF51F525ad6292e1CCDBCa280C07c077e5eD92de4",
+      "symbol": "NEA",
+      "name": "NationalETHAssociat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11608,
-    "minor": 11608,
+    "major": 11609,
+    "minor": 11609,
     "patch": 85
   }
 }
