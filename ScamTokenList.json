@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8147eFc70792e6862F8406208ce297ac5b776015",
-      "symbol": "NARI",
-      "name": "NARI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42373462E30053624f0c2C232265F461b11D65dB",
       "symbol": "ONIBI",
       "name": "ONIBI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F2bB5C469Bfc6e1972a0Ef0F4DfD86e399dc0DB",
+      "symbol": "MOTM",
+      "name": "MysteryOfTheMaya",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11598,
-    "minor": 11598,
+    "major": 11599,
+    "minor": 11599,
     "patch": 85
   }
 }
