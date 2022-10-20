@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x18D31Bfcd544ed0bAF0Bc83bD367fE0278b4CcA7",
-      "symbol": "KOSHU",
-      "name": "KoshuMisaka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x268dAE63002774077fec1d81Ff3F576E990A0643",
       "symbol": "RIFT",
       "name": "Rift",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB267e29Ce513f21532aa143bdfC48703F14CE7b0",
+      "symbol": "XTY",
+      "name": "Extropy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11629,
-    "minor": 11629,
+    "major": 11630,
+    "minor": 11630,
     "patch": 85
   }
 }
