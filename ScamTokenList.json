@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x94759Fd8f3296B4f2a4f05455fCb5156E1D5ebC4",
-      "symbol": "KODACHI",
-      "name": "Kodachi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x940c8A1Ae4Fc9Bf5eb3ceB611C8AF4aa0BaB1A7a",
       "symbol": "KODACHI",
       "name": "KodachiToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1979a5beE5aD8ebBd2bef7D079b24da30C64e192",
+      "symbol": "SENPAI",
+      "name": "DegenSparatan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11541,
-    "minor": 11541,
+    "major": 11542,
+    "minor": 11542,
     "patch": 85
   }
 }
