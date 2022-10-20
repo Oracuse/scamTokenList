@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4d264331852d9EE0b047A43c7F7a40282aba9e6d",
-      "symbol": "PRINTER",
-      "name": "ETHPrinter",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB721a7b56008A6f920f5c083aAa797fA47d450B7",
       "symbol": "SCORPIO",
       "name": "Scorpius",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12A26fE37406a55FD688B16FcBc0C4B59ef85EfC",
+      "symbol": "AWAKE",
+      "name": "LucidDream",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11665,
-    "minor": 11665,
+    "major": 11666,
+    "minor": 11666,
     "patch": 85
   }
 }
