@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD2402576173cbddC9e18070C9FC1E1c64d3539E4",
-      "symbol": "ALCH",
-      "name": "ALCHEMIC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9E7a42eC461d892c58564659b608522c760EC662",
       "symbol": "FXDBZ",
       "name": "FORTNITEXDRAGONBALL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D828e644FBa38771392e030713e87EC3fC26C9A",
+      "symbol": "VYPER",
+      "name": "Vyper",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11704,
-    "minor": 11704,
+    "major": 11705,
+    "minor": 11705,
     "patch": 85
   }
 }
