@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD9628Aa8503649A3910488C92ba2E09DBdAF1472",
-      "symbol": "SL",
-      "name": "SamuraiLegends",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAD418dc14C32A4d0B38de498bE89C1FEf92472a2",
       "symbol": "WASP",
       "name": "WaspNetwork",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x866F14c41d4CF3Bc1A702094a7426Cf835e3d2f1",
+      "symbol": "ALIVE",
+      "name": "AliveProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11632,
-    "minor": 11632,
+    "major": 11633,
+    "minor": 11633,
     "patch": 85
   }
 }
