@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x26E53F83d29323540128dEe1f1fcF74d6d9297CF",
-      "symbol": "CLUNA",
-      "name": "CLUNA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD9628Aa8503649A3910488C92ba2E09DBdAF1472",
       "symbol": "SL",
       "name": "SamuraiLegends",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb46C0BB5c8416DBB39bfad6C8a3c7892C72aB79d",
+      "symbol": "LST",
+      "name": "TheListeners",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11631,
-    "minor": 11631,
+    "major": 11632,
+    "minor": 11632,
     "patch": 85
   }
 }
