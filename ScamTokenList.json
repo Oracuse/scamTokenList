@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6e5CF38b216e829e9E4153e48CF8B2415618aD48",
-      "symbol": "ICARUS",
-      "name": "ICARUS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd40E3ae98C0c068A95d4449D8655C2AE4190E097",
       "symbol": "SHIBU",
       "name": "ShibInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd6098D1eF15cE1395C620823d629C905C543Dcda",
+      "symbol": "ETHEALTHY",
+      "name": "ETHealthy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11609,
-    "minor": 11609,
+    "major": 11610,
+    "minor": 11610,
     "patch": 85
   }
 }
