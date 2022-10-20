@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8aB61689BeE5BE3BdB7F4468f5A336f6db35c6A2",
-      "symbol": "DISTANCE",
-      "name": "ShorainoKyori",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19B8589678C2E489c4126D933AE82b8f50387185",
       "symbol": "DISTANCE",
       "name": "ShorainoKyori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB3aD9C7738189361Bc8Ab87ADbd583E7124acd6B",
+      "symbol": "LIVE",
+      "name": "LiveProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11734,
-    "minor": 11734,
+    "major": 11735,
+    "minor": 11735,
     "patch": 85
   }
 }
