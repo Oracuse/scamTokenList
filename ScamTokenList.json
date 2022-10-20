@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFe380c56bA15A816175395d98Ff56CE6E9d5817E",
-      "symbol": "VATRUS",
-      "name": "Vatrus",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xef5374cC40B972F6a5Ddf47e62cBf3D80aab533d",
       "symbol": "BULLOCKS",
       "name": "Bullockchain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Fa760767818AF835Cb95811a9447A72384E34C5",
+      "symbol": "ETHP",
+      "name": "ETHProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11586,
-    "minor": 11586,
+    "major": 11587,
+    "minor": 11587,
     "patch": 85
   }
 }
