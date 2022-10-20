@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14030F27C285deb35D719310D451d74932c21e3a",
-      "symbol": "AIRP",
-      "name": "AirpayToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFDd158bd67103e589b63501b1b0a87873b9aB6A4",
       "symbol": "FREV",
       "name": "FractionReserve",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbDa265A5E02810ea56450cD865e38B72f7a511AA",
+      "symbol": "GOAL",
+      "name": "GoalInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11672,
-    "minor": 11672,
+    "major": 11673,
+    "minor": 11673,
     "patch": 85
   }
 }
