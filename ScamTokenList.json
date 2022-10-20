@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x26F7D7509490B292AFBB0443A7A371d345B5f684",
-      "symbol": "GOBS",
-      "name": "Gearboxblacklistobs",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x391d6cABe274b633AFD72146a7a40f1A3A8f180A",
       "symbol": "PLMT",
       "name": "Plummet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0AE1B528fA341f0736687269a7fC01DA9B1F178C",
+      "symbol": "CRY",
+      "name": "ONION",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11727,
-    "minor": 11727,
+    "major": 11728,
+    "minor": 11728,
     "patch": 85
   }
 }
