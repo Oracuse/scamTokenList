@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9143d4fD4a377af386c24Ce0d410001505FF99c9",
-      "symbol": "RAKUGO",
-      "name": "RAKUGO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x35d65D98D957a8A6D393096D612a7Db43b6c9796",
       "symbol": "MIREUK",
       "name": "Mireuk",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAe86be89Cc8B6146085081A29e96144BE1345342",
+      "symbol": "DOGENZ",
+      "name": "DOGENZENJI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11583,
-    "minor": 11583,
+    "major": 11584,
+    "minor": 11584,
     "patch": 85
   }
 }
