@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9680B966cA74E85281CD1b091bF0e06740B3D7F2",
-      "symbol": "DREAM",
-      "name": "Dreamcatcher",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc556e6f5d80D95e09891B530FD030FA0420acBF4",
       "symbol": "EMTD",
       "name": "ETHmorethanDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA99315B463244fF6Cd34b87C4BAb3F71A44B0DB9",
+      "symbol": "DIE",
+      "name": "BabyDieProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11634,
-    "minor": 11634,
+    "major": 11635,
+    "minor": 11635,
     "patch": 85
   }
 }
