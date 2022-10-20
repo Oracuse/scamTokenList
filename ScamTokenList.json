@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBC1196E41ED761ceD17c6f5164f6ceD756e5493C",
-      "symbol": "BLOOD",
-      "name": "BLOOD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0F396e8c0DcA2Cae9067BFAd9928bfF4faB6B35b",
       "symbol": "HODLER",
       "name": "HODLER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE49B6d32ab42919fA37E093D64DC885b578B2cBe",
+      "symbol": "THENOT",
+      "name": "TheNotProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11739,
-    "minor": 11739,
+    "major": 11740,
+    "minor": 11740,
     "patch": 85
   }
 }
