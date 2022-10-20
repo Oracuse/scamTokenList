@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1185e1a438f274b3BC4d53a474417ba2F7A8c5c4",
-      "symbol": "GROW",
-      "name": "GrowToEarn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFE0C14899E22BF4CAcFA38C27D315449C2F127de",
       "symbol": "LOPS",
       "name": "Lops",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72bB47f03F82e70FA1d6a3B56b55d68a3019B87C",
+      "symbol": "BDIE",
+      "name": "BabyDieProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11627,
-    "minor": 11627,
+    "major": 11628,
+    "minor": 11628,
     "patch": 85
   }
 }
