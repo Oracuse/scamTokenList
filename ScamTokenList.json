@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x027A8B1706e0aFE6CFE908B06a92959b978dBf19",
-      "symbol": "SAGGITARIUS",
-      "name": "Sagittarius",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4B475D5B5548eef628F9e191c9fa53c8ddeC3A75",
       "symbol": "NOC",
       "name": "Nocturne",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3284015908Ec1c0A38C580bE0342f867B5d2ecE6",
+      "symbol": "HP",
+      "name": "SetFees",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11521,
-    "minor": 11521,
+    "major": 11522,
+    "minor": 11522,
     "patch": 85
   }
 }
