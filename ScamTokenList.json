@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFc925E07dEB0d649b83bF4De0911E4aEBA9ae8d5",
-      "symbol": "TSUSAITAMA",
-      "name": "TsuSaitama",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8f18eF3E942280C87Ff5FD82584C2F58E4799e97",
       "symbol": "TSUSKAV2",
       "name": "TsukaShibaV2",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c75eDa3A46D74e6407ECDfdB206824eaF9527d2",
+      "symbol": "CSW",
+      "name": "Chainsaw",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11525,
-    "minor": 11525,
+    "major": 11526,
+    "minor": 11526,
     "patch": 85
   }
 }
