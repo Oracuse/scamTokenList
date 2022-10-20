@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x570B2F37F070ec9bd1446208722D92755764aE85",
-      "symbol": "MEH",
-      "name": "SOCIALS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9b0e33d16EF5c84bDf1e48EF9c7d503e3e73C3A0",
       "symbol": "MIVIE",
       "name": "MivieToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6FD1beB18B6d02b90FeD43258895f9b959ec64B",
+      "symbol": "FALCON9",
+      "name": "Falcon9",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11650,
-    "minor": 11650,
+    "major": 11651,
+    "minor": 11651,
     "patch": 85
   }
 }
