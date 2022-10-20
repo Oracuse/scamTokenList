@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDF617463e76f5E50323D61CCd5e7798668182BF9",
-      "symbol": "TSUKI",
-      "name": "TsukaKishu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a0b0F619C8D4983196FBd8445CC58E482859015",
       "symbol": "MONA",
       "name": "MONA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7924311539C8e0B71140B68794366D5F22b86371",
+      "symbol": "IP",
+      "name": "TehProof",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11528,
-    "minor": 11528,
+    "major": 11529,
+    "minor": 11529,
     "patch": 85
   }
 }
