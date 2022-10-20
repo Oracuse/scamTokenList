@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe7A77571454E1AE0a818451cE036Bd2B018f1fa7",
-      "symbol": "FOMC",
-      "name": "FOMC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x14030F27C285deb35D719310D451d74932c21e3a",
       "symbol": "AIRP",
       "name": "AirpayToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x771f65010fCbC361CD79F2A912e07Eb7b9940D1c",
+      "symbol": "A",
+      "name": "A",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11671,
-    "minor": 11671,
+    "major": 11672,
+    "minor": 11672,
     "patch": 85
   }
 }
