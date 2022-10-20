@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE670f8a294fae45ba5563bBb1cb410D0936549B9",
-      "symbol": "HODLER",
-      "name": "HODLER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBC1196E41ED761ceD17c6f5164f6ceD756e5493C",
       "symbol": "BLOOD",
       "name": "BLOOD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x407B9af93df580103DB4f4E25b7A59F897B80Fde",
+      "symbol": "SANTINU",
+      "name": "SantaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11738,
-    "minor": 11738,
+    "major": 11739,
+    "minor": 11739,
     "patch": 85
   }
 }
