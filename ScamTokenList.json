@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa3f8bAFB2d8e25e7916BC95D2Cfe726F9393C465",
-      "symbol": "SHIELD",
-      "name": "Guardian",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf1de17426Cf4Ac6ad6f06369b2db5ED4C676d518",
       "symbol": "SUYACOIN",
       "name": "SUYACOIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F29aD0aeCE2186B092078e726A11750Db9058cB",
+      "symbol": "VITALIKCA",
+      "name": "CoinVotingGovernanc",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11693,
-    "minor": 11693,
+    "major": 11694,
+    "minor": 11694,
     "patch": 85
   }
 }
