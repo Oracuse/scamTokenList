@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAEDBFF414b15194A4C5ad550E21dDcB8c8677605",
-      "symbol": "KODACHI",
-      "name": "KodachiToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0fFe00dCa3c1E2b88ABEAB463090413D03678e2F",
       "symbol": "PEPEB",
       "name": "PEPEBRONZE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B5e77d97E91482bc20F4b24aAE4c5942C6eC314",
+      "symbol": "SP",
+      "name": "StargateProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11514,
-    "minor": 11514,
+    "major": 11515,
+    "minor": 11515,
     "patch": 85
   }
 }
