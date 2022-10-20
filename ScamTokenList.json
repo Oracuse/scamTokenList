@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE99000f2a93cc26c1d4d5CeA3aE69aB1d785f374",
-      "symbol": "ANALPROBE",
-      "name": "ABDUCTANDPROBE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb8b0b3e5cA2bc7C650F9472ccbDAfEc69b0eb7fc",
       "symbol": "MOMO",
       "name": "MomoChallenge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Db79Bbb7A5089c4bB8Dd8c43eB6518f03832ad7",
+      "symbol": "DB",
+      "name": "DenisBeau",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11604,
-    "minor": 11604,
+    "major": 11605,
+    "minor": 11605,
     "patch": 85
   }
 }
