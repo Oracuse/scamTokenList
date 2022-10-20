@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa7CE22589708e8A2C2f8bb50E80131316E378D87",
-      "symbol": "SHISENDO",
-      "name": "Shisendo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x220050Ebe137F0f5DCDd37C6CBF4C220c291B6AF",
       "symbol": "SHAGON",
       "name": "SHAGON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB3eFf655E1113FD510edF7eD94BE2B0eE217cd3d",
+      "symbol": "BOX",
+      "name": "THEBOX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11660,
-    "minor": 11660,
+    "major": 11661,
+    "minor": 11661,
     "patch": 85
   }
 }
