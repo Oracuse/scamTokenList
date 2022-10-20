@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6E1f21997C1344C98Cc8AcB9F917e623e348b2f3",
-      "symbol": "TODDY",
-      "name": "Toddy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBbd9fDFd4C5CD54bA5eb80DEb590cbA8Ee4B7C04",
       "symbol": "WALRUS",
       "name": "WALRUS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d31f354c5280a037b700bD0C805D869dE930ED4",
+      "symbol": "ARAB",
+      "name": "ArabInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11612,
-    "minor": 11612,
+    "major": 11613,
+    "minor": 11613,
     "patch": 85
   }
 }
