@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5a213E3e137349BCdF79a78Bd73fc709aAd521A7",
-      "symbol": "CL",
-      "name": "ChungaLungaCoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3fc16bc8f7b71158E7F739ae16c7C04a6205f435",
       "symbol": "WENLOCK",
       "name": "WENLOCK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x038D2962B96A6050477b9D7c7eED0E256004Ca22",
+      "symbol": "ROPS",
+      "name": "RIGOpenProblems",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11686,
-    "minor": 11686,
+    "major": 11687,
+    "minor": 11687,
     "patch": 85
   }
 }
