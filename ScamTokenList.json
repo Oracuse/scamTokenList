@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD52AC34600d1be082437ED60B926aC7E2effdb87",
-      "symbol": "MOLECULE",
-      "name": "MoleculeDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdc9a151F2AAe27acd7C38246B387d9d83931Bb79",
       "symbol": "METAMONKEYAI",
       "name": "MetaMonkeyAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcb569b4C1cDb7F12dF871765F547b3367d9CD67d",
+      "symbol": "BABYDIE",
+      "name": "BabyDieProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11624,
-    "minor": 11624,
+    "major": 11625,
+    "minor": 11625,
     "patch": 85
   }
 }
