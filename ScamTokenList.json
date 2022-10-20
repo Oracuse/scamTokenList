@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF47d732f8D5F86D1428545A7D99b519b9ABC6E37",
-      "symbol": "BYAKKO",
-      "name": "Byakko",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71FdE9258eD9188f5AaeE6c014c39C4A8cBD2cBa",
       "symbol": "SPOO",
       "name": "SecretPoo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb20f4727459ea709B9094Ee4142DDd234797fd2f",
+      "symbol": "ROPS",
+      "name": "RigOpenProblems",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11682,
-    "minor": 11682,
+    "major": 11683,
+    "minor": 11683,
     "patch": 85
   }
 }
