@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFDd158bd67103e589b63501b1b0a87873b9aB6A4",
-      "symbol": "FREV",
-      "name": "FractionReserve",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3C40785fc9F28689E9EFbFD115e0174083aE0574",
       "symbol": "OCCULUS",
       "name": "Occulus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5304F2265B01fd7265Ed22a6Cd4F14B9B7669797",
+      "symbol": "WCS",
+      "name": "WorldCupShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11673,
-    "minor": 11673,
+    "major": 11674,
+    "minor": 11674,
     "patch": 85
   }
 }
