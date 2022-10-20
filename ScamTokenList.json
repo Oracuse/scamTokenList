@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3e5AF8fCe09202b262d6A75e308E4acA5E0C4E2c",
-      "symbol": "YOSUZUME",
-      "name": "Yosuzume",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe7A77571454E1AE0a818451cE036Bd2B018f1fa7",
       "symbol": "FOMC",
       "name": "FOMC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7dDD811e0AF73b4f354103C4541aFCACA1444fd6",
+      "symbol": "THE",
+      "name": "TheMarketplace",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11670,
-    "minor": 11670,
+    "major": 11671,
+    "minor": 11671,
     "patch": 85
   }
 }
