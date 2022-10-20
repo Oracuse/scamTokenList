@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAD17393b5d14133d1be8aeA6ec6AEF5Bf472772B",
-      "symbol": "SHISHI",
-      "name": "Shishi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc1b755e6dbd5523De3AB206A781893d04EBC2160",
       "symbol": "PRINU",
       "name": "ProtocolInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B16Dca336f99A463436Ab6aa344B2aF62C55e74",
+      "symbol": "TLINU",
+      "name": "TESLAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11575,
-    "minor": 11575,
+    "major": 11576,
+    "minor": 11576,
     "patch": 85
   }
 }
