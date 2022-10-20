@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4A4A22156fC4A1FfAD7Bdc381e7F9C2D3b9f6651",
-      "symbol": "FLIKA",
-      "name": "FlikaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x151d7c6BbACA8bBCeF610D1467576f1559Aeb27c",
       "symbol": "GHOSTY",
       "name": "GHOSTY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e45818104b2E2744Bf9e56422C55E786C608C7A",
+      "symbol": "FINAL",
+      "name": "FINALPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11618,
-    "minor": 11618,
+    "major": 11619,
+    "minor": 11619,
     "patch": 85
   }
 }
