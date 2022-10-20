@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc1b755e6dbd5523De3AB206A781893d04EBC2160",
-      "symbol": "PRINU",
-      "name": "ProtocolInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x070237Fb523B916f195E1b21f35Fe1B13Ed22Bc2",
       "symbol": "PHI7",
       "name": "PHI7CAPITAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x001E12eEb9523533d941B49FEc781f5132fA11e9",
+      "symbol": "LAEEB2O",
+      "name": "ProofOfLaeeb",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11576,
-    "minor": 11576,
+    "major": 11577,
+    "minor": 11577,
     "patch": 85
   }
 }
