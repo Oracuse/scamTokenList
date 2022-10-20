@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2a7f10E67E375633c827A27943Df266312295b12",
-      "symbol": "FUJIN",
-      "name": "KazeNoKami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAD17393b5d14133d1be8aeA6ec6AEF5Bf472772B",
       "symbol": "SHISHI",
       "name": "Shishi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd000075F9F6b37609a7bcaBEb472171E2078DF7f",
+      "symbol": "BASEBALL",
+      "name": "WORLDSERIES",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11574,
-    "minor": 11574,
+    "major": 11575,
+    "minor": 11575,
     "patch": 85
   }
 }
