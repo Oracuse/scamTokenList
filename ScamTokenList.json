@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7d3aCF089f5b462f144514a0ecfC1426B1f859f5",
-      "symbol": "REEK",
-      "name": "Reek",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb17EBb91195d7d174998B69122c963cAB92AFc09",
       "symbol": "DAIMYO",
       "name": "ShugoDaimyo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82ced7B239Fc06E59f11819883d68A0E0925e59e",
+      "symbol": "POP",
+      "name": "ProofofProfit",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11559,
-    "minor": 11559,
+    "major": 11560,
+    "minor": 11560,
     "patch": 85
   }
 }
