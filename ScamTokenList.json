@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbD80599acF6a6d190a67dD477256a8AA4d1549ee",
-      "symbol": "J1407B",
-      "name": "J1407B",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5aA7bB9F313bA753C72b142FEd74B68c97969b61",
       "symbol": "ODACHI",
       "name": "OdachiToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA31Ef6f5C3e1B93d96c36dF3E3Ef4f49E7Bb761a",
+      "symbol": "UTXO",
+      "name": "TheBitcoinProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11615,
-    "minor": 11615,
+    "major": 11616,
+    "minor": 11616,
     "patch": 85
   }
 }
