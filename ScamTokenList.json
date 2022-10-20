@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf08A314db4a3685cE24741c0A7f008d66fC9b3e5",
-      "symbol": "PHASMY",
-      "name": "PhasmyToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9143d4fD4a377af386c24Ce0d410001505FF99c9",
       "symbol": "RAKUGO",
       "name": "RAKUGO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Aeb103AaeeA3fE8a2b63B6753c917Fa54C6Eb20",
+      "symbol": "VERITY",
+      "name": "TheEternalVerities",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11582,
-    "minor": 11582,
+    "major": 11583,
+    "minor": 11583,
     "patch": 85
   }
 }
