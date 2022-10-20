@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76b3D700493A14893859411A4Dc2A3baF8cdDaFE",
-      "symbol": "ARIES",
-      "name": "FireCelestial",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8ed8c1d3b8e924748d50F785b55eAae435898241",
       "symbol": "TSUKU",
       "name": "TsukuyominoMikoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA5B681615f2aFFAD02b28B3B7EB5Fa6BfD757b3F",
+      "symbol": "CURIOSITY",
+      "name": "Curiosity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11640,
-    "minor": 11640,
+    "major": 11641,
+    "minor": 11641,
     "patch": 85
   }
 }
