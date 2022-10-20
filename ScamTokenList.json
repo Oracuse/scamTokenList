@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4C0101dc4b02d00EeAD6C81E417ae0a5F46B64D1",
-      "symbol": "METAVR",
-      "name": "METAVR",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3981EBcF9C00ae9FC4977bD22eE392e9ed08a64c",
       "symbol": "DNA",
       "name": "DONOTAPE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e0deCCF2f698A064f790A2eD215D543c6003AA3",
+      "symbol": "SHIBZ",
+      "name": "Shibzen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11718,
-    "minor": 11718,
+    "major": 11719,
+    "minor": 11719,
     "patch": 85
   }
 }
