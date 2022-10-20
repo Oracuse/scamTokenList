@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x59804dCB384e68d38396CBB83Acd1a1e4317D1a0",
-      "symbol": "ZUCKER",
-      "name": "ZuckerSwap",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1a20923Fa4Cd72Cb0ccF60a1D2E9A2c134B53979",
       "symbol": "ODIN",
       "name": "ALLFATHER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21eAc84D96bc35A9cA3Fa513BE5f0a8199bFDC70",
+      "symbol": "ROPS",
+      "name": "RIGOpenProblems",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11678,
-    "minor": 11678,
+    "major": 11679,
+    "minor": 11679,
     "patch": 85
   }
 }
