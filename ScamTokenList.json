@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8F3e9200cE01c61D243E9Cc0b2587aCE112AD35a",
-      "symbol": "ETERNAL",
-      "name": "Longevity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8Bf6495Fee70813D7eD0F06Ba8aF7DcA9431Cc5C",
       "symbol": "CHOICE",
       "name": "TheChoice",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD58740f380BDfD0229f27d68463d7DB7030aa57d",
+      "symbol": "KANJU",
+      "name": "FutsuKanju",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11568,
-    "minor": 11568,
+    "major": 11569,
+    "minor": 11569,
     "patch": 85
   }
 }
