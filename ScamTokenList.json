@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb17EBb91195d7d174998B69122c963cAB92AFc09",
-      "symbol": "DAIMYO",
-      "name": "ShugoDaimyo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB3e76fCc8de4ce870145113835adBC62aA27676b",
       "symbol": "FLIP",
       "name": "Ichadok",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD146e61394fA603bD827C78F1019D335A5cf0ef8",
+      "symbol": "V",
+      "name": "Vitalik",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11560,
-    "minor": 11560,
+    "major": 11561,
+    "minor": 11561,
     "patch": 85
   }
 }
