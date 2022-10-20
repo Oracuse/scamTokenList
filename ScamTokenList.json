@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3fc16bc8f7b71158E7F739ae16c7C04a6205f435",
-      "symbol": "WENLOCK",
-      "name": "WENLOCK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98A26431EE1199bC49c30Ae36851Ca3e36B8422b",
       "symbol": "GOHAN",
       "name": "Gohan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B4E9b8c895E4fA7a83A60A4D987e928825c0722",
+      "symbol": "RIP",
+      "name": "RippleInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11687,
-    "minor": 11687,
+    "major": 11688,
+    "minor": 11688,
     "patch": 85
   }
 }
