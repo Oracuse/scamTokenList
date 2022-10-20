@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAD418dc14C32A4d0B38de498bE89C1FEf92472a2",
-      "symbol": "WASP",
-      "name": "WaspNetwork",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9680B966cA74E85281CD1b091bF0e06740B3D7F2",
       "symbol": "DREAM",
       "name": "Dreamcatcher",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x858CfB1a7D1faC4f0B5358d0E5499Cb0ddb6cEF1",
+      "symbol": "VVV",
+      "name": "VVV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11633,
-    "minor": 11633,
+    "major": 11634,
+    "minor": 11634,
     "patch": 85
   }
 }
