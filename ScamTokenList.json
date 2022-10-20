@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6592D5f2Aea461eEd19C7FEab564adDcEd1c7d9D",
-      "symbol": "GTG",
-      "name": "GOATGEINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC60c7A965CD650dfFa0836cf04a27C3bC4f3E194",
       "symbol": "BARRAGE",
       "name": "Barrage",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51903b59b4458D2569e70610a4a47D57BDef395a",
+      "symbol": "THIS",
+      "name": "ThisProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11588,
-    "minor": 11588,
+    "major": 11589,
+    "minor": 11589,
     "patch": 85
   }
 }
