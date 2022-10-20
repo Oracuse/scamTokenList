@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x391d6cABe274b633AFD72146a7a40f1A3A8f180A",
-      "symbol": "PLMT",
-      "name": "Plummet",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa24A5de5E6fBED61C4a0F2d823549194eb3562C5",
       "symbol": "ASE",
       "name": "APESAMURAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2B51cBF08612850D5467609A98A09457422C91C",
+      "symbol": "SSINU",
+      "name": "SpookySeasonInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11728,
-    "minor": 11728,
+    "major": 11729,
+    "minor": 11729,
     "patch": 85
   }
 }
