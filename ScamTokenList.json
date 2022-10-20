@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9aE357521153FB07bE6F5792CE7a49752638fbb7",
-      "symbol": "SAFE",
-      "name": "SafeToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3e5AF8fCe09202b262d6A75e308E4acA5E0C4E2c",
       "symbol": "YOSUZUME",
       "name": "Yosuzume",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xee9e2d0129E977941d5C8c7377811C0221997c14",
+      "symbol": "WE",
+      "name": "TheSheeple",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11669,
-    "minor": 11669,
+    "major": 11670,
+    "minor": 11670,
     "patch": 85
   }
 }
