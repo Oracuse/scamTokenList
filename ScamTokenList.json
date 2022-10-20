@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC6DbB5cEDaE776f70CEed52c1578e701EE6DC593",
-      "symbol": "PACE",
-      "name": "Pace",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaa115827753Cb7b2a8445EaA09A4E5812eeBBF23",
       "symbol": "VITALIK",
       "name": "VITALIKINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf90bf4D241Ce20cf6534FaC1a21e9d32Ba6919d",
+      "symbol": "RIG",
+      "name": "TheRigProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11691,
-    "minor": 11691,
+    "major": 11692,
+    "minor": 11692,
     "patch": 85
   }
 }
