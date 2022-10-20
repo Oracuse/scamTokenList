@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67E23AFb9270100510B252dCa80D3e128B073b5D",
-      "symbol": "CHAIN",
-      "name": "ChainInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x36e26A736e977638d1Ff07ff26Ac201E5bbc771b",
       "symbol": "MONARCHY",
       "name": "Monarchy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa62BBE914184Ee879C88BE6a4C02BDF49b53176",
+      "symbol": "EL",
+      "name": "evolution",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11594,
-    "minor": 11594,
+    "major": 11595,
+    "minor": 11595,
     "patch": 85
   }
 }
