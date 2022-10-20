@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8E176F8134FBd9bfCa7c062d56f83132D24a83c2",
-      "symbol": "O",
-      "name": "THEO",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5a213E3e137349BCdF79a78Bd73fc709aAd521A7",
       "symbol": "CL",
       "name": "ChungaLungaCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfd7BfcAE0714093e6c27F60f0df6eA46CE08686f",
+      "symbol": "RIG",
+      "name": "THEROPs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11685,
-    "minor": 11685,
+    "major": 11686,
+    "minor": 11686,
     "patch": 85
   }
 }
