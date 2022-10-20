@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCaee83483Aa0d976Bd2d976E28eA3FAA6B0a26df",
-      "symbol": "GIGA",
-      "name": "GIGA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4466b799DFa49252d35d229F7dC0f5E0031B221A",
       "symbol": "WERX",
       "name": "Para",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC108cF8331Ee44269d2712e872C4D77C8bC9624b",
+      "symbol": "KOG",
+      "name": "KingofGems",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11742,
-    "minor": 11742,
+    "major": 11743,
+    "minor": 11743,
     "patch": 85
   }
 }
