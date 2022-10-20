@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfE1b86afB6eB513C44fF576d6d8C1AAD33C2C6F5",
-      "symbol": "NIJINU",
-      "name": "NIJINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21577958775014c0773A2b53b7fCDC6c471f778d",
       "symbol": "QUQU",
       "name": "QuietQuitting",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x797f2eBa340d23DF6aeE7143fC48A3CAAD619E0c",
+      "symbol": "Q",
+      "name": "Q",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11550,
-    "minor": 11550,
+    "major": 11551,
+    "minor": 11551,
     "patch": 85
   }
 }
