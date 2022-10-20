@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF8d107B9B26496A2b5aaAa78421E371c1a138Ec4",
-      "symbol": "DKEN",
-      "name": "DejitaruKen",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x541069c39dfdf2357522abf3Ad700ECcEe5B124a",
       "symbol": "DEV",
       "name": "DevInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e044c67767a9D9B3C6Ba5Cb02CcBc9B7494016A",
+      "symbol": "DEATHPROTOCOL",
+      "name": "Death",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11658,
-    "minor": 11658,
+    "major": 11659,
+    "minor": 11659,
     "patch": 85
   }
 }
