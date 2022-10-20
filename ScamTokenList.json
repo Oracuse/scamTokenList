@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x596b2EA1cCD14D1Ac3675c3f69fce5cf74a0f2EB",
-      "symbol": "FUJIN",
-      "name": "KazeNoKami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x809E130E10e787139c54e1d12d3D1971b7A675Bf",
       "symbol": "MTD",
       "name": "MTD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcD83d6E2d4EF3d53875887753f16a81882e9E9B7",
+      "symbol": "IFP",
+      "name": "INFINITYProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11702,
-    "minor": 11702,
+    "major": 11703,
+    "minor": 11703,
     "patch": 85
   }
 }
