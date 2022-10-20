@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x90Aa8C8184B4A2ae881374A1837cD2d32fd4E5D7",
-      "symbol": "PASEO",
-      "name": "Paseo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8147eFc70792e6862F8406208ce297ac5b776015",
       "symbol": "NARI",
       "name": "NARI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16c70a72Ee67a20E6A1140BD492d06794c4d6cf1",
+      "symbol": "JIAO",
+      "name": "JIAOANIMAL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11597,
-    "minor": 11597,
+    "major": 11598,
+    "minor": 11598,
     "patch": 85
   }
 }
