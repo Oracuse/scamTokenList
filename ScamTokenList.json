@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB721a7b56008A6f920f5c083aAa797fA47d450B7",
-      "symbol": "SCORPIO",
-      "name": "Scorpius",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCC9AC7cCdc95C64739866d6B30C5E1ed4099264d",
       "symbol": "TRB",
       "name": "TSUKAREBORN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD7D5F41C8e7135de263C973fa70ae267E823FF0c",
+      "symbol": "BOX",
+      "name": "TheBox",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11666,
-    "minor": 11666,
+    "major": 11667,
+    "minor": 11667,
     "patch": 85
   }
 }
