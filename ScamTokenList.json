@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4E2480607F51Dd96b14C9ef6aB23A51f0088BE00",
-      "symbol": "CAREUM",
-      "name": "CAREUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4C0101dc4b02d00EeAD6C81E417ae0a5F46B64D1",
       "symbol": "METAVR",
       "name": "METAVR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47939e2957691c2d5d68Be189BAa6c59fCD977b2",
+      "symbol": "PFP",
+      "name": "PrayForProfit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11717,
-    "minor": 11717,
+    "major": 11718,
+    "minor": 11718,
     "patch": 85
   }
 }
