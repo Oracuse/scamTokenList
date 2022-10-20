@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x507bEfDB76dF75abF6E0c3b4Ae8187a0cfB109Db",
-      "symbol": "ZERO",
-      "name": "ZERO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCaee83483Aa0d976Bd2d976E28eA3FAA6B0a26df",
       "symbol": "GIGA",
       "name": "GIGA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62E939A92bE7d80CE12C01B5bcE5BfcF83D72542",
+      "symbol": "CDIE",
+      "name": "NewCommunityDieProt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11741,
-    "minor": 11741,
+    "major": 11742,
+    "minor": 11742,
     "patch": 85
   }
 }
