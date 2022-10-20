@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42373462E30053624f0c2C232265F461b11D65dB",
-      "symbol": "ONIBI",
-      "name": "ONIBI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08E2735aF0969cB0D90858D6993e0d737F90Ae69",
       "symbol": "NARI",
       "name": "NARI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Da080D2EE5bfb8B8f305E7a00C854d4DFfb0579",
+      "symbol": "ET",
+      "name": "evolution",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11599,
-    "minor": 11599,
+    "major": 11600,
+    "minor": 11600,
     "patch": 85
   }
 }
