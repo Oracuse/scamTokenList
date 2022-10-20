@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbdFd53E65ADDA4953679048C64CbD422f20f6936",
-      "symbol": "NUJITURI",
-      "name": "NUJITURI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf08A314db4a3685cE24741c0A7f008d66fC9b3e5",
       "symbol": "PHASMY",
       "name": "PhasmyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76F9932c234195553664A30E4608cFa9ec87d7d0",
+      "symbol": "S",
+      "name": "SuperSatoshi",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11581,
-    "minor": 11581,
+    "major": 11582,
+    "minor": 11582,
     "patch": 85
   }
 }
