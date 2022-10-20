@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x39665F30917811CA1d86300EEE4DB67e71494d62",
-      "symbol": "JEETBOTS",
-      "name": "JeetBots",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x48eCE7DA930266Ee87C18A69dcfB3816cB0ED99d",
       "symbol": "EOSX",
       "name": "EOSX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62e88A25e6e8392b8D52D2ACbdA2913572d8E29F",
+      "symbol": "Y",
+      "name": "Y",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11578,
-    "minor": 11578,
+    "major": 11579,
+    "minor": 11579,
     "patch": 85
   }
 }
