@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8De6bc788a8B574E2BD3828115eb9c10CC362dD1",
-      "symbol": "AI",
-      "name": "HumanProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9AF5DD529F3C775dfC57950935A283220aBe69d3",
       "symbol": "PACE",
       "name": "Pace",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A00aD53F470d92C986F1907ea70a464DFbf447f",
+      "symbol": "DEGOV",
+      "name": "DeGov",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11689,
-    "minor": 11689,
+    "major": 11690,
+    "minor": 11690,
     "patch": 85
   }
 }
