@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x99506180435382838354700b81F450de657325ac",
-      "symbol": "DTF",
-      "name": "DegenTradingFund",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8E176F8134FBd9bfCa7c062d56f83132D24a83c2",
       "symbol": "O",
       "name": "THEO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26cb96D767468Ea3b65116A42017886a0D217d8d",
+      "symbol": "ROPS",
+      "name": "RIGOpenProblems",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11684,
-    "minor": 11684,
+    "major": 11685,
+    "minor": 11685,
     "patch": 85
   }
 }
