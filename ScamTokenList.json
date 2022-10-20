@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5aA7bB9F313bA753C72b142FEd74B68c97969b61",
-      "symbol": "ODACHI",
-      "name": "OdachiToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD890FCc0a7991D4c7ED814d07312c8af3516ffad",
       "symbol": "DANIERU",
       "name": "DanielShinigami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x333EDAB6f9e30214BF17064dAB12E4bC625fB781",
+      "symbol": "THEPOA",
+      "name": "THEProofOfApes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11616,
-    "minor": 11616,
+    "major": 11617,
+    "minor": 11617,
     "patch": 85
   }
 }
