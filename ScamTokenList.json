@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9E7a42eC461d892c58564659b608522c760EC662",
-      "symbol": "FXDBZ",
-      "name": "FORTNITEXDRAGONBALL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93D00A0fBd822F249458C5f973bee6C5248670a9",
       "symbol": "USDTD",
       "name": "USDTDeFi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC95ad451E6Cf93BC98A20aCCcE1F9555D34a05d5",
+      "symbol": "VYPER",
+      "name": "VYPER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11705,
-    "minor": 11705,
+    "major": 11706,
+    "minor": 11706,
     "patch": 85
   }
 }
