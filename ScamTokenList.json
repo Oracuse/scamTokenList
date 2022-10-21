@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB36E7EEf7144Eb5d70A2013Bf1c8d67d8096373b",
-      "symbol": "BLESS",
-      "name": "BlessingHour",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5bce4069253823c60b4A8297D3c1177b929490Bd",
       "symbol": "SKY",
       "name": "SKY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d5275fc7EfA6bF37FEce4b34BDa06d67Ba1A831",
+      "symbol": "BFODT",
+      "name": "BabyTyrant",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11951,
-    "minor": 11951,
+    "major": 11952,
+    "minor": 11952,
     "patch": 85
   }
 }
