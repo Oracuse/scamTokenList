@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66467F56d782B826307F09F4570F8A6a30856454",
-      "symbol": "GEN",
-      "name": "GenShiken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6aE8758456A75C466613483923972b77fE83fD9F",
       "symbol": "SEAL",
       "name": "SEAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF1494BE5b06Fb19F0f1A708369E7569B7FBF3593",
+      "symbol": "ALPHA",
+      "name": "AlphaProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11801,
-    "minor": 11801,
+    "major": 11802,
+    "minor": 11802,
     "patch": 85
   }
 }
