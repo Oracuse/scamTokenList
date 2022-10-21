@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5Db659f887FA656C8F26B99A43D5eD59cCd4f97b",
-      "symbol": "AKANO",
-      "name": "AkanoDragon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbBC2Ff9314Bfe4f911aF1834C1FDc454E5F9b4A5",
       "symbol": "MLARP",
       "name": "MINILARP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x254BceBa65d184e80a1194923F57c1862684945C",
+      "symbol": "SCR",
+      "name": "Scarecrow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11978,
-    "minor": 11978,
+    "major": 11979,
+    "minor": 11979,
     "patch": 85
   }
 }
