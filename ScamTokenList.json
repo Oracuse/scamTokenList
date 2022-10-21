@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3c3Ec68f7252cc8d58b5637c247a61AF7BF565B9",
-      "symbol": "NAME",
-      "name": "NAME",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf712eCFB626CF40ceb7fBd557e8C6bC44eb66BfF",
       "symbol": "OPO",
       "name": "OptimismO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8708f15C89bF3785002a853Fc4e2ebF60473a06d",
+      "symbol": "QIONGQI",
+      "name": "MythicBull",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11980,
-    "minor": 11980,
+    "major": 11981,
+    "minor": 11981,
     "patch": 85
   }
 }
