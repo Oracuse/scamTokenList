@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0B38E6c1D94B33B2A2c4ba8DbfeB2dB740507522",
-      "symbol": "RINU",
-      "name": "RyoshiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8149f34a9fEf268ecaDE4288A4fE366629A8A95d",
       "symbol": "MDAM",
       "name": "MDA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9e39e95EF30C842D6972941c4D0d7801e403E92",
+      "symbol": "FOOLS",
+      "name": "FOOLS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11900,
-    "minor": 11900,
+    "major": 11901,
+    "minor": 11901,
     "patch": 85
   }
 }
