@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x794579F6f970d8b8F1a966987699271BaFaDfe51",
-      "symbol": "DODOMEKI",
-      "name": "Dodomeki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9edC50507b404D59dB0DD486eE1abb8cE3b4Abef",
       "symbol": "DCHAMP",
       "name": "DogeChamp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x270E0677FA59b2F31f17E8Ce7fC13AeFE11F9E2F",
+      "symbol": "XBANK",
+      "name": "BankofX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11954,
-    "minor": 11954,
+    "major": 11955,
+    "minor": 11955,
     "patch": 85
   }
 }
