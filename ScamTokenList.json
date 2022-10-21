@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9F0209478cd90e2cF0506945363222De6A4da076",
-      "symbol": "OMIKAMI",
-      "name": "AmaterasuOmikami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6C7a670b2A2aFf6a8EC5B7B05b1BAAdd555776B1",
       "symbol": "CAFFEINA",
       "name": "NOTMENNORSEA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C4D62d46b94914916A9E341B5B61Abd97C7FAA9",
+      "symbol": "NOTHING",
+      "name": "Nothing",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11799,
-    "minor": 11799,
+    "major": 11800,
+    "minor": 11800,
     "patch": 85
   }
 }
