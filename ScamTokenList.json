@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x50c0DE3aC2CCB6Ef1248f07FD82C6D40eF590B70",
-      "symbol": "WJH",
-      "name": "WhatJustHappened",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a04847A87f5B2560326AF15b1F05AC2ec3Fd9b2",
       "symbol": "CHAOSTIC",
       "name": "CHAOSTIC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x762F2eFe70f732F6bBa84E4BB9aABB5a772E5Bd2",
+      "symbol": "MANTRA",
+      "name": "MANTRA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11926,
-    "minor": 11926,
+    "major": 11927,
+    "minor": 11927,
     "patch": 85
   }
 }
