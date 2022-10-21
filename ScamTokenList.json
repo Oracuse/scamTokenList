@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe21d9038c20890382cA5Baf24EaD4D5fbf09e28d",
-      "symbol": "NUKE",
-      "name": "DukeNukem",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x193E21c66C151dEed0EB1689421c7F7eF1efCa1e",
       "symbol": "KEKETH",
       "name": "KEKINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf56D9f8411Dece1d6dbc88462C941f2c15302a56",
+      "symbol": "RIP",
+      "name": "RippleInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11990,
-    "minor": 11990,
+    "major": 11991,
+    "minor": 11991,
     "patch": 85
   }
 }
