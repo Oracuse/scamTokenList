@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8D873dd6ACb3592f599C8F85617C399Bd3206428",
-      "symbol": "CARTAN",
-      "name": "CartanInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3508ACe8ba76f33fFafA3560aDaCb07C5E395974",
       "symbol": "X7M95",
       "name": "X7m95",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf72Cb6120BaFfAB1CA4dE3e70C083F5b39011657",
+      "symbol": "RMOON",
+      "name": "RandomMoonshot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11785,
-    "minor": 11785,
+    "major": 11786,
+    "minor": 11786,
     "patch": 85
   }
 }
