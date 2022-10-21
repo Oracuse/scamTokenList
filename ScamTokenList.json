@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6b45B00D3d373C3DCE06c1D694e8b224924e2232",
-      "symbol": "KAI",
-      "name": "KaiLegends",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2BD9A61CE1E04A7F4FFFBeB958De8330C5CCAA94",
       "symbol": "TIDE",
       "name": "TheTide",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94AaF8E8f69a3ABb4c9Ac75b4C684A6a8b7695f1",
+      "symbol": "SUP",
+      "name": "SupportProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11945,
-    "minor": 11945,
+    "major": 11946,
+    "minor": 11946,
     "patch": 85
   }
 }
