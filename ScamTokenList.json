@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB7855c0b5de3daF6F7A7924Be7402b874f04890c",
-      "symbol": "GIGASPIRAL",
-      "name": "GIGASPIRAL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2569a77cDE1C8131c3f3978AdE4E50b53ac18c04",
       "symbol": "EMU",
       "name": "Emu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd80Da72d8b5784e7154bDeA98cB0Da6546827D51",
+      "symbol": "FUTURE",
+      "name": "RyoshiProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11873,
-    "minor": 11873,
+    "major": 11874,
+    "minor": 11874,
     "patch": 85
   }
 }
