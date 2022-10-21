@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a04847A87f5B2560326AF15b1F05AC2ec3Fd9b2",
-      "symbol": "CHAOSTIC",
-      "name": "CHAOSTIC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7808e6FB6009c5F29E97836D39898951f4bAE5EC",
       "symbol": "DECANECT",
       "name": "Decanect",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A78969e7c2037034abd18716F00f30E32ddBfC7",
+      "symbol": "TCOMP",
+      "name": "THECompound",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11927,
-    "minor": 11927,
+    "major": 11928,
+    "minor": 11928,
     "patch": 85
   }
 }
