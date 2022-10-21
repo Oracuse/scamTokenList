@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8761b5A333A2889cfC52F27fa025F42D94845B90",
-      "symbol": "DOGAI",
-      "name": "DogePawtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82a80dDFB00D3B615Ae4B9C29C9F691E93F84bF3",
       "symbol": "METAMONKEYAI",
       "name": "MetaMonkeyAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15a3E8804aCC11D0d88398912CcfD0f3497F9d93",
+      "symbol": "BERLIN",
+      "name": "GigaBerlin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11808,
-    "minor": 11808,
+    "major": 11809,
+    "minor": 11809,
     "patch": 85
   }
 }
