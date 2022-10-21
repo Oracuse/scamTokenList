@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfe400aDD359651F9A7a6FB449cf03Eea066d0e89",
-      "symbol": "SHIROHEBI",
-      "name": "WhiteSnake",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8D9a7366d98aa8d8e9F71f6cf7519e81Ccd15109",
       "symbol": "VOID",
       "name": "THEVOID",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90089B5B8573848A5b282661D95fe0587f1FfbEb",
+      "symbol": "DTX",
+      "name": "DIETHEX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11932,
-    "minor": 11932,
+    "major": 11933,
+    "minor": 11933,
     "patch": 85
   }
 }
