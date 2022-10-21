@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8BE73aF57a3995a96e3e0331D02f7A5fdBcBA356",
-      "symbol": "GEYSER",
-      "name": "TheGeyser",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD2734104C6348A767208ce4124670ff7537B2622",
       "symbol": "M105",
       "name": "m105",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98FfaC301050ca879A776E781E712F655c057b79",
+      "symbol": "DAT",
+      "name": "DeathAndTaxes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11869,
-    "minor": 11869,
+    "major": 11870,
+    "minor": 11870,
     "patch": 85
   }
 }
