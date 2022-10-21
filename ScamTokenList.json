@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x557C883d1eB20fa96c1AAFC8EC441796349440E4",
-      "symbol": "SYRAX",
-      "name": "Syrax",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x67e5643d1cb8bBdbF9F78c53C6aEbDE35736cD04",
       "symbol": "FCA",
       "name": "FCA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD820C6e93636F3251379Be1a486dC760ef2B3904",
+      "symbol": "DIECOIN",
+      "name": "DieProtocolCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11817,
-    "minor": 11817,
+    "major": 11818,
+    "minor": 11818,
     "patch": 85
   }
 }
