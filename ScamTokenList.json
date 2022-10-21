@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7f28EFeFe4b9cd723D6A92649fcd713cB3d0293f",
-      "symbol": "DOGEAZON",
-      "name": "Dogeazon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC604865692FD8b8E5deA9901884E052719632b1e",
       "symbol": "JUSTICE",
       "name": "JusticeForRyoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9541DEd08E9079799b861292EB9D2BC379A0E29",
+      "symbol": "KILL",
+      "name": "KILLProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11915,
-    "minor": 11915,
+    "major": 11916,
+    "minor": 11916,
     "patch": 85
   }
 }
