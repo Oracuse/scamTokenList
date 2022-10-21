@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6C7a670b2A2aFf6a8EC5B7B05b1BAAdd555776B1",
-      "symbol": "CAFFEINA",
-      "name": "NOTMENNORSEA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66467F56d782B826307F09F4570F8A6a30856454",
       "symbol": "GEN",
       "name": "GenShiken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4EC0e007f514904267FEF8E9291FEEc2a9839964",
+      "symbol": "OSFE",
+      "name": "OSFEdition",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11800,
-    "minor": 11800,
+    "major": 11801,
+    "minor": 11801,
     "patch": 85
   }
 }
