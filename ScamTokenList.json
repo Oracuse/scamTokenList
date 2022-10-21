@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7A2f547C50B2a5A885e52761e3539bd01C04be38",
-      "symbol": "SOTA",
-      "name": "SotoAyam",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50c0DE3aC2CCB6Ef1248f07FD82C6D40eF590B70",
       "symbol": "WJH",
       "name": "WhatJustHappened",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x845DB07D43CE3d959c1569124f425f9CDa3D71E4",
+      "symbol": "MEME",
+      "name": "MEME",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11925,
-    "minor": 11925,
+    "major": 11926,
+    "minor": 11926,
     "patch": 85
   }
 }
