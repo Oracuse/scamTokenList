@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x547A83BE1C29325BfFa544075a05AC017e4e5762",
-      "symbol": "APEREUM",
-      "name": "APEREUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4995c1277E4004DC283F4DD9Ec7b3F6bC7a27451",
       "symbol": "WAGMI",
       "name": "WenDevWenBuybackNoD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB54C88081910EA13E78e9e6544Ea43Ba4d2De8c3",
+      "symbol": "JOKE",
+      "name": "JokeProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11893,
-    "minor": 11893,
+    "major": 11894,
+    "minor": 11894,
     "patch": 85
   }
 }
