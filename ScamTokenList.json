@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23c0c08DB059cf542399B1D3417988090282fEa4",
-      "symbol": "SUMI",
-      "name": "Owatatsuminokami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf0FFd647159FFea1B34433B3B681879C0286EE8e",
       "symbol": "RKJ",
       "name": "Renkinjutsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cB7884663fCaE39Faa92Cab5BD03973435A15f8",
+      "symbol": "LARRY",
+      "name": "LarryTruss",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11820,
-    "minor": 11820,
+    "major": 11821,
+    "minor": 11821,
     "patch": 85
   }
 }
