@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3A06726d0D4Cfb1C6334848225a56A7E675ab0a8",
-      "symbol": "LOTTO",
-      "name": "LotteryInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbfAD51b4C2a49E0F5D127F836f5dbE3849682b2a",
       "symbol": "CLEAR",
       "name": "ClearToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x809E130E10e787139c54e1d12d3D1971b7A675Bf",
+      "symbol": "MTD",
+      "name": "MTD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11796,
-    "minor": 11796,
+    "major": 11797,
+    "minor": 11797,
     "patch": 85
   }
 }
