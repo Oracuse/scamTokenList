@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8aA2f18e9E03bC5695181B898872C6039a9C95fc",
-      "symbol": "TIME",
-      "name": "ResetofTime",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9F8B33A00f29948aBA40E9E11b42528f41B7FAEC",
       "symbol": "CCINU",
       "name": "CryptoCrashInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Ae050DCE65871949eaB573Fa00497C4928692eE",
+      "symbol": "YANTRA",
+      "name": "Yantra",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11921,
-    "minor": 11921,
+    "major": 11922,
+    "minor": 11922,
     "patch": 85
   }
 }
