@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF590e7cf0665e313B06Ca88a53E147044342541d",
-      "symbol": "WATEREUM",
-      "name": "WATEREUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9B1B28c2df4635824cA4b5f549b08f185aF7DcA2",
       "symbol": "CGUH",
       "name": "GoesUpHigherClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C916E64B36D2e145949b1033db95ac728F15Ba1",
+      "symbol": "DIEINU",
+      "name": "DIEPROTOCOLINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11913,
-    "minor": 11913,
+    "major": 11914,
+    "minor": 11914,
     "patch": 85
   }
 }
