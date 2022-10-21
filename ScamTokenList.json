@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x851080db5C049C43C5290e4139375Ea8a327355A",
-      "symbol": "SPM",
-      "name": "SigParvisMagna",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4371983e2B88c51707bD2e1De0884F6Ef7226c0e",
       "symbol": "SOMOX",
       "name": "Somox",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3efEBeB5915218268AC9cE497B6A71D9E9F8916",
+      "symbol": "Z",
+      "name": "ZProtcol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11788,
-    "minor": 11788,
+    "major": 11789,
+    "minor": 11789,
     "patch": 85
   }
 }
