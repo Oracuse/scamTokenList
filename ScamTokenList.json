@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62f3AdbEf5042a63a4a545D70C5E4fdCCA0995b2",
-      "symbol": "1P",
-      "name": "Inc3pt10nProtocol",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81A2F942151d486CdCB49fE56D6D34c6b86339F2",
       "symbol": "FTON",
       "name": "FlexTon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06F41728FA97C93f06B0a2CA6C7d38A3F470dFe5",
+      "symbol": "THEX",
+      "name": "TheX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11949,
-    "minor": 11949,
+    "major": 11950,
+    "minor": 11950,
     "patch": 85
   }
 }
