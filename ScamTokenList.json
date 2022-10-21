@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5bce4069253823c60b4A8297D3c1177b929490Bd",
-      "symbol": "SKY",
-      "name": "SKY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6feaE069B759A0BF99F8685A90C5e48cdd1bC74D",
       "symbol": "KAZENOHITORI",
       "name": "KazenoHitori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2CA723C11C305861495AA5b9816E405D9A6794E1",
+      "symbol": "OREO",
+      "name": "OREO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11952,
-    "minor": 11952,
+    "major": 11953,
+    "minor": 11953,
     "patch": 85
   }
 }
