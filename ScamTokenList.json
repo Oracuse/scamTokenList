@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0E5078376a70c77b37F8174f38Fb3D2c7c84efd0",
-      "symbol": "X7C",
-      "name": "X7Cash",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62f3AdbEf5042a63a4a545D70C5E4fdCCA0995b2",
       "symbol": "1P",
       "name": "Inc3pt10nProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x113EAEbce25E18Aa90167E9bD6b97930ca9b2fb2",
+      "symbol": "BMI",
+      "name": "BullMarketInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11948,
-    "minor": 11948,
+    "major": 11949,
+    "minor": 11949,
     "patch": 85
   }
 }
