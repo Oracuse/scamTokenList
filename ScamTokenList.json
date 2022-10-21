@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4aE6Dc36541016510B7437F4Fb91e9C1E11f2CAf",
-      "symbol": "WANI",
-      "name": "DejitaruWani",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x23cd0CFdE8d3B5460908F7397Fb9FFaBf3Bef594",
       "symbol": "MHYSA",
       "name": "Mother",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD24034044C9949f1827AD33f4f5fBcc22a63051C",
+      "symbol": "MB",
+      "name": "MicroBerlin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11896,
-    "minor": 11896,
+    "major": 11897,
+    "minor": 11897,
     "patch": 85
   }
 }
