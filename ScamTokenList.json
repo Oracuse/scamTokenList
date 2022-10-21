@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb89FEd4Ffc87DD8684496589d5D06fd2fc883aCD",
-      "symbol": "GOTIME",
-      "name": "GoTime",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x43f13BC4bf8d840f9C257F5cd1b5Cd10e88Eb5A6",
       "symbol": "PRINTBTC",
       "name": "PRINTBTC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3c27bc999F90e914ab23458D1c4Bc110dD6f395",
+      "symbol": "TMNF",
+      "name": "TeenageMutantNinjaF",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11876,
-    "minor": 11876,
+    "major": 11877,
+    "minor": 11877,
     "patch": 85
   }
 }
