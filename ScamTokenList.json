@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2BD9A61CE1E04A7F4FFFBeB958De8330C5CCAA94",
-      "symbol": "TIDE",
-      "name": "TheTide",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5f6B44122F13bFcfA0E497aedE67f61e0A8df042",
       "symbol": "TIDE",
       "name": "TheTide",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f351A9798028a3EBD21fAa9b61059E6cb6D9785",
+      "symbol": "DXP",
+      "name": "DIEXProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11946,
-    "minor": 11946,
+    "major": 11947,
+    "minor": 11947,
     "patch": 85
   }
 }
