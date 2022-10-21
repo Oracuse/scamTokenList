@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x573C73aBF321a650BcAD4fEB63a9e00d45B13B0A",
-      "symbol": "RASENGAN",
-      "name": "KAGEBUNSHINNOJUTSU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F684C2723dFc78b433fF7c0ee6EaBcdb44840CB",
       "symbol": "PEEKABOO",
       "name": "BANANAGHOST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d19295e77ac87e07fc4DE3E3Be47084fF1713DC",
+      "symbol": "KRYPTO",
+      "name": "KryptoInu",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11967,
-    "minor": 11967,
+    "major": 11968,
+    "minor": 11968,
     "patch": 85
   }
 }
