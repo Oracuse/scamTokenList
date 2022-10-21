@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2B867548c7519eE534B716D0d6076BddD0Df514e",
-      "symbol": "SUNE",
-      "name": "Kitsune",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x894b29C48bdD75efB31dEb931c11153Ef4c28d62",
       "symbol": "JITTERS",
       "name": "AlienJitters",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F367a7cFBAae418A0362d33b3f45312e23D9bA2",
+      "symbol": "UNSTABLE",
+      "name": "UnstableCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11865,
-    "minor": 11865,
+    "major": 11866,
+    "minor": 11866,
     "patch": 85
   }
 }
