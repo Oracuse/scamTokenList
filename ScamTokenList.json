@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8bB798A39ba802a7692c7185f305572aEcBb172b",
-      "symbol": "CHIMU",
-      "name": "Chinmurai",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80d9C2e4b7e49C2A6b6fa070B66eC8ba6983f69c",
       "symbol": "SUCCUBUS",
       "name": "Succubus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42ce9D1714f404326b4a7Ac1e60Ac39674Fd570D",
+      "symbol": "DAS",
+      "name": "DASProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11974,
-    "minor": 11974,
+    "major": 11975,
+    "minor": 11975,
     "patch": 85
   }
 }
