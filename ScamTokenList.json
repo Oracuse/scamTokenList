@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9edC50507b404D59dB0DD486eE1abb8cE3b4Abef",
-      "symbol": "DCHAMP",
-      "name": "DogeChamp",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93466f163955cD76e6fE69A1d2354362d68f7Bc9",
       "symbol": "OBAKE",
       "name": "Obake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf963a26635F66C5B9045E3Ad057F8491fBc69033",
+      "symbol": "GO",
+      "name": "GoProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11955,
-    "minor": 11955,
+    "major": 11956,
+    "minor": 11956,
     "patch": 85
   }
 }
