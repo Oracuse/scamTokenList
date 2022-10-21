@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1dceE6c56F909fd439befd1762457C5E803E1e5A",
-      "symbol": "VOID",
-      "name": "THEVOID",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5A2d70fb4864d9BEe54d03AFA1207aDF49E16532",
       "symbol": "VOID",
       "name": "THEVOID",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB96003f6eC4Fd65fc70DE3d1B997c2A98879CdBc",
+      "symbol": "NANODIE",
+      "name": "NanoDIE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11839,
-    "minor": 11839,
+    "major": 11840,
+    "minor": 11840,
     "patch": 85
   }
 }
