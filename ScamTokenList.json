@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb7050Eba5E1b1445a580d6f3d9b180a496029AFa",
-      "symbol": "SBX",
-      "name": "ShibaCrypt",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x547A83BE1C29325BfFa544075a05AC017e4e5762",
       "symbol": "APEREUM",
       "name": "APEREUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe11e3349d4c0CA8C03B641A70e148f49255F968A",
+      "symbol": "AFJ",
+      "name": "AprilFoolsJoke",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11892,
-    "minor": 11892,
+    "major": 11893,
+    "minor": 11893,
     "patch": 85
   }
 }
