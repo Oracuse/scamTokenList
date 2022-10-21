@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD6652C96d06D65F947ad3f91139E249fEaB51224",
-      "symbol": "JUROIN",
-      "name": "JUROIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe801a4130E2FefA30cbBD06afbD729459ddD50e8",
       "symbol": "SPIRAL",
       "name": "SPIRAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x313958D36240F95A63D71e4cC42D8AC2c1Ee9a47",
+      "symbol": "2",
+      "name": "2of2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11992,
-    "minor": 11992,
+    "major": 11993,
+    "minor": 11993,
     "patch": 85
   }
 }
