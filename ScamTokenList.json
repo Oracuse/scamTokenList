@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA86c08c2E67A16Cd861CF59D120d5D03F7199d0e",
-      "symbol": "MOPSBURN",
-      "name": "MopsBurn",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfc371416EcF4344182c54A4590afbCA35C5D86A7",
       "symbol": "BAIHU",
       "name": "Baihu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64403C5F2f2dA959fBdd9d297511ef57eb7C68e9",
+      "symbol": "SAMLE",
+      "name": "TheDevilsWish",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11765,
-    "minor": 11765,
+    "major": 11766,
+    "minor": 11766,
     "patch": 85
   }
 }
