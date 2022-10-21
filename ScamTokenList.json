@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9d29f423C5e36b621B61D24ec98d7c2d102dC022",
-      "symbol": "HOMELESS",
-      "name": "Homeless",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25e3F6DbA22675C5d17365611dBfd685bbE1d1b1",
       "symbol": "WANI",
       "name": "DejitaruWani",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4De7fcf157F64c791eF8359a3546fa2395BDdDBD",
+      "symbol": "XP",
+      "name": "XPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11850,
-    "minor": 11850,
+    "major": 11851,
+    "minor": 11851,
     "patch": 85
   }
 }
