@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28d116c3712D9fEC26F0F25a1BA531B8451D80Ca",
-      "symbol": "PACMAN",
-      "name": "PACMAN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2B867548c7519eE534B716D0d6076BddD0Df514e",
       "symbol": "SUNE",
       "name": "Kitsune",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4faa6db2301DA258238AC7D542191b532a0C70ac",
+      "symbol": "ECO",
+      "name": "Eco",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11864,
-    "minor": 11864,
+    "major": 11865,
+    "minor": 11865,
     "patch": 85
   }
 }
