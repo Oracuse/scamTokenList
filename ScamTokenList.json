@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0b7eB80601241ac1347604C8EacdcaCa3547e4Cc",
-      "symbol": "SHAKE",
-      "name": "TheShake",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB7855c0b5de3daF6F7A7924Be7402b874f04890c",
       "symbol": "GIGASPIRAL",
       "name": "GIGASPIRAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7F4643C47Ea842cdb397bfca0bb14D6B3F728De",
+      "symbol": "PEPE",
+      "name": "LiquidPepe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11872,
-    "minor": 11872,
+    "major": 11873,
+    "minor": 11873,
     "patch": 85
   }
 }
