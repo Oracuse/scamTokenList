@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23cd0CFdE8d3B5460908F7397Fb9FFaBf3Bef594",
-      "symbol": "MHYSA",
-      "name": "Mother",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x60651851A8FC9492aF9e53Dc92Ac0C7ecaE50691",
       "symbol": "TAROT",
       "name": "TheFate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25a10C9eaDa3aac563aF0d45A1D7AC190c5B78A4",
+      "symbol": "THEDIE",
+      "name": "THEANDDIE",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11897,
-    "minor": 11897,
+    "major": 11898,
+    "minor": 11898,
     "patch": 85
   }
 }
