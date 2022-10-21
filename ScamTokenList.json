@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6Cc6c06Dbedd9f69e3b6C4f1DB9cF5a28629A21A",
-      "symbol": "TAROT",
-      "name": "TheFate",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF590e7cf0665e313B06Ca88a53E147044342541d",
       "symbol": "WATEREUM",
       "name": "WATEREUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e27fA55318bD6560ca0f250eF475A449fDc8A33",
+      "symbol": "WTD",
+      "name": "WhatsTheDifference",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11912,
-    "minor": 11912,
+    "major": 11913,
+    "minor": 11913,
     "patch": 85
   }
 }
