@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x78661C3699e5Ee2Af43c2930fA5BfC848BebD76a",
-      "symbol": "X7DR",
-      "name": "X7Drift",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93c76283065232fD678B3c2Fa6e382c15a9333E0",
       "symbol": "X7M105",
       "name": "X7m105",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1423128B54cBD1fBc1DA0DE4848e6AeeF62DE26d",
+      "symbol": "1000X",
+      "name": "1000X",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11939,
-    "minor": 11939,
+    "major": 11940,
+    "minor": 11940,
     "patch": 85
   }
 }
