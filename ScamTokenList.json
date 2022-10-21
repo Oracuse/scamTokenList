@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x04A204A6aFE943b72673B4f01190060DF7630692",
-      "symbol": "SCHRODINGER",
-      "name": "Schrodinger",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA86c08c2E67A16Cd861CF59D120d5D03F7199d0e",
       "symbol": "MOPSBURN",
       "name": "MopsBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74Edf699F45c2F35474517d2A8fd226ca41Ab4b7",
+      "symbol": "FSCHLONG",
+      "name": "FRANKENSCHLONG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11764,
-    "minor": 11764,
+    "major": 11765,
+    "minor": 11765,
     "patch": 85
   }
 }
