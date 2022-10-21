@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x01b335C3814a60C2888c1133A021882C18eeBFC2",
-      "symbol": "EMU",
-      "name": "Emu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2385f55672475fb9263c41d44092a761454Bca82",
       "symbol": "HSYN",
       "name": "HSynapse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82916D68137c7A6047880B257AbA336Cd3867F9B",
+      "symbol": "DEATHCHAIN",
+      "name": "DeathChain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11768,
-    "minor": 11768,
+    "major": 11769,
+    "minor": 11769,
     "patch": 85
   }
 }
