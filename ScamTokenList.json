@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB1A5BEed298B68FE850C8437c3930143acA07e9c",
-      "symbol": "4ACES",
-      "name": "4ACES",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x02EBA32D4361143aB2EEeF6677c3A313b5A7049B",
       "symbol": "KAMUY",
       "name": "HasinawukKamuy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca540Ddea11602F390910F8aDCcE541FC911da6c",
+      "symbol": "NIA",
+      "name": "NotInvestmentAdvice",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11771,
-    "minor": 11771,
+    "major": 11772,
+    "minor": 11772,
     "patch": 85
   }
 }
