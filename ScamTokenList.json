@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0B83B0a9bD391ecF88A433272bb1C6290023d495",
-      "symbol": "DEITY",
-      "name": "TheFourthDim3nsi0n",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x77DB94397EDb21ee7B33Cc4c89051F64a7F64ff6",
       "symbol": "ORBIT",
       "name": "Orbit",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x257369D4d4Ff68a688e7F9C42eeCE1a7CCF0926A",
+      "symbol": "TEST",
+      "name": "test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11773,
-    "minor": 11773,
+    "major": 11774,
+    "minor": 11774,
     "patch": 85
   }
 }
