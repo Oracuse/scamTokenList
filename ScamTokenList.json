@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x420A74907EDe0BAfd8483c76Ea01a1523d69ceA8",
-      "symbol": "H0LE",
-      "name": "Corrxpted",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA807E757Ca0e71D9fd5a073a533d8CdA0F257A3f",
       "symbol": "CAMEL",
       "name": "CAMEL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x014F515BADD9360874B3914d3b1c8c82A47eF998",
+      "symbol": "NOTHING",
+      "name": "NothingStable",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11852,
-    "minor": 11852,
+    "major": 11853,
+    "minor": 11853,
     "patch": 85
   }
 }
