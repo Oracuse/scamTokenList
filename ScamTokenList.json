@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE5a50F3365322da700a7cCc1118B4EFB6EB4C56a",
-      "symbol": "HODL",
-      "name": "HODL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9197fCB5f7ec15062BE8C6E7Ff3ba1659961cbF3",
       "symbol": "USAGI",
       "name": "USAGI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x430D43476A98Bc4b17e9b43A8c1f6e9986A4461a",
+      "symbol": "MEV",
+      "name": "TheMev",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11779,
-    "minor": 11779,
+    "major": 11780,
+    "minor": 11780,
     "patch": 85
   }
 }
