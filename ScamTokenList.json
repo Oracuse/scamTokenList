@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbBC2Ff9314Bfe4f911aF1834C1FDc454E5F9b4A5",
-      "symbol": "MLARP",
-      "name": "MINILARP",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3c3Ec68f7252cc8d58b5637c247a61AF7BF565B9",
       "symbol": "NAME",
       "name": "NAME",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeC93D78e4ABF6e2839a4D1C04DCaF50cB6d3bDb6",
+      "symbol": "VOID",
+      "name": "TheVoid",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11979,
-    "minor": 11979,
+    "major": 11980,
+    "minor": 11980,
     "patch": 85
   }
 }
