@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4e8b5d7a391C949DE0f1B7059251E54dE7Be0eD3",
-      "symbol": "RJI",
-      "name": "RAIJININU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf2eF44aB5a31c2D052EA71D7C70D646D292f228F",
       "symbol": "SPIRALN",
       "name": "SpiralNomics",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61b6c43d90530468019831a7C6e11Aa88588a661",
+      "symbol": "KRYPTO",
+      "name": "KryptoInu",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11976,
-    "minor": 11976,
+    "major": 11977,
+    "minor": 11977,
     "patch": 85
   }
 }
