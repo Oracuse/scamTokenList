@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x894b29C48bdD75efB31dEb931c11153Ef4c28d62",
-      "symbol": "JITTERS",
-      "name": "AlienJitters",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD7eC66c5268e263815Fc92DE44dBA0e06746D74D",
       "symbol": "UTSU",
       "name": "UTSUKUSHII",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e33f41a1aec16dba398c139e12a2f00aA5e93bC",
+      "symbol": "SHF",
+      "name": "SpookyHalloweenFlok",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11866,
-    "minor": 11866,
+    "major": 11867,
+    "minor": 11867,
     "patch": 85
   }
 }
