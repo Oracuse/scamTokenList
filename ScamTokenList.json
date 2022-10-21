@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5E38937cDff40A97a4f2e7B01928568b1107b4ef",
-      "symbol": "SSHARDS",
-      "name": "SoulShards",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3946fAd52421334Dd20ad88bCD84DF09a3C9Cb54",
       "symbol": "FUTURE",
       "name": "FUTUREPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7c2240F07D973BE32477A9fcffE12f478AA504b",
+      "symbol": "PROOFOFLIFE",
+      "name": "ProofOfLife",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11762,
-    "minor": 11762,
+    "major": 11763,
+    "minor": 11763,
     "patch": 85
   }
 }
