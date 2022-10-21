@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9481F770419E80E8d7811d5626BA722F71CaDC24",
-      "symbol": "DAIKOKUMAI",
-      "name": "Daikokumai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfe400aDD359651F9A7a6FB449cf03Eea066d0e89",
       "symbol": "SHIROHEBI",
       "name": "WhiteSnake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35feD36a8150A619476CE3dC4c8340F86fB7F66b",
+      "symbol": "XY",
+      "name": "XandY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11931,
-    "minor": 11931,
+    "major": 11932,
+    "minor": 11932,
     "patch": 85
   }
 }
