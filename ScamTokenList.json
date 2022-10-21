@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdEEaA33e1b016562d03768E4FCB0b38F0A55b39D",
-      "symbol": "SLASH",
-      "name": "Slash",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEe7c59dD579D8a06F8c2827D35b9f94357AFF274",
       "symbol": "DPAR",
       "name": "DOGESPARTY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1C8cae3765857BD24E36fcf916eaa1E8Cb68F42E",
+      "symbol": "DIE",
+      "name": "dieprotocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11829,
-    "minor": 11829,
+    "major": 11830,
+    "minor": 11830,
     "patch": 85
   }
 }
