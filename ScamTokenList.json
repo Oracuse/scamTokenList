@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xba56eb5468f42E38865469a0Dc9A180F932f2CB7",
-      "symbol": "METAMONKEYAI",
-      "name": "MetaMonkeyAI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8aA2f18e9E03bC5695181B898872C6039a9C95fc",
       "symbol": "TIME",
       "name": "ResetofTime",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32129a60a6B28D7799a8b3c015Dc32b00B097b63",
+      "symbol": "CREEP",
+      "name": "CryptoCreepers",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11920,
-    "minor": 11920,
+    "major": 11921,
+    "minor": 11921,
     "patch": 85
   }
 }
