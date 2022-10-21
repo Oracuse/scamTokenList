@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x445d079541e1c312a28112be90CD816054c7B29d",
-      "symbol": "MOL",
-      "name": "RyoshiMasterclassOf",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xba56eb5468f42E38865469a0Dc9A180F932f2CB7",
       "symbol": "METAMONKEYAI",
       "name": "MetaMonkeyAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5723C8edD626F43b471E5a4096E9433f51624278",
+      "symbol": "SBF",
+      "name": "SBFPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11919,
-    "minor": 11919,
+    "major": 11920,
+    "minor": 11920,
     "patch": 85
   }
 }
