@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1051d3a4898041E5bCbCB64f8C1ddb641a4E62BE",
-      "symbol": "GRE",
-      "name": "GigaRiseETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC5aa2eC04D64E26e845545660E231602e03E7D79",
       "symbol": "YOMI",
       "name": "YomiNoKuni",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEF6dbeCd2A7766CED477ebabe0e96B1eeC8dC6b8",
+      "symbol": "NOWAY",
+      "name": "NoWay",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11783,
-    "minor": 11783,
+    "major": 11784,
+    "minor": 11784,
     "patch": 85
   }
 }
