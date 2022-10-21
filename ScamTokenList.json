@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0536d94Eb0bC946a9853Aff63304a8aB430A0D28",
-      "symbol": "CDL",
-      "name": "ClaireDeLune",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf1d128E708983DCb0b483712C0a7dfdC234E2b2b",
       "symbol": "BIOH",
       "name": "BIOHAZARD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C8B46DAa12d39784Aa8B7c102c451f3dB5c2202",
+      "symbol": "ASSLOGIC",
+      "name": "UnAssailableLogic",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11906,
-    "minor": 11906,
+    "major": 11907,
+    "minor": 11907,
     "patch": 85
   }
 }
