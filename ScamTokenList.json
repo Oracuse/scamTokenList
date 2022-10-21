@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFf88d7C1Bd677bb28827C3da8171fB801C7c2eA8",
-      "symbol": "GA",
-      "name": "GuardianAngel",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5a3b6Acb03Bb7666DF9A1f4C344FB535696499B6",
       "symbol": "BETRAY",
       "name": "TheTraitor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x696Aac6adcD771d4a4e20e993CCDa87e742a863b",
+      "symbol": "EVM",
+      "name": "ElonVitalikMarketin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11889,
-    "minor": 11889,
+    "major": 11890,
+    "minor": 11890,
     "patch": 85
   }
 }
