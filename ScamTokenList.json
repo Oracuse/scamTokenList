@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1550D560eDEBc2f52F04B00728f0977A31F359Ba",
-      "symbol": "DIRT",
-      "name": "TheDirt",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb82F2C44D075F521408b1c69311002704FBf5893",
       "symbol": "DIRT",
       "name": "TheDirt",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9917eab9730fA5E5C873537D83877B4Fa1517FBd",
+      "symbol": "SI",
+      "name": "Si",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11750,
-    "minor": 11750,
+    "major": 11751,
+    "minor": 11751,
     "patch": 85
   }
 }
