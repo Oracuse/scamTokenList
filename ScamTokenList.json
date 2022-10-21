@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7946a3E54cB34A68beabF949Cd4Cd5B4375C89Df",
-      "symbol": "POLRS",
-      "name": "Polaris",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x602D2e90D802aB06CF96b40329ed262FE9D839B6",
       "symbol": "WANI",
       "name": "DejitaruWani",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x477e1060F3A326323C301070AcB7c202Ae29b0F1",
+      "symbol": "X",
+      "name": "Thexprotocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11936,
-    "minor": 11936,
+    "major": 11937,
+    "minor": 11937,
     "patch": 85
   }
 }
