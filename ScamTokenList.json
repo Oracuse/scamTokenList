@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC604865692FD8b8E5deA9901884E052719632b1e",
-      "symbol": "JUSTICE",
-      "name": "JusticeForRyoshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB4503d9ac55D717a0be8a9fC0150586D9D697381",
       "symbol": "LARP",
       "name": "RyoshiSchoolofLarp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD6ea10FE88191C8F8B4924821041FAE4D3907AdD",
+      "symbol": "HELP",
+      "name": "KarlDotTech",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11916,
-    "minor": 11916,
+    "major": 11917,
+    "minor": 11917,
     "patch": 85
   }
 }
