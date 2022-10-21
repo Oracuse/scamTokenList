@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81A2F942151d486CdCB49fE56D6D34c6b86339F2",
-      "symbol": "FTON",
-      "name": "FlexTon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB36E7EEf7144Eb5d70A2013Bf1c8d67d8096373b",
       "symbol": "BLESS",
       "name": "BlessingHour",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4739Ecb7d2fC3B4D056a7EF4320f273bA1E9Ff10",
+      "symbol": "THEXDDIE",
+      "name": "memeshib",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11950,
-    "minor": 11950,
+    "major": 11951,
+    "minor": 11951,
     "patch": 85
   }
 }
