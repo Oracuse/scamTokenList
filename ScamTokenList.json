@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x57aD9779Ed5fE17403B8dc7695BCF06C98E4c9fa",
-      "symbol": "DOGSHIT",
-      "name": "DogShit",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01b335C3814a60C2888c1133A021882C18eeBFC2",
       "symbol": "EMU",
       "name": "Emu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x173c9845D24da6E8c3372d4E8C60c0C933a14b38",
+      "symbol": "TROLL",
+      "name": "troll",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11767,
-    "minor": 11767,
+    "major": 11768,
+    "minor": 11768,
     "patch": 85
   }
 }
