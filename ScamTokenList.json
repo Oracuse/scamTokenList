@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9197fCB5f7ec15062BE8C6E7Ff3ba1659961cbF3",
-      "symbol": "USAGI",
-      "name": "USAGI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb3c0fE07926901DECc03EfE231208B9F9551E7F7",
       "symbol": "VEGANA",
       "name": "Vegana",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x354E2cCE79dBEf218aCBE051755CDEf51418B553",
+      "symbol": "BONES",
+      "name": "TheBoneCollector",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11780,
-    "minor": 11780,
+    "major": 11781,
+    "minor": 11781,
     "patch": 85
   }
 }
