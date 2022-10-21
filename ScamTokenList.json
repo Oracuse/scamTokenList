@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x735008d496c10cc1105BB65F8EA2b812D9A6ec5e",
-      "symbol": "KUROI",
-      "name": "KUROI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3Fe70e75617A55c214C703C7E6F994d02Fad33e1",
       "symbol": "MEDJAYINU",
       "name": "Medjayinu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D796436217a85Add5EE153532B8816eF5121a65",
+      "symbol": "CONSPIRACY",
+      "name": "Conspiracy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11929,
-    "minor": 11929,
+    "major": 11930,
+    "minor": 11930,
     "patch": 85
   }
 }
