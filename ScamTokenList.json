@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f86455bb9603D4349e854F8EB368f05EE6c44f5",
-      "symbol": "EMO",
-      "name": "EmotionalHardcore",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28d116c3712D9fEC26F0F25a1BA531B8451D80Ca",
       "symbol": "PACMAN",
       "name": "PACMAN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7323e7d658d166d8170dfaeC7a676Fe44F6B1480",
+      "symbol": "THEBLOG",
+      "name": "ReadTheBlog",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11863,
-    "minor": 11863,
+    "major": 11864,
+    "minor": 11864,
     "patch": 85
   }
 }
