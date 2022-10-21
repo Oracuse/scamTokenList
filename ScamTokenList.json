@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x77DB94397EDb21ee7B33Cc4c89051F64a7F64ff6",
-      "symbol": "ORBIT",
-      "name": "Orbit",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb3B51c8273b242469dF3d2A9764231EEa9dE44F3",
       "symbol": "SOKAMI",
       "name": "Shirokami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A16CeC3c772Db60C493Be67A1Da30AdE035c075",
+      "symbol": "REAPER",
+      "name": "TheGrimreaper",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11774,
-    "minor": 11774,
+    "major": 11775,
+    "minor": 11775,
     "patch": 85
   }
 }
