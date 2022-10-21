@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf2a49Ca89C0D37a34FEDF4E103CCd9f8Fc1d03b6",
-      "symbol": "6969",
-      "name": "The6969",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8aA9859eBB6e14282D5f365A8bE864582b7ef5FD",
       "symbol": "STRAT",
       "name": "Stratmos",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb1347801C6De7723258E524a047B0cAcbD28B9bb",
+      "symbol": "RUKI",
+      "name": "Razuki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11753,
-    "minor": 11753,
+    "major": 11754,
+    "minor": 11754,
     "patch": 85
   }
 }
