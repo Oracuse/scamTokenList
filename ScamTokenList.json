@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7808e6FB6009c5F29E97836D39898951f4bAE5EC",
-      "symbol": "DECANECT",
-      "name": "Decanect",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x735008d496c10cc1105BB65F8EA2b812D9A6ec5e",
       "symbol": "KUROI",
       "name": "KUROI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38F96f1a7ff87CeB5cD673eF0bEF763EDFaC85D7",
+      "symbol": "MEN",
+      "name": "MEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11928,
-    "minor": 11928,
+    "major": 11929,
+    "minor": 11929,
     "patch": 85
   }
 }
