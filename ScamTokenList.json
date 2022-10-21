@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2569a77cDE1C8131c3f3978AdE4E50b53ac18c04",
-      "symbol": "EMU",
-      "name": "Emu",
-      "decimals": 15,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFdd9AdcdF21A7F7EACC71A6F23a3b95BE51C6186",
       "symbol": "LOST",
       "name": "Spirits",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A652b2CAA9cA92A32154FFd1C33dF888d723BcA",
+      "symbol": "X",
+      "name": "X",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11874,
-    "minor": 11874,
+    "major": 11875,
+    "minor": 11875,
     "patch": 85
   }
 }
