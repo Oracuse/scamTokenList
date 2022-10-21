@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB70C13db51285386095A9202464A3dB03c6E1B45",
-      "symbol": "WRLD",
-      "name": "TheProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4128ABe03Cb7a2C6078F6283E8E560723eA08a94",
       "symbol": "DECANECT",
       "name": "Decanect",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBfEd9259f46D8415b6E6456C3B2aA0078BFb2B55",
+      "symbol": "YAETSUNE",
+      "name": "Yaetsune",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11748,
-    "minor": 11748,
+    "major": 11749,
+    "minor": 11749,
     "patch": 85
   }
 }
