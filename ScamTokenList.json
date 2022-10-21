@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC1deEC046d0b0f9E4Ce024a28f6ef5a47092c268",
-      "symbol": "HAVOC",
-      "name": "Havoc",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7A2f547C50B2a5A885e52761e3539bd01C04be38",
       "symbol": "SOTA",
       "name": "SotoAyam",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22A0bA891c1Cb42EA48D808c6aa93061D9Bb2F8B",
+      "symbol": "NOODLE",
+      "name": "RamenProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11924,
-    "minor": 11924,
+    "major": 11925,
+    "minor": 11925,
     "patch": 85
   }
 }
