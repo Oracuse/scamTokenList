@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC5aa2eC04D64E26e845545660E231602e03E7D79",
-      "symbol": "YOMI",
-      "name": "YomiNoKuni",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8D873dd6ACb3592f599C8F85617C399Bd3206428",
       "symbol": "CARTAN",
       "name": "CartanInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a4f4d457786314668bd5dE0e49F89Fe6E2A4802",
+      "symbol": "TA",
+      "name": "THEApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11784,
-    "minor": 11784,
+    "major": 11785,
+    "minor": 11785,
     "patch": 85
   }
 }
