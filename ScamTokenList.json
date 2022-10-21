@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8D9a7366d98aa8d8e9F71f6cf7519e81Ccd15109",
-      "symbol": "VOID",
-      "name": "THEVOID",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf4E0Eb3C7F7E8043D6f49E388874F4A4F845E5f2",
       "symbol": "BBY",
       "name": "BestBuy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Ac57eB2AcB676c08F640c4adB23e50957cB8d27",
+      "symbol": "X20",
+      "name": "X20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11933,
-    "minor": 11933,
+    "major": 11934,
+    "minor": 11934,
     "patch": 85
   }
 }
