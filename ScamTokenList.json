@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfc2835c42556aD7a408172B06040be433f8Da011",
-      "symbol": "TAROT",
-      "name": "TheFate",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC27612C3519567Cd2Bb521619b5353429f2E8f86",
       "symbol": "UTSUKUSHII",
       "name": "Utsukushii",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b973c0F4D5E1E6996fFA93889a34c54f2eb50e4",
+      "symbol": "DEATH",
+      "name": "Shinigami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11858,
-    "minor": 11858,
+    "major": 11859,
+    "minor": 11859,
     "patch": 85
   }
 }
