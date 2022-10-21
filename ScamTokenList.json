@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4bEFada01AD3fE3a895BF175B5b7CBB1C64Bdd4f",
-      "symbol": "HAVOC",
-      "name": "Havoc",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC1deEC046d0b0f9E4Ce024a28f6ef5a47092c268",
       "symbol": "HAVOC",
       "name": "Havoc",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBD3A9133C50c4BFC58cBAA83c3077afa94f04f47",
+      "symbol": "BAD",
+      "name": "BlackAdam",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11923,
-    "minor": 11923,
+    "major": 11924,
+    "minor": 11924,
     "patch": 85
   }
 }
