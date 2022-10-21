@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5869e379D22591187Ac2Ca75d4B3Dbeb9b191a62",
-      "symbol": "VALLUME",
-      "name": "Vallume",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1f86455bb9603D4349e854F8EB368f05EE6c44f5",
       "symbol": "EMO",
       "name": "EmotionalHardcore",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x553Ff6E6ABc57Da3e9BbA23c38D1DA114eB4d562",
+      "symbol": "DIE",
+      "name": "dieprotocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11862,
-    "minor": 11862,
+    "major": 11863,
+    "minor": 11863,
     "patch": 85
   }
 }
