@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x84C7DAa775b0871330645a661eb2782df374E259",
-      "symbol": "SHAKE",
-      "name": "TheShake",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeE99B18941c57ddF27b2CF43Ab8818921DF08b3f",
       "symbol": "KSI",
       "name": "KRISHNAINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27044d6946EfaC916b61259bE7ec6aa8B03bDBd3",
+      "symbol": "TDIE",
+      "name": "TyrantDie",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11879,
-    "minor": 11879,
+    "major": 11880,
+    "minor": 11880,
     "patch": 85
   }
 }
