@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x090E0d9A1f31d71b7f677fF33afa1225f816DB35",
-      "symbol": "TACOCAT",
-      "name": "TACOCAT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2FC8E532D17f4271d88DB770aAbad8425E312b3f",
       "symbol": "HOURS",
       "name": "HOURS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDdb2b72F910e33Ab7790dC0D843A2B8a3c86F7c0",
+      "symbol": "NSPROTOCOL",
+      "name": "NothingStableProtoc",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11804,
-    "minor": 11804,
+    "major": 11805,
+    "minor": 11805,
     "patch": 85
   }
 }
