@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67627eC4C30F54DA0300FDA176Dc80FC5A82AC0D",
-      "symbol": "GREED",
-      "name": "Temptation",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93B35caE1025966B1cA22Efb77Ee4a759bd8abF2",
       "symbol": "OMIKAMI",
       "name": "AmaterasuOmikami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2527bA528d902972F06f6D8BF222A073412A90e4",
+      "symbol": "NAGA",
+      "name": "Nagaraja",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11854,
-    "minor": 11854,
+    "major": 11855,
+    "minor": 11855,
     "patch": 85
   }
 }
