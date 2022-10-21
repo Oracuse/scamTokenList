@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6aE8758456A75C466613483923972b77fE83fD9F",
-      "symbol": "SEAL",
-      "name": "SEAL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaf74BC45Cad070727a09B7a216E339B1120410ff",
       "symbol": "SAPLINGS",
       "name": "SAPLINGS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFce9A81Ed0DDEB7598e6f9fcEE248254bae64e3F",
+      "symbol": "ALPHA",
+      "name": "AlphaProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 11802,
-    "minor": 11802,
+    "major": 11803,
+    "minor": 11803,
     "patch": 85
   }
 }
