@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42E5e1822556Ea8Fa1632BD20aa7Bb3AA25baA8d",
-      "symbol": "JUDAS",
-      "name": "APOSTATE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB1f242C45425299C072e0540ebf673a83ECf47Ef",
       "symbol": "ZHU",
       "name": "Zhu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3CFDe465F7D0f93B0F6aD46FfB7dfFD1466EcC7C",
+      "symbol": "CZNX",
+      "name": "WETHCZNX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11970,
-    "minor": 11970,
+    "major": 11971,
+    "minor": 11971,
     "patch": 85
   }
 }
