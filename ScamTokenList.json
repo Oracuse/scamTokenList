@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1136313110785a62F8426481bB393f1C30FE084F",
-      "symbol": "PEDRO",
-      "name": "TonariNoPedro",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x92eEEA267feCB490EE8AF5b7Bb58D29eB021c1fa",
       "symbol": "CATE",
       "name": "Catecoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7763114d5DC1CA303c92E46BffE0079B1900350",
+      "symbol": "ROPS",
+      "name": "RIGOpenProblems",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 11812,
-    "minor": 11812,
+    "major": 11813,
+    "minor": 11813,
     "patch": 85
   }
 }
