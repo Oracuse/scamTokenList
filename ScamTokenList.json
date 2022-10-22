@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6697c9fDC5868C9e7660e930b5a3431051062554",
-      "symbol": "SACHIKO",
-      "name": "ChildOfBliss",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd8c8c77804A1a7D72CfF6792F47C7c7b2196e622",
       "symbol": "ASMODEUS",
       "name": "DemonofLust",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97E72f77af60f8e319f52d56f559509c8adBB3F1",
+      "symbol": "JP",
+      "name": "JelloProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12045,
-    "minor": 12045,
+    "major": 12046,
+    "minor": 12046,
     "patch": 85
   }
 }
