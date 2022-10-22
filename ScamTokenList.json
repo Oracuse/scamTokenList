@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9Da1BC39031a049d029b5b5bbE337F09631b191D",
-      "symbol": "BODY",
-      "name": "TheBody",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD9365758b3026b4179c47ADC5Acfe147f74bB67d",
       "symbol": "CODE",
       "name": "Honor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c47bD1e517be8B5F9Eeeb2CD2B62C926F5a72A0",
+      "symbol": "TAKOYAKI",
+      "name": "Takoyaki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12003,
-    "minor": 12003,
+    "major": 12004,
+    "minor": 12004,
     "patch": 85
   }
 }
