@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAf18af0644372A829de1378e9d5581cBD19ed09B",
-      "symbol": "RAIN",
-      "name": "RainbowINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3a883e9A5Ec8bfc8Efeb200cF07dE6bf38fB2111",
       "symbol": "ASAKUSA",
       "name": "Susamaru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4092B14Bc3B22Df6711359BD1aBb2faB070b25F0",
+      "symbol": "YNEI",
+      "name": "Youxinei",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12057,
-    "minor": 12057,
+    "major": 12058,
+    "minor": 12058,
     "patch": 85
   }
 }
