@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0d725A90FB41AF45b1cF5781E62F39Eabcb78B4E",
-      "symbol": "KOALA",
-      "name": "Koala",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3022857f34F3eBa7B98Ca7e430f386359Fdce17f",
       "symbol": "JANKENFU",
       "name": "JanKenFu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C03B75652949200Ebc69B2daDa561332AA65dF8",
+      "symbol": "YEAR",
+      "name": "TheYearProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12104,
-    "minor": 12104,
+    "major": 12105,
+    "minor": 12105,
     "patch": 85
   }
 }
