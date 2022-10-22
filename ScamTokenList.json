@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9f080caFAA9b5Dc9C5FFad93a52C9D787486CC4e",
-      "symbol": "INC",
-      "name": "Increments",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97e8B8cd2e33F74f35d0Fe6D457a555e7F45Cd7b",
       "symbol": "VISION",
       "name": "EyeofHorus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30d804f30B1a979666165189CA6427354a81f77f",
+      "symbol": "CORNDOG",
+      "name": "Corndog",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12066,
-    "minor": 12066,
+    "major": 12067,
+    "minor": 12067,
     "patch": 85
   }
 }
