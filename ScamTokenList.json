@@ -14,28 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAf237b6369C35257eea2158EcdE45582455f6BaB",
-      "symbol": "KUSATSU",
-      "name": "KUSATSU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x475f1088AF00Cf3fB9e1030Ad453051C9003dbEB",
-      "symbol": "HOMELESS",
-      "name": "HomelessToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x83EC4ff9692341CeDcE8A0C1D625345B5d7265BC",
       "symbol": "LOPI",
       "name": "LopsInu",
@@ -110011,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCFf16CCDd0148F75Fff7E9bc0467c2059912C951",
+      "symbol": "FE",
+      "name": "ForgottenEmployee",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12026,
-    "minor": 12026,
+    "major": 12027,
+    "minor": 12027,
     "patch": 85
   }
 }
