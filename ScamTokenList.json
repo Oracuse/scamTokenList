@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x774Ae64c3D7750a0958D67649E26A158d66A4Fbf",
-      "symbol": "SHEESHINU",
-      "name": "SheeshInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc9BD67073c81436fAf54db8b7463bB3FdA2Fe6Fb",
       "symbol": "KEKVILLAGE",
       "name": "Kekistan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f7Bf05AFc429e3c12d2944B9DEee2647cdA5273",
+      "symbol": "DESK",
+      "name": "DESK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12079,
-    "minor": 12079,
+    "major": 12080,
+    "minor": 12080,
     "patch": 85
   }
 }
