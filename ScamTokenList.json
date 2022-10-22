@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x86d733B2c4d2DDd47CE4A80f0459B62D8a573f9f",
-      "symbol": "VAGABOND",
-      "name": "Vagabond",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb69e3799c3F08D92fdc0958bB1c2a79c389224E4",
       "symbol": "MOIRAI",
       "name": "Moirai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC30496B031A92c0006EcB0B4729B66469186dA43",
+      "symbol": "SAIKAIDO",
+      "name": "Saikaido",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12089,
-    "minor": 12089,
+    "major": 12090,
+    "minor": 12090,
     "patch": 85
   }
 }
