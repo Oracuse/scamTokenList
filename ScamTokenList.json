@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbF115E9ae6595615Bb58A7BCD5ddc7FA17AA8648",
-      "symbol": "BOBS",
-      "name": "BOBSWAP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x774Ae64c3D7750a0958D67649E26A158d66A4Fbf",
       "symbol": "SHEESHINU",
       "name": "SheeshInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBA5119c9C6996687B46af2DBf110d5aFe0a0Cf83",
+      "symbol": "CRDS",
+      "name": "coords",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12078,
-    "minor": 12078,
+    "major": 12079,
+    "minor": 12079,
     "patch": 85
   }
 }
