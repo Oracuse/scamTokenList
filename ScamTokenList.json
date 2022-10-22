@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb86BE98652BDDF968ac21912d727d3675A05E23E",
-      "symbol": "KACHE",
-      "name": "KayApache",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6697E059A4e9772834Ef9584fcfB536350E32219",
       "symbol": "CINU",
       "name": "CorgiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd548B4a891E42e1c49448a4e1b59d0d3FDa44571",
+      "symbol": "TIP",
+      "name": "TipTravelCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12062,
-    "minor": 12062,
+    "major": 12063,
+    "minor": 12063,
     "patch": 85
   }
 }
