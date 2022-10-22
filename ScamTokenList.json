@@ -14,28 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x71319C92A6AE8631b28F534fea1c26850E7508BD",
-      "symbol": "RING",
-      "name": "RingofPyro",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0xEEFCA7e07c27fc383adcf0Fd116ff05A0c6530Ac",
-      "symbol": "SHI",
-      "name": "Shitoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84FB622A7721fb4d60c55344A8C09520B630054B",
       "symbol": "HU",
       "name": "HUMANRACE",
@@ -110011,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03558d9c0ce47eBB5f792f774c28329E22725bA7",
+      "symbol": "WCPROTOCOL",
+      "name": "WorldcupProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12033,
-    "minor": 12033,
+    "major": 12034,
+    "minor": 12034,
     "patch": 85
   }
 }
