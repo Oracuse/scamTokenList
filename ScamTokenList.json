@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x635DD986a6fFae6fAE4Be878Ef9bb6E159c6D8b5",
-      "symbol": "FLUBE",
-      "name": "Flube",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFFFe8f21403B45223e836Ca6c77f28D6dd342EaC",
       "symbol": "STRANGER",
       "name": "Stranger",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c489Cb04f62e351926Bb74F2a733A94A7F484cF",
+      "symbol": "TGR",
+      "name": "TGRevival",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12100,
-    "minor": 12100,
+    "major": 12101,
+    "minor": 12101,
     "patch": 85
   }
 }
