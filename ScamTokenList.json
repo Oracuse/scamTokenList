@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xECd5b5007151208682f27059a1b2f120c712A4FD",
-      "symbol": "FUNGI",
-      "name": "FungiForest",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8DcAC6b4880b45560f1Bc8b2D21C72a311897374",
       "symbol": "RABBITOR",
       "name": "Rabbitor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0F492639D936A0016033C4378d9CBe07b06bC0Ab",
+      "symbol": "TEST",
+      "name": "donotbuy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12143,
-    "minor": 12143,
+    "major": 12144,
+    "minor": 12144,
     "patch": 86
   }
 }
