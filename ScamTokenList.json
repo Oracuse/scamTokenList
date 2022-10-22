@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1613ACd227cb88BB8BD3e35BEf71680bc619D640",
-      "symbol": "EBURN",
-      "name": "ETHBURN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc324EC30657825F28e147C3f275a1611b0d88975",
       "symbol": "TMINU",
       "name": "TheMergeInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1bf3f9Ad4455aE5E36E296A2f4576aCe05bd2014",
+      "symbol": "VITALIK",
+      "name": "Vitalik",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12050,
-    "minor": 12050,
+    "major": 12051,
+    "minor": 12051,
     "patch": 85
   }
 }
