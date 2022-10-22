@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x026a47d58B57b45E38B842D7b8966554e3EA5B6E",
-      "symbol": "FF",
-      "name": "FvckFiat",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfCE2Fc8bb0F9085FE1B7e4C4907C9812C9210CE9",
       "symbol": "D2T",
       "name": "DeathtoTaxes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd43907061AB1411ac302428F199a039efA43b24F",
+      "symbol": "IFT",
+      "name": "IslamFanToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12150,
-    "minor": 12150,
+    "major": 12151,
+    "minor": 12151,
     "patch": 86
   }
 }
