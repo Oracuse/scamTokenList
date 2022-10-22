@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x47F58bE00C92D84e1269fE7BD7e95aD45F5071D7",
-      "symbol": "HYDRA",
-      "name": "HYDRA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7f2eB765eb458AAAE3c77729E34E80e018539c5B",
       "symbol": "FTON",
       "name": "FlexTon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48e2484be0418D0194214c9Cc582C79e0BC0bFF3",
+      "symbol": "NASA",
+      "name": "NASA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12047,
-    "minor": 12047,
+    "major": 12048,
+    "minor": 12048,
     "patch": 85
   }
 }
