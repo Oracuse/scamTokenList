@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x46B912f4ac450CA5C2ADCC3F7f08dE4AFD9f71FF",
-      "symbol": "SKULLDAO",
-      "name": "SKULLDAO",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5a6D9dE34Fa1f09AAff941eC635e3F1C7689Cf74",
       "symbol": "BANKAI",
       "name": "Hitsugaya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2191988747FA2bCe7e4A34Cc403E9f26Ebb1f0F6",
+      "symbol": "CHESSPIECE",
+      "name": "ChessPiece",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12096,
-    "minor": 12096,
+    "major": 12097,
+    "minor": 12097,
     "patch": 85
   }
 }
