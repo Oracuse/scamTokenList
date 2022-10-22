@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x97e8B8cd2e33F74f35d0Fe6D457a555e7F45Cd7b",
-      "symbol": "VISION",
-      "name": "EyeofHorus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2af06fC9B60C2D3698FF9a3539e524cE0aC82cbc",
       "symbol": "POKE",
       "name": "POKEMOON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc56c7520fa4E07892016980df48Ae62505CAc750",
+      "symbol": "NAME",
+      "name": "NAME",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12067,
-    "minor": 12067,
+    "major": 12068,
+    "minor": 12068,
     "patch": 85
   }
 }
