@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc9BD67073c81436fAf54db8b7463bB3FdA2Fe6Fb",
-      "symbol": "KEKVILLAGE",
-      "name": "Kekistan",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x33fFC3f9Fe66318178226d05C3345F42ec36BcCD",
       "symbol": "SOMOX",
       "name": "Somox",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B5330c7029706D59D7D1eC0e9Ec57d452Fcf346",
+      "symbol": "SERVEINU",
+      "name": "ServethePeopleInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12080,
-    "minor": 12080,
+    "major": 12081,
+    "minor": 12081,
     "patch": 85
   }
 }
