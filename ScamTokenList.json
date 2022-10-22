@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93a2EBb4404116A14ccCFccefc323D1d483Ac2DA",
-      "symbol": "NANA",
-      "name": "Banana",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdbAC80941E8F579CCd3a52E42e0278B2bb532bb4",
       "symbol": "BODY",
       "name": "TheBody",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5Fc38E5FF3F66cE55fa3E0B3e7Bb228BEB95eFE",
+      "symbol": "COMMUNITY",
+      "name": "PowerofaCommunity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12039,
-    "minor": 12039,
+    "major": 12040,
+    "minor": 12040,
     "patch": 85
   }
 }
