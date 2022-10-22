@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x35646210e303BBf2eA8bAF0E29Fb03F3cEF63d24",
-      "symbol": "HARINEZUMI",
-      "name": "Harinezumi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4601290Fd1b16DD6b062c9b3d8C364Ff50cF8BEB",
       "symbol": "7777777",
       "name": "SevenSevens",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4693B07FF0e822361E1bbed95DE0C13941A5F8E9",
+      "symbol": "PT",
+      "name": "PureTones",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12001,
-    "minor": 12001,
+    "major": 12002,
+    "minor": 12002,
     "patch": 85
   }
 }
