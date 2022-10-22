@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFFFe8f21403B45223e836Ca6c77f28D6dd342EaC",
-      "symbol": "STRANGER",
-      "name": "Stranger",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x54AC1398835E89afAa68e071D4dc2A6D8F83EaDE",
       "symbol": "SQUIDNOW",
       "name": "SquidNowToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfa5C16D42D1Cc2509Ef396e908039FF666537c62",
+      "symbol": "BR",
+      "name": "Breath",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12101,
-    "minor": 12101,
+    "major": 12102,
+    "minor": 12102,
     "patch": 85
   }
 }
