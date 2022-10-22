@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9D51A245E69a64eB71db6350aA9e2d5eb1CbDcb1",
-      "symbol": "ROCKYCOCKY",
-      "name": "ROCKYCOCKY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4962cED7534f80A018761A2e1e2a390e8E3861f1",
       "symbol": "TRIQUETRA",
       "name": "Triquetra",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFb37b46f999765577eE1e17Db06FC9cA0FBE7A63",
+      "symbol": "BD",
+      "name": "BADLAND",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12136,
-    "minor": 12136,
+    "major": 12137,
+    "minor": 12137,
     "patch": 86
   }
 }
