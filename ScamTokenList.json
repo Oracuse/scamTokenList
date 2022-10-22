@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD811BccBD5b99f750f916E10c52860A29aaA2062",
-      "symbol": "APE",
-      "name": "AMCPreferredEquity",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa582675567F4cdE3699E618dD699A73a372a3795",
       "symbol": "MOTOR",
       "name": "TheEngine",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x684B10bd58a67f1f65749F04624b1d15fBDA531a",
+      "symbol": "TRYIN",
+      "name": "GetRichorDieTryin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12091,
-    "minor": 12091,
+    "major": 12092,
+    "minor": 12092,
     "patch": 85
   }
 }
