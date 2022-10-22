@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x487e82a6B339226Ba888470b480a6B2067036351",
-      "symbol": "PI",
-      "name": "Pi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe56E221F8D0C5FebeA1FE2f684f6d1349D7664c1",
       "symbol": "DEVOUR",
       "name": "JOROGUMOSVISION",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62A33F9aE953f34914157505964E4755005755D6",
+      "symbol": "PP",
+      "name": "PrivateProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12052,
-    "minor": 12052,
+    "major": 12053,
+    "minor": 12053,
     "patch": 85
   }
 }
