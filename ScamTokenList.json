@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb69e3799c3F08D92fdc0958bB1c2a79c389224E4",
-      "symbol": "MOIRAI",
-      "name": "Moirai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD811BccBD5b99f750f916E10c52860A29aaA2062",
       "symbol": "APE",
       "name": "AMCPreferredEquity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7b47b1EDA9A6C23972Bef6063770E808011eF75E",
+      "symbol": "SUI",
+      "name": "SUIET",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12090,
-    "minor": 12090,
+    "major": 12091,
+    "minor": 12091,
     "patch": 85
   }
 }
