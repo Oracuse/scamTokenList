@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x791c37C1d180f603179AFfe1Bb0178bfA18360Fb",
-      "symbol": "CRYPT",
-      "name": "CRYPTON",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6C0Fd1648e0B78Ca95BfDB7DceA553F26e2D47BF",
       "symbol": "KAI",
       "name": "KAWAINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFf8992B18CD0A5D5D6D63A33D9279e7Da1B4a6d8",
+      "symbol": "VBX",
+      "name": "VitalikButerinX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12042,
-    "minor": 12042,
+    "major": 12043,
+    "minor": 12043,
     "patch": 85
   }
 }
