@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3a883e9A5Ec8bfc8Efeb200cF07dE6bf38fB2111",
-      "symbol": "ASAKUSA",
-      "name": "Susamaru",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1f2d2cd6b848B526DB14cB7b656a5F1546Fd6912",
       "symbol": "POLRS",
       "name": "Polaris",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9474101889cFb3604734Aec99639380c64782569",
+      "symbol": "TAP",
+      "name": "THEADOPTIONPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12058,
-    "minor": 12058,
+    "major": 12059,
+    "minor": 12059,
     "patch": 85
   }
 }
