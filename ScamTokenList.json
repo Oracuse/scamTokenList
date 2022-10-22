@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE846d284DedFfAaD5d1263428D2a6B468485306e",
-      "symbol": "HYPER",
-      "name": "Hyperbolic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x45f6EDEf3665c31D4638B2EAdbE1481911DD7817",
       "symbol": "GDRAGON",
       "name": "GODDRAGON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB499303C3e32C53d1D33D610fCEd269A8eD04b27",
+      "symbol": "VU3",
+      "name": "VogtleUnit3",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12074,
-    "minor": 12074,
+    "major": 12075,
+    "minor": 12075,
     "patch": 85
   }
 }
