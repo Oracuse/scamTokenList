@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2af06fC9B60C2D3698FF9a3539e524cE0aC82cbc",
-      "symbol": "POKE",
-      "name": "POKEMOON",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xebA7Bb20efb2DC38dC0a4BB90E661e5a2Da4870E",
       "symbol": "SATOSHITAMA",
       "name": "SATOSHITAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27E8db7959cA215fcE2b47B240152AAA024050E1",
+      "symbol": "LECH",
+      "name": "Etherna",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12068,
-    "minor": 12068,
+    "major": 12069,
+    "minor": 12069,
     "patch": 85
   }
 }
