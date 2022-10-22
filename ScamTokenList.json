@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f2d2cd6b848B526DB14cB7b656a5F1546Fd6912",
-      "symbol": "POLRS",
-      "name": "Polaris",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25932356B9D368BAe700C3df450e43487F007D54",
       "symbol": "MMI",
       "name": "MetaMonkeyAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07f08330237aA3d6948DEEaeD25598eDB4425180",
+      "symbol": "DEATH",
+      "name": "Shinigami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12059,
-    "minor": 12059,
+    "major": 12060,
+    "minor": 12060,
     "patch": 85
   }
 }
