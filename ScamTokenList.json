@@ -14,28 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x84FB622A7721fb4d60c55344A8C09520B630054B",
-      "symbol": "HU",
-      "name": "HUMANRACE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0xE7B0E357C38666d706656fd292e12a91F60D5589",
-      "symbol": "BAKEKUJIRA",
-      "name": "BakekujiraINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x875D349d3364A8D55c94289Aa772A082897d7fE8",
       "symbol": "GYRE",
       "name": "GYRE",
@@ -110011,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4DA0d96Fce1513bef44290920a405f23633a2bF5",
+      "symbol": "POCA",
+      "name": "ProofOfCryptoAdopti",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12035,
-    "minor": 12035,
+    "major": 12036,
+    "minor": 12036,
     "patch": 85
   }
 }
