@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEE5f59506Ae34Aa5bDe60F8B8062B0Ba13131E10",
-      "symbol": "EIAVON",
-      "name": "Eiavon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2147cb1Dee1aD9b5E594A87AA097b22dc8907de1",
       "symbol": "TECH",
       "name": "DemonTech",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64f21999cd65A39Dd760CCC50fd7976DAaEb0731",
+      "symbol": "DOOR",
+      "name": "Door",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12005,
-    "minor": 12005,
+    "major": 12006,
+    "minor": 12006,
     "patch": 85
   }
 }
