@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3022857f34F3eBa7B98Ca7e430f386359Fdce17f",
-      "symbol": "JANKENFU",
-      "name": "JanKenFu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4a4EcBF89f47Ea1e46EED5ae57d67DF677c55e57",
       "symbol": "KAWA",
       "name": "Kawatengu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Ed96a82dDb90343c95803f5a731Ad6F3A95FFF4",
+      "symbol": "POH",
+      "name": "POH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12105,
-    "minor": 12105,
+    "major": 12106,
+    "minor": 12106,
     "patch": 85
   }
 }
