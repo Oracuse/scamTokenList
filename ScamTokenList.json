@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdbAC80941E8F579CCd3a52E42e0278B2bb532bb4",
-      "symbol": "BODY",
-      "name": "TheBody",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc122a3c9aDb7c185BBDF044Eafe4ED0bFcbCCA55",
       "symbol": "FTON",
       "name": "FlexTon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3067227b9c246f83b32005535e157aC569fD62A8",
+      "symbol": "CHOCOLATE",
+      "name": "chocolate",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12040,
-    "minor": 12040,
+    "major": 12041,
+    "minor": 12041,
     "patch": 85
   }
 }
