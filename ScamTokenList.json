@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbe8EfE007AfC23EA5aA79d095c4c3BAC3dB88217",
-      "symbol": "BANKAI",
-      "name": "Hitsugaya",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE846d284DedFfAaD5d1263428D2a6B468485306e",
       "symbol": "HYPER",
       "name": "Hyperbolic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8fc5122997443Ce16FfC967E13B8CB10D098E81",
+      "symbol": "SERVE",
+      "name": "ServeProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12073,
-    "minor": 12073,
+    "major": 12074,
+    "minor": 12074,
     "patch": 85
   }
 }
