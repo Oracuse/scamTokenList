@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd2C90F0938b27B9873985480a65aB1d30F4F9265",
-      "symbol": "RYOSHI",
-      "name": "HouseofRyoshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8c6E68eAA8D539915DE3C12E1f0124d42049483A",
       "symbol": "TENGU",
       "name": "DogOfSky",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8d94D4B849cd152B848d19051B96F229d08B19b",
+      "symbol": "COMBINED",
+      "name": "TheXDie",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12019,
-    "minor": 12019,
+    "major": 12020,
+    "minor": 12020,
     "patch": 85
   }
 }
