@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25932356B9D368BAe700C3df450e43487F007D54",
-      "symbol": "MMI",
-      "name": "MetaMonkeyAI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfcCf8e1C72275e2Ab604c15d37323f79382F53f1",
       "symbol": "WYRD",
       "name": "Wyrd",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x232937B59f7AF7Af50D6b173a1E6EC5436093fC9",
+      "symbol": "BRR",
+      "name": "MoneyPrinter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12060,
-    "minor": 12060,
+    "major": 12061,
+    "minor": 12061,
     "patch": 85
   }
 }
