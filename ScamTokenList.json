@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8AF79715533a040fC964413F06C65A89fCD6BcC4",
-      "symbol": "MOONORDUST",
-      "name": "MoonOrDust",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbF115E9ae6595615Bb58A7BCD5ddc7FA17AA8648",
       "symbol": "BOBS",
       "name": "BOBSWAP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAeAaeD5a9e41075A6976582a8801f6F9a044f52e",
+      "symbol": "0X",
+      "name": "ZEROX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12077,
-    "minor": 12077,
+    "major": 12078,
+    "minor": 12078,
     "patch": 85
   }
 }
