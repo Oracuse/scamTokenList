@@ -14,28 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6E109C0061f42d29bd500C4b2138e4b38fF3058E",
-      "symbol": "3WAV",
-      "name": "3rdWave",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x88Ef6dEB1D3cf181623DA8449534A859179F0EE2",
-      "symbol": "WORM",
-      "name": "StoorWorm",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAf237b6369C35257eea2158EcdE45582455f6BaB",
       "symbol": "KUSATSU",
       "name": "KUSATSU",
@@ -110011,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Dc590ecD32cDD109458156dD9C4A1Fc2060e4FC",
+      "symbol": "XFLOKI",
+      "name": "TheFlokiX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12024,
-    "minor": 12024,
+    "major": 12025,
+    "minor": 12025,
     "patch": 85
   }
 }
