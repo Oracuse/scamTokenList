@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4316f6E5558e62cF77Ec1296295347e88f7fBD02",
-      "symbol": "BEYOND",
-      "name": "Transcendence",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x880d8b17a36BD5B3E3b08fe99b6c30e3751Df462",
       "symbol": "GIGABURNO",
       "name": "GIGABURNO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x396Ba3c038caaCDFFdEC9C315Ae54Cdaa6650E51",
+      "symbol": "BOE",
+      "name": "BankOfETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12083,
-    "minor": 12083,
+    "major": 12084,
+    "minor": 12084,
     "patch": 85
   }
 }
