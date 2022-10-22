@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe7f0cbc4eC2B2690a6e91B99F6C9c904fF355d3E",
-      "symbol": "FRACTURE",
-      "name": "Fracture",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0d725A90FB41AF45b1cF5781E62F39Eabcb78B4E",
       "symbol": "KOALA",
       "name": "Koala",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D18c04E86B3C5EeC42A59456b7F306F36394a04",
+      "symbol": "DANK",
+      "name": "DankChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12103,
-    "minor": 12103,
+    "major": 12104,
+    "minor": 12104,
     "patch": 85
   }
 }
