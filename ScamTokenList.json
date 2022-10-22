@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD9365758b3026b4179c47ADC5Acfe147f74bB67d",
-      "symbol": "CODE",
-      "name": "Honor",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEE5f59506Ae34Aa5bDe60F8B8062B0Ba13131E10",
       "symbol": "EIAVON",
       "name": "Eiavon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x129c92F60E70aF17A910D17e2A5d86c9F775A083",
+      "symbol": "XAPE",
+      "name": "XAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12004,
-    "minor": 12004,
+    "major": 12005,
+    "minor": 12005,
     "patch": 85
   }
 }
