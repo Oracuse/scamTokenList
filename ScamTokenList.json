@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa8F0997310b072b2979B59703E760881d934CD44",
-      "symbol": "DINU",
-      "name": "DragonInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x35646210e303BBf2eA8bAF0E29Fb03F3cEF63d24",
       "symbol": "HARINEZUMI",
       "name": "Harinezumi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa964e4d1605C104401374C577C3ADdCB16092373",
+      "symbol": "ELOGE",
+      "name": "Eloge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12000,
-    "minor": 12000,
+    "major": 12001,
+    "minor": 12001,
     "patch": 85
   }
 }
