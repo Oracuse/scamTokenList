@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x33fFC3f9Fe66318178226d05C3345F42ec36BcCD",
-      "symbol": "SOMOX",
-      "name": "Somox",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0868d22490A7B2E61ecE10D9aB4E7f98E4760586",
       "symbol": "BEYOND",
       "name": "Transcendence",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7A1D79d3FB28bF43F7FBb0cf94DeF403251B7e6E",
+      "symbol": "PROMOSHIKI",
+      "name": "MOMOSHIKIPROTOCOL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12081,
-    "minor": 12081,
+    "major": 12082,
+    "minor": 12082,
     "patch": 85
   }
 }
