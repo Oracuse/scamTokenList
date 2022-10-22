@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87d54A4d1bbEd4B8c2DAbf57B980b51AA04dad1B",
-      "symbol": "MOTOR",
-      "name": "TheEngine",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb83BF6ef85f4d0B9F8440303E9BaEa396EF7d0CC",
       "symbol": "KUZURI",
       "name": "KUZURIKAMARI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83f2f1c826A6c4f08966219577A2f88bb7A9A388",
+      "symbol": "VINU",
+      "name": "VitalikInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12093,
-    "minor": 12093,
+    "major": 12094,
+    "minor": 12094,
     "patch": 85
   }
 }
