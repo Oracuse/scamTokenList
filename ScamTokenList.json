@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd49624B22838A716A6F64dAA7204Ff60f956831F",
-      "symbol": "MOTION",
-      "name": "TheMotion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x635DD986a6fFae6fAE4Be878Ef9bb6E159c6D8b5",
       "symbol": "FLUBE",
       "name": "Flube",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3A65D333B2D9dC2F0035570BAbDe74B82b60aAD",
+      "symbol": "7SATANS",
+      "name": "7Satans",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12099,
-    "minor": 12099,
+    "major": 12100,
+    "minor": 12100,
     "patch": 85
   }
 }
