@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc9436b0d8D40958C15c3C64762015251De9e7c8b",
-      "symbol": "VERGE",
-      "name": "Verge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x39e332D9Ec62d73FE7751780d9436EFAe8f8d5d4",
       "symbol": "WIRED",
       "name": "TheConnect3d",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7AF5A997Fc17601482b6c8842DCb5DED221d45ab",
+      "symbol": "BORING",
+      "name": "BoringCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12199,
-    "minor": 12199,
+    "major": 12200,
+    "minor": 12200,
     "patch": 86
   }
 }
