@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1BAE04Fc385F43F2c7Dc982D0dac9E5Ef3AeEd60",
-      "symbol": "EVM",
-      "name": "ETHEREUMVIRTUALMACH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaa044D6f5fF0F1881e20ADc80dF88F879f0790a0",
       "symbol": "RUNE",
       "name": "RUNE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4a2593D77Dc07789351aeb3C5dF6299451dBB0b",
+      "symbol": "ALEO",
+      "name": "Aleo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12221,
-    "minor": 12221,
+    "major": 12222,
+    "minor": 12222,
     "patch": 86
   }
 }
