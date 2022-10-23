@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8369D79362771dab8eE1DD1460D06ebef7a31a2d",
-      "symbol": "GRIM",
-      "name": "GrimFinance",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9a0AB212767DcDD5731996818b686170e984eBc6",
       "symbol": "IFU",
       "name": "Shibifu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d27bf9BE1461a6e967eA87f800d36f94fD7160E",
+      "symbol": "39A",
+      "name": "Complex39A",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12410,
-    "minor": 12410,
+    "major": 12411,
+    "minor": 12411,
     "patch": 86
   }
 }
