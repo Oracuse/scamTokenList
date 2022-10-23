@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaD7828b583b2680256376D4DA27Dd1ff28A1f895",
-      "symbol": "CABIN",
-      "name": "TheCabin",
-      "decimals": 7,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCeB066fc8C5739ceAF3db9b354afBe2CfF63B2Ee",
       "symbol": "PARA",
       "name": "ParaWerx",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15340E3DeA2595b4Cd124d473A45bb9707CDC046",
+      "symbol": "POP",
+      "name": "PoocoinProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12405,
-    "minor": 12405,
+    "major": 12406,
+    "minor": 12406,
     "patch": 86
   }
 }
