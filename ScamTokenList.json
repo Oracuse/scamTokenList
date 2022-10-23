@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x057dA0303E835a867962cC332B54365925232062",
-      "symbol": "ETHINU",
-      "name": "ETHINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8DcDE7FAd5A0B47f3d8C4a366F9a94522FaE2Fb5",
       "symbol": "ONE",
       "name": "one",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD95be1f66a60854e89d0f023Ba57bdE795503283",
+      "symbol": "SUISWAP",
+      "name": "suiswap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12206,
-    "minor": 12206,
+    "major": 12207,
+    "minor": 12207,
     "patch": 86
   }
 }
