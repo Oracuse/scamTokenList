@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF6A5b0c83fbc375E84d2b46ea4B325f2c9358A75",
-      "symbol": "PARA",
-      "name": "ParaWerx",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xebCA0A72818eF064d6839A0d5a48b3bF8d77E3F8",
       "symbol": "AZARASHI",
       "name": "Azarashi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2000dc34737dF38165b816ec55E3a9dFC0CE21Cb",
+      "symbol": "TPP",
+      "name": "ThePromptsProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12415,
-    "minor": 12415,
+    "major": 12416,
+    "minor": 12416,
     "patch": 86
   }
 }
