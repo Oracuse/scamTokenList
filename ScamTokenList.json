@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7876679A4285407f3AdBD1e189C20289Df2D13c8",
-      "symbol": "ETHGOD",
-      "name": "ETHGOD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x254246BBD24fCe7a6814057811ec20fa9d8B6e16",
       "symbol": "ANUBIS",
       "name": "Anubis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7773D48D9Eaaf0aB58149ABDB344EA850011DB5",
+      "symbol": "TCT",
+      "name": "TheCurrentThing",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12306,
-    "minor": 12306,
+    "major": 12307,
+    "minor": 12307,
     "patch": 86
   }
 }
