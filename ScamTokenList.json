@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x715d251Ac512064DE361dFf43f567EC9affB9D42",
-      "symbol": "STRAY",
-      "name": "StrayInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5d814785cc683d24a1c97876fe942035eb933c10",
       "symbol": "BOKUNO",
       "name": "BokuNoPico",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3bbF5F11Beef7501C871A292Cce4995A5714e8d",
+      "symbol": "UTXO",
+      "name": "UnspentTransactionO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12252,
-    "minor": 12252,
+    "major": 12253,
+    "minor": 12253,
     "patch": 86
   }
 }
