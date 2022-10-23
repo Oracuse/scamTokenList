@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD9fff9DCfcAC7aD665f80010622dcedcA66c5f06",
-      "symbol": "TEST",
-      "name": "test",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97e43499a5962527eDBD0Ec138fda35d7c5cd644",
       "symbol": "OLDSAMURAI",
       "name": "OldSamuraiToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ACAeCb4a0C9A92ce0e7160dD918f47ECbDA784F",
+      "symbol": "LINK",
+      "name": "Neuralink",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12290,
-    "minor": 12290,
+    "major": 12291,
+    "minor": 12291,
     "patch": 86
   }
 }
