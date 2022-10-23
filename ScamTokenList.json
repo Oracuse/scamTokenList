@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a09ed8F5DC24FA523c500f85DAcBB5D45c5a65A",
-      "symbol": "KITKAT",
-      "name": "KitKat",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1d2dC9c06784967539Df33d8d392c01D40AC868C",
       "symbol": "SQUID",
       "name": "SQUID",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcdE5383aa16f987CF88479c7217aE490E51d6ACd",
+      "symbol": "LDEFI",
+      "name": "DeFiProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12342,
-    "minor": 12342,
+    "major": 12343,
+    "minor": 12343,
     "patch": 86
   }
 }
