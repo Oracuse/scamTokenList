@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x838eA0C98CaFb87726E5898E7577e79839bB21DB",
-      "symbol": "INU",
-      "name": "INeedYou",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x86c2e171bD9f29d0839be52c251202164C616139",
       "symbol": "PYRON",
       "name": "Pyronomics",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFC7b50f4d09daFBfE8Fea1B87434DFE85f467e8C",
+      "symbol": "STM",
+      "name": "StreetMachine",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12232,
-    "minor": 12232,
+    "major": 12233,
+    "minor": 12233,
     "patch": 86
   }
 }
