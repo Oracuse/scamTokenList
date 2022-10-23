@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7d7FA4753ad7295397EfE3AEF5003a60B47F53C3",
-      "symbol": "MSPIDER",
-      "name": "SPiderMonkey",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x578aE68d8358A6b4DB0bA873586c82DbAbEb54F0",
       "symbol": "KAPPAINU",
       "name": "KappaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D1436E677f19f674D0b47c9A496ae3fbc6607aF",
+      "symbol": "RETH",
+      "name": "ReversibleEther",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12365,
-    "minor": 12365,
+    "major": 12366,
+    "minor": 12366,
     "patch": 86
   }
 }
