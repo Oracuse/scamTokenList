@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAa5804bbA980483a1031C9aEB1915448Ec224C59",
-      "symbol": "RHLLORINU",
-      "name": "TokenofFire",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdF93C46EbDe40e5FDa58e1955417fc54BBD9a61F",
       "symbol": "OYAMATSU",
       "name": "OyamaTsumi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62EE1348efA072A466e2b0936944D3cE590B1549",
+      "symbol": "FALCON",
+      "name": "Falconprotocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12412,
-    "minor": 12412,
+    "major": 12413,
+    "minor": 12413,
     "patch": 86
   }
 }
