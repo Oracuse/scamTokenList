@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDCa7003283e70864EacE406c755C54F8839E5B7A",
-      "symbol": "NEO",
-      "name": "NEO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3bad1D8D156D5dD01Cfb8c5c049cB73Eeeb1e725",
       "symbol": "ONLYMOON",
       "name": "ONLYMOON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6A8d23d45Cd7E0056a1DE4A2db149a12146d7350",
+      "symbol": "DONE",
+      "name": "HadToBeDone",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12275,
-    "minor": 12275,
+    "major": 12276,
+    "minor": 12276,
     "patch": 86
   }
 }
