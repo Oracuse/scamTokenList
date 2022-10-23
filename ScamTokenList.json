@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36530d752a7F85457CCce0AC4b39B0B6A7667a73",
-      "symbol": "PETH",
-      "name": "PiETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3da9904088D3e27261BEa3e149cf54ACad616e2E",
       "symbol": "MINISTRY",
       "name": "TheMinistry",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F35E8a857016cdf19f09921028D7e520049d64D",
+      "symbol": "VESTG",
+      "name": "veSTG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12211,
-    "minor": 12211,
+    "major": 12212,
+    "minor": 12212,
     "patch": 86
   }
 }
