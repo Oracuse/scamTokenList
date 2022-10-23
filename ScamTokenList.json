@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15EA073cE93Ca9ec412F00c7cBF1dae01e5e8C6e",
-      "symbol": "MYSTERY",
-      "name": "MysteryToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbd670C6E88FCA5Db75DeC2C2c1Ae4D187747b702",
       "symbol": "ERENYEAGERINU",
       "name": "ErenYeagerInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD97def7D3bE8904E1252dB6545E06e233EF9b72c",
+      "symbol": "VETH",
+      "name": "vitaliketh",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12219,
-    "minor": 12219,
+    "major": 12220,
+    "minor": 12220,
     "patch": 86
   }
 }
