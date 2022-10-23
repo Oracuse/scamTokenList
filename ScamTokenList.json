@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCeB066fc8C5739ceAF3db9b354afBe2CfF63B2Ee",
-      "symbol": "PARA",
-      "name": "ParaWerx",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x24973739260a00e93D8B2D95Ac9346C432b87807",
       "symbol": "MEAT",
       "name": "Butcher",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdAec4B071A7383A206AA39Aa9B8F7D13432655a8",
+      "symbol": "CD",
+      "name": "RootProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12406,
-    "minor": 12406,
+    "major": 12407,
+    "minor": 12407,
     "patch": 86
   }
 }
