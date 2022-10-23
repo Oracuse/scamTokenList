@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB07bfF1BF22fB28C4D5D6d6c463958447F53ecD2",
-      "symbol": "TSUKASA",
-      "name": "MIKASATSUKASA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbcd8eaD042830cF863D7179C085AfFb356279DBe",
       "symbol": "ONAMAZU",
       "name": "Onamazu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06c8D0aB6E92c4E595638F0472cf8658feb732b7",
+      "symbol": "BURN",
+      "name": "BurnProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12418,
-    "minor": 12418,
+    "major": 12419,
+    "minor": 12419,
     "patch": 86
   }
 }
