@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5c39F6b9Cd093972c01024F8CC1fC4b635AB8Dd5",
-      "symbol": "BLINK",
-      "name": "Blink",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x52a3Ea1d67a98e0fAacA022040B067994222e4f0",
       "symbol": "CHANGE",
       "name": "SpareChange",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bF3c6e51BAdc0c76F42dF46180F409F7dB3b688",
+      "symbol": "APT1",
+      "name": "APT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12262,
-    "minor": 12262,
+    "major": 12263,
+    "minor": 12263,
     "patch": 86
   }
 }
