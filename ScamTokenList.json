@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCae5220eaC6fB6a51b30FA8D4e21Ee40f7e22fE6",
-      "symbol": "HYPEDUCK",
-      "name": "HypeDuck",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66801908014C3C9Ce986943b218082B0781AA661",
       "symbol": "SHIGO",
       "name": "ShibamonGo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf475E5dcCD918108ec7C1F843C7245904B453318",
+      "symbol": "VITALIKETH",
+      "name": "vitaliketh",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12195,
-    "minor": 12195,
+    "major": 12196,
+    "minor": 12196,
     "patch": 86
   }
 }
