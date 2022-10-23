@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbcd8eaD042830cF863D7179C085AfFb356279DBe",
-      "symbol": "ONAMAZU",
-      "name": "Onamazu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8f00F1DF4A3cFfFE5B2f7117924E49fCAAa21521",
       "symbol": "MORA",
       "name": "MightofRa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f27Ef44bc01Bb3FccA956378578d68f7D50D479",
+      "symbol": "OTC",
+      "name": "OTCNetwork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12419,
-    "minor": 12419,
+    "major": 12420,
+    "minor": 12420,
     "patch": 86
   }
 }
