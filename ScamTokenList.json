@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x578aE68d8358A6b4DB0bA873586c82DbAbEb54F0",
-      "symbol": "KAPPAINU",
-      "name": "KappaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDC90CE622E9Ca8b2a16119d54dac661c7dF9395d",
       "symbol": "ZENOINU",
       "name": "ZenoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x580eb4930a94E093A34B7f99682320f6338616f2",
+      "symbol": "FIFA",
+      "name": "FIFAInuToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12366,
-    "minor": 12366,
+    "major": 12367,
+    "minor": 12367,
     "patch": 86
   }
 }
