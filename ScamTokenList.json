@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x336DC530f6B1Ad469D56Ba2E174eFCD8F1725b02",
-      "symbol": "KINDLE",
-      "name": "Kindle",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3018D0dB130aEAAa6F120784831F0b3701D55483",
       "symbol": "FLOPPY",
       "name": "FloppyDisk",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5386D4592F1F064A28F3a8895E0D20E96aC06F82",
+      "symbol": "DEFI",
+      "name": "DeFi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12346,
-    "minor": 12346,
+    "major": 12347,
+    "minor": 12347,
     "patch": 86
   }
 }
