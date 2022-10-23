@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0b5F03Dade7E820Df33D3AE4C4a4a0378054736B",
-      "symbol": "BTCGOLD",
-      "name": "BitcoinGold",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "scam"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8F0033B0761156fCf06b58B719c2e87FD8F87e0E",
       "symbol": "EFAIRY",
       "name": "EvilFairy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86f64ba3651AF894745E4649952524219e84783d",
+      "symbol": "SUI",
+      "name": "SuiDeveloperKit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12284,
-    "minor": 12284,
+    "major": 12285,
+    "minor": 12285,
     "patch": 86
   }
 }
