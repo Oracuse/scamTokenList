@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8353A278396b29dc895Ad4E71896eE167364A466",
-      "symbol": "OPEN",
-      "name": "TheDoor",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2c17A2FD0bb67ba2602735C00b162FA11a79EF64",
       "symbol": "BLACK",
       "name": "BlackHole",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb77B2E97872610f8370Fcc051e03aAfed2D2Bbf2",
+      "symbol": "CREATION",
+      "name": "TheCreator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12613,
-    "minor": 12613,
+    "major": 12614,
+    "minor": 12614,
     "patch": 86
   }
 }
