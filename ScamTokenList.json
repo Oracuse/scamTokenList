@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBF53c215d55f70C3309fCd27B781669B45613F2C",
-      "symbol": "INVISIBLEDAO",
-      "name": "INVISIBLEDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf2F32C834D48fd83bb6d471bD705F668CBD99AB8",
       "symbol": "SULEDAO",
       "name": "SULEDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA59BCEC08a2367bCDcd80dDB9d0E4F923e8AFC48",
+      "symbol": "NANO",
+      "name": "NanoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12641,
-    "minor": 12641,
+    "major": 12642,
+    "minor": 12642,
     "patch": 86
   }
 }
