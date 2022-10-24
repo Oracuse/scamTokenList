@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCB89e8bb6aE2297ACc79101C1C16E80d277cEd0c",
-      "symbol": "DOGEFLEX",
-      "name": "DogeFlex",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC04884D0314b17f9c9281C9C3DcDa0197069024F",
       "symbol": "ABANANA",
       "name": "ApeBanana",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc523ACc8Cb6b5F8744Fb024222AD3463b6fcDc17",
+      "symbol": "IK",
+      "name": "IdiotKasparov",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12551,
-    "minor": 12551,
+    "major": 12552,
+    "minor": 12552,
     "patch": 86
   }
 }
