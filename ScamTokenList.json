@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x64B5BA118aa3e3F19564e0eDa1Cd8e6B135576C4",
-      "symbol": "STABLZ",
-      "name": "TheStabilizer",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x27D8086CB8a9F82cBF53550C281164B8301Cf500",
       "symbol": "CLUNA",
       "name": "CLUNA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAA6f401744Ca9AE9954E6B207f4d026Bd05dAb40",
+      "symbol": "39A",
+      "name": "39AProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12505,
-    "minor": 12505,
+    "major": 12506,
+    "minor": 12506,
     "patch": 86
   }
 }
