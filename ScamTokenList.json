@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8E95205ED6A73FFB47B9A2A6F19a25E2AA353E66",
-      "symbol": "CUBE",
-      "name": "CUBE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDA14702E2135eAeDd1CAB7c9bF046868332F6Cb4",
       "symbol": "EVO",
       "name": "AugmentedEvo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1392E9Be992caa44804797E1976Fc6e4347C13Fe",
+      "symbol": "GLOBALPROTOCOL",
+      "name": "GlobalProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12573,
-    "minor": 12573,
+    "major": 12574,
+    "minor": 12574,
     "patch": 86
   }
 }
