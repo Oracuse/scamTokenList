@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x68B6971034c3938F9713a4fFa1DFA31Fc51408e3",
-      "symbol": "AGNI",
-      "name": "AGNI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe004193B16fF5Ab89661c8923aFe1c6684D5A703",
       "symbol": "KAIDO",
       "name": "KAIDO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25baa2bc2120b3146a6546659887f0C064C335a1",
+      "symbol": "TALKY",
+      "name": "talky",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12593,
-    "minor": 12593,
+    "major": 12594,
+    "minor": 12594,
     "patch": 86
   }
 }
