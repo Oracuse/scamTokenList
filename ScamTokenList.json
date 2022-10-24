@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8862ECdF5F4DFf2D4720D19bD574F9c6e851ad07",
-      "symbol": "SDOGE",
-      "name": "SamuraiDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1CE90237F97678332482B62df16BC5187fF4bd24",
       "symbol": "GASHA",
       "name": "Gashadokuro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCE4984A81bA8622f59564C6C66431C7eB4a0239d",
+      "symbol": "SCGOLDEN",
+      "name": "SoccerGolden",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12569,
-    "minor": 12569,
+    "major": 12570,
+    "minor": 12570,
     "patch": 86
   }
 }
