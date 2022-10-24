@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x09B6c413D2C8bcce358f0f065c5145A9df19b2c8",
-      "symbol": "AUGUST",
-      "name": "AUGUST",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73C8729Ec5116b325a534E64c0b9E1F369eBbcd4",
       "symbol": "ARROW",
       "name": "Arrow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5F0f6222E3834E6D671161c1Dd7cda004dcC2d9",
+      "symbol": "QUAD",
+      "name": "QuadraticProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12590,
-    "minor": 12590,
+    "major": 12591,
+    "minor": 12591,
     "patch": 86
   }
 }
