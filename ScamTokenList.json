@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0Bc27404d47265b1cf53197002FBE93Fd681573",
-      "symbol": "PATHLESS",
-      "name": "ThePathless",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFdA602851283d1f633833aDF5fF5696E20E7dD6d",
       "symbol": "NODGE",
       "name": "DOGENODE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60538B3c9e16E04585C18ec08ec0F430e344C2A9",
+      "symbol": "APTINU",
+      "name": "AptosInu",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12424,
-    "minor": 12424,
+    "major": 12425,
+    "minor": 12425,
     "patch": 86
   }
 }
