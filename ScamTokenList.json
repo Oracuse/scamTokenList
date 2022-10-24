@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x54A8665885977424D96007C275bd7c91D5402fbb",
-      "symbol": "UBAGABI",
-      "name": "UbagabiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x20f0cD63cFB1F3740Bc3fD77f6d383A26f71f4aD",
       "symbol": "SANCHI",
       "name": "Shirakami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBFB6b0429E8964eB33dD0AABB98F9aBC98E198Ca",
+      "symbol": "POP",
+      "name": "ProofofPump",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12450,
-    "minor": 12450,
+    "major": 12451,
+    "minor": 12451,
     "patch": 86
   }
 }
