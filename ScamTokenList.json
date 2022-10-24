@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaeCEBB132baf484CF4E3cF855468CB9D836DA16E",
-      "symbol": "UNI",
-      "name": "INU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a201fcDCCB0675Ee452B33fF19F05EEFD7E61bE",
       "symbol": "CYCLONE",
       "name": "Cyclone",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25a5DF9DEF063223aa973aA8e45C2583Efea7006",
+      "symbol": "BLOB",
+      "name": "Blob",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12610,
-    "minor": 12610,
+    "major": 12611,
+    "minor": 12611,
     "patch": 86
   }
 }
