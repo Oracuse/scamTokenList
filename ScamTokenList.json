@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0d7ca12B6FBFa5B64492e7f4C3a1bbE2B6267E22",
-      "symbol": "MIYA",
-      "name": "MiyazakiETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3EdE771E2fa85CDD57ad548e82dBa128a6b30143",
       "symbol": "SANZUWU",
       "name": "TheGoldenCrow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5eC6C7b9EF63456862Fb55faB5dFe50F5c47A5e0",
+      "symbol": "TSUKUYOMI",
+      "name": "TSUKUYOMI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12458,
-    "minor": 12458,
+    "major": 12459,
+    "minor": 12459,
     "patch": 86
   }
 }
