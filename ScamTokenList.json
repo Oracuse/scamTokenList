@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8a5B03315FAAEbacD4606CD9fBF0af6568559866",
-      "symbol": "AKITASAI",
-      "name": "AkitaSamuraiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x35fc06dC536133D2612b931C64Fb42433eE00C90",
       "symbol": "INFINITESNIPER",
       "name": "INFINITESNIPER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFb50D7d98A2e8CF2f63CC17d18e6712Ade3452B3",
+      "symbol": "QUEUE",
+      "name": "Queuecoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12636,
-    "minor": 12636,
+    "major": 12637,
+    "minor": 12637,
     "patch": 86
   }
 }
