@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6Fd2189a7a4CC6a616F05e9a50463c4D23E729F4",
-      "symbol": "LBANK",
-      "name": "LAMPBANK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd7C144f37C7F928D765d73e62E764258DAd6Fd81",
       "symbol": "PICHULA",
       "name": "PICHULA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x571D4E2d40E2Bc0eADBf9895D41993e9dC87D2cb",
+      "symbol": "SWISH",
+      "name": "SakuraWishes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12495,
-    "minor": 12495,
+    "major": 12496,
+    "minor": 12496,
     "patch": 86
   }
 }
