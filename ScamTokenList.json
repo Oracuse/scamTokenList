@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3bF845073FE77b6f1845C6fA8b98d7CA12E449fE",
-      "symbol": "BF",
-      "name": "BlackFreeza",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa2d3cd608aCF20e2C29aAe0ac111855476EB7D64",
       "symbol": "SCTY",
       "name": "BlackWings",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3bFAe9A4Ad49235edAaB0295e11b92D578227170",
+      "symbol": "ECLIPSE",
+      "name": "EclipseProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12421,
-    "minor": 12421,
+    "major": 12422,
+    "minor": 12422,
     "patch": 86
   }
 }
