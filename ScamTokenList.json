@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7E1A2428d68B1dE5ecD13427024Ef5E996088Df6",
-      "symbol": "TIME",
-      "name": "Continuum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01c4196b7A34db537A587e96400634Fa703C75C7",
       "symbol": "SHIMURAI",
       "name": "SHIMURAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8d82ECf682c7335637dE50A5CFC446AE96bAb08",
+      "symbol": "MASAYAP",
+      "name": "MASYAProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12518,
-    "minor": 12518,
+    "major": 12519,
+    "minor": 12519,
     "patch": 86
   }
 }
