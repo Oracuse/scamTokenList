@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD0C73A309f421704ef471487e3Af2097be45b968",
-      "symbol": "ANCIENT",
-      "name": "TheAncientOne",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1eD008AdE6c6267b7F5450E07C4cbBcF091d2d4f",
       "symbol": "HCE",
       "name": "hexchain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfD4B780337eff601C8D6847Af15Ead965BC63e9f",
+      "symbol": "ECLIPSE",
+      "name": "LunarEclipse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12470,
-    "minor": 12470,
+    "major": 12471,
+    "minor": 12471,
     "patch": 86
   }
 }
