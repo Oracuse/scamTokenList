@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbCFAd13434D3E134eCE9f7C3f9b4a777A3861385",
-      "symbol": "BEATZ",
-      "name": "SOUNDSCAPE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8C842E0FA4f2Ef5e9CAC55724912EaaF2496F97F",
       "symbol": "SAKURA",
       "name": "SakuraDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB84aA8B01De4e32426f3c7BD357FdE613c3a9E6",
+      "symbol": "IOF",
+      "name": "IOFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12563,
-    "minor": 12563,
+    "major": 12564,
+    "minor": 12564,
     "patch": 86
   }
 }
