@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd2c8b0a6631C0632E5aCC5d0b42B97515CCE494c",
-      "symbol": "BIRTH",
-      "name": "Birth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8353A278396b29dc895Ad4E71896eE167364A466",
       "symbol": "OPEN",
       "name": "TheDoor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7181bBFdfF123F4131f695F5968371e47B0e15AD",
+      "symbol": "BLOB",
+      "name": "BLOBSPACE",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12612,
-    "minor": 12612,
+    "major": 12613,
+    "minor": 12613,
     "patch": 86
   }
 }
