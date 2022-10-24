@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7b0142882Aa1E1E3Fb25c034eDde3EAC3e21de90",
-      "symbol": "FADE",
-      "name": "DONTFADE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90bb5E76f370A44c1Ea4be7ED335810d6CB7D955",
       "symbol": "OINARI",
       "name": "InariOkami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3858390b3F39c884769A90aF281A9B7EaFd4241c",
+      "symbol": "SIGN",
+      "name": "SignProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12461,
-    "minor": 12461,
+    "major": 12462,
+    "minor": 12462,
     "patch": 86
   }
 }
