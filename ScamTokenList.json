@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60165374498B03f2F520d197F6007c5Fc0e88289",
-      "symbol": "ELDER",
-      "name": "WiseOldMan",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59bcF48A4eB9E2AdEa34a86469d9c20A49a22bdc",
       "symbol": "WINGZ",
       "name": "ChickenWingz",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11DC211cc2533257612A50afcBe29a268C8d8a76",
+      "symbol": "2X2S",
+      "name": "2x2sProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12601,
-    "minor": 12601,
+    "major": 12602,
+    "minor": 12602,
     "patch": 86
   }
 }
