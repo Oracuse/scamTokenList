@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1B41cbe693463Aa0826E27dE5fDd39569B669B8c",
-      "symbol": "LAMP",
-      "name": "TheMagicLamp",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd29CBB5C795826b7e549c7AF83C95E98aCc93E0A",
       "symbol": "DEATH",
       "name": "Death",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66BB849Ea60ce499C9C9b9179DA7A8F03A834716",
+      "symbol": "BLOB",
+      "name": "Blob",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12608,
-    "minor": 12608,
+    "major": 12609,
+    "minor": 12609,
     "patch": 86
   }
 }
