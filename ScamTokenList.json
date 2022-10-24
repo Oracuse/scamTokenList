@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x415E5Fc4cd66116360031B728d112ded3D41607e",
-      "symbol": "GECKO",
-      "name": "Geckocoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90D777f2d240582A3db46fB08332c67031024f47",
       "symbol": "PLNTR",
       "name": "Planeteer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4738187c003E1FCADB6da6f580A6976945Ec18E7",
+      "symbol": "MSP",
+      "name": "MansionProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12556,
-    "minor": 12556,
+    "major": 12557,
+    "minor": 12557,
     "patch": 86
   }
 }
