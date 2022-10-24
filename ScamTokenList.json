@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5942D6e3EeDdc95A8a2a09D8e06a27176ba1cB9a",
-      "symbol": "YOTA",
-      "name": "YOTA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeEAE9a69d173Bb9b6fB15f653b9C180436912435",
       "symbol": "PP",
       "name": "PepePluto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9C2498471Ccf780A836d50b4060ef5DB5baAD677",
+      "symbol": "ZK",
+      "name": "ZKProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12426,
-    "minor": 12426,
+    "major": 12427,
+    "minor": 12427,
     "patch": 86
   }
 }
