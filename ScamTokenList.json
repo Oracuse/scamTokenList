@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCac978fCB4aB311Ad7bA09a8F16dFA50d7f5C32e",
-      "symbol": "MARIACHI",
-      "name": "Mariachi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00Eeb9C8e67b197f02275241C7dE8b80b49B2a25",
       "symbol": "HAUNTER",
       "name": "Haunter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88035CAC84E6006F3DC6832e6F02DA2C0C9D4F09",
+      "symbol": "BABYETH",
+      "name": "BABYETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12468,
-    "minor": 12468,
+    "major": 12469,
+    "minor": 12469,
     "patch": 86
   }
 }
