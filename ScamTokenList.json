@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x485017EFbDAa764A56C30B30D699C7D595Ed8c3a",
-      "symbol": "SUDOSWAP",
-      "name": "sudoswap",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x31f21995e12947280EF2f259bCE146fA4A6DaC68",
       "symbol": "BIGONE",
       "name": "BIGONE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x029339f0Aa3BF1c6D5c197952868465324e54c76",
+      "symbol": "ECLIPSE",
+      "name": "LunarEclipse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12472,
-    "minor": 12472,
+    "major": 12473,
+    "minor": 12473,
     "patch": 86
   }
 }
