@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDB65a1de60f8d6f7127403423Af78Df6f28bf84E",
-      "symbol": "KHH",
-      "name": "Kamehameha",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5b8a81cc7dadee6905103f6E6ADf116e2378Ba7f",
       "symbol": "VISIONS",
       "name": "VisionsOfHorus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6a3877d78e3086F43dea08a68b9372bc3ACD0dC",
+      "symbol": "APE",
+      "name": "ApeProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12452,
-    "minor": 12452,
+    "major": 12453,
+    "minor": 12453,
     "patch": 86
   }
 }
