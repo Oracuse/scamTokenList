@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0D5F171ae74B4Cd06d7D0a4a9f5fBd3cBD03a021",
-      "symbol": "PONYO",
-      "name": "PONYO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x452aE29e8F0977D2B0B657eFb444b68F4Ef5Dc06",
       "symbol": "TX",
       "name": "TXHUNTERS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x842e1c8Bd307E4a59dBF1ef04d31d40d2214828D",
+      "symbol": "KIPROTOCOL",
+      "name": "KiProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12534,
-    "minor": 12534,
+    "major": 12535,
+    "minor": 12535,
     "patch": 86
   }
 }
