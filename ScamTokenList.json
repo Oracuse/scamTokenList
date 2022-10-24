@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6e67Bf3c4943D6b4B1F0117d4F6350a18000Dcf4",
-      "symbol": "INVICTUS",
-      "name": "INVICTUS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1AB0fdBEb78C7f60d689Bd5fC3D881b8131f987d",
       "symbol": "NAMITARO",
       "name": "NAMITARO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1b6296e55b6cA1882a9cefD72Ac246ACdE91414",
+      "symbol": "VLP",
+      "name": "ValueLiquidityProvi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12606,
-    "minor": 12606,
+    "major": 12607,
+    "minor": 12607,
     "patch": 86
   }
 }
