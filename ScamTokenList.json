@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2E75fdc7B4828f6D2eF56F97c7E495902Fb9C1f3",
-      "symbol": "LOCOINU",
-      "name": "LocoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7c0292C6B12c52F1Ede5228119cffE5BD3693076",
       "symbol": "TSUITERU",
       "name": "TSUITERU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfA1822679f400f0f598dE9ABf4bf1DFE93D1f96f",
+      "symbol": "DINOSAUR",
+      "name": "Dinosaur",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12547,
-    "minor": 12547,
+    "major": 12548,
+    "minor": 12548,
     "patch": 86
   }
 }
