@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x973aE3A82532bd6E864a6253233d2A427092Aad3",
-      "symbol": "ICE",
-      "name": "Freeze",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F61c5A7a17B1B3C94990Cf317fBcEd9D46a506c",
       "symbol": "SENSHI",
       "name": "SailorMoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54833EfA58cff78b62D5d51cCC33b91f7FF12a48",
+      "symbol": "OS",
+      "name": "OnlyShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12428,
-    "minor": 12428,
+    "major": 12429,
+    "minor": 12429,
     "patch": 86
   }
 }
