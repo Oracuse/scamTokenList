@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCd05EB5EfC1AA916966BD69667FE7070f4C37611",
-      "symbol": "NBONES",
-      "name": "NewBones",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x48b0a12D344934A01525e9572f4138D44751804A",
       "symbol": "SHIBCHIP",
       "name": "ShibaChip",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39E27CE1c495f54b8B33163c471Ef3e091753616",
+      "symbol": "SOCCER",
+      "name": "SoccerShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12465,
-    "minor": 12465,
+    "major": 12466,
+    "minor": 12466,
     "patch": 86
   }
 }
