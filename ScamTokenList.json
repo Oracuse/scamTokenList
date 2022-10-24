@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x630A061Add6DbbdBdC2443171b3477b890DbE8d3",
-      "symbol": "LAOZI",
-      "name": "Laozi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xccB5c891E078a2F1D89570BdDEB98ba61eFbD5D2",
       "symbol": "ETHERGROW",
       "name": "ETHERGROW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f270205A2fA81BC4aF6E73ca7c694eb5d14F350",
+      "symbol": "WOW",
+      "name": "WOW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12660,
-    "minor": 12660,
+    "major": 12661,
+    "minor": 12661,
     "patch": 86
   }
 }
