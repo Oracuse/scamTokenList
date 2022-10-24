@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB2295bf69ac7fD6D1453348fAC5baA670137aa8c",
-      "symbol": "POT",
-      "name": "PathOfTime",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8D16DB34E60016Ea09644E6C766B789f4cCd9185",
       "symbol": "OYAMATSU",
       "name": "OyamaTsumi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7FF64cEf3c648748a0860505669FC4b75e07CCEe",
+      "symbol": "OD",
+      "name": "OnlyDegens",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12503,
-    "minor": 12503,
+    "major": 12504,
+    "minor": 12504,
     "patch": 86
   }
 }
