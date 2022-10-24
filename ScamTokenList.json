@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF31E3D1FCA11581Fe61495ac8366B4d6D98F03E4",
-      "symbol": "TRUSTDAO",
-      "name": "TRUSTDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFbE57c5c74A4781606787Ff92887858910C32400",
       "symbol": "REALDAO",
       "name": "REALDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC64977e3F90B315fb8a5F68448E05Bc06c0b08c0",
+      "symbol": "EXOTIC",
+      "name": "ExoticGoatClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12655,
-    "minor": 12655,
+    "major": 12656,
+    "minor": 12656,
     "patch": 86
   }
 }
