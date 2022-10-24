@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8D16DB34E60016Ea09644E6C766B789f4cCd9185",
-      "symbol": "OYAMATSU",
-      "name": "OyamaTsumi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x64B5BA118aa3e3F19564e0eDa1Cd8e6B135576C4",
       "symbol": "STABLZ",
       "name": "TheStabilizer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc43179375Ed9aE8553550F622F2801BE4Fe99893",
+      "symbol": "BOMES",
+      "name": "BabyOnlyMemes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12504,
-    "minor": 12504,
+    "major": 12505,
+    "minor": 12505,
     "patch": 86
   }
 }
