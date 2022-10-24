@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFdA602851283d1f633833aDF5fF5696E20E7dD6d",
-      "symbol": "NODGE",
-      "name": "DOGENODE",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5942D6e3EeDdc95A8a2a09D8e06a27176ba1cB9a",
       "symbol": "YOTA",
       "name": "YOTA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C5265E635a4c84FA2Fb4E0B05CC830486863bE9",
+      "symbol": "APEXDAO",
+      "name": "APEXDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12425,
-    "minor": 12425,
+    "major": 12426,
+    "minor": 12426,
     "patch": 86
   }
 }
