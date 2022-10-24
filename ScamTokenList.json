@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1c7b7574A30272529526671E44CeFbDE6b927DE5",
-      "symbol": "TX",
-      "name": "TAIXU",
-      "decimals": 3,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82e4F5fd8a1B7C2C2b4779900D04b30cB114e1d6",
       "symbol": "ARIEL",
       "name": "ARIEL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96792444fbEEb9a11A3023c8bdA9bd3A4b2c31Bf",
+      "symbol": "GLOBAL",
+      "name": "CryptoisGlobal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12575,
-    "minor": 12575,
+    "major": 12576,
+    "minor": 12576,
     "patch": 86
   }
 }
