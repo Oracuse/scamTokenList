@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x13a0372baAb3E3f4E2904B1F557897F9e6a6a4D9",
-      "symbol": "OINARI",
-      "name": "InariOkami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x54Cb643ab007f47882E8120A8c57B639005c2688",
       "symbol": "IXP",
       "name": "IMPACTXPRIME",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3549Dcc3F9ce3A50c50e58Ac7afa61Fe47bAc37",
+      "symbol": "ECLIPSE",
+      "name": "EclipseProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12446,
-    "minor": 12446,
+    "major": 12447,
+    "minor": 12447,
     "patch": 86
   }
 }
