@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf0A16dC9AC863dAE78021Bef301aD555a3013903",
-      "symbol": "RHLLORINU",
-      "name": "TokenofFire",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6A50d505f5775b8F570B3e4788b4f6B05E4dAe30",
       "symbol": "MUNLIV",
       "name": "ManchesterUnitedVsL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18D0F1eC5FeF6536aC640Ef70749777c18e6C5a8",
+      "symbol": "DEFI",
+      "name": "OnlyDefi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12434,
-    "minor": 12434,
+    "major": 12435,
+    "minor": 12435,
     "patch": 86
   }
 }
