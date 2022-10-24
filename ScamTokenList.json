@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF76901BeFD9e3d2100958E7a479C6699eA5B7252",
-      "symbol": "MONKIKI",
-      "name": "MonkikiToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4035f25e249A0732Fff6a9BcE0712155793a2f58",
       "symbol": "SHINKO",
       "name": "ShinkoNoHiyaku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7409FbC39a29B060A5C7Af117F3E026a1c0614F",
+      "symbol": "SPOOKYFC",
+      "name": "SpookyFootballClub",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12539,
-    "minor": 12539,
+    "major": 12540,
+    "minor": 12540,
     "patch": 86
   }
 }
