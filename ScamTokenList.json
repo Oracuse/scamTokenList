@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1eD008AdE6c6267b7F5450E07C4cbBcF091d2d4f",
-      "symbol": "HCE",
-      "name": "hexchain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x485017EFbDAa764A56C30B30D699C7D595Ed8c3a",
       "symbol": "SUDOSWAP",
       "name": "sudoswap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4DB6eD63eE24cd131769c3a3D0935774dAbAaA0",
+      "symbol": "WELCOME",
+      "name": "Welcome",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12471,
-    "minor": 12471,
+    "major": 12472,
+    "minor": 12472,
     "patch": 86
   }
 }
