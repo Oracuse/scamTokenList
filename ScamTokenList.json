@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4fB40B89285177C593397549fC57C52Fe3Ed01E1",
-      "symbol": "SHIBLER",
-      "name": "ShiblerInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93Db46169e21A05eaC5b5e0952C0c9b2fa2c468f",
       "symbol": "IMPURITY",
       "name": "EchoesofBlood",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4d06a5519A32F0b91Df657912686564cFE67feD",
+      "symbol": "POLYTOPIA",
+      "name": "PolytopiaProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12521,
-    "minor": 12521,
+    "major": 12522,
+    "minor": 12522,
     "patch": 86
   }
 }
