@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc5bc6a19d8452a29c978296684c2cf80a7e005b4",
-      "symbol": "ROTATOR",
-      "name": "RotatoR",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7a5F2adB72B3956357E708442494Fba914e1b27a",
       "symbol": "FIBONACCI",
       "name": "Fibonacci",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaF1225105ecebf621DE3683C23FD291644f6daC6",
+      "symbol": "NPLAYER",
+      "name": "NPlayerProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12603,
-    "minor": 12603,
+    "major": 12604,
+    "minor": 12604,
     "patch": 86
   }
 }
