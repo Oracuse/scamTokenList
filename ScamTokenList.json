@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x240D3539741a2607882C3E34e56F580f71e48349",
-      "symbol": "OMAUM",
-      "name": "Mantra",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5f521d75a91e109f0FB754b8571750BcbF59a22D",
       "symbol": "FAM",
       "name": "Family",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC2EE09019113DdDd5C24fd0E4D13Ed9d547C5Fc3",
+      "symbol": "BTD",
+      "name": "BuyTheDip",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12498,
-    "minor": 12498,
+    "major": 12499,
+    "minor": 12499,
     "patch": 86
   }
 }
