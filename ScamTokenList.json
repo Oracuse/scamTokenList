@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9876f79E9DaC095bbeA0fB3CC1D4894DE070F265",
-      "symbol": "HXC",
-      "name": "Hexchain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe39d7e50194F41FDd036dae42A387916e0b3342b",
       "symbol": "AKAKO",
       "name": "AKAKO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x429d6Aa5c1ec5c84698B41eA6CC34D5aa64FfcA8",
+      "symbol": "2MINUTES",
+      "name": "2MinutesProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12474,
-    "minor": 12474,
+    "major": 12475,
+    "minor": 12475,
     "patch": 86
   }
 }
