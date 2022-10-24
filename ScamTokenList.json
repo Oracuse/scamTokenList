@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x82e4F5fd8a1B7C2C2b4779900D04b30cB114e1d6",
-      "symbol": "ARIEL",
-      "name": "ARIEL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2578B4B11e8e4B1430502aCB4C94cd72C6b325FC",
       "symbol": "SAIKA",
       "name": "SAIKA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcD4f4d33196e7030d577f6eFB61B6aCf46656D4F",
+      "symbol": "GLOBAL",
+      "name": "CryptoIsGlobal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12576,
-    "minor": 12576,
+    "major": 12577,
+    "minor": 12577,
     "patch": 86
   }
 }
