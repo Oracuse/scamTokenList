@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x54Cb643ab007f47882E8120A8c57B639005c2688",
-      "symbol": "IXP",
-      "name": "IMPACTXPRIME",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF9381Bb2a15F75Ca8BCa174d56E0dE61fADdcb74",
       "symbol": "AK47",
       "name": "AK47ETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26f45C6D6bfdd89d37a8856838c2141348334E0F",
+      "symbol": "MASYA",
+      "name": "MASYA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12447,
-    "minor": 12447,
+    "major": 12448,
+    "minor": 12448,
     "patch": 86
   }
 }
