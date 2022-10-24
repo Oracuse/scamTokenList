@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x44fC98Dfae85358ea1e293B0CEdeFcD813eF8d18",
-      "symbol": "IVORY",
-      "name": "Ivory",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD723aa4Cc67d48FEF26a5E5792Ff175CcFF36cbF",
       "symbol": "HANZO",
       "name": "HATTORI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb23E9c16e71cb9EE02D5B727Aa3a0Af5024FC651",
+      "symbol": "WCP",
+      "name": "WorldCupProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12456,
-    "minor": 12456,
+    "major": 12457,
+    "minor": 12457,
     "patch": 86
   }
 }
