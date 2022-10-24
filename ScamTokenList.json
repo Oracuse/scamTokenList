@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3dbe40b765c1cb74a6e47eC53570A2D10a24056a",
-      "symbol": "PYROSHIB",
-      "name": "PyroShib",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6e67Bf3c4943D6b4B1F0117d4F6350a18000Dcf4",
       "symbol": "INVICTUS",
       "name": "INVICTUS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x370e6550cBaED46Ec8776fb57766C712165B141f",
+      "symbol": "TD",
+      "name": "TreeDiagram",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12605,
-    "minor": 12605,
+    "major": 12606,
+    "minor": 12606,
     "patch": 86
   }
 }
