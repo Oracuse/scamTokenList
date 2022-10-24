@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1B121A42149e096Fc090152dcA9123B95a2fCFAB",
-      "symbol": "CHOPPY",
-      "name": "ChoppyInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA3cf197cfFB43DE6bF49fBAebbE95A3bd4Fa8BcF",
       "symbol": "OFFWHITEETH",
       "name": "OFFWHITEETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCDD2bD61D07b8d42843175dd097A4858A8f764e7",
+      "symbol": "VLP",
+      "name": "ValueLiquidityProvi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12629,
-    "minor": 12629,
+    "major": 12630,
+    "minor": 12630,
     "patch": 86
   }
 }
