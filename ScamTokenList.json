@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA3cf197cfFB43DE6bF49fBAebbE95A3bd4Fa8BcF",
-      "symbol": "OFFWHITEETH",
-      "name": "OFFWHITEETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x281332BbcecC33FdBCD3eCAA2BB32eeA12C0D7BB",
       "symbol": "JINBETARO",
       "name": "JINBETARO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E146e67433c3db1636f35c9f176CD91CcC4F58F",
+      "symbol": "SISI",
+      "name": "SymbiosisFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12630,
-    "minor": 12630,
+    "major": 12631,
+    "minor": 12631,
     "patch": 86
   }
 }
