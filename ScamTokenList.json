@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x281332BbcecC33FdBCD3eCAA2BB32eeA12C0D7BB",
-      "symbol": "JINBETARO",
-      "name": "JINBETARO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x827246f5035f0c80CaD34Ab8552DFa8AA5C86928",
       "symbol": "CHEEMSDAO",
       "name": "CHEEMSDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9105F8E95D644227bA91da48d1e628938a2D46ED",
+      "symbol": "SCP",
+      "name": "SCPFoundation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12631,
-    "minor": 12631,
+    "major": 12632,
+    "minor": 12632,
     "patch": 86
   }
 }
