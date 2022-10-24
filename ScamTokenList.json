@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2E84B4bB1726B3770ED86370f5Aa964Ed2d77DEE",
-      "symbol": "WILD",
-      "name": "WildWest",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCB89e8bb6aE2297ACc79101C1C16E80d277cEd0c",
       "symbol": "DOGEFLEX",
       "name": "DogeFlex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x758f766e0004bfF9C7D0a83f2022e70C18300283",
+      "symbol": "BLUEWHALE",
+      "name": "LargestAnimalEver",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12550,
-    "minor": 12550,
+    "major": 12551,
+    "minor": 12551,
     "patch": 86
   }
 }
