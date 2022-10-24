@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf2F32C834D48fd83bb6d471bD705F668CBD99AB8",
-      "symbol": "SULEDAO",
-      "name": "SULEDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD86CE936FF9A0A07577628E288fBd3402a95506e",
       "symbol": "SONIC",
       "name": "HYPERSONIC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xccCcccCccc395A647FdD2d33e207EaBB531F9451",
+      "symbol": "C",
+      "name": "Ten",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12642,
-    "minor": 12642,
+    "major": 12643,
+    "minor": 12643,
     "patch": 86
   }
 }
