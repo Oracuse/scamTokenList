@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x657A0Aaa0a09273Aac5185206964b7e316DfBBd1",
-      "symbol": "SAAS",
-      "name": "ShitcoinAsAService",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBe4e2A40eD7457B435088207D2D1380BbD6647c6",
       "symbol": "ARCHI",
       "name": "ARCHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8438d64Da58772E9F7FCeAa1506bA300F935ABBd",
+      "symbol": "VLP",
+      "name": "ValueLiquidityProvi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12622,
-    "minor": 12622,
+    "major": 12623,
+    "minor": 12623,
     "patch": 86
   }
 }
