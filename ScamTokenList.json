@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x90bb5E76f370A44c1Ea4be7ED335810d6CB7D955",
-      "symbol": "OINARI",
-      "name": "InariOkami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb10d98C8FFd65336d6717A225551FD065d381958",
       "symbol": "FTON",
       "name": "FlexTon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C8886029DdD17a23653aB2132E63cc1A928B38a",
+      "symbol": "SQUAWK",
+      "name": "SquawkBoxProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12462,
-    "minor": 12462,
+    "major": 12463,
+    "minor": 12463,
     "patch": 86
   }
 }
