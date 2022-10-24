@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4220E821c1D138B80d32eB7d23510619D93c8269",
-      "symbol": "SHIBMERGE",
-      "name": "ShibaMerge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2Ad3678298E89AF129C18b566159C1D3B77a3755",
       "symbol": "YINANDYANG",
       "name": "YinandYang",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb48a26AfAA1ecB752BdA41a09d9E5DA43BFAaCCE",
+      "symbol": "YOLO",
+      "name": "YouOnlyLiveOnce",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12536,
-    "minor": 12536,
+    "major": 12537,
+    "minor": 12537,
     "patch": 86
   }
 }
