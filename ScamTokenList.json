@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9aE822F9c77DBC5550590A630d7011E6d101c06C",
-      "symbol": "SPARTA",
-      "name": "Spartan",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCac978fCB4aB311Ad7bA09a8F16dFA50d7f5C32e",
       "symbol": "MARIACHI",
       "name": "Mariachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB203c00E2ba678a938dB112C82400cd4109d631d",
+      "symbol": "TI",
+      "name": "TheInternational",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12467,
-    "minor": 12467,
+    "major": 12468,
+    "minor": 12468,
     "patch": 86
   }
 }
