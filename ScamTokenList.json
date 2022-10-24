@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4F61c5A7a17B1B3C94990Cf317fBcEd9D46a506c",
-      "symbol": "SENSHI",
-      "name": "SailorMoon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6EAEF50451Cb0B44fA91325459f7ec534594E02E",
       "symbol": "ZERO",
       "name": "ZeroInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e53566F4966CC4cec453DB24705191Ed7F1E3AA",
+      "symbol": "HAMSTER",
+      "name": "HamsterCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12429,
-    "minor": 12429,
+    "major": 12430,
+    "minor": 12430,
     "patch": 86
   }
 }
