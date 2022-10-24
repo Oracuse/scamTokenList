@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2Cdc76C59e5810De3CeAe4cF2cBaD1e916CcAA83",
-      "symbol": "EMERGE",
-      "name": "TheEmergence",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBf6aeA073EEcdA18C9a188a143364ee547A30eB8",
       "symbol": "AMAROK",
       "name": "AMAROK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12940200e3BABF1782668C2238FDCEeaDa84309C",
+      "symbol": "ICARUS",
+      "name": "Icarus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12620,
-    "minor": 12620,
+    "major": 12621,
+    "minor": 12621,
     "patch": 86
   }
 }
