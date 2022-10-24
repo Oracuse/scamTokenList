@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x06e117706b9F9275865d941e12a185cEe38bE279",
-      "symbol": "RAT",
-      "name": "RatgeInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3c71e8FB70C0a6a8a9838Db50d17e389E308f6Cd",
       "symbol": "SALVATION",
       "name": "SALVATION",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeaEC3bF0bf9f14F6685f63264665ab4537739eCd",
+      "symbol": "DEATH",
+      "name": "Shinigami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12579,
-    "minor": 12579,
+    "major": 12580,
+    "minor": 12580,
     "patch": 86
   }
 }
