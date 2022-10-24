@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x827246f5035f0c80CaD34Ab8552DFa8AA5C86928",
-      "symbol": "CHEEMSDAO",
-      "name": "CHEEMSDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6aE67B2121E14D997F80e1577Ca6E5e1a4d87969",
       "symbol": "DAOGROW",
       "name": "DAOGROW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E1c3b11e48EEd58DBca71e9298e14875f2988c7",
+      "symbol": "LIFE",
+      "name": "Izanami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12632,
-    "minor": 12632,
+    "major": 12633,
+    "minor": 12633,
     "patch": 86
   }
 }
