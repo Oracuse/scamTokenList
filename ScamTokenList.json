@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa1b4c898025595a70dDC3F39A18dBa9C0f7A7DCD",
-      "symbol": "PIXIU",
-      "name": "Pixiu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x74a508Ff6DebDf1c42189C8DF04F9d615F3C41F0",
       "symbol": "SONIC",
       "name": "SONIC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32d4c4D15e5a93c537e4ac501Dd718ED3d14020f",
+      "symbol": "LALA",
+      "name": "LALA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12477,
-    "minor": 12477,
+    "major": 12478,
+    "minor": 12478,
     "patch": 86
   }
 }
