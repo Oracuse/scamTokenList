@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE6B536b2192d112DeAd520F38f1c5e5fa26fDe8F",
-      "symbol": "DOMINOBURN",
-      "name": "DominoEffect",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x68B6971034c3938F9713a4fFa1DFA31Fc51408e3",
       "symbol": "AGNI",
       "name": "AGNI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x050a822776d7E34b421FAb3A6Ee4CB3647d81a0A",
+      "symbol": "TALKY",
+      "name": "TalkyProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12592,
-    "minor": 12592,
+    "major": 12593,
+    "minor": 12593,
     "patch": 86
   }
 }
