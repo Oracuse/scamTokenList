@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81527f27ce1eD5E3827d4859976607E708453C30",
-      "symbol": "XIAN",
-      "name": "BaXian",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00e5794e475Fee2e3D34E191c478363Ab3182975",
       "symbol": "HEAVEN",
       "name": "Shokera",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF33bB90d34484E905190A7D8062d83419f43fb03",
+      "symbol": "MASYA",
+      "name": "MasyaProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12486,
-    "minor": 12486,
+    "major": 12487,
+    "minor": 12487,
     "patch": 86
   }
 }
