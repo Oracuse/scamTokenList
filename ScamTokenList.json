@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2c816399B261050AFD98B237114adAB956ABfA08",
-      "symbol": "WORE",
-      "name": "WoreToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1B121A42149e096Fc090152dcA9123B95a2fCFAB",
       "symbol": "CHOPPY",
       "name": "ChoppyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10687398e0913aB354CCD7Ba2B214e83a181bD4B",
+      "symbol": "GLOB",
+      "name": "Glob",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12628,
-    "minor": 12628,
+    "major": 12629,
+    "minor": 12629,
     "patch": 86
   }
 }
