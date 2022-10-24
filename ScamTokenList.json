@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF9381Bb2a15F75Ca8BCa174d56E0dE61fADdcb74",
-      "symbol": "AK47",
-      "name": "AK47ETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA158293105d695A814C11A8cadB8015491E0Ef06",
       "symbol": "HBZ",
       "name": "HBZ",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdFB4aAd104AF3D52a55896D9f0f1543A529d564E",
+      "symbol": "ERC20",
+      "name": "ReversibleEther",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12448,
-    "minor": 12448,
+    "major": 12449,
+    "minor": 12449,
     "patch": 86
   }
 }
