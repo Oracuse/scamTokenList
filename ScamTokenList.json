@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2abE1A7Ed6e4214e0FAfAB2737307C50aef8EAad",
-      "symbol": "FREE",
-      "name": "Gratis",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5Dc83087f2416753fB8F582561FFfb5EF6c82492",
       "symbol": "STF",
       "name": "SlayTheFiend",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8adB1c431B2a1f443B4f8384078c91724690BFA9",
+      "symbol": "LAVA",
+      "name": "MoltenLava",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12483,
-    "minor": 12483,
+    "major": 12484,
+    "minor": 12484,
     "patch": 86
   }
 }
