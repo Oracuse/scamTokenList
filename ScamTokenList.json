@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7a5F2adB72B3956357E708442494Fba914e1b27a",
-      "symbol": "FIBONACCI",
-      "name": "Fibonacci",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3dbe40b765c1cb74a6e47eC53570A2D10a24056a",
       "symbol": "PYROSHIB",
       "name": "PyroShib",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0378ae537FEdc4c6B1B1a9053C7aDe5A78770857",
+      "symbol": "SANTA",
+      "name": "Santa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12604,
-    "minor": 12604,
+    "major": 12605,
+    "minor": 12605,
     "patch": 86
   }
 }
