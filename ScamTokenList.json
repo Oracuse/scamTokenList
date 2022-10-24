@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8979Fce30D07C9055D0a00276f927E1feE93af1f",
-      "symbol": "AINU",
-      "name": "AINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdDfFc1929C54128Ba3D832aB4C81fF590C6c370e",
       "symbol": "SUIKODEN",
       "name": "Suikoden",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6cEC6e115919E4cb140116106D84B4B86cd57586",
+      "symbol": "ERC4337",
+      "name": "ERC4337",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12432,
-    "minor": 12432,
+    "major": 12433,
+    "minor": 12433,
     "patch": 86
   }
 }
