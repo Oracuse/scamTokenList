@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x005e0369928662A40e87Fa42BC647AC41CfFc982",
-      "symbol": "NIL",
-      "name": "ZEROX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09B6c413D2C8bcce358f0f065c5145A9df19b2c8",
       "symbol": "AUGUST",
       "name": "AUGUST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9fDf65d4caBa4d469E9D696A11C069f12C332D0",
+      "symbol": "QV",
+      "name": "QuadraticVoting",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12589,
-    "minor": 12589,
+    "major": 12590,
+    "minor": 12590,
     "patch": 86
   }
 }
