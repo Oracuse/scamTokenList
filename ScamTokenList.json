@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdb52784E30e701F8e64d864A8d50689754b84DDf",
-      "symbol": "WIKIDAO",
-      "name": "WIKIDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04f033bdED031ac15FcD00F14231B48343CE516A",
       "symbol": "USNIPE",
       "name": "UltraSniper",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x444b934bF61678C38306d570ef7d0F179d5C44c5",
+      "symbol": "SD",
+      "name": "UltraLeagueSoccer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12644,
-    "minor": 12644,
+    "major": 12645,
+    "minor": 12645,
     "patch": 86
   }
 }
