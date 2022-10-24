@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9Ef872ED3Ef3012531fF36c39Dd7F5810141F10C",
-      "symbol": "PYTHON",
-      "name": "Python",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2Cdc76C59e5810De3CeAe4cF2cBaD1e916CcAA83",
       "symbol": "EMERGE",
       "name": "TheEmergence",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE12DA5507862664AE123bC7bF7D66d1A754348e7",
+      "symbol": "FLY",
+      "name": "Icarus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12619,
-    "minor": 12619,
+    "major": 12620,
+    "minor": 12620,
     "patch": 86
   }
 }
