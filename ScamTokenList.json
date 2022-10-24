@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x207948a1b70bf6652285eEe053A32fad9Af2B961",
-      "symbol": "FATE",
-      "name": "FATE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x06e117706b9F9275865d941e12a185cEe38bE279",
       "symbol": "RAT",
       "name": "RatgeInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Fe662fB32d2eDF9B1765cDdA0Af247801cBD328",
+      "symbol": "SOA",
+      "name": "StateofArt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12578,
-    "minor": 12578,
+    "major": 12579,
+    "minor": 12579,
     "patch": 86
   }
 }
