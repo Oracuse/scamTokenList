@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x27D8086CB8a9F82cBF53550C281164B8301Cf500",
-      "symbol": "CLUNA",
-      "name": "CLUNA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x728D7b2aD842A5cac9eE44897fd597Af3b77BaDd",
       "symbol": "ABYSS",
       "name": "Ungeheuer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xae9950529b4A664cc0E7467FefD42654D439cb01",
+      "symbol": "2X",
+      "name": "2X",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12506,
-    "minor": 12506,
+    "major": 12507,
+    "minor": 12507,
     "patch": 86
   }
 }
