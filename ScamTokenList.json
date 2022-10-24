@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe6220A051d62D55DF6415E8B8cC97bf972018829",
-      "symbol": "ITSNOTHING",
-      "name": "AnnuitCptis",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA07411E4991f5ce0D325BEb281745Add0fa7CC1d",
       "symbol": "GREEN",
       "name": "GreenToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x538cdb6bd86D07dBEC1f4Abe2181156Bfc13B822",
+      "symbol": "BLOB",
+      "name": "BLOBBlock",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12616,
-    "minor": 12616,
+    "major": 12617,
+    "minor": 12617,
     "patch": 86
   }
 }
