@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDD8fbf61513A906De15e8abB6c7489417430cD26",
-      "symbol": "GINU",
-      "name": "GamoraInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFE363c4c2927Ed62A43862e33dDC7C7Ee9777Fe5",
       "symbol": "TORCH",
       "name": "TheTorch",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17850559F28e700C4481774aE8097688A67637dd",
+      "symbol": "CH",
+      "name": "Chadium",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12647,
-    "minor": 12647,
+    "major": 12648,
+    "minor": 12648,
     "patch": 86
   }
 }
