@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xad545384f1B2f1E51D4d58Ee697A3733b90976b7",
-      "symbol": "IBURN",
-      "name": "InfiniteBurn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDD8fbf61513A906De15e8abB6c7489417430cD26",
       "symbol": "GINU",
       "name": "GamoraInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x715097792299deC2aA53Ee1e806fE2D8a3fe6F72",
+      "symbol": "TWALLET",
+      "name": "TwitterWallet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12646,
-    "minor": 12646,
+    "major": 12647,
+    "minor": 12647,
     "patch": 86
   }
 }
