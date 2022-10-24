@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5f521d75a91e109f0FB754b8571750BcbF59a22D",
-      "symbol": "FAM",
-      "name": "Family",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA389d8475E344F564140017ebdDa1B55ad6E700a",
       "symbol": "DIVETH",
       "name": "DIVIDE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x582873c9FdDF815A4043CFB8Fd1F6F80D4a7bFb1",
+      "symbol": "YA",
+      "name": "Saiya",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12499,
-    "minor": 12499,
+    "major": 12500,
+    "minor": 12500,
     "patch": 86
   }
 }
