@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62FdE450b6C5ace912107bdDdE4f145bD4509EC7",
-      "symbol": "TKI",
-      "name": "TECKELINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd58ef491984DB601F7BA1B545B60eadE2930F44B",
       "symbol": "MARTYR",
       "name": "Martyr",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x410a998376004F62F08f53eF0894C32Cdab32324",
+      "symbol": "WTHE",
+      "name": "WethToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12672,
-    "minor": 12672,
+    "major": 12673,
+    "minor": 12673,
     "patch": 86
   }
 }
