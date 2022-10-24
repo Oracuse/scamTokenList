@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x55B895A5eBb6bF02Aa638EA72EF0274Da8F135Cd",
-      "symbol": "BNTY",
-      "name": "BountyHunterERC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42Ae0a8cF976f50C84854e78969FCb43cb8694a2",
       "symbol": "TOKENDAO",
       "name": "TOKENDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC52439658941ccC62dEd0317156F8c1b9214Bba3",
+      "symbol": "WTF",
+      "name": "DoubleYouTeeEff",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12676,
-    "minor": 12676,
+    "major": 12677,
+    "minor": 12677,
     "patch": 86
   }
 }
