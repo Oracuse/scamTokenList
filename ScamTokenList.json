@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x38aBf75f35fF4Bb5AF521D9D1ecc56aC6aD8f947",
-      "symbol": "0XDEAD",
-      "name": "0xDead",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC9e23B11E540A2c615F3Fdd59385e3d94f4422d4",
       "symbol": "SDOGE",
       "name": "SturdyDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90257663ff1189463a7C0728D1046f42a279c61B",
+      "symbol": "2S",
+      "name": "2Seconds",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12767,
-    "minor": 12767,
+    "major": 12768,
+    "minor": 12768,
     "patch": 86
   }
 }
