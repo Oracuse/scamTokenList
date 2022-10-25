@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x599070c1845842d612BB75A192c373F6A09C9C7F",
-      "symbol": "NGMI",
-      "name": "ngmiwork",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE99ec8629b19bA000cFfD1a1835C17BBDa77B6a0",
       "symbol": "MXT",
       "name": "MaxTrade",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9649F46155fD79A98B6E1ebE6c52B43E5C92E5c8",
+      "symbol": "MLO",
+      "name": "MovingLandObject",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12952,
-    "minor": 12952,
+    "major": 12953,
+    "minor": 12953,
     "patch": 86
   }
 }
