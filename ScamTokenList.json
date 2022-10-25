@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6FAFb6cB96d934bAfa70E33b2680A06eC7Ba469E",
-      "symbol": "JOKERTAMA",
-      "name": "JOKERTAMA",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x60e7513DaC46dF08B1d5E64f9ec14CC33c060Fb9",
       "symbol": "CRABINU",
       "name": "CrabInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7Da18d1399c91dBa5E2d102649cf472BBbfA095",
+      "symbol": "MOVEMENT",
+      "name": "TheMovementProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12831,
-    "minor": 12831,
+    "major": 12832,
+    "minor": 12832,
     "patch": 86
   }
 }
