@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x00E759651eC9f269d384B01f0D2f03545850b070",
-      "symbol": "COSA",
-      "name": "CosaNostra",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9894226ee1Ae55012394E2Cb30EEABC225a19217",
       "symbol": "RYUGAMI",
       "name": "Ryugami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb74F80206dD6AE479EeBB707Ec4063Cf177FD1a6",
+      "symbol": "SHIT",
+      "name": "SHITCOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12737,
-    "minor": 12737,
+    "major": 12738,
+    "minor": 12738,
     "patch": 86
   }
 }
