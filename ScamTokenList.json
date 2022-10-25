@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1e827d094e06751e0093D37515d58C1B16eD1DAE",
-      "symbol": "SBLMNL",
-      "name": "Subliminal",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa3C5bF7bBdc68919f890fe88AbbaeAAeeaa179b4",
       "symbol": "NOTAR",
       "name": "Notar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x300d342fa0DcD56E89eF732aF04414fb9443AeDC",
+      "symbol": "DEMOCRATICPLURALITY",
+      "name": "DemocraticPlurality",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12735,
-    "minor": 12735,
+    "major": 12736,
+    "minor": 12736,
     "patch": 86
   }
 }
