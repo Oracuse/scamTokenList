@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x90eDc09Eb2194A8172BC1790d3925eA6FC4405Dd",
-      "symbol": "LINUGROW",
-      "name": "LunaInuGrow",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB1ad5bfFD084795954F222436D89A5a638A82D46",
       "symbol": "FIAT",
       "name": "DollarInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC78fDE63763b3e3B6d016D7c9eF6Dc175E89d740",
+      "symbol": "BKAERI",
+      "name": "BabyKAERI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12812,
-    "minor": 12812,
+    "major": 12813,
+    "minor": 12813,
     "patch": 86
   }
 }
