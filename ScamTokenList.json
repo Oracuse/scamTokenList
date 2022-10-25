@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0fcCa41100b672ea3C5080B8128be7B3D8255881",
-      "symbol": "SEPAR",
-      "name": "SepAr",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa489735E7935f69032670EfA15e67D7595f7f29B",
       "symbol": "SADAKO",
       "name": "SadakoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17b1fC5e23Faf1518439179A4310CD9Cf785bFF6",
+      "symbol": "CAT",
+      "name": "CatCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12698,
-    "minor": 12698,
+    "major": 12699,
+    "minor": 12699,
     "patch": 86
   }
 }
