@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x307Cb4fe0f795f474C155ca851A394cefe02424c",
-      "symbol": "TOYO",
-      "name": "Sesshu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75dF2966c378003A1eF817b894DE635Cbfd41362",
       "symbol": "RECLAIM",
       "name": "Reclaim",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x966b276f0F55271cBE0E23ec944439ef62A0A564",
+      "symbol": "NAKU",
+      "name": "Naku",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12682,
-    "minor": 12682,
+    "major": 12683,
+    "minor": 12683,
     "patch": 86
   }
 }
