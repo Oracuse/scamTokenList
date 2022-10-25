@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9f2F2E321d8cD209e461C33B6685321e15E80c40",
-      "symbol": "0TAX",
-      "name": "Infinity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x279D5D73cC08C2fCD61704eA96fF7f266d347d8E",
       "symbol": "SELEMENE",
       "name": "Selemene",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3EED8B2EcDc8d3F61EaA64e38Ad7F45B5771873a",
+      "symbol": "NYF",
+      "name": "NewYearsFlokiV2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12926,
-    "minor": 12926,
+    "major": 12927,
+    "minor": 12927,
     "patch": 86
   }
 }
