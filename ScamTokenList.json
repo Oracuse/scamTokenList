@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE74caA9B340BD4CCB7f0041c28067b7ef2d26899",
-      "symbol": "ETHQUILIBRIUM",
-      "name": "ETHQUILIBRIUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEb8920961E30a17d2707D0cC393F28C8E29b9282",
       "symbol": "CVSHOT",
       "name": "CVShots",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36880c2ec8D62cAdb207CA2407A981D7Cd957b50",
+      "symbol": "CHEEMS",
+      "name": "CrazyCheems",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12715,
-    "minor": 12715,
+    "major": 12716,
+    "minor": 12716,
     "patch": 86
   }
 }
