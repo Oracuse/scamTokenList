@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE99ec8629b19bA000cFfD1a1835C17BBDa77B6a0",
-      "symbol": "MXT",
-      "name": "MaxTrade",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x988c17B54f81C7274F4F4a4c35720CCDAEbE3847",
       "symbol": "RBLX",
       "name": "RBLX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCccd20a8882c46D5A63815eD482A2559298dc8D2",
+      "symbol": "MYERS",
+      "name": "MyersInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12953,
-    "minor": 12953,
+    "major": 12954,
+    "minor": 12954,
     "patch": 86
   }
 }
