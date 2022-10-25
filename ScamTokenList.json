@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x27551C40f70cdF4ff29DE00C6776F64bcD9D78Ea",
-      "symbol": "INUVERSE",
-      "name": "INUVERSE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD4176741f2300FfE3df0FcEFE1aF1B820c346ed4",
       "symbol": "UNKNOWN",
       "name": "TheUnknown",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fd7c6dAF10ED88db49401283b1DEeEB21BEE8c5",
+      "symbol": "PINNACLE",
+      "name": "Pinnacle",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12732,
-    "minor": 12732,
+    "major": 12733,
+    "minor": 12733,
     "patch": 86
   }
 }
