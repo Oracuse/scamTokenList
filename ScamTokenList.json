@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe85816977F46fd6dD26Bc37145dAa65BB5439400",
-      "symbol": "DOPE",
-      "name": "DopeToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1e827d094e06751e0093D37515d58C1B16eD1DAE",
       "symbol": "SBLMNL",
       "name": "Subliminal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68982fB7933b32329A65aB7B2D288532C4823Cea",
+      "symbol": "TST",
+      "name": "TestToken",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12734,
-    "minor": 12734,
+    "major": 12735,
+    "minor": 12735,
     "patch": 86
   }
 }
