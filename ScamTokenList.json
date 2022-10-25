@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6BF86452F4B99269b7cAB2C5B2781c2775B214F8",
-      "symbol": "DGREEN",
-      "name": "DOCTORGREEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE91eeFe769A121ad0614B967E4A0a1a9bE5F473b",
       "symbol": "RHLLOR",
       "name": "RHLLOR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x186785D4cba7263532F1da9bBeC3Da612dd6D085",
+      "symbol": "BACON",
+      "name": "BaconToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12906,
-    "minor": 12906,
+    "major": 12907,
+    "minor": 12907,
     "patch": 86
   }
 }
