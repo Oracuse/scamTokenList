@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x39f7C74d34D7284418Ad133d0f2C007036708819",
-      "symbol": "VOICE",
-      "name": "TheVoice",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeaAe59E22BaFe4b77a8CC97cA1d4abb2A11595Da",
       "symbol": "DEJITARUKODACHI",
       "name": "DejitaruKodachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6427895F37971FA9b5857cDE8e7e2E5f9aA72f59",
+      "symbol": "IAD",
+      "name": "InternationalArtist",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12792,
-    "minor": 12792,
+    "major": 12793,
+    "minor": 12793,
     "patch": 86
   }
 }
