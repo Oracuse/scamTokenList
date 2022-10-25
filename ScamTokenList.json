@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFF43733a514c628957E4c24728543d64b3E04181",
-      "symbol": "RIPPLE",
-      "name": "TheRippleEffect",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x797675bB9DfFDA8D9a8DB1edA9e2e96A7f85E524",
       "symbol": "APPLE",
       "name": "ForbiddenFruit",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2231aEa2Bc606118bF5CC68C1bB77aDdA47098b2",
+      "symbol": "CRYPTO",
+      "name": "Cryptoisglobal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12798,
-    "minor": 12798,
+    "major": 12799,
+    "minor": 12799,
     "patch": 86
   }
 }
