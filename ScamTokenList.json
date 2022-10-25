@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x011dc0Cc547Fe3B0c7B307CfC4f536aff7B04B19",
-      "symbol": "SBATMAN",
-      "name": "SpaceBatman",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7e7bdfC82549Fb3D790F7df8f9a21c53B93E0016",
       "symbol": "SOLC",
       "name": "SolanaClassic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2126501Fa9b2E121936c8C5ae50a02042CfC310c",
+      "symbol": "HL",
+      "name": "HolyLotus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12745,
-    "minor": 12745,
+    "major": 12746,
+    "minor": 12746,
     "patch": 86
   }
 }
