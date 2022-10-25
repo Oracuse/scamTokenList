@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3494CBfB20A420Cfcbb35747678F84dDF62154e9",
-      "symbol": "1000XBURN",
-      "name": "1000xBurn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x34c4305B532faAC037Bb3fd82663846b14dAcA83",
       "symbol": "LIGHTYEAR",
       "name": "LIGHTYEARINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B901F6068f3F69621061e97BFA9BED0Cb18517d",
+      "symbol": "DECENT",
+      "name": "DecentCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12747,
-    "minor": 12747,
+    "major": 12748,
+    "minor": 12748,
     "patch": 86
   }
 }
