@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1093a9012607321363bB527D78F69a493E211dA0",
-      "symbol": "SAUDIDOGE",
-      "name": "SaudiDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDD6B3ed565E29F9821ac8bD538253820FA24438d",
       "symbol": "BLACKANDWHITE",
       "name": "BandW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86113D0bc4b7ecA26902A156e7BA7BaB98973023",
+      "symbol": "W",
+      "name": "Dub",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12771,
-    "minor": 12771,
+    "major": 12772,
+    "minor": 12772,
     "patch": 86
   }
 }
