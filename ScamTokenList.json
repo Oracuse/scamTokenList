@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5481Af2Ee6680cca9644Cd4B0D6d4B2895f727f0",
-      "symbol": "SPEND",
-      "name": "TheSplurge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15a08A0FDc7c335eF811fD9Dc862c0dA2eF88083",
       "symbol": "CSP",
       "name": "CoinSpacers",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b4c80f08773c5DfF520A08dAA6d5BC897825da9",
+      "symbol": "SA",
+      "name": "SulfurasA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12790,
-    "minor": 12790,
+    "major": 12791,
+    "minor": 12791,
     "patch": 86
   }
 }
