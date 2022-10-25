@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67D313Db6Ad7EfFd71Ee72FeFF3bEda1faaFB85b",
-      "symbol": "MADNESS",
-      "name": "MidnightMadness",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfD8a794BA8aE018DDB755455D9A4e4F40046Bf5e",
       "symbol": "FEGINU",
       "name": "FegInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C71CD9424E377eD7Cd5A38Cb98638B5DDA7f9aF",
+      "symbol": "NOTHING",
+      "name": "NOTHING",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12859,
-    "minor": 12859,
+    "major": 12860,
+    "minor": 12860,
     "patch": 86
   }
 }
