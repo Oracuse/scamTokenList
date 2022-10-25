@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1Cf172895259026B0aA0AbD4f50F71B9D7242048",
-      "symbol": "REVOLUTION",
-      "name": "Revolution",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBCF2bf41686DC7cb3f1C4e0f42295960E4401d6E",
       "symbol": "BOOSTX",
       "name": "BOOSTXLAUNCHPAD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4aC96905182dD9487C76e8d4db7A25a1D6aA4df7",
+      "symbol": "MAL",
+      "name": "BelgianMalinois",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12696,
-    "minor": 12696,
+    "major": 12697,
+    "minor": 12697,
     "patch": 86
   }
 }
