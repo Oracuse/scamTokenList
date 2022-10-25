@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3ABCC77C7a039265852da67a0C07dFC3DE8069D0",
-      "symbol": "GREY",
-      "name": "Grey",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1037823C20c6867c9D40967eEDbC4ba41efC97dF",
       "symbol": "MOONMINER",
       "name": "MoonMiner",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x672110D8d45206eCa1AEbB464ab1b7B46B7dF441",
+      "symbol": "CHOICE",
+      "name": "Choice",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12750,
-    "minor": 12750,
+    "major": 12751,
+    "minor": 12751,
     "patch": 86
   }
 }
