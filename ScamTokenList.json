@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9def9D32318A84A1F5d372bAD0C8b899Bcf8EF5E",
-      "symbol": "PULSETAMA",
-      "name": "PLSTAMA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDa111AE0abD4A89430301B55C1c920913Fcc4027",
       "symbol": "MERGE",
       "name": "TheCombination",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5487B2507675D7FBe0e967d5303b18d87bd8c3d",
+      "symbol": "ECTOX",
+      "name": "ECTOX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12823,
-    "minor": 12823,
+    "major": 12824,
+    "minor": 12824,
     "patch": 86
   }
 }
