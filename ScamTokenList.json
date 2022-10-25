@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6295AFE9E8865ccCC3690de64F33a42a884132f8",
-      "symbol": "OHIRU",
-      "name": "OhiruInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDBA2407B58D05e74431117dD11c459594A9Ac831",
       "symbol": "SHINIGAMI",
       "name": "Shinigami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38E6B83faAA3db99eC788866668081DA33ccD329",
+      "symbol": "URGENT",
+      "name": "Urgent",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12783,
-    "minor": 12783,
+    "major": 12784,
+    "minor": 12784,
     "patch": 86
   }
 }
