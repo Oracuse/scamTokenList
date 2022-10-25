@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6E6b9F432f84Ca515a84f10B1D3549D84B632E3D",
-      "symbol": "BS",
-      "name": "BADSONIC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE497d4Ff3cE70fCA795807F2a561709DA4ec9975",
       "symbol": "WHALEINU",
       "name": "WhaleInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcDeA10623Cad3Df710E7A25bd602165874C53233",
+      "symbol": "VOLCANO",
+      "name": "VolcanoProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12863,
-    "minor": 12863,
+    "major": 12864,
+    "minor": 12864,
     "patch": 86
   }
 }
