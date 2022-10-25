@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaF61C31439A36138c8C49FBBBd3aafaefA8B6614",
-      "symbol": "POL",
-      "name": "Poltergeist",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA1dB26D62c3089698f0A0242b0aA71a6275EEa6a",
       "symbol": "SEEKER",
       "name": "SEEKER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x106a16263De5EDa879c8787375075E7649057B59",
+      "symbol": "SMUDGE",
+      "name": "SmudgeCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12936,
-    "minor": 12936,
+    "major": 12937,
+    "minor": 12937,
     "patch": 86
   }
 }
