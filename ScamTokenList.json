@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6fF79bD5adC1f8F511b53270f38Bcf62426A9c09",
-      "symbol": "GIBA",
-      "name": "GibaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3A73b71750d034aEc83F817B4f303e2c8e16bf70",
       "symbol": "EOH",
       "name": "EyeofHorus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x543Fb5ef4997bc365aE97b11a5CFc3bD63c3f501",
+      "symbol": "VP",
+      "name": "VitalikProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12816,
-    "minor": 12816,
+    "major": 12817,
+    "minor": 12817,
     "patch": 86
   }
 }
