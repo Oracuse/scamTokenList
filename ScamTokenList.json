@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfD8a794BA8aE018DDB755455D9A4e4F40046Bf5e",
-      "symbol": "FEGINU",
-      "name": "FegInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8B19b885194778fb122B23992896Ae7705A38FCD",
       "symbol": "MOWO",
       "name": "MoonWolf",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x522283B8254b8d006faD37a8d3737C180EEd27E2",
+      "symbol": "WCA",
+      "name": "WorldCupApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12860,
-    "minor": 12860,
+    "major": 12861,
+    "minor": 12861,
     "patch": 86
   }
 }
