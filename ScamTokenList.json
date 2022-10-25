@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x117cdBe57e2F58C3C99592a93A0d1E35124D6bdB",
-      "symbol": "SHEIST",
-      "name": "SaudiHeist",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD3Ce1f9C47C2BA2146d09Ed0497AD6730580fb47",
       "symbol": "ORB",
       "name": "TheSphere",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbD5141d78259a705f4e4C002F48eAE74E58f4031",
+      "symbol": "LFG",
+      "name": "LetsFuckingGo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12899,
-    "minor": 12899,
+    "major": 12900,
+    "minor": 12900,
     "patch": 86
   }
 }
