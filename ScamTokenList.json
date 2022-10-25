@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE0610DF67a7EB6C369Dc0fB4aB5961680608E7db",
-      "symbol": "EINU",
-      "name": "EnoughInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeBBd5e027F3A47fDF75AaE0b8C647bD06F3de310",
       "symbol": "PLAGUE",
       "name": "BlackDeath",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6fA9CA12f2544B4D704283aEE099e5b42Ce55a9",
+      "symbol": "DOUBLETAKEVITALIK",
+      "name": "doubletake",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12844,
-    "minor": 12844,
+    "major": 12845,
+    "minor": 12845,
     "patch": 86
   }
 }
