@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9f8AF482fa7b0EBd4D92Df9513cE7a0648CcAd7B",
-      "symbol": "SOLKONG",
-      "name": "SOLKONG",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAc197d332e4CAf06E5985741261E0F618116D6e9",
       "symbol": "UGETH",
       "name": "UGETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55Fa5D83324799F8907F23181Be04E9C83811BbC",
+      "symbol": "YUP",
+      "name": "YupProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12788,
-    "minor": 12788,
+    "major": 12789,
+    "minor": 12789,
     "patch": 86
   }
 }
