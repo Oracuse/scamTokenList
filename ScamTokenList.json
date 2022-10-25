@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD72AB8e5CD47c602C31C5dDDAb6AF8c1a912F301",
-      "symbol": "SYN",
-      "name": "SYNERGY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6295AFE9E8865ccCC3690de64F33a42a884132f8",
       "symbol": "OHIRU",
       "name": "OhiruInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1137a0a4988956fa34D38664A03aAfD9A81e121",
+      "symbol": "YOSHU",
+      "name": "Manyoshu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12782,
-    "minor": 12782,
+    "major": 12783,
+    "minor": 12783,
     "patch": 86
   }
 }
