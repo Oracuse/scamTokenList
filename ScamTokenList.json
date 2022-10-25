@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x879A930afa7b16497f5D942D1D8424B63cDB9d1f",
-      "symbol": "MITHRAISM",
-      "name": "TempleOfMithras",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80ee8c85FCcf72B0077c7BE12A6c39A606f61DEb",
       "symbol": "ZINU",
       "name": "ZERGLINGINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc09992583f7E885892b9E248D5C6C357129fc1E4",
+      "symbol": "SEGWIT",
+      "name": "BitcoinProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12814,
-    "minor": 12814,
+    "major": 12815,
+    "minor": 12815,
     "patch": 86
   }
 }
