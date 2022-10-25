@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAc197d332e4CAf06E5985741261E0F618116D6e9",
-      "symbol": "UGETH",
-      "name": "UGETH",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5481Af2Ee6680cca9644Cd4B0D6d4B2895f727f0",
       "symbol": "SPEND",
       "name": "TheSplurge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa8cE052a44265cf7fA3a14a99494e0c9ce202bA6",
+      "symbol": "HS",
+      "name": "HedgeandShrub",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12789,
-    "minor": 12789,
+    "major": 12790,
+    "minor": 12790,
     "patch": 86
   }
 }
