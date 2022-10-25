@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x797675bB9DfFDA8D9a8DB1edA9e2e96A7f85E524",
-      "symbol": "APPLE",
-      "name": "ForbiddenFruit",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4890f9f3bD3888a6Ca6aC9Ce10cB7A46A8f8628D",
       "symbol": "SHEESHBA",
       "name": "SHEESHBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60a0A8EaA15003C599a2879b8F2d9E72C8633788",
+      "symbol": "CHAOS",
+      "name": "ChaosDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12799,
-    "minor": 12799,
+    "major": 12800,
+    "minor": 12800,
     "patch": 86
   }
 }
