@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEb8920961E30a17d2707D0cC393F28C8E29b9282",
-      "symbol": "CVSHOT",
-      "name": "CVShots",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd6A3545A4b3E90f08cEC29f9822e98Ba798EdA54",
       "symbol": "SGROW",
       "name": "SolanaGrow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86d8FAf740B26E1FE95a980A5657EEcDd7A59f55",
+      "symbol": "DM",
+      "name": "DogsMemes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12716,
-    "minor": 12716,
+    "major": 12717,
+    "minor": 12717,
     "patch": 86
   }
 }
