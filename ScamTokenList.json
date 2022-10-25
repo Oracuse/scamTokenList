@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB6895DAB354e4A60Fd990D1CcBDdC4503d4C1038",
-      "symbol": "BABYLON",
-      "name": "Babylonian",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2B58077036f97675069948f71a46079CFd6B8fB3",
       "symbol": "LUNCR",
       "name": "LunaClassicRises",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdbB537580d0aCF8aB34BC21ec75720b91409b624",
+      "symbol": "MONKEY",
+      "name": "PresentCondition",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12911,
-    "minor": 12911,
+    "major": 12912,
+    "minor": 12912,
     "patch": 86
   }
 }
