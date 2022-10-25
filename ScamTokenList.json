@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeC282e23aCdf1d96C48df7A5C1501B18F44ebBFa",
-      "symbol": "SFY",
-      "name": "STAKIFY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7322e77cda59385288b84969c036CDF6aF7aB2C7",
       "symbol": "PURGE",
       "name": "TheCleansing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69Ed89ecd35082E031fE52b75123F801DB083306",
+      "symbol": "KAERI",
+      "name": "Kaeri",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12806,
-    "minor": 12806,
+    "major": 12807,
+    "minor": 12807,
     "patch": 86
   }
 }
