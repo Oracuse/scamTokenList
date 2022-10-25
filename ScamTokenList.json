@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa943D32b495750918c7e03A89FD477F75D77EDE6",
-      "symbol": "MEDU",
-      "name": "MEDUSAFINANCE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5e16C30124D77229A734C50A3B3dC84B46FB7164",
       "symbol": "SHR",
       "name": "ShrimpInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x466636468260874F7B68d11D8fD158F24a2dE301",
+      "symbol": "UPONLY",
+      "name": "BullrunisBack",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12890,
-    "minor": 12890,
+    "major": 12891,
+    "minor": 12891,
     "patch": 86
   }
 }
