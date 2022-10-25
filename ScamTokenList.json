@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x86F67eA8008387e6F372f1EAaE1CE68F75AEDA4F",
-      "symbol": "SAFEDEV",
-      "name": "SafeDev",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf88C3d52753125145179917Ffc23a38Fc16E6FeB",
       "symbol": "DOGEGOD",
       "name": "DogeGOD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63D688F87f68d9b9c9094bCB46474D38974652dF",
+      "symbol": "HIGH",
+      "name": "BuyLowGetHigh",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12876,
-    "minor": 12876,
+    "major": 12877,
+    "minor": 12877,
     "patch": 86
   }
 }
