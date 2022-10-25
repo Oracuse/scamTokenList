@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa489735E7935f69032670EfA15e67D7595f7f29B",
-      "symbol": "SADAKO",
-      "name": "SadakoInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x964D75Ca3822E82C7d0Bbc95C1337099ECf9Ce11",
       "symbol": "CSOL",
       "name": "CommunitySol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62D7930D17E59c56041FE251bAbA3FD53365E7f7",
+      "symbol": "CAT",
+      "name": "CAT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12699,
-    "minor": 12699,
+    "major": 12700,
+    "minor": 12700,
     "patch": 86
   }
 }
