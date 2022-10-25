@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB1ad5bfFD084795954F222436D89A5a638A82D46",
-      "symbol": "FIAT",
-      "name": "DollarInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x879A930afa7b16497f5D942D1D8424B63cDB9d1f",
       "symbol": "MITHRAISM",
       "name": "TempleOfMithras",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0D59c9d3166ab99F3631941Cc561C9870742609",
+      "symbol": "X",
+      "name": "CHEMICALX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12813,
-    "minor": 12813,
+    "major": 12814,
+    "minor": 12814,
     "patch": 86
   }
 }
