@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22e95CaAb23E4EDEDAB01fad27dF975ccc03537B",
-      "symbol": "TOKU",
-      "name": "Tokubetsuna",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb98461993032A5f76b1D5324AC4e68C3F7820639",
       "symbol": "DITMAX",
       "name": "DITMAX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7065A24f779d6a2dD37e472db75cd08c2aD8A779",
+      "symbol": "RALLY",
+      "name": "MidtermRally",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12942,
-    "minor": 12942,
+    "major": 12943,
+    "minor": 12943,
     "patch": 86
   }
 }
