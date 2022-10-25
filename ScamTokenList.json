@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8c0383dA2964695cb28906F4054eC756b6166478",
-      "symbol": "PENTA",
-      "name": "Pentagram",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1093a9012607321363bB527D78F69a493E211dA0",
       "symbol": "SAUDIDOGE",
       "name": "SaudiDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa771FD774Efb5e7a1F5aF52e7c316Be256572a85",
+      "symbol": "BANANA",
+      "name": "BananaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12770,
-    "minor": 12770,
+    "major": 12771,
+    "minor": 12771,
     "patch": 86
   }
 }
