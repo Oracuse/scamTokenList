@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe64cF3c1De1016b1BA7246795889584611b3b0C8",
-      "symbol": "STAKEREUM",
-      "name": "Stakereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF578870014AD85F1A76a7DDE5e6768D5f48D6730",
       "symbol": "RRI",
       "name": "RollsRoyceInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46ECD15C3bb7D78CCF8696eC993584531694dDa7",
+      "symbol": "DEGENCOIN",
+      "name": "DEGEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12710,
-    "minor": 12710,
+    "major": 12711,
+    "minor": 12711,
     "patch": 86
   }
 }
