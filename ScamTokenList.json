@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7c214102F2aF61f2b04574aDA5c31f8ad24bc2fA",
-      "symbol": "FISH",
-      "name": "GoldenFish",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2da2Ce4055d7801027B131e110784fBbA14bfA1c",
       "symbol": "ZOROINU",
       "name": "RoronoaZoroInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc174aA0B706e5a976052e0EA23f9F7358556eC69",
+      "symbol": "HEGIC1",
+      "name": "Hegic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12878,
-    "minor": 12878,
+    "major": 12879,
+    "minor": 12879,
     "patch": 86
   }
 }
