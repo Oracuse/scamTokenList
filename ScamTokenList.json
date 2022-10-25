@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5EFcE201c1DdE0aC76bf1aAcCDf6A6cFF584FdF6",
-      "symbol": "SIMP",
-      "name": "SimpInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4507579D7962Fb08797Ddf9624e361fCC2AF7f16",
       "symbol": "DUSK",
       "name": "TheSolset",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD78f973e65511571C36877886EaC156a0470ad88",
+      "symbol": "TDP",
+      "name": "TheDemocraticProtoc",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12726,
-    "minor": 12726,
+    "major": 12727,
+    "minor": 12727,
     "patch": 86
   }
 }
