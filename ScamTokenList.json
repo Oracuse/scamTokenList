@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9340327A04eFd84C1c14ce939025c6c4847A1FF8",
-      "symbol": "KANIRANTE",
-      "name": "KaniranteInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8c0383dA2964695cb28906F4054eC756b6166478",
       "symbol": "PENTA",
       "name": "Pentagram",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8570437c704a111746a00b0a0Ea50c90C00E6A7F",
+      "symbol": "DEATH",
+      "name": "Shinigami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12769,
-    "minor": 12769,
+    "major": 12770,
+    "minor": 12770,
     "patch": 86
   }
 }
