@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x873757Ae55b65d41b3F8173D0b1E992F73196545",
-      "symbol": "DRAINSOL",
-      "name": "DrainSolana",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4e98C1F97ea7d481aDA589da7034f5aCdeF26D3B",
       "symbol": "CINU",
       "name": "CommunityInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81C5B99BeC13EE854403E7cA5D07A8dbe05C27dD",
+      "symbol": "KOL",
+      "name": "Kolomna",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12721,
-    "minor": 12721,
+    "major": 12722,
+    "minor": 12722,
     "patch": 86
   }
 }
