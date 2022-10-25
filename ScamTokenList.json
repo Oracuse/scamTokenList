@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6eE05C7c7c03395E275927623f8fCcEdcA90966e",
-      "symbol": "ARC",
-      "name": "Archetype",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3ABCC77C7a039265852da67a0C07dFC3DE8069D0",
       "symbol": "GREY",
       "name": "Grey",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x847cb7c07DfDFBde4F54cF5b2d8A43D499FAD30D",
+      "symbol": "KORAON",
+      "name": "KoraonToken",
+      "decimals": 11,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12749,
-    "minor": 12749,
+    "major": 12750,
+    "minor": 12750,
     "patch": 86
   }
 }
