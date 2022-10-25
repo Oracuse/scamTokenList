@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0ac64f2E27Dfe01f9bF2705e357352f9044dcD19",
-      "symbol": "PILL",
-      "name": "PillofEther",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB4152F6933860BEddFCCAEcE396c7da2CAbFf7D9",
       "symbol": "MASAO",
       "name": "MASAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x657CAF2ff9B6E670AC794C4a817F95f2A8db9a07",
+      "symbol": "THEM",
+      "name": "Them",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12689,
-    "minor": 12689,
+    "major": 12690,
+    "minor": 12690,
     "patch": 86
   }
 }
