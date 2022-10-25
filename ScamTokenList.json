@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8493d127f506430E18221481FF13E0a5081323B5",
-      "symbol": "MOLECULE",
-      "name": "MoleculeDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2F60EbD82577e95B8f792988D414032b46271c1c",
       "symbol": "GOD",
       "name": "GameOfDragons",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4eFF6c584f511d527E902B0df865Fb2cFb00208B",
+      "symbol": "MYERS",
+      "name": "MyersInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12945,
-    "minor": 12945,
+    "major": 12946,
+    "minor": 12946,
     "patch": 86
   }
 }
