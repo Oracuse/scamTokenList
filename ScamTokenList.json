@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8d5a0Dbe12d5D61213D3E8FB0E8538549D6518A3",
-      "symbol": "TEKASHI",
-      "name": "TEKASHI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x87c1ea190915449E5AaE4CF632aBDE530D0A3caB",
       "symbol": "AEON",
       "name": "AEONGEMS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53386A952682f370c001e6Cff736D82F6f369063",
+      "symbol": "XDIE",
+      "name": "BurnXDieProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12894,
-    "minor": 12894,
+    "major": 12895,
+    "minor": 12895,
     "patch": 86
   }
 }
