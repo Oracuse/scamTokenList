@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6dE3D97BB25D34098d99e5c5F8c846C447Afc1A1",
-      "symbol": "SHRIMP",
-      "name": "ShrimpInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8F0e56357C90d54066eE436CAD829aC1Ec6B3AA6",
       "symbol": "VERGE",
       "name": "TheEdge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA45eBFBA4F7A38f8128E2B641428ae13F8F26D37",
+      "symbol": "OCU",
+      "name": "Oculus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12846,
-    "minor": 12846,
+    "major": 12847,
+    "minor": 12847,
     "patch": 86
   }
 }
