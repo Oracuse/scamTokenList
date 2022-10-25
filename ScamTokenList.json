@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4e98C1F97ea7d481aDA589da7034f5aCdeF26D3B",
-      "symbol": "CINU",
-      "name": "CommunityInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9C1CdE0D3BEA28eb39b7568814f47f5D8605d3dC",
       "symbol": "M84",
       "name": "MESSIER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60642a289abeC1962c00dF8EE0672CDc8F5F788f",
+      "symbol": "HYPE",
+      "name": "InnitForTheHYPE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12722,
-    "minor": 12722,
+    "major": 12723,
+    "minor": 12723,
     "patch": 86
   }
 }
