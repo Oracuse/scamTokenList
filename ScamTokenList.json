@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc59d17234d87dd92c2204747AD2A55aA076b8f67",
-      "symbol": "ALBEDO",
-      "name": "ALBEDOINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3AD53e421774E12F58e1fe117a772551fBdC0A71",
       "symbol": "SOS",
       "name": "TheEmergency",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x707EA1C7172CCa07cAC979F2Ae5dd24558eF2820",
+      "symbol": "MIDAS",
+      "name": "TheGoldenTouch",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12883,
-    "minor": 12883,
+    "major": 12884,
+    "minor": 12884,
     "patch": 86
   }
 }
