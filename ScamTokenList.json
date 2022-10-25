@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdF91c30EB0b4ee7590F91AD883ff64458EC78ca7",
-      "symbol": "51A",
-      "name": "Whirlpool",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa943D32b495750918c7e03A89FD477F75D77EDE6",
       "symbol": "MEDU",
       "name": "MEDUSAFINANCE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08eF1ac066a841e00d2cD8E6dF1d1c902AEeA3B2",
+      "symbol": "CAESAR",
+      "name": "CAESER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12889,
-    "minor": 12889,
+    "major": 12890,
+    "minor": 12890,
     "patch": 86
   }
 }
