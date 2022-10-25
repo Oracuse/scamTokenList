@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0cbDe48c245f5E7952BC432DF3cC3B16978e63e0",
-      "symbol": "BCREDIT",
-      "name": "BlockCreditFinance",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x991af2AB4784B6bB334104Edd5B795184A33d1Dc",
       "symbol": "WV",
       "name": "WeedVerse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcCE6977a4762522f6C3a58846Ff346eB056F5407",
+      "symbol": "VLP",
+      "name": "ValueLiquidityProvi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12712,
-    "minor": 12712,
+    "major": 12713,
+    "minor": 12713,
     "patch": 86
   }
 }
