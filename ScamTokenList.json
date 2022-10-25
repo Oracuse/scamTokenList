@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x212Ff7d88c55334B39C2Aa676Ef000a2C0856C67",
-      "symbol": "SOLINU",
-      "name": "SolanaInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3C966E1889c9eC949083AcEb94826880bF80D0C4",
       "symbol": "YOKAIINU",
       "name": "YokaiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x635e4A8d23d9adD975E931113Ddd2ac3663A7325",
+      "symbol": "VLP",
+      "name": "ValueLiquidityProvi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12718,
-    "minor": 12718,
+    "major": 12719,
+    "minor": 12719,
     "patch": 86
   }
 }
