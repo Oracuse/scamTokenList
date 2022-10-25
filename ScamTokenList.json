@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x21ee3D08e4C7Cae300f51036205fC2B6969fD608",
-      "symbol": "BLUFF",
-      "name": "ChinaBluff",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0f8CEBEd46D679887bbe8DF3D12f27910B99aDE1",
       "symbol": "HOWL",
       "name": "HOWL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7AAa0972b2e7bEFd9fc87bD3b03b76a7E271aBEa",
+      "symbol": "PLURALITY",
+      "name": "DemocraticPlurality",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12742,
-    "minor": 12742,
+    "major": 12743,
+    "minor": 12743,
     "patch": 86
   }
 }
