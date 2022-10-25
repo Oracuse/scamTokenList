@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe84d2901817014BB53974bd5756540F90c580aa4",
-      "symbol": "TAMAMBA",
-      "name": "TAMAMBA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x011dc0Cc547Fe3B0c7B307CfC4f536aff7B04B19",
       "symbol": "SBATMAN",
       "name": "SpaceBatman",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F310661C3a76cF0568268E704bB010EBd8E0A76",
+      "symbol": "JORDEN",
+      "name": "JordenToken",
+      "decimals": 12,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12744,
-    "minor": 12744,
+    "major": 12745,
+    "minor": 12745,
     "patch": 86
   }
 }
