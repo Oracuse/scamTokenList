@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe44e7d0fC3680919c53e2331CF66dF4B330c3A34",
-      "symbol": "IGIE",
-      "name": "Ichigoichie",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9cB18254cA75ab9443A9fA6b08301D59BC00584A",
       "symbol": "DDT",
       "name": "DaddyTether",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc9608B8dcEE2006a5aB57b1CDe0b1aA2e40391B0",
+      "symbol": "VLP",
+      "name": "ValueLiquidityProvi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12704,
-    "minor": 12704,
+    "major": 12705,
+    "minor": 12705,
     "patch": 86
   }
 }
