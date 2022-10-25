@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2F60EbD82577e95B8f792988D414032b46271c1c",
-      "symbol": "GOD",
-      "name": "GameOfDragons",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBEE45ec3Bb34E56f9360Ae7D32167FB5A6665eF6",
       "symbol": "DOBBY",
       "name": "Dobby",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa08dF3c98bfd8572396B7Ab075ae830028792736",
+      "symbol": "WCA",
+      "name": "WorldCupAkita",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12946,
-    "minor": 12946,
+    "major": 12947,
+    "minor": 12947,
     "patch": 86
   }
 }
