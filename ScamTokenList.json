@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB73A8B575ac6d58d62a1A2821AD343a23e471efe",
-      "symbol": "UNIDOGGY",
-      "name": "UNIDOGGY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1972B87A6fc930f5827Adf52E67AE14A89010d58",
       "symbol": "SHEIKHINU",
       "name": "SHEIKHINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAba459d42F6a044Ca4ae7203A6e64f63685161b5",
+      "symbol": "DAP",
+      "name": "DegenerateApeParty",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12868,
-    "minor": 12868,
+    "major": 12869,
+    "minor": 12869,
     "patch": 86
   }
 }
