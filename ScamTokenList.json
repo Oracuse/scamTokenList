@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa3C5bF7bBdc68919f890fe88AbbaeAAeeaa179b4",
-      "symbol": "NOTAR",
-      "name": "Notar",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00E759651eC9f269d384B01f0D2f03545850b070",
       "symbol": "COSA",
       "name": "CosaNostra",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFef1fdA9523566717Ba3A827f62E74a647F14De7",
+      "symbol": "PLURALITY",
+      "name": "ThePlurality",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12736,
-    "minor": 12736,
+    "major": 12737,
+    "minor": 12737,
     "patch": 86
   }
 }
