@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0Aa23a8EecC59c80075780C343f8062cb3Fb518c",
-      "symbol": "OYA",
-      "name": "OyabunLegacy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x34e41BC304515d3b5Adeec0022f73efeeE1212F8",
       "symbol": "ESCARGOTINU",
       "name": "EscargotInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe12DEf41f4d7921B537F418E9C90e8a1640003fE",
+      "symbol": "AOV",
+      "name": "ApeOfVitalik",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12866,
-    "minor": 12866,
+    "major": 12867,
+    "minor": 12867,
     "patch": 86
   }
 }
