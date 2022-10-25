@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15a08A0FDc7c335eF811fD9Dc862c0dA2eF88083",
-      "symbol": "CSP",
-      "name": "CoinSpacers",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x39f7C74d34D7284418Ad133d0f2C007036708819",
       "symbol": "VOICE",
       "name": "TheVoice",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa90B5FB7ce0b5a7a994d555378e2E48DAfb471b",
+      "symbol": "JEATS",
+      "name": "JoeEats",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12791,
-    "minor": 12791,
+    "major": 12792,
+    "minor": 12792,
     "patch": 86
   }
 }
