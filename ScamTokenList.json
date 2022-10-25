@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x976A015ed2e19db68AC5453677E508B999295F22",
-      "symbol": "HEKONAI",
-      "name": "NamakuraGatanaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf2b15e8191dA9de0D2E9D766A69602fD589360Db",
       "symbol": "COOLDUDE",
       "name": "COOLDUDE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xff5bb1De3040Ccd52d339C1A00298438EAD51C1b",
+      "symbol": "MOZAN",
+      "name": "MozanToken",
+      "decimals": 12,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12760,
-    "minor": 12760,
+    "major": 12761,
+    "minor": 12761,
     "patch": 86
   }
 }
