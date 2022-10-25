@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4bE2Ff81e12F04b4707fD5e4F88Ffd58F037dF20",
-      "symbol": "CATCOIN",
-      "name": "Catcoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4213A579f0BBEc226995A2Fbb339fc17951bF25b",
       "symbol": "HOOINU",
       "name": "HooInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9c8a15131D7e252F9D2EB7FB4E27b0A134fF4E8",
+      "symbol": "RSRS",
+      "name": "RSRS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12764,
-    "minor": 12764,
+    "major": 12765,
+    "minor": 12765,
     "patch": 86
   }
 }
