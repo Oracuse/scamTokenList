@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdc9E05c6e4127E74A29A34e88f6381d89814e0f7",
-      "symbol": "PRAL",
-      "name": "AntiLarp",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdCcc1D8EfaFd42f66f8F4C07a8e388DB1F7c725C",
       "symbol": "CERVEZA",
       "name": "TheBeer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD153DE314C335b11A3F7DEC5AA7C74dD5B1dD7F6",
+      "symbol": "DIALECTIC",
+      "name": "Dialectic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12691,
-    "minor": 12691,
+    "major": 12692,
+    "minor": 12692,
     "patch": 86
   }
 }
