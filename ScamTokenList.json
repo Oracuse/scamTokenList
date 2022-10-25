@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdfB4Cd518E1CF429fEd17e8e33116AD8787F7217",
-      "symbol": "CATCOIN",
-      "name": "Catcoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4bE2Ff81e12F04b4707fD5e4F88Ffd58F037dF20",
       "symbol": "CATCOIN",
       "name": "Catcoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE4e459A4B839Dc362160A36fC3cE5703f5F46349",
+      "symbol": "NAME",
+      "name": "NAME",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12763,
-    "minor": 12763,
+    "major": 12764,
+    "minor": 12764,
     "patch": 86
   }
 }
