@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x393B4742372286327b3A942612F46249A73E34c0",
-      "symbol": "COPPERFI",
-      "name": "CopperFi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE4c0e4520f86ee389Af2b86792159D62D4E25584",
       "symbol": "WHITE",
       "name": "Black",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x307fdE790bf65AAed5641a3eB331f5C10C809D9C",
+      "symbol": "TERMINAL",
+      "name": "TheTerminal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12886,
-    "minor": 12886,
+    "major": 12887,
+    "minor": 12887,
     "patch": 86
   }
 }
