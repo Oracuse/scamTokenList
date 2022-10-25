@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe84e554E8E03F23D67EC829797Cf72bF1553B47f",
-      "symbol": "PRF",
-      "name": "PlankRecoveryFund",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5EFcE201c1DdE0aC76bf1aAcCDf6A6cFF584FdF6",
       "symbol": "SIMP",
       "name": "SimpInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x659B968c2c30eFDCd43d22D65Dbd0F03a6D1B1CD",
+      "symbol": "PLURALITY",
+      "name": "PluralityProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12725,
-    "minor": 12725,
+    "major": 12726,
+    "minor": 12726,
     "patch": 86
   }
 }
