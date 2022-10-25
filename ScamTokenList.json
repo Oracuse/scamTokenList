@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe5482338b31CF7C5eA8aEdac33874EF97Da2DAac",
-      "symbol": "RESETBURN",
-      "name": "ThePastBurn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa61065dA11192Eff755dA6719cB797cAAA8f7572",
       "symbol": "DIVISION",
       "name": "Division",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2027aBcd568B52cF448eD9593C3b64E9a4dE90AD",
+      "symbol": "DYP",
+      "name": "DelayedProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12854,
-    "minor": 12854,
+    "major": 12855,
+    "minor": 12855,
     "patch": 86
   }
 }
