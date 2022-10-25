@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8F39232bCd8b64B6aFe7693F3101ACEc81432487",
-      "symbol": "NILA",
-      "name": "NILA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEeC4d53B7a5721B2515846a972324e7DC04F2Eb2",
       "symbol": "MANTRA",
       "name": "OmNam",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xebe1CF4f5BAF43f885CF3DB4d918ccd9661A9F61",
+      "symbol": "METAPHOR",
+      "name": "Metaphor",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12915,
-    "minor": 12915,
+    "major": 12916,
+    "minor": 12916,
     "patch": 86
   }
 }
