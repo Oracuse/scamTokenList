@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf71dc99445Df28B758B20990D589d14e267b9D5C",
-      "symbol": "OFE",
-      "name": "OriginOfEvil",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8D7F4d2B32fCB4B21c916b071dEB571dD53f18D3",
       "symbol": "LARP",
       "name": "DegenLarp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEF75a3498716AB4265947765020c6d2330C3700e",
+      "symbol": "CC",
+      "name": "ColdCirclet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12686,
-    "minor": 12686,
+    "major": 12687,
+    "minor": 12687,
     "patch": 86
   }
 }
