@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1051c95457060262Bb773E8a70C83fd0cb7A4171",
-      "symbol": "REVEL",
-      "name": "TheBookOfRevelation",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7b6217f5224FE1828c5358CB42c79022179559AE",
       "symbol": "CHIPIN",
       "name": "ChipIn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEcB75B23d4cD9d21dEedbd8049D9EDE1ECCC0275",
+      "symbol": "DPP",
+      "name": "DemocraticPluralism",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12786,
-    "minor": 12786,
+    "major": 12787,
+    "minor": 12787,
     "patch": 86
   }
 }
