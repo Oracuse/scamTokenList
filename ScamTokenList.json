@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7e7bdfC82549Fb3D790F7df8f9a21c53B93E0016",
-      "symbol": "SOLC",
-      "name": "SolanaClassic",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3494CBfB20A420Cfcbb35747678F84dDF62154e9",
       "symbol": "1000XBURN",
       "name": "1000xBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6DC3F06ceC20c2E4CF982404ab68ff6A60aEbda6",
+      "symbol": "CHAMP",
+      "name": "Champion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12746,
-    "minor": 12746,
+    "major": 12747,
+    "minor": 12747,
     "patch": 86
   }
 }
