@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x244efAD0eadADb7cdcA9aD98E81904DD55391692",
-      "symbol": "GOLDEN",
-      "name": "GOLDENVIPER",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8e4E4B6f4E376A5C50469c58D88BCB5Ca4c975e3",
       "symbol": "CLUE",
       "name": "Clue",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F6415E9C3eBFf48AC21115829971E656817D44C",
+      "symbol": "MIOTAM",
+      "name": "MIOTA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12757,
-    "minor": 12757,
+    "major": 12758,
+    "minor": 12758,
     "patch": 86
   }
 }
