@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4725cF31dBCf45e66c90A27Ba668f5a343E68AdE",
-      "symbol": "AB",
-      "name": "ArbitrumBox",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x79382e653997005211a204CF103B85b0a9f48A13",
       "symbol": "SHEG",
       "name": "SheggyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x961ecf9953f3B62D82D2969484c397406C30FF06",
+      "symbol": "PEOPLES",
+      "name": "ThePeopleProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12821,
-    "minor": 12821,
+    "major": 12822,
+    "minor": 12822,
     "patch": 86
   }
 }
