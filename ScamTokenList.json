@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf2b15e8191dA9de0D2E9D766A69602fD589360Db",
-      "symbol": "COOLDUDE",
-      "name": "COOLDUDE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB65A8874fF537AC40237940c2f8283e1AC0E0CE9",
       "symbol": "MAXIREUM",
       "name": "MAXIREUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e063C85472CA755847ae84817138E140EeAB7D8",
+      "symbol": "TMS",
+      "name": "TheMissingShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12761,
-    "minor": 12761,
+    "major": 12762,
+    "minor": 12762,
     "patch": 86
   }
 }
