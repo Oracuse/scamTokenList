@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x34c4305B532faAC037Bb3fd82663846b14dAcA83",
-      "symbol": "LIGHTYEAR",
-      "name": "LIGHTYEARINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6eE05C7c7c03395E275927623f8fCcEdcA90966e",
       "symbol": "ARC",
       "name": "Archetype",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEC0A298b7398E0f552196eE5d22d98286d045658",
+      "symbol": "TA",
+      "name": "Tweetdegens",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12748,
-    "minor": 12748,
+    "major": 12749,
+    "minor": 12749,
     "patch": 86
   }
 }
