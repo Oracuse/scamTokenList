@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x794107FAf396869C60a4Bc45afd4714F59B16dB7",
-      "symbol": "TORCH",
-      "name": "TheAlmighty",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC44eFd943BF206963Fde2F61D29A3283A016e66f",
       "symbol": "UNI",
       "name": "UniInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF7214B0b01896232C252dA5836B654bA2Ac69846",
+      "symbol": "TALKY",
+      "name": "Talky",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12728,
-    "minor": 12728,
+    "major": 12729,
+    "minor": 12729,
     "patch": 86
   }
 }
