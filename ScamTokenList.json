@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCf84fB2631a78C5A5BA8D60e762E573d70B2242f",
-      "symbol": "CRAWFISH",
-      "name": "CRAWFISH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe5482338b31CF7C5eA8aEdac33874EF97Da2DAac",
       "symbol": "RESETBURN",
       "name": "ThePastBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x744c7479A665c843a9278c4b2Fd3B73064206A15",
+      "symbol": "DELAYED",
+      "name": "TimeIsRelative",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12853,
-    "minor": 12853,
+    "major": 12854,
+    "minor": 12854,
     "patch": 86
   }
 }
