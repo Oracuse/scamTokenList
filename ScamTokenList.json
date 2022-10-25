@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51f65274859c467e17E553Db86f2346D383a775a",
-      "symbol": "SHINUBURN",
-      "name": "SheeBurnInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeC282e23aCdf1d96C48df7A5C1501B18F44ebBFa",
       "symbol": "SFY",
       "name": "STAKIFY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x551a0edc37d982C66Afef92d0A75eA4A89a4ee3C",
+      "symbol": "SUWC",
+      "name": "ShibaUnitedWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12805,
-    "minor": 12805,
+    "major": 12806,
+    "minor": 12806,
     "patch": 86
   }
 }
