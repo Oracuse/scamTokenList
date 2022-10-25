@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1903A22B82d5a5C0039dE7147Ac23aF5AD7B9A66",
-      "symbol": "BLACK",
-      "name": "BlackEth",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0E98ef1E45B2f89c37F5d895c034800A6344dAe8",
       "symbol": "POX",
       "name": "mOnKeEPoX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B93f4419bC43Efa7Ca89079E83935d8CcFe16b2",
+      "symbol": "VITALIKTWEET",
+      "name": "VitalikTweet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12842,
-    "minor": 12842,
+    "major": 12843,
+    "minor": 12843,
     "patch": 86
   }
 }
