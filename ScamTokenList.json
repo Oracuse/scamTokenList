@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7b6217f5224FE1828c5358CB42c79022179559AE",
-      "symbol": "CHIPIN",
-      "name": "ChipIn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9f8AF482fa7b0EBd4D92Df9513cE7a0648CcAd7B",
       "symbol": "SOLKONG",
       "name": "SOLKONG",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12445018610550B71503155429D58FcE2abc83d0",
+      "symbol": "KUZU",
+      "name": "TheExorcisedDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12787,
-    "minor": 12787,
+    "major": 12788,
+    "minor": 12788,
     "patch": 86
   }
 }
