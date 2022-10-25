@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60e7513DaC46dF08B1d5E64f9ec14CC33c060Fb9",
-      "symbol": "CRABINU",
-      "name": "CrabInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3c0c9f1D9E8BD2A4Fe7CF3360e4b0B65673f0971",
       "symbol": "PULSAR",
       "name": "PulsarFinance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFEAE8871C46652584944E483987b76b962D319FB",
+      "symbol": "TESTTEST",
+      "name": "TestTestProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12832,
-    "minor": 12832,
+    "major": 12833,
+    "minor": 12833,
     "patch": 86
   }
 }
