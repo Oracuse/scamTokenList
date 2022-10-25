@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x69a728065cc079eAA09A6CB97dB2bf0AF1952725",
-      "symbol": "ALLMIGHT",
-      "name": "ALlMight",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6708C52407e758B37fbc8E5107CdfC9b0d0b2fc5",
       "symbol": "ANTSOLOGY",
       "name": "Antsology",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26199F0Ec688a9422901B6e575e2D7343fe8fabb",
+      "symbol": "NFV",
+      "name": "NonFakeVitalik",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12840,
-    "minor": 12840,
+    "major": 12841,
+    "minor": 12841,
     "patch": 86
   }
 }
