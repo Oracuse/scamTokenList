@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDa95292CdeEd03058F7EA19C6bF388acbc6508e6",
-      "symbol": "EBANK",
-      "name": "EtherBank",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0ac64f2E27Dfe01f9bF2705e357352f9044dcD19",
       "symbol": "PILL",
       "name": "PillofEther",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x947d0a35AEF207098C0011F48D8b0b35AB098FD8",
+      "symbol": "FABLE",
+      "name": "TheFable",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12688,
-    "minor": 12688,
+    "major": 12689,
+    "minor": 12689,
     "patch": 86
   }
 }
