@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x71302152b19480c94d21DbddB74CceB492c393e2",
-      "symbol": "UNDERRATED",
-      "name": "UnderRatedETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfe99010572C0Db18a814B637A55A1467Ff14705A",
       "symbol": "DUBAISHIB",
       "name": "DUBAISHIBAINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCA9d29b87F70F3F9008FED1B172F41CD96B8C3ba",
+      "symbol": "SILENTWHALE",
+      "name": "SilentWhale",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12810,
-    "minor": 12810,
+    "major": 12811,
+    "minor": 12811,
     "patch": 86
   }
 }
