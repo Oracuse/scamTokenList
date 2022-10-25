@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6708C52407e758B37fbc8E5107CdfC9b0d0b2fc5",
-      "symbol": "ANTSOLOGY",
-      "name": "Antsology",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1903A22B82d5a5C0039dE7147Ac23aF5AD7B9A66",
       "symbol": "BLACK",
       "name": "BlackEth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40A62C3a5037d791c8d29487770EFCD7dAd65B5D",
+      "symbol": "PAMPIT",
+      "name": "PAMPIT",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12841,
-    "minor": 12841,
+    "major": 12842,
+    "minor": 12842,
     "patch": 86
   }
 }
