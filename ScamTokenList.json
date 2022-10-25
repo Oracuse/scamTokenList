@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x862E269AB225B28BdeA07786AD8822b5774EB7fD",
-      "symbol": "BABYSOL",
-      "name": "BabySolana",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC57c89F70521eA9d727c2A739632fCcBB8f327b4",
       "symbol": "WORK",
       "name": "Workforyourbags",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x083DC9431DD91bf93e51114f33F79F3966421976",
+      "symbol": "LESSON",
+      "name": "LessonProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12730,
-    "minor": 12730,
+    "major": 12731,
+    "minor": 12731,
     "patch": 86
   }
 }
