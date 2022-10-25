@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x38D9c669E76927db25BFB7a2FB239DE39cc20b53",
-      "symbol": "LANAR",
-      "name": "LanaRey",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb8199bb7CA90ca7E5cD3430A5BD612971af616C7",
       "symbol": "MACE",
       "name": "Macedonia",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f14A654C31743944C17089a54ad9F7DD4F9D4e2",
+      "symbol": "VOLTAPE",
+      "name": "MonkeyProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12918,
-    "minor": 12918,
+    "major": 12919,
+    "minor": 12919,
     "patch": 86
   }
 }
