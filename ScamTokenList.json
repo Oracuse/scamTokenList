@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x097376B3578598400475Ca84fDBcC603201810a2",
-      "symbol": "TSU",
-      "name": "Tsundoku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAD67853A4309B314BC7d1f0dCC8Cb943aBc220a1",
       "symbol": "MOOE",
       "name": "MOOEDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb262C19172BE49E0cfD8B56416DF818d87c8E248",
+      "symbol": "ERECT",
+      "name": "EthErection",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12940,
-    "minor": 12940,
+    "major": 12941,
+    "minor": 12941,
     "patch": 86
   }
 }
