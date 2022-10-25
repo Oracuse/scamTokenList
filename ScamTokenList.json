@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaC70446f6A6221ae8FF70D263E4fdDa7552F2E26",
-      "symbol": "666",
-      "name": "Devil",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2Ce99C2ebBc0095a4f96DBD1F65D24Bfb2c6Bf71",
       "symbol": "FLIP",
       "name": "TheLegendOfFlipping",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFFF6fd94084A4cBaF54350177ff877fD202867D9",
+      "symbol": "TSUMI",
+      "name": "Tsumi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12780,
-    "minor": 12780,
+    "major": 12781,
+    "minor": 12781,
     "patch": 86
   }
 }
