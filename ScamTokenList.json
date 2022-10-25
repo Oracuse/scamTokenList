@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1d1917748A1A5a6ba43EBb404F747a844Af6d477",
-      "symbol": "PRAWN",
-      "name": "PrawnInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9018a94aC31b2B99eeBF4c9BcaE236b366d31b0f",
       "symbol": "TEST",
       "name": "test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63bbC4239CEa3643307fF019e52B2946Ec9ef3D0",
+      "symbol": "TIME",
+      "name": "Delayed",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12851,
-    "minor": 12851,
+    "major": 12852,
+    "minor": 12852,
     "patch": 86
   }
 }
