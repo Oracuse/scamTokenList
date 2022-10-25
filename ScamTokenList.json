@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22971597e5dC9F880d3650334ffa456253eF7b0B",
-      "symbol": "RIDDLE",
-      "name": "RIDDLE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa51245cfa4972881ba854926f3995c0eb292DBA1",
       "symbol": "PURE",
       "name": "ThePure",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE54BbEc20470bA4679fCbA2cA7CD95BcC254bFDE",
+      "symbol": "IO",
+      "name": "ImageOrganization",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12826,
-    "minor": 12826,
+    "major": 12827,
+    "minor": 12827,
     "patch": 86
   }
 }
