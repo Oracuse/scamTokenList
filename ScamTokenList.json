@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2Ce99C2ebBc0095a4f96DBD1F65D24Bfb2c6Bf71",
-      "symbol": "FLIP",
-      "name": "TheLegendOfFlipping",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD72AB8e5CD47c602C31C5dDDAb6AF8c1a912F301",
       "symbol": "SYN",
       "name": "SYNERGY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCf3c4fEB9e5581DcCEd446b2890764f71A9c3123",
+      "symbol": "UP",
+      "name": "UrgentProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12781,
-    "minor": 12781,
+    "major": 12782,
+    "minor": 12782,
     "patch": 86
   }
 }
