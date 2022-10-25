@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x80ee8c85FCcf72B0077c7BE12A6c39A606f61DEb",
-      "symbol": "ZINU",
-      "name": "ZERGLINGINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6fF79bD5adC1f8F511b53270f38Bcf62426A9c09",
       "symbol": "GIBA",
       "name": "GibaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9CD786686F1802cbf4FcAb15CD26756F8D83BE0B",
+      "symbol": "INUINU",
+      "name": "InuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12815,
-    "minor": 12815,
+    "major": 12816,
+    "minor": 12816,
     "patch": 86
   }
 }
