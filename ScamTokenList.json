@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xff61db6CA5C64756CE53c1141EA3879e8927F26c",
-      "symbol": "VULTURE",
-      "name": "TheScavenger",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x873757Ae55b65d41b3F8173D0b1E992F73196545",
       "symbol": "DRAINSOL",
       "name": "DrainSolana",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb5a348b8Ea05187A0962c6505Cb0df7210e33C3",
+      "symbol": "DIALECTIC",
+      "name": "DIALECTIC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12720,
-    "minor": 12720,
+    "major": 12721,
+    "minor": 12721,
     "patch": 86
   }
 }
