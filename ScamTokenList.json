@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB722408EF6d1Ca3CB3d3fD2Cd2d9c9090BFA7439",
-      "symbol": "SCORPION",
-      "name": "Scorpion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9085194A4eeF65e34dE642954C188E75c0fFbe9B",
       "symbol": "111",
       "name": "Enlightenment",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x762cf5F7D6320D3C59b6B885FcD75a4E126CFF33",
+      "symbol": "PLURALITY",
+      "name": "Plurality",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 12740,
-    "minor": 12740,
+    "major": 12741,
+    "minor": 12741,
     "patch": 86
   }
 }
