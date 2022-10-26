@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x235087114643b58A1f5A6766cA12f5Fe0851dA37",
-      "symbol": "47RONIN",
-      "name": "47Ronin",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7d0D3da950166Ea9BbCF146b4921f8cEdcE6fFE3",
       "symbol": "PLAIKA",
       "name": "PulseLaika",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFe3B397Fd819f04e623DB9A27F62a89930c578a0",
+      "symbol": "PUMPIN",
+      "name": "PUMPKIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13173,
-    "minor": 13173,
+    "major": 13174,
+    "minor": 13174,
     "patch": 86
   }
 }
