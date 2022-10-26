@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc02C4d8611eEd7Ad77E3755c08fEb8d5F5480D7E",
-      "symbol": "CELL",
-      "name": "CellFiToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x61fA19241cB4f86Cf56D3fF1f2e1D009623826f7",
       "symbol": "D0G3",
       "name": "D0G3",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x235948cE29D9e1A43F66753e6F73720716938bc7",
+      "symbol": "GLITCH",
+      "name": "GLITCH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13069,
-    "minor": 13069,
+    "major": 13070,
+    "minor": 13070,
     "patch": 86
   }
 }
