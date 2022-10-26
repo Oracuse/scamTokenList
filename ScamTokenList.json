@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53DcF03413Df2ac441b993E99B13AE085bd3d65a",
-      "symbol": "SAMURAI",
-      "name": "SamuraiVision",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8e93d9E0282EC562DC27aa92Ee03a352771A997a",
       "symbol": "WENLOCK",
       "name": "WenLock",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34DB960362d6fF90D5319dc5D6f3e711b1310d57",
+      "symbol": "BEBOP2",
+      "name": "BEBOPTWO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13015,
-    "minor": 13015,
+    "major": 13016,
+    "minor": 13016,
     "patch": 86
   }
 }
