@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBbf64329727D6C8930E0abffcCcCb7E1A1A4A8bF",
-      "symbol": "MR",
-      "name": "Mora",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAff1D80753ceA9dff4F78048479d7225422a9857",
       "symbol": "CATO",
       "name": "MarcusPorciusCato",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9738c42897442DC035a40C2D7b2660c661d3efC",
+      "symbol": "SPOOGE",
+      "name": "SpookyDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13077,
-    "minor": 13077,
+    "major": 13078,
+    "minor": 13078,
     "patch": 86
   }
 }
