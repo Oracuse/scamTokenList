@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81A386C2C08DE9D6F0491ed49d9D440a872A2C96",
-      "symbol": "ROI",
-      "name": "ReturnOfInvestment",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9871701FDEec5BAeC760448EE808F2fa58D18003",
       "symbol": "UP",
       "name": "UP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb84Ae1395C7796678570c2dE10F26eAC56a3eA0D",
+      "symbol": "AKATSUKI",
+      "name": "Akatsuki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13128,
-    "minor": 13128,
+    "major": 13129,
+    "minor": 13129,
     "patch": 86
   }
 }
