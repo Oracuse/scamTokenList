@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd0Ee95434c6EFED9b17a7fE04c444613cac10D04",
-      "symbol": "METAMAX",
-      "name": "METAMAX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA9827b76eD1E14A267E72299cAae71231f2aF9b2",
       "symbol": "PLSE",
       "name": "Pulselon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4DE160A7FafD81D6e092097fE02e8295c9d7A4b8",
+      "symbol": "MYSTERY",
+      "name": "Mysterious",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13182,
-    "minor": 13182,
+    "major": 13183,
+    "minor": 13183,
     "patch": 86
   }
 }
