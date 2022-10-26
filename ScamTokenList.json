@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb9e3B56F216Ed9CA0c9B26cc0635A75c285356eD",
-      "symbol": "SV",
-      "name": "SatoshisVagina",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x639C80c5d2AE1fb0B0A02E22C31d46a23f20af10",
       "symbol": "PROSPECTIVE",
       "name": "Prospective",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B58DcC4e9C8D0d75E58A72f477ED8edfACb4C9B",
+      "symbol": "SIU",
+      "name": "IshowSpeedETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13143,
-    "minor": 13143,
+    "major": 13144,
+    "minor": 13144,
     "patch": 86
   }
 }
