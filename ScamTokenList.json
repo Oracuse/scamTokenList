@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa335298ab7D9238cFEfc5CfA18A6960CE00189E7",
-      "symbol": "BULL",
-      "name": "BULL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0083e312B10016e366cDAf60E392a5bF8D663669",
       "symbol": "KING",
       "name": "KINGWOJACK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1326D9175E52403206f64BCbc15f9AC6398e7AD4",
+      "symbol": "COMEDY",
+      "name": "TheGreatJoke",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13178,
-    "minor": 13178,
+    "major": 13179,
+    "minor": 13179,
     "patch": 86
   }
 }
