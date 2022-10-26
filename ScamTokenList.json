@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x63b263001e724c855C7E147bbD80e960D5250300",
-      "symbol": "BOXINGINU",
-      "name": "BoxingInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb3EcbBe04291508751331D3408aec81FeCDc308e",
       "symbol": "HYPNO",
       "name": "Hypnotoad",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10174EBeE39c78D59599a2d3a59BA7c1B7FCFBbf",
+      "symbol": "TLT",
+      "name": "TarotLandToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13097,
-    "minor": 13097,
+    "major": 13098,
+    "minor": 13098,
     "patch": 86
   }
 }
