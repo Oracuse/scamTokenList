@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x18defc82fEf29293D823f26ecd19903355a2a42a",
-      "symbol": "UMIBOZU",
-      "name": "Umibozu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE32683CD56E0CF818CB7CB8922D18AFA600b81C5",
       "symbol": "KINU",
       "name": "KodeInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C23EDc1CeEE0D8877B9d441de7cc1adf3249b8d",
+      "symbol": "THEGENESISPROTOCOL",
+      "name": "TheFirstProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13087,
-    "minor": 13087,
+    "major": 13088,
+    "minor": 13088,
     "patch": 86
   }
 }
