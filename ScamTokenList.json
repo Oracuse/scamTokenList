@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x49F0fF871f18a384F3363fD255323Cf6b01b3d2e",
-      "symbol": "SHISHIWO",
-      "name": "Yorimasu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x265bE9A7b8a53778D19a91aF497A5813bb5A0FA4",
       "symbol": "FROSHI",
       "name": "FRYTOSHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x670E240192BcB53272863D62A34BD208BeD82e7E",
+      "symbol": "MAD",
+      "name": "MADARA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13124,
-    "minor": 13124,
+    "major": 13125,
+    "minor": 13125,
     "patch": 86
   }
 }
