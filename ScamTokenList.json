@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5143aa4Fb90fb064255600e4d6598447e154A865",
-      "symbol": "PDAO",
-      "name": "PerpetualDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5e6698b2cc394102565c321F054d6311549b9859",
       "symbol": "EVLV",
       "name": "Evolve",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeAe5F25eFB4789F1ed90BF4B0951CE369e75D45c",
+      "symbol": "MTN",
+      "name": "Moonation",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13019,
-    "minor": 13019,
+    "major": 13020,
+    "minor": 13020,
     "patch": 86
   }
 }
