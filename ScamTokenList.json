@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbac0BBfd1Ca32039699cE37e959235022C4591e7",
-      "symbol": "MATSUEJO",
-      "name": "TheCastle",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB93dd2552b07423C12E738852b958351c228136c",
       "symbol": "SFLARE",
       "name": "SolareFlare",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4898F3cEB7ea955b46572Cf5bAD58363744d2425",
+      "symbol": "ANARCHY",
+      "name": "AnarchyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13023,
-    "minor": 13023,
+    "major": 13024,
+    "minor": 13024,
     "patch": 86
   }
 }
