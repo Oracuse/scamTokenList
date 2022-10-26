@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x05C7bf3cBf402277455B3114F5c275812E7dE2e7",
-      "symbol": "STARS",
-      "name": "MiniStars",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCdA1275c411881f5e85470a7d9E39Ac99A53A8D5",
       "symbol": "LAIKABANK",
       "name": "LaikaBank",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8e948c9e1cd4271e4EcD6Cbf6b47AcC659108CF",
+      "symbol": "CHIEF",
+      "name": "TheChiefProtocol",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13132,
-    "minor": 13132,
+    "major": 13133,
+    "minor": 13133,
     "patch": 86
   }
 }
