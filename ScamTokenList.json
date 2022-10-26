@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7de3B2336a446a879343cf84B659CC0841A099e6",
-      "symbol": "FAIRFUTURA",
-      "name": "FAIRFUTURA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81cd3aa4CeB7194e5332aF2bAe608c0b7d2B3137",
       "symbol": "EPSTEIN",
       "name": "EPSTEIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9E11FffDcA2AcE8802C445BcE859Bcec5278D09",
+      "symbol": "KURI",
+      "name": "KuriToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13058,
-    "minor": 13058,
+    "major": 13059,
+    "minor": 13059,
     "patch": 86
   }
 }
