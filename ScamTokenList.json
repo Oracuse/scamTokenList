@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4061F5576ca87846fa0958A261140A50466635FB",
-      "symbol": "EARTH",
-      "name": "Earth",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3c959dEb64ca1e8530738584ac71C1e3Ca23F520",
       "symbol": "GOAT",
       "name": "GOAT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBF0feF5C46f474440B57472170602dcf884c3F15",
+      "symbol": "MOONMATH",
+      "name": "MOON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12999,
-    "minor": 12999,
+    "major": 13000,
+    "minor": 13000,
     "patch": 86
   }
 }
