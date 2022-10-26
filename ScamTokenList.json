@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6B5E5D1806AfDE11a0ca0C460d10a1EAA8e0C9eD",
-      "symbol": "SAFE",
-      "name": "SafeMoon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x41118503ceE8ebcB548d966D056337146E049D1f",
       "symbol": "NORMAL",
       "name": "Normal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe86AD938260E9774FcAEc9DC93bdAF8A93f40a01",
+      "symbol": "NPD",
+      "name": "NationalPUMPkinDay",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13075,
-    "minor": 13075,
+    "major": 13076,
+    "minor": 13076,
     "patch": 86
   }
 }
