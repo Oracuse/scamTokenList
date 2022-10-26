@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x70398c1c30885dD995332328638DE9C1fe4fB65C",
-      "symbol": "IAMCFX",
-      "name": "IAMCfx",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1a2D7Bc0594256850CB76e567Ee434CfccBBC5c5",
       "symbol": "TARTLE",
       "name": "Tartle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ED46242D1b98a0B4cAAc6c86E7d6e333bbb1aF2",
+      "symbol": "BRANDON",
+      "name": "LightBrandon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12984,
-    "minor": 12984,
+    "major": 12985,
+    "minor": 12985,
     "patch": 86
   }
 }
