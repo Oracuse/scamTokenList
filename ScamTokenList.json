@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x18dfA69dc75764413c1b855944F754b3299c9dAe",
-      "symbol": "NOLAND",
-      "name": "NolandWorld",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0Fcabf35a3100B5A204B470A0d2258013eb0d3C2",
       "symbol": "RAPHSODY",
       "name": "BohemianRaphsody",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7fAc5eeFA5D13EE764C67f1782aEC034D2fBC8E2",
+      "symbol": "30",
+      "name": "30isalot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13012,
-    "minor": 13012,
+    "major": 13013,
+    "minor": 13013,
     "patch": 86
   }
 }
