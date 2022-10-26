@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA4A77C09e7199f0A3dE99751D3ea7Aab64522d4C",
-      "symbol": "MEFI",
-      "name": "memefinances",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8A3F9AFd57E6c18566977859413962ABBe4bb99c",
       "symbol": "DOGESV",
       "name": "DogeSV",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0574b7777B31426537Ef5760298C0D47bF28fDF2",
+      "symbol": "GINU",
+      "name": "GigaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13139,
-    "minor": 13139,
+    "major": 13140,
+    "minor": 13140,
     "patch": 86
   }
 }
