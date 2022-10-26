@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x20b00E427Bce8485B56C3bc9eefB474Bd901f0a6",
-      "symbol": "KAMIKAZE",
-      "name": "Kamikaze",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB3C021f55b044FE72C819ae820B8863539a23789",
       "symbol": "KOJIN",
       "name": "KojinInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf08734A4c789D271f53715be510B5B1A7e9A4392",
+      "symbol": "PUMPKING",
+      "name": "PumpkinKing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13028,
-    "minor": 13028,
+    "major": 13029,
+    "minor": 13029,
     "patch": 86
   }
 }
