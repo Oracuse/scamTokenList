@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4BFba157F5a6E9293B103C3a58a3ef95f908F7DB",
-      "symbol": "PYROT",
-      "name": "PyroTori",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC8Cb363CE1649850daC839a4Fa2323B888Dc2BF6",
       "symbol": "MITSUME",
       "name": "MitsumegaTooru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfEF4C6B56e011a684dC2054aFd576d83817C2620",
+      "symbol": "SLACK",
+      "name": "SLACKER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12957,
-    "minor": 12957,
+    "major": 12958,
+    "minor": 12958,
     "patch": 86
   }
 }
