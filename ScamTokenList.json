@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8702f211325D401e2815057165B9714BdB521e8f",
-      "symbol": "NEAR",
-      "name": "THEENDIS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4d916cA3bD8424555f19058E20C12898C0a68662",
       "symbol": "FUJI",
       "name": "Fujiyama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBdF1170B3E293a73FC54E15376b7559Ca6cFf83F",
+      "symbol": "SER",
+      "name": "Shortersgotrekt",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13110,
-    "minor": 13110,
+    "major": 13111,
+    "minor": 13111,
     "patch": 86
   }
 }
