@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x75b22df07cF03d40f8B7B4f91c5B4c8dc8518C6c",
-      "symbol": "PDAO",
-      "name": "PerpetualDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5143aa4Fb90fb064255600e4d6598447e154A865",
       "symbol": "PDAO",
       "name": "PerpetualDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0ebA2c76470dd73A59a3c67b65Ef026c2bd31d4",
+      "symbol": "MIRROR",
+      "name": "MirrorProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13018,
-    "minor": 13018,
+    "major": 13019,
+    "minor": 13019,
     "patch": 86
   }
 }
