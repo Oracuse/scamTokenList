@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7f05A4bD26239c0A4492349f0161F7F5a08708f1",
-      "symbol": "APEOR",
-      "name": "Apeor",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9BAa26e5A8dA5A7c65790361b5969Def5E8351F7",
       "symbol": "CHROMA",
       "name": "CHROMATOGRAPHY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x444D7A7d9E41910799cb8550C9eab5B42c228E0E",
+      "symbol": "TWITDOGE",
+      "name": "TwitDogeChief",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13135,
-    "minor": 13135,
+    "major": 13136,
+    "minor": 13136,
     "patch": 86
   }
 }
