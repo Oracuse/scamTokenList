@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB93dd2552b07423C12E738852b958351c228136c",
-      "symbol": "SFLARE",
-      "name": "SolareFlare",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf0b06d005fa23b74C123d5BAA2b38F353e601534",
       "symbol": "DC",
       "name": "DogeChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Fbe62B083F49e551D0421D1584843f59b9DC534",
+      "symbol": "TWOKA",
+      "name": "TWOKA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13024,
-    "minor": 13024,
+    "major": 13025,
+    "minor": 13025,
     "patch": 86
   }
 }
