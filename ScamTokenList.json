@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0Fcabf35a3100B5A204B470A0d2258013eb0d3C2",
-      "symbol": "RAPHSODY",
-      "name": "BohemianRaphsody",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFd1f078c937883bddd7ACeB0c07450FF7f0e7e39",
       "symbol": "SKYE",
       "name": "IsleofSkye",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b0b3d1074a3AA24BaBc810A32827e31Ac96ABCE",
+      "symbol": "NOCTEM",
+      "name": "CarpeNoctem",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13013,
-    "minor": 13013,
+    "major": 13014,
+    "minor": 13014,
     "patch": 86
   }
 }
