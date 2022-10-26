@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf0b06d005fa23b74C123d5BAA2b38F353e601534",
-      "symbol": "DC",
-      "name": "DogeChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe45ef7F2e8024ea0d5B0fb877F718eA8d936a25F",
       "symbol": "KAMI",
       "name": "KAMIKAKUSHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2633d548b2Ce182f8A9De7C3eA6E30618B4185b6",
+      "symbol": "CAD",
+      "name": "Canadian",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13025,
-    "minor": 13025,
+    "major": 13026,
+    "minor": 13026,
     "patch": 86
   }
 }
