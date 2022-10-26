@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x11167f362cf3dCf79E4dd01cD3fd6DEFAdC096e0",
-      "symbol": "DD",
-      "name": "DogeDaniels",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB187720016A1EF38b0EB78f761944a6a6F687ea9",
       "symbol": "THRONE",
       "name": "THETHRONE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06909eAEbcb85Ab14EDF151e7d286245A025E4A2",
+      "symbol": "OTHER",
+      "name": "OTHERCOIN",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13168,
-    "minor": 13168,
+    "major": 13169,
+    "minor": 13169,
     "patch": 86
   }
 }
