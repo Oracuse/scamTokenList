@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFd1f078c937883bddd7ACeB0c07450FF7f0e7e39",
-      "symbol": "SKYE",
-      "name": "IsleofSkye",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x53DcF03413Df2ac441b993E99B13AE085bd3d65a",
       "symbol": "SAMURAI",
       "name": "SamuraiVision",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xccdf571b555F57bb56f3D97bdD3029f24c92d50b",
+      "symbol": "SECRET",
+      "name": "THESECRETCODE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13014,
-    "minor": 13014,
+    "major": 13015,
+    "minor": 13015,
     "patch": 86
   }
 }
