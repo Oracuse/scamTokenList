@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9871701FDEec5BAeC760448EE808F2fa58D18003",
-      "symbol": "UP",
-      "name": "UP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB250040D328645Fa06131dB60D76DADAA4f5b30A",
       "symbol": "III",
       "name": "TripleHalvening",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4439cEC36e9B66d99bFfeEEB5c3747fb9806cB94",
+      "symbol": "KVRS",
+      "name": "KibaVerse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13129,
-    "minor": 13129,
+    "major": 13130,
+    "minor": 13130,
     "patch": 86
   }
 }
