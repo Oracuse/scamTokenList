@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD2cFE3f461f4e6fd9DDb1db5e547824CF9624Cd6",
-      "symbol": "MONI",
-      "name": "MoniMoon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x64ad79DDc72D5b74c00dbe89C8a3779A3A3DE66a",
       "symbol": "ASANO",
       "name": "Asano",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B6fdF69ab0e0670f87D3b1Eabd0f01b9Bc1D688",
+      "symbol": "YEINU",
+      "name": "YeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13047,
-    "minor": 13047,
+    "major": 13048,
+    "minor": 13048,
     "patch": 86
   }
 }
