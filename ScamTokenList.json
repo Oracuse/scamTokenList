@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x265bE9A7b8a53778D19a91aF497A5813bb5A0FA4",
-      "symbol": "FROSHI",
-      "name": "FRYTOSHI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF24F21bbF72cd35e6909334E7a5D7540d5098b4d",
       "symbol": "WHALE",
       "name": "Megalodon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDdedC78cBFb62D79a4F37A71DCfCd01b0Dba4C76",
+      "symbol": "NSA",
+      "name": "NorthStarAlliance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13125,
-    "minor": 13125,
+    "major": 13126,
+    "minor": 13126,
     "patch": 86
   }
 }
