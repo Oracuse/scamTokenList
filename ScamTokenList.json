@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x764d8d93ff55056e15c1903B88c99950D9685B21",
-      "symbol": "PLSDE",
-      "name": "PulseDogeElon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd0Ee95434c6EFED9b17a7fE04c444613cac10D04",
       "symbol": "METAMAX",
       "name": "METAMAX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x737821855c19ad540D8692869e611641E39b36E7",
+      "symbol": "OPT",
+      "name": "OmegaProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13181,
-    "minor": 13181,
+    "major": 13182,
+    "minor": 13182,
     "patch": 86
   }
 }
