@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3c959dEb64ca1e8530738584ac71C1e3Ca23F520",
-      "symbol": "GOAT",
-      "name": "GOAT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3b40F2366c8e8B566b803178Df7346c248682762",
       "symbol": "3301",
       "name": "CicadaProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xadb141fE27c640bA2aB70340988baEa55269C062",
+      "symbol": "HAPPY",
+      "name": "HappyProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13000,
-    "minor": 13000,
+    "major": 13001,
+    "minor": 13001,
     "patch": 86
   }
 }
