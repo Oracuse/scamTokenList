@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x61fA19241cB4f86Cf56D3fF1f2e1D009623826f7",
-      "symbol": "D0G3",
-      "name": "D0G3",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x83519df39a4D0AC2FF7279Fc3ab6FD0DdA557fb9",
       "symbol": "LQNTY",
       "name": "Liquinity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6a001409f58B6AA2Bc5E5C7Faac63FC3597619fA",
+      "symbol": "WCS",
+      "name": "WorldCupShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13070,
-    "minor": 13070,
+    "major": 13071,
+    "minor": 13071,
     "patch": 86
   }
 }
