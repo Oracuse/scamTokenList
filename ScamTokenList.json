@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7d0D3da950166Ea9BbCF146b4921f8cEdcE6fFE3",
-      "symbol": "PLAIKA",
-      "name": "PulseLaika",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69F66a3f3C9E97Cde423eDBdCff9Bdffc00B13Bf",
       "symbol": "STARSHIPB7",
       "name": "StarshipB7",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF217A72b1D40617c769A5b3Fbc3EF54036f2ee3F",
+      "symbol": "PFM",
+      "name": "PrayForMillionaires",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13174,
-    "minor": 13174,
+    "major": 13175,
+    "minor": 13175,
     "patch": 86
   }
 }
