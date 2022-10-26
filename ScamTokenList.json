@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6a3A152778E2eD7F4f004b11554C91B50A3058D0",
-      "symbol": "BURNBALL",
-      "name": "Burnball",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8BD5a8704e463753c4706702a1A1D915ea557Ee7",
       "symbol": "SLEPTON",
       "name": "SleptOn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF4fd8C213410413Ef4D9D6BC1936223a84f0AFa3",
+      "symbol": "DOGGY",
+      "name": "Doggystyle",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13106,
-    "minor": 13106,
+    "major": 13107,
+    "minor": 13107,
     "patch": 86
   }
 }
