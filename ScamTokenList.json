@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4370AE34F9c80919f38E1dFdC496b22A5DF80693",
-      "symbol": "VIVEREMILITAREEST",
-      "name": "Viveremilitareest",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42A757bCce7cb107501aaeb302b4d8C6Db728133",
       "symbol": "OTOKO",
       "name": "NezumiOtoko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C13cd6a427B8Ac29566f30Da66A63CFf75b09a3",
+      "symbol": "YB",
+      "name": "YesBear",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13040,
-    "minor": 13040,
+    "major": 13041,
+    "minor": 13041,
     "patch": 86
   }
 }
