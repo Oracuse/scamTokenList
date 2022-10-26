@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF24F21bbF72cd35e6909334E7a5D7540d5098b4d",
-      "symbol": "WHALE",
-      "name": "Megalodon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC8723c9428f4324fdA2A4FaF181d956Ded3fAEFF",
       "symbol": "HMSB",
       "name": "HoMusubi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75B351D3fa8876761D6059b4006472C4281Fed45",
+      "symbol": "STARLANDER",
+      "name": "Starlander",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13126,
-    "minor": 13126,
+    "major": 13127,
+    "minor": 13127,
     "patch": 86
   }
 }
