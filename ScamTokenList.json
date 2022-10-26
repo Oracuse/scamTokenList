@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa25dB6e03901a9930bc9D86A0249AC64a08609cd",
-      "symbol": "FFI",
-      "name": "FvckFlokiInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA4A77C09e7199f0A3dE99751D3ea7Aab64522d4C",
       "symbol": "MEFI",
       "name": "memefinances",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x555e431343775a080fE7b81D01e36F105F5aa7Ef",
+      "symbol": "CRYPTOSTARTUPS",
+      "name": "CryptoStartups",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13138,
-    "minor": 13138,
+    "major": 13139,
+    "minor": 13139,
     "patch": 86
   }
 }
