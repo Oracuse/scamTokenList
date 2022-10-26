@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87Fb5a2E712e3eE57607c32C43Ab177B0A234e0F",
-      "symbol": "GLO",
-      "name": "UnigloToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10CB7E0e201Af194a55bEC45C413d4DE81b176dA",
       "symbol": "LIFE",
       "name": "Life",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x046acfaBDd28FeaBE041788f4059d864801F1Eb7",
+      "symbol": "TWITTR",
+      "name": "TheFirstTweet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12994,
-    "minor": 12994,
+    "major": 12995,
+    "minor": 12995,
     "patch": 86
   }
 }
