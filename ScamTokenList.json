@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e809cB8b95E829E2e5a71c1DbB28580d045aF6a",
-      "symbol": "UNHOLY",
-      "name": "UNHOLY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4061F5576ca87846fa0958A261140A50466635FB",
       "symbol": "EARTH",
       "name": "Earth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53D007A3fD9FE731A1eDAde83E9de77A784F4f92",
+      "symbol": "DANKSHARD",
+      "name": "DankShardProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12998,
-    "minor": 12998,
+    "major": 12999,
+    "minor": 12999,
     "patch": 86
   }
 }
