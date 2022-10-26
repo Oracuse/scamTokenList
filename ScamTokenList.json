@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2B718c9710561DFe8E1a6D467758d315d9D7a86B",
-      "symbol": "CPI",
-      "name": "CanPumpImmediately",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00B16E1Ab01D0eC8f90C49A68Ae79fA07c641dc1",
       "symbol": "INFLATIONPEAKED",
       "name": "InflationPeaked",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0535170699c72C684d3185c05008a6Ad2f1cE328",
+      "symbol": "FFS",
+      "name": "ForFawkesSake",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13122,
-    "minor": 13122,
+    "major": 13123,
+    "minor": 13123,
     "patch": 86
   }
 }
