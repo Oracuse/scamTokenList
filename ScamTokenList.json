@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x323137258de7f8c8116408a2A7bA1179507b7046",
-      "symbol": "CSTS",
-      "name": "CSTs",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x18dfA69dc75764413c1b855944F754b3299c9dAe",
       "symbol": "NOLAND",
       "name": "NolandWorld",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF4b97EA16182bA2fc956aDD412B14dEa740D8cB",
+      "symbol": "THIRTY",
+      "name": "30Protocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13011,
-    "minor": 13011,
+    "major": 13012,
+    "minor": 13012,
     "patch": 86
   }
 }
