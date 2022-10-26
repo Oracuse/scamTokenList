@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3b7f5F47A5A3a819fC1F61ec1E0228dCA2B6AB2D",
-      "symbol": "KURO",
-      "name": "KUROBUTAINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x78421C185aFD8BACcBb5cb89C1e8ee2df78d18c5",
       "symbol": "TEST",
       "name": "pocketneedle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23F14Dc2FA9d5766655d829b9bF2A32255E1050b",
+      "symbol": "KI",
+      "name": "KarappeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13045,
-    "minor": 13045,
+    "major": 13046,
+    "minor": 13046,
     "patch": 86
   }
 }
