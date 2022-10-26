@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE0D6794D8f856d653C01a3E46218d23A09e59D15",
-      "symbol": "ETHRL",
-      "name": "Ethereal",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb9e3B56F216Ed9CA0c9B26cc0635A75c285356eD",
       "symbol": "SV",
       "name": "SatoshisVagina",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe75053189299FF4071Cda37f454ACF6a9ac5eB0C",
+      "symbol": "TTC",
+      "name": "TheTwitterChief",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13142,
-    "minor": 13142,
+    "major": 13143,
+    "minor": 13143,
     "patch": 86
   }
 }
