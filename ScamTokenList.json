@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB3C021f55b044FE72C819ae820B8863539a23789",
-      "symbol": "KOJIN",
-      "name": "KojinInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1F6c3697929EE8e921596cF74fF79713A1B2A3f8",
       "symbol": "SECRET",
       "name": "SecretSociety",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35678A62EB657955319bBb0a8583B071A27B8fC2",
+      "symbol": "PUMP",
+      "name": "UptoberInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13029,
-    "minor": 13029,
+    "major": 13030,
+    "minor": 13030,
     "patch": 86
   }
 }
