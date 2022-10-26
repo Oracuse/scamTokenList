@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42A757bCce7cb107501aaeb302b4d8C6Db728133",
-      "symbol": "OTOKO",
-      "name": "NezumiOtoko",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0C5f1B9f55c7a3dF5CC7b334D4E4470B59b1dB33",
       "symbol": "XIAOPO",
       "name": "DragonWarrior",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B110bD61c1fa540B580B48A7Ad07014F76Aaa81",
+      "symbol": "BUG",
+      "name": "BUG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13041,
-    "minor": 13041,
+    "major": 13042,
+    "minor": 13042,
     "patch": 86
   }
 }
