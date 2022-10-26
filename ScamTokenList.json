@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4E0f6cDe4eCD7Af8E25e0e4d2E5E171EfBa9ee46",
-      "symbol": "PSHIBA",
-      "name": "PulseShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a1034a891eFf283C247504175bFBE3C2E9Ce0b9",
       "symbol": "PL",
       "name": "PULSEWHALE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14ae294CF8f6c6Ca3Fb3263086506BCbfB9928B8",
+      "symbol": "WCP",
+      "name": "WorldCupPickles",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13161,
-    "minor": 13161,
+    "major": 13162,
+    "minor": 13162,
     "patch": 86
   }
 }
