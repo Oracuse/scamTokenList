@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x79e615278DBA521cFFA23D12465199F50f83b1fc",
-      "symbol": "ROBOCHU",
-      "name": "Robochu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB5179954CA37D47B5D7ceC262B6678D04561cB75",
       "symbol": "FLOOR",
       "name": "flOOr",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11681A9a3d6bc951c8c6192B0695019f3c3e68B5",
+      "symbol": "MANTIS",
+      "name": "Kamakiri",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13094,
-    "minor": 13094,
+    "major": 13095,
+    "minor": 13095,
     "patch": 86
   }
 }
