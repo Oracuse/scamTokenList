@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA16cb1D089278CD2c5A33d4f5951ac38E848A567",
-      "symbol": "FLIP",
-      "name": "TheFlippening",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xec455Fc96aB5b632c35050073e78138a2F1F4f71",
       "symbol": "HERMES",
       "name": "GodOfTrade",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEcA5135Ed36928a7af63DEC6793f77c901dEa45B",
+      "symbol": "UINT",
+      "name": "uint",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13146,
-    "minor": 13146,
+    "major": 13147,
+    "minor": 13147,
     "patch": 86
   }
 }
