@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC9CF43Df965c6A67cF6A5C2f081305ec7A707C6B",
-      "symbol": "STARS",
-      "name": "MiniStars",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4453C4ecae68B273c9D18016d05AA0d76f17e8C1",
       "symbol": "AKEGINU",
       "name": "Akeginu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x263AB963879b1747647C7f5491dC038cf2603463",
+      "symbol": "CHIEF",
+      "name": "ChiefProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13116,
-    "minor": 13116,
+    "major": 13117,
+    "minor": 13117,
     "patch": 86
   }
 }
