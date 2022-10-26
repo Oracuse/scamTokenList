@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB5179954CA37D47B5D7ceC262B6678D04561cB75",
-      "symbol": "FLOOR",
-      "name": "flOOr",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21A84ba0A9aeF9D6dE86BF5B19386f22AB753E08",
       "symbol": "K10",
       "name": "KuCoin10",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeD82D28051A1d04B2d5752D80ACdb3549650dc79",
+      "symbol": "7EN",
+      "name": "Se7en",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13095,
-    "minor": 13095,
+    "major": 13096,
+    "minor": 13096,
     "patch": 86
   }
 }
