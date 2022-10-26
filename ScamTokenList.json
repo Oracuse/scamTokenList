@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd59934f0314b7C584bc33F350b2736B5F27a6923",
-      "symbol": "KURENAI",
-      "name": "Yuhi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA687f1628FE78442b378755dC24B5690997A9152",
       "symbol": "DOOR",
       "name": "dOOr",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf02B9ce106F35E8D873e296C16C7fb861Ea7e6bE",
+      "symbol": "SALTY",
+      "name": "SALT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13083,
-    "minor": 13083,
+    "major": 13084,
+    "minor": 13084,
     "patch": 86
   }
 }
