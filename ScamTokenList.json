@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCdA1275c411881f5e85470a7d9E39Ac99A53A8D5",
-      "symbol": "LAIKABANK",
-      "name": "LaikaBank",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9f7A233BAb9102EB3979cB358705b81f5BDc00f0",
       "symbol": "OLD",
       "name": "TheOldMarket",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3721b1884530A8eB44A0FeF14c1A33D90d25F3a0",
+      "symbol": "HOOKER",
+      "name": "Hooker",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13133,
-    "minor": 13133,
+    "major": 13134,
+    "minor": 13134,
     "patch": 86
   }
 }
