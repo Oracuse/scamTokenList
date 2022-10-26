@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1722981c08E9e03e54A2B7a5D033019173Be924A",
-      "symbol": "LOTUS",
-      "name": "TheBlueLotus",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAc34353023cbAfC538aA1f7BF031C5e5e3Ac623a",
       "symbol": "ASTRA",
       "name": "AstroRamen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3A79e1149325eA219a73A837734b46c0D67BEd9",
+      "symbol": "NORATO",
+      "name": "NoratoToken",
+      "decimals": 13,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13007,
-    "minor": 13007,
+    "major": 13008,
+    "minor": 13008,
     "patch": 86
   }
 }
