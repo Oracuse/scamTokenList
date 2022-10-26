@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x83C8F12d66792965986d61C82a0C81F8CF19FB1B",
-      "symbol": "PLSS",
-      "name": "PulseSaitama",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7B4299F83311Ea86ccEAc97DeE446E836839Ce5C",
       "symbol": "CPI",
       "name": "ChickenPoxInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1de9bd16fB8c5bE4aA6ADD6ACe13a607a9f37707",
+      "symbol": "GP",
+      "name": "GoldProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13150,
-    "minor": 13150,
+    "major": 13151,
+    "minor": 13151,
     "patch": 86
   }
 }
