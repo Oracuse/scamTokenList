@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f193b3B011F298d0b6D15aa7b864b98c2d9BfC1",
-      "symbol": "WEST",
-      "name": "WestTaiwanEth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBD2802Ede766c16f76B262bcAc11d05C5B2bDE42",
       "symbol": "ITSUKA",
       "name": "IT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCd7cd78621aA3C0C18294ed386B4e4e963F90ddc",
+      "symbol": "TWIT",
+      "name": "CHIEFTWIT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13104,
-    "minor": 13104,
+    "major": 13105,
+    "minor": 13105,
     "patch": 86
   }
 }
