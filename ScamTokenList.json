@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC65a0c12BBC1983594c401cC0362379b3957aa3b",
-      "symbol": "SPECIAL",
-      "name": "special",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7a60c9b1bba6435A27056ac1955A891D757BB883",
       "symbol": "SHINAGAMI",
       "name": "TheBrightSide",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA17253c23eFD67Cc9856272c163cD67D3b7e8F61",
+      "symbol": "HINU",
+      "name": "HalloweenInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13032,
-    "minor": 13032,
+    "major": 13033,
+    "minor": 13033,
     "patch": 86
   }
 }
