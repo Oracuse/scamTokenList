@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF6ef8134FCcB0a83a18eb3d4DF25564A927d5533",
-      "symbol": "SIM",
-      "name": "Simulation",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xABcF6e0e616a0e14E07122257d9fF681a70E5362",
       "symbol": "7BULLS",
       "name": "SevenBulls",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x483993e969b9A00c4aEDdAE647913530Dc35BA70",
+      "symbol": "IR",
+      "name": "SIRToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13055,
-    "minor": 13055,
+    "major": 13056,
+    "minor": 13056,
     "patch": 86
   }
 }
