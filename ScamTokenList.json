@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFF24C7772AAd9Ca3CF957796cB4Ba8CC3CcE2166",
-      "symbol": "KMZ",
-      "name": "Kamikaze",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x05C7bf3cBf402277455B3114F5c275812E7dE2e7",
       "symbol": "STARS",
       "name": "MiniStars",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x256594032b23733101A7B899F40eFF6D09ff216F",
+      "symbol": "GGS",
+      "name": "GerrytheGerbil",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13131,
-    "minor": 13131,
+    "major": 13132,
+    "minor": 13132,
     "patch": 86
   }
 }
