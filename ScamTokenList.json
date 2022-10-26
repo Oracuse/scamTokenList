@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3e089079EcB7559c07f064eed1a14b55864982C6",
-      "symbol": "CSHIB",
-      "name": "CYBERSHIB",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA16cb1D089278CD2c5A33d4f5951ac38E848A567",
       "symbol": "FLIP",
       "name": "TheFlippening",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF2ab756251395467bc32d081641741409527bba5",
+      "symbol": "SHIRO",
+      "name": "WhiteElephant",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13145,
-    "minor": 13145,
+    "major": 13146,
+    "minor": 13146,
     "patch": 86
   }
 }
