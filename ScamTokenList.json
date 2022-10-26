@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc40c25838505854B5C9C68031d321d8dA9534980",
-      "symbol": "GOD",
-      "name": "GoodOldDays",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE0D6794D8f856d653C01a3E46218d23A09e59D15",
       "symbol": "ETHRL",
       "name": "Ethereal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF84936937951dE36F7199D07D61928bD6DffDA9",
+      "symbol": "LEMONP",
+      "name": "LemonProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13141,
-    "minor": 13141,
+    "major": 13142,
+    "minor": 13142,
     "patch": 86
   }
 }
