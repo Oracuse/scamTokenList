@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x78421C185aFD8BACcBb5cb89C1e8ee2df78d18c5",
-      "symbol": "TEST",
-      "name": "pocketneedle",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD2cFE3f461f4e6fd9DDb1db5e547824CF9624Cd6",
       "symbol": "MONI",
       "name": "MoniMoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91F4c32D055131e46CBC89d8DcE867E7aa34d198",
+      "symbol": "DHTE",
+      "name": "DHT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13046,
-    "minor": 13046,
+    "major": 13047,
+    "minor": 13047,
     "patch": 86
   }
 }
