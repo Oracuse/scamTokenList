@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9C597308E04E47c6e874723999ce9f8334479aA0",
-      "symbol": "OMNOM",
-      "name": "DogeEatsDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcC22F6a39b800ffFEB675eD68eEcFCe4cf1B8d3F",
       "symbol": "TESTSY",
       "name": "TestSY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBE50c8C6545e9b5Ace14662f6FEDF395383FfcCc",
+      "symbol": "BIG",
+      "name": "CryptoisBig",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13051,
-    "minor": 13051,
+    "major": 13052,
+    "minor": 13052,
     "patch": 86
   }
 }
