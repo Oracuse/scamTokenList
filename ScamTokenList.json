@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xabd79f23dC52332608C5Cd4E904fd452856308Ba",
-      "symbol": "5SIN",
-      "name": "FIFTHSIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFb3fb56e827747f562eA5BF3B9e5964880cECD0B",
       "symbol": "PL",
       "name": "PulseFish",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76e873536dCd0ECaF3af998ECDf1D2bdDFeFFC21",
+      "symbol": "CG",
+      "name": "CryptoGold",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13155,
-    "minor": 13155,
+    "major": 13156,
+    "minor": 13156,
     "patch": 86
   }
 }
