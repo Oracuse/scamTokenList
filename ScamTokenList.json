@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76D1f1570915548bC56A5eFb51015bc5F824F77B",
-      "symbol": "KAGUYAHIME",
-      "name": "Kaguyahime",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc02C4d8611eEd7Ad77E3755c08fEb8d5F5480D7E",
       "symbol": "CELL",
       "name": "CellFiToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA15F13271D141DD008011C427f410dbC2d3554e2",
+      "symbol": "FINTECH",
+      "name": "FinTechProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13068,
-    "minor": 13068,
+    "major": 13069,
+    "minor": 13069,
     "patch": 86
   }
 }
