@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x12D4113A5dfbe6AEe6B04D26E78dfc50533F203F",
-      "symbol": "UMIBOZU",
-      "name": "Umibozu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x18defc82fEf29293D823f26ecd19903355a2a42a",
       "symbol": "UMIBOZU",
       "name": "Umibozu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x639DBcB075939A1544F289fED8d8ebB13D56964E",
+      "symbol": "STOPFRONTRUNNING",
+      "name": "STOPFRONTRUNNING",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13086,
-    "minor": 13086,
+    "major": 13087,
+    "minor": 13087,
     "patch": 86
   }
 }
