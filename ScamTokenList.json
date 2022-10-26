@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaa3D8554C4E32fD2488c003a987Cc7C5b634Ea2a",
-      "symbol": "COBRA",
-      "name": "CobraTate",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4370AE34F9c80919f38E1dFdC496b22A5DF80693",
       "symbol": "VIVEREMILITAREEST",
       "name": "Viveremilitareest",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C88987f8EbEabC9D389012B39196Ee00f9D8aa8",
+      "symbol": "ZKEVM",
+      "name": "ZKEVM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13039,
-    "minor": 13039,
+    "major": 13040,
+    "minor": 13040,
     "patch": 86
   }
 }
