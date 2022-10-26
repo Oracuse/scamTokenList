@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7010Cec26a7f52960f553c6CCa0EF1E3B1B680C5",
-      "symbol": "PIXIES",
-      "name": "CryptoPixies",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF528B0EB43d4099ce206b44ce21C7Af34c87a80C",
       "symbol": "QUEEN",
       "name": "Persephone",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfA17ebB3A26d1F3653fDF24aedaD89DAE066bAD6",
+      "symbol": "GAPE",
+      "name": "GreenApe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13036,
-    "minor": 13036,
+    "major": 13037,
+    "minor": 13037,
     "patch": 86
   }
 }
