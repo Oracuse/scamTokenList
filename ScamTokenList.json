@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x50782E55Ac17b7697181B6A46756d15603a18F72",
-      "symbol": "SHOYO",
-      "name": "ShojokoYugyo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66A769e1Be272118bD777018214552FE8f58cb10",
       "symbol": "AKUST",
       "name": "TSUKAREVERSED",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ACAfC8D5C62FE713463267e79bebd3Df5C079Db",
+      "symbol": "SEEN",
+      "name": "SEENProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13003,
-    "minor": 13003,
+    "major": 13004,
+    "minor": 13004,
     "patch": 86
   }
 }
