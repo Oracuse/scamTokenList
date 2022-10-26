@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3b40F2366c8e8B566b803178Df7346c248682762",
-      "symbol": "3301",
-      "name": "CicadaProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x18C3a44168815fEDfb0d44721972979912739EEd",
       "symbol": "MOON",
       "name": "MoonRunners",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAE4232c40E947F2E1157a62ac7b6ff8d5d9977e4",
+      "symbol": "OMGV",
+      "name": "OMG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13001,
-    "minor": 13001,
+    "major": 13002,
+    "minor": 13002,
     "patch": 86
   }
 }
