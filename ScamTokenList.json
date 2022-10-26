@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2094F4a923e66809CEb5656BA87e7bFD5F8fcD7e",
-      "symbol": "NFA",
-      "name": "NotFinancialAdvice",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x02d6b53e0E25b67408817F487939571Fc6409E7F",
       "symbol": "ARISRESONANCE",
       "name": "ArisResonance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5434A1b676422cfB0d95af6b4546C414E82D2996",
+      "symbol": "NOBODY",
+      "name": "Nobody",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13079,
-    "minor": 13079,
+    "major": 13080,
+    "minor": 13080,
     "patch": 86
   }
 }
