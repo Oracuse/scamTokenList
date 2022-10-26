@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4fAEC464996347878f41dfd2eEd9EFBD373f53CF",
-      "symbol": "NOVA",
-      "name": "NovaChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEb77A813480A3Af975444fBA4141Bb7D93568b11",
       "symbol": "DOGECOFE",
       "name": "DOGECOFE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB963096dA2b5e1723E9CB5cD9D203De2FDdDF9E3",
+      "symbol": "TAKARA",
+      "name": "Takara",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13090,
-    "minor": 13090,
+    "major": 13091,
+    "minor": 13091,
     "patch": 86
   }
 }
