@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc86cBFE0c2c9f4EB193d30f8760cdf6059ee5e52",
-      "symbol": "DOGECOFE",
-      "name": "DOGECOFE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x12D4113A5dfbe6AEe6B04D26E78dfc50533F203F",
       "symbol": "UMIBOZU",
       "name": "Umibozu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8043EaE69248AC99B59F4a4db65F77DA165Ff5D2",
+      "symbol": "STOPFRONTRUNNING",
+      "name": "STOPFRONTRUNNING",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13085,
-    "minor": 13085,
+    "major": 13086,
+    "minor": 13086,
     "patch": 86
   }
 }
