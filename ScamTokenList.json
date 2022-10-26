@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08435Bbc2D6931c8AFb5a3A6ad36E614E6d6ad89",
-      "symbol": "ENTREE",
-      "name": "EntreE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1234E4CC64A329747652765a2a2b9D8FFE87376",
       "symbol": "ISHIB",
       "name": "IS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfFE0a244008434Ee04d1019d360dAb696c54c7ed",
+      "symbol": "VOID",
+      "name": "NULL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13100,
-    "minor": 13100,
+    "major": 13101,
+    "minor": 13101,
     "patch": 86
   }
 }
