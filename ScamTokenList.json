@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf3372Dd79aA41881F6610e2FBDc6DCe973A4844b",
-      "symbol": "NORMIE",
-      "name": "Howtobuy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75b22df07cF03d40f8B7B4f91c5B4c8dc8518C6c",
       "symbol": "PDAO",
       "name": "PerpetualDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1FC4E786247e0284AaD0Ba8DE263d49c1014E934",
+      "symbol": "INSANITY",
+      "name": "INSANITY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13017,
-    "minor": 13017,
+    "major": 13018,
+    "minor": 13018,
     "patch": 86
   }
 }
