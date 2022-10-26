@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x83519df39a4D0AC2FF7279Fc3ab6FD0DdA557fb9",
-      "symbol": "LQNTY",
-      "name": "Liquinity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA83a1a7D66a030CfF183d89918eCB6d709cdf66f",
       "symbol": "GRUFF",
       "name": "Grufford",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5506173b05ac889da74E8BA34985a1Ac5B69CD98",
+      "symbol": "UPVEMBER",
+      "name": "Upvember",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13071,
-    "minor": 13071,
+    "major": 13072,
+    "minor": 13072,
     "patch": 86
   }
 }
