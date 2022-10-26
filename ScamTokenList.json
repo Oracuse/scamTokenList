@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x02d6b53e0E25b67408817F487939571Fc6409E7F",
-      "symbol": "ARISRESONANCE",
-      "name": "ArisResonance",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC0e9B3CCD6Fe9585755C9E50E268D330a8244154",
       "symbol": "NETHER",
       "name": "NetherCash",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2416480Fa52e3fdaE2a4aFF17EAF4CC63b6FD64",
+      "symbol": "TXRPP",
+      "name": "TheXRPProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13080,
-    "minor": 13080,
+    "major": 13081,
+    "minor": 13081,
     "patch": 86
   }
 }
