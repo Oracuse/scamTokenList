@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc4ae4cDA7094428A716B9028aBd9C32339E35C62",
-      "symbol": "PLSAPE",
-      "name": "PulseApe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x37e1F707F25C995251e5D191d2645ba7c22ecb9E",
       "symbol": "PSQUID",
       "name": "PulseSquid",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcB744F3221B1D94AB065AbAe65c27A35Ec47A903",
+      "symbol": "VIQ",
+      "name": "VitalikIQRedux",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13159,
-    "minor": 13159,
+    "major": 13160,
+    "minor": 13160,
     "patch": 86
   }
 }
