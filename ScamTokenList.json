@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAc34353023cbAfC538aA1f7BF031C5e5e3Ac623a",
-      "symbol": "ASTRA",
-      "name": "AstroRamen",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x12077c5802a5ef5765eEEdAe1aaFb3f2c1Ed0eB6",
       "symbol": "EMPRESS",
       "name": "SUIKOTENNO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22Da9cbDF385943BCD80627e1D7F409979459b6c",
+      "symbol": "KZG",
+      "name": "PolynomialSchemes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13008,
-    "minor": 13008,
+    "major": 13009,
+    "minor": 13009,
     "patch": 86
   }
 }
