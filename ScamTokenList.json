@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC0e9B3CCD6Fe9585755C9E50E268D330a8244154",
-      "symbol": "NETHER",
-      "name": "NetherCash",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x72F69bb33BD33A75C1B3ca271346d0f958396D81",
       "symbol": "RES",
       "name": "Resonance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5363c6D561B4eCd2f99A50B6a51B2f1127EC273B",
+      "symbol": "1000X",
+      "name": "Nobodybats1000",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13081,
-    "minor": 13081,
+    "major": 13082,
+    "minor": 13082,
     "patch": 86
   }
 }
