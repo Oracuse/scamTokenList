@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC9949463B982010c613694cA495Cf803Ff0C8634",
-      "symbol": "SAFUDEV",
-      "name": "SafuDev",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF6ef8134FCcB0a83a18eb3d4DF25564A927d5533",
       "symbol": "SIM",
       "name": "Simulation",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39cB1A6fa7221bfD0d56a7D7F3E366BA14383641",
+      "symbol": "SAMOA",
+      "name": "Masina",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13054,
-    "minor": 13054,
+    "major": 13055,
+    "minor": 13055,
     "patch": 86
   }
 }
