@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81cd3aa4CeB7194e5332aF2bAe608c0b7d2B3137",
-      "symbol": "EPSTEIN",
-      "name": "EPSTEIN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6804a3c8cf170682A63C8639FaD9cF4e9265061f",
       "symbol": "DAYTONA",
       "name": "DAYTONA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC75Ab2978334db162449364e66329cBee1c5e181",
+      "symbol": "KITTEN",
+      "name": "KiTTEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13059,
-    "minor": 13059,
+    "major": 13060,
+    "minor": 13060,
     "patch": 86
   }
 }
