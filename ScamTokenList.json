@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC76EB96e85e42E13bC892d617d70bB080dD7c748",
-      "symbol": "PLDAO",
-      "name": "PULSEDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5AFA1835eF62D3D16F1B37cB6596979B3089c13A",
       "symbol": "SHIBORG",
       "name": "ShiborgInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75b7558ef926508a72d2Bf559C5Cc2A62047488A",
+      "symbol": "FGOLD",
+      "name": "FGOLD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13153,
-    "minor": 13153,
+    "major": 13154,
+    "minor": 13154,
     "patch": 86
   }
 }
