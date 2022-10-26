@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x41118503ceE8ebcB548d966D056337146E049D1f",
-      "symbol": "NORMAL",
-      "name": "Normal",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBbf64329727D6C8930E0abffcCcCb7E1A1A4A8bF",
       "symbol": "MR",
       "name": "Mora",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed36E9Ba69C34C4f04eE5197d2E5aaa1489a41F1",
+      "symbol": "CPD",
+      "name": "CyberpunkDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13076,
-    "minor": 13076,
+    "major": 13077,
+    "minor": 13077,
     "patch": 86
   }
 }
