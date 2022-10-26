@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDce1d5813C65fC7d170ec9187312d9f5ad32E06C",
-      "symbol": "WIW",
-      "name": "WillItWork",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8229eE4c5BBA8C4c27f2DF87C6E035fBF914Bc2a",
       "symbol": "DOSAKA",
       "name": "OsakaDream",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24fc6399b11F21ECEED7DD2BD1490c4EC82a3200",
+      "symbol": "SQUEEZE",
+      "name": "ShortSqueezeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 12974,
-    "minor": 12974,
+    "major": 12975,
+    "minor": 12975,
     "patch": 86
   }
 }
