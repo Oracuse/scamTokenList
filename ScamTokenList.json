@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x06B9a82b50dd2642757c313b2cdF617D3da4F299",
-      "symbol": "ESHIBA",
-      "name": "EShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7010Cec26a7f52960f553c6CCa0EF1E3B1B680C5",
       "symbol": "PIXIES",
       "name": "CryptoPixies",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcE4A207Fe0Fa6736619D52FaD25c0cC1FdEA001B",
+      "symbol": "BAPT",
+      "name": "BabyAptos",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13035,
-    "minor": 13035,
+    "major": 13036,
+    "minor": 13036,
     "patch": 86
   }
 }
