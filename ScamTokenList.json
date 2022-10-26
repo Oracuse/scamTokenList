@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8a70eBC3A4f4F8e9CAcdE6E99a0d0608B7c9D416",
-      "symbol": "SHIKIGAMI",
-      "name": "TheDarkSide",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x20b00E427Bce8485B56C3bc9eefB474Bd901f0a6",
       "symbol": "KAMIKAZE",
       "name": "Kamikaze",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCF5Bf85a3363abf631a59bC774B66EfF19e377B7",
+      "symbol": "NSA",
+      "name": "NorthStarAlliance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13027,
-    "minor": 13027,
+    "major": 13028,
+    "minor": 13028,
     "patch": 86
   }
 }
