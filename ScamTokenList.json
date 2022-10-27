@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA01a2dCE8549ED5D2b55BBAFAa10c92816015984",
-      "symbol": "FUJI",
-      "name": "FujiYama",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA5934Bd7fe16Ea8e7Ce617B1E44BA08D4dDD7Bc0",
       "symbol": "LDINO",
       "name": "LikeADino",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3798796fbFb9B6B30a88295B80d70a305C29fc8b",
+      "symbol": "CROW",
+      "name": "Shiroi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13399,
-    "minor": 13399,
+    "major": 13400,
+    "minor": 13400,
     "patch": 86
   }
 }
