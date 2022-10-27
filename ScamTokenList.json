@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x980337B18A78865B0cf74D10cb24A61b1AF06B8c",
-      "symbol": "QILIN",
-      "name": "QilintheLegend",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf9724C5F530771205aD006447b8286aeea397fa8",
       "symbol": "CHEESE",
       "name": "CheeseToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb57CbFbfB508a52246E7055a771960345B841603",
+      "symbol": "TFI",
+      "name": "TeamFinanceInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13271,
-    "minor": 13271,
+    "major": 13272,
+    "minor": 13272,
     "patch": 86
   }
 }
