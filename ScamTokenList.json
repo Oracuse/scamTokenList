@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x44c9EAd96f0003F096AAB227EF63FF3F56b13FFd",
-      "symbol": "HOICHI",
-      "name": "Honi",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x86e79aa8C6e29FfBAc7ce104C1e5e766791CbDf7",
       "symbol": "FTR",
       "name": "Future",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc82ae5a7A682961b85f2713120E4473f955ec26B",
+      "symbol": "TRF",
+      "name": "TheRealFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13372,
-    "minor": 13372,
+    "major": 13373,
+    "minor": 13373,
     "patch": 86
   }
 }
