@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbCc313778a3e2e137248e6231490a555f311DEe5",
-      "symbol": "IKUZOTEMERA",
-      "name": "IKUZOTEMERA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBeB9dAd0f4e0Ad072921F9eF92b0f895EF191fe9",
       "symbol": "COSMOS",
       "name": "COSMOS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2E3740f7d4e9fF85e1488144c742cba6BF7C2ac",
+      "symbol": "POT",
+      "name": "ProofOfTwitter",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13407,
-    "minor": 13407,
+    "major": 13408,
+    "minor": 13408,
     "patch": 86
   }
 }
