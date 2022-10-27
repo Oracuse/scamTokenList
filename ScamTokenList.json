@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1CB906287616499E8b46DdaBFDb19f652Fa59E37",
-      "symbol": "RUN",
-      "name": "BullRun",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01B70E308fCDF68C75f576aeb06F6E8228D9D571",
       "symbol": "NANCHU",
       "name": "RedSorrow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6CF9A24f7759f9eDeC205DDA85543B9Eca015975",
+      "symbol": "POT",
+      "name": "ProofOfTwitter",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13409,
-    "minor": 13409,
+    "major": 13410,
+    "minor": 13410,
     "patch": 86
   }
 }
