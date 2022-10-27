@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3E447C412a04c4b47569E2018cab032CF3Db5b17",
-      "symbol": "CHESHIRE",
-      "name": "CheshireCatETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9b707b728d741982B8A94ff6af90d5d2Ee653988",
       "symbol": "FETCHDC",
       "name": "FetchDC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x762a9a4cCeF7c17FBB50B774189e23a35e7A6f34",
+      "symbol": "ELONWEEN",
+      "name": "Elonween",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13368,
-    "minor": 13368,
+    "major": 13369,
+    "minor": 13369,
     "patch": 86
   }
 }
