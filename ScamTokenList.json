@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73AC4540F31aD6f487B55219B8a43546160017EC",
-      "symbol": "CALVES",
-      "name": "CALVES",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9A670791ce0FcaA227Ff88B967eb51Ab72a6bEb7",
       "symbol": "ETIME",
       "name": "ETIME",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36Ae54112a224cde908a7d63a3dcb86E7ca0D6E2",
+      "symbol": "CHARMED",
+      "name": "CHARMED",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13370,
-    "minor": 13370,
+    "major": 13371,
+    "minor": 13371,
     "patch": 86
   }
 }
