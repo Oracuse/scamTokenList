@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC518AEdEA07095300f77E17c0EC125E27B763226",
-      "symbol": "THEVOID",
-      "name": "Inai",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x74E038547C068F946285535F3d6f7DdeD3b7F9De",
       "symbol": "FLASH",
       "name": "Shanguang",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68D20FdA7951fEE3eC5ddA486ce947A43a4AF20f",
+      "symbol": "LBM",
+      "name": "LPBURNTMETA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13301,
-    "minor": 13301,
+    "major": 13302,
+    "minor": 13302,
     "patch": 86
   }
 }
