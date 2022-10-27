@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF2C8D306dE93505C74ae445ccb9801907265Cdc5",
-      "symbol": "CREATURE",
-      "name": "KITECREATURE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4a24Ed2aE02f3af92E147373A179f0AE755D8c1B",
       "symbol": "KIBAINU",
       "name": "KibaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFEb6d5238Ed8F1d59DCaB2db381AA948e625966D",
+      "symbol": "DGTV",
+      "name": "DogeTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13392,
-    "minor": 13392,
+    "major": 13393,
+    "minor": 13393,
     "patch": 86
   }
 }
