@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x624FFd0D63Cdc85967AB6575cB0EC85015AeB91c",
-      "symbol": "KUSEI",
-      "name": "KINMO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x340b7e7071e2cA75904943dB63D5FAc3596d0915",
       "symbol": "ARENA",
       "name": "ArenaDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfC21770498749c3B906f8fdb6e5E2964f4E0fd6f",
+      "symbol": "SODOGE",
+      "name": "SoccerDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13331,
-    "minor": 13331,
+    "major": 13332,
+    "minor": 13332,
     "patch": 86
   }
 }
