@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb6c28998eBE14e6a767Faaced6f272a35dFf7398",
-      "symbol": "V",
-      "name": "Votion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9fD5C7fB0f2d675D6EF47C758Af28A2647e9A58B",
       "symbol": "VG",
       "name": "VerdenGames",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x069DE279E076Fde89F90EcAD91a8F2e4845B7D59",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13315,
-    "minor": 13315,
+    "major": 13316,
+    "minor": 13316,
     "patch": 86
   }
 }
