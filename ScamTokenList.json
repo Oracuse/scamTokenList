@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x744d636B79B907B3DE0A216Ea371FF5f976939b9",
-      "symbol": "THEPORTAL",
-      "name": "AnotherWorld",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFF7b7fE399fd169BC83b472b96F35b85C0059B8D",
       "symbol": "SADOU",
       "name": "SadouTeaCeremony",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xefFa3d368A6de667346F2f70B727bE7f378E5C85",
+      "symbol": "THEEND",
+      "name": "thisisTHEend",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13380,
-    "minor": 13380,
+    "major": 13381,
+    "minor": 13381,
     "patch": 86
   }
 }
