@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe9e9762c66171c6fC43a9352dFbEDAaF1e7a2883",
-      "symbol": "CSFI",
-      "name": "CoinStore",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x949e92888E11924adBB69F8c3a0211A78A44d056",
       "symbol": "CHOJI",
       "name": "ShionoChoji",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A5F56200194438641609C0D53BC3C8F8911054c",
+      "symbol": "TSUKA20",
+      "name": "DejitaruTsuka20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13261,
-    "minor": 13261,
+    "major": 13262,
+    "minor": 13262,
     "patch": 86
   }
 }
