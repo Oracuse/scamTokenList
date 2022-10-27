@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x19F3E6cbA889E5fa4d05002A2Bfb0931EE218b4D",
-      "symbol": "SAKURA",
-      "name": "Sakura",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x830becCC359386045f1F965937DfcD2a1A8982F7",
       "symbol": "MMAI",
       "name": "MetamonkeyAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4671493d3b4366Bcca86Dd094bDA8A9b3b99e330",
+      "symbol": "96ETH",
+      "name": "96ETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13254,
-    "minor": 13254,
+    "major": 13255,
+    "minor": 13255,
     "patch": 86
   }
 }
