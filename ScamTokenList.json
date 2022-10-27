@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x885ac3408362C9Ee369B6e3EE08eee1688952A0D",
-      "symbol": "MEPU",
-      "name": "METAPULSE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x70E6eE377e9CFc25046741df4049BCA3645c8F36",
       "symbol": "PLSMG",
       "name": "PulseMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bD8B4C8AB4F76E0B58A977898FA02BB24CB376B",
+      "symbol": "CRYPTOSONG",
+      "name": "CryptoSong",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13203,
-    "minor": 13203,
+    "major": 13204,
+    "minor": 13204,
     "patch": 86
   }
 }
