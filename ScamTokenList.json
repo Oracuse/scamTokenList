@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8F3A8F90FBaC61481aED824A77579EEe77ED6AfC",
-      "symbol": "JINOS",
-      "name": "JinadaNoShuriken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4d6DFEadf0f47D18DdD365CAF1990592E6910E89",
       "symbol": "ROWAIARU",
       "name": "Batoru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19728ebf3dc854b23C94aeEa94E347E929c49B11",
+      "symbol": "TFP",
+      "name": "TeamFinanceProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13266,
-    "minor": 13266,
+    "major": 13267,
+    "minor": 13267,
     "patch": 86
   }
 }
