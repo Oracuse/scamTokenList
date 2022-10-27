@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFC053816433a33c9DFf517D6E650628D58dd8C2E",
-      "symbol": "DOHAN",
-      "name": "Yakedo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF2606D94E3D5B2CD5AE59a9B0FF00aC7fc3406DC",
       "symbol": "GOATBOY",
       "name": "goatboy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x016E33720b4Cb4F83472ef1bbC8c084f8D3B4D5e",
+      "symbol": "100",
+      "name": "hyaku",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13329,
-    "minor": 13329,
+    "major": 13330,
+    "minor": 13330,
     "patch": 86
   }
 }
