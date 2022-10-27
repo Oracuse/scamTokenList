@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25ACB9A91783ACC1a0EdeFD69212B745711Fc6dC",
-      "symbol": "SHIBKAMI",
-      "name": "Shibkami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC518AEdEA07095300f77E17c0EC125E27B763226",
       "symbol": "THEVOID",
       "name": "Inai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75517ccc19C3B694ECC07cFfe7E420bcEb618265",
+      "symbol": "LBM",
+      "name": "LPBURNTMETA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13300,
-    "minor": 13300,
+    "major": 13301,
+    "minor": 13301,
     "patch": 86
   }
 }
