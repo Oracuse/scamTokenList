@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3b937d3bAb8c57B86534DA597d36D003c532d7f6",
-      "symbol": "SAKURA",
-      "name": "Sakura",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19F3E6cbA889E5fa4d05002A2Bfb0931EE218b4D",
       "symbol": "SAKURA",
       "name": "Sakura",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f8de2804E0C8C48287FE7dF40e4Bd7d2F183aA5",
+      "symbol": "300",
+      "name": "Immortal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13253,
-    "minor": 13253,
+    "major": 13254,
+    "minor": 13254,
     "patch": 86
   }
 }
