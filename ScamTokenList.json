@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3C12A97de5156926F157A0Dcd9BBCb50E7EBd6CC",
-      "symbol": "TOTOSAI",
-      "name": "TotosaiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x135ebb973D0b2da9207dF2fA7AEa3C6c6cA600db",
       "symbol": "YAKI",
       "name": "YakisobaEth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A793be69B549E97522D1Db73F6bf0f6dAFCEd00",
+      "symbol": "PFM",
+      "name": "PrayForMillionaire",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13244,
-    "minor": 13244,
+    "major": 13245,
+    "minor": 13245,
     "patch": 86
   }
 }
