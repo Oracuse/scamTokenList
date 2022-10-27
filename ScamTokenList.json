@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb22879e4Cc869C794968526F72941c50e096A634",
-      "symbol": "TINDEREUM",
-      "name": "TINDEREUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5a2d9Cc8881CCb3Ad0eeB36EDb6Baf6cf99F014c",
       "symbol": "PLS420",
       "name": "PulseWeed",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFA1C206c76D4B65911377C8b9De14932fD09D55c",
+      "symbol": "TEST",
+      "name": "testtest",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13201,
-    "minor": 13201,
+    "major": 13202,
+    "minor": 13202,
     "patch": 86
   }
 }
