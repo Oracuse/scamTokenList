@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x378b392B68733657b18f0dF1674b5F5305E00304",
-      "symbol": "SIGNS",
-      "name": "SIGNS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA04Da9D26C0BfDD47c03Fa616958FF14100c5F13",
       "symbol": "X7DEX",
       "name": "X7DEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x283F7142cFB934C6f4a05AafD9a251a132649195",
+      "symbol": "SINK",
+      "name": "THEElonSink",
+      "decimals": 2,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13236,
-    "minor": 13236,
+    "major": 13237,
+    "minor": 13237,
     "patch": 86
   }
 }
