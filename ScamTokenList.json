@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x578A1125C293b4Be829651ABbD4f8875f2D75AFd",
-      "symbol": "BATTLEOFTHEBOTS",
-      "name": "Round1",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1CFf0B1112538eB7470EFEb20802e793208f8C5f",
       "symbol": "WETH",
       "name": "WrappedEthereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0240A62cf791e027A87e6FDE0D0532b7337e9095",
+      "symbol": "NCT",
+      "name": "NewCommunityTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13279,
-    "minor": 13279,
+    "major": 13280,
+    "minor": 13280,
     "patch": 86
   }
 }
