@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdcc5A4991FE4b13A57b537A1034c9F1bB2A53E73",
-      "symbol": "SUMO",
-      "name": "Sumo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa8419D9E0c6AfB1D5d1D126BD175a5b21DD9ee98",
       "symbol": "COOKIES",
       "name": "CookiesClub",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC76E9a46E5573B4C21A8e575b5D73439ffceB754",
+      "symbol": "FEG20",
+      "name": "ProofOfExploit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13309,
-    "minor": 13309,
+    "major": 13310,
+    "minor": 13310,
     "patch": 86
   }
 }
