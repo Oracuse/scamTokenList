@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28c3Fb7250D210d526502efD01f11F0749aed4e2",
-      "symbol": "PLSCAW",
-      "name": "PULSECAW",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0bF17Dbc3881de09A08E8582582933836A2aB4bA",
       "symbol": "APULSE",
       "name": "AnimePulse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06aA9bCd58062328d570f36A5942ec753420625A",
+      "symbol": "N",
+      "name": "DeltaNeutral",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13223,
-    "minor": 13223,
+    "major": 13224,
+    "minor": 13224,
     "patch": 86
   }
 }
