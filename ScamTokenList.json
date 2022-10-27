@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf9724C5F530771205aD006447b8286aeea397fa8",
-      "symbol": "CHEESE",
-      "name": "CheeseToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB6AaA26760bcdEcCaC490fDaE492d28308873FAe",
       "symbol": "MUSCA",
       "name": "MUSCA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB8A8385a8C34e232c6e6A53eBa77967bAb1d117",
+      "symbol": "FPL",
+      "name": "FinanceProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13272,
-    "minor": 13272,
+    "major": 13273,
+    "minor": 13273,
     "patch": 86
   }
 }
