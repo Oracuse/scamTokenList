@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4797D5171A7e924D33e98E55935742867edAab6E",
-      "symbol": "NEON",
-      "name": "NeonMuromachi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6Ecd9A9DD22CbBec53be98F82FF333f6656486C4",
       "symbol": "GUSA",
       "name": "Togusa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1828768599330B3A1f682c1fBaf86c3405FC174",
+      "symbol": "TGP",
+      "name": "TheGoogleProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13415,
-    "minor": 13415,
+    "major": 13416,
+    "minor": 13416,
     "patch": 86
   }
 }
