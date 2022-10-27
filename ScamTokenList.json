@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1B889Ff8Dbf6b67279614742194c7F9006B420d3",
-      "symbol": "HUSH",
-      "name": "Silence",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x578A1125C293b4Be829651ABbD4f8875f2D75AFd",
       "symbol": "BATTLEOFTHEBOTS",
       "name": "Round1",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15a225eeCd7D865f533d1b7f88A6Fa4A915B8629",
+      "symbol": "TF20",
+      "name": "teamfinance20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13278,
-    "minor": 13278,
+    "major": 13279,
+    "minor": 13279,
     "patch": 86
   }
 }
