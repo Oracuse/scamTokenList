@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa04Ea8fb2e5c66f913FE7b2eF21D4e2033b0Fb9A",
-      "symbol": "KISHJIRU",
-      "name": "KISHJIRU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6509FCc57A5C9140B3d752Aef2D7556F39d9665E",
       "symbol": "DELUSION",
       "name": "Delusion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5afaaE335a2063dD9e20e6d05f38852AC0Ba792e",
+      "symbol": "SORRY",
+      "name": "Yepologies",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13259,
-    "minor": 13259,
+    "major": 13260,
+    "minor": 13260,
     "patch": 86
   }
 }
