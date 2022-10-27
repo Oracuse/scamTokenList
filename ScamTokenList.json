@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1CFf0B1112538eB7470EFEb20802e793208f8C5f",
-      "symbol": "WETH",
-      "name": "WrappedEthereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe3B3e9353525D6f3e7eEDB52E7B617f3813d4BFE",
       "symbol": "BATTLEOFTHEBOTS",
       "name": "Round2",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF69E41335024D1142B3fE04A5915868144540f9E",
+      "symbol": "TOJ",
+      "name": "TrickorJeet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13280,
-    "minor": 13280,
+    "major": 13281,
+    "minor": 13281,
     "patch": 86
   }
 }
