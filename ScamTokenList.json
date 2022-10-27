@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD864CaE97D9628261Afc4D900a75DbbaCaF446c4",
-      "symbol": "RESCUE",
-      "name": "Redemption",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6220Ee73D6bC0D9bA3D5800352d5D0354F7FfeAF",
       "symbol": "TSU",
       "name": "GhostOfTsushima",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a29Bab3434988bee0DC6874E6FFccB61dbd9535",
+      "symbol": "NCF",
+      "name": "NewCommunityFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13263,
-    "minor": 13263,
+    "major": 13264,
+    "minor": 13264,
     "patch": 86
   }
 }
