@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x52d823726C48e17cB6d6b88Fd9CEdEF76Ec0b48a",
-      "symbol": "DELUSION",
-      "name": "Delusion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4797D5171A7e924D33e98E55935742867edAab6E",
       "symbol": "NEON",
       "name": "NeonMuromachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfD68A255b33fC93cA14a99d6ede63A3658d081a7",
+      "symbol": "BLOCKS",
+      "name": "BlockRiders",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13414,
-    "minor": 13414,
+    "major": 13415,
+    "minor": 13415,
     "patch": 86
   }
 }
