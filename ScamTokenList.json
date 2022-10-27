@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66b1550600806626f51520b485984007b0A7d087",
-      "symbol": "SCROW",
-      "name": "Scarecrow",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5ce19fa80Fb3be5f8374De83591320F4ed611Ab1",
       "symbol": "MERCY",
       "name": "Kannon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94d1cc349748Fe8f2D95defc5216996E041f4569",
+      "symbol": "CAWR",
+      "name": "REDEMPTIONARC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13298,
-    "minor": 13298,
+    "major": 13299,
+    "minor": 13299,
     "patch": 86
   }
 }
