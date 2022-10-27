@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x61ECfC1a749872B6EcC35A42537d3e602589BC91",
-      "symbol": "PLSB",
-      "name": "PulseBitcoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4312D5c9f101f995c91E025Bab1470DA48a031e8",
       "symbol": "TRAINER",
       "name": "TrainerInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE099f5B1330645718525E462A0dB41D1f55db951",
+      "symbol": "MOON",
+      "name": "Wen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13345,
-    "minor": 13345,
+    "major": 13346,
+    "minor": 13346,
     "patch": 86
   }
 }
