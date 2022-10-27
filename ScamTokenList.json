@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1a460BE9183E06D14989D6da3d97DBcc5C466173",
-      "symbol": "MOONAPE",
-      "name": "MOONAPE",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28c3Fb7250D210d526502efD01f11F0749aed4e2",
       "symbol": "PLSCAW",
       "name": "PULSECAW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0059df6bAEf0e489c161C5dae54A256c65a9A018",
+      "symbol": "DEATHCLOCK",
+      "name": "DeathClockCOIN",
+      "decimals": 15,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13222,
-    "minor": 13222,
+    "major": 13223,
+    "minor": 13223,
     "patch": 86
   }
 }
