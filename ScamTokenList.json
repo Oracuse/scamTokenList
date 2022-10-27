@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6220Ee73D6bC0D9bA3D5800352d5D0354F7FfeAF",
-      "symbol": "TSU",
-      "name": "GhostOfTsushima",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x34fED439B73207789D744F43fd989B7DE1Af1171",
       "symbol": "KOMAINU",
       "name": "StoneLion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFE31a120d512d10AdcB0F16D1fC756F28bfEF595",
+      "symbol": "OSF",
+      "name": "OSFEditions",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13264,
-    "minor": 13264,
+    "major": 13265,
+    "minor": 13265,
     "patch": 86
   }
 }
