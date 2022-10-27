@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe1383A7B063b98b18659ff9610e2f0A239d0B6E6",
-      "symbol": "NERDSHIBA",
-      "name": "NERDSHIBAToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb6c28998eBE14e6a767Faaced6f272a35dFf7398",
       "symbol": "V",
       "name": "Votion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5577a91617Fd52fD2857611C5603e990A4128A4b",
+      "symbol": "SYCC",
+      "name": "YCLUB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13314,
-    "minor": 13314,
+    "major": 13315,
+    "minor": 13315,
     "patch": 86
   }
 }
