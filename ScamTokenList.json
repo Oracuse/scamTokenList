@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28d501D82296a6DeB09390D94E7Fb59Dd4D3ac7f",
-      "symbol": "FADED",
-      "name": "TheFadedOracles",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Bdd0863f4A1cf3fCdF543afCCbae3E7ead400dc",
       "symbol": "MUKI",
       "name": "TheMiningDwarf",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23558bdFda86022671ae1a3F5FD4892Ff97d7a50",
+      "symbol": "CANDY",
+      "name": "CANDYMAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13338,
-    "minor": 13338,
+    "major": 13339,
+    "minor": 13339,
     "patch": 86
   }
 }
