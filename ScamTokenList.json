@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3519eb992d5986894e9e05776a01EACD9f5f11Db",
-      "symbol": "HATSUMI",
-      "name": "HATSUMIINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xad228909188Cd66172633fAB27D56053F23C66F8",
       "symbol": "HATTORIHANZO",
       "name": "OninoHanzo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72a06eB3265f8D12169537F11f2854C6200E3Af2",
+      "symbol": "TWAT",
+      "name": "TwelonProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13196,
-    "minor": 13196,
+    "major": 13197,
+    "minor": 13197,
     "patch": 86
   }
 }
