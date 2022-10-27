@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa3e82aff22240963aA63C883d02f1c47B15FC66a",
-      "symbol": "GOLD",
-      "name": "GoldInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x377DaF332B5A2728EFAbCDECFa9857911eb409cb",
       "symbol": "TEKE",
       "name": "TEKETEKE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0a67EfC991b482f8CD9B46E969d24e1043dF95BA",
+      "symbol": "WCS",
+      "name": "WorldCupShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13357,
-    "minor": 13357,
+    "major": 13358,
+    "minor": 13358,
     "patch": 86
   }
 }
