@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1829a7dcd80C18421A20B5E5FeA3E918b3439dB4",
-      "symbol": "DOM",
-      "name": "DOM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA7549925cc018dEad19BfBbf53723fDf3decF6F9",
       "symbol": "UNLOCK",
       "name": "DECODE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc9042E2915D2E4b57d5ea193248cAc363FD97dA9",
+      "symbol": "SL",
+      "name": "SafuLocker",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13284,
-    "minor": 13284,
+    "major": 13285,
+    "minor": 13285,
     "patch": 86
   }
 }
