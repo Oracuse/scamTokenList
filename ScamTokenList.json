@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC81E330871C6348aBf491364Ebb71e1acde4C064",
-      "symbol": "CHESH",
-      "name": "CheshireCat",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3E447C412a04c4b47569E2018cab032CF3Db5b17",
       "symbol": "CHESHIRE",
       "name": "CheshireCatETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7002006CAB5E7c23c0c9BC7f5293954108b01f8f",
+      "symbol": "DRAGONFLY",
+      "name": "DRAGONFLY",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13367,
-    "minor": 13367,
+    "major": 13368,
+    "minor": 13368,
     "patch": 86
   }
 }
