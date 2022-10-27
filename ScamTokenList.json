@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3F4354D87cb41bAF8E349D58BF606dbb5c28150e",
-      "symbol": "ONE",
-      "name": "TheOnePercent",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3017dFed091d1FcB7654982914d834AceCCA6A50",
       "symbol": "BURNTKAEDE",
       "name": "Burntkaede",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x443C3F0b7298c1904F4C266d9d538a5D9338f6b0",
+      "symbol": "DGTV",
+      "name": "DogeTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13234,
-    "minor": 13234,
+    "major": 13235,
+    "minor": 13235,
     "patch": 86
   }
 }
