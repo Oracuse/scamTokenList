@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB175C73B2691028D59d630A9b62C9A416c1Bb26e",
-      "symbol": "INAKA",
-      "name": "INARINOOKAMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1829a7dcd80C18421A20B5E5FeA3E918b3439dB4",
       "symbol": "DOM",
       "name": "DOM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06aFc53ceB1Ac09b8cCb2D46484C4c9f3ed8eD7c",
+      "symbol": "TINU",
+      "name": "TrustSwapInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13283,
-    "minor": 13283,
+    "major": 13284,
+    "minor": 13284,
     "patch": 86
   }
 }
