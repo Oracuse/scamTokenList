@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x38ff0C70632f973CaF4F84f29dEbb87541cd558B",
-      "symbol": "TATSU",
-      "name": "DejitaruTatsu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA42CD64e528C0B3aAd846fB3B32d0213f741e9DF",
       "symbol": "SHIBAC",
       "name": "ShibaCash",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16fe0e3cFA458Bc16E64879394c958B89aBD6d3e",
+      "symbol": "LYLAB",
+      "name": "LoveYouLikeABitcoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13190,
-    "minor": 13190,
+    "major": 13191,
+    "minor": 13191,
     "patch": 86
   }
 }
