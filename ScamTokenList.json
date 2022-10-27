@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xea2028Db1A8e29a51bD584fcf2BB17eD23aB898e",
-      "symbol": "TORNADO",
-      "name": "Tornado",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1B889Ff8Dbf6b67279614742194c7F9006B420d3",
       "symbol": "HUSH",
       "name": "Silence",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1FBc4F73A53E3299f89EC46A0c8Ff88CEC5B0f4a",
+      "symbol": "RUGFINANCE",
+      "name": "RugFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13277,
-    "minor": 13277,
+    "major": 13278,
+    "minor": 13278,
     "patch": 86
   }
 }
