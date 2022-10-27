@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA42CD64e528C0B3aAd846fB3B32d0213f741e9DF",
-      "symbol": "SHIBAC",
-      "name": "ShibaCash",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x738E50E5Dcd116a9eEdDc5D73153Db701D967207",
       "symbol": "MEVE",
       "name": "METAEVE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19f3C989827b96F8A6b28CCB4a0E9e1D6D35612B",
+      "symbol": "LIFE",
+      "name": "ProofOfAlienLife",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13191,
-    "minor": 13191,
+    "major": 13192,
+    "minor": 13192,
     "patch": 86
   }
 }
