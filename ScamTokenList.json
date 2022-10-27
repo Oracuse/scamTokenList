@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD9250c04F5478E3252a79EC0214892650fe737F3",
-      "symbol": "PLZDONT",
-      "name": "PLZDONTNorefunds",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc55b0F9B3F0921C116a071526A4818439D622733",
       "symbol": "GNOSIS",
       "name": "Gnosis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b7998F093083b97d3Ab34908C78EC56bF821B68",
+      "symbol": "BRANDON",
+      "name": "LetsGoBrandon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13343,
-    "minor": 13343,
+    "major": 13344,
+    "minor": 13344,
     "patch": 86
   }
 }
