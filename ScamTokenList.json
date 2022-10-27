@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x340b7e7071e2cA75904943dB63D5FAc3596d0915",
-      "symbol": "ARENA",
-      "name": "ArenaDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc6Ada5AD8A9c43B28d56C4Bd79199CE1542B2A0A",
       "symbol": "SUNNY",
       "name": "SunnyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x229A8626c5636c899D274A99fa555fd7c33C7B03",
+      "symbol": "SPOOKY",
+      "name": "SpookyToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13332,
-    "minor": 13332,
+    "major": 13333,
+    "minor": 13333,
     "patch": 86
   }
 }
