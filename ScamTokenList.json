@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4fc6a0608a1F22C57ddAeA643fCBc5D3Be8Db841",
-      "symbol": "OKAMI",
-      "name": "OkamiShinto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x980337B18A78865B0cf74D10cb24A61b1AF06B8c",
       "symbol": "QILIN",
       "name": "QilintheLegend",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeC3da6eb53E214bdaE147Cc58bf2C401105d5a1c",
+      "symbol": "CCAW",
+      "name": "CommunityCAW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13270,
-    "minor": 13270,
+    "major": 13271,
+    "minor": 13271,
     "patch": 86
   }
 }
