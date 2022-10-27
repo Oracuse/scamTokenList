@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x70E6eE377e9CFc25046741df4049BCA3645c8F36",
-      "symbol": "PLSMG",
-      "name": "PulseMerge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x79B6Aac5D295F143EFf941f00cF29DBeec7718D8",
       "symbol": "LIV",
       "name": "PokemonLive",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0340326fc108aa096bbF6eB3A2F4662D59F62739",
+      "symbol": "BRB",
+      "name": "BullrunBack",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13204,
-    "minor": 13204,
+    "major": 13205,
+    "minor": 13205,
     "patch": 86
   }
 }
