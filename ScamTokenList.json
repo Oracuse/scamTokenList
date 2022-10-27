@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28406926750d17E3909c79Cee237434fF9367aBf",
-      "symbol": "TSURO",
-      "name": "TSUKAPYRO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2a67573AE4AB226f96e4853295d1542EC2aaBd0b",
       "symbol": "CONFUSION",
       "name": "Confusion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaab131989E2B87ECA611A8aBd7f2A6B939496F26",
+      "symbol": "FEEX",
+      "name": "FinanceEx",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13404,
-    "minor": 13404,
+    "major": 13405,
+    "minor": 13405,
     "patch": 86
   }
 }
