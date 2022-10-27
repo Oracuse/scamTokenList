@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1214c4fa18e4982b4263B3C5639a5300AD2f232f",
-      "symbol": "BATTOUSAI",
-      "name": "HimuraKenshin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfe014f483A43fe5749d33f3eF604Ae8A7dAf8212",
       "symbol": "SHROUD",
       "name": "ShroudOfTurin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1842Ad561238452436F47544cD4aD4DFC74ba0e2",
+      "symbol": "BLACK",
+      "name": "BlackboxProtocol",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13376,
-    "minor": 13376,
+    "major": 13377,
+    "minor": 13377,
     "patch": 86
   }
 }
