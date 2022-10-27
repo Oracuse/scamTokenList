@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x977C1f237C80d5f12E5Dbc98B4472AFE810cFdE1",
-      "symbol": "DECANECT",
-      "name": "Decanect",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75b2927E2A96cCD923a097E5020Fb95804AB09c1",
       "symbol": "BLZE",
       "name": "Bluzelle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8441D3138de76bD541470450003bbf144bC14e16",
+      "symbol": "POTF",
+      "name": "ProofOfTeamFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13286,
-    "minor": 13286,
+    "major": 13287,
+    "minor": 13287,
     "patch": 86
   }
 }
