@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9b707b728d741982B8A94ff6af90d5d2Ee653988",
-      "symbol": "FETCHDC",
-      "name": "FetchDC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73AC4540F31aD6f487B55219B8a43546160017EC",
       "symbol": "CALVES",
       "name": "CALVES",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4332e09B467b775A1390d5cc73b14dF797CbA860",
+      "symbol": "DRAIN",
+      "name": "Drainage",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13369,
-    "minor": 13369,
+    "major": 13370,
+    "minor": 13370,
     "patch": 86
   }
 }
