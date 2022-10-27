@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x86e79aa8C6e29FfBAc7ce104C1e5e766791CbDf7",
-      "symbol": "FTR",
-      "name": "Future",
-      "decimals": 4,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF57677cc824b19375473d3E5fdC067Bb09BDE588",
       "symbol": "COSMIC",
       "name": "CosmicShib",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfc7e65750dEc149cc49DC2CD80FF000F9c413a52",
+      "symbol": "GRAPE",
+      "name": "GRAPEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13373,
-    "minor": 13373,
+    "major": 13374,
+    "minor": 13374,
     "patch": 86
   }
 }
