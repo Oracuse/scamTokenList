@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6509FCc57A5C9140B3d752Aef2D7556F39d9665E",
-      "symbol": "DELUSION",
-      "name": "Delusion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe9e9762c66171c6fC43a9352dFbEDAaF1e7a2883",
       "symbol": "CSFI",
       "name": "CoinStore",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c54b702b6073a9C80299B1D1c808dA675cd1Da5",
+      "symbol": "TFI",
+      "name": "TeamFinanceInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13260,
-    "minor": 13260,
+    "major": 13261,
+    "minor": 13261,
     "patch": 86
   }
 }
