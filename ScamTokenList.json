@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5dFE1550DDcd5e7f44c9aE944950Cc2F26b735f4",
-      "symbol": "OBU",
-      "name": "OnnaBugeisha",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf65ab6B10f35fb301D82098B01C877e1cd444C77",
       "symbol": "BIOCHAIN",
       "name": "BioChainBridge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x159B010C2192D1660cB42B19A31001A02E23D2ef",
+      "symbol": "FADED",
+      "name": "TheFadedOracles",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13291,
-    "minor": 13291,
+    "major": 13292,
+    "minor": 13292,
     "patch": 86
   }
 }
