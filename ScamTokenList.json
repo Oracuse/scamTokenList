@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x718920F54eF30395b027642F9753803E3eEd9289",
-      "symbol": "KIJIMUNA",
-      "name": "Kijimuna",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x327f56D443625CcC521Cea3F87144e7946FFA53f",
       "symbol": "FLADIDAS",
       "name": "Fladidas",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFe68d400cB558924d2Cb093e1577675e78FEd0A8",
+      "symbol": "SECTWIT",
+      "name": "SecureTwitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13364,
-    "minor": 13364,
+    "major": 13365,
+    "minor": 13365,
     "patch": 86
   }
 }
