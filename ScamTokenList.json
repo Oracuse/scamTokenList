@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x830becCC359386045f1F965937DfcD2a1A8982F7",
-      "symbol": "MMAI",
-      "name": "MetamonkeyAI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81ab290aCE0762337Cd30671C2a789c7AdCCB6d9",
       "symbol": "DULLAHAN",
       "name": "DullahanInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x069F42378EA484cF71C3934539B22d5e187C78c3",
+      "symbol": "SUI",
+      "name": "SUI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13255,
-    "minor": 13255,
+    "major": 13256,
+    "minor": 13256,
     "patch": 86
   }
 }
