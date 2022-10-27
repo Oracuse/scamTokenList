@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE9609F260E557Aae3c8C76Ca7fC29b60385ACb94",
-      "symbol": "ONLYCHADS",
-      "name": "OnlyChads",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1A871C1C6FCFa43d3A1C7E4e93512F69DB237b17",
       "symbol": "GOVT",
       "name": "Govt",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCe3a224939DE640234724F8286bdbb1041ABDb4a",
+      "symbol": "NAIRD",
+      "name": "CHOMP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13230,
-    "minor": 13230,
+    "major": 13231,
+    "minor": 13231,
     "patch": 86
   }
 }
