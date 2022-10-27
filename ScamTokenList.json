@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1BE721DFd808255c54174b20feD8Ae9d968b99Bd",
-      "symbol": "SHIMA",
-      "name": "TSUSHIMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x36538CeF06ff56bdA2E8d41ec62137458A7F4a91",
       "symbol": "MIKA",
       "name": "MIKAWAINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f883b3D90354314b1ec2715024810eD4876EA3B",
+      "symbol": "GC",
+      "name": "GoogleChain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13326,
-    "minor": 13326,
+    "major": 13327,
+    "minor": 13327,
     "patch": 86
   }
 }
