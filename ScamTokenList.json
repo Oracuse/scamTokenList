@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAD947E690c974840Bd2c5c555Ca59829C79e7BBA",
-      "symbol": "GOZU",
-      "name": "GOZU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa3e82aff22240963aA63C883d02f1c47B15FC66a",
       "symbol": "GOLD",
       "name": "GoldInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2C5319256d0D87D68fF3746CE99e023Dc1a57eE4",
+      "symbol": "CTWIT",
+      "name": "ChiefTwit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13356,
-    "minor": 13356,
+    "major": 13357,
+    "minor": 13357,
     "patch": 86
   }
 }
