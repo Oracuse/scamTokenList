@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5C0f342295aE01142c449a99195d611240227F2F",
-      "symbol": "PINK",
-      "name": "PinkProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF0ef3869f64EA019571149FA2bb99c36290010f1",
       "symbol": "SDOGE",
       "name": "SpookyDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xad3c23aFD54c059018D07BbE0e8C18D66b8B03eb",
+      "symbol": "DBI",
+      "name": "DecentralBankInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13239,
-    "minor": 13239,
+    "major": 13240,
+    "minor": 13240,
     "patch": 86
   }
 }
