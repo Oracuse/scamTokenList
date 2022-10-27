@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87b335b7eA0Beea958d67E448994789f739100C0",
-      "symbol": "FIDUS",
-      "name": "FIDUSFINANCE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28406926750d17E3909c79Cee237434fF9367aBf",
       "symbol": "TSURO",
       "name": "TSUKAPYRO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5545DCb9b4284cA821B70b9643B23182501A4ca9",
+      "symbol": "SHTV",
+      "name": "ShibaTV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13403,
-    "minor": 13403,
+    "major": 13404,
+    "minor": 13404,
     "patch": 86
   }
 }
