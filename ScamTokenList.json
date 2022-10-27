@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5ee9d70aE0e3B1949A802251ca55E6293ff49313",
-      "symbol": "PLCKR",
-      "name": "Plucker",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1eDDefb2D3665d01d3c065B6C82A8e56149E3500",
       "symbol": "MITAMA",
       "name": "SakiMitama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3eAa5C6F4F2f87A588fdfad057082Ee23752e30",
+      "symbol": "COFFEE",
+      "name": "TwitterHQCoffeeBar",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13352,
-    "minor": 13352,
+    "major": 13353,
+    "minor": 13353,
     "patch": 86
   }
 }
