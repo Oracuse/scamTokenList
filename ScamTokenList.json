@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc55b0F9B3F0921C116a071526A4818439D622733",
-      "symbol": "GNOSIS",
-      "name": "Gnosis",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x61ECfC1a749872B6EcC35A42537d3e602589BC91",
       "symbol": "PLSB",
       "name": "PulseBitcoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c44acCD8c901698167DA1b0a7F601fFb5413A98",
+      "symbol": "TOSHIRO",
+      "name": "TOSHIROINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13344,
-    "minor": 13344,
+    "major": 13345,
+    "minor": 13345,
     "patch": 86
   }
 }
