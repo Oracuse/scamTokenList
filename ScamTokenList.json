@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x040c142A172769B872D685f1E896F286B63BCC41",
-      "symbol": "SUZUBURN",
-      "name": "SuzumeBurn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE9609F260E557Aae3c8C76Ca7fC29b60385ACb94",
       "symbol": "ONLYCHADS",
       "name": "OnlyChads",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2190FD04C5242160D611578357475ef233d1DbB2",
+      "symbol": "CPD",
+      "name": "CyberpunkDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13229,
-    "minor": 13229,
+    "major": 13230,
+    "minor": 13230,
     "patch": 86
   }
 }
