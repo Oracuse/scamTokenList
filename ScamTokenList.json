@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDE0963c810620a863c122a78DAdce0e8c804c263",
-      "symbol": "JINSU",
-      "name": "RestlessWanderer",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0487F88Fa6FC3297BBAC6cdb65aD11430667fC85",
       "symbol": "AKIRA",
       "name": "Akira",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8dfD28ab4980f0e58816e0047c8C1140379ac1A7",
+      "symbol": "LEVELUP",
+      "name": "LevelUp",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13304,
-    "minor": 13304,
+    "major": 13305,
+    "minor": 13305,
     "patch": 86
   }
 }
