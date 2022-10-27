@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf65ab6B10f35fb301D82098B01C877e1cd444C77",
-      "symbol": "BIOCHAIN",
-      "name": "BioChainBridge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x87E1e3c51a8F94563706A36EE6F5924F28F6e7b4",
       "symbol": "EPIPHANY",
       "name": "Epiphany",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Ae8255894d7D70A53F75e9Da0e2804d2424BEb2",
+      "symbol": "B",
+      "name": "bCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13292,
-    "minor": 13292,
+    "major": 13293,
+    "minor": 13293,
     "patch": 86
   }
 }
