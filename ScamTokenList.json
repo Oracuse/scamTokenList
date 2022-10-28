@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEb62e7F653cf81e6230d79838C026599Ef7efA9B",
-      "symbol": "WHITE",
-      "name": "WHITE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x435B083445baf7048Af63fC052b8B6EA78E14E9A",
       "symbol": "AOKI",
       "name": "AokigaharaForest",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x791F3527dd4C6e07FC5B45CbF36dD53d966D59B9",
+      "symbol": "COMBS",
+      "name": "CryptoCombs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13585,
-    "minor": 13585,
+    "major": 13586,
+    "minor": 13586,
     "patch": 86
   }
 }
