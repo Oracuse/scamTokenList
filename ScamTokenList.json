@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf958c3338956A4d7Ee5930220966BA534d8Fb050",
-      "symbol": "EOSO",
-      "name": "EOSO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x393413744a16abE73017049982FeB06f450f0Ec6",
       "symbol": "KIYOHIME",
       "name": "DejitaruKiyohime",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBde6c2e07afDe8378e8aECD3166B1F2018a6aDfb",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13512,
-    "minor": 13512,
+    "major": 13513,
+    "minor": 13513,
     "patch": 86
   }
 }
