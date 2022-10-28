@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5f3cE62d9B4Aee9Ba8B4c6EfF44d7658B4a7942e",
-      "symbol": "SHAPPA",
-      "name": "SHAPPAINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x498e6c1eab1a6274fd9a91c792406109B260c0ba",
       "symbol": "GANG",
       "name": "Gangcoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06341accE929862E86ff6e4dFfd9Fd020DE51346",
+      "symbol": "SEND",
+      "name": "FullSendProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13638,
-    "minor": 13638,
+    "major": 13639,
+    "minor": 13639,
     "patch": 86
   }
 }
