@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6cc4F489f4009eC7d00d650048E7388a2a395C7E",
-      "symbol": "RELIC",
-      "name": "RELIC",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc3A1f86cFB9Ba32490DcC5dFa33eee725785Ad01",
       "symbol": "YUKI",
       "name": "YukiOnna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a1D75e04F8a6b5E161D7eEEE06a959c633fDdc4",
+      "symbol": "TBIF",
+      "name": "thebirdisfreed",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13456,
-    "minor": 13456,
+    "major": 13457,
+    "minor": 13457,
     "patch": 86
   }
 }
