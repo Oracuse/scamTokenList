@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc3419690B4FD80a66E07A60D02d10e41892F0eD6",
-      "symbol": "GUMA",
-      "name": "GUMA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x233b769c1B1709055fbECeD0bC7E2dfd91554F59",
       "symbol": "STEPEX",
       "name": "STEPEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04562B18c261FeDB791070bbe121D9e0770284EC",
+      "symbol": "BTRUMP",
+      "name": "BabyTrump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13580,
-    "minor": 13580,
+    "major": 13581,
+    "minor": 13581,
     "patch": 86
   }
 }
