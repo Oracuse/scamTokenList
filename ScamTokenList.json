@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc0752b991A81Eb991Bc1aBF7f5b0f8ADe295719F",
-      "symbol": "GORYO",
-      "name": "GoryoShinko",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x74A5Ce24020B6eB1656fBFe2366f56dd5E28c0D2",
       "symbol": "A",
       "name": "Arraignment",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13935EeEA180f33a0127DC7700B4f32911F79233",
+      "symbol": "TRUMP20",
+      "name": "Trump20",
+      "decimals": 10,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13468,
-    "minor": 13468,
+    "major": 13469,
+    "minor": 13469,
     "patch": 86
   }
 }
