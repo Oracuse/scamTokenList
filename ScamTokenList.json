@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x78BD6ACd6D44aCD4F0067AdA9Fbc388A637cEa11",
-      "symbol": "MCON",
-      "name": "MarketConditions",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04925e8F3F7244c0c3f93fC2a29EC310c29C9377",
       "symbol": "STF",
       "name": "SlayTheFiend",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E1927aA57EbA9f9B5636a09400cb18d60830CbD",
+      "symbol": "420",
+      "name": "Project420",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13565,
-    "minor": 13565,
+    "major": 13566,
+    "minor": 13566,
     "patch": 86
   }
 }
