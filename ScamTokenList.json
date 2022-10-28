@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x098Ec9cFAD3e32Cc106E94969B729aD018C0D40B",
-      "symbol": "CORN",
-      "name": "Corn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBf80A7aC3dE3B787a574bA5a1D2a428aAC175898",
       "symbol": "MEVFLOKI",
       "name": "MEVFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa10f0412e1727053b04f1B858c3c2d0c2e680037",
+      "symbol": "PAPI",
+      "name": "PAPIInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13518,
-    "minor": 13518,
+    "major": 13519,
+    "minor": 13519,
     "patch": 86
   }
 }
