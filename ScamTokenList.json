@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc1C11057d74E4b5159806EA6f513F6DFDd48FFb1",
-      "symbol": "DATSU",
-      "name": "Datsuzoku",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8cbb370bf8a59DB760E26c73aAc5F5fBad168634",
       "symbol": "SLAKE",
       "name": "Slake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF6Ca2a84cde00b71f3f643304F6014fb755a7289",
+      "symbol": "TETH",
+      "name": "Tweether",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13499,
-    "minor": 13499,
+    "major": 13500,
+    "minor": 13500,
     "patch": 86
   }
 }
