@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA215542b94736793e189BF78fAE043CBaEDc6961",
-      "symbol": "EDAI",
-      "name": "EssenceDAI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38859a2E2522F8CBeb58808325Bf59bDCc833197",
       "symbol": "ULTRA",
       "name": "UltraInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEc7Cfe3A21A126aefc05e66c73Afc9bc6f1bDE52",
+      "symbol": "SANEHANDS",
+      "name": "SANEHANDS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13520,
-    "minor": 13520,
+    "major": 13521,
+    "minor": 13521,
     "patch": 86
   }
 }
