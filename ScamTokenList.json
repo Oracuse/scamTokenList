@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76161D8818931C042f607c40785b3c7761C8f097",
-      "symbol": "BULLY",
-      "name": "BullyInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2Ecf0945b50Ad557Aa380417712F4bb618C53108",
       "symbol": "MLCH",
       "name": "Moloch",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBAc3C764E7560c6C6537d70F7a9fe7ac080DfaFB",
+      "symbol": "TORI",
+      "name": "Tori",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13473,
-    "minor": 13473,
+    "major": 13474,
+    "minor": 13474,
     "patch": 86
   }
 }
