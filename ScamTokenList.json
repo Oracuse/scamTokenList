@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEFD2DFb995F699Fbe876424c2dFEb52aEca8915e",
-      "symbol": "MATOA",
-      "name": "MATOA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc560d2BD077Df88E3379543f2782e4D621d12D08",
       "symbol": "ORIGAMI",
       "name": "ORIGAMI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc641cDc3Db4b980b334563193a25AAd501BcD238",
+      "symbol": "VR",
+      "name": "VitalikReality",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13428,
-    "minor": 13428,
+    "major": 13429,
+    "minor": 13429,
     "patch": 86
   }
 }
