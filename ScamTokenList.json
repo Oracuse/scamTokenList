@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe2c7613561d884bD79C6A45D573CF03e8B2e7db2",
-      "symbol": "ETHGOD",
-      "name": "ETHGOD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9F5a6C17b2E97919ADf0f7aDCdF8753e2e2AD90a",
       "symbol": "RVN",
       "name": "Raven",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F768A40e8131cCDee328Ae23c4642823510F826",
+      "symbol": "TVP",
+      "name": "TheVeilProtocol",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13628,
-    "minor": 13628,
+    "major": 13629,
+    "minor": 13629,
     "patch": 86
   }
 }
