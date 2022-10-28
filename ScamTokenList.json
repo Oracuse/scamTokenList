@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x69B7788BCa91bEf3215fDFa191cEd86c3e44e0AB",
-      "symbol": "BRGSE",
-      "name": "Bourgeois",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x27d749815BD42249C6191F9D0214ADd5a877F609",
       "symbol": "DECANECT",
       "name": "Decanect",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95ce5959D86A47832dB0897b5BC0B9494D4f2A23",
+      "symbol": "TOYO",
+      "name": "Toyoukebime",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13540,
-    "minor": 13540,
+    "major": 13541,
+    "minor": 13541,
     "patch": 86
   }
 }
