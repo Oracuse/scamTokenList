@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0226F39F55528f9987Df11612eBEDBc71F7368BE",
-      "symbol": "ECAL",
-      "name": "ECAL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC1C5902f3Ad0fA5361B2E582c54c776A2916c487",
       "symbol": "YAMA",
       "name": "KachiKachiYama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbD16408725D14d9b58ddabDe1BafC17Bb6C30Fba",
+      "symbol": "COMEDY",
+      "name": "COMEDY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13602,
-    "minor": 13602,
+    "major": 13603,
+    "minor": 13603,
     "patch": 86
   }
 }
