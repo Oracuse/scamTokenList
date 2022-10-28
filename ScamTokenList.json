@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x233b769c1B1709055fbECeD0bC7E2dfd91554F59",
-      "symbol": "STEPEX",
-      "name": "STEPEX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x233e4dcE6DFCAC88ef0EfdD15E28cb37Da192D90",
       "symbol": "BOA",
       "name": "BOA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD4FB1AC4C530219DE4148A57adba18accdd24166",
+      "symbol": "YUGE",
+      "name": "YUGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13581,
-    "minor": 13581,
+    "major": 13582,
+    "minor": 13582,
     "patch": 86
   }
 }
