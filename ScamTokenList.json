@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4DA10f8E7271b054D4c1D6c10Ff22C3522965C3c",
-      "symbol": "MEV",
-      "name": "MevTerminator",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x068f984767a75E4D8d1b3511051758B266f2a00b",
       "symbol": "ANGLE",
       "name": "ANGLE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD763151F6224cf8E3Cb0EA0649f0C1eD4d0fE5AA",
+      "symbol": "NODIP",
+      "name": "NODIP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13523,
-    "minor": 13523,
+    "major": 13524,
+    "minor": 13524,
     "patch": 86
   }
 }
