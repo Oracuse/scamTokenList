@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x055A2e543535A4E66d7C77D211592333E65C0845",
-      "symbol": "ESPEX",
-      "name": "ESPEX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE9c0587fdf372ab3034fF430df68C0D9c7A9A0d1",
       "symbol": "HERMES",
       "name": "SoulGuide",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAA8f8604aDd0cF9FF4441701FF373Dc80C477A42",
+      "symbol": "GUNTHER",
+      "name": "Gunther",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13529,
-    "minor": 13529,
+    "major": 13530,
+    "minor": 13530,
     "patch": 86
   }
 }
