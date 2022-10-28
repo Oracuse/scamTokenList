@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x07699a2d858CcDC6A566d56f57DA4874CB393596",
-      "symbol": "BUKU",
-      "name": "BukubukuChayama",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc0752b991A81Eb991Bc1aBF7f5b0f8ADe295719F",
       "symbol": "GORYO",
       "name": "GoryoShinko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdC6a2f82957B7614DD1F82369ca0e5F86A526a6c",
+      "symbol": "SWITZERLAND",
+      "name": "Switzerland",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13467,
-    "minor": 13467,
+    "major": 13468,
+    "minor": 13468,
     "patch": 86
   }
 }
