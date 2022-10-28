@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x233e4dcE6DFCAC88ef0EfdD15E28cb37Da192D90",
-      "symbol": "BOA",
-      "name": "BOA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x709e2602A74372e43F9587bb274397c29E1c8422",
       "symbol": "MEVTER",
       "name": "MevTerminator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A720Fd5FbE07BC81F2c23B0fD1A4dF3f9888Ffd",
+      "symbol": "5SONGS",
+      "name": "SongsofEthereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13582,
-    "minor": 13582,
+    "major": 13583,
+    "minor": 13583,
     "patch": 86
   }
 }
