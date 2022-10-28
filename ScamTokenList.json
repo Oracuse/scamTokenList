@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaEcB4Df154F8Bde2Fd272bb0d49F56FD62FdDd3f",
-      "symbol": "RVN",
-      "name": "Raven",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42AbbA6a7eCF3694A8aFadFd58058b181909c91D",
       "symbol": "HOICHIBANK",
       "name": "HoichiBank",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3359F80f0C7a8F760E8F1e9C36D10a14De3606A0",
+      "symbol": "CTRUMP",
+      "name": "NewCommunityTrump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13630,
-    "minor": 13630,
+    "major": 13631,
+    "minor": 13631,
     "patch": 86
   }
 }
