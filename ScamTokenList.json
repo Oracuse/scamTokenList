@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0D36C04B613b08bD1599a33a94c4B9241eaB6F26",
-      "symbol": "OMNIS",
-      "name": "Omnis",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21246E2fd136AFD784f786078Bfd02c665Cb8bDD",
       "symbol": "TORNL",
       "name": "TORN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83D847965e45A7D8a8Ba3c038c928b58866F3b29",
+      "symbol": "TAA",
+      "name": "TaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13488,
-    "minor": 13488,
+    "major": 13489,
+    "minor": 13489,
     "patch": 86
   }
 }
