@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x77E1C225925b205bA2d459d708ABebC5c3d924fC",
-      "symbol": "SHZO",
-      "name": "SHINZO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3EB9AD2dbC9EeF39C31b9a22CcCb24Ccc8Cc4907",
       "symbol": "BEJESUS",
       "name": "Bejesus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9BD0fAFB3EA5a232bE49Fe7249c1DC29D30e7573",
+      "symbol": "BIRD",
+      "name": "UnleashTheBird",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13624,
-    "minor": 13624,
+    "major": 13625,
+    "minor": 13625,
     "patch": 86
   }
 }
