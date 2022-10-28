@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6BeAbFEBAC9BF7EffD52f66eBEdeac1c6dbad5CD",
-      "symbol": "KIRBY",
-      "name": "Kirby",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1419160833aB8148ee7546dea6667c52d0f1B854",
       "symbol": "JADI",
       "name": "JADI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEA27b6dC235EB07D7344C4Bc4dccea16Cf00f3BB",
+      "symbol": "ATS",
+      "name": "Atsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13619,
-    "minor": 13619,
+    "major": 13620,
+    "minor": 13620,
     "patch": 86
   }
 }
