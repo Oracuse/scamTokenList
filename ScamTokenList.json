@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0D618a277CD26988C2CFC9d7a128346C8A137cC",
-      "symbol": "FADE",
-      "name": "Fade",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4D15A2A009805829D15B415f74Dc4547544E3074",
       "symbol": "SETH",
       "name": "LordoftheDesert",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a64Eefcc3E57E8a5F403BAE1B2A84468612cE48",
+      "symbol": "BEAR",
+      "name": "BearHunterDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13423,
-    "minor": 13423,
+    "major": 13424,
+    "minor": 13424,
     "patch": 86
   }
 }
