@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8cbb370bf8a59DB760E26c73aAc5F5fBad168634",
-      "symbol": "SLAKE",
-      "name": "Slake",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE3DeA54918d3E4DFBdE681c6A066Bca3F337579b",
       "symbol": "OIE",
       "name": "OKAMIINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5ad41E55cB1d42ea95A60c65123babAADa33A9F",
+      "symbol": "RETWEET",
+      "name": "Retweet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13500,
-    "minor": 13500,
+    "major": 13501,
+    "minor": 13501,
     "patch": 86
   }
 }
