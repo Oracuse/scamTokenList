@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x46F5A637f8fE630986ADBEE9dc0141E63F7f8679",
-      "symbol": "SHOBER",
-      "name": "ShoberInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9Ba5c4D624d2b7a6c4a474248Bf8F8Cd656D95Bd",
       "symbol": "SHOBER",
       "name": "ShoberInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09252cAC9cbC2172d7748Fd80b1d5C12Ad0b9C6e",
+      "symbol": "TRP",
+      "name": "TheRevenueProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13450,
-    "minor": 13450,
+    "major": 13451,
+    "minor": 13451,
     "patch": 86
   }
 }
