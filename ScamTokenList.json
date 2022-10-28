@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7803aA109cA33c6252bC83f4b580Efd1E02e6E56",
-      "symbol": "PAKU",
-      "name": "Pakunoda",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeD786543941fe86922DA59FE02BEFe2A9F29BB98",
       "symbol": "DCORD",
       "name": "Discordance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6DcebE14c0C0e43670aA1819f3aa706EA4B3474b",
+      "symbol": "HIDDEN1",
+      "name": "TehHiddenProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13477,
-    "minor": 13477,
+    "major": 13478,
+    "minor": 13478,
     "patch": 86
   }
 }
