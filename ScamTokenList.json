@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x196E9B9F3f52a3eAbA0298871ABD9A181dB8454B",
-      "symbol": "MIKA",
-      "name": "MIKAWAINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3f7FD2BF2e6ce11Dd3C2fd434AFa0b24913d57e2",
       "symbol": "ADAO",
       "name": "AlphaDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cB1C1418d4242e8d4E2E48057ED2e112ce06b7B",
+      "symbol": "BIRD",
+      "name": "TheBird",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13452,
-    "minor": 13452,
+    "major": 13453,
+    "minor": 13453,
     "patch": 86
   }
 }
