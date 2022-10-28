@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9cDd83b482d86EE171325f11cBBcf5B78361712e",
-      "symbol": "EPOS",
-      "name": "EthereumPoS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2b0f60Ad8463fF721305fcB7122C4dE17a4c9941",
       "symbol": "TRUTH",
       "name": "VoirDire",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11905d367Cb9c2097876AeFB1B3F41A026467159",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13543,
-    "minor": 13543,
+    "major": 13544,
+    "minor": 13544,
     "patch": 86
   }
 }
