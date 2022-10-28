@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2656Ee39dfcCF03da8aA296CBbbb5445c776D9A7",
-      "symbol": "SPLIT",
-      "name": "TheSplit",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf8c24Dc8440E558a26714aeB8c15Cdb04f3166a8",
       "symbol": "PRLT",
       "name": "Proletariat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0166b0649125f722Ea95C698dE2C742CEA751A7a",
+      "symbol": "32ETH",
+      "name": "32ETHPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13418,
-    "minor": 13418,
+    "major": 13419,
+    "minor": 13419,
     "patch": 86
   }
 }
