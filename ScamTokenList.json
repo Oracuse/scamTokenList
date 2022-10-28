@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8fa8c2274f7EcbefD0a6d2f3bf087933A7f0e9A4",
-      "symbol": "AMF",
-      "name": "ArbeitMachtFrei",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9382dfFD4E9d9C1A41026467858f2Ca1Ac66255e",
       "symbol": "SKXRGE",
       "name": "ElysiumKey",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB966Fc412A9D3890b3A26dAe68116e012a3eEA2E",
+      "symbol": "BINU",
+      "name": "BirdInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13459,
-    "minor": 13459,
+    "major": 13460,
+    "minor": 13460,
     "patch": 86
   }
 }
