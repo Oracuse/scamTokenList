@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2FeCd049411C8bA2d174a9e6C45c9d6fbDE061AF",
-      "symbol": "ZIPMEX",
-      "name": "Zipmex",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0226F39F55528f9987Df11612eBEDBc71F7368BE",
       "symbol": "ECAL",
       "name": "ECAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2DC2221d4114fe0d303b350e37B537938CA1D8ba",
+      "symbol": "BOO",
+      "name": "PeekabooZombies",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13601,
-    "minor": 13601,
+    "major": 13602,
+    "minor": 13602,
     "patch": 86
   }
 }
