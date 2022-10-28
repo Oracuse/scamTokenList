@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8a4D2c3fcA2D78d0FB86894a37365bFDCd2bC6Fb",
-      "symbol": "STRAW",
-      "name": "DaikokumaiNi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc1C11057d74E4b5159806EA6f513F6DFDd48FFb1",
       "symbol": "DATSU",
       "name": "Datsuzoku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1756AFAdEeFFd1D0a5f3694e0fB9CbfF00EF1fCD",
+      "symbol": "DGRD",
+      "name": "DogeRadio",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13498,
-    "minor": 13498,
+    "major": 13499,
+    "minor": 13499,
     "patch": 86
   }
 }
