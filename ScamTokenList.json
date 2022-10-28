@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98BAcF06DBF2FE8794069e885008B7a1A450d72D",
-      "symbol": "GYU",
-      "name": "GuanYu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb605e4562E9Eb3b601c1E566E58E67A16a229076",
       "symbol": "SPX",
       "name": "SpaceX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4964B8372Fc6A0e344629162b5519ccd63523e1a",
+      "symbol": "LLT",
+      "name": "LlamaLendToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13506,
-    "minor": 13506,
+    "major": 13507,
+    "minor": 13507,
     "patch": 86
   }
 }
