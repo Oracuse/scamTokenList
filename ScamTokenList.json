@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc560d2BD077Df88E3379543f2782e4D621d12D08",
-      "symbol": "ORIGAMI",
-      "name": "ORIGAMI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xad27d23B86731862b28149Cc3d9b5faEA13c0Dd6",
       "symbol": "YOSHIMITSU",
       "name": "Yoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20A0360d61Df33606dB8CCDA2449a42353a1E825",
+      "symbol": "PENGU",
+      "name": "ClubPenguin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13429,
-    "minor": 13429,
+    "major": 13430,
+    "minor": 13430,
     "patch": 86
   }
 }
