@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1bF4938B69889AfB7E7B6f0Cd886B8E76A36bFCE",
-      "symbol": "ZINU",
-      "name": "ZinogreInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB4f02eB8FfF19ffcF27793237a187517Ff364F91",
       "symbol": "SHIKU",
       "name": "ShiroKuma",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x131A4345A04F6d25d022D65D77CbF8Ab446013b6",
+      "symbol": "TREC",
+      "name": "TheRevenueEvilCurve",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13448,
-    "minor": 13448,
+    "major": 13449,
+    "minor": 13449,
     "patch": 86
   }
 }
