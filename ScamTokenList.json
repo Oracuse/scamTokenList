@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xff148a5026CfF46Dc559Eb3D623d1CdCF1e25Ec8",
-      "symbol": "MEVB",
-      "name": "MEVBurn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x32008df615E8eca2Cf02E6d5A08301931c23EeB7",
       "symbol": "AOKI",
       "name": "AokigaharaForest",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44cF71379bF3f46Eb6090c7DC02d42D16949b05a",
+      "symbol": "DEJINTARU",
+      "name": "DejintaruRio",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13549,
-    "minor": 13549,
+    "major": 13550,
+    "minor": 13550,
     "patch": 86
   }
 }
