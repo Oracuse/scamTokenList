@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xad27d23B86731862b28149Cc3d9b5faEA13c0Dd6",
-      "symbol": "YOSHIMITSU",
-      "name": "Yoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2F5d4bEf4E8f3fA5b3b68d0C2e1bF4E0c7dC2d85",
       "symbol": "IDENTDEFI",
       "name": "IdentDeFi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55b832ba2D12Ee6649A297f33eA5E3499fDd141E",
+      "symbol": "FR",
+      "name": "Falconrockets",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13430,
-    "minor": 13430,
+    "major": 13431,
+    "minor": 13431,
     "patch": 86
   }
 }
