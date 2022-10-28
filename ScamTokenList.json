@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42AbbA6a7eCF3694A8aFadFd58058b181909c91D",
-      "symbol": "HOICHIBANK",
-      "name": "HoichiBank",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4aF34Fd49409792a3b8c3055A09Ce8A176cb69b3",
       "symbol": "BROKEN",
       "name": "BrokenWorld",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67CCD9fDf2942E69959c298B5ac778767b056088",
+      "symbol": "BTRUMP",
+      "name": "BabyTrump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13631,
-    "minor": 13631,
+    "major": 13632,
+    "minor": 13632,
     "patch": 86
   }
 }
