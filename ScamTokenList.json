@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8Dc61D5e51f4CD072a0Cf3D8EC0Dd2Dc1ee4DEAd",
-      "symbol": "VMM",
-      "name": "VulcanMindMeld",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69B7788BCa91bEf3215fDFa191cEd86c3e44e0AB",
       "symbol": "BRGSE",
       "name": "Bourgeois",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA88bF0fEa0BABe3C91f21EA91C18CDBAD4D64A95",
+      "symbol": "WCS",
+      "name": "WorldCupShinu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13539,
-    "minor": 13539,
+    "major": 13540,
+    "minor": 13540,
     "patch": 86
   }
 }
