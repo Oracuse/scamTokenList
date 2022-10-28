@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA12Cbff75d9b1E70A1f004440d7abb2641A2F9eE",
-      "symbol": "EASHER",
-      "name": "EASHER",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe47e800f520779fE897aCd810C5d3991868612FD",
       "symbol": "VMM",
       "name": "VulcanMindMeld",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x362fc6a09a8C9ad682Adf0bdBc3b09D6BBe78df3",
+      "symbol": "JETH",
+      "name": "Jeethereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13533,
-    "minor": 13533,
+    "major": 13534,
+    "minor": 13534,
     "patch": 86
   }
 }
