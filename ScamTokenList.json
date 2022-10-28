@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9382dfFD4E9d9C1A41026467858f2Ca1Ac66255e",
-      "symbol": "SKXRGE",
-      "name": "ElysiumKey",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeA4Ce0901Dd94Ed4914141a7D3e9c83186C42175",
       "symbol": "NOZOMI",
       "name": "NOZOMI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x076D951C82Fb4b7A05dEDf05B289b92F68E7787d",
+      "symbol": "DISTRUST",
+      "name": "DrainFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13460,
-    "minor": 13460,
+    "major": 13461,
+    "minor": 13461,
     "patch": 86
   }
 }
