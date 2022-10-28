@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x360C44c03DDd6E86E4FeFF3E6177eDD1d0E78ADB",
-      "symbol": "OUIJA",
-      "name": "Ouija",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F109180533d13a6ed5F696559ef2f354405b356",
       "symbol": "GENSHIRYOKU",
       "name": "GENSHIRYOKU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A5757667EB7EA1AC0394EB6B08194c280fD4dF9",
+      "symbol": "TRUMP",
+      "name": "PresidentTrump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13527,
-    "minor": 13527,
+    "major": 13528,
+    "minor": 13528,
     "patch": 86
   }
 }
