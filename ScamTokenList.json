@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5F0F81dD84b191bC9c4a0f04913BFca36966Ef18",
-      "symbol": "EINU",
-      "name": "EinInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAdeC71AfCdA3D93d2d7CcEdB5C1be697C98bCF7A",
       "symbol": "RASCALINU",
       "name": "RascalInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3c951ab76FA47322d4db97435bc7b93241693a5f",
+      "symbol": "MARS",
+      "name": "WelcomeBackMars",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13590,
-    "minor": 13590,
+    "major": 13591,
+    "minor": 13591,
     "patch": 86
   }
 }
