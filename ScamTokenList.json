@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x264Ceb86bd3dFFF8FeABEE16E5A552AAF5bf8024",
-      "symbol": "NOBAKE",
-      "name": "ShitaKiriNobake",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7803aA109cA33c6252bC83f4b580Efd1E02e6E56",
       "symbol": "PAKU",
       "name": "Pakunoda",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25270F7D1B81057066F3119362f25a22981a85Ec",
+      "symbol": "HPRO",
+      "name": "HabibiProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13476,
-    "minor": 13476,
+    "major": 13477,
+    "minor": 13477,
     "patch": 86
   }
 }
