@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2Ecf0945b50Ad557Aa380417712F4bb618C53108",
-      "symbol": "MLCH",
-      "name": "Moloch",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x841CD1DfE9575C0A9439950CC8b2341C8db70246",
       "symbol": "TERRIER",
       "name": "Terrier",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b387937BD78808A65AD6DfFF6dcC8F954976B55",
+      "symbol": "ZILZ",
+      "name": "Zilliqa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13474,
-    "minor": 13474,
+    "major": 13475,
+    "minor": 13475,
     "patch": 86
   }
 }
