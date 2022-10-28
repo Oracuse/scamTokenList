@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2E94Bee6A90288d64906c79D907A5B511E105eb0",
-      "symbol": "MMAI",
-      "name": "METAMONKEYAI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6BeAbFEBAC9BF7EffD52f66eBEdeac1c6dbad5CD",
       "symbol": "KIRBY",
       "name": "Kirby",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3F3b2e072790A2bd5b7C7A2871849C6Af962AD4",
+      "symbol": "INFO",
+      "name": "POOLINFO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13618,
-    "minor": 13618,
+    "major": 13619,
+    "minor": 13619,
     "patch": 86
   }
 }
