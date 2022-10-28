@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x04f992a1540C117819434b4893cDE24bd85CBc5C",
-      "symbol": "MFLOKI",
-      "name": "MEVFloki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4DA10f8E7271b054D4c1D6c10Ff22C3522965C3c",
       "symbol": "MEV",
       "name": "MevTerminator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7DFe5215beEb2520339D9902326A69556500F8F3",
+      "symbol": "NODIP",
+      "name": "NODIP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13522,
-    "minor": 13522,
+    "major": 13523,
+    "minor": 13523,
     "patch": 86
   }
 }
