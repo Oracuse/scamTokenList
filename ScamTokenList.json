@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6c2E23109F2d441f68B9eC23A45670c1da0938af",
-      "symbol": "RAT",
-      "name": "RatToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5Cab2675f6504f9c4759B7f92cFDB34Da2472330",
       "symbol": "TM3",
       "name": "Testme3",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2eB5883092c9431D59E736D37075A28a9A270718",
+      "symbol": "THESHIB",
+      "name": "TheShibProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13436,
-    "minor": 13436,
+    "major": 13437,
+    "minor": 13437,
     "patch": 86
   }
 }
