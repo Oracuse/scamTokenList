@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC62ae481e2456f37E45F256dF0096dDA1981A71D",
-      "symbol": "HARA",
-      "name": "Aokigahara",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8fa8c2274f7EcbefD0a6d2f3bf087933A7f0e9A4",
       "symbol": "AMF",
       "name": "ArbeitMachtFrei",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF1DbAb04153c2646f6A0Dc33d38F920a5c50562a",
+      "symbol": "FPP",
+      "name": "FreedProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13458,
-    "minor": 13458,
+    "major": 13459,
+    "minor": 13459,
     "patch": 86
   }
 }
