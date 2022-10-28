@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe8Aa321ee68C02Cb5649deB4d65cDF1289E4a9CE",
-      "symbol": "KOICHI",
-      "name": "KOICHI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9eb6F61c00D651a336410536153977786B66D131",
       "symbol": "VOLTI",
       "name": "Voltichange",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99794b1Aa9E5eDFaA89CAaAdbF6D5952960e7572",
+      "symbol": "OS",
+      "name": "OldSchool",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13483,
-    "minor": 13483,
+    "major": 13484,
+    "minor": 13484,
     "patch": 86
   }
 }
