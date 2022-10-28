@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x772CCe7C954E9d1400a7b967BB808f65473F29b7",
-      "symbol": "ASHURA",
-      "name": "Ashura",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa6d53192Fb06Aa8F9ddD74f26Fb9AB0F1DF7d20a",
       "symbol": "HOKUSAI",
       "name": "Katsushika",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb47fc22AD0dcAf6d90646D0c069F310d02E3e010",
+      "symbol": "CSP",
+      "name": "CreditSuisseProtoco",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13471,
-    "minor": 13471,
+    "major": 13472,
+    "minor": 13472,
     "patch": 86
   }
 }
