@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9ca3f2cd3c11F01Cc5aaBb6dF1D63eadc5aFB8Ef",
-      "symbol": "PHONE",
-      "name": "Phone2Earn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbc54a953304ebAf612365534c0A22F786c66aBFc",
       "symbol": "PHEDITE",
       "name": "Phedite",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e9b185545ffb4974DF256B29C8C07cdd65be440",
+      "symbol": "COMBS",
+      "name": "CryptoCombs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13568,
-    "minor": 13568,
+    "major": 13569,
+    "minor": 13569,
     "patch": 86
   }
 }
