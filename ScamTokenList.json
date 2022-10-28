@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE57A7e8fddD7176B91255712D2B511838d956B53",
-      "symbol": "GOBCORP",
-      "name": "GOBLINCORPS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa8834D8d034DAF6cfFdBc190613BEB9e20dCd126",
       "symbol": "MANOAMANO",
       "name": "ManoaMano",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7A1f968a3ba04e8F74d83015299d20F7baEbFa4B",
+      "symbol": "SFL",
+      "name": "SafeLockProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13633,
-    "minor": 13633,
+    "major": 13634,
+    "minor": 13634,
     "patch": 86
   }
 }
