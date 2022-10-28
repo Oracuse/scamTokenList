@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x435B083445baf7048Af63fC052b8B6EA78E14E9A",
-      "symbol": "AOKI",
-      "name": "AokigaharaForest",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaeBbf26184659FA11147D32bD90A4cC847360C3E",
       "symbol": "SAKE",
       "name": "Kuchikamizake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6be7E9aC1C8B4E52Cd99B22cAfDE14f0bDaE00d5",
+      "symbol": "YOGE",
+      "name": "YeDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13586,
-    "minor": 13586,
+    "major": 13587,
+    "minor": 13587,
     "patch": 86
   }
 }
