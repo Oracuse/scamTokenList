@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6aD40f47ed0A2659b1aF7fa43007d79712237A67",
-      "symbol": "SECRETUM",
-      "name": "SECRETUM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73D21FBC14a3d0A4EBe8A456E9D2B90a6B9c3dD8",
       "symbol": "TARA",
       "name": "Tarasque",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB204E7C038F8B8F3E36Adb800040A761B370f718",
+      "symbol": "UBIRD",
+      "name": "UnleashTheBird",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13614,
-    "minor": 13614,
+    "major": 13615,
+    "minor": 13615,
     "patch": 86
   }
 }
