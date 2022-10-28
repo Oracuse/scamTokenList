@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf8c24Dc8440E558a26714aeB8c15Cdb04f3166a8",
-      "symbol": "PRLT",
-      "name": "Proletariat",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBb8c90F709bE641dD6FAE71a99CE5260F9b58Ab2",
       "symbol": "NUWA",
       "name": "Nuwa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64aEcB140f8a1863523dc68B20C32fF34FeF6Ac9",
+      "symbol": "NKO",
+      "name": "Naikota",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13419,
-    "minor": 13419,
+    "major": 13420,
+    "minor": 13420,
     "patch": 86
   }
 }
