@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6BE67B825703E16B1AEbD6FcD6a4e849Cc4756A0",
-      "symbol": "KIYOHIME",
-      "name": "DejitaruKiyohime",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0C7213D62aa30BA704c3667b16Ef2403FcfA80aB",
       "symbol": "EPOS",
       "name": "EthereumPoS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5c69DbAaDc7BA9B5E98F80806C36Fdf08e45c38",
+      "symbol": "KATANATWEET",
+      "name": "KatanaTweet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13556,
-    "minor": 13556,
+    "major": 13557,
+    "minor": 13557,
     "patch": 86
   }
 }
