@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb8226eb0f9983110a5Aa4e27c8a52337275cb0c7",
-      "symbol": "YUME",
-      "name": "YUME",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9cDd83b482d86EE171325f11cBBcf5B78361712e",
       "symbol": "EPOS",
       "name": "EthereumPoS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21022eC6Bbe582cB678053bA6e88b92457014465",
+      "symbol": "TOYO",
+      "name": "Toyoukebime",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13542,
-    "minor": 13542,
+    "major": 13543,
+    "minor": 13543,
     "patch": 86
   }
 }
