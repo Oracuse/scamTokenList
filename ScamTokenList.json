@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBf80A7aC3dE3B787a574bA5a1D2a428aAC175898",
-      "symbol": "MEVFLOKI",
-      "name": "MEVFloki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA215542b94736793e189BF78fAE043CBaEDc6961",
       "symbol": "EDAI",
       "name": "EssenceDAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30f111a0e9426b37CB6726A4B4C3dDdA9104E1d9",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13519,
-    "minor": 13519,
+    "major": 13520,
+    "minor": 13520,
     "patch": 86
   }
 }
