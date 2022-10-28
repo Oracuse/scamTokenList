@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x27d749815BD42249C6191F9D0214ADd5a877F609",
-      "symbol": "DECANECT",
-      "name": "Decanect",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb8226eb0f9983110a5Aa4e27c8a52337275cb0c7",
       "symbol": "YUME",
       "name": "YUME",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf50b9ec21216f457eb9509d7FFB7C3c848335522",
+      "symbol": "TEST",
+      "name": "TESTTOKEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13541,
-    "minor": 13541,
+    "major": 13542,
+    "minor": 13542,
     "patch": 86
   }
 }
