@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x709e2602A74372e43F9587bb274397c29E1c8422",
-      "symbol": "MEVTER",
-      "name": "MevTerminator",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5187166a4D5cA3e2dfE85e269F0Db2693e4886b6",
       "symbol": "ETRON",
       "name": "ETRON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B728e2d4F3Fe25c7dd37941DC5C00823e28A845",
+      "symbol": "IKIGAI",
+      "name": "VennDiagram",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13583,
-    "minor": 13583,
+    "major": 13584,
+    "minor": 13584,
     "patch": 86
   }
 }
