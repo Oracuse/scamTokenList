@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2c936DbA295E847bBb4eC120031e0591A0663C8D",
-      "symbol": "FALSIS",
-      "name": "ErgoaFalsis",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x047e5Ec8F0c96D29B8986708A8FF2C8F6de0b000",
       "symbol": "WIC",
       "name": "WinterInCicero",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB754bbACaa97E74EDf77612933FD12Cff636a085",
+      "symbol": "COMEDY",
+      "name": "ComedyTwitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13604,
-    "minor": 13604,
+    "major": 13605,
+    "minor": 13605,
     "patch": 86
   }
 }
