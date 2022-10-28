@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf02614f09aCd512929B97393E33F4FbE78Bc67D9",
-      "symbol": "ODIN",
-      "name": "Odineum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8cf1a71a55C437b7D60dd188C76044ccF6F4A9AB",
       "symbol": "OIL",
       "name": "OIL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x752664AA8Bd70a524d894113220579FA36FB8721",
+      "symbol": "POL",
+      "name": "ProofofLock",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13525,
-    "minor": 13525,
+    "major": 13526,
+    "minor": 13526,
     "patch": 86
   }
 }
