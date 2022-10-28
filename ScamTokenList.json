@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x38859a2E2522F8CBeb58808325Bf59bDCc833197",
-      "symbol": "ULTRA",
-      "name": "UltraInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04f992a1540C117819434b4893cDE24bd85CBc5C",
       "symbol": "MFLOKI",
       "name": "MEVFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd10BF4c750C257d1a41aAc729d92ee9EA7C5b70B",
+      "symbol": "P5T",
+      "name": "P5GamingToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13521,
-    "minor": 13521,
+    "major": 13522,
+    "minor": 13522,
     "patch": 86
   }
 }
