@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd6c72A8a66E326fefE64cAde1DEb65A271a442b0",
-      "symbol": "RGT",
-      "name": "RoyalGoat",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22245F889642940E1De1463FBdc972dbd84248E0",
       "symbol": "RAT",
       "name": "RATToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11603a77246990659A4864b53838D7c3AEa22097",
+      "symbol": "ET",
+      "name": "ElonTwitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13426,
-    "minor": 13426,
+    "major": 13427,
+    "minor": 13427,
     "patch": 86
   }
 }
