@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x40efeF671a08cd9FF046344F87154e47f5eA15Df",
-      "symbol": "HRD",
-      "name": "HOARD",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5F0F81dD84b191bC9c4a0f04913BFca36966Ef18",
       "symbol": "EINU",
       "name": "EinInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73D2b6a2D967b044CC97f40B51731051E656a017",
+      "symbol": "CZ",
+      "name": "CryptoCreepers",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13589,
-    "minor": 13589,
+    "major": 13590,
+    "minor": 13590,
     "patch": 86
   }
 }
