@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5187166a4D5cA3e2dfE85e269F0Db2693e4886b6",
-      "symbol": "ETRON",
-      "name": "ETRON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEb62e7F653cf81e6230d79838C026599Ef7efA9B",
       "symbol": "WHITE",
       "name": "WHITE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4B8e20DBbc0BbcA97de7caaCf1dD2Cb35623D49",
+      "symbol": "DPUMP",
+      "name": "DonaldPump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13584,
-    "minor": 13584,
+    "major": 13585,
+    "minor": 13585,
     "patch": 86
   }
 }
