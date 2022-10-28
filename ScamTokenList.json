@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f945D4D9B5a2d520502e77A58A7cFb352bf9A33",
-      "symbol": "M31",
-      "name": "M31",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x39adDCFfd6DCBa546148b4d4A5a65837DA1C605b",
       "symbol": "MEVBEATER",
       "name": "MEVBEATER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34e8947cE265cABFfF112240DB4ABd6887D7d638",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13515,
-    "minor": 13515,
+    "major": 13516,
+    "minor": 13516,
     "patch": 86
   }
 }
