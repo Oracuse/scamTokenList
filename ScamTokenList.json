@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2EE12E359d041366a85a7045FEe2eae5A208068a",
-      "symbol": "YAKUZZI",
-      "name": "YakuzaGame",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x387EC129215CCF7c26fa9BD4EFF239CdAFB8cEe9",
       "symbol": "BAYFC",
       "name": "BoredApeYogaFanClub",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x924AbeE2465bb0D07C6825C2E4B83757Dad78ea4",
+      "symbol": "EDP",
+      "name": "EtherDeltaProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13612,
-    "minor": 13612,
+    "major": 13613,
+    "minor": 13613,
     "patch": 86
   }
 }
