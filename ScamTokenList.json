@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb0Ea469163D4d96fd8e4131b5b90796425Fed5e0",
-      "symbol": "M666",
-      "name": "M666",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCE9c3918C4B18B10c372DB12d6B3Dcc6D089aEb0",
       "symbol": "VATICAN",
       "name": "TheVatican",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63cF9FD11041F2e172f570350A76878Ec1E8Bc4e",
+      "symbol": "DOGEBANK",
+      "name": "TheBankofDOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13536,
-    "minor": 13536,
+    "major": 13537,
+    "minor": 13537,
     "patch": 86
   }
 }
