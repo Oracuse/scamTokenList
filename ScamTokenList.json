@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x58c7e50a33D12509528a0FFe7074ead855d5cd9A",
-      "symbol": "HESTIA",
-      "name": "Hestia",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9C0Eaf2ED78ECcC2aD04FAcf78365E8fe9239668",
       "symbol": "DOMICA",
       "name": "DOMICA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1BBbB87c6774FFEaa37f339d3Bb1AE8eF9009b5",
+      "symbol": "TSI",
+      "name": "TOSHI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13710,
-    "minor": 13710,
+    "major": 13711,
+    "minor": 13711,
     "patch": 86
   }
 }
