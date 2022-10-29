@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdc59A87F9CEF29BD9507eB637470eCAc813E9a66",
-      "symbol": "SCHLAEON",
-      "name": "AeonSchlongCommunit",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x05c08369D0f863BabEF8F7D62A4EB78df5Fe45e3",
       "symbol": "PUMP",
       "name": "VitalikBigPump",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0164188060D03018E01b4D7b8238fD22011903e",
+      "symbol": "DEV",
+      "name": "TheDev",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13837,
-    "minor": 13837,
+    "major": 13838,
+    "minor": 13838,
     "patch": 86
   }
 }
