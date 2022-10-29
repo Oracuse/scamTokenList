@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15698266257a50f249F270CD8a7AB178f871D4a7",
-      "symbol": "ARRAY",
-      "name": "ARRAY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x40CcF330ec41FF6D658f7a0CD711260EE40D3644",
       "symbol": "STEPEX",
       "name": "STEPEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75D890f0863b1cEde484540e6c9a4a3c8F121FAE",
+      "symbol": "WCS",
+      "name": "WorldCupShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13674,
-    "minor": 13674,
+    "major": 13675,
+    "minor": 13675,
     "patch": 86
   }
 }
