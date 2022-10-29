@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD0f5e1b8cc02Fb069a53e17DFCceB701E96D147B",
-      "symbol": "BDC",
-      "name": "BabyDC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9724455ffcCCf93f564b128B2477b4FfDc370A35",
       "symbol": "BCS",
       "name": "BetterCallSaul",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8148994b00c10d4155bC89dB2Ec16c8e0E43DF46",
+      "symbol": "WT",
+      "name": "WelcomeTrump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13663,
-    "minor": 13663,
+    "major": 13664,
+    "minor": 13664,
     "patch": 86
   }
 }
