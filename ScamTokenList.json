@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x24756a1B66C63162b997FbDce766ecf8Ce513701",
-      "symbol": "LUNATICS",
-      "name": "LUNATICS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd380A72B5C56EbFdA962a3578Cc836D75D62Ec60",
       "symbol": "HDR",
       "name": "Hoard",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d36122aC99CD6CFBD01cE59bEA132Ec5dc0c0d1",
+      "symbol": "TWTTR",
+      "name": "FirstTweet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13743,
-    "minor": 13743,
+    "major": 13744,
+    "minor": 13744,
     "patch": 86
   }
 }
