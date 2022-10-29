@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa7e4c0E597fFB44196023ec2190978e95037Ed14",
-      "symbol": "CRANE",
-      "name": "Crane",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3214E036EF3f756F098304166F3DD55726643cFA",
       "symbol": "CETH",
       "name": "COCKTHEREUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4522600fF7D2501570bD2d6eD226a9e07f420d9",
+      "symbol": "DDI",
+      "name": "DontDieInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13857,
-    "minor": 13857,
+    "major": 13858,
+    "minor": 13858,
     "patch": 86
   }
 }
