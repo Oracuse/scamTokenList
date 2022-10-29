@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x79502d7CEB8f0B0a33bBaD904a20c95e1B2e407C",
-      "symbol": "YOKAI",
-      "name": "yokai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCcB1898B19019cb89b64Bec767CE6Ac8CF4D3106",
       "symbol": "YAK",
       "name": "Yakitori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf4DF0E656FD64B08Df0219212942315Bd79ddE1",
+      "symbol": "TWHIB",
+      "name": "TwitterShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13705,
-    "minor": 13705,
+    "major": 13706,
+    "minor": 13706,
     "patch": 86
   }
 }
