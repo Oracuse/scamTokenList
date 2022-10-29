@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x94d48eB395652eE3D1D054630596a5cC4262050c",
-      "symbol": "STEAM",
-      "name": "Steam",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc9d18e67c0f7f8ff0e0Ee4e682D38471b323C8A7",
       "symbol": "SUGON",
       "name": "Sugonyama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB2b163F7aB4FcF974E992824b5C4c136EcBfA711",
+      "symbol": "BOO",
+      "name": "TRICKORTREAT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13749,
-    "minor": 13749,
+    "major": 13750,
+    "minor": 13750,
     "patch": 86
   }
 }
