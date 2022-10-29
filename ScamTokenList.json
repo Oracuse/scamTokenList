@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc4e80ca2a698C2897a48A99B746CB1dcC777d245",
-      "symbol": "SNXS",
-      "name": "SNXS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF101cDc7bfE508388004f725F65c759688B4804A",
       "symbol": "ARS",
       "name": "ArsToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1d7AA6f4794274D51866BAC7cfb844a6E9eA7C2",
+      "symbol": "DEW",
+      "name": "TheDecentralisedWal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13834,
-    "minor": 13834,
+    "major": 13835,
+    "minor": 13835,
     "patch": 86
   }
 }
