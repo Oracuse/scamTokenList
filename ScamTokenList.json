@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87a4cBe36f62029E223A390cA23eB6AA488A3426",
-      "symbol": "DUCKINU",
-      "name": "DUCKINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF30e6E4bb3e99e47fa770fC07328ef7D1fb8C844",
       "symbol": "MIJO",
       "name": "Mijo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e7F8935A40f80FA535bebE7d56c441E9B5b6B79",
+      "symbol": "PROFITCLUB",
+      "name": "ProfitClub",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13658,
-    "minor": 13658,
+    "major": 13659,
+    "minor": 13659,
     "patch": 86
   }
 }
