@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6d67828a6E6E792360872072eFe23040B6FAAD88",
-      "symbol": "COLLAB",
-      "name": "TheCollaboration",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84ca28F1A43F94Db86179976592442c3e1707B57",
       "symbol": "PHONE",
       "name": "Phone2Earn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fa3432c64f99D609621520B31EC5402155ff30e",
+      "symbol": "STP",
+      "name": "SendTrumpProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13644,
-    "minor": 13644,
+    "major": 13645,
+    "minor": 13645,
     "patch": 86
   }
 }
