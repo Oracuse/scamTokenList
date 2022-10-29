@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x48e08AE2a3FdD659F1168C244991d4F16a60fFe8",
-      "symbol": "MASU",
-      "name": "IKIMASU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x29ed5A83FB12e08b86E694003794F21757ba3EdC",
       "symbol": "PHONE",
       "name": "Phone2Earn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c4e507391560b0A71CbA5b3c7b0Dc8a30752Bf9",
+      "symbol": "SUN",
+      "name": "SunSimiao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13729,
-    "minor": 13729,
+    "major": 13730,
+    "minor": 13730,
     "patch": 86
   }
 }
