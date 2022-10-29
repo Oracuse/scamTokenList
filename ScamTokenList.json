@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x356f194C5541c89406c69205e6d797d81B6715C6",
-      "symbol": "LLAMA",
-      "name": "LLAMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x191511FA66e9170eF7fcd0b833E135D23db56Afe",
       "symbol": "MESSIAH",
       "name": "TheAnointed",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC1e7FD875afd786f1e58e7432271b1D71E79A9ee",
+      "symbol": "SACRIFICES",
+      "name": "Sacrifices",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13671,
-    "minor": 13671,
+    "major": 13672,
+    "minor": 13672,
     "patch": 86
   }
 }
