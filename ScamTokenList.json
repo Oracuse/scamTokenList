@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0f5E5FF4DDE11C7e91b5EE69307F2d1bf2D085a3",
-      "symbol": "DORAD",
-      "name": "DORA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE248c2CB5761Ac9d011f9207F267Db005d66F768",
       "symbol": "X71T105",
       "name": "X71T105",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d4D12309A4C05a4B0997fcc11bAbdBB73996261",
+      "symbol": "WAGMI",
+      "name": "NotFinancialAdvice",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13700,
-    "minor": 13700,
+    "major": 13701,
+    "minor": 13701,
     "patch": 86
   }
 }
