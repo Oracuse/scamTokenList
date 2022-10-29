@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5718898E3aC07300662f9E80D2A9be477fc824fc",
-      "symbol": "OUTOFORDER",
-      "name": "OutOfOrder",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd2730C5dcd4E3Ce8a90a22a3Ae988E5f28AcC78E",
       "symbol": "DGBLL",
       "name": "DragonBallETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0D4a5d56505C5eEeF5F84f7F4a1a63B66b02646",
+      "symbol": "ELON",
+      "name": "DaddyDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13652,
-    "minor": 13652,
+    "major": 13653,
+    "minor": 13653,
     "patch": 86
   }
 }
