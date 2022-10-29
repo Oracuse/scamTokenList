@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD1a66C38C706A1dF2c7F4Ec5c38bA044F5dE8189",
-      "symbol": "PHONE",
-      "name": "Phone2Earn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEDE9d220EaB41F534644Aff28b5495e297D0ce23",
       "symbol": "RISE",
       "name": "RiseOfETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb823c6a73Ee0418147bE4b7D9Bc11E2343CEfcb",
+      "symbol": "TSUKIM",
+      "name": "LegendOfTsukim",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13708,
-    "minor": 13708,
+    "major": 13709,
+    "minor": 13709,
     "patch": 86
   }
 }
