@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7E417451fc7376B90B4F9eFC0668c9117c67E375",
-      "symbol": "CANTSELL",
-      "name": "CantSell",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17A4Acb429C400af3e23626fe665b02A7Dd77e7f",
       "symbol": "MOONY",
       "name": "MOONY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB42ca48A3FBeD7A8a53f7003f2819edCfAdFdfb5",
+      "symbol": "CONTOUR",
+      "name": "Tournure",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13786,
-    "minor": 13786,
+    "major": 13787,
+    "minor": 13787,
     "patch": 86
   }
 }
