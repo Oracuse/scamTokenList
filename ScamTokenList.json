@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x84356637a30b681da500F84Fd27e27A5b631a847",
-      "symbol": "RING",
-      "name": "RingofPyro",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9a5bC438BC30CeF6585CB1D923C348a2c59a5493",
       "symbol": "HOTD",
       "name": "HouseOfTheDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5cC06111F6e7dAA467FCB114bf9b8EBfd83ED52",
+      "symbol": "FLTV",
+      "name": "FlokiTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13788,
-    "minor": 13788,
+    "major": 13789,
+    "minor": 13789,
     "patch": 86
   }
 }
