@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAD95Eb05816e9eaED5C8EdCc3904fc4AC0C4Abe8",
-      "symbol": "ETHPOLI",
-      "name": "ETHPOLI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBE4681a6841325eFe474703A8E0ea457BD933FC4",
       "symbol": "CY35",
       "name": "35",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55a020925d1dBAE2aEF72cc9f4b2F584429a5b99",
+      "symbol": "O",
+      "name": "Octopus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13665,
-    "minor": 13665,
+    "major": 13666,
+    "minor": 13666,
     "patch": 86
   }
 }
