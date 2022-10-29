@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdEA8bd25fB8Eba4AA010271Fe91C5E1714CDdaf2",
-      "symbol": "GODOFWEALTH",
-      "name": "GODOFWEALTH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc4Ecd37Af6f6ee083ba60d84128aC41b4b364600",
       "symbol": "LUM",
       "name": "LUMINOR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDc8AdefC83E6Fbcc2F78A17635C8C391aea06cCe",
+      "symbol": "CTP",
+      "name": "CryptoTwitterProtoc",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13690,
-    "minor": 13690,
+    "major": 13691,
+    "minor": 13691,
     "patch": 86
   }
 }
