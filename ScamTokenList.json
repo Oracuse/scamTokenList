@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x052340c881A7B6b203567d6c621c40D44DF8E6cb",
-      "symbol": "LILSHIBA",
-      "name": "LilShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7301Ede333f25dFF6B63788a2a79e1C05a315bB5",
       "symbol": "ETHUS",
       "name": "VitalikJulisMaximus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18A58740A4638b9b57b76d35bf4417Ab1DeC4D1d",
+      "symbol": "MAIDEN",
+      "name": "CrystalMaiden",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13763,
-    "minor": 13763,
+    "major": 13764,
+    "minor": 13764,
     "patch": 86
   }
 }
