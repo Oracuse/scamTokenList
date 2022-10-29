@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17A4Acb429C400af3e23626fe665b02A7Dd77e7f",
-      "symbol": "MOONY",
-      "name": "MOONY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84356637a30b681da500F84Fd27e27A5b631a847",
       "symbol": "RING",
       "name": "RingofPyro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4dA3072023e63CC3C8896A5807236FB3E4758042",
+      "symbol": "TWTTER20",
+      "name": "TwitterMemes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13787,
-    "minor": 13787,
+    "major": 13788,
+    "minor": 13788,
     "patch": 86
   }
 }
