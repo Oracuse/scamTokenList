@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc60AB6dF49D7b2dE52d9A56a81ad2736c26AB5FD",
-      "symbol": "NOYAIBA",
-      "name": "Kimetsu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x03BF7433446d8a607d3A5FD1B9e2FA8edb76212E",
       "symbol": "REFLECTOR",
       "name": "Reflector",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBbe3b3954275422Dfa62AE1821c8291a7bcb5BF3",
+      "symbol": "DOGEPUMP",
+      "name": "DogePump",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13805,
-    "minor": 13805,
+    "major": 13806,
+    "minor": 13806,
     "patch": 86
   }
 }
