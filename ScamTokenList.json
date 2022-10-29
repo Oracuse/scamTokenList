@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x52F39f678B5e81F7a517aF2E37eBBF591b872aFc",
-      "symbol": "SCAPO",
-      "name": "SHIBACAPONE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDbda484c68Af3B266b6D73Cd4C4160e273813937",
       "symbol": "DM",
       "name": "DogeMaxi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88f2D7f9b16f6c97d9cea3168e381DFb484755A2",
+      "symbol": "ZKSYNC20",
+      "name": "zkSync20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13717,
-    "minor": 13717,
+    "major": 13718,
+    "minor": 13718,
     "patch": 86
   }
 }
