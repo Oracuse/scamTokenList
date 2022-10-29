@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcE57b685AdeFe5e0d0aAf44a2908529C8c9e613B",
-      "symbol": "RING",
-      "name": "RingofPyro",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7E417451fc7376B90B4F9eFC0668c9117c67E375",
       "symbol": "CANTSELL",
       "name": "CantSell",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa663Aaf46610fDEC81EfbfB44e8C519437E9D9eF",
+      "symbol": "CPDOGE",
+      "name": "CPDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13785,
-    "minor": 13785,
+    "major": 13786,
+    "minor": 13786,
     "patch": 86
   }
 }
