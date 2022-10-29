@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa452780a83A5ea69a4917C44195A258169F494Ec",
-      "symbol": "POETRY",
-      "name": "Poetry",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59CFcc2ed0B4Ed3647aD742Bc08837dAB881d07a",
       "symbol": "WIPE",
       "name": "WipeItDown",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F5110a7271D80C57CbC38ab7f811215BE1D7d7E",
+      "symbol": "ECZ",
+      "name": "ElonCZ",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13800,
-    "minor": 13800,
+    "major": 13801,
+    "minor": 13801,
     "patch": 86
   }
 }
