@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x33F76385388DA54154D1fA6D5f7556610d166438",
-      "symbol": "SOX",
-      "name": "SulphurOxide",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x87a4cBe36f62029E223A390cA23eB6AA488A3426",
       "symbol": "DUCKINU",
       "name": "DUCKINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf68FD075d14bF0341ce688eCC909e8d8fb69b7CD",
+      "symbol": "CTHND",
+      "name": "CerberusTheHellhoun",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13657,
-    "minor": 13657,
+    "major": 13658,
+    "minor": 13658,
     "patch": 86
   }
 }
