@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEdc6aBE25aad430aD13Da78FB211abf318714eE0",
-      "symbol": "SCHLONG",
-      "name": "VitalikLong",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa7e4c0E597fFB44196023ec2190978e95037Ed14",
       "symbol": "CRANE",
       "name": "Crane",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80F9876C771D8e694158dE10b8AF01ca4939166c",
+      "symbol": "DSHIB",
+      "name": "DefiShib",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13856,
-    "minor": 13856,
+    "major": 13857,
+    "minor": 13857,
     "patch": 86
   }
 }
