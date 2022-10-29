@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6339581f602aF82b2677cD583d6f1BE01cD4B8F5",
-      "symbol": "SHLN",
-      "name": "SHAOLIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x77D222B9D96cAab8d75dE7d945c32b253107087b",
       "symbol": "BONELEASH",
       "name": "BONELeash",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDF679bf952a294E0Cf8966e61Ecc2acdC0c04f69",
+      "symbol": "BABYSHIBIRD",
+      "name": "BabyShibird",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13733,
-    "minor": 13733,
+    "major": 13734,
+    "minor": 13734,
     "patch": 86
   }
 }
