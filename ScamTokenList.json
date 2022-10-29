@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3ce42E0793Ea99Dd69EfB4bEE698b93e4497f891",
-      "symbol": "EPICANO",
-      "name": "EPICANO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCcAad8205f25F5Ed323d4F948c0701F1b78Fe899",
       "symbol": "GBN",
       "name": "GoldenBirdNest",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaCDBc7928f6cCf5f320F778Df6c9Df39be8AD86d",
+      "symbol": "GE",
+      "name": "GoldenEagle",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13641,
-    "minor": 13641,
+    "major": 13642,
+    "minor": 13642,
     "patch": 86
   }
 }
