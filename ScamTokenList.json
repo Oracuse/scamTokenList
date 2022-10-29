@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5C0A47B327b4c24BAaF7E80F5852F7D2A107DFc2",
-      "symbol": "DEJICHAIN",
-      "name": "DejitaruChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf9a6E3fE12ff37bbE2c957DA6dD22b0e75721a0f",
       "symbol": "SECRET",
       "name": "SecretSociety",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x005E1b1E63Af7eE99f5d26BE366173CBC9F48B09",
+      "symbol": "TX",
+      "name": "Twix",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13747,
-    "minor": 13747,
+    "major": 13748,
+    "minor": 13748,
     "patch": 86
   }
 }
