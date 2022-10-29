@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6139E1DC243f7484aFec81E485cf7c94e1640a24",
-      "symbol": "TSUKA",
-      "name": "DejitaruTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x24BA1BFDB1F6C40660B8D9fbB641d8B6B99160cd",
       "symbol": "VCOCK",
       "name": "VitalikMeatBig",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA658C6e3C43303c6246de5f2bC522B7d93fCAD21",
+      "symbol": "BOUGHT",
+      "name": "HeBought",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13822,
-    "minor": 13822,
+    "major": 13823,
+    "minor": 13823,
     "patch": 86
   }
 }
