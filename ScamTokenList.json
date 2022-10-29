@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x191511FA66e9170eF7fcd0b833E135D23db56Afe",
-      "symbol": "MESSIAH",
-      "name": "TheAnointed",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9a397463D5351BD0Aec704Ab15095B1DA0d1fD9a",
       "symbol": "DCBURN",
       "name": "DogeChainBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25B4d53E8cd10adFFc27478FABC0952B6a55F500",
+      "symbol": "PEACE",
+      "name": "SacrifisesforPeace",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13672,
-    "minor": 13672,
+    "major": 13673,
+    "minor": 13673,
     "patch": 86
   }
 }
