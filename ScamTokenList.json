@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9fE69bB8b2A64DDbD32473C807E94709FFf8651d",
-      "symbol": "USDH",
-      "name": "Hoard",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc60AB6dF49D7b2dE52d9A56a81ad2736c26AB5FD",
       "symbol": "NOYAIBA",
       "name": "Kimetsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf15770aAD6EA2153745E823023d46f2Be01d4a03",
+      "symbol": "SEGA",
+      "name": "DogeSega",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13804,
-    "minor": 13804,
+    "major": 13805,
+    "minor": 13805,
     "patch": 86
   }
 }
