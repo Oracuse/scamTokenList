@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x341f14bed9d8754D909476fF55CAdAaB3F142EC1",
-      "symbol": "OSM",
-      "name": "OSMOSIS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE22AD1726c1E30AEfE4D944bd9E866B385e2Bb28",
       "symbol": "TEST2",
       "name": "TEST2",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F45afD0C9397658a1bD9b12a17FCEDfb2CeAEE7",
+      "symbol": "TSCM",
+      "name": "TotalShitCoinMillio",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13681,
-    "minor": 13681,
+    "major": 13682,
+    "minor": 13682,
     "patch": 86
   }
 }
