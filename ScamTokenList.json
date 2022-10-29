@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8ae142B3d694A180Bc1863bB466a43FfBd0305aa",
-      "symbol": "CEZ",
-      "name": "Cezms",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf46D71367B4C8F1fab528C0e7362D2d8BB99aC56",
       "symbol": "KINNOUNKO",
       "name": "Kinnounko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaC6b851C27c0cdD916628568B137C09956589956",
+      "symbol": "CT",
+      "name": "CryptoTwitter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13687,
-    "minor": 13687,
+    "major": 13688,
+    "minor": 13688,
     "patch": 86
   }
 }
