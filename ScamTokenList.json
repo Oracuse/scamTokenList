@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28DEe72150072b9d8E10edF19200440928f60189",
-      "symbol": "SOMA",
-      "name": "Soma",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6339581f602aF82b2677cD583d6f1BE01cD4B8F5",
       "symbol": "SHLN",
       "name": "SHAOLIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7C85aBA9f1006E5D36e61B5BB0E7a1741Ba08A2",
+      "symbol": "NUIT",
+      "name": "FizziNFT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13732,
-    "minor": 13732,
+    "major": 13733,
+    "minor": 13733,
     "patch": 86
   }
 }
