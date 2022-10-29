@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd380A72B5C56EbFdA962a3578Cc836D75D62Ec60",
-      "symbol": "HDR",
-      "name": "Hoard",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5945c9F959a8E1FdAd17B34EFc1577E582354664",
       "symbol": "HAPU",
       "name": "HapuInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5198625A8ABf34a0d2A1F262861fF3b3079302bF",
+      "symbol": "FORGE",
+      "name": "DeFiForge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13744,
-    "minor": 13744,
+    "major": 13745,
+    "minor": 13745,
     "patch": 86
   }
 }
