@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE248c2CB5761Ac9d011f9207F267Db005d66F768",
-      "symbol": "X71T105",
-      "name": "X71T105",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8E9E4B0395722dc7EEF40a6E54e9ee99C87a3728",
       "symbol": "SPEAR",
       "name": "Spear",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b2CD4643fDc0524c5C2eF7372213359DEa820F2",
+      "symbol": "TSCM",
+      "name": "TotalShitCoinMillio",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13701,
-    "minor": 13701,
+    "major": 13702,
+    "minor": 13702,
     "patch": 86
   }
 }
