@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd2730C5dcd4E3Ce8a90a22a3Ae988E5f28AcC78E",
-      "symbol": "DGBLL",
-      "name": "DragonBallETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC77393f0D887C261FDF1Fd48a5373266d1945328",
       "symbol": "STORM",
       "name": "SilentStorm",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe315E537eb4003C172d8EfDeB524f5bF25196c2e",
+      "symbol": "WELCOMEBOT",
+      "name": "TheWelcomeBackProto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13653,
-    "minor": 13653,
+    "major": 13654,
+    "minor": 13654,
     "patch": 86
   }
 }
