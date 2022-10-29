@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x969e584C565054b06B9ECf3F0091d1E064d4aAE1",
-      "symbol": "ARTEMIS",
-      "name": "ToTheMoon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC4E9A6103C30c0d8e1adc4bb0f9F38Cd784092Ee",
       "symbol": "PNS",
       "name": "VitaliksPenisillin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6332352f633dD0140da5E6C24D7B360374f01C25",
+      "symbol": "BEARNO",
+      "name": "BearnoToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13831,
-    "minor": 13831,
+    "major": 13832,
+    "minor": 13832,
     "patch": 86
   }
 }
