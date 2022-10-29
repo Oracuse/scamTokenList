@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC19A777Eba1e038a877Db4AAFF4884B2E9E48Bc0",
-      "symbol": "RAIJUU",
-      "name": "Raijuu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0A49C04dCd4A15d5C6909F2f3927cAe3Da599932",
       "symbol": "GHOST",
       "name": "Ghost",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3ad8c7AB6b731045b5b16E3fDf77975c71ABe79",
+      "symbol": "DINERO",
+      "name": "DINERO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13760,
-    "minor": 13760,
+    "major": 13761,
+    "minor": 13761,
     "patch": 86
   }
 }
