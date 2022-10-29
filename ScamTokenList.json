@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe0aC26c7a2A3511458B147F1F5B23E7F399B7fa8",
-      "symbol": "MFLY",
-      "name": "MonarchButterfly",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE2cC690C9F1ca2d5d6EBed9f8668BFC29A1cb0c3",
       "symbol": "ARTEMIS",
       "name": "ARTEMIS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA74D9cD0D1523f9Ae15B5056169C3bC20173207d",
+      "symbol": "TROGE",
+      "name": "TrumpDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13810,
-    "minor": 13810,
+    "major": 13811,
+    "minor": 13811,
     "patch": 86
   }
 }
