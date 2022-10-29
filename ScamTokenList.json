@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56fB359781e5053140F204e8990F3B218D9B82A9",
-      "symbol": "ATARI",
-      "name": "Atari",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69e8563100BB0450e0Bd19874F6B321b719B505C",
       "symbol": "TWIBA",
       "name": "TwibaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f35792319bBcAaE759bd67CcbF43C297Afb1a7F",
+      "symbol": "MTSHU",
+      "name": "MTShuToken",
+      "decimals": 15,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13854,
-    "minor": 13854,
+    "major": 13855,
+    "minor": 13855,
     "patch": 86
   }
 }
