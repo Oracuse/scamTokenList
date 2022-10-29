@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDC24f5F1475c72F0129D325d89F61B4059Adba04",
-      "symbol": "SENSO",
-      "name": "Senso",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8cB6867A7D3Ec99Db73cEdF16EF26AA36B2c1198",
       "symbol": "GO",
       "name": "GAMEONE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCA786aFF2d57727fE6Ee6b3985D24d7Ed56a6e6E",
+      "symbol": "BJN",
+      "name": "BENJAMIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13646,
-    "minor": 13646,
+    "major": 13647,
+    "minor": 13647,
     "patch": 86
   }
 }
