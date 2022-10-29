@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9f8DcaA4404020753A36bA65246E9127e7A20038",
-      "symbol": "CEZ",
-      "name": "Cezms",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC78239c00491257623A84c86C3f1D66790BEce82",
       "symbol": "JAHA",
       "name": "CityOfLight",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe46B0fb51bFf23C479711E843284DE8685391CAC",
+      "symbol": "CRYPTOTWITTER",
+      "name": "CryptoTwitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13684,
-    "minor": 13684,
+    "major": 13685,
+    "minor": 13685,
     "patch": 86
   }
 }
