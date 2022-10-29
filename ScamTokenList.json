@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3EB2b656F08ee8B576858717e27f02bD5A64B403",
-      "symbol": "TRUTH",
-      "name": "TRUTH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6FfabCf2Aa9Df7C13F23536F7C6249D0A4a4a87b",
       "symbol": "SNAKE",
       "name": "TehWhiteSnake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7950F7719244C864e32d273e886B5366C6361c02",
+      "symbol": "STELLAR",
+      "name": "Interstellar",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13780,
-    "minor": 13780,
+    "major": 13781,
+    "minor": 13781,
     "patch": 86
   }
 }
