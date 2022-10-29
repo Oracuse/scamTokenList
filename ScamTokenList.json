@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x020BA04CB70fCaEeEed4105a0A90A2a49f67F4a2",
-      "symbol": "PORTAL",
-      "name": "PortalEthereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe0aC26c7a2A3511458B147F1F5B23E7F399B7fa8",
       "symbol": "MFLY",
       "name": "MonarchButterfly",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2399b6d1e26814CD93803706e9355eC260822B00",
+      "symbol": "POL",
+      "name": "ProofOfLoyalty",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13809,
-    "minor": 13809,
+    "major": 13810,
+    "minor": 13810,
     "patch": 86
   }
 }
