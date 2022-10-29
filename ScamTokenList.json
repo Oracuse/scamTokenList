@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEDE9d220EaB41F534644Aff28b5495e297D0ce23",
-      "symbol": "RISE",
-      "name": "RiseOfETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x58c7e50a33D12509528a0FFe7074ead855d5cd9A",
       "symbol": "HESTIA",
       "name": "Hestia",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcE950e6420d9C4784e283116E0D3918CE8C5a056",
+      "symbol": "JD",
+      "name": "JackDorseyINU",
+      "decimals": 2,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13709,
-    "minor": 13709,
+    "major": 13710,
+    "minor": 13710,
     "patch": 86
   }
 }
