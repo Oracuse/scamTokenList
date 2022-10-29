@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2090c47f206c97CF9e47Da815e630ECc1D4f93ED",
-      "symbol": "RVN",
-      "name": "Raven",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3EB2b656F08ee8B576858717e27f02bD5A64B403",
       "symbol": "TRUTH",
       "name": "TRUTH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3736847f5E77Ec3ac5767aB0A7136640Eef0a35E",
+      "symbol": "BAKEDBREAD",
+      "name": "BakedBread",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13779,
-    "minor": 13779,
+    "major": 13780,
+    "minor": 13780,
     "patch": 86
   }
 }
