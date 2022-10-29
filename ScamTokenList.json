@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE2cC690C9F1ca2d5d6EBed9f8668BFC29A1cb0c3",
-      "symbol": "ARTEMIS",
-      "name": "ARTEMIS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x55d738388D4d4BA09EbE8F18019C6EC2C0c29771",
       "symbol": "LASTWISH",
       "name": "LASTWISH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAE85B73C73db3acbFd18bB50256A0B6277812770",
+      "symbol": "MAKEMEMEGREATAGAIN",
+      "name": "ProofofMeme",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13811,
-    "minor": 13811,
+    "major": 13812,
+    "minor": 13812,
     "patch": 86
   }
 }
