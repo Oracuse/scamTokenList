@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB3c7261bfb25F1416E7276D2Ae96c05a037a3D62",
-      "symbol": "TSUCHIHASHI",
-      "name": "Tsuchihashi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x58BA025b08cE400c8b8b0D075Dccfce6F31e5076",
       "symbol": "QINYUN",
       "name": "Clouds",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD19aCd712e2be0bf662B00008862eF2C9c36e8c7",
+      "symbol": "GC",
+      "name": "GreenCandle",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13766,
-    "minor": 13766,
+    "major": 13767,
+    "minor": 13767,
     "patch": 86
   }
 }
