@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2C3d0290B0049d9FEfb79985d7bBa7Df06213D7C",
-      "symbol": "VAPOR",
-      "name": "Vapor",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEdD18bF48a5F58D50c2F7E74e74442d92f1D6018",
       "symbol": "GENKIDESU",
       "name": "GenkiDesu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x504291c9e4FF79A8ABf532DbA95c0d24fA5E6DFF",
+      "symbol": "JOE",
+      "name": "SleepyJoe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13848,
-    "minor": 13848,
+    "major": 13849,
+    "minor": 13849,
     "patch": 86
   }
 }
