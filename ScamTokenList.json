@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3332e830063fBCA627CE0C511653b1a119494F90",
-      "symbol": "SHIBBER",
-      "name": "SHIBBER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x18AaE3953d5205a6D6FD28F845eFF5AD0657B8Cb",
       "symbol": "AMATERATSU",
       "name": "AmaterasuOmikami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa680DE73e15D7cC3723dacf4e9d7aa2B888bC1B5",
+      "symbol": "DODARUMA",
+      "name": "DarumaDoll",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13649,
-    "minor": 13649,
+    "major": 13650,
+    "minor": 13650,
     "patch": 86
   }
 }
