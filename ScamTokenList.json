@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9a397463D5351BD0Aec704Ab15095B1DA0d1fD9a",
-      "symbol": "DCBURN",
-      "name": "DogeChainBurn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15698266257a50f249F270CD8a7AB178f871D4a7",
       "symbol": "ARRAY",
       "name": "ARRAY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCb6AE8F42aD624d5B16B104b4fAc2eF36F4a249f",
+      "symbol": "SACRIFICE",
+      "name": "SacrifisesforPeace",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13673,
-    "minor": 13673,
+    "major": 13674,
+    "minor": 13674,
     "patch": 86
   }
 }
