@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcDC04aa2EcCBDBDEcB48293e4beB6d7e5a448305",
-      "symbol": "AMATERATSU",
-      "name": "AmaterasuOmikami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5718898E3aC07300662f9E80D2A9be477fc824fc",
       "symbol": "OUTOFORDER",
       "name": "OutOfOrder",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf880E2C9F86C93619DFB64F1dB68a0CbbB525D7e",
+      "symbol": "SEN",
+      "name": "SendElonProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13651,
-    "minor": 13651,
+    "major": 13652,
+    "minor": 13652,
     "patch": 86
   }
 }
