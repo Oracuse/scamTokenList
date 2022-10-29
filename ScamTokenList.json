@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x805FCBd5D9723D80Ef7286B416bf230d9A5Bc0b8",
-      "symbol": "DRINU",
-      "name": "DragonInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0c1868405D62844f4BE66F3c2b9E7292B5Bf27C9",
       "symbol": "SOUL",
       "name": "SOUL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAeEe218354B6758ce892F8f19b717a431B139540",
+      "symbol": "SERA",
+      "name": "Seraph",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13792,
-    "minor": 13792,
+    "major": 13793,
+    "minor": 13793,
     "patch": 86
   }
 }
