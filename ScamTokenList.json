@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98B801b51DC66716Bc2AF226c8A72856Cf2e4773",
-      "symbol": "TEST",
-      "name": "test",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82E9257e0861F5cFCD090524109f81b50cb6ca18",
       "symbol": "ENGIMONO",
       "name": "Engimono",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB54c56113db92A4fcAc9fe129A2ef9CeF001C31e",
+      "symbol": "BIRD",
+      "name": "TheBirdIsFreed",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13795,
-    "minor": 13795,
+    "major": 13796,
+    "minor": 13796,
     "patch": 86
   }
 }
