@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e9afbf1cC068404340495622bbb0e16a6BBee08",
-      "symbol": "WASTE",
-      "name": "ToxicWaste",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28007c6E1F343Ffbbe4B38ea53EEC7690444c96D",
       "symbol": "EYE",
       "name": "Bullseye",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9b74e5f538972f21F9721Afe7955877815684534",
+      "symbol": "FOKI",
+      "name": "FadedFloki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13758,
-    "minor": 13758,
+    "major": 13759,
+    "minor": 13759,
     "patch": 86
   }
 }
