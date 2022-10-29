@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF101cDc7bfE508388004f725F65c759688B4804A",
-      "symbol": "ARS",
-      "name": "ArsToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8148F12028BD4D9ECaA8eC3Fd584BB3eFabC3DBf",
       "symbol": "SAZUKA",
       "name": "SazukaNakamoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xef1bBE7099556193bB29E45f7A41AD2349a8B657",
+      "symbol": "TINK",
+      "name": "Tinker",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13835,
-    "minor": 13835,
+    "major": 13836,
+    "minor": 13836,
     "patch": 86
   }
 }
