@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x049d101FeEcbd6a1906e526E641Fd4411b0e1882",
-      "symbol": "SHIBUI",
-      "name": "ShibuiToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDc8a12530FAbD8360d3FD7B88180315885559a0c",
       "symbol": "WESNOP",
       "name": "WESNOP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFE781a8246474ADd99a1A06e15b31dBDC471FFCe",
+      "symbol": "TWOGE",
+      "name": "TwitterDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13703,
-    "minor": 13703,
+    "major": 13704,
+    "minor": 13704,
     "patch": 86
   }
 }
