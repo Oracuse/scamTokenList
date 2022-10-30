@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD52710D98FAb0911eE530Bb04046EebC1f40ff1D",
-      "symbol": "DEGEN",
-      "name": "DEJITARUDEGEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB38c6f2a5e6C528ed0807b4b7aC536cEaf5c3c11",
       "symbol": "YUMI",
       "name": "DejitaruYumi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbA26498f1f860b9E25aE362178496782d9257C7B",
+      "symbol": "DOGEX",
+      "name": "DogeX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13964,
-    "minor": 13964,
+    "major": 13965,
+    "minor": 13965,
     "patch": 86
   }
 }
