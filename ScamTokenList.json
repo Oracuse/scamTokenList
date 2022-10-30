@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc6F20EEB02728b68324c7574015b828e11427786",
-      "symbol": "GOJUN",
-      "name": "DejitaruGojun",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDc9B3AA6396979689CbEAF8094578E30F20418f0",
       "symbol": "GIGASHANGHAI",
       "name": "GigaShanghai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55469cC7D54daD79445BC4A5d1048Ae773468485",
+      "symbol": "SWEEP",
+      "name": "Sweep",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13968,
-    "minor": 13968,
+    "major": 13969,
+    "minor": 13969,
     "patch": 86
   }
 }
