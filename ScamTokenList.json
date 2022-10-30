@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x310724C88dA48DFB4304cDc57F78a437cf3e7f23",
-      "symbol": "KURASHIB",
-      "name": "KurashikkuShibaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3924A38b90aC6BA65F43f36239071a15e400f3d5",
       "symbol": "ABOVE",
       "name": "WeAbove",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90CF218A0E61a9B181d76cA546e33619A3a80F10",
+      "symbol": "FREEDOM",
+      "name": "FreeTrump",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14019,
-    "minor": 14019,
+    "major": 14020,
+    "minor": 14020,
     "patch": 86
   }
 }
