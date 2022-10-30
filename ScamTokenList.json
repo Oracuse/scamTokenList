@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcC0370211ECD638b3Ae4AC3C429Cc42C98711fa0",
-      "symbol": "TOPGPUMP",
-      "name": "TopGPump",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7496D90a0404B9Ea301493c6349aE25cf9A726E3",
       "symbol": "DERYOSHI",
       "name": "DejitaruRyoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26111ef7489BFF91dc8d44F1e9d2509fE0a42F1f",
+      "symbol": "MIYA",
+      "name": "MIYA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13976,
-    "minor": 13976,
+    "major": 13977,
+    "minor": 13977,
     "patch": 86
   }
 }
