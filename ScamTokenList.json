@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEF0C4f3fB4d241C2922FF15EebFa2FefF3a50669",
-      "symbol": "SENPAIINU",
-      "name": "SenpaiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x580DD328e41F7e09720854dF7C0f0231d640a776",
       "symbol": "BYAKKO",
       "name": "DejitaruByakko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30bD9dB0101d6A6b30B994f67187B8fa06183cbe",
+      "symbol": "DOGEI",
+      "name": "DOGEInc",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14001,
-    "minor": 14001,
+    "major": 14002,
+    "minor": 14002,
     "patch": 86
   }
 }
