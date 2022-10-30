@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDCcBF2a8b74BE03561695B40E97cB77D3a544832",
-      "symbol": "REKTOPIA",
-      "name": "TheREKTIsland",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9BCCd8AFC3782F7768ddCaDA01ec76740F857df9",
       "symbol": "MOMOTARO",
       "name": "ThetaleofMomotaro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb944d7cEf3bbe24cA7367f4079b916c5465d3C47",
+      "symbol": "BURN",
+      "name": "MrBurnsToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13934,
-    "minor": 13934,
+    "major": 13935,
+    "minor": 13935,
     "patch": 86
   }
 }
