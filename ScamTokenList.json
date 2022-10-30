@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa445D5c9AB9D41dc2F2b4153d47a46b3E2E77B2F",
-      "symbol": "DEJI",
-      "name": "Dejitaru",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x014B988f062f239f1e9475A509B51F09Eb4681c1",
       "symbol": "MACHI",
       "name": "Muromachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6D5A969c8c07E633A9Cd9B746A2C9E84f298E9f1",
+      "symbol": "KABOSU",
+      "name": "KABOSU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13961,
-    "minor": 13961,
+    "major": 13962,
+    "minor": 13962,
     "patch": 86
   }
 }
