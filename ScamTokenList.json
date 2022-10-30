@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x52B6B972d50A25c1F29E1E243e6E4F070704d447",
-      "symbol": "CAFE",
-      "name": "CafeShop",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x13d1a4b4879ffF74dBc68309FD98252Cf2AF723D",
       "symbol": "YUKI",
       "name": "YukiOnna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAB84E430999d9f07D96D0196Ad7eDF585b757E1f",
+      "symbol": "FKRUEGER",
+      "name": "TheNightmare",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14024,
-    "minor": 14024,
+    "major": 14025,
+    "minor": 14025,
     "patch": 86
   }
 }
