@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8D8c8D4cb84bcE686b9d7c345206034dcb9CFd50",
-      "symbol": "NEVER",
-      "name": "Surrender",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6a7C16dE5D26e2B4fb9CEe8BEEBD8EB0576560db",
       "symbol": "SELLSAREGAY",
       "name": "SellersGetREKT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d62d5e4632a8d1aB8dbFeD646e8b26BCFF84598",
+      "symbol": "TWIKI",
+      "name": "TwitterFloki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13930,
-    "minor": 13930,
+    "major": 13931,
+    "minor": 13931,
     "patch": 86
   }
 }
