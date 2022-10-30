@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7dA6700080C293D8B51850800c5f5aA795d07c43",
-      "symbol": "FLOKIMOTO",
-      "name": "SatoshiFlokomoto",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFA660e636c8fF5609dDf3AF103654eAA94AF64B1",
       "symbol": "HKO",
       "name": "Hachiko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2541914e695B9367F658123F1bE41cf3dB8B7b6",
+      "symbol": "DWEEN",
+      "name": "DogeWeen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13983,
-    "minor": 13983,
+    "major": 13984,
+    "minor": 13984,
     "patch": 86
   }
 }
