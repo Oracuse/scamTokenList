@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0c57F2eD83BFba0167863FE85A91C8fF5cCDD523",
-      "symbol": "PRS",
-      "name": "Patronus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa445D5c9AB9D41dc2F2b4153d47a46b3E2E77B2F",
       "symbol": "DEJI",
       "name": "Dejitaru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed0aDB32eAbBce4aE0ca461B4c8B12cD1ec2010B",
+      "symbol": "VY",
+      "name": "Vanity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13960,
-    "minor": 13960,
+    "major": 13961,
+    "minor": 13961,
     "patch": 86
   }
 }
