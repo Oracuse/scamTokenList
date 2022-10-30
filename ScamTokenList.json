@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1e60746ef60985Be8d87E32A1b39715a12de60a7",
-      "symbol": "BTC25K",
-      "name": "BTC25K",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE98905cf0538538a2ec89bc7BA4a4334B4f474Dc",
       "symbol": "DREAM",
       "name": "Requiem",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E7cFeB7B4B9223Af0bC8768080f5E8d08294608",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13943,
-    "minor": 13943,
+    "major": 13944,
+    "minor": 13944,
     "patch": 86
   }
 }
