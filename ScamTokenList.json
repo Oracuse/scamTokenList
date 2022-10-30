@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7496D90a0404B9Ea301493c6349aE25cf9A726E3",
-      "symbol": "DERYOSHI",
-      "name": "DejitaruRyoshi",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x596C302139233590478fb392c4f8522ecDB23bc5",
       "symbol": "YAMATANOOROCHI",
       "name": "YAMATANOOROCHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F70939df42a3D47a6Cd148fe12C361f381e5440",
+      "symbol": "SWEEP",
+      "name": "SWEEPSTAKES",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13977,
-    "minor": 13977,
+    "major": 13978,
+    "minor": 13978,
     "patch": 86
   }
 }
