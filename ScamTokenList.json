@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD630be6768e9A2284d5c597c729C401a8D19a232",
-      "symbol": "ABDUCTION",
-      "name": "ABDUCTION",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4d1288Ef5F8f37d18925a9478A3f48f5b02Df543",
       "symbol": "MAIKITA",
       "name": "MAIKITA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1026850D27129079ff49B8E9a77b3CC1D4c89b32",
+      "symbol": "HONOR",
+      "name": "NeoTokyo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14005,
-    "minor": 14005,
+    "major": 14006,
+    "minor": 14006,
     "patch": 86
   }
 }
