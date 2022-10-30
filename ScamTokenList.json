@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbE73Cf668061B8669C39c58A70238bA9739848d2",
-      "symbol": "TURBINE",
-      "name": "TheGenerator",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x54D087e8619198B4cEb374023A3D1742Cb2D061f",
       "symbol": "SBBU",
       "name": "Nihilism",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65a01937b4250f8298e7Ab45430B2CF404857ee8",
+      "symbol": "DOGE1",
+      "name": "Doge1",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14044,
-    "minor": 14044,
+    "major": 14045,
+    "minor": 14045,
     "patch": 86
   }
 }
