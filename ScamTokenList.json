@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa55f8F29A4DC65877f484320eeCa2B6F5e8BbB58",
-      "symbol": "DEGENGAMES",
-      "name": "DEGENGAMES",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x555A451eABf31219a9C6211DCD07c5D5CF13990A",
       "symbol": "PRIME",
       "name": "Optimus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F6EDEf58716a1d7c5657EbB495e0Ce758D7A176",
+      "symbol": "CHERUB",
+      "name": "Cherub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13899,
-    "minor": 13899,
+    "major": 13900,
+    "minor": 13900,
     "patch": 86
   }
 }
