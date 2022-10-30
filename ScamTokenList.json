@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcd3E25644a2E1758948e1e55D48A46d56245DE3E",
-      "symbol": "GENBUINU",
-      "name": "GenbuInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd4b036a9E15Df8d0c93610F19432CdB773161D9c",
       "symbol": "KIMARU",
       "name": "KitanaMaru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x972EC8f73C0C122126ddA0bC6607A5B59320F587",
+      "symbol": "SUZUREN",
+      "name": "SUZUREN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13998,
-    "minor": 13998,
+    "major": 13999,
+    "minor": 13999,
     "patch": 86
   }
 }
