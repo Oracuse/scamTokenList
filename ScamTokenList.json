@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbF0D0d941f91Eee49a4b1ad0569e3008B0eF2df9",
-      "symbol": "BUSHIDO",
-      "name": "Bushido",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2bb183fba59618482be4C99735b988D0155BbFF2",
       "symbol": "LIBRA",
       "name": "Libreum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x102c598Ab0D03A1686687deE60e498C8c6c2AB56",
+      "symbol": "OP",
+      "name": "OPINIONSPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13889,
-    "minor": 13889,
+    "major": 13890,
+    "minor": 13890,
     "patch": 86
   }
 }
