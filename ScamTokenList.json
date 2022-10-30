@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x29fB9cBAf90e3A7E786B3006a7539651810F6aAd",
-      "symbol": "JIJI",
-      "name": "Jiisan",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x811C6964D68B7F4eCf8E5d6752C698a6F8BC5b64",
       "symbol": "FAMIGLIA",
       "name": "TheMafia",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f9E5DC87bD08ACadccAb95C2f1dD87D8dCc3A4E",
+      "symbol": "MACABRE",
+      "name": "Macabre",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14010,
-    "minor": 14010,
+    "major": 14011,
+    "minor": 14011,
     "patch": 86
   }
 }
