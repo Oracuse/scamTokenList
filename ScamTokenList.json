@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2bb183fba59618482be4C99735b988D0155BbFF2",
-      "symbol": "LIBRA",
-      "name": "Libreum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x02d8a3ca3453a17F84bfa9b73952242c59672951",
       "symbol": "TOKEN",
       "name": "token",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6355b9AB7dC3Cb0d0822dD52f82Cc500013F739",
+      "symbol": "CRP",
+      "name": "CryptoRegulationPro",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13890,
-    "minor": 13890,
+    "major": 13891,
+    "minor": 13891,
     "patch": 86
   }
 }
