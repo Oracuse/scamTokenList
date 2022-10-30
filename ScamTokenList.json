@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfeacD98098d575aA03EF249e2AA7dE0bC740F8CF",
-      "symbol": "TRIANGLE",
-      "name": "Triangle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe76aE54B45402febc2a8f828d9Ca7cca89C7B3FE",
       "symbol": "VIBE",
       "name": "VitaliksBulge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBb02Ac35Be518ba1dBf8965e556508C3059B78Bb",
+      "symbol": "FOCOL",
+      "name": "FadedProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13875,
-    "minor": 13875,
+    "major": 13876,
+    "minor": 13876,
     "patch": 86
   }
 }
