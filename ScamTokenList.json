@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x474eD138c898c327ceC6a8dDbCa51449710bf56C",
-      "symbol": "DRGN",
-      "name": "DORAGON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9B1aD436E26f1d70a7a3a11530c858FCceD8cd9F",
       "symbol": "SBBU",
       "name": "Nihilism",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x112D495A673a8C05aAedC1e293ebd84FDa5dc9a8",
+      "symbol": "CYCLES",
+      "name": "HeroToVillain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14047,
-    "minor": 14047,
+    "major": 14048,
+    "minor": 14048,
     "patch": 86
   }
 }
