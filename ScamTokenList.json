@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdD73e8b8F311aBb5D44378961C1BF24D162c5a71",
-      "symbol": "RONIN47",
-      "name": "RONIN47",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3b67b058E5d3D00d4C95030eAC4db7deb3188E12",
       "symbol": "LAVAROCK",
       "name": "Lavarock",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0804B30FeCC544a36f875A79A09BA1Da4542c46F",
+      "symbol": "SUDO",
+      "name": "Sudo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14049,
-    "minor": 14049,
+    "major": 14050,
+    "minor": 14050,
     "patch": 86
   }
 }
