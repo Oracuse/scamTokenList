@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB1bB5F6F528a8d5bb21DC69A9121AE5d59F73992",
-      "symbol": "GENBU",
-      "name": "DejitaruGenbu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaAAA70D222366AFa5AbD0e3EFe61c73339ca7846",
       "symbol": "NONAME",
       "name": "NoName",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1372953a13fB5A8Fe6e45BD416D7c37C7C1EE7d",
+      "symbol": "WCS",
+      "name": "WorldCupShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13952,
-    "minor": 13952,
+    "major": 13953,
+    "minor": 13953,
     "patch": 86
   }
 }
