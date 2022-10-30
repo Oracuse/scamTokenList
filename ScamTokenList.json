@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9ceD019e557279a01C4A1D0b3EF2261a1a243bd9",
-      "symbol": "LIMITLESS",
-      "name": "LIMITLESS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x53295824602Eed7B7d9E5bdfC071fb0ccf1cBc7c",
       "symbol": "ININU",
       "name": "IndraInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6BCdbf01Cd868310F01D1ac39ae77c06Abf61fcA",
+      "symbol": "FINRA",
+      "name": "FINRA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13924,
-    "minor": 13924,
+    "major": 13925,
+    "minor": 13925,
     "patch": 86
   }
 }
