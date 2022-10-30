@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3475680d79A2F00891AfA86b89f81C05a08f1D2A",
-      "symbol": "ANID",
-      "name": "ANationInDecline",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDeF489Ff7A9F64197A5ad7E59f88c4D00374c2e9",
       "symbol": "REAP",
       "name": "SowandReap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDFD890dF44D555CACb6ADfebFB2eE49e56b6BAaB",
+      "symbol": "M101",
+      "name": "M101Protocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13937,
-    "minor": 13937,
+    "major": 13938,
+    "minor": 13938,
     "patch": 86
   }
 }
