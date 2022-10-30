@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x382e4BeE93D45942B40ebe58b8840B31011A5230",
-      "symbol": "PEPEHOBO",
-      "name": "PepeHobo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x52B6B972d50A25c1F29E1E243e6E4F070704d447",
       "symbol": "CAFE",
       "name": "CafeShop",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb49e1b99dC3E2CE91970BF3bDc74C8f3f9CbF41C",
+      "symbol": "WGMI",
+      "name": "WGMI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14023,
-    "minor": 14023,
+    "major": 14024,
+    "minor": 14024,
     "patch": 86
   }
 }
