@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x555A451eABf31219a9C6211DCD07c5D5CF13990A",
-      "symbol": "PRIME",
-      "name": "Optimus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x078410Ba85225f4aC58920fD95fcC2Ac60C1B8A0",
       "symbol": "PRIME",
       "name": "Optimus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFF41e56F5d22C7112c260cA597a3C392b51C01df",
+      "symbol": "BBB",
+      "name": "ByeByeBirdie",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13900,
-    "minor": 13900,
+    "major": 13901,
+    "minor": 13901,
     "patch": 86
   }
 }
