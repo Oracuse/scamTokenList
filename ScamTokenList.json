@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa498063D65ac46AF24b6C11900aFfc2217baDE5f",
-      "symbol": "SPHERE",
-      "name": "Sphere",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA0eCA247c3e5173db5050f945aB12F7bfE3BbE9D",
       "symbol": "EVLV",
       "name": "Evolve",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1bF0246A5eD1005A20c5A21131A2bB1C33B13CCE",
+      "symbol": "DOGEN",
+      "name": "DegenDogen",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13878,
-    "minor": 13878,
+    "major": 13879,
+    "minor": 13879,
     "patch": 86
   }
 }
