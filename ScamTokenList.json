@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3d5C7d417c839840f6402dCb8Bd4f5c9984E4cE3",
-      "symbol": "ORTHRUSINU",
-      "name": "OrthrusInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEF0C4f3fB4d241C2922FF15EebFa2FefF3a50669",
       "symbol": "SENPAIINU",
       "name": "SenpaiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x153b2D878DC411fF37D1Fa3990E8e543f4d5EFf8",
+      "symbol": "DOT",
+      "name": "DogeonTwitter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14000,
-    "minor": 14000,
+    "major": 14001,
+    "minor": 14001,
     "patch": 86
   }
 }
