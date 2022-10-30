@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67A5575C32F0f54A5aB663B6e1b308356d22Cd37",
-      "symbol": "AZUMI",
-      "name": "SafeResidence",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x12c6Bb6d9C0Dcc35277e5a1f7788C796A2C26Dbf",
       "symbol": "TANUKI",
       "name": "Tanuki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBA5bf3fbC05cB205407ca0Ab3255BD8de0f96c84",
+      "symbol": "TRADINGFEES0",
+      "name": "TradingFees0",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13991,
-    "minor": 13991,
+    "major": 13992,
+    "minor": 13992,
     "patch": 86
   }
 }
