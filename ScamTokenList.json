@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5D30596EB3e0B6c5F64B945eCd46a654D42ec6e9",
-      "symbol": "SHIB",
-      "name": "ShinaIbu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x29fB9cBAf90e3A7E786B3006a7539651810F6aAd",
       "symbol": "JIJI",
       "name": "Jiisan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x593E29aFcD0257Aa2aFfA29E342275a625F37901",
+      "symbol": "NGMI",
+      "name": "NGMI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14009,
-    "minor": 14009,
+    "major": 14010,
+    "minor": 14010,
     "patch": 86
   }
 }
