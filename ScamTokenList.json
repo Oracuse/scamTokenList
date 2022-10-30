@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76a3302D2F52648f41D6b571F16D54F0157475Ec",
-      "symbol": "DANGER",
-      "name": "Awaken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3A59a8aB39787EA1259f45b81F042CE8a7c738d9",
       "symbol": "PHONE",
       "name": "Phone2Earn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeeaC5f9C79DAd0cDFfC8F0f12DaDA337BADA382D",
+      "symbol": "TRAP",
+      "name": "TRAP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13869,
-    "minor": 13869,
+    "major": 13870,
+    "minor": 13870,
     "patch": 86
   }
 }
