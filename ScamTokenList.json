@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcd0F1236834dc5dbE4b6Ea0Ea71718bAE1E007B7",
-      "symbol": "PYRAMID",
-      "name": "ModernPyramid",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3a9e1B844618A344578Df9EfDEa81e1f3374e936",
       "symbol": "PANT",
       "name": "PantherInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDd6e47E12d48D495eB21e4B0aE1d1277DC5394f0",
+      "symbol": "FRIENDLY",
+      "name": "CaspertheGhost",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14026,
-    "minor": 14026,
+    "major": 14027,
+    "minor": 14027,
     "patch": 86
   }
 }
