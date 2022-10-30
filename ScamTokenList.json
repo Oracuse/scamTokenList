@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x359a42f645B8e255B1aBF4cC001093c7E0ef286d",
-      "symbol": "PORTAL",
-      "name": "PortalEthereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC039C5966D3bE2C47258bf6Cb45c3cE8fE005aaa",
       "symbol": "BDS",
       "name": "Kokuryukai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x222Aae740af9EdA14226F4A2a6dA88136457f1d2",
+      "symbol": "SYCC",
+      "name": "SuperYachtCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13909,
-    "minor": 13909,
+    "major": 13910,
+    "minor": 13910,
     "patch": 86
   }
 }
