@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcd62E943A859479A6D325836D273A6B43e71F0f2",
-      "symbol": "SHORTSQUEEZE",
-      "name": "ShortSqueeze",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x258E3728824Cf2B8883089cAB301D097b0F3eeB8",
       "symbol": "RIYFRUITS",
       "name": "Riyfruits",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC060AB35c5e165BE92C33d70E4656Bdb440Fe2C3",
+      "symbol": "HOGE",
+      "name": "HalloweenDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13887,
-    "minor": 13887,
+    "major": 13888,
+    "minor": 13888,
     "patch": 86
   }
 }
