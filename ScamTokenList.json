@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x451FE7014dAbe705aEbF97aeE5320dc2AA4806c0",
-      "symbol": "PLASMA",
-      "name": "Plasma",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Dc70B17b1F69E45992f22cd086082EDbCCC1bf2",
       "symbol": "HRD",
       "name": "HOARD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdD43F4c11Fa3526246a876169735610EBdCd550B",
+      "symbol": "CPDG",
+      "name": "CyberpunkDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13917,
-    "minor": 13917,
+    "major": 13918,
+    "minor": 13918,
     "patch": 86
   }
 }
