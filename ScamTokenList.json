@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x438B04A00f72Ca0739b5b92F0aBf34e8e9506eB2",
-      "symbol": "GUCCI",
-      "name": "GucciCoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE3fEE317111Ebf30030f9Fbc600E32f3C9410B13",
       "symbol": "DEPARTURE",
       "name": "Departure",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5f9F88371f7d2cF7D7AA4e940e5CcFFfc3258fe",
+      "symbol": "FTL",
+      "name": "Fractaland",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14007,
-    "minor": 14007,
+    "major": 14008,
+    "minor": 14008,
     "patch": 86
   }
 }
