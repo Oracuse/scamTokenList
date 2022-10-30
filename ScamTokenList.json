@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x41be9509Ef515dfFB6375c6AD1a53F0B80D4Fa0f",
-      "symbol": "CHIKO",
-      "name": "CHIKODAI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9F5fCF4d88f389579E29f67Be57cCb2dDD953029",
       "symbol": "OMNOM",
       "name": "DogeEatDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc146Fd5Af843e5ddDb53339819F3f61177DCfa97",
+      "symbol": "NGMI",
+      "name": "NGMI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14021,
-    "minor": 14021,
+    "major": 14022,
+    "minor": 14022,
     "patch": 86
   }
 }
