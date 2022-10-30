@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf4708b8Fc0AC16e63ce8A1a9Aacfe2EE73c38c9f",
-      "symbol": "PULSE",
-      "name": "PulseEther",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbE73Cf668061B8669C39c58A70238bA9739848d2",
       "symbol": "TURBINE",
       "name": "TheGenerator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbed8b42c2768e2Ef363984Fa6d0dbe8cFA344C7",
+      "symbol": "HTV",
+      "name": "HerotoVillain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14043,
-    "minor": 14043,
+    "major": 14044,
+    "minor": 14044,
     "patch": 86
   }
 }
