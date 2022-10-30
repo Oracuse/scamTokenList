@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd7146160F6f45706d1Cd5d2e72f61D4Ea4b6d445",
-      "symbol": "SUZU",
-      "name": "Suzushib",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdA74A24C37e74948305a4e4B435eE9b86B7B6f61",
       "symbol": "CHINXI",
       "name": "DejitaruChinxi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c808aF59FBD0985C2995F8E474471ef7cD026c9",
+      "symbol": "GEA",
+      "name": "Hydrangea",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14012,
-    "minor": 14012,
+    "major": 14013,
+    "minor": 14013,
     "patch": 86
   }
 }
