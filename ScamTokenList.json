@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC21A2200D5551F8Bb6Fc937e54e9Bf46814fbDF7",
-      "symbol": "GOTCHU",
-      "name": "Gotchu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x830Ef71DdE11fA437d91e663498d1CB8Edf8cc2D",
       "symbol": "BLINK",
       "name": "BlackPinkInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x078A3786604056B3484c8389208d73014b01Dc8d",
+      "symbol": "JPI",
+      "name": "JakePaulInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13903,
-    "minor": 13903,
+    "major": 13904,
+    "minor": 13904,
     "patch": 86
   }
 }
