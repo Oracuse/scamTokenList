@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4d1288Ef5F8f37d18925a9478A3f48f5b02Df543",
-      "symbol": "MAIKITA",
-      "name": "MAIKITA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x438B04A00f72Ca0739b5b92F0aBf34e8e9506eB2",
       "symbol": "GUCCI",
       "name": "GucciCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD286E9c4dc8F5BE57Dd7469bf6fF98B2405b6318",
+      "symbol": "DBIRD",
+      "name": "DogeBird",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14006,
-    "minor": 14006,
+    "major": 14007,
+    "minor": 14007,
     "patch": 86
   }
 }
