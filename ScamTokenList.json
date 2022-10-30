@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x688564c01607e4229Cf60fAcF88FDf568dBb3536",
-      "symbol": "CRYS",
-      "name": "CHRYSALIS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5cf68eD7922681a9f37570fC8ec92bE2202688bE",
       "symbol": "ATTACK",
       "name": "WarriorsWrath",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4520Aa84fC7FA498f84444Cf71725Fde0f7580D",
+      "symbol": "GHOSTOFSATOSHI",
+      "name": "GhostofSatoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13986,
-    "minor": 13986,
+    "major": 13987,
+    "minor": 13987,
     "patch": 86
   }
 }
