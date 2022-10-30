@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7A95a28bA80d0Af4484D8036f81Fe6a1cc670D78",
-      "symbol": "TEH",
-      "name": "TEH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22167fB199682fd0af6b39f14df3093fe5Ec758C",
       "symbol": "AXE",
       "name": "AHuntersWeapon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x823Dda71Ea22D484998A3ce4300F176895c96182",
+      "symbol": "HEADLESS",
+      "name": "TheHeadlessHorseman",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14014,
-    "minor": 14014,
+    "major": 14015,
+    "minor": 14015,
     "patch": 86
   }
 }
