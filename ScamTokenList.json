@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3D54c5ab7EEd2b58d9adfB7a5844a0BA1Da21AAB",
-      "symbol": "TAMAMBA",
-      "name": "TAMAMBA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7aFf7baAF9Cb1E3beDd0dDC1bb61a1646c657083",
       "symbol": "HALSEY",
       "name": "HalseyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdC3674c286811931384BA9492A37835F35b53eFf",
+      "symbol": "FELON",
+      "name": "FALSEELON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14030,
-    "minor": 14030,
+    "major": 14031,
+    "minor": 14031,
     "patch": 86
   }
 }
