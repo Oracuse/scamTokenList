@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4B08517513FD4da2b3bb9181F408C3963B0acf43",
-      "symbol": "ICCDRAGON",
-      "name": "iCCDRAGON",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7e7Dc8A3aD563050a48a36D07C3A9455C9AF3Ab4",
       "symbol": "PHARAOH",
       "name": "PHARAOHINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36EF7A38F0fdCEe9893D3b280e5B46d48d9bcB7c",
+      "symbol": "DONTBUY",
+      "name": "DoNotBuy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13896,
-    "minor": 13896,
+    "major": 13897,
+    "minor": 13897,
     "patch": 86
   }
 }
