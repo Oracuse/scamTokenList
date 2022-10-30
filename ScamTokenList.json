@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb27F7244b3B71eD4005290bad8fCD6a3cd35eAB4",
-      "symbol": "CERBERUS",
-      "name": "ThreeHeadedDog",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0e867a654a2E64D9D75933D347ad866cCb43011",
       "symbol": "KERMIT",
       "name": "KermitGold",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3103450654A1DF2FdFe3229a93D1Db35C9EeD1E5",
+      "symbol": "DOGEPAY",
+      "name": "DogePay",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13928,
-    "minor": 13928,
+    "major": 13929,
+    "minor": 13929,
     "patch": 86
   }
 }
