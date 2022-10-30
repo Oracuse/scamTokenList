@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3924A38b90aC6BA65F43f36239071a15e400f3d5",
-      "symbol": "ABOVE",
-      "name": "WeAbove",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x41be9509Ef515dfFB6375c6AD1a53F0B80D4Fa0f",
       "symbol": "CHIKO",
       "name": "CHIKODAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9111f9b29D96D5f0e3d33b66174BCD8A31B87a8",
+      "symbol": "DRACULA",
+      "name": "DraculaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14020,
-    "minor": 14020,
+    "major": 14021,
+    "minor": 14021,
     "patch": 86
   }
 }
