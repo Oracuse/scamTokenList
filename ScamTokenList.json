@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x68144b739178Be68571E1c60DE937aEA3f643C2d",
-      "symbol": "HALO",
-      "name": "HALO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9b4cC57067E5eC4a2DbAaf4177da3BBE81F20f22",
       "symbol": "GOI",
       "name": "Nishikigoi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e764D330a5F20A40Cb17f71d1C3f9aB56068B5e",
+      "symbol": "SUKI",
+      "name": "Tsukiyomi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13979,
-    "minor": 13979,
+    "major": 13980,
+    "minor": 13980,
     "patch": 86
   }
 }
