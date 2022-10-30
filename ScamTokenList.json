@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x12c6Bb6d9C0Dcc35277e5a1f7788C796A2C26Dbf",
-      "symbol": "TANUKI",
-      "name": "Tanuki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x675750b0524c10F51Ae32209E493552fFBeC9b36",
       "symbol": "KILATIVNIRETUB",
       "name": "VitalikButerin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1C0B22f3DF27c42139A6DBcB7f7228039d69582",
+      "symbol": "RMD",
+      "name": "RMDEngine",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13992,
-    "minor": 13992,
+    "major": 13993,
+    "minor": 13993,
     "patch": 86
   }
 }
