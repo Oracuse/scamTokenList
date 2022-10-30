@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x63BD49008d89304e317e0e740757537C7Fb637d8",
-      "symbol": "CMNR",
-      "name": "Commoner",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0c57F2eD83BFba0167863FE85A91C8fF5cCDD523",
       "symbol": "PRS",
       "name": "Patronus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeE4A98E9B15A4f207d7870a625A6db41f14BeC7f",
+      "symbol": "DD",
+      "name": "DieDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 13959,
-    "minor": 13959,
+    "major": 13960,
+    "minor": 13960,
     "patch": 86
   }
 }
