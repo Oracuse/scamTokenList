@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x037A962b0aA14C9fe9d06373879997480868c2be",
-      "symbol": "THEEARTHSHAKER",
-      "name": "RaigorStonehoof",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF3a88185BF3ad05C381A563bbFd246ef417dd0b7",
       "symbol": "FLOKID",
       "name": "FlokiDao",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9592c094a3e95258FD39744F30B70C9A3476Ac4c",
+      "symbol": "UAPES",
+      "name": "UniswapApes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14003,
-    "minor": 14003,
+    "major": 14004,
+    "minor": 14004,
     "patch": 86
   }
 }
