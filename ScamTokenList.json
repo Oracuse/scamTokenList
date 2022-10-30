@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd4b036a9E15Df8d0c93610F19432CdB773161D9c",
-      "symbol": "KIMARU",
-      "name": "KitanaMaru",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3d5C7d417c839840f6402dCb8Bd4f5c9984E4cE3",
       "symbol": "ORTHRUSINU",
       "name": "OrthrusInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcb08997aDd6acE86C3D3f6ED7C253B2b62760398",
+      "symbol": "TWI",
+      "name": "TwitInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13999,
-    "minor": 13999,
+    "major": 14000,
+    "minor": 14000,
     "patch": 86
   }
 }
