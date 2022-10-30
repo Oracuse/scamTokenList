@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x580DD328e41F7e09720854dF7C0f0231d640a776",
-      "symbol": "BYAKKO",
-      "name": "DejitaruByakko",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x037A962b0aA14C9fe9d06373879997480868c2be",
       "symbol": "THEEARTHSHAKER",
       "name": "RaigorStonehoof",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5eB84684b032905706c8e82757D9EC87ded3fb3",
+      "symbol": "YAMATA",
+      "name": "YamatanoOrochi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14002,
-    "minor": 14002,
+    "major": 14003,
+    "minor": 14003,
     "patch": 86
   }
 }
