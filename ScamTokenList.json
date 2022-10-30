@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6d63Bb2eF3cc0144d13f4e2aD1b7687FE513f983",
-      "symbol": "ZAIBATSU",
-      "name": "BURAKUMINZAIBATSU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0Ab7bEa82222E287c3A006f3125158db013e9f2E",
       "symbol": "GOLDENSCALES",
       "name": "GoldenScales",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x576E326f4C01a416e1Af972376CF53cCB4a3bB99",
+      "symbol": "MKRD",
+      "name": "MakerDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 13989,
-    "minor": 13989,
+    "major": 13990,
+    "minor": 13990,
     "patch": 86
   }
 }
