@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF3a88185BF3ad05C381A563bbFd246ef417dd0b7",
-      "symbol": "FLOKID",
-      "name": "FlokiDao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD630be6768e9A2284d5c597c729C401a8D19a232",
       "symbol": "ABDUCTION",
       "name": "ABDUCTION",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC92F18eA16c317B284Bbaf84909FB8945fC7F8ec",
+      "symbol": "SHANTA",
+      "name": "ShibaSanta",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14004,
-    "minor": 14004,
+    "major": 14005,
+    "minor": 14005,
     "patch": 86
   }
 }
