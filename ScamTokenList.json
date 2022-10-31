@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfFB1f6B9A4EDc5372BEb45a30Ef5BfbCc2f9CFAc",
-      "symbol": "TUSK",
-      "name": "WalrusInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc6798C9AF6bf9338caAb52Ba101B882139951759",
       "symbol": "VINU",
       "name": "VitalikInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3dbeB33ff6dCd3f6d85798e9bc00b96C2B222Ef6",
+      "symbol": "CANDY",
+      "name": "CANDY",
+      "decimals": 4,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14157,
-    "minor": 14157,
+    "major": 14158,
+    "minor": 14158,
     "patch": 86
   }
 }
