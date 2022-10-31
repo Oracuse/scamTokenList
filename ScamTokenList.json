@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7a95c2EC722b7c75dC3860eFe984aCA91225c866",
-      "symbol": "GOKEN",
-      "name": "TenkaGoken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7a6c28d2fD74ca794699A8c020cCB39949FE88a7",
       "symbol": "FUKURO",
       "name": "TheOwl",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x291bCdf6eD4fa9DacBdb937957Ce4100EF0FC005",
+      "symbol": "DAD",
+      "name": "DadProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14106,
-    "minor": 14106,
+    "major": 14107,
+    "minor": 14107,
     "patch": 86
   }
 }
