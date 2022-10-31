@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0088d5Ee652207D88E92DADe12Af3895b4fE7Ec",
-      "symbol": "XI",
-      "name": "Onze",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9505DbbD4B6f4b31f1341a859df1e6D452FdE900",
       "symbol": "PYGML",
       "name": "Pygmalion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x897cca947d6F94Cb4BD9bE669217aa18a1e4ae2d",
+      "symbol": "MOONVEMBER",
+      "name": "Moonvember",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14182,
-    "minor": 14182,
+    "major": 14183,
+    "minor": 14183,
     "patch": 86
   }
 }
