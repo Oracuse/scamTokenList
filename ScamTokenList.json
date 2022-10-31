@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x71CA9c3d72fCb134644BE77B48E5670Cc03a5aB1",
-      "symbol": "PYRE",
-      "name": "Pyre",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x926EB3c15903503647bA119bc45D98CE0a41F70A",
       "symbol": "SAILORMOON",
       "name": "SailormoonInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x496Dc695c8CE6a72A51C4bf577287175d2CA80C2",
+      "symbol": "HFT",
+      "name": "Hashflow",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14119,
-    "minor": 14119,
+    "major": 14120,
+    "minor": 14120,
     "patch": 86
   }
 }
