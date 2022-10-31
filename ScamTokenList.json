@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdd6224c68e6c0411e9961b9E145B0fD8c4CeF01C",
-      "symbol": "MOON",
-      "name": "Houston",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x56D49c79413A0072313B1d4cFE0D3234D13decff",
       "symbol": "DOGEBOLIC",
       "name": "DogeChainBolic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44bE0FD25F54651513e19B74cE2672484A74725f",
+      "symbol": "HALLODOGE",
+      "name": "HalloweenDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14121,
-    "minor": 14121,
+    "major": 14122,
+    "minor": 14122,
     "patch": 86
   }
 }
