@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdAAE9d80Ecc6F8fE0E084997E7F89F6B055F8A53",
-      "symbol": "AEGIS",
-      "name": "CrownofImmortality",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFEEEC9b428cE38ca95D1Dba41b7b4005A6612BeF",
       "symbol": "SBP",
       "name": "ShibaBurnProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86cAcb4BBA26D8a0C33C3C14BF1f402bA9cbE97d",
+      "symbol": "FLOCKI",
+      "name": "FlockiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14171,
-    "minor": 14171,
+    "major": 14172,
+    "minor": 14172,
     "patch": 86
   }
 }
