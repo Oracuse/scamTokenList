@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x32fB0077FEbAe9F88f48f639AD74744D9CdD52bF",
-      "symbol": "MEMELAND",
-      "name": "LandOfMeme",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0dD900b95a1635EcBB7A055F5f66E4A992003750",
       "symbol": "SHONEN",
       "name": "ShonenSekai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50A4D6D7afa748D91621B1c39989200eeeD3e9Db",
+      "symbol": "APO",
+      "name": "Apotheosis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14078,
-    "minor": 14078,
+    "major": 14079,
+    "minor": 14079,
     "patch": 86
   }
 }
