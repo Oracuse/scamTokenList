@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF475F3Ad32c14bF465355eCfA268056E3439416F",
-      "symbol": "EZILLA",
-      "name": "EthZilla",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD52D4273859d795b694B3fBB8a3af2862186FB07",
       "symbol": "TAURUS",
       "name": "TheEarthCelestial",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEbc76e0407123a8ac29B851203e8A16f5BcB6728",
+      "symbol": "SALUD",
+      "name": "Cheers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14200,
-    "minor": 14200,
+    "major": 14201,
+    "minor": 14201,
     "patch": 86
   }
 }
