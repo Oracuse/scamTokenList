@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f7a890352134Eb72Ae8118e11b7d972F0799196",
-      "symbol": "HEART",
-      "name": "Kokoro",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF6263Db8371A633eE97793Dfe26c533a1eDD3920",
       "symbol": "METH",
       "name": "MegaEth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe6300A5d7C5Bf23aF11f8D85B0372A7B54a7256f",
+      "symbol": "WT3",
+      "name": "WEB3Twitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14137,
-    "minor": 14137,
+    "major": 14138,
+    "minor": 14138,
     "patch": 86
   }
 }
