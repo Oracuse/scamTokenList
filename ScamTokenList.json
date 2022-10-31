@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6C5c1Ebe6F2D9034D7B7990C82b8e286eA244375",
-      "symbol": "ANACHI",
-      "name": "Shibanachi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeC1b968588226f81b4be656a8d783dE0Fa3Ab5fe",
       "symbol": "SHIRASAKI",
       "name": "SHIRASAKI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66182EE84Ae830006145019e54b00910CDFE35e9",
+      "symbol": "DOGEN",
+      "name": "Endogen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14059,
-    "minor": 14059,
+    "major": 14060,
+    "minor": 14060,
     "patch": 86
   }
 }
