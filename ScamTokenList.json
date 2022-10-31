@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa8E3CDEDec4124FC4473D493DFBa4107a73Fb6B7",
-      "symbol": "SHILLOINU",
-      "name": "ShilloInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5F8EE763Fd6887532a308B70D272d3eA8B96E205",
       "symbol": "WETHUPOR",
       "name": "WETHUPOR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7DbaBF6F5e14ef6A0BD01dA036c9730D0F4f7aB7",
+      "symbol": "IMMO",
+      "name": "Immolation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14101,
-    "minor": 14101,
+    "major": 14102,
+    "minor": 14102,
     "patch": 86
   }
 }
