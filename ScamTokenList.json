@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x89c03fC0C3D2909939FD0be2d8b572a3028A3180",
-      "symbol": "INUI",
-      "name": "inui",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2691892D73405887f664f60c1f76ef5eaE395ec6",
       "symbol": "HYENA",
       "name": "Shenlong",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x484CB43A14393DA2C7D28f650ABa1995FaB5eAE4",
+      "symbol": "14BTC",
+      "name": "14thBtcAnniversary",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14129,
-    "minor": 14129,
+    "major": 14130,
+    "minor": 14130,
     "patch": 86
   }
 }
