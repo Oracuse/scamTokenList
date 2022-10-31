@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa264C110477f0c1ea9abd30bdbF187d2E341AD9a",
-      "symbol": "BLESS",
-      "name": "TheBlessing",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x34Dc36A75BA20b8A5d4F5fB6Dbd578561C9D811D",
       "symbol": "YUKI",
       "name": "Yukionna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52F5cA2b4B840e997E428aeee04A824940A546C1",
+      "symbol": "TELON",
+      "name": "TheElon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14064,
-    "minor": 14064,
+    "major": 14065,
+    "minor": 14065,
     "patch": 86
   }
 }
