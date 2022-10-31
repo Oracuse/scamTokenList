@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2d7eCCd2b9734A366F5E61727Df42996e074a321",
-      "symbol": "SATOSHI",
-      "name": "MissionSatoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x045d92213eac647f71838302BD1Cc6b6B6f5Cc8C",
       "symbol": "CHARIZARD",
       "name": "CHARIZARD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35212fA1d96A8b54496dB2D9F4623E6A458EF20e",
+      "symbol": "FIFA",
+      "name": "FIFAWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14081,
-    "minor": 14081,
+    "major": 14082,
+    "minor": 14082,
     "patch": 86
   }
 }
