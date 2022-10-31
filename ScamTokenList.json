@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA540561Aa4Fc34FBa5612e518d3796E7BED348A7",
-      "symbol": "PHOENIX",
-      "name": "Phoenix",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x30ec37a6A43d51ff6324d31565f4beeE1C9dD679",
       "symbol": "METADOGE",
       "name": "MetaDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4eAe7f929d7905A09661f712C61396e94a6d2698",
+      "symbol": "VINE",
+      "name": "VineProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14085,
-    "minor": 14085,
+    "major": 14086,
+    "minor": 14086,
     "patch": 86
   }
 }
