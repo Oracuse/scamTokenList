@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFF74843cc7ef15806d79D2c93f290f72224A6bcf",
-      "symbol": "PECKISH",
-      "name": "PeckishInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88700D055af228D74143dBf079532821807E163F",
       "symbol": "THEKENDO",
       "name": "THEKENDO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbfe98b147c34918434325955f9d9f05015EE4B5d",
+      "symbol": "WITCH",
+      "name": "TheWitch",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14144,
-    "minor": 14144,
+    "major": 14145,
+    "minor": 14145,
     "patch": 86
   }
 }
