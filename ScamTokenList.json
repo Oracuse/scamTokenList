@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x572195635Da410c24aD03967C070fb3E67cDB23B",
-      "symbol": "SCHRODINGERSCAT",
-      "name": "SchrodingersCat",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7D4a074DF3b32f39F33729C2A8de8cC85f0b721B",
       "symbol": "KITSUSUKI",
       "name": "Kitsusuki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x042B2001519785Ed49FA4Ba99Ac824b71a21eA76",
+      "symbol": "UPVEMBER",
+      "name": "Upvember",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14219,
-    "minor": 14219,
+    "major": 14220,
+    "minor": 14220,
     "patch": 86
   }
 }
