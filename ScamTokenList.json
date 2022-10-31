@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdE474548AC27a98d2c5798eA1469fBcF2f12C94e",
-      "symbol": "TOEH",
-      "name": "TOETANCHAMONETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4825351bE6181E243F6c2743c2f2c05778A89e3f",
       "symbol": "KAMATARI",
       "name": "TheDragonKamatari",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b2466b332530dcefe285BDd4bAAB4153465b365",
+      "symbol": "MM",
+      "name": "MintingMoney",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14162,
-    "minor": 14162,
+    "major": 14163,
+    "minor": 14163,
     "patch": 86
   }
 }
