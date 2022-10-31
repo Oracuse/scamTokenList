@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF78caFd4821A00A8b35c397e81798f2F8CeB807D",
-      "symbol": "DOGESWAP",
-      "name": "ATradersTool",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE66d6EdcFcD1C2Ca2Ab627Ac998f7fF47b116553",
       "symbol": "POOF",
       "name": "HoudiniSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Cd8F372c09C95Bdd720CAB1c020e173E7A3aF6f",
+      "symbol": "TINU",
+      "name": "TikTokInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14087,
-    "minor": 14087,
+    "major": 14088,
+    "minor": 14088,
     "patch": 86
   }
 }
