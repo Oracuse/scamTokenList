@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x762567776564B4aa35bcB5922C42cA03A4FF1da4",
-      "symbol": "SUZUME",
-      "name": "KiyomiKiraSuzume",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc44f05bD13b63117D00C72a4Db37a6DbaBA4d6c3",
       "symbol": "MOON",
       "name": "HOUSTON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBdd19e0B15346df0AcfD8742Dc4FCe30081ec91e",
+      "symbol": "TRPG",
+      "name": "TheTrumpening",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14192,
-    "minor": 14192,
+    "major": 14193,
+    "minor": 14193,
     "patch": 86
   }
 }
