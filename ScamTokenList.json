@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdC3629e8C681F9B8DCC935342C7E27bF6F3D600f",
-      "symbol": "ETHXCAD",
-      "name": "ETHXCAD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc1C3c70E11a5e41AEbdae3CD1B93c451934d142B",
       "symbol": "MONKEBLK",
       "name": "MONKEBLK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79533C9723d5e61C5FB7e3EC5b63bB1f45F77c4A",
+      "symbol": "TOR",
+      "name": "TreatorRUG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14095,
-    "minor": 14095,
+    "major": 14096,
+    "minor": 14096,
     "patch": 86
   }
 }
