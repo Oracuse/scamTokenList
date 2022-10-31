@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE0b100EFa181CDc7C0155A454c373C4396238f8D",
-      "symbol": "RYUKYU",
-      "name": "RyukyuInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x14da07AB23d6c6Dfa3C07E673aE8ffE4E493A1a1",
       "symbol": "SELDAO",
       "name": "SelectDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62656DE8E17E7D35F1f891B88ba06CfCA624D311",
+      "symbol": "O",
+      "name": "Obtainium",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14092,
-    "minor": 14092,
+    "major": 14093,
+    "minor": 14093,
     "patch": 86
   }
 }
