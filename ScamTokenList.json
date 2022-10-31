@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF6263Db8371A633eE97793Dfe26c533a1eDD3920",
-      "symbol": "METH",
-      "name": "MegaEth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdC9f2aE5351ce01c3CBfc72b68A851De474DacD4",
       "symbol": "XHAMSTER",
       "name": "XHAMSTER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9762A9Bcc1cE06534a26C91A6EA4fe205e481E2F",
+      "symbol": "NSV",
+      "name": "NoShaveNovember",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14138,
-    "minor": 14138,
+    "major": 14139,
+    "minor": 14139,
     "patch": 86
   }
 }
