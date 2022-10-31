@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5F8EE763Fd6887532a308B70D272d3eA8B96E205",
-      "symbol": "WETHUPOR",
-      "name": "WETHUPOR",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA3F472730a63a98bf42C9E5e76CEdEe5fBF325a7",
       "symbol": "FJEETS",
       "name": "FuckJeets",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86D44122cEe13D165c17e974805b3dbBbF795E74",
+      "symbol": "VSHIBA",
+      "name": "VineShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14102,
-    "minor": 14102,
+    "major": 14103,
+    "minor": 14103,
     "patch": 86
   }
 }
