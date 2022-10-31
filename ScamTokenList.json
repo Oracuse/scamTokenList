@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe95729aEC9Eb9c6F424871A79dce4A366A48E04d",
-      "symbol": "MYOJIN",
-      "name": "HakujanoMyojin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDCc60db896E59838fda10861e87e1D5521eD79e0",
       "symbol": "DINODEV",
       "name": "DINODEV",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfa644857dc9314A5BEDE247C2CE6384Ae289bBe4",
+      "symbol": "WINU",
+      "name": "WrappedInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14214,
-    "minor": 14214,
+    "major": 14215,
+    "minor": 14215,
     "patch": 86
   }
 }
