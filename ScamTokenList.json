@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4F1875011C545f4B66AC1Beb3A63cD79d061A99B",
-      "symbol": "EQX",
-      "name": "EquinoxDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9b7dB6444fc151b38A44ad57d2Cd24EEe7D6a25D",
       "symbol": "BM",
       "name": "BOOM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98EB9bc52aCa53c396BDD6b000A1b8fa1C59aDd7",
+      "symbol": "WHI",
+      "name": "WorldHealthInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14150,
-    "minor": 14150,
+    "major": 14151,
+    "minor": 14151,
     "patch": 86
   }
 }
