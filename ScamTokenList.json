@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE566eB904c8a88224F2400B723A6D81Fd1674148",
-      "symbol": "VIKING",
-      "name": "VIKINGMANKIND",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2199a9d3b15C8DfD82F669a90d9d973D8067fC4f",
       "symbol": "OTOROSHI",
       "name": "OTOROSHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd305f920c4A114206Fb1b4ee28cBC10Fd5772Ba6",
+      "symbol": "NOMORECOPYING",
+      "name": "DONOTBUYTHIS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14052,
-    "minor": 14052,
+    "major": 14053,
+    "minor": 14053,
     "patch": 86
   }
 }
