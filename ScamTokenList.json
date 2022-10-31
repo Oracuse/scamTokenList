@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9F0FC9F7255203f079465aabe14f39bd0533F49a",
-      "symbol": "MXDAO",
-      "name": "mxdao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5623AF78De06a4387f9e230d07787f3761a6477E",
       "symbol": "X7",
       "name": "X7Protocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4484Ec3467809B1f2a3D45BBEe6a1411e161d55E",
+      "symbol": "SPKT",
+      "name": "SpookyTrump",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14073,
-    "minor": 14073,
+    "major": 14074,
+    "minor": 14074,
     "patch": 86
   }
 }
