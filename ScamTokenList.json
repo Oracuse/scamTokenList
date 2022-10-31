@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaAbafe45Be4CbBbd1ab88f0b09CFCFDFA4F0d1e9",
-      "symbol": "CHOSEN",
-      "name": "Highlander",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71CA9c3d72fCb134644BE77B48E5670Cc03a5aB1",
       "symbol": "PYRE",
       "name": "Pyre",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEc09d7E70Aa43686B501fdC8fCA1e382440B6034",
+      "symbol": "CZ",
+      "name": "WorldsCryptoServant",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14118,
-    "minor": 14118,
+    "major": 14119,
+    "minor": 14119,
     "patch": 86
   }
 }
