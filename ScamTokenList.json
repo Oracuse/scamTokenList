@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDBc414FAa00C9F5899fb1A653C72BC755C125a50",
-      "symbol": "TSUNA",
-      "name": "WatanabenoTsuna",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1f7a890352134Eb72Ae8118e11b7d972F0799196",
       "symbol": "HEART",
       "name": "Kokoro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8046Ef887D0fB2666cb9d9F0E04d1D25A2D46464",
+      "symbol": "TWIZZLER",
+      "name": "Twizzler",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14136,
-    "minor": 14136,
+    "major": 14137,
+    "minor": 14137,
     "patch": 86
   }
 }
