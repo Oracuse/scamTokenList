@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDCc60db896E59838fda10861e87e1D5521eD79e0",
-      "symbol": "DINODEV",
-      "name": "DINODEV",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1641ac02177D0d906563E65a100160Cc6a367441",
       "symbol": "KENJI",
       "name": "KobayashiKenji",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca2442Fc80d146d44c9CEDc3eD8Dc02D7B3392Dd",
+      "symbol": "DETH",
+      "name": "GrimEther",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14215,
-    "minor": 14215,
+    "major": 14216,
+    "minor": 14216,
     "patch": 86
   }
 }
