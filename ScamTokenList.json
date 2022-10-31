@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAce4615183C20FFF2ddAE7CdcAE97c2F96551516",
-      "symbol": "SHIBIYAKI",
-      "name": "ShibiyakiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa8f340358FC1f87bafb61efDAE4E62d5501B571E",
       "symbol": "DIP",
       "name": "DegensInParadise",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18C487538Ab8588EaD633d0115cB787186240321",
+      "symbol": "YOEL",
+      "name": "Yoel",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14076,
-    "minor": 14076,
+    "major": 14077,
+    "minor": 14077,
     "patch": 86
   }
 }
