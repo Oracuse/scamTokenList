@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa67Ad60e2E9eEeD110dA103611bcb1c5f0D3deb9",
-      "symbol": "LAZY",
-      "name": "LazyDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4cF408aa7167Dd37A1621A70864138636fAA9945",
       "symbol": "MIYOKU",
       "name": "Miyoku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca600420a679C6E71198E631e5d9B682b50871c2",
+      "symbol": "SHIKI",
+      "name": "DaShikiINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14062,
-    "minor": 14062,
+    "major": 14063,
+    "minor": 14063,
     "patch": 86
   }
 }
