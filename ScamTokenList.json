@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC66d14FCa93430d29A4269383eca75632a3Ef24D",
-      "symbol": "KAWAUSO",
-      "name": "kawausoInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0F3d6e39e633d4C6e5dBD77f31a1d9280F2492ea",
       "symbol": "SCHRODINGERINU",
       "name": "Schrodingerinu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Cd3468cE25241d6f7b294063dAbaBE8E2eaD09D",
+      "symbol": "TTP",
+      "name": "TheTrumpPUMP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14222,
-    "minor": 14222,
+    "major": 14223,
+    "minor": 14223,
     "patch": 86
   }
 }
