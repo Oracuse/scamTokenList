@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14da07AB23d6c6Dfa3C07E673aE8ffE4E493A1a1",
-      "symbol": "SELDAO",
-      "name": "SelectDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDc66455C761BFC151649F8082BE24349df5e8d44",
       "symbol": "YOSHI",
       "name": "Kuniyoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8010BEa84781557Bfe92cdb77b38a7a32c244639",
+      "symbol": "OCTAVIAN",
+      "name": "Octavian",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14093,
-    "minor": 14093,
+    "major": 14094,
+    "minor": 14094,
     "patch": 86
   }
 }
