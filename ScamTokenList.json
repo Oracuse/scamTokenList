@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2128Bcfcc21099c0372279565141F70a537fA548",
-      "symbol": "KONAKIJIJI",
-      "name": "KONAKIJIJI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x572195635Da410c24aD03967C070fb3E67cDB23B",
       "symbol": "SCHRODINGERSCAT",
       "name": "SchrodingersCat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeA67345542Ec5db2726FBDB614cA3B34a7Bc3733",
+      "symbol": "WSHIB",
+      "name": "WrappedShiba",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14218,
-    "minor": 14218,
+    "major": 14219,
+    "minor": 14219,
     "patch": 86
   }
 }
