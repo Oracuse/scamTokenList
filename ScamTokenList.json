@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe51bf62A8474f4Fb1e060e3B786C3F6dE7E557f7",
-      "symbol": "SAILBURN",
-      "name": "SailorBurn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F1875011C545f4B66AC1Beb3A63cD79d061A99B",
       "symbol": "EQX",
       "name": "EquinoxDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfa5c37659027Bcbec11f4b1bFFf44E985E6d0aEC",
+      "symbol": "SEZUKUR",
+      "name": "SEZUKUR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14149,
-    "minor": 14149,
+    "major": 14150,
+    "minor": 14150,
     "patch": 86
   }
 }
