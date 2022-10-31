@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd9CE6aB135065a323FB9fe1F080003d00f89672f",
-      "symbol": "ORAGI",
-      "name": "Oragi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7a95c2EC722b7c75dC3860eFe984aCA91225c866",
       "symbol": "GOKEN",
       "name": "TenkaGoken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc85C41d18B0CCd18c3A4EF7B1112B4E61572B1e6",
+      "symbol": "HEADER",
+      "name": "header",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14105,
-    "minor": 14105,
+    "major": 14106,
+    "minor": 14106,
     "patch": 86
   }
 }
