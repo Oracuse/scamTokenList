@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x54D9AA3f2D2cCE3272344417e3263BAC04A8aB11",
-      "symbol": "CUMON",
-      "name": "CumOnDev",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa5c9d12924389fD9F2a9Ab750ad69Dd32E411f76",
       "symbol": "BULLBACK",
       "name": "BULLBACK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9EdF0f12d0b98Ca336150D38681c25711335F635",
+      "symbol": "SHIBT",
+      "name": "Shibtopia",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14054,
-    "minor": 14054,
+    "major": 14055,
+    "minor": 14055,
     "patch": 86
   }
 }
