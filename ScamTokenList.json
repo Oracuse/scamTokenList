@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0dD900b95a1635EcBB7A055F5f66E4A992003750",
-      "symbol": "SHONEN",
-      "name": "ShonenSekai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE711b5e7ae701bcF9A0CE55a9FC2534DdCad0f23",
       "symbol": "RELEVATION",
       "name": "Relevation",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2731B729b944122eC7bF40ECAFb3808633644b76",
+      "symbol": "BINU",
+      "name": "BitchInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14079,
-    "minor": 14079,
+    "major": 14080,
+    "minor": 14080,
     "patch": 86
   }
 }
