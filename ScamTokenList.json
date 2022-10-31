@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe9bB6e45Dc40f2EafC360c1370e42D90B9640213",
-      "symbol": "SUZAKU",
-      "name": "SuzakuInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x89503ACb16e006e6fa7f5a41aA576b59EA4FF840",
       "symbol": "INABA",
       "name": "HareOfInaba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x260c55F9b8c27ea496bFf0c90A208ae781f926bB",
+      "symbol": "KK",
+      "name": "OkayCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14141,
-    "minor": 14141,
+    "major": 14142,
+    "minor": 14142,
     "patch": 86
   }
 }
