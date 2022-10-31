@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7c1Aa5e99B86d0f1615e964Bd07CE66d77570493",
-      "symbol": "WUKONG",
-      "name": "MonkeyKing",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76110518dBb50c0421A00bf1Bb5aBf301Bc7B7Fe",
       "symbol": "100K",
       "name": "Wow100K",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11Cc7913F4a685fA1a187A8CD4B5a43124ba9e72",
+      "symbol": "LINODE",
+      "name": "Linode",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14180,
-    "minor": 14180,
+    "major": 14181,
+    "minor": 14181,
     "patch": 86
   }
 }
