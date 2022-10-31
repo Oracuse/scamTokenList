@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE66d6EdcFcD1C2Ca2Ab627Ac998f7fF47b116553",
-      "symbol": "POOF",
-      "name": "HoudiniSwap",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42123F837BBe3378Db33483de47D29dE56358bd5",
       "symbol": "BLINK",
       "name": "BlackPinkInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47AAdb2093f28732BaD8aF53f92b41301c37FfF5",
+      "symbol": "VINE",
+      "name": "VineProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14088,
-    "minor": 14088,
+    "major": 14089,
+    "minor": 14089,
     "patch": 86
   }
 }
