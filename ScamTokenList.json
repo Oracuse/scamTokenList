@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB713d611e3345a454665726c9A214d954E6B3F78",
-      "symbol": "TSUKAM",
-      "name": "TsukaMewn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2338955260B474a8a6b5f36d230fAbD3fc522AF1",
       "symbol": "DOGGYSTYLE",
       "name": "DOGGYSTYLE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDA53A9234D6db28BAc3e9759d5e804708B1E6F59",
+      "symbol": "VINE",
+      "name": "Vine",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14189,
-    "minor": 14189,
+    "major": 14190,
+    "minor": 14190,
     "patch": 86
   }
 }
