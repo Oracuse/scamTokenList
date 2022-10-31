@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4cF408aa7167Dd37A1621A70864138636fAA9945",
-      "symbol": "MIYOKU",
-      "name": "Miyoku",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa264C110477f0c1ea9abd30bdbF187d2E341AD9a",
       "symbol": "BLESS",
       "name": "TheBlessing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c2524A4BA3c67181E7f6628E76d3B6e3a34B33a",
+      "symbol": "TWIT",
+      "name": "TwitCoin",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14063,
-    "minor": 14063,
+    "major": 14064,
+    "minor": 14064,
     "patch": 86
   }
 }
