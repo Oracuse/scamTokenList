@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23535DA420B1ae075cC6e568055985Fc886c98e2",
-      "symbol": "123",
-      "name": "456",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x357dB1b2411F02A7d7203eb72C1B98a9b1644B07",
       "symbol": "NEWERA",
       "name": "NewEra",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67e5df72a9784e3b01A71bF06C98628403D4dC9B",
+      "symbol": "VINE",
+      "name": "BringBackVine",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14099,
-    "minor": 14099,
+    "major": 14100,
+    "minor": 14100,
     "patch": 86
   }
 }
