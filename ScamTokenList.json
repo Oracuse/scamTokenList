@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x045d92213eac647f71838302BD1Cc6b6B6f5Cc8C",
-      "symbol": "CHARIZARD",
-      "name": "CHARIZARD",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCd757275178178dEF1082d7912E80fD8f92081FC",
       "symbol": "DIVINE",
       "name": "SupremeBeing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65Ad73A42696d05057FB7AB7d7A8732dd3664ad8",
+      "symbol": "VINE",
+      "name": "BringbackVine",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14082,
-    "minor": 14082,
+    "major": 14083,
+    "minor": 14083,
     "patch": 86
   }
 }
