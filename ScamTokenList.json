@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x37dBb7218cb01eefE0008d353C27681F1c0Bf980",
-      "symbol": "SPITE",
-      "name": "TheSpite",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF475F3Ad32c14bF465355eCfA268056E3439416F",
       "symbol": "EZILLA",
       "name": "EthZilla",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c86990d7b9771d6496FE36Ee2dD8FC42C0a8B2d",
+      "symbol": "UCC",
+      "name": "UncancelCulture",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14199,
-    "minor": 14199,
+    "major": 14200,
+    "minor": 14200,
     "patch": 86
   }
 }
