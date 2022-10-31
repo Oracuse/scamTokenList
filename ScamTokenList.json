@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x85b8820e9c5f44100007e9400E17d1C5AebC9322",
-      "symbol": "YUFUKU",
-      "name": "Yufuku",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDcF120533B30b97ab82d4A60698D46Abf9f6CC7B",
       "symbol": "ZHULONG",
       "name": "DejitaruZhulong",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCf36059f53f2403bc2E4bAF503682b4ed0588e48",
+      "symbol": "TBE",
+      "name": "TwitterBlueElon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14146,
-    "minor": 14146,
+    "major": 14147,
+    "minor": 14147,
     "patch": 86
   }
 }
