@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x64f147703501B7d8Bf182F9F66f81a61D58A853a",
-      "symbol": "GINU",
-      "name": "GorbachevInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA44ffe6d8286B893405ee43687b9f523f3e46E08",
       "symbol": "SUDORUG",
       "name": "SudoRugToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0F3Dc4898dB0D33AF462577219d5dc22c7F36722",
+      "symbol": "TWITT3R",
+      "name": "Twitt3r",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14132,
-    "minor": 14132,
+    "major": 14133,
+    "minor": 14133,
     "patch": 86
   }
 }
