@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE711b5e7ae701bcF9A0CE55a9FC2534DdCad0f23",
-      "symbol": "RELEVATION",
-      "name": "Relevation",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2d7eCCd2b9734A366F5E61727Df42996e074a321",
       "symbol": "SATOSHI",
       "name": "MissionSatoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D0d2009d700782cdc527e8967185D92382b97ba",
+      "symbol": "REDDOGE",
+      "name": "RedDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14080,
-    "minor": 14080,
+    "major": 14081,
+    "minor": 14081,
     "patch": 86
   }
 }
