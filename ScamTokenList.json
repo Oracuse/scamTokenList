@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x46AC26A9DcE45e9C7DBfe33B981DA64c43ccE8B6",
-      "symbol": "MLD",
-      "name": "Muladhara",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5c36c92667aa475173c66698D74f5d2E7DFf8C0C",
       "symbol": "READFI",
       "name": "ReadFI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7990845f447f742539F61CD73f5Aa35AF09510B7",
+      "symbol": "HIBA",
+      "name": "HauntedShiba",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14164,
-    "minor": 14164,
+    "major": 14165,
+    "minor": 14165,
     "patch": 86
   }
 }
