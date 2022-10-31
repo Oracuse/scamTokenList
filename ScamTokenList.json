@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14BF5a9AdBA38501Cdb82ecaBfb52b2AF1fC8f46",
-      "symbol": "WETHPOL",
-      "name": "WETHPOL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfFB1f6B9A4EDc5372BEb45a30Ef5BfbCc2f9CFAc",
       "symbol": "TUSK",
       "name": "WalrusInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3860C1ba00E2C28e3e55EF760666F623C84f8768",
+      "symbol": "O",
+      "name": "Obtainium",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14156,
-    "minor": 14156,
+    "major": 14157,
+    "minor": 14157,
     "patch": 86
   }
 }
