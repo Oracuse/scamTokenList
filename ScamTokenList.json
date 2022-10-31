@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x358da389eB3A90644143c689a540cE1156e82c8D",
-      "symbol": "STAKINGTEST",
-      "name": "test",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x564f3C4E09a3B9B5c1d7e21A253cb5E29c3e6494",
       "symbol": "SMI",
       "name": "SailorMoonInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAA330d860315045D7c5B0C2b8D6fe8150d31C710",
+      "symbol": "20",
+      "name": "TWENTY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14114,
-    "minor": 14114,
+    "major": 14115,
+    "minor": 14115,
     "patch": 86
   }
 }
