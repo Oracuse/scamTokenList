@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x30ec37a6A43d51ff6324d31565f4beeE1C9dD679",
-      "symbol": "METADOGE",
-      "name": "MetaDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF78caFd4821A00A8b35c397e81798f2F8CeB807D",
       "symbol": "DOGESWAP",
       "name": "ATradersTool",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2E93C9d803d912362e2D0B2a9F0743EbD82C212",
+      "symbol": "O",
+      "name": "Obtainium",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14086,
-    "minor": 14086,
+    "major": 14087,
+    "minor": 14087,
     "patch": 86
   }
 }
