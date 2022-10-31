@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6E58Bba4D3880a4c690ad4737233a9D9E6Ca1467",
-      "symbol": "KARO",
-      "name": "KARO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5AB30DcCCa667df9A665565BFDfEFCcbBd11F126",
       "symbol": "ONRYO",
       "name": "FlameCatcher",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfBd6BD1815619CdE24c1652e00b0267d3E4f58D9",
+      "symbol": "LITDOGE",
+      "name": "LitDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14124,
-    "minor": 14124,
+    "major": 14125,
+    "minor": 14125,
     "patch": 86
   }
 }
