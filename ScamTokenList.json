@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5caa6c326124a6639aA1990df697b20BE25FFA1C",
-      "symbol": "TIANGOU",
-      "name": "Tiangou",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5639122DfCBC3869c1A137aFb793E48d06CA4D44",
       "symbol": "SUZURI",
       "name": "SUZURINOTAMASHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf65A77D3621205Cb3031f55c3a33690eCc0963de",
+      "symbol": "JINZO",
+      "name": "JinzoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14372,
-    "minor": 14372,
+    "major": 14373,
+    "minor": 14373,
     "patch": 86
   }
 }
