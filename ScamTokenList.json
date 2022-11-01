@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD737634D712E8A9d3577a083B613CB59ED0F5D4B",
-      "symbol": "ASCUEMIPRIS",
-      "name": "Ascuemipris",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaC2bAD68aB6998D0f0D31AA6D6cdE7312E967677",
       "symbol": "KAMIKIRI",
       "name": "Arthropod",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDBA904Ea162477349443b1f0cDFF241234f5e594",
+      "symbol": "CTWTR",
+      "name": "CryptoTwitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14410,
-    "minor": 14410,
+    "major": 14411,
+    "minor": 14411,
     "patch": 86
   }
 }
