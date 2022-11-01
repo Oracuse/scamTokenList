@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xee26d2863c8c1bAefE5d23005E55685Dd6be3798",
-      "symbol": "KUDAGITSUNE",
-      "name": "KudagitsuneInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8e907afb632E8f3FdD77760A2dF77fA404C65a3E",
       "symbol": "PUNKE",
       "name": "PunkEth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdeb9047643F743318ead372fc9AbDE9340bD94Ee",
+      "symbol": "TFTV",
+      "name": "TwitterFlokiTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14255,
-    "minor": 14255,
+    "major": 14256,
+    "minor": 14256,
     "patch": 86
   }
 }
