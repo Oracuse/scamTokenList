@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD9B3F5C140C562e8B95Dc54bc973A151992a75E4",
-      "symbol": "MUSASHI",
-      "name": "MiyamotoMusashi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x78D774361f676eA3A6604247C560d0F02C3452F2",
       "symbol": "RERE",
       "name": "RERE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83Bb0287a737F8292997a4ECe95181c6d6A1da03",
+      "symbol": "QATAR",
+      "name": "FIFAWorldCupQatar20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14240,
-    "minor": 14240,
+    "major": 14241,
+    "minor": 14241,
     "patch": 86
   }
 }
