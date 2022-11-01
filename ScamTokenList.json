@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfaD149F1513f35e1dB6bEe2FFB8d32Cc075D694D",
-      "symbol": "DESTROY",
-      "name": "DestroyTheEarth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbC4837Fa382a4c736714032e9f5947a459Cb06C4",
       "symbol": "HULA",
       "name": "HULA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x606645b5c6f49713Bc47f10c76f60586e20eE032",
+      "symbol": "ALLFOR8",
+      "name": "ALLFOR8",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14383,
-    "minor": 14383,
+    "major": 14384,
+    "minor": 14384,
     "patch": 86
   }
 }
