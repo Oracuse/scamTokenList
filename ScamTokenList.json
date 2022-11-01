@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB4e40865eB5068Dd5271eA2b510D18f54D906bE0",
-      "symbol": "DW",
-      "name": "DegenerationalWealt",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF7Ecb2E5ddaD17506E62F51A442f725a26053fb2",
       "symbol": "WORM",
       "name": "SpaceWorm",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x722f82540280B1852998df39476c329cA56C996f",
+      "symbol": "TSU",
+      "name": "TsukaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14425,
-    "minor": 14425,
+    "major": 14426,
+    "minor": 14426,
     "patch": 86
   }
 }
