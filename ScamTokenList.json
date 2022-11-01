@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFBb3ae726f1edB516cC5c995641755b575583488",
-      "symbol": "MEV",
-      "name": "MevMiners",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x96957D9677F046a3e1d12F319f86D279C22A3424",
       "symbol": "ALPHA",
       "name": "AlphaChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeE22A0DA45EaB38E7045d440a3B9556fe3e2D730",
+      "symbol": "TIELON",
+      "name": "THEINCREDIBLEELON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14309,
-    "minor": 14309,
+    "major": 14310,
+    "minor": 14310,
     "patch": 86
   }
 }
