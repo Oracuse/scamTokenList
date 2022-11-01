@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4dAa644190cbAb1F9E635889BFce2A8e92437502",
-      "symbol": "HATTO",
-      "name": "HattoriInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD737634D712E8A9d3577a083B613CB59ED0F5D4B",
       "symbol": "ASCUEMIPRIS",
       "name": "Ascuemipris",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5E68d8e872f9eFA50BD9202a74EaA52C0ddaC64E",
+      "symbol": "SC",
+      "name": "SystemChip",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14409,
-    "minor": 14409,
+    "major": 14410,
+    "minor": 14410,
     "patch": 86
   }
 }
