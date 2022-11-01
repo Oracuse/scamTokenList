@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1D46fC05ac52Fc1AA1bB9A0516506cd75559C4c7",
-      "symbol": "METH",
-      "name": "EthMeth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE2b095c0983ecd0E24c66a7f5C23f404a74DFeE5",
       "symbol": "FLOKISTEIN",
       "name": "AlbertFlokistein",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE61F6e39711cEc14f8D6c637c2f4568bAA9FF7Ee",
+      "symbol": "HEY",
+      "name": "Hey",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14341,
-    "minor": 14341,
+    "major": 14342,
+    "minor": 14342,
     "patch": 86
   }
 }
