@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC2A35727F6843AD6cC7888587f752246290B3F1c",
-      "symbol": "DOLANDUK",
-      "name": "DolandukToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x02E4C9a4790eE3Abc5D5d8f008091ec679C7bD25",
       "symbol": "KUTABEINU",
       "name": "KutabeInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B4dEA90e6E46B01b0f4A32F3CB49Fd77a078d6A",
+      "symbol": "SYCC",
+      "name": "YCLUB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14278,
-    "minor": 14278,
+    "major": 14279,
+    "minor": 14279,
     "patch": 86
   }
 }
