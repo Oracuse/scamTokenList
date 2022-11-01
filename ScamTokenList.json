@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA2355a27Fa6a8647859970681F8a57ED0441Eec1",
-      "symbol": "DOJIN",
-      "name": "Dosojin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xea0185d00dcFc431F6b59C0686621102c8330CE3",
       "symbol": "SENTOSHI",
       "name": "Sentoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x729DC3a89503Ad6E3Be4B8aDb9592061E7537243",
+      "symbol": "NINGYOJORURI",
+      "name": "Ningyojoruri",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14317,
-    "minor": 14317,
+    "major": 14318,
+    "minor": 14318,
     "patch": 86
   }
 }
