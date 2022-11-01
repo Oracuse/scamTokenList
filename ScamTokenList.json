@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcFeFF78BD9461C302D21CA6CBe5Cfdc0F64955cB",
-      "symbol": "0101",
-      "name": "Sequence",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1665424aDa17538d56077B038aE27FDd405c7c36",
       "symbol": "FAQYU",
       "name": "FAQYU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe18aF6De10db76034dFc17e05f08168C88516162",
+      "symbol": "WAO",
+      "name": "DAOWhale",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14378,
-    "minor": 14378,
+    "major": 14379,
+    "minor": 14379,
     "patch": 86
   }
 }
