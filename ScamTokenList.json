@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeD641273b0c9dd7Bc89f0CD4c3BD58770B662d63",
-      "symbol": "SODATSU",
-      "name": "Sodatsu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa05Dc3B1C161aEe788DF15C8E49247765259e42E",
       "symbol": "GOD",
       "name": "GameOfDragons",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8807dEEC055F49A78065fA048A4ae68491045318",
+      "symbol": "VAULT",
+      "name": "VaultOfBarclays",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14433,
-    "minor": 14433,
+    "major": 14434,
+    "minor": 14434,
     "patch": 86
   }
 }
