@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x602d09b01c09b0A24c70c635c57b4c3D3526314a",
-      "symbol": "MADMONEY",
-      "name": "INVERSECRAMER",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEF6B271a135385c93E253b982D4293065720278d",
       "symbol": "SOMNUS",
       "name": "Insomnia",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfDFB3d7c39f104C2F8640Daf202F2244005D88C0",
+      "symbol": "KONU",
+      "name": "KONINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14350,
-    "minor": 14350,
+    "major": 14351,
+    "minor": 14351,
     "patch": 86
   }
 }
