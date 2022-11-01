@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2871383E218C87d75f81478410BbD2c6a301CC1E",
-      "symbol": "FDOGE",
-      "name": "FitDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51261A513F67574Af1129f68F49e00BA6518b36D",
       "symbol": "HYPERDOGE",
       "name": "HYPERDOGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5dD30693D610946A4D1af5E409B97B52dd3751f6",
+      "symbol": "GOO",
+      "name": "ArtGobblerscom",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14305,
-    "minor": 14305,
+    "major": 14306,
+    "minor": 14306,
     "patch": 86
   }
 }
