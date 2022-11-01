@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x95bf3360a6efE5D0BAF21f6B69c3019E1E839162",
-      "symbol": "SQUIDAI",
-      "name": "SquidAI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x310097804d2df6C693C4444caD6c11407Ead61Ca",
       "symbol": "BLOOD",
       "name": "TheDragonBlood",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0a9F3c49b2de30B7623306B076B3A7Af0202b615",
+      "symbol": "SHISA",
+      "name": "Shibalisa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14333,
-    "minor": 14333,
+    "major": 14334,
+    "minor": 14334,
     "patch": 86
   }
 }
