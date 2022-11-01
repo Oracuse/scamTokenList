@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0f41D2BcA43E94F3A64E58C6F82706e97B9dB44E",
-      "symbol": "BIGMOUSE",
-      "name": "BigMouse",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2871383E218C87d75f81478410BbD2c6a301CC1E",
       "symbol": "FDOGE",
       "name": "FitDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf94A9D790650C3feab1e1b65e4227F2414a2b7Ff",
+      "symbol": "TCHO",
+      "name": "TwitterComplaintHot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14304,
-    "minor": 14304,
+    "major": 14305,
+    "minor": 14305,
     "patch": 86
   }
 }
