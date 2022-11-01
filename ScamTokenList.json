@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x44AAE6B44e570859e332a5084cd090eA275B1b06",
-      "symbol": "EVOLVE",
-      "name": "Evolution",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x467afaF678aa6D9CD0B4DeEF601f2950F65e12Aa",
       "symbol": "SLAMBO",
       "name": "ShibaLambo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF2f51B875246da8248Aa897c3a210F000B50B151",
+      "symbol": "BOXC",
+      "name": "BoxcToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14266,
-    "minor": 14266,
+    "major": 14267,
+    "minor": 14267,
     "patch": 86
   }
 }
