@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF7Ecb2E5ddaD17506E62F51A442f725a26053fb2",
-      "symbol": "WORM",
-      "name": "SpaceWorm",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x94A749727A94976180BfBBa762D9ec761d555dfa",
       "symbol": "CH",
       "name": "CaptainHarlock",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa02CbBb0D2517a0E1a0a3876DB085a48528a2916",
+      "symbol": "FREEZE",
+      "name": "Cold",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14426,
-    "minor": 14426,
+    "major": 14427,
+    "minor": 14427,
     "patch": 86
   }
 }
