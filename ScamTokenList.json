@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1B2A5F4867B40370AAeC02A1A320bCc6460623A9",
-      "symbol": "OM",
-      "name": "OriginalVibration",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9599b9C972182F08aD0Bfdca97E90428Ba1768C2",
       "symbol": "SNTR",
       "name": "SayNoToRugs",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8aA6C93D2D6C2933069065551229f77300ea009C",
+      "symbol": "NIKO",
+      "name": "NikolaiProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14233,
-    "minor": 14233,
+    "major": 14234,
+    "minor": 14234,
     "patch": 86
   }
 }
