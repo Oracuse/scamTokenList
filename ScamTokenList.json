@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbC4837Fa382a4c736714032e9f5947a459Cb06C4",
-      "symbol": "HULA",
-      "name": "HULA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF98971D3e9Ab16AA8833277BEb5549C2b03A8b84",
       "symbol": "TAMAGO",
       "name": "TheGoldenEgg",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x682B138355bB6B3266D4583e49F5705959335073",
+      "symbol": "BTITTER",
+      "name": "BabyTitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14384,
-    "minor": 14384,
+    "major": 14385,
+    "minor": 14385,
     "patch": 86
   }
 }
