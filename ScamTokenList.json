@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x84f109c438A3d03056a04C0D72B9e4e6f2A029A0",
-      "symbol": "BOKU",
-      "name": "TsukaharaBokuden",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50265A8946743508c37d8cf75c53E99f2CcbD1Ae",
       "symbol": "SHESHA",
       "name": "SHESHA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9dCE2DB107CA6B2CE55325695e585B416B2DA808",
+      "symbol": "COCO",
+      "name": "Calico",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14402,
-    "minor": 14402,
+    "major": 14403,
+    "minor": 14403,
     "patch": 86
   }
 }
