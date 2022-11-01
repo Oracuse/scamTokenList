@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfA462454ae5016ae0A043f4C48FDaaA742EBdB51",
-      "symbol": "CULT",
-      "name": "CULTSUKA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x12e651580A0887dd8A4F5A8498C364018F82B04f",
       "symbol": "DEED",
       "name": "TheDeed",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3bc7368878C2095516cfd35378D804ec0eB17A0",
+      "symbol": "NELSON",
+      "name": "NelsonInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14311,
-    "minor": 14311,
+    "major": 14312,
+    "minor": 14312,
     "patch": 86
   }
 }
