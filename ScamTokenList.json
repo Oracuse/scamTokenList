@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67CC93C4eC704A38b538CA1fC5D2e622f86e8f98",
-      "symbol": "PRINGLES",
-      "name": "PringlesInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd2aC0B1B4B02B455Ead24BD22f492A660d4752fc",
       "symbol": "MINU",
       "name": "MonaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99181E38036f4a3ee1c2a152d24ba0b0218B441e",
+      "symbol": "ZONE",
+      "name": "THEZONE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14368,
-    "minor": 14368,
+    "major": 14369,
+    "minor": 14369,
     "patch": 86
   }
 }
