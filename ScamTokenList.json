@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD64b29688a35fF01Ed41FdEbdFfDbbc571Eac66C",
-      "symbol": "FDUST",
-      "name": "FalconDust",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x519f6294893E1fC612F045eb8c4990740b9077fA",
       "symbol": "USTU",
       "name": "USTU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88EC0EA18eaA3a500a0Fb73ad7550C0E504a6941",
+      "symbol": "ARAS",
+      "name": "Arashiyama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14387,
-    "minor": 14387,
+    "major": 14388,
+    "minor": 14388,
     "patch": 86
   }
 }
