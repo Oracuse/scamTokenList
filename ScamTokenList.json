@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x10eA2d1d2fBFEa622b2B23BEeEe75aD02aC877b6",
-      "symbol": "EWHALE",
-      "name": "ETHWHALE",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1d4D48a30Eb36F617c257218dBF43bD30C77E8Be",
       "symbol": "ANCIENT",
       "name": "AncientApe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68737a9e03995331Ff86489e2bFA3bB416275870",
+      "symbol": "TWIT",
+      "name": "TwitterElonMusk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14300,
-    "minor": 14300,
+    "major": 14301,
+    "minor": 14301,
     "patch": 86
   }
 }
