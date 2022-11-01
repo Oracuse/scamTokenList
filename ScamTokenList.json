@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe9a841D2539473CbE899085b1A2C0B79f86EbeC2",
-      "symbol": "CATCH",
-      "name": "CatchandRelease",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3e0E09E63A8F825fe6c5eFA970C3C663641d09Ed",
       "symbol": "MAUIWAUI",
       "name": "MauiWaui",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87bD54C12D3082D85DC053610C5791EE78740b1C",
+      "symbol": "MVEMBER",
+      "name": "Moonvember",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14325,
-    "minor": 14325,
+    "major": 14326,
+    "minor": 14326,
     "patch": 86
   }
 }
