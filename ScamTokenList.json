@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4Fd2Ce554fC7DCdF6922A8123Ae0C3DC939ca0C5",
-      "symbol": "DAGAHRA",
-      "name": "Dagahra",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x854eA8f2c7aDc4f2D233f3bFBccb41469515a6Fe",
       "symbol": "GDOGE",
       "name": "GIGADOGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc403565e6C9857399EBC7c3643d557D8a4709dB8",
+      "symbol": "DOGEVEMBER",
+      "name": "DOGEVEMBER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14289,
-    "minor": 14289,
+    "major": 14290,
+    "minor": 14290,
     "patch": 86
   }
 }
