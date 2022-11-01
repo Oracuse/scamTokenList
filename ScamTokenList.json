@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2378C10dCFC98b974D5A3Dd5DAE595313E87A1A5",
-      "symbol": "SHIBAYUSHA",
-      "name": "Shibayusha",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5caa6c326124a6639aA1990df697b20BE25FFA1C",
       "symbol": "TIANGOU",
       "name": "Tiangou",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xacbadA5fA4D45a512a5c3FEfDd89Ecca0F1Ea828",
+      "symbol": "ZONE",
+      "name": "TheZone",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14371,
-    "minor": 14371,
+    "major": 14372,
+    "minor": 14372,
     "patch": 86
   }
 }
