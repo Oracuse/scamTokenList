@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCd2Bd7931a3A24882fe4d2C53bcc22473907D44E",
-      "symbol": "OROSHI",
-      "name": "YamaOroshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2378C10dCFC98b974D5A3Dd5DAE595313E87A1A5",
       "symbol": "SHIBAYUSHA",
       "name": "Shibayusha",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bBB5D15183f74fF676f57786C2e16b111D0F767",
+      "symbol": "GWEI",
+      "name": "GweInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14370,
-    "minor": 14370,
+    "major": 14371,
+    "minor": 14371,
     "patch": 86
   }
 }
