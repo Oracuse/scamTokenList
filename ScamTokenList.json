@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x33ED0Ecb384f426a25d61d74a37E95Ce70787917",
-      "symbol": "JYNX",
-      "name": "Jynx",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x18Fb6948169Fb4BF09Ac4d22b4Db6472B7062D3d",
       "symbol": "LFP",
       "name": "LetsFuckingPrint",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c778f98dcE8Ede92736AF535c2D3e82D6258801",
+      "symbol": "TELON",
+      "name": "TwitterELON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14302,
-    "minor": 14302,
+    "major": 14303,
+    "minor": 14303,
     "patch": 86
   }
 }
