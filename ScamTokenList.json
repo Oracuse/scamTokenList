@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf13ab0d881224385bEfeDaDEf9B4D01A52cdA277",
-      "symbol": "NINE",
-      "name": "NineDemons",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1D46fC05ac52Fc1AA1bB9A0516506cd75559C4c7",
       "symbol": "METH",
       "name": "EthMeth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1C3FD9a5C51d68cC4E31Bf78ff8091bE3690aE64",
+      "symbol": "BOBA",
+      "name": "BobaCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14340,
-    "minor": 14340,
+    "major": 14341,
+    "minor": 14341,
     "patch": 86
   }
 }
