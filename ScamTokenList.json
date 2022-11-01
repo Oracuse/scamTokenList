@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8D009a3cf60Ea0Cdb89597de8D6ce9C289364824",
-      "symbol": "PLASMA",
-      "name": "Plasma",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFBb3ae726f1edB516cC5c995641755b575583488",
       "symbol": "MEV",
       "name": "MevMiners",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBDee6461C49b5F4C98F770e378fbAD663306432D",
+      "symbol": "WHITE",
+      "name": "Byakko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14308,
-    "minor": 14308,
+    "major": 14309,
+    "minor": 14309,
     "patch": 86
   }
 }
