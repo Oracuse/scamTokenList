@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x585B157354Be1DA19a942a1F06CdD5f5118e679A",
-      "symbol": "EXO",
-      "name": "EXO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xca6f183629d6060dDb18334ab2C51327B7aBC13B",
       "symbol": "SHGN",
       "name": "Shogun",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCEF1d16eD03B4dff7cCb6E83689bC895538D822C",
+      "symbol": "LWOOF",
+      "name": "LWOOF",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14357,
-    "minor": 14357,
+    "major": 14358,
+    "minor": 14358,
     "patch": 86
   }
 }
