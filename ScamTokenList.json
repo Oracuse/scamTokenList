@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB29AC27897f8A5F1677e38A4A5B1a1b7749582bC",
-      "symbol": "DBB",
-      "name": "DevBookingBahamas",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeD641273b0c9dd7Bc89f0CD4c3BD58770B662d63",
       "symbol": "SODATSU",
       "name": "Sodatsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b1e1d8b9DfaDa2E15C04973bC6477288F335E6A",
+      "symbol": "FREEZE",
+      "name": "Cold",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14432,
-    "minor": 14432,
+    "major": 14433,
+    "minor": 14433,
     "patch": 86
   }
 }
