@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x99FDddb79f147d3f9D23C05694E42fE6a48F66a7",
-      "symbol": "AIDSINU",
-      "name": "AidsINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25Ff6Cdc53f8ae75cF71Ca75248bffbBDD9a2BB3",
       "symbol": "VOLTAIRE",
       "name": "Voltaire",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd288aCF26eBbB3dE78073681fd1eA00C680aA267",
+      "symbol": "LOTUS",
+      "name": "Lotus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14227,
-    "minor": 14227,
+    "major": 14228,
+    "minor": 14228,
     "patch": 86
   }
 }
