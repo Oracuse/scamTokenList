@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6aFd6B992EF4E871EbaA7B8eb61Cc284871CB145",
-      "symbol": "RASENGAN",
-      "name": "KAGEBUNSHINNOJUTSU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8D009a3cf60Ea0Cdb89597de8D6ce9C289364824",
       "symbol": "PLASMA",
       "name": "Plasma",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF6A8D30adD99653Cd1d18d3263e83B21C74BCBaA",
+      "symbol": "BUDOKAN",
+      "name": "BudokanToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14307,
-    "minor": 14307,
+    "major": 14308,
+    "minor": 14308,
     "patch": 86
   }
 }
