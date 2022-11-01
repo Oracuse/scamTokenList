@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBaAD4eeC1b0B2e997913B30892e7595258a002dD",
-      "symbol": "DCI",
-      "name": "DogeChainInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x342421A7B6EEcBF6C835A71C0624807C43656c8C",
       "symbol": "JORO",
       "name": "Jorogumo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCE4C76ED8ecB12739070A8E388325CC7a77a89CE",
+      "symbol": "HIGASHIYAMA",
+      "name": "HigashiyamaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14346,
-    "minor": 14346,
+    "major": 14347,
+    "minor": 14347,
     "patch": 86
   }
 }
