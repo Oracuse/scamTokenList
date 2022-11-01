@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEE06Bce7B03F0E46B34d0EDb1af613D09Bf26902",
-      "symbol": "SHIBJEETS",
-      "name": "ShibaJeets",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10eA2d1d2fBFEa622b2B23BEeEe75aD02aC877b6",
       "symbol": "EWHALE",
       "name": "ETHWHALE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Af90B872B91691d412C43B3a6eA0995A6F5E367",
+      "symbol": "1032",
+      "name": "1032Protocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14299,
-    "minor": 14299,
+    "major": 14300,
+    "minor": 14300,
     "patch": 86
   }
 }
