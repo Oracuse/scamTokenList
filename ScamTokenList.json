@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1c1CE472FA549a465cc65D7F52456AdD4417214D",
-      "symbol": "XPT",
-      "name": "xpected",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF534f969A2F58A5650F9eAaefe60e77fB5857503",
       "symbol": "INUBIS",
       "name": "InubistmeInubisERC2",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B4D8fFa0831009d47B82d38B2c96F39ed35be26",
+      "symbol": "FREEZE",
+      "name": "Cold",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14435,
-    "minor": 14435,
+    "major": 14436,
+    "minor": 14436,
     "patch": 86
   }
 }
