@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAc7AC2F84834a6882473110A6bAA95D3ed4190A2",
-      "symbol": "HAINUBANK",
-      "name": "HainuBank",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9745f2844d54631c38c3d8f11DbbDb5AcE93F92D",
       "symbol": "ZIMBA",
       "name": "ZimbaToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2f86E77c1D42889d60587a8431040dBC29d772a",
+      "symbol": "BOOMS",
+      "name": "SonicShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14344,
-    "minor": 14344,
+    "major": 14345,
+    "minor": 14345,
     "patch": 86
   }
 }
