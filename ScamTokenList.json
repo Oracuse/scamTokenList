@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x82FF46aDcd0629A337D7ca3A5D860843C13B1a7F",
-      "symbol": "USDH",
-      "name": "USDHFINANCE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x06A2235e44975f65887B733C917f61C2cE6d0Bcc",
       "symbol": "SUTOKU",
       "name": "SUTOKUTENNO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Db3BA89B250C269253E7216E58E50B64dF1879D",
+      "symbol": "DOODLE",
+      "name": "DoodleJump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14392,
-    "minor": 14392,
+    "major": 14393,
+    "minor": 14393,
     "patch": 86
   }
 }
