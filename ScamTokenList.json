@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x315497adCd7fFCEF1C722a76aF49e56072b065A4",
-      "symbol": "KRAKEN",
-      "name": "Kraken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfDAd7a31Db4eE376F3a396e1EAd7D5F5BB020684",
       "symbol": "BB",
       "name": "BINGBONG",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x499f9Fc7092A27a2fecbe1975F8755D81fc101CA",
+      "symbol": "ATMOSDAO",
+      "name": "AtmosDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14361,
-    "minor": 14361,
+    "major": 14362,
+    "minor": 14362,
     "patch": 86
   }
 }
