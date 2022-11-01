@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x63bf901A4496F8eDb8d0bAF6ED493b285cec640e",
-      "symbol": "BOKU",
-      "name": "TsukaharaBokuden",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAFe4cb18ab537122D07A5f6b701Be9a5482B1Dc0",
       "symbol": "SHIMANU",
       "name": "Shimanu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA89A1e64EF3B2d3ea845E2CCBA6930dc68819E69",
+      "symbol": "TOT",
+      "name": "TrickorTweet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14400,
-    "minor": 14400,
+    "major": 14401,
+    "minor": 14401,
     "patch": 86
   }
 }
