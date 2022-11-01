@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x483cac859AE5410eA5bdAed5787f0D85c86817f5",
-      "symbol": "MEGA",
-      "name": "MakeETHGreatAgain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1504a36a58261d8201f6087BDa6Fb07f75d4e31b",
       "symbol": "GOTCHU",
       "name": "Gotchu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79b3CD61c105F94968c238912e0445827B96cE87",
+      "symbol": "GMET",
+      "name": "GMETwitter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14429,
-    "minor": 14429,
+    "major": 14430,
+    "minor": 14430,
     "patch": 86
   }
 }
