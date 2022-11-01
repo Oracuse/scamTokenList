@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x151D61750bb06D3DDAeDE6621b2BC365a75AB949",
-      "symbol": "GOLD",
-      "name": "PotofGold",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6Aa2120Bd92F09CD6DF396308489a2d597c43d6C",
       "symbol": "FEDERALES",
       "name": "Federales",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0a64500Eb89ac9D6b8331Bc7344A86528032CFD4",
+      "symbol": "SIRI",
+      "name": "Sirius",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14418,
-    "minor": 14418,
+    "major": 14419,
+    "minor": 14419,
     "patch": 86
   }
 }
