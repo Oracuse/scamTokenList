@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC36C7B1089290110BD32a357E2F88013Bb25339c",
-      "symbol": "GOLD",
-      "name": "PotofGold",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9Dfa987CD6024048E0B866A09e8dB7Ea4cE4ba67",
       "symbol": "MSAITAMA",
       "name": "mSaitama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02125d413161d8d819a8CE150002527E8e8e34FC",
+      "symbol": "60BITS",
+      "name": "60Bits",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14413,
-    "minor": 14413,
+    "major": 14414,
+    "minor": 14414,
     "patch": 86
   }
 }
