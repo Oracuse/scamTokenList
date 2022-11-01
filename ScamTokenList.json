@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC6b888B32507365a6310B33a83a13165fd17D5ea",
-      "symbol": "BELIEVE",
-      "name": "Believe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd6e27CcFbBd9Af8c7a04bf6Ff180A31029510e53",
       "symbol": "KIMIKO",
       "name": "KIMIKO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96Aa62cc793F21fB4d9Aa1873CE855B3Da43B901",
+      "symbol": "TWOGE",
+      "name": "TwitDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14257,
-    "minor": 14257,
+    "major": 14258,
+    "minor": 14258,
     "patch": 86
   }
 }
