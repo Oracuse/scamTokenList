@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x34DfBBB617B1Cc766c445A9e6b33871432248022",
-      "symbol": "ORACLE",
-      "name": "TheSabianSymbols",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Fd2Ce554fC7DCdF6922A8123Ae0C3DC939ca0C5",
       "symbol": "DAGAHRA",
       "name": "Dagahra",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5280EfBF30c0C418cf237bDc7E9c34eF86A6Ec4C",
+      "symbol": "GOB",
+      "name": "ArtGobblers",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14288,
-    "minor": 14288,
+    "major": 14289,
+    "minor": 14289,
     "patch": 86
   }
 }
