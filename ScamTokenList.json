@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7f553D62452A56d05ebfFbf42b47A6e5039E311d",
-      "symbol": "THELEGENDOFSET",
-      "name": "TheLegendOfSet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD9B3F5C140C562e8B95Dc54bc973A151992a75E4",
       "symbol": "MUSASHI",
       "name": "MiyamotoMusashi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa541971d8C2f0106c32a53e61178947bCCbF828c",
+      "symbol": "TRUTH",
+      "name": "Shinjitsu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14239,
-    "minor": 14239,
+    "major": 14240,
+    "minor": 14240,
     "patch": 86
   }
 }
