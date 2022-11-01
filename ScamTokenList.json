@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x310097804d2df6C693C4444caD6c11407Ead61Ca",
-      "symbol": "BLOOD",
-      "name": "TheDragonBlood",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84d1A867F021E1312690401403f402C83AA7c637",
       "symbol": "BUTTERFLYWINGS",
       "name": "ButterflyWings",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32576e0F31a30f46cc10F35C1Ef69616eB1E7cDe",
+      "symbol": "PERF",
+      "name": "PerformanceChain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14334,
-    "minor": 14334,
+    "major": 14335,
+    "minor": 14335,
     "patch": 86
   }
 }
