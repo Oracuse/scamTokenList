@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0379EBD0A31dD97ee11e3df411816Aa8152E8d04",
-      "symbol": "TSHIB",
-      "name": "TeddyShib",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7f553D62452A56d05ebfFbf42b47A6e5039E311d",
       "symbol": "THELEGENDOFSET",
       "name": "TheLegendOfSet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67BC42677B86fdbf3c945c9cAd19516CCAcf7AdB",
+      "symbol": "TANG",
+      "name": "DynastyDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14238,
-    "minor": 14238,
+    "major": 14239,
+    "minor": 14239,
     "patch": 86
   }
 }
