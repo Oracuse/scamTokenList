@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaC2bAD68aB6998D0f0D31AA6D6cdE7312E967677",
-      "symbol": "KAMIKIRI",
-      "name": "Arthropod",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1EF958C0A2d9560b68D0440ec880AdAed26765fD",
       "symbol": "KINTAMA",
       "name": "KINTAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91F0A340282296e3Ea83c743f03Fc74d3b3A3e26",
+      "symbol": "EFIN",
+      "name": "eFinance",
+      "decimals": 1,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14411,
-    "minor": 14411,
+    "major": 14412,
+    "minor": 14412,
     "patch": 86
   }
 }
