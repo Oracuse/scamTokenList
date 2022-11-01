@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3A6F3000Aec743F2C9bb4a1F5F694FA10b4e024F",
-      "symbol": "MOMOKO",
-      "name": "MomokoInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82FF46aDcd0629A337D7ca3A5D860843C13B1a7F",
       "symbol": "USDH",
       "name": "USDHFINANCE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd22ce2E65F05c15e7983e6c02C97Dcf4675Ff568",
+      "symbol": "NOMORECOPYING",
+      "name": "NoMoreCopying",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14391,
-    "minor": 14391,
+    "major": 14392,
+    "minor": 14392,
     "patch": 86
   }
 }
