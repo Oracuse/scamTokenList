@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8EbbBc6d42E923495327E9a1ECb5E73b42aC50AC",
-      "symbol": "CHIKARA",
-      "name": "Chikara",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDC06e44c83d8c62a1Cd11aD3C2eA68B681902235",
       "symbol": "PEARLDAO",
       "name": "TheDragonPearlDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86E7d3D4Ea22eDDf73B718d601e296Ffdd4D501e",
+      "symbol": "LORDS",
+      "name": "TwitterLords",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14366,
-    "minor": 14366,
+    "major": 14367,
+    "minor": 14367,
     "patch": 86
   }
 }
