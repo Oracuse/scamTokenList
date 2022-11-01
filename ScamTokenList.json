@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8B310c52efaB7f03F6c9CB73861fd1B97Db48e48",
-      "symbol": "KANG",
-      "name": "KangalInuCash",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE9b7Eeff3C29C8017D1F0A4947550455DE1d1e60",
       "symbol": "STICKMAN",
       "name": "StickMan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8b776997b30Cadb991aBA36Aecd63d40a77c5D9",
+      "symbol": "TWOKI",
+      "name": "TwitterFloki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14250,
-    "minor": 14250,
+    "major": 14251,
+    "minor": 14251,
     "patch": 86
   }
 }
