@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD3aBe8D489ee6620DE803eAf15EB4b99C703E29C",
-      "symbol": "SHIBETOSHI",
-      "name": "Shibetoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDD94930b981da2e7eCA5Fa8A3aefA3510FE641D9",
       "symbol": "MOZART",
       "name": "Mozart",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63dCc4dE4EAf3be2D552028Be4Fb1f085C41811b",
+      "symbol": "MAF",
+      "name": "MomandFloki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14260,
-    "minor": 14260,
+    "major": 14261,
+    "minor": 14261,
     "patch": 86
   }
 }
