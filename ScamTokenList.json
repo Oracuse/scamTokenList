@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17095951cb38558aE5012611C1426c6f20F54917",
-      "symbol": "SHUGYO",
-      "name": "SHUGYO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8B310c52efaB7f03F6c9CB73861fd1B97Db48e48",
       "symbol": "KANG",
       "name": "KangalInuCash",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xad973d9711eCe03c2a3e29ADbe431Be47071Fd1F",
+      "symbol": "FLITTER",
+      "name": "FlokiTwitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14249,
-    "minor": 14249,
+    "major": 14250,
+    "minor": 14250,
     "patch": 86
   }
 }
