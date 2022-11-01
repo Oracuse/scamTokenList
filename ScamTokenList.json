@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x443eD447caACbC667C5746c8b79c4c815D18EB73",
-      "symbol": "WILDCAT",
-      "name": "WildCatInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x48B9Bd52AAcD4209A9507647873FbFe4335796E1",
       "symbol": "HIRYU",
       "name": "HIRYU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3966c6C7b22e677B3a582a76344D62BDf78D4b4",
+      "symbol": "BUYRUG",
+      "name": "DonotBuyIrug",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14354,
-    "minor": 14354,
+    "major": 14355,
+    "minor": 14355,
     "patch": 86
   }
 }
