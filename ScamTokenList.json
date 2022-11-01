@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25E5c9cA4050974185BBec4c1A44DDCa315Fa527",
-      "symbol": "UREUM",
-      "name": "UPEREUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2D0F42912B3f55c60334F454dC3c30886fB26cA1",
       "symbol": "DRUK",
       "name": "ThunderDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x011220a1d6950A1210E1a4931787255a292d2D4E",
+      "symbol": "APED",
+      "name": "ApeDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14230,
-    "minor": 14230,
+    "major": 14231,
+    "minor": 14231,
     "patch": 86
   }
 }
