@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAFe4cb18ab537122D07A5f6b701Be9a5482B1Dc0",
-      "symbol": "SHIMANU",
-      "name": "Shimanu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84f109c438A3d03056a04C0D72B9e4e6f2A029A0",
       "symbol": "BOKU",
       "name": "TsukaharaBokuden",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C04bA856c2b0e111B8fFD88D440dFD8a938Fcdf",
+      "symbol": "FIFA",
+      "name": "FifaCult",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14401,
-    "minor": 14401,
+    "major": 14402,
+    "minor": 14402,
     "patch": 86
   }
 }
