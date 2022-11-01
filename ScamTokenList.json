@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1CD7E2539b0eDfb0f487BE2536F874830a44333d",
-      "symbol": "KOKKASHINTO",
-      "name": "KokkaShinto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6D041935FA695691e26014D176F32F7CA4801663",
       "symbol": "SANGIU",
       "name": "Sangiu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8e52879e2269c36c051274561A134b0cA0de9b9",
+      "symbol": "FIFA",
+      "name": "FIFAWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14416,
-    "minor": 14416,
+    "major": 14417,
+    "minor": 14417,
     "patch": 86
   }
 }
