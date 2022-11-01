@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08B1559Bc816Fe7A953c7a274D67d97d0BAff3Bb",
-      "symbol": "EVIL",
-      "name": "Evil",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25E5c9cA4050974185BBec4c1A44DDCa315Fa527",
       "symbol": "UREUM",
       "name": "UPEREUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3591FF711429Fffe8e99660fD7558E179D6dE71",
+      "symbol": "OMICSTOKEN",
+      "name": "OMICS",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14229,
-    "minor": 14229,
+    "major": 14230,
+    "minor": 14230,
     "patch": 86
   }
 }
