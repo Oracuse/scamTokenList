@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4188cab9B7f3224E05aF243585D18FA85719F029",
-      "symbol": "HOPE",
-      "name": "Hope",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC916cFEDddBe49C133dC23aedb2610E7D7e2d055",
       "symbol": "SUNRISE",
       "name": "Hinode",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87F182bdeb183bB31FD2C1ACb9860d0165485f24",
+      "symbol": "GWHALE",
+      "name": "GreenWhale",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14282,
-    "minor": 14282,
+    "major": 14283,
+    "minor": 14283,
     "patch": 86
   }
 }
