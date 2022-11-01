@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x453C8BBe7566FEA92C9ba95131D82838E8495165",
-      "symbol": "DIY",
-      "name": "LARPInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5Ef316B9E43743f5A8D2dd14E269002a0cEB9906",
       "symbol": "HOWLMA",
       "name": "HowlsMovingAverage",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08316877acf62239e38cAE768D4627f49c7321b9",
+      "symbol": "AIRFLOW",
+      "name": "Orchestration",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14420,
-    "minor": 14420,
+    "major": 14421,
+    "minor": 14421,
     "patch": 86
   }
 }
