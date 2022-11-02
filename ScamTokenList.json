@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfae86eC1331B2523da6f72C48Ad355E296C766c3",
-      "symbol": "TSUKIMIDANGO",
-      "name": "Tsukimidango",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9C0d64aB027a6974Cf61960b0065eAaa1b7Ba0df",
       "symbol": "48H",
       "name": "Hours",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0ddd3481F28d3D77dB81CD01DAeA57813A2B0d1",
+      "symbol": "BLUE8",
+      "name": "DueDilligence",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14439,
-    "minor": 14439,
+    "major": 14440,
+    "minor": 14440,
     "patch": 86
   }
 }
