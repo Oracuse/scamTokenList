@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbb8A996D212E3404698d4130494CF2A4CA97F1D3",
-      "symbol": "ROKU",
-      "name": "Rokumunsen",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe1F9842EcEF3690248de09cf8f1fc8E07250A20b",
       "symbol": "PATRIARCHY",
       "name": "Patriarchy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE633c8c388417fb739D4E96F26DD9921Ab11dc0C",
+      "symbol": "GDOGE",
+      "name": "GuardianDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14540,
-    "minor": 14540,
+    "major": 14541,
+    "minor": 14541,
     "patch": 86
   }
 }
