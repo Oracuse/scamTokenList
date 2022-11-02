@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x601b627acd29d43618361184F3908b85a0395390",
-      "symbol": "POWER",
-      "name": "TheRingsOfPower",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeb64013619B702DCa6050D364C1528A1510d1493",
       "symbol": "KABOOM",
       "name": "MegaBonk",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4c5DD071EDDC49B51F7DbB75560bF25D121D75D",
+      "symbol": "BCS",
+      "name": "BCSAUL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14485,
-    "minor": 14485,
+    "major": 14486,
+    "minor": 14486,
     "patch": 86
   }
 }
