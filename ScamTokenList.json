@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x05607400EDAA88B55882ea11eC5d7a34F92d6AaC",
-      "symbol": "NOBU",
-      "name": "Nobutsu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4289Ef07D0435b26F1A0D9462784B2526bD4AE45",
       "symbol": "DG",
       "name": "Dogergon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C9944Ee46874DA22372bCAD863586a031ef6FCb",
+      "symbol": "MASOCHIST",
+      "name": "Innermasochist",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14462,
-    "minor": 14462,
+    "major": 14463,
+    "minor": 14463,
     "patch": 86
   }
 }
