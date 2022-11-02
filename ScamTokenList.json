@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5c2de13CDcfC81e27a714d3754e6CE30e0136408",
-      "symbol": "GUANYIN",
-      "name": "Guanyin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc6e80db6e51928495b1E6d70c1FB01886639E210",
       "symbol": "XECH",
       "name": "xeCash",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x241bba20F50b8eA537244E6DE73373bf38D1c24A",
+      "symbol": "OKI",
+      "name": "Okimako",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14522,
-    "minor": 14522,
+    "major": 14523,
+    "minor": 14523,
     "patch": 86
   }
 }
