@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5d9cCf8fD3e0bf913Fc29d68a0697Efc75d8a28A",
-      "symbol": "LUNB",
-      "name": "WrappedLUNBToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5c576e7cF328F23950786761F3cd2344a157ecf3",
       "symbol": "OROBOROS",
       "name": "Oroboros",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC770792C2030A3cd272d004649847079409aaA42",
+      "symbol": "SHIBX",
+      "name": "ShibaX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14452,
-    "minor": 14452,
+    "major": 14453,
+    "minor": 14453,
     "patch": 86
   }
 }
