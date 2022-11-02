@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x06631d839Dff5D2B951feFBD44B8Bc7e00de77aC",
-      "symbol": "CELC",
-      "name": "CEL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0ED3bc6b70204F8b6f3f5A50b511cd07c63ef569",
       "symbol": "ELENTARI",
       "name": "Elentari",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe69Ac083da3644F78E6851AD8FEb46921900c8e6",
+      "symbol": "YGWYPF",
+      "name": "YouGetWhatYouPayFor",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14544,
-    "minor": 14544,
+    "major": 14545,
+    "minor": 14545,
     "patch": 86
   }
 }
