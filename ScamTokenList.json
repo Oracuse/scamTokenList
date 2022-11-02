@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcE3D91fb7FB117AE109D337220FdA105b941864F",
-      "symbol": "LOONG",
-      "name": "DejitaruLoong",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0C52bDB2FbBB854ce86c783726E03035401c9ff0",
       "symbol": "WEAPON",
       "name": "Weapon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAd6fb3b26445724cbbd2cFc5D7F56d660E14ceb2",
+      "symbol": "MRBURNS",
+      "name": "MrBurnsToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14549,
-    "minor": 14549,
+    "major": 14550,
+    "minor": 14550,
     "patch": 86
   }
 }
