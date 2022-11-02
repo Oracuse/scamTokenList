@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb549B59A57ed7cd409Eb5EacbE4A318bb545989F",
-      "symbol": "ENKRYPT",
-      "name": "Enkrypt",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfae86eC1331B2523da6f72C48Ad355E296C766c3",
       "symbol": "TSUKIMIDANGO",
       "name": "Tsukimidango",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f7CcCdFFEf282d836dad706D91346769A682929",
+      "symbol": "CATSHINJU",
+      "name": "CatShinju",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14438,
-    "minor": 14438,
+    "major": 14439,
+    "minor": 14439,
     "patch": 86
   }
 }
