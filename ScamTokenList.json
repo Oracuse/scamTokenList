@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e31656a622B88e52b2629d49BEdeceF353bDD14",
-      "symbol": "7SUNS",
-      "name": "SevenSuns",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x967f5993E54F4B17162a6BC2F449B77F4bE10785",
       "symbol": "MISAKO",
       "name": "MisakoToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf635C4cc4Ae61a5024B710f7215BdaF5e310931d",
+      "symbol": "HUSKY",
+      "name": "SiberianHusky",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14601,
-    "minor": 14601,
+    "major": 14602,
+    "minor": 14602,
     "patch": 86
   }
 }
