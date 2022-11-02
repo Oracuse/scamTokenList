@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9cb82A185A194197De3B920fF57DB67EBB736d73",
-      "symbol": "OSF",
-      "name": "OSFEditions",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75662eaba924fB6dF55e7b658289D8001B6A9C67",
       "symbol": "INUMINATI",
       "name": "Inuminati",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC73C9F7DDA7c5c4d00E413c6368d40318f547aDD",
+      "symbol": "HYOKAI",
+      "name": "HakutakuYokai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14525,
-    "minor": 14525,
+    "major": 14526,
+    "minor": 14526,
     "patch": 86
   }
 }
