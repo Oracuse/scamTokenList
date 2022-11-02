@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0eC6C76E2431f2d9410B485313a92b1D0bBAd4AD",
-      "symbol": "AED",
-      "name": "AED",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x042695b7285aCBEddc169776f69877a212800726",
       "symbol": "MIZU",
       "name": "Mizuchi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x263Fb2ecd95DF698382Ee3439B14237eb38Aa127",
+      "symbol": "DGFM",
+      "name": "DogeRadio",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14504,
-    "minor": 14504,
+    "major": 14505,
+    "minor": 14505,
     "patch": 86
   }
 }
