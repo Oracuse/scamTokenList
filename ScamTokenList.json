@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x30Ea8608D017d9b9B96f516B27b6Fb7AF0655d8C",
-      "symbol": "ROME",
-      "name": "AncientRome",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4E37e9DAC736D58120Cb9273f571A1F2Ea16dFef",
       "symbol": "SHIBANATI",
       "name": "Shibanati",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02aa30b865FFaBA8a13A93b5C28f8a1348BD5d4A",
+      "symbol": "FREE",
+      "name": "freeProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14581,
-    "minor": 14581,
+    "major": 14582,
+    "minor": 14582,
     "patch": 86
   }
 }
