@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x82BC2BE10c14b389eC04CaE164bc751F954F1d7F",
-      "symbol": "ZIE",
-      "name": "ZUKOINU",
-      "decimals": 12,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9bB23E55beD17e7dEC200949a71bDe5a9c109C2E",
       "symbol": "AZP",
       "name": "AZPToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaF95B36b1d8829b751B4e3B7dc1FE8815712431E",
+      "symbol": "HEART",
+      "name": "HeartOfDefi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14585,
-    "minor": 14585,
+    "major": 14586,
+    "minor": 14586,
     "patch": 86
   }
 }
