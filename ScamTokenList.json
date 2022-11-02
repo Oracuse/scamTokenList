@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x653622F9352dfA17e308bd89f89FedE256085Ff2",
-      "symbol": "RESOUL",
-      "name": "resoul",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3f68913Bd73F84A1b3399b88cC2f44Af6d080160",
       "symbol": "HONJISUIJAKU",
       "name": "Honjisuijaku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbDF5ff87c7d0278f190e0B67784F32523BAd6F44",
+      "symbol": "BANANA",
+      "name": "APE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14546,
-    "minor": 14546,
+    "major": 14547,
+    "minor": 14547,
     "patch": 86
   }
 }
