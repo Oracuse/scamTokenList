@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76bA7d02Dc7022113AE1DFd04830264CeC0c136c",
-      "symbol": "DEGEN",
-      "name": "Degen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x92fF563cE14fC62A5A87961CaBf1f98748fbBaEe",
       "symbol": "RAB",
       "name": "RaBurns",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x920C2C530eeE8a85200c00b40634F67453463403",
+      "symbol": "KOKU",
+      "name": "Shikoku",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14583,
-    "minor": 14583,
+    "major": 14584,
+    "minor": 14584,
     "patch": 86
   }
 }
