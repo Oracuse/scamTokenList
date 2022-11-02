@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xda2c07375d77ab36e887F44ABcc5bf78B4002570",
-      "symbol": "HAKUS",
-      "name": "HakuShib",
-      "decimals": 5,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbE78DF4D6B41533587Be788be55E40A74D74341b",
       "symbol": "STAKE",
       "name": "SUESTAKE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10575c64A4B85C0eA03FC1f996Cf1302432Db334",
+      "symbol": "IZANAMI",
+      "name": "izanami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14516,
-    "minor": 14516,
+    "major": 14517,
+    "minor": 14517,
     "patch": 86
   }
 }
