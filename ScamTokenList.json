@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF0a8CD2119Ba26eB61a7f7FfEFEA613e70870f81",
-      "symbol": "MIVIE",
-      "name": "MivieToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5c2de13CDcfC81e27a714d3754e6CE30e0136408",
       "symbol": "GUANYIN",
       "name": "Guanyin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC96269EdE545645857c6Ef7119615BF49741c604",
+      "symbol": "CZ",
+      "name": "CZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14521,
-    "minor": 14521,
+    "major": 14522,
+    "minor": 14522,
     "patch": 86
   }
 }
