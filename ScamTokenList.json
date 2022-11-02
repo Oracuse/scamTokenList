@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB4D80E941791b9AE6cDad45ECF8936D9df5E34Ce",
-      "symbol": "SUDORUG",
-      "name": "SudoRugToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x16884662E34fF0aB14FD43173bc695A02d6bb147",
       "symbol": "CHAOS",
       "name": "CHAOSDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9513c6e922c1B9F6C5f57EB2db62e3816E13E0bb",
+      "symbol": "TGOLD",
+      "name": "Tabaxi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14592,
-    "minor": 14592,
+    "major": 14593,
+    "minor": 14593,
     "patch": 86
   }
 }
