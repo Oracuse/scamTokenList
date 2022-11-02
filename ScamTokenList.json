@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF534f969A2F58A5650F9eAaefe60e77fB5857503",
-      "symbol": "INUBIS",
-      "name": "InubistmeInubisERC2",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb3ebE740901513120b08A516EC8699f93BE7FD0E",
       "symbol": "INUBIS",
       "name": "Inubis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1F737C07e719c6f6614D8218496a9eE0baEF668",
+      "symbol": "OBELUS",
+      "name": "Obelus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14436,
-    "minor": 14436,
+    "major": 14437,
+    "minor": 14437,
     "patch": 86
   }
 }
