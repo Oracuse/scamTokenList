@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5Ca8abC28F4B44e94FE2bc29a0EC829E20f888Eb",
-      "symbol": "SLURP",
-      "name": "LeSlurp",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFeFD895741b95c38f0a2D17df8B1dCb1cA4E5Eac",
       "symbol": "SUDORUG",
       "name": "SudoRugToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x666ee1841F394e9D834f8E81f892D33BD7eF3504",
+      "symbol": "DGTVB",
+      "name": "DGTVBurn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14597,
-    "minor": 14597,
+    "major": 14598,
+    "minor": 14598,
     "patch": 86
   }
 }
