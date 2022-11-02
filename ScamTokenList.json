@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCafba94ef82AbaE3931B368A92E445F0080eb666",
-      "symbol": "BINU",
-      "name": "BurnInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3eEB8A8672abD98eBeaaC749095cC8124B5a4d5d",
       "symbol": "MTS",
       "name": "Mizutsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1026342B211721Cf2E4411Fac0Ff1118ebD157d1",
+      "symbol": "TRUMPISDEAD",
+      "name": "TrumpIsDead",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14502,
-    "minor": 14502,
+    "major": 14503,
+    "minor": 14503,
     "patch": 86
   }
 }
