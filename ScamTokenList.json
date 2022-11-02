@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9bB23E55beD17e7dEC200949a71bDe5a9c109C2E",
-      "symbol": "AZP",
-      "name": "AZPToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9d4a651B2ac93c14626d242c25eB08C987F1689C",
       "symbol": "MDCCLXXVI",
       "name": "NovusOrdoSeculorum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19B0C8ead8A0927C53C82A4b53F83f3B8F4D7e7e",
+      "symbol": "8",
+      "name": "EightBucks",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14586,
-    "minor": 14586,
+    "major": 14587,
+    "minor": 14587,
     "patch": 86
   }
 }
