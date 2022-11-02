@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcDF41234910A56AfdCE45EDB39CDbFD2A097e9C3",
-      "symbol": "RTA",
-      "name": "RatAngel",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x20fb233752a30DA191cE6F84F48e55Ad06c8B0Dc",
       "symbol": "BONK",
       "name": "BonkTools",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52D716b8412b946912A237be6201Fe9d746Bd9Dc",
+      "symbol": "LONG",
+      "name": "LongitudeProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14481,
-    "minor": 14481,
+    "major": 14482,
+    "minor": 14482,
     "patch": 86
   }
 }
