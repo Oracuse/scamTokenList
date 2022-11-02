@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x940ed860dC38935D380333AA1B79EA30a235E86d",
-      "symbol": "ZEN",
-      "name": "ZenGarden",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75a3B0Df9ca86b040E5A6eDEe873fe9850f2f4f9",
       "symbol": "AINU",
       "name": "AUGUSTUSINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F20eBf0bB0C37ffEA6924f6f2904096f6032e2d",
+      "symbol": "SUZUJO",
+      "name": "SUZUJO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14561,
-    "minor": 14561,
+    "major": 14562,
+    "minor": 14562,
     "patch": 86
   }
 }
