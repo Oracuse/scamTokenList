@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xafA5557c748042985FFb8015E17C9C75940488C4",
-      "symbol": "DRAGONAIR",
-      "name": "DragonairInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0D47E58C554A08911a77155f3Eaa715E088Fc8e8",
       "symbol": "SXS",
       "name": "Syndicate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC8848e3920995c7b46a78A0254E1506EFDdd1C5f",
+      "symbol": "RL",
+      "name": "rightleft",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14555,
-    "minor": 14555,
+    "major": 14556,
+    "minor": 14556,
     "patch": 86
   }
 }
