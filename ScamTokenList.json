@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x058021D3F4E06501914Dc4bC889D681476aC3188",
-      "symbol": "SKIPPER",
-      "name": "TheSkipper",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01bCe7deac933744d9B53C0b80Ca7e81397EB60E",
       "symbol": "AED",
       "name": "AED",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7ef9F9aA0048ff3C9052FAA30b90Aabd2667d69C",
+      "symbol": "OFIN",
+      "name": "OPPAFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14499,
-    "minor": 14499,
+    "major": 14500,
+    "minor": 14500,
     "patch": 86
   }
 }
