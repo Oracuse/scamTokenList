@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x01bCe7deac933744d9B53C0b80Ca7e81397EB60E",
-      "symbol": "AED",
-      "name": "AED",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x24a37E691a4C0C8cC232b72099339F4ca6A66bfc",
       "symbol": "HOPE",
       "name": "PRAY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe26d2Ac3D8c092Ba9CB4E6cfB9C2Ba09Df7F3842",
+      "symbol": "KOL",
+      "name": "CallerInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14500,
-    "minor": 14500,
+    "major": 14501,
+    "minor": 14501,
     "patch": 86
   }
 }
