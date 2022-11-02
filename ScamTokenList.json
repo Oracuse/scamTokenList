@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x832b23AdaE778EeC9bcF027d436A8391926f9530",
-      "symbol": "LUCK",
-      "name": "Fortuna",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd0aF155f953FEE48CF0E7e85122343Cef79f66b9",
       "symbol": "DOOMSDAY",
       "name": "Armageddon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7a99465C5643A3C356eff5e983c7377fd27f9B7",
+      "symbol": "YUZU",
+      "name": "Yuzu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14572,
-    "minor": 14572,
+    "major": 14573,
+    "minor": 14573,
     "patch": 86
   }
 }
