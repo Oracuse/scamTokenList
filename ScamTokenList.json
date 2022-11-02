@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2C45F7453261ce750521a74e52A3c002c2c21690",
-      "symbol": "DAKE",
-      "name": "MINAMI",
-      "decimals": 5,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xda2c07375d77ab36e887F44ABcc5bf78B4002570",
       "symbol": "HAKUS",
       "name": "HakuShib",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeE1162568D6aabD9A6CBCd78610699d75631C1F3",
+      "symbol": "AGO",
+      "name": "AlexGo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14515,
-    "minor": 14515,
+    "major": 14516,
+    "minor": 14516,
     "patch": 86
   }
 }
