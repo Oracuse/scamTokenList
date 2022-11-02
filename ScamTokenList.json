@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5bAB9913b441b1990Eb316047A90bF0db6700a01",
-      "symbol": "ZYSYSS",
-      "name": "Zysyss",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9cb82A185A194197De3B920fF57DB67EBB736d73",
       "symbol": "OSF",
       "name": "OSFEditions",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D09aF27367869044bC3f5356e5A7d947401820D",
+      "symbol": "BTFD",
+      "name": "BuyTheFuckingDip",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14524,
-    "minor": 14524,
+    "major": 14525,
+    "minor": 14525,
     "patch": 86
   }
 }
