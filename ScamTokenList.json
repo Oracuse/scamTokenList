@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB6b0C86A627c953aA90887828Dd0De91c1412C94",
-      "symbol": "SUSANOO",
-      "name": "SUSANOO",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5d9cCf8fD3e0bf913Fc29d68a0697Efc75d8a28A",
       "symbol": "LUNB",
       "name": "WrappedLUNBToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4eC24195A2b9C55cDA751b5EC0D599037844F545",
+      "symbol": "CERBERUS",
+      "name": "EvilDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14451,
-    "minor": 14451,
+    "major": 14452,
+    "minor": 14452,
     "patch": 86
   }
 }
