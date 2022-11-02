@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf39fE7aCCdAd7eeCf7dDA85fdB2f4893a0d8783c",
-      "symbol": "YOMI",
-      "name": "YominoKuni",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDa774DBcf66bd5a091565d7044B2A3FfBfd29990",
       "symbol": "MZM",
       "name": "MZM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3A876dF616945e8D7e58F7fb8008E3425C4FA2C",
+      "symbol": "STRIKE",
+      "name": "StrikedApp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14567,
-    "minor": 14567,
+    "major": 14568,
+    "minor": 14568,
     "patch": 86
   }
 }
