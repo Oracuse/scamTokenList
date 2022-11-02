@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaCc91B4F3288B5988E0dAcFa66244f215FdA507f",
-      "symbol": "GOTCHA",
-      "name": "Gotcha",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf8dde63B44A6Ef6dA02154ba250Fd81D39EaEd69",
       "symbol": "LUCKNFORTUNE",
       "name": "Daikokuten",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2965395F71B7d97ede251E9B63e44dfA9647cC0A",
+      "symbol": "SHINSHU",
+      "name": "ShinshuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14460,
-    "minor": 14460,
+    "major": 14461,
+    "minor": 14461,
     "patch": 86
   }
 }
