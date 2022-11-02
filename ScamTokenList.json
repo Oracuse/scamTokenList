@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x967f5993E54F4B17162a6BC2F449B77F4bE10785",
-      "symbol": "MISAKO",
-      "name": "MisakoToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdd16ce981049C77E1c23989E6ae6d11Bc50B383B",
       "symbol": "KSI",
       "name": "Ksitigarbha",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x134af5Eab434F52673Bd71987287E2Da287A29c9",
+      "symbol": "GERMANY",
+      "name": "FIFAWorldCupGermany",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14602,
-    "minor": 14602,
+    "major": 14603,
+    "minor": 14603,
     "patch": 86
   }
 }
