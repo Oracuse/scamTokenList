@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3a4f171eac00343227ea57AD4F988c3808e6Ed00",
-      "symbol": "GURUMA",
-      "name": "Katawaguruma",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbb8A996D212E3404698d4130494CF2A4CA97F1D3",
       "symbol": "ROKU",
       "name": "Rokumunsen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCf6304f6912590E4016e26e2dbf283Bf34D995F4",
+      "symbol": "50BPS",
+      "name": "BullRun",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14539,
-    "minor": 14539,
+    "major": 14540,
+    "minor": 14540,
     "patch": 86
   }
 }
