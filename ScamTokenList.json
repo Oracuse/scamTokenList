@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5C14E4d228cD917CBeCB8dB15fBA0445a337Aa80",
-      "symbol": "SHIBEREUM",
-      "name": "Shibereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51efD5174991FccC3010e681C4eF53322eDc2975",
       "symbol": "SUDORUG",
       "name": "SudoRugToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2b887d04A1808944435aB324898c73BcA818f6A",
+      "symbol": "FKTV",
+      "name": "FlokiTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14595,
-    "minor": 14595,
+    "major": 14596,
+    "minor": 14596,
     "patch": 86
   }
 }
