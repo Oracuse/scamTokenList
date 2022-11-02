@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb94C5dd0622F4E09b603eAb76437dE34c7d6fB43",
-      "symbol": "ROY",
-      "name": "RATBOY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x207D0088413216959F2a4ea76Fb1B7ceB3708C5A",
       "symbol": "WATANABE",
       "name": "WatanabeHironori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8AD73eE142d9ee6e8420Cc6a95795A81B55e62C",
+      "symbol": "GXM",
+      "name": "GameXMine",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14479,
-    "minor": 14479,
+    "major": 14480,
+    "minor": 14480,
     "patch": 86
   }
 }
