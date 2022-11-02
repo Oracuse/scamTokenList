@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x409d9fea7858f6558E429643bE9F83b556A7B623",
-      "symbol": "HMNS",
-      "name": "HumansOnly",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98D3D9C90b837095f2f568FA0Ce0dc8725c295e0",
       "symbol": "LDC",
       "name": "LazyDogechainToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x854D3fA4063Cf9126dba57cF9d8190d034232910",
+      "symbol": "DMZN",
+      "name": "Dogemazon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14475,
-    "minor": 14475,
+    "major": 14476,
+    "minor": 14476,
     "patch": 86
   }
 }
