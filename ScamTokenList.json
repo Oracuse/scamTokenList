@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd38fA9670D00842d84cE55dFc669168329FfF33A",
-      "symbol": "ZZZ",
-      "name": "ZZZ",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2aE8c97F169aB85D22ccCeD9a4a39b8f93D624dd",
       "symbol": "SHIZUKA",
       "name": "ShizukaMinamoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E8C14e6D10970bb654686BF219C9cCac830D9b6",
+      "symbol": "MARBLEX",
+      "name": "MarblePrix",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14536,
-    "minor": 14536,
+    "major": 14537,
+    "minor": 14537,
     "patch": 86
   }
 }
