@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCcE42cB587749E8fb818e88F2f055a62bfd57D75",
-      "symbol": "ETHIAD",
-      "name": "Ethiad",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEfe746047dCfeBe702a7752C2A4d973F9419D65D",
       "symbol": "DATA",
       "name": "NoDataHere",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x619CbA05601DB7C9852820F5C6269C1233485C5B",
+      "symbol": "POW",
+      "name": "PowellCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14553,
-    "minor": 14553,
+    "major": 14554,
+    "minor": 14554,
     "patch": 86
   }
 }
