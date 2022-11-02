@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE45DE7C55a6016A616931903A7a228C6c0BdAEFC",
-      "symbol": "YOROI",
-      "name": "Yoroi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x358FDC7D1EBd2B8BbAe50e75c9f449c8D935bD13",
       "symbol": "NPLM",
       "name": "Napalm",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1cc5E0c811E22aaF9af18525f186507D9B322CE5",
+      "symbol": "RAMMSTEIN",
+      "name": "FIFAWorldCupRammste",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14529,
-    "minor": 14529,
+    "major": 14530,
+    "minor": 14530,
     "patch": 86
   }
 }
