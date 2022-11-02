@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4E37e9DAC736D58120Cb9273f571A1F2Ea16dFef",
-      "symbol": "SHIBANATI",
-      "name": "Shibanati",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76bA7d02Dc7022113AE1DFd04830264CeC0c136c",
       "symbol": "DEGEN",
       "name": "Degen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0eD6E9A8a0dD8deFf9613b383a479127Acd4b0d",
+      "symbol": "TWEETVOJAK",
+      "name": "TwitterVojak",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14582,
-    "minor": 14582,
+    "major": 14583,
+    "minor": 14583,
     "patch": 86
   }
 }
