@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x92fF563cE14fC62A5A87961CaBf1f98748fbBaEe",
-      "symbol": "RAB",
-      "name": "RaBurns",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82BC2BE10c14b389eC04CaE164bc751F954F1d7F",
       "symbol": "ZIE",
       "name": "ZUKOINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbeC3A0cBa0FbC9DA398095b54342c4Ee76eCbc13",
+      "symbol": "BNH",
+      "name": "PrestigeWorldwide",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14584,
-    "minor": 14584,
+    "major": 14585,
+    "minor": 14585,
     "patch": 86
   }
 }
