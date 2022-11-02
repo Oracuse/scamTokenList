@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaC0282a75D2A015da705eba40bca573Dd8De0c35",
-      "symbol": "SMAUG",
-      "name": "Smaug",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x30Ea8608D017d9b9B96f516B27b6Fb7AF0655d8C",
       "symbol": "ROME",
       "name": "AncientRome",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Dd30ecb732a4e9e2e9734238C8f53f498faC1F5",
+      "symbol": "1508",
+      "name": "One508",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14580,
-    "minor": 14580,
+    "major": 14581,
+    "minor": 14581,
     "patch": 86
   }
 }
