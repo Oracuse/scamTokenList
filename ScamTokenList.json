@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAc188FB75592130D3e797A83c3Ce0de6ce044aD5",
-      "symbol": "DOGEGUARD",
-      "name": "DogeGuard",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEe94770eB87EF68093F38E39EA62bb7afd12A7D3",
       "symbol": "INUBIS",
       "name": "Inubis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80C16cE61588119e6ffBCe43B29301c96114721E",
+      "symbol": "VBT",
+      "name": "VitalikBlueTick",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14443,
-    "minor": 14443,
+    "major": 14444,
+    "minor": 14444,
     "patch": 86
   }
 }
