@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x44a50b310Ca2Ce39Dff87832049e3b23FB6b93ba",
-      "symbol": "FAQYU",
-      "name": "Faqyu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2D657CC322e52Ef34441A5E41924139Fd26Ba6e4",
       "symbol": "CHAOS",
       "name": "CHAOSDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEEc82a99A55C24256fe870d12cE1c196b6BCC7f0",
+      "symbol": "MBA",
+      "name": "MightBeAlpha",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14589,
-    "minor": 14589,
+    "major": 14590,
+    "minor": 14590,
     "patch": 86
   }
 }
