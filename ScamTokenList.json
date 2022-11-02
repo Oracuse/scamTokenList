@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9C0d64aB027a6974Cf61960b0065eAaa1b7Ba0df",
-      "symbol": "48H",
-      "name": "Hours",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC19B95E15D6a051b3904314091F0326cC567f48B",
       "symbol": "STHX",
       "name": "StealthX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8007DDB7248fC867d2E63985a504FdDE588852A9",
+      "symbol": "NOVEMBULL",
+      "name": "Novembull",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14440,
-    "minor": 14440,
+    "major": 14441,
+    "minor": 14441,
     "patch": 86
   }
 }
