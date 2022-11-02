@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6Ca2982C58af251672c4A8e100f93EA9dED02469",
-      "symbol": "ARMS",
-      "name": "TheArmament",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB4D80E941791b9AE6cDad45ECF8936D9df5E34Ce",
       "symbol": "SUDORUG",
       "name": "SudoRugToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x984815A36E6E53DdB2FB14E100bd39a3A680E014",
+      "symbol": "58B",
+      "name": "FiftyEightBucks",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14591,
-    "minor": 14591,
+    "major": 14592,
+    "minor": 14592,
     "patch": 86
   }
 }
