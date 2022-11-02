@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbE78DF4D6B41533587Be788be55E40A74D74341b",
-      "symbol": "STAKE",
-      "name": "SUESTAKE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25dcE8Ae446a6F070460572172534299f3A82b6d",
       "symbol": "LAMBONOW",
       "name": "RATBOYETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeFE3932E2C4419dBAD06db51E252aF4bE4dC2a3f",
+      "symbol": "WOTHA",
+      "name": "WOTHA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14517,
-    "minor": 14517,
+    "major": 14518,
+    "minor": 14518,
     "patch": 86
   }
 }
