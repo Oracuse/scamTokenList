@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9735C4D83b510396dD1ECcD145a8D4eFB6da4C59",
-      "symbol": "WSUDO",
-      "name": "SudoSwap",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaC0282a75D2A015da705eba40bca573Dd8De0c35",
       "symbol": "SMAUG",
       "name": "Smaug",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D00b5E09Fa38152EcA87Bd3fd7372e96c6491F4",
+      "symbol": "DOGGIES",
+      "name": "TheDoggies",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14579,
-    "minor": 14579,
+    "major": 14580,
+    "minor": 14580,
     "patch": 86
   }
 }
