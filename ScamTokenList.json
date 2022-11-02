@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDD5210461544bc41a0D13fBF02666F9f4ae62200",
-      "symbol": "FANTASY",
-      "name": "ValsediFantastica",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCcE42cB587749E8fb818e88F2f055a62bfd57D75",
       "symbol": "ETHIAD",
       "name": "Ethiad",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3CC3971a0bFC7Bb004011e6616A9094907b8f49c",
+      "symbol": "HFSP",
+      "name": "ProbablyNothing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14552,
-    "minor": 14552,
+    "major": 14553,
+    "minor": 14553,
     "patch": 86
   }
 }
