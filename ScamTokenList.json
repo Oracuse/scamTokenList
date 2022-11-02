@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf472150222f2E5F485eCF48eD9B7f3179CE6be09",
-      "symbol": "GGT",
-      "name": "GautamaGoldToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5B4C39521993f3D9726fe8A8D957ad3e8cF1d2D9",
       "symbol": "JARL",
       "name": "JARLLABS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7544E5856ED125920315e7fFAEa2d0245EF97cfb",
+      "symbol": "WHITEHOUSE",
+      "name": "TrumpsWish",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14470,
-    "minor": 14470,
+    "major": 14471,
+    "minor": 14471,
     "patch": 86
   }
 }
