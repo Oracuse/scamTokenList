@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe1F9842EcEF3690248de09cf8f1fc8E07250A20b",
-      "symbol": "PATRIARCHY",
-      "name": "Patriarchy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59d4d86672Ecc2bc877ec6a7F5e76A6866a76181",
       "symbol": "LUNE",
       "name": "WrappedLUNEToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCfE29785c878201938b9A821697aBE240b82CC53",
+      "symbol": "MICHAEL",
+      "name": "ThanksMichaelInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14541,
-    "minor": 14541,
+    "major": 14542,
+    "minor": 14542,
     "patch": 86
   }
 }
