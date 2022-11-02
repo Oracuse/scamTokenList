@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa204720b32e19Ca25AcDa6763133a31c2eedf336",
-      "symbol": "VINU",
-      "name": "ValhallaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x145f8165C770a6D530301555AE02D38B8a0a89Ae",
       "symbol": "STHX",
       "name": "Stealthx",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a1E618a5E2774b5f9DE28e4CB9779AE9efd2695",
+      "symbol": "TEST",
+      "name": "TestToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14449,
-    "minor": 14449,
+    "major": 14450,
+    "minor": 14450,
     "patch": 86
   }
 }
