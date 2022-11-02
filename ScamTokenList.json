@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x71966741128bFd5933a802544e094398012c9359",
-      "symbol": "HAKUD",
-      "name": "HakuDoge",
-      "decimals": 5,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7EC651F1dCC97785C1a36ED7f7582e7d67670394",
       "symbol": "HUSKY",
       "name": "HuskyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7768Cf20e75029c2D2C092dF588ac8548e0Fe18d",
+      "symbol": "BLUE",
+      "name": "BlueCheckProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14506,
-    "minor": 14506,
+    "major": 14507,
+    "minor": 14507,
     "patch": 86
   }
 }
