@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd7E935bC70A2A1a899D8914C446CE2A2D7885822",
-      "symbol": "VFECT",
-      "name": "VitalikEffect",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9735C4D83b510396dD1ECcD145a8D4eFB6da4C59",
       "symbol": "WSUDO",
       "name": "SudoSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcc2b183906ef94974C120EF167C4Ae52320B14a6",
+      "symbol": "CPZ",
+      "name": "ChadPunkz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14578,
-    "minor": 14578,
+    "major": 14579,
+    "minor": 14579,
     "patch": 86
   }
 }
