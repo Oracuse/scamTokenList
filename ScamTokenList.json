@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x145f8165C770a6D530301555AE02D38B8a0a89Ae",
-      "symbol": "STHX",
-      "name": "Stealthx",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB6b0C86A627c953aA90887828Dd0De91c1412C94",
       "symbol": "SUSANOO",
       "name": "SUSANOO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDF2fba39F079223dAeBA8a91e5aDE53993e1A362",
+      "symbol": "GENGAR",
+      "name": "GigantamaxGengar",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14450,
-    "minor": 14450,
+    "major": 14451,
+    "minor": 14451,
     "patch": 86
   }
 }
