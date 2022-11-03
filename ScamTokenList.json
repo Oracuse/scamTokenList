@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEc2f40777015D0aD3a385739a027baB616F19ca8",
-      "symbol": "FLOKITSAMI",
-      "name": "FLOKITSAMI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x48957AAEd574d8ee7C720Df5705835207cDa5190",
       "symbol": "DOGEETH",
       "name": "Dogeeth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C4374Bc6E45Aa730259465aa226E1AD62C5BD96",
+      "symbol": "PROTON",
+      "name": "ProtonProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14725,
-    "minor": 14725,
+    "major": 14726,
+    "minor": 14726,
     "patch": 86
   }
 }
