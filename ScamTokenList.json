@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0FA2f6e58C4A9Ab849ea6ee05F4D9Ca39D4FcD2f",
-      "symbol": "VINU",
-      "name": "ValhallaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd04e453681916230BD375AA4385e50F2C8F9e521",
       "symbol": "SMAUG",
       "name": "Smaug",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd995747a0D0426547C17b202b2Fda7b4715aC99a",
+      "symbol": "MINC",
+      "name": "MalakioInc",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14611,
-    "minor": 14611,
+    "major": 14612,
+    "minor": 14612,
     "patch": 86
   }
 }
