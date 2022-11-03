@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x40014520AE1844B8CfA6e69E7f0f694Ff5484b4D",
-      "symbol": "PEPECHAIN",
-      "name": "PEPECHAIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbD61C7b85033A4179d2da5F49362f467D7792a49",
       "symbol": "LAOBAIXING",
       "name": "LaoBaiXing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbcCb479F9F067563842d2DB5dFA2A7eEeca64727",
+      "symbol": "BRAZIL",
+      "name": "FIFAWorldCupBrazil",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14679,
-    "minor": 14679,
+    "major": 14680,
+    "minor": 14680,
     "patch": 86
   }
 }
