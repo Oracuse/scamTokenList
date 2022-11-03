@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfEe05Fa6A46c5782aa937fd8B5CaF89984e8db83",
-      "symbol": "FLOKITSAMI",
-      "name": "FLOKITSAMI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7BB122D596014d96D65a8cd866028DDE70357943",
       "symbol": "SHIBEREUM",
       "name": "Shibereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B4e5Bbc5291503ba1932B5fCf35de48cf7a5F13",
+      "symbol": "NI",
+      "name": "NoIdea",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14700,
-    "minor": 14700,
+    "major": 14701,
+    "minor": 14701,
     "patch": 86
   }
 }
