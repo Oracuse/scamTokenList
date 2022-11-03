@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8abA06a8FD180089b2EA6a52D9856875719e0Af6",
-      "symbol": "ESOP",
-      "name": "EsotericProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA6A28941131fbE12A018cAFACA0609Ecd501a7D3",
       "symbol": "SHIKA",
       "name": "KaminoShisha",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x771b05Dd9C80646cEdCF3824A5d2F58546317669",
+      "symbol": "HEART",
+      "name": "HeartofDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14617,
-    "minor": 14617,
+    "major": 14618,
+    "minor": 14618,
     "patch": 86
   }
 }
