@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x69C90119f283E2cf774239fb897Ed908054b0900",
-      "symbol": "KETH",
-      "name": "KARATOSETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1a6665FDf806Ad237D0C1E21c822168378288BB8",
       "symbol": "JORO",
       "name": "JOROGUMO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x028F0794079bdF4c619E7f643bdC1E57A3e1a0bf",
+      "symbol": "SHUTUP",
+      "name": "ShutupandtakemyETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14745,
-    "minor": 14745,
+    "major": 14746,
+    "minor": 14746,
     "patch": 86
   }
 }
