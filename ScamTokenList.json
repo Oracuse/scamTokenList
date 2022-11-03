@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7BB49C0b1D77868fCfd5871BE7719dF65074A398",
-      "symbol": "MMAI",
-      "name": "MetaMonkeyAI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2D0F6091db567a90ba03df201Ed8D98d45A3Cd9e",
       "symbol": "BANSHEE",
       "name": "TheHauntingAngel",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c160e4FAFcf1d6A24Fc1EB6c010e5d93f5CDc02",
+      "symbol": "SQUARE",
+      "name": "Square",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14655,
-    "minor": 14655,
+    "major": 14656,
+    "minor": 14656,
     "patch": 86
   }
 }
