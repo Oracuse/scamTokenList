@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x80A037153585a37f3be0381F706a763a06F60DA5",
-      "symbol": "SHUBO",
-      "name": "Shunobon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28c7C5274AD36C846BEd182A296Ea790B691A9f1",
       "symbol": "VINDICATED",
       "name": "Vindicated",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcf92baEb2481383060Ee8e42E70A9af00Bc3De25",
+      "symbol": "BSHIB",
+      "name": "BlackShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14665,
-    "minor": 14665,
+    "major": 14666,
+    "minor": 14666,
     "patch": 86
   }
 }
