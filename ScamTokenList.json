@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeCc87DFC86504a7CcA9522ec27493B0A18441d53",
-      "symbol": "DUST",
-      "name": "DUST",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf05B90e5f2589D1fb2572Fc916418E3ceEd3C5db",
       "symbol": "DVC",
       "name": "DaVinciCode",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82A07602B3433245E94D15d734F93F7fd5a5fe3C",
+      "symbol": "FOOT",
+      "name": "Footballium",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14733,
-    "minor": 14733,
+    "major": 14734,
+    "minor": 14734,
     "patch": 86
   }
 }
