@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb7c057d2fa0fBd5B73c6A0C8Bf847dbe07199843",
-      "symbol": "ENIGMATIC",
-      "name": "Enigmatic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA7296A9C8d2f620D5cc38ECdD930DfdEc3923C60",
       "symbol": "SHIBEREUM",
       "name": "Shibereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC4B012901CB5eeEEf6331d1E6F9D1Fe79b34585e",
+      "symbol": "BGUARD",
+      "name": "BlueGuardian",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14683,
-    "minor": 14683,
+    "major": 14684,
+    "minor": 14684,
     "patch": 86
   }
 }
