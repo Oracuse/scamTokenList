@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBC68eAD1044A47ffD5D75AfD5b33bfD34184ED9c",
-      "symbol": "TSUBA",
-      "name": "DejitaruTSUBA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x965F6e3f65D4565F53Fb802204FE8601e9E45A3a",
       "symbol": "AKIRA",
       "name": "Akira",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE97b6A9dDe66E2150C6054819F013c96AeF62a8B",
+      "symbol": "PAPI",
+      "name": "Papillon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14736,
-    "minor": 14736,
+    "major": 14737,
+    "minor": 14737,
     "patch": 86
   }
 }
