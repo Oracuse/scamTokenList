@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEf1b1ac3167BD9716A18Af82949e40bb82C60463",
-      "symbol": "APECHAIN",
-      "name": "ApeChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x57F0b0959199a9A079AB04B4b47a29D7f3393708",
       "symbol": "MIKASA",
       "name": "MikasaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3000308EE44409cb80288D6867580105129Ecc6F",
+      "symbol": "PO",
+      "name": "Polonium",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14774,
-    "minor": 14774,
+    "major": 14775,
+    "minor": 14775,
     "patch": 86
   }
 }
