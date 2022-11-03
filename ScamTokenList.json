@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5A6148842203a0A2498958A407AD01FD4C313BfD",
-      "symbol": "SAITAMACHAIN",
-      "name": "SaitamaChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7b95D2d943D293850Ec6fa1207bEC4C923F3AD27",
       "symbol": "DONTBUY",
       "name": "Test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26c10C1b52DA1B4afdEc8be236d5e4e1DC9D3077",
+      "symbol": "SHINU",
+      "name": "ShikokuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14731,
-    "minor": 14731,
+    "major": 14732,
+    "minor": 14732,
     "patch": 86
   }
 }
