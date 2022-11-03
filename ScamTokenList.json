@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7dd4816e0B69fE7860a4F5540fb615155F29D24a",
-      "symbol": "BLACKBREAD",
-      "name": "BaleriontheBlackBre",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1a443EE0c153ADfD965b4BFaD85E0Eda12D5f647",
       "symbol": "SKE",
       "name": "SKE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDE24F8682113B9F6603a81708B6311D335707DfF",
+      "symbol": "AWA",
+      "name": "ApesWithAttitude",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14630,
-    "minor": 14630,
+    "major": 14631,
+    "minor": 14631,
     "patch": 86
   }
 }
