@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x09388dBB82B5f50364dDa9335F1adA9C7f5243F3",
-      "symbol": "SHINJAREUM",
-      "name": "SHINJAREUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1dAc7AC8d21636553d2De9685D7F5733810C45C0",
       "symbol": "YUMI",
       "name": "TheBullseye",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd874B59defcd98F072B2F741249b57E0A634607e",
+      "symbol": "DGAPES",
+      "name": "DegenApes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14757,
-    "minor": 14757,
+    "major": 14758,
+    "minor": 14758,
     "patch": 86
   }
 }
