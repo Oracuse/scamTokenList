@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7BB122D596014d96D65a8cd866028DDE70357943",
-      "symbol": "SHIBEREUM",
-      "name": "Shibereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84b870DEA1bd8699da96688B20c43E4Eb95E469F",
       "symbol": "KOZO",
       "name": "Amefurikozo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD27E635E6f21AEDbA09d701159c81f3000144c3E",
+      "symbol": "X",
+      "name": "ProofOfX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14701,
-    "minor": 14701,
+    "major": 14702,
+    "minor": 14702,
     "patch": 86
   }
 }
