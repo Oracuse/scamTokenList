@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaa0c5B3567fd1bac8a2a11EB16c3F81a49eea90F",
-      "symbol": "MMAI",
-      "name": "MetamonkeyAi",
-      "decimals": 7,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x939CF8E6A964B791f9DFe7fA05F89638B962917d",
       "symbol": "BANANA",
       "name": "BananaRepublic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA9FA80F7549af06765d61347ccd671e01d87492A",
+      "symbol": "MTP",
+      "name": "MetaPods",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14695,
-    "minor": 14695,
+    "major": 14696,
+    "minor": 14696,
     "patch": 86
   }
 }
