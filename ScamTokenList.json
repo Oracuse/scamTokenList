@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x534A5A5488f4081AEE3A9e72Bb0AD553EB0E9c7B",
-      "symbol": "RAPTOR",
-      "name": "RAPTORPROTOCOL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5072B56AE965974291f254109BC2b6B19caA5799",
       "symbol": "MIL",
       "name": "Programmed1MillionM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0AADf30597f8b1A2066d8c14D55DB334d79d3E61",
+      "symbol": "HOD",
+      "name": "FindTheWay",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14626,
-    "minor": 14626,
+    "major": 14627,
+    "minor": 14627,
     "patch": 86
   }
 }
