@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x37d752EA0E5BaAfF45cfB40e7cD9843f9A4A5eBC",
-      "symbol": "PRINT",
-      "name": "MoneyPrinter",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB2e0004678A6f93B3dCB1A26E44Eb028702979DB",
       "symbol": "OVERTSUKA",
       "name": "Overtsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d79bBc7236E7FA27aC99ec2A0F9c85529800448",
+      "symbol": "NONUT",
+      "name": "NoNut",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14749,
-    "minor": 14749,
+    "major": 14750,
+    "minor": 14750,
     "patch": 86
   }
 }
