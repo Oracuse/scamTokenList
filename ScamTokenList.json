@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x74dbc722a13bc0079CFBd0922B356e3A44c1cf64",
-      "symbol": "JAPE",
-      "name": "JackpotApe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd43e66B5BFC7141A5751282270d2DB3d1E0Ca348",
       "symbol": "HNSS",
       "name": "HotNSourSoup",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37528De7599487879A528AC0eB60C0F35f842Dda",
+      "symbol": "CPD",
+      "name": "CyberpunkDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14675,
-    "minor": 14675,
+    "major": 14676,
+    "minor": 14676,
     "patch": 86
   }
 }
