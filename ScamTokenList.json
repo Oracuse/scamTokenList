@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF1e952Ba20a3cC528825f232242C350F445b9c79",
-      "symbol": "HERETIC",
-      "name": "TheHeretic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x37d752EA0E5BaAfF45cfB40e7cD9843f9A4A5eBC",
       "symbol": "PRINT",
       "name": "MoneyPrinter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68a528926bA3CFd9E45aB464Bb36786F6C81A446",
+      "symbol": "GYOZA",
+      "name": "GYOZA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14748,
-    "minor": 14748,
+    "major": 14749,
+    "minor": 14749,
     "patch": 86
   }
 }
