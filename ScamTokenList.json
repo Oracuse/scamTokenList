@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbD61C7b85033A4179d2da5F49362f467D7792a49",
-      "symbol": "LAOBAIXING",
-      "name": "LaoBaiXing",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69d84022fcCb155C425Ac1E07403Ecf8c2745E2f",
       "symbol": "AXL",
       "name": "Axelar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4904BEB2355126fe9B9b196fDd78bafbC6e46299",
+      "symbol": "GCTP",
+      "name": "Dogemon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14680,
-    "minor": 14680,
+    "major": 14681,
+    "minor": 14681,
     "patch": 86
   }
 }
