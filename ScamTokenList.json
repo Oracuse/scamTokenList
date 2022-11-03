@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf6476dBfe326dCCa78B8F912142c56A7647042D3",
-      "symbol": "MICRO",
-      "name": "MACRO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2182818410E9A42386643Bf1f4096f100a0b1bAa",
       "symbol": "GODSG",
       "name": "GODS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27F0E08A61298740821bd79Cd9205A9da820c29E",
+      "symbol": "NAME",
+      "name": "NAME",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14653,
-    "minor": 14653,
+    "major": 14654,
+    "minor": 14654,
     "patch": 86
   }
 }
