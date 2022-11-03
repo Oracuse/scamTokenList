@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x627Bf387e0B7B94CBB1C5B4b8A1d7bfDbE42e7F2",
-      "symbol": "ROCKETDOGE",
-      "name": "RocketDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8c8FDdA69726Deca2A3804d1dD15e39517473C08",
       "symbol": "EDEN",
       "name": "EDEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e10C362d016f8701bF9C33c8f60f5c8882BaAa6",
+      "symbol": "WAGMIMAGIC",
+      "name": "WagmiMagic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14781,
-    "minor": 14781,
+    "major": 14782,
+    "minor": 14782,
     "patch": 86
   }
 }
