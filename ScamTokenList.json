@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28c7C5274AD36C846BEd182A296Ea790B691A9f1",
-      "symbol": "VINDICATED",
-      "name": "Vindicated",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa47A717383A67b2D9E176E57579c876e0bBF260A",
       "symbol": "TAKAMANOHARA",
       "name": "TakamanoHara",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x027EfDbC934bD95d5eDed6C9434DA8794a294d4F",
+      "symbol": "HEART",
+      "name": "HeartOfDefi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14666,
-    "minor": 14666,
+    "major": 14667,
+    "minor": 14667,
     "patch": 86
   }
 }
