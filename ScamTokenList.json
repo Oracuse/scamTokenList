@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x05C87199E1F96aB328CD7384Da0de9DA89331951",
-      "symbol": "FLOKICORE",
-      "name": "FLOKICORE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1A9895cd2bF3aC3f6469EAf7c1cAD66040fDe14D",
       "symbol": "KAMI",
       "name": "Okuninushi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7CC6EA770F4C665Db499636B7C946552Bf40c21",
+      "symbol": "YOKO",
+      "name": "YokoLuna",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14772,
-    "minor": 14772,
+    "major": 14773,
+    "minor": 14773,
     "patch": 86
   }
 }
