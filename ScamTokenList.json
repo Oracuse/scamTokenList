@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6B0FE94bd60A54C26c1fd98ff59f567A89c6ce93",
-      "symbol": "DMC",
-      "name": "DogelonMarsChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x74dbc722a13bc0079CFBd0922B356e3A44c1cf64",
       "symbol": "JAPE",
       "name": "JackpotApe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB7E5f35B18feb499e3C2A805C828Db416b00db1",
+      "symbol": "FFS",
+      "name": "ForFawkesSake",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14674,
-    "minor": 14674,
+    "major": 14675,
+    "minor": 14675,
     "patch": 86
   }
 }
