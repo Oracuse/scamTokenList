@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x031fd990d8E23AcdfC7191FB56c3438D9EDfa977",
-      "symbol": "BSD",
-      "name": "BASED",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x015C6650a4DB70Ad3029678B3DcF2128471509f5",
       "symbol": "SEER",
       "name": "TheSeer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xafBCD44649afF0c966F92fdfE40e86674805e653",
+      "symbol": "CAVEMAN",
+      "name": "Caveman",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14689,
-    "minor": 14689,
+    "major": 14690,
+    "minor": 14690,
     "patch": 86
   }
 }
