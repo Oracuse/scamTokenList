@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBECe0c0D15B290084ed7376F4d24504c8bF5671a",
-      "symbol": "IC",
-      "name": "InuChainToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE0C1fEE4904BE2baE183a7059230a75431a03E8e",
       "symbol": "DAMN",
       "name": "DamnFi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47904c306e83F7Bd695d55E577384eFeCA1b3DB9",
+      "symbol": "VINE",
+      "name": "Vinelon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14718,
-    "minor": 14718,
+    "major": 14719,
+    "minor": 14719,
     "patch": 86
   }
 }
