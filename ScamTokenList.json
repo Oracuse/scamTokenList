@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x233e0695D2FD7568879B98F2bE9C70581AbE2a3D",
-      "symbol": "CHAOS",
-      "name": "Chaos",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x324CB252982774F917Fb51453d10e3A4AD09c717",
       "symbol": "OKAMI",
       "name": "Kuraokami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09797722F68A70f8a3a2FCE1F57f8c2Fe607ff5B",
+      "symbol": "FREN",
+      "name": "FrenChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14635,
-    "minor": 14635,
+    "major": 14636,
+    "minor": 14636,
     "patch": 86
   }
 }
