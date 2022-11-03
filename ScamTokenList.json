@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4314f33Ce39d7671C2827Df3994b2eA65194F739",
-      "symbol": "NAME",
-      "name": "NAME",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25C03953428007113d4B5489626AF43499a08959",
       "symbol": "USDH",
       "name": "HOARD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc23A3cDfFc589842e3fF7805515d258220231e29",
+      "symbol": "PRIX",
+      "name": "PrixAlien",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14723,
-    "minor": 14723,
+    "major": 14724,
+    "minor": 14724,
     "patch": 86
   }
 }
