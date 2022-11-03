@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaA3b5f3966D9FeF27667BBecC6b8515C5C7928AF",
-      "symbol": "ZERO",
-      "name": "ZeroProtocol",
-      "decimals": 4,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf5E1864d5E319F435F803206c48D1d9201fE7c4B",
       "symbol": "CLOCK",
       "name": "CLOCK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd6f41503794f98082a0C61238d23a3C36768C207",
+      "symbol": "JOMON",
+      "name": "JomonShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14628,
-    "minor": 14628,
+    "major": 14629,
+    "minor": 14629,
     "patch": 86
   }
 }
