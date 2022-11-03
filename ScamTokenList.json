@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3b95D1C2Df28251eDBb80e6925e0fb214963A4b7",
-      "symbol": "BOSA",
-      "name": "BosaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD7dcDFAEE94087B774382F9eEf71Ef073AAeE1B6",
       "symbol": "KUSA",
       "name": "HeikeKusanagi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96309B6dd7131d80D82180C4561048AFc5509970",
+      "symbol": "SQUIDU",
+      "name": "SquiduToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14752,
-    "minor": 14752,
+    "major": 14753,
+    "minor": 14753,
     "patch": 86
   }
 }
