@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56D2e7f913219771C266eD4a7616E5F525e49982",
-      "symbol": "MEVKILLER",
-      "name": "MEVKiller",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0FA2f6e58C4A9Ab849ea6ee05F4D9Ca39D4FcD2f",
       "symbol": "VINU",
       "name": "ValhallaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF046f91395bdE96759Df8Ee1fD079066b187D4D5",
+      "symbol": "HEART",
+      "name": "HeartofDeFi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14610,
-    "minor": 14610,
+    "major": 14611,
+    "minor": 14611,
     "patch": 86
   }
 }
