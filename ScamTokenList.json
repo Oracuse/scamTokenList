@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x79b3113B76536958F886F576e54A9fe864Cdd0fa",
-      "symbol": "ZOMBEAR",
-      "name": "ZOMBEAR",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x534A5A5488f4081AEE3A9e72Bb0AD553EB0E9c7B",
       "symbol": "RAPTOR",
       "name": "RAPTORPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F07D40C530de1f8d3D36430ca952E5E30B8459a",
+      "symbol": "ETOSHI",
+      "name": "ELONTOSHI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14625,
-    "minor": 14625,
+    "major": 14626,
+    "minor": 14626,
     "patch": 86
   }
 }
