@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD9dA15233FF780a0b852C2764e63A8BfD51b3e1C",
-      "symbol": "CTHULU",
-      "name": "CthuluToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5A6148842203a0A2498958A407AD01FD4C313BfD",
       "symbol": "SAITAMACHAIN",
       "name": "SaitamaChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x805F0fD1bC16fbE8CFd94454bFc4c8f49AECE63E",
+      "symbol": "WRAWL",
+      "name": "WrawlToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14730,
-    "minor": 14730,
+    "major": 14731,
+    "minor": 14731,
     "patch": 86
   }
 }
