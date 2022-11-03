@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x91cCD2aC02803D2b9B6d7bd49cE2C42C14298297",
-      "symbol": "INSA",
-      "name": "INSA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBAAF20c516bEFcF968FD33afeEB658ABb54DFF78",
       "symbol": "RUN",
       "name": "Dynamic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x522a9c8bBbe11230960ddA459B3Ea4316d2eff10",
+      "symbol": "WAFFLE",
+      "name": "BlueWaffelInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14685,
-    "minor": 14685,
+    "major": 14686,
+    "minor": 14686,
     "patch": 86
   }
 }
