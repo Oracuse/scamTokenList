@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3bBd972746b95d072056467e305a43273FD7B92c",
-      "symbol": "SPLINTER",
-      "name": "SplinterInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4250fBBC107EC12e573980D75221d9AeBE62C738",
       "symbol": "VINCENZ",
       "name": "Vincenz",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56b4a6f1308cBBFb8deceEB82E5B9965bdC940a6",
+      "symbol": "PINU",
+      "name": "PugInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14698,
-    "minor": 14698,
+    "major": 14699,
+    "minor": 14699,
     "patch": 86
   }
 }
