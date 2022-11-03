@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98edBB4887019A1a9A1AEfeaa906Db1DA80DCcd5",
-      "symbol": "GINU",
-      "name": "GangsterInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA61155C643119682F2e01a2e5D1805f680d3ce2E",
       "symbol": "RVNS",
       "name": "RVN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB1865f918aD9732f68f9dDBE2E88764C564F5F1",
+      "symbol": "HIRO",
+      "name": "Masahiro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14740,
-    "minor": 14740,
+    "major": 14741,
+    "minor": 14741,
     "patch": 86
   }
 }
