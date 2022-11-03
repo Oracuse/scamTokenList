@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7b95D2d943D293850Ec6fa1207bEC4C923F3AD27",
-      "symbol": "DONTBUY",
-      "name": "Test",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeCc87DFC86504a7CcA9522ec27493B0A18441d53",
       "symbol": "DUST",
       "name": "DUST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83d215dc91851F9acE2797248941d631d4e84Ed7",
+      "symbol": "ISO",
+      "name": "InitialSocialOfferi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14732,
-    "minor": 14732,
+    "major": 14733,
+    "minor": 14733,
     "patch": 86
   }
 }
