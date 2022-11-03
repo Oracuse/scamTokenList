@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBAAF20c516bEFcF968FD33afeEB658ABb54DFF78",
-      "symbol": "RUN",
-      "name": "Dynamic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x87B081E2a7A21C1252532A5Ac357F34fA66A7264",
       "symbol": "TYCHE",
       "name": "Tyche",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa38D6B0E0F14bC4d1e14E2450DA93a474EdF91e7",
+      "symbol": "POCHI",
+      "name": "PochitaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14686,
-    "minor": 14686,
+    "major": 14687,
+    "minor": 14687,
     "patch": 86
   }
 }
