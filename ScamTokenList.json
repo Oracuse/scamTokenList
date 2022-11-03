@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEC296B5E7219D79C909AD1Ac82bCdD07B46Accc0",
-      "symbol": "TSUKAG",
-      "name": "TSUKAGOLD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6dd536A14c1f8d3413EAA0F8bb0197B5f9e9774A",
       "symbol": "BUNRAKUINU",
       "name": "BunrakuInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7BA395e763333d868CBDA1D26e9B5D3eC5533D2",
+      "symbol": "MINOWA",
+      "name": "MINOWAINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14642,
-    "minor": 14642,
+    "major": 14643,
+    "minor": 14643,
     "patch": 86
   }
 }
