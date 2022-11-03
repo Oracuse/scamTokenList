@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x965F6e3f65D4565F53Fb802204FE8601e9E45A3a",
-      "symbol": "AKIRA",
-      "name": "Akira",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd77e21e4D8339ea16A7c3050Ca6954BFa0e4E153",
       "symbol": "VAGENE",
       "name": "VageneEmporium",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcEaF9DfE40F9C0bA586f2990c4b33C4C98A53d8b",
+      "symbol": "QTE",
+      "name": "QuantumEnergy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14737,
-    "minor": 14737,
+    "major": 14738,
+    "minor": 14738,
     "patch": 86
   }
 }
