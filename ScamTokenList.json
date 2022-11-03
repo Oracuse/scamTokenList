@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x24B95ec2e815552bd26a121d838c261810Ec0acB",
-      "symbol": "SOS",
-      "name": "SOS",
-      "decimals": 2,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0664dC01FE19d727881Dcf9496E3A08006417284",
       "symbol": "DJ",
       "name": "DogeJeets",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1861c0AD608dB668A01441A15D1888607d538158",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14648,
-    "minor": 14648,
+    "major": 14649,
+    "minor": 14649,
     "patch": 86
   }
 }
