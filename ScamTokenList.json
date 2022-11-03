@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd60a32adB1c96a8882A0c1DdaB88F03faE44fb3D",
-      "symbol": "CODEOFHAMMURABI",
-      "name": "CODEOFHAMMURABI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x799bc324641f7A167eEbFf66a3c6b5a6D7501a55",
       "symbol": "SC",
       "name": "ShibchainToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6459E729A674EAd0676A4dB70f689Faefc8D8912",
+      "symbol": "HEART",
+      "name": "HeartofDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14619,
-    "minor": 14619,
+    "major": 14620,
+    "minor": 14620,
     "patch": 86
   }
 }
