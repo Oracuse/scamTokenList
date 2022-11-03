@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7C1376481417dcE6e9a1838bcc71252E7Dd6AD81",
-      "symbol": "JACKPOT",
-      "name": "TheJackpot",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcF83d79355891D27547F1BdB123BD1BbA4d82d25",
       "symbol": "VBS",
       "name": "VoxelBros",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x285dE0973Be816b1C9D2e99B0563245AAdf3DAd9",
+      "symbol": "CINU",
+      "name": "CheemsInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14708,
-    "minor": 14708,
+    "major": 14709,
+    "minor": 14709,
     "patch": 86
   }
 }
