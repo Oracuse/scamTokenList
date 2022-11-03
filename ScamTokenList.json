@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x503e0a8aC222b7D41174b3979eD3A8E370d77316",
-      "symbol": "RAIKU",
-      "name": "Raiku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa69b6459CA457Cd1272702D868B7Ca0EFdcCB354",
       "symbol": "SHIBEREUM",
       "name": "SHIBEREUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4848092A713254f845aA1Ad7ac363BDAe817ED73",
+      "symbol": "75BPS",
+      "name": "SevenFiveBPS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14672,
-    "minor": 14672,
+    "major": 14673,
+    "minor": 14673,
     "patch": 86
   }
 }
