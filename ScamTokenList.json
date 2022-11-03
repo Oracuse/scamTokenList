@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF7616B3b24D11059F68c8425a085fadC661fb987",
-      "symbol": "KAI",
-      "name": "Lotus",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x298683dEaA005cfE7BF7FfA3028d96CE656cAe63",
       "symbol": "SHIRINYOKU",
       "name": "Shirinyoku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x078Cb9bC160c23A44fBA911a3eDcF9a132E2de4D",
+      "symbol": "BURN",
+      "name": "BurnShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14693,
-    "minor": 14693,
+    "major": 14694,
+    "minor": 14694,
     "patch": 86
   }
 }
