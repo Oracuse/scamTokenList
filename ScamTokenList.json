@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1946B239e74851Ed69297D147612e44e30d04841",
-      "symbol": "DEMO",
-      "name": "DEMO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6fF1eF69Ff9d7a8EC286F43533C5C46660830e31",
       "symbol": "CESO",
       "name": "NewCommunityEso",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA25AaEFB1079b50E5FCa06CA929eBd5bDDE4Aff9",
+      "symbol": "BRST",
+      "name": "BridgeSplit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14644,
-    "minor": 14644,
+    "major": 14645,
+    "minor": 14645,
     "patch": 86
   }
 }
