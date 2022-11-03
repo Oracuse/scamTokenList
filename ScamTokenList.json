@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8E5E7394a80944f311d75537ac37091813842B8E",
-      "symbol": "SUDU",
-      "name": "sudoswap",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98edBB4887019A1a9A1AEfeaa906Db1DA80DCcd5",
       "symbol": "GINU",
       "name": "GangsterInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25b65D31bf0a2bcA85e52aB45af1AC240A5b68aA",
+      "symbol": "RATVERIFIED",
+      "name": "RATV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14739,
-    "minor": 14739,
+    "major": 14740,
+    "minor": 14740,
     "patch": 86
   }
 }
