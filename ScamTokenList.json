@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x915BA209D4d6790069011B0927F24A6E2bfc275C",
-      "symbol": "OBJECTS",
-      "name": "ThreeSacredTreasure",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBECe0c0D15B290084ed7376F4d24504c8bF5671a",
       "symbol": "IC",
       "name": "InuChainToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Ba144cA7D1A4Af4460ABE91212bEcC4Fad0DF1B",
+      "symbol": "TOSI",
+      "name": "ToshioInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14717,
-    "minor": 14717,
+    "major": 14718,
+    "minor": 14718,
     "patch": 86
   }
 }
