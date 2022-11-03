@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf72A4fa76bc44bE5890B7Cd356c3769740456a6C",
-      "symbol": "SHIBEREUM",
-      "name": "Shibereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0Be57c1Fd12A1099bA803227B5Acad8888EA2933",
       "symbol": "NAKAMA",
       "name": "Nakama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFEC189701fd9cDA03E78eb4336006069C7bEB3AF",
+      "symbol": "APETV",
+      "name": "ApeTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14710,
-    "minor": 14710,
+    "major": 14711,
+    "minor": 14711,
     "patch": 86
   }
 }
