@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x88FB8e6727cF2810B35476dC7C5c5f47ee18a1e4",
-      "symbol": "NINJA",
-      "name": "NinjaFlex",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8D8356CD0676784E6591a19BE43746fBb30Ec20C",
       "symbol": "MZED",
       "name": "MaoZedong",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6EC3c1216205285aED6B3f4C3Cec82b3265dc41f",
+      "symbol": "EDOGE",
+      "name": "ElonDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14640,
-    "minor": 14640,
+    "major": 14641,
+    "minor": 14641,
     "patch": 86
   }
 }
