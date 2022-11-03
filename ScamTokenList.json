@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1a443EE0c153ADfD965b4BFaD85E0Eda12D5f647",
-      "symbol": "SKE",
-      "name": "SKE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC574015860d5e9D031D2D73Ff0Ea5885Ddc125bd",
       "symbol": "YINP",
       "name": "YinPrototype",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cBd35920Fa07ee65865297b6f03947277de3c7b",
+      "symbol": "JOMON",
+      "name": "JomonProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14631,
-    "minor": 14631,
+    "major": 14632,
+    "minor": 14632,
     "patch": 86
   }
 }
