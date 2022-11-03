@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8B882bb936481DDe69677F43C560CaA2858E3D17",
-      "symbol": "SHIBEREUM",
-      "name": "Shibereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7C1376481417dcE6e9a1838bcc71252E7Dd6AD81",
       "symbol": "JACKPOT",
       "name": "TheJackpot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7AF3D6D5DE68601919b58Ac85E971aBF534a7E81",
+      "symbol": "SHIBET",
+      "name": "ShiBetInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14707,
-    "minor": 14707,
+    "major": 14708,
+    "minor": 14708,
     "patch": 86
   }
 }
