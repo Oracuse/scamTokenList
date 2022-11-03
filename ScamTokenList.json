@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf5E1864d5E319F435F803206c48D1d9201fE7c4B",
-      "symbol": "CLOCK",
-      "name": "CLOCK",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7dd4816e0B69fE7860a4F5540fb615155F29D24a",
       "symbol": "BLACKBREAD",
       "name": "BaleriontheBlackBre",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1021F190750FF32280d4A4E4854B9A25c39dD8F9",
+      "symbol": "JOMON",
+      "name": "JomonDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14629,
-    "minor": 14629,
+    "major": 14630,
+    "minor": 14630,
     "patch": 86
   }
 }
