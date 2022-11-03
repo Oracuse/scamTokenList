@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25C03953428007113d4B5489626AF43499a08959",
-      "symbol": "USDH",
-      "name": "HOARD",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEc2f40777015D0aD3a385739a027baB616F19ca8",
       "symbol": "FLOKITSAMI",
       "name": "FLOKITSAMI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7EA1B59Fe6B6dACd73a5542d458fa18139484079",
+      "symbol": "NAB",
+      "name": "NoAmbition",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14724,
-    "minor": 14724,
+    "major": 14725,
+    "minor": 14725,
     "patch": 86
   }
 }
