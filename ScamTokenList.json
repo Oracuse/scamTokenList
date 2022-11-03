@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC574015860d5e9D031D2D73Ff0Ea5885Ddc125bd",
-      "symbol": "YINP",
-      "name": "YinPrototype",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbEC349A8689B39681dF1De762607CF3E7e18c52A",
       "symbol": "YANGP",
       "name": "YangProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x751422c3a1c731B7596D6E185E99886F20406C66",
+      "symbol": "DUH",
+      "name": "ETHGuy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14632,
-    "minor": 14632,
+    "major": 14633,
+    "minor": 14633,
     "patch": 86
   }
 }
