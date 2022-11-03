@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x238392d9BB0aEB6827E96B34de9d60bD04DB2A8D",
-      "symbol": "FUKUJIN",
-      "name": "Shichifukujin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x79b3113B76536958F886F576e54A9fe864Cdd0fa",
       "symbol": "ZOMBEAR",
       "name": "ZOMBEAR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x941bB217A10BB11aB780A5E8332bD72a43B860dE",
+      "symbol": "SHITV",
+      "name": "ShibTV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14624,
-    "minor": 14624,
+    "major": 14625,
+    "minor": 14625,
     "patch": 86
   }
 }
