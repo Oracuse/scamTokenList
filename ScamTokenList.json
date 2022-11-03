@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x05FC571E5B4C4cA884944AE60dF0318268CCA699",
-      "symbol": "KASHIMA",
-      "name": "Takemikazuchi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88FB8e6727cF2810B35476dC7C5c5f47ee18a1e4",
       "symbol": "NINJA",
       "name": "NinjaFlex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3300B723d517eDeCCe96309cDaFDf2De1374BE5A",
+      "symbol": "PMTV2",
+      "name": "PeoplesMuseumTokenV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14639,
-    "minor": 14639,
+    "major": 14640,
+    "minor": 14640,
     "patch": 86
   }
 }
