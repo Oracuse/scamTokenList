@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2FB66F501F78336fb2718C7f7757c97aF604E69A",
-      "symbol": "FC",
-      "name": "Flokichain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf7c71Fbb1e882Ada671e0bc3d45657a2233a4cC8",
       "symbol": "GREATDANE",
       "name": "GreatDane",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x985c71270dfaCBb7F1eF4100715e5847E232c941",
+      "symbol": "GALAREBORN",
+      "name": "GalaReborn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14761,
-    "minor": 14761,
+    "major": 14762,
+    "minor": 14762,
     "patch": 86
   }
 }
