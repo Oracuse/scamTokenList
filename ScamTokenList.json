@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1D849F34382cb7Ae1c3DB3DF8D020e399c7DA0DF",
-      "symbol": "PEPETITS",
-      "name": "PepeTits",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x915BA209D4d6790069011B0927F24A6E2bfc275C",
       "symbol": "OBJECTS",
       "name": "ThreeSacredTreasure",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC1E4198e4Bc19D24CB6880044361BDb95F8b313C",
+      "symbol": "TLR",
+      "name": "TheLuckyRat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14716,
-    "minor": 14716,
+    "major": 14717,
+    "minor": 14717,
     "patch": 86
   }
 }
