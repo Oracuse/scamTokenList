@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4250fBBC107EC12e573980D75221d9AeBE62C738",
-      "symbol": "VINCENZ",
-      "name": "Vincenz",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfEe05Fa6A46c5782aa937fd8B5CaF89984e8db83",
       "symbol": "FLOKITSAMI",
       "name": "FLOKITSAMI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x809a998aD86a27Eb6DE2d69DAd1D488ebf338B71",
+      "symbol": "NULL",
+      "name": "0x00000000000000000",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14699,
-    "minor": 14699,
+    "major": 14700,
+    "minor": 14700,
     "patch": 86
   }
 }
