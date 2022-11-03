@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5ef1b3414B98e965EfC970F77879B6FC2E650AB2",
-      "symbol": "GOBLIN",
-      "name": "Goblin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1D8a856ac178eBde45De072e33A171a2B7a03dbB",
       "symbol": "COLCHEUM",
       "name": "COLCHEUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B9b3666Df7F5e34B27199E4f013F0657F974aC4",
+      "symbol": "SIGKILL",
+      "name": "Sigterm",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14754,
-    "minor": 14754,
+    "major": 14755,
+    "minor": 14755,
     "patch": 86
   }
 }
