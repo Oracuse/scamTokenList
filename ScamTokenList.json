@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE34854dCfcCa55C1C907E987D7B333637A4e61fE",
-      "symbol": "SMAUG",
-      "name": "SmaugDragon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x503e0a8aC222b7D41174b3979eD3A8E370d77316",
       "symbol": "RAIKU",
       "name": "Raiku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x683827c44AE94dA3B8b1e5D47177096cC799aB97",
+      "symbol": "TFE",
+      "name": "TwitterFiredElon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14671,
-    "minor": 14671,
+    "major": 14672,
+    "minor": 14672,
     "patch": 86
   }
 }
