@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0201D0ee871Bc97E1b10c46c0BE193c38A937076",
-      "symbol": "SHIBEREUM",
-      "name": "Shibereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB86C40bFC22f92BffF2067684A99Add0F3370dC2",
       "symbol": "TOYOTAMA",
       "name": "ToyotamaHime",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x234A65ec5D781f391D294e194E501FCd955f6DbD",
+      "symbol": "NINU",
+      "name": "NeuronInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14661,
-    "minor": 14661,
+    "major": 14662,
+    "minor": 14662,
     "patch": 86
   }
 }
