@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x215805dbD2E3b7C14D76541534235A5958822665",
-      "symbol": "AMEMASU",
-      "name": "Amemasu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51a26C421613B7e0b31598aaa22D97cd7f6e4DBd",
       "symbol": "MIZAKE",
       "name": "MIZUDAKE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x775e6a47d37590476D78DF651c785D57B8Dd11FC",
+      "symbol": "HEART",
+      "name": "HeartOfDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14607,
-    "minor": 14607,
+    "major": 14608,
+    "minor": 14608,
     "patch": 86
   }
 }
