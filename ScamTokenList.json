@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDB1554F0B17109A93a08CbBd0B4dCD23bEe8b222",
-      "symbol": "MA5",
-      "name": "Enos",
-      "decimals": 4,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8abA06a8FD180089b2EA6a52D9856875719e0Af6",
       "symbol": "ESOP",
       "name": "EsotericProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x600b3959AB73e619172f5D753576fa0340B748E3",
+      "symbol": "AWA",
+      "name": "ApesWithAttitude",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14616,
-    "minor": 14616,
+    "major": 14617,
+    "minor": 14617,
     "patch": 86
   }
 }
