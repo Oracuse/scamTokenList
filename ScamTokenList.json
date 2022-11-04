@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53dFceE2eDF010f6864d1DFfe25F32197d1A47C9",
-      "symbol": "ZQJ",
-      "name": "ZhongQiuJie",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38406f2f982c6F346898b7234f59ba7249C291CF",
       "symbol": "SPEX",
       "name": "SPEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Ff7C768F5Fb34A78D876A1B078a1C5d5455Efc5",
+      "symbol": "BUILD",
+      "name": "Build",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14825,
-    "minor": 14825,
+    "major": 14826,
+    "minor": 14826,
     "patch": 86
   }
 }
