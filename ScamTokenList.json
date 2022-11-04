@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x380E9D454B04C53D574af0d172aB963ca9D6d1C9",
-      "symbol": "BREAK",
-      "name": "Deadlocked",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51C745eCe1C384C69D95645C49EdE22A8F10a9ee",
       "symbol": "FLOKISWAP",
       "name": "FlokiSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBacdFE56e46D1C7E2B5Bbad73f48B2b9b2e8E19c",
+      "symbol": "JINDO",
+      "name": "JindoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14810,
-    "minor": 14810,
+    "major": 14811,
+    "minor": 14811,
     "patch": 86
   }
 }
