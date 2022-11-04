@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8c8FDdA69726Deca2A3804d1dD15e39517473C08",
-      "symbol": "EDEN",
-      "name": "EDEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf1C84F71CA49E6990779b34435D036F121801Ef8",
       "symbol": "PAGAN",
       "name": "Pagan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdB161468104aF7D7f2841FD37bFC09Ee70050E51",
+      "symbol": "MA",
+      "name": "Matrix",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14782,
-    "minor": 14782,
+    "major": 14783,
+    "minor": 14783,
     "patch": 86
   }
 }
