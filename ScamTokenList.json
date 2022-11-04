@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa13a88e0f3D17Ac949B64f1a50e24aBe9CCE6929",
-      "symbol": "TANA",
-      "name": "Tanabata",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDa12428b7ac8A970222c37E999c318A7d82d50e6",
       "symbol": "LFTF",
       "name": "lftf",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Ed55125F7c107dF80Cd51C81f9bD6d884BCAcB5",
+      "symbol": "CHANDRA",
+      "name": "CHANDRA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14925,
-    "minor": 14925,
+    "major": 14926,
+    "minor": 14926,
     "patch": 86
   }
 }
