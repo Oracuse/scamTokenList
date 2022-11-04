@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x38eA3ddfa07D510393a656F062fd97F5C115Da95",
-      "symbol": "EYES",
-      "name": "BigEyes",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBF0f8636C71E34e352f1857D600491AAcF093ec3",
       "symbol": "WLE",
       "name": "WARLOCKETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD53aeFC9d1B52ADc5B0514A54452cDA73321e729",
+      "symbol": "DTOK",
+      "name": "DogeTok",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14899,
-    "minor": 14899,
+    "major": 14900,
+    "minor": 14900,
     "patch": 86
   }
 }
