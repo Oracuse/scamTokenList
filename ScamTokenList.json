@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x26B0Fa52EacF8264dCb4a0D785eAac694B1229D3",
-      "symbol": "EUPHORIA",
-      "name": "Euphoria",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59626df09DFa34DdEec4084a9B2f18e3b7e228b2",
       "symbol": "AIKA",
       "name": "Aika",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99Ebc413d9b9Df15a0712Ff8CFB12d073C84f8AF",
+      "symbol": "NP",
+      "name": "NEURONPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14796,
-    "minor": 14796,
+    "major": 14797,
+    "minor": 14797,
     "patch": 86
   }
 }
