@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8c9c90C727158f6D488916552c2c4248919F589C",
-      "symbol": "TSUKEREUM",
-      "name": "Tsukereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x809fDA4B0983F027691DDC19f159d5f2cBee10a0",
       "symbol": "DINU",
       "name": "DuckInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3bbf5c783a1A2B6Ca85579647064703242C2a93d",
+      "symbol": "BWD",
+      "name": "BrushwoodDog",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14892,
-    "minor": 14892,
+    "major": 14893,
+    "minor": 14893,
     "patch": 86
   }
 }
