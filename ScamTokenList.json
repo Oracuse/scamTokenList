@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x38406f2f982c6F346898b7234f59ba7249C291CF",
-      "symbol": "SPEX",
-      "name": "SPEX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf5D6Bc4731c9836e33d0E008823D34d18BDe5843",
       "symbol": "SPACE",
       "name": "OUTERSPACE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F842e0742cb3e35743841C381Da1F577cD1A63f",
+      "symbol": "HOT",
+      "name": "Hot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14826,
-    "minor": 14826,
+    "major": 14827,
+    "minor": 14827,
     "patch": 86
   }
 }
