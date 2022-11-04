@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCAf879BBA03Ae8F7Fe7c41561a248997066D5662",
-      "symbol": "BAKI",
-      "name": "BakeDanuki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x081235B35FD3040CA2717A498f9551308128A484",
       "symbol": "ICARUS",
       "name": "Icarus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a551d41500c178DA52cC648838d95FB5B098301",
+      "symbol": "CHALLENGE",
+      "name": "CHALLENGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14861,
-    "minor": 14861,
+    "major": 14862,
+    "minor": 14862,
     "patch": 86
   }
 }
