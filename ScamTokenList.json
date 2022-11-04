@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x221eDd709e3499344212FAC25756b95ed2D9232f",
-      "symbol": "SCRYERS",
-      "name": "Scryers",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x33426b2D35BCDeaD6ce0762996e2290d6DdaEAf3",
       "symbol": "DANA",
       "name": "Kamidana",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6982D07c90a1E7d4829c05Fb96F275920d660A5",
+      "symbol": "WCP",
+      "name": "WorldCupPot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14929,
-    "minor": 14929,
+    "major": 14930,
+    "minor": 14930,
     "patch": 86
   }
 }
