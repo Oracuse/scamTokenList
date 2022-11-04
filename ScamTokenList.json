@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x85B61e9784723d126e14Cbb0E2b1dCCAdE8d43d4",
-      "symbol": "DOGEHELPER",
-      "name": "DogeHelper",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x380E9D454B04C53D574af0d172aB963ca9D6d1C9",
       "symbol": "BREAK",
       "name": "Deadlocked",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1E334B4bcb44E769CCd41436CD54E76fFE8C6AEf",
+      "symbol": "WOW",
+      "name": "WoWProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14809,
-    "minor": 14809,
+    "major": 14810,
+    "minor": 14810,
     "patch": 86
   }
 }
