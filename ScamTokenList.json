@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd518222E18132742271870505897e456f796419B",
-      "symbol": "SECRET",
-      "name": "SecretOrder",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1947AB90365C31D3491a8eA575336268Fc22d454",
       "symbol": "VCARD",
       "name": "VCARD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdE91B9EAAF99FB2Ff8C5c9c7a3a430A174418261",
+      "symbol": "DVAULT",
+      "name": "DVault",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14889,
-    "minor": 14889,
+    "major": 14890,
+    "minor": 14890,
     "patch": 86
   }
 }
