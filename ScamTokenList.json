@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x19D3FC315b9bD4F0Cb2dDf47a98551DB16D00De1",
-      "symbol": "EYE",
-      "name": "Third",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa583cCbd695652B398337bDFacB5A62eb7323d17",
       "symbol": "POSEIDON",
       "name": "Poseidon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6cb8Ba6D6560B2ec537B5B69BC9b48e2495C3E86",
+      "symbol": "CHANDRA",
+      "name": "Chandra",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14852,
-    "minor": 14852,
+    "major": 14853,
+    "minor": 14853,
     "patch": 86
   }
 }
