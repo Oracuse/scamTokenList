@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCEE695C52335B85A861e56586F9B5f068a5b1dA4",
-      "symbol": "SPEX",
-      "name": "SPEX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x854c4Eb45E7bCaEf68e037724c6eF0720df3C3B7",
       "symbol": "RMB",
       "name": "RhombusLegends",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x998816F04fB835Ae1d86e7264dDc298522a6e70C",
+      "symbol": "RISK",
+      "name": "RISK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14855,
-    "minor": 14855,
+    "major": 14856,
+    "minor": 14856,
     "patch": 86
   }
 }
