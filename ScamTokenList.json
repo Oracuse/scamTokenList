@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x798f90750Cb11762cCB1CEA37250562BFd7e949B",
-      "symbol": "SEAMONKEY",
-      "name": "Shojo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49bE10eFcC47201123ecf6a83fB5d765774dFAe9",
       "symbol": "YAKUZA",
       "name": "YakuzaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E091f0Eff97F3801E68e226a4fDECcFD2f757Ca",
+      "symbol": "GINU",
+      "name": "GalaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14786,
-    "minor": 14786,
+    "major": 14787,
+    "minor": 14787,
     "patch": 86
   }
 }
