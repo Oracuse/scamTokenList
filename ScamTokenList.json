@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe442bA91AB3db597CaaDD6333D3318762418AFfC",
-      "symbol": "LUCKYTOAD",
-      "name": "LuckyToad",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA11Adb4019A2288497Aaee740D90213fCe8D9EB7",
       "symbol": "GOKUDO",
       "name": "Gokudo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a794e01BB1AfC326C4ed41C2059466D819acEa8",
+      "symbol": "WEN",
+      "name": "WENUtility",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14802,
-    "minor": 14802,
+    "major": 14803,
+    "minor": 14803,
     "patch": 86
   }
 }
