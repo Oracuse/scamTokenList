@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3F133168E95124fb362B66aB10e4f75792cbce1d",
-      "symbol": "HOME",
-      "name": "Coming",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3331b4375Bc8516E93B5a5B8103dC0651A28760B",
       "symbol": "PARAGON",
       "name": "PARAGON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71aE0F977DEE0B3DD326e8262bA365e2089fDdC6",
+      "symbol": "LUSAIL",
+      "name": "LusailStadium",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14880,
-    "minor": 14880,
+    "major": 14881,
+    "minor": 14881,
     "patch": 86
   }
 }
