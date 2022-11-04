@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFe57f3953397FA2B62e723C98bC1fB0765230790",
-      "symbol": "VIOLIN",
-      "name": "DevilsTrill",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9eC0098C0264C222A87e80CCe281C69AbAD8557d",
       "symbol": "MUSHA",
       "name": "OnnaMusha",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ce4D7C35C014FaFe5a6E470491CEC0166B1509A",
+      "symbol": "CHALLENGE",
+      "name": "ChallengeProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14864,
-    "minor": 14864,
+    "major": 14865,
+    "minor": 14865,
     "patch": 86
   }
 }
