@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa8198436634a0854cbF195548d1FFB3fc26286d6",
-      "symbol": "TRNDC",
-      "name": "TornadoChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6566A95Fc265CB6e5e5d48be0E5383331EA3C1b0",
       "symbol": "SEAMONKEY",
       "name": "Shojo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB30ed40906c112d6B17403C9CB7D5aff61D60e16",
+      "symbol": "POCH",
+      "name": "ProofofCheems",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14793,
-    "minor": 14793,
+    "major": 14794,
+    "minor": 14794,
     "patch": 86
   }
 }
