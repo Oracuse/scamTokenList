@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x85e66467BBbc21e10592b662478b161E0e56f2e3",
-      "symbol": "CC",
-      "name": "ChowChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x003184778A896f35ED72542a2857bAF976285219",
       "symbol": "TRAVELLER",
       "name": "Khonsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3d38F87BeF0123f5764635C7E11048027E0721a8",
+      "symbol": "EWW",
+      "name": "EndlessWebWorlds",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14902,
-    "minor": 14902,
+    "major": 14903,
+    "minor": 14903,
     "patch": 86
   }
 }
