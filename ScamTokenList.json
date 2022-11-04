@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEb77Feb0604eEd9433b046De6D71672900CB318B",
-      "symbol": "ISHII",
-      "name": "Ishii",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x94DdF34f74972153d2E768c0Eb962718a19b602f",
       "symbol": "RONIN",
       "name": "Ronin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xec6b5Eefd06d39F5DaE3788e6ab25b78f81263ea",
+      "symbol": "TRUSTANDSAFETYPROTO",
+      "name": "TRUSTANDSAFETYPROTO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14950,
-    "minor": 14950,
+    "major": 14951,
+    "minor": 14951,
     "patch": 86
   }
 }
