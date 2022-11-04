@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD52513a043192ec3Ee6C9A540490f1CD17442B80",
-      "symbol": "GGS",
-      "name": "ggs",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd0Aa600A463E785792c551A11Eb5A06b037aD140",
       "symbol": "METADRIFT",
       "name": "MetadriftToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x567d26675a46Fa2Edb78a85f6692d9B430cDa488",
+      "symbol": "PUNGSAN",
+      "name": "PungsanInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14936,
-    "minor": 14936,
+    "major": 14937,
+    "minor": 14937,
     "patch": 86
   }
 }
