@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x550D94C6fEcf1E463436d201a55b262dF0a7b839",
-      "symbol": "SHACHIHOKO",
-      "name": "Shachihoko",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90b331D89B69B2f67Ed6E7cf743279967CFc132e",
       "symbol": "PLATYPUSCOIN",
       "name": "PlatypusCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCF299a8AA52652E1a2deD30A6233C621665CaE02",
+      "symbol": "EIGA",
+      "name": "EigaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14896,
-    "minor": 14896,
+    "major": 14897,
+    "minor": 14897,
     "patch": 86
   }
 }
