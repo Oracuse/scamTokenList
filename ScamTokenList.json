@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x94DdF34f74972153d2E768c0Eb962718a19b602f",
-      "symbol": "RONIN",
-      "name": "Ronin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB955CC18BBA3925b144D8769dAc12fe8314FF46a",
       "symbol": "TOMO",
       "name": "Tomodachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB88C8D9943790c743B7a0188ED10426F95ee8F8",
+      "symbol": "RIP",
+      "name": "DevIsDead",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14951,
-    "minor": 14951,
+    "major": 14952,
+    "minor": 14952,
     "patch": 86
   }
 }
