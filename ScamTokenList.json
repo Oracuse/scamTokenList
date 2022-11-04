@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB955CC18BBA3925b144D8769dAc12fe8314FF46a",
-      "symbol": "TOMO",
-      "name": "Tomodachi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80f8A2cC2353DADa8E39dA77C0C4Acca1d3eDF11",
       "symbol": "BAKUMAN",
       "name": "BAKUMAN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88E3e9109AfAc11200B7A459458DdcfE80fbe932",
+      "symbol": "VRITRA",
+      "name": "Vritra",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14952,
-    "minor": 14952,
+    "major": 14953,
+    "minor": 14953,
     "patch": 86
   }
 }
