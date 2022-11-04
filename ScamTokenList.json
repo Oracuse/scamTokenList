@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56C29e62A8c78AA614f15EAf62Ba901F10FA8D6B",
-      "symbol": "EGODCHAIN",
-      "name": "egoDChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8465d7F60fBdB497FA8A837E5B392A23Df8e4fBf",
       "symbol": "KOROSU",
       "name": "Kill",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2557d034c3b850305054da5ccaEb841d559C4B51",
+      "symbol": "GOLAZO",
+      "name": "GOLAZO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14790,
-    "minor": 14790,
+    "major": 14791,
+    "minor": 14791,
     "patch": 86
   }
 }
