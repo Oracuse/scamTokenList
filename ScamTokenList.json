@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51C745eCe1C384C69D95645C49EdE22A8F10a9ee",
-      "symbol": "FLOKISWAP",
-      "name": "FlokiSwap",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x601c9150bdc021E606E5Bf5576E748BF09581580",
       "symbol": "PEPE",
       "name": "PEPEREUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05D8dC109c2c343fde6F9A7B8513a6E06C95539b",
+      "symbol": "GC",
+      "name": "GoldCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14811,
-    "minor": 14811,
+    "major": 14812,
+    "minor": 14812,
     "patch": 86
   }
 }
