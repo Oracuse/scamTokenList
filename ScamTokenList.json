@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6f53bf016bD997E43aA663734D63Ce1bA248A2c3",
-      "symbol": "DXONION",
-      "name": "DXONION",
-      "decimals": 2,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd518222E18132742271870505897e456f796419B",
       "symbol": "SECRET",
       "name": "SecretOrder",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDcbD2853f72d9CBC87dd3892a9c83F7c4e4fa893",
+      "symbol": "NKUBI",
+      "name": "Namakubi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14888,
-    "minor": 14888,
+    "major": 14889,
+    "minor": 14889,
     "patch": 86
   }
 }
