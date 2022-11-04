@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60cd604cAE39394efaFbf5108865D574110CADcf",
-      "symbol": "DRAGONS",
-      "name": "DragonStorm",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAbA023c6c1E01788dB8cA5Fc51574dDEd929bC44",
       "symbol": "BENZAITENERC",
       "name": "Benzaiten",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4ff330d2b71a407a92fCda8935977bC6E2149131",
+      "symbol": "NOCTIS",
+      "name": "EXNOCTIS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14904,
-    "minor": 14904,
+    "major": 14905,
+    "minor": 14905,
     "patch": 86
   }
 }
