@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2134eF7628d54e610AD0bCe6213bF3dcB0a024EE",
-      "symbol": "TCH",
-      "name": "TSUKAChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17230A6751f4E578B2986d7DC89e2e14a4C8A654",
       "symbol": "TANABATA",
       "name": "Tanabata",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb510178D4e379E1790b83A7f4092aAA75F458D61",
+      "symbol": "CHAD",
+      "name": "RadioChad",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14883,
-    "minor": 14883,
+    "major": 14884,
+    "minor": 14884,
     "patch": 86
   }
 }
