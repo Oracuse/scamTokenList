@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8812fdf86245c811A5fB4387850f2CeAECEFf086",
-      "symbol": "CODE",
-      "name": "DaVinci",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA0d860a9BfEEC61F88D654B86BE01fA0FA8B5474",
       "symbol": "OTHERSIDE",
       "name": "Otherside",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60Ee631B6Cd50C420b5bcf80611cF060AdC22FFc",
+      "symbol": "NKING",
+      "name": "NightKing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14940,
-    "minor": 14940,
+    "major": 14941,
+    "minor": 14941,
     "patch": 86
   }
 }
