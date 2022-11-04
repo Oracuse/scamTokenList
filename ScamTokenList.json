@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0689c46dfB11C084EDD50365e076f7e97a1A76f7",
-      "symbol": "HERESY",
-      "name": "Heresy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x56C29e62A8c78AA614f15EAf62Ba901F10FA8D6B",
       "symbol": "EGODCHAIN",
       "name": "egoDChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd35F4eF7d5400a5DeAD2e14aA9e7C68D067E752C",
+      "symbol": "SAMA",
+      "name": "Samaritan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14789,
-    "minor": 14789,
+    "major": 14790,
+    "minor": 14790,
     "patch": 86
   }
 }
