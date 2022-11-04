@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1947AB90365C31D3491a8eA575336268Fc22d454",
-      "symbol": "VCARD",
-      "name": "VCARD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1fC0d4130CfD0fAf8eec8C057b0281A8eF4eB358",
       "symbol": "PARADOX",
       "name": "PARADOX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x955F15dFe92dad98d5767576d3B0db6bcF52422b",
+      "symbol": "DEGEN",
+      "name": "DegenDave",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14890,
-    "minor": 14890,
+    "major": 14891,
+    "minor": 14891,
     "patch": 86
   }
 }
