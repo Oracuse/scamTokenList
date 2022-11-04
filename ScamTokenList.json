@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x081235B35FD3040CA2717A498f9551308128A484",
-      "symbol": "ICARUS",
-      "name": "Icarus",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6a7D61aea8ABE54ACBb16A8f11a797B3bB64e617",
       "symbol": "HOKUSAI",
       "name": "HOKUSAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfbCd215465e6FD74816eB36E60Fb0464494a2914",
+      "symbol": "IKETA",
+      "name": "IkenoTaiga",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14862,
-    "minor": 14862,
+    "major": 14863,
+    "minor": 14863,
     "patch": 86
   }
 }
