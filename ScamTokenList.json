@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5a78553ceD1e2F62F4956f47a92FdB78fe50a519",
-      "symbol": "GOLDEN",
-      "name": "SakatanoKintoki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA3dA5082840FB5a228f3aA19b3bB45497c51bbAd",
       "symbol": "IZANAGI",
       "name": "IzanagiNoOkami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c6966d20771Cb80f8abb1cF2510988C3829b8DE",
+      "symbol": "RISK",
+      "name": "RISK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14858,
-    "minor": 14858,
+    "major": 14859,
+    "minor": 14859,
     "patch": 86
   }
 }
