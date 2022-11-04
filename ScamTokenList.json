@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1654d234aB6d854992dd3522029Ebc4d0FF31F0F",
-      "symbol": "PAINU",
-      "name": "PaganInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa8198436634a0854cbF195548d1FFB3fc26286d6",
       "symbol": "TRNDC",
       "name": "TornadoChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9549721e711738069A3f4EA1EA0b318BD03F3dA0",
+      "symbol": "PIQUE",
+      "name": "PIQUE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14792,
-    "minor": 14792,
+    "major": 14793,
+    "minor": 14793,
     "patch": 86
   }
 }
