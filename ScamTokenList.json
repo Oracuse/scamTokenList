@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf52d94fe3bdDb6cb924ec6B2F35DdF5cA543690B",
-      "symbol": "PANDORA",
-      "name": "DeluxeSpirit",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x550D94C6fEcf1E463436d201a55b262dF0a7b839",
       "symbol": "SHACHIHOKO",
       "name": "Shachihoko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18886577545377bb6B472cD4b489BFb3f84Dfa75",
+      "symbol": "ADAO",
+      "name": "Cardano",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14895,
-    "minor": 14895,
+    "major": 14896,
+    "minor": 14896,
     "patch": 86
   }
 }
