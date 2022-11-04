@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x132B6a190321f8458b0DE07ceDB3B23121121Dc9",
-      "symbol": "XIANGLIU",
-      "name": "Xiangliu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97AF182EB81C522E26122322AEF2b8fD7a99e71a",
       "symbol": "TAROTCULT",
       "name": "TarotDeCult",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0244AB3828d50b0A1F422FAd033d7a44195e9ef",
+      "symbol": "ELD",
+      "name": "EndlessWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14910,
-    "minor": 14910,
+    "major": 14911,
+    "minor": 14911,
     "patch": 86
   }
 }
