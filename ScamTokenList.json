@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA3dA5082840FB5a228f3aA19b3bB45497c51bbAd",
-      "symbol": "IZANAGI",
-      "name": "IzanagiNoOkami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x232d3A1379Ec457a5A7aD2cf4Da780ae812233D6",
       "symbol": "MONGOL",
       "name": "MONGOLINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xec9A4274112E0365bf0872afc55230C187d91759",
+      "symbol": "CHALLENGE",
+      "name": "CHALLENGEProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14859,
-    "minor": 14859,
+    "major": 14860,
+    "minor": 14860,
     "patch": 86
   }
 }
