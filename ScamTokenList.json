@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB70732a97e904b8Dd21E5eA7546f50995992CD9C",
-      "symbol": "YUGEN",
-      "name": "Yugen",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeD949Ccc5703D25f60eBef1fc4c2A199132b7f76",
       "symbol": "BANCHOSARAYASHIKI",
       "name": "BanchoSarayashiki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4061491c611FA1362f0f0F21bc4a3750c5E62ab9",
+      "symbol": "BRISK",
+      "name": "BabyRiskProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14874,
-    "minor": 14874,
+    "major": 14875,
+    "minor": 14875,
     "patch": 86
   }
 }
