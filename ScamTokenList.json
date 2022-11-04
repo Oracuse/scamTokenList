@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x601c9150bdc021E606E5Bf5576E748BF09581580",
-      "symbol": "PEPE",
-      "name": "PEPEREUM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcC9065230D2d577f8C625efd6056630D498C04C9",
       "symbol": "RIDL",
       "name": "Riddle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0aFab5DE2C861CB264FaCF762338F561c7dCedd8",
+      "symbol": "ST",
+      "name": "smalltalk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14812,
-    "minor": 14812,
+    "major": 14813,
+    "minor": 14813,
     "patch": 86
   }
 }
