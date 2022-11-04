@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6C09Da0286a0D7461d0b1eD0993557211b2106FE",
-      "symbol": "FCAT",
-      "name": "FortuneCatToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA8EFc1f95ec177842968A38FbdA8f43282886F0c",
       "symbol": "TIT",
       "name": "TiminTim",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb83de8Ff4D252798796b9320aF6e748770Bce003",
+      "symbol": "RISKU",
+      "name": "RiskInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14866,
-    "minor": 14866,
+    "major": 14867,
+    "minor": 14867,
     "patch": 86
   }
 }
