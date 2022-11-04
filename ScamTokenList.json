@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x110Ef4c8D90D2405A1403c39d0de422Be0b05D6C",
-      "symbol": "LEGION",
-      "name": "Legion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0E056fF95f68848Ad6d1bC6A8681BB70db884829",
       "symbol": "ZEIRISHI",
       "name": "Zeirishi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc39e05Ac214020caf2338107C12F45cf3FE32B30",
+      "symbol": "MATA",
+      "name": "Nekomata",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14843,
-    "minor": 14843,
+    "major": 14844,
+    "minor": 14844,
     "patch": 86
   }
 }
