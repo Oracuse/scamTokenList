@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAbA023c6c1E01788dB8cA5Fc51574dDEd929bC44",
-      "symbol": "BENZAITENERC",
-      "name": "Benzaiten",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfaA63dd04cC568c5D98eB16Cc6291161C82e82F9",
       "symbol": "EMONEY",
       "name": "EverMoney",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF688B0d488D758428c7e8ba9A1b27722F5BBB2DC",
+      "symbol": "DNUTS",
+      "name": "DogeNuts",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14905,
-    "minor": 14905,
+    "major": 14906,
+    "minor": 14906,
     "patch": 86
   }
 }
