@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf7B70859F96176d9fC441cee3FCBD939Cf969Cb6",
-      "symbol": "BLACKDAO",
-      "name": "TheBlackDragonDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x842775f9555ac5C01B96F2835120eCF639a19eb3",
       "symbol": "ONIBABA",
       "name": "Onibaba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c645e2481844296577CB9E16Cf7eE633767B6C7",
+      "symbol": "CHALLENGE",
+      "name": "CHALLENGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14870,
-    "minor": 14870,
+    "major": 14871,
+    "minor": 14871,
     "patch": 86
   }
 }
