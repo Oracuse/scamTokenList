@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x592760f7d6825138D1583F5c29020aa41818A7Df",
-      "symbol": "BDC",
-      "name": "BabyDogeChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc383640fCb1BB4837DBfb6EF735554f7EC16ea8A",
       "symbol": "KRENEREUM",
       "name": "KRENEREUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84bf197Cd72473d40E3D4e636c036C1Fa2aF3eFf",
+      "symbol": "PERPLEX",
+      "name": "Perplex",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14958,
-    "minor": 14958,
+    "major": 14959,
+    "minor": 14959,
     "patch": 86
   }
 }
