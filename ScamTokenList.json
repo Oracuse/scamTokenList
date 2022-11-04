@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62aA068d47B6Bf391F7b32E7fDeDccfa922BF36f",
-      "symbol": "DOGE20",
-      "name": "DOGE20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x110Ef4c8D90D2405A1403c39d0de422Be0b05D6C",
       "symbol": "LEGION",
       "name": "Legion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D70fe60e311df1D812E0D7476B67eFBB776479D",
+      "symbol": "SEEK",
+      "name": "TheSeeeker",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14842,
-    "minor": 14842,
+    "major": 14843,
+    "minor": 14843,
     "patch": 86
   }
 }
