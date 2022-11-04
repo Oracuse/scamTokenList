@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x75C9b38c386EaF61c178eFb38Ca2B80b70071F38",
-      "symbol": "FREE",
-      "name": "FreeAndrewTate",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2134eF7628d54e610AD0bCe6213bF3dcB0a024EE",
       "symbol": "TCH",
       "name": "TSUKAChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83D3C91c620d7d6e35ECcE3AD1eA2074e863d46C",
+      "symbol": "UT",
+      "name": "Utility",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14882,
-    "minor": 14882,
+    "major": 14883,
+    "minor": 14883,
     "patch": 86
   }
 }
