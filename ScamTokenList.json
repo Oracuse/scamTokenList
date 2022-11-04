@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBF0f8636C71E34e352f1857D600491AAcF093ec3",
-      "symbol": "WLE",
-      "name": "WARLOCKETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x131601190526e28146307d129470e7318D068c3A",
       "symbol": "EOGI",
       "name": "Eogi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x311422bfe8bdf2A59Dc46DaA6dd0a3E712d0a457",
+      "symbol": "SHIR",
+      "name": "ShiroInu",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14900,
-    "minor": 14900,
+    "major": 14901,
+    "minor": 14901,
     "patch": 86
   }
 }
