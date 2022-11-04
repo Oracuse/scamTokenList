@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x131601190526e28146307d129470e7318D068c3A",
-      "symbol": "EOGI",
-      "name": "Eogi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x85e66467BBbc21e10592b662478b161E0e56f2e3",
       "symbol": "CC",
       "name": "ChowChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3DDdc0195fF707868B4e6373432075aFF9D04Db3",
+      "symbol": "ELD",
+      "name": "EndlessWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14901,
-    "minor": 14901,
+    "major": 14902,
+    "minor": 14902,
     "patch": 86
   }
 }
