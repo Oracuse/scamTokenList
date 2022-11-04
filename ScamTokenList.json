@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x69e41EE48A61d3a87F8693A5f661aD96Ae6a9949",
-      "symbol": "STORM",
-      "name": "Suijutsu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA8f8c1adDe4EBf9174eFef37624FF9Dba3fEd153",
       "symbol": "X7L",
       "name": "x7Locker",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a2742F5b70Ba6bBA385200FAE04c2B4577F6326",
+      "symbol": "GALAP",
+      "name": "GalaProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14784,
-    "minor": 14784,
+    "major": 14785,
+    "minor": 14785,
     "patch": 86
   }
 }
