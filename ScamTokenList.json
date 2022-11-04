@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE154c9887610E7139FF05876D7B80d56ce70D4d1",
-      "symbol": "SHIBCHAIN",
-      "name": "RealShibChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73F0026E90faB7ddd50d7Fc53d9DF58deE1C86E7",
       "symbol": "DSTORM",
       "name": "DragonStorm",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C7542b0A57Dd4A1e5bEDEd99eA55ca5417498a9",
+      "symbol": "ELD",
+      "name": "EndlessWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14907,
-    "minor": 14907,
+    "major": 14908,
+    "minor": 14908,
     "patch": 86
   }
 }
