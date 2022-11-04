@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x423B0955E618777d500C271972Ee76beF7Ac145c",
-      "symbol": "SQUIDC",
-      "name": "SquidChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x949E365F6508C08Ba852bd078A13729bfF044a06",
       "symbol": "NEWCOMMUNITYCHAIN",
       "name": "NewCommunityChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27AA7B6aE6f20237eA3ff0b9fbB8Ec4c87B167B1",
+      "symbol": "EWW",
+      "name": "EndlessWebWorlds",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14886,
-    "minor": 14886,
+    "major": 14887,
+    "minor": 14887,
     "patch": 86
   }
 }
