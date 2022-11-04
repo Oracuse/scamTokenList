@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7bf991B9BF32905892aa799052097703680E4131",
-      "symbol": "INUCHAIN",
-      "name": "InuChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x16994C179499c188a675125005398319e572b874",
       "symbol": "ENEW",
       "name": "WayofLife",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42eD4bA428f6Cc3DC1457eb8612A847bfe4E3C10",
+      "symbol": "CHOICE",
+      "name": "TheChoiceProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14927,
-    "minor": 14927,
+    "major": 14928,
+    "minor": 14928,
     "patch": 86
   }
 }
