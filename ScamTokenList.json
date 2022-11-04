@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd1e52726AD700Ff6125570e780344d09d89ad9dF",
-      "symbol": "PLASMA",
-      "name": "AlienMirror",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5D1d85758955547A35fBbAba66d66E09b479B68d",
       "symbol": "KAIZEN",
       "name": "BeBetter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c71d470B48C35D8D0C9E11Bb8C62E60a6d1C7d0",
+      "symbol": "DWITTER",
+      "name": "DeTwitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14933,
-    "minor": 14933,
+    "major": 14934,
+    "minor": 14934,
     "patch": 86
   }
 }
