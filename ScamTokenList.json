@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x081A433410e3A5BB80A50Aa081c0107f74D25D04",
-      "symbol": "ETHIWE",
-      "name": "ETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5C7b0fa3e96C1b40e5738843FDC769B243E1c562",
       "symbol": "VEEF",
       "name": "VeeFriends",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x440D89F2E2564b1B8eB6EF9a23a2774069D25928",
+      "symbol": "MARU",
+      "name": "MarutaroInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14845,
-    "minor": 14845,
+    "major": 14846,
+    "minor": 14846,
     "patch": 86
   }
 }
