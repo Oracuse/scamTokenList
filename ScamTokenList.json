@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdd925Dfc05011D3eA80Ae51097C234D226A22E89",
-      "symbol": "NIMO",
-      "name": "NIMO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf73634910B10999735826344AC3EDFaC3F6d8208",
       "symbol": "ODIN",
       "name": "Odineum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1EAA89Ed6386156041589045Dc148f99478BBd25",
+      "symbol": "ELITES",
+      "name": "ElitismDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14836,
-    "minor": 14836,
+    "major": 14837,
+    "minor": 14837,
     "patch": 86
   }
 }
