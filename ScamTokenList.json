@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc298435b4620867D4AE8DF48D183E567acb8202B",
-      "symbol": "EMAKI",
-      "name": "EmakimonoInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62aA068d47B6Bf391F7b32E7fDeDccfa922BF36f",
       "symbol": "DOGE20",
       "name": "DOGE20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdA9D16c008Fa763342cbcB382CD04b8D4799DC77",
+      "symbol": "OKAMI",
+      "name": "Okami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14841,
-    "minor": 14841,
+    "major": 14842,
+    "minor": 14842,
     "patch": 86
   }
 }
