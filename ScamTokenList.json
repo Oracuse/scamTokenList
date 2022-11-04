@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0Ce639Da2c916702e44eab8bB0c58b638Fc961B2",
-      "symbol": "PISS",
-      "name": "PissCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd4e90025FE7af1B161523c2a32e59a5943C2aBDC",
       "symbol": "ART",
       "name": "HallofArtifacts",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf2F0E02164ef47ad13212BDd77fB06FA46a7F2a9",
+      "symbol": "HBD",
+      "name": "HappyBirthdayBitcoi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14922,
-    "minor": 14922,
+    "major": 14923,
+    "minor": 14923,
     "patch": 86
   }
 }
