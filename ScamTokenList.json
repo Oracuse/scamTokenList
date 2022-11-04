@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76ddFfAf03E85677cD77a7ea7243f14F1AFd7612",
-      "symbol": "CAWCHAIN",
-      "name": "ChainHunter",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8ee7cad5BF6081d93b5C7b327D505429685de946",
       "symbol": "SHIBOKI",
       "name": "Shiboki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83EEa5f4cF30b195efD1CA08939ba46326fFc31C",
+      "symbol": "CHALLENGE",
+      "name": "CHALLENGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14868,
-    "minor": 14868,
+    "major": 14869,
+    "minor": 14869,
     "patch": 86
   }
 }
