@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCe33d42fEf7E4a0d4fDAaee861e9796B5c1B67bA",
-      "symbol": "OMIKAMI",
-      "name": "Amaterasu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbc8f7dF9FcC17A2df94bdb12d77B0B5369Cc22D9",
       "symbol": "DELPHI",
       "name": "Delphi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09236FeE81e1033e62cd1C81cddDa906Cc914412",
+      "symbol": "CAT",
+      "name": "Cat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14819,
-    "minor": 14819,
+    "major": 14820,
+    "minor": 14820,
     "patch": 86
   }
 }
