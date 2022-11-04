@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9656e8b5425089C88817E4950efeE3882EF709E6",
-      "symbol": "BDCT",
-      "name": "BABYDOGECHAIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x423B0955E618777d500C271972Ee76beF7Ac145c",
       "symbol": "SQUIDC",
       "name": "SquidChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x260f96B87294d6cb8739d27c283A94e2F43D9D2f",
+      "symbol": "GFM",
+      "name": "GFM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14885,
-    "minor": 14885,
+    "major": 14886,
+    "minor": 14886,
     "patch": 86
   }
 }
