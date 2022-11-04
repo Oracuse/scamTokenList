@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0d860a9BfEEC61F88D654B86BE01fA0FA8B5474",
-      "symbol": "OTHERSIDE",
-      "name": "Otherside",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEFc007237B8fc53d59d897ce546b9fBc68a8fBa7",
       "symbol": "FUGU",
       "name": "Fugu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF835458f0f0Eefe0058Ba174759f1337b88A91E5",
+      "symbol": "RFI",
+      "name": "RealFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14941,
-    "minor": 14941,
+    "major": 14942,
+    "minor": 14942,
     "patch": 86
   }
 }
