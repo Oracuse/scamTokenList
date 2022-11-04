@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0423c204FB5B3a19FDFCa56F855bcAe5c8CE5fa",
-      "symbol": "PLKDPF",
-      "name": "plkdp",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8812fdf86245c811A5fB4387850f2CeAECEFf086",
       "symbol": "CODE",
       "name": "DaVinci",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2da477e4F0F9dCB390CA166E1FCe3080E10B6Ac1",
+      "symbol": "DISS",
+      "name": "Dissrespect",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14939,
-    "minor": 14939,
+    "major": 14940,
+    "minor": 14940,
     "patch": 86
   }
 }
