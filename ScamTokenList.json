@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1d1e712E01c7Eb59D3f52E01e86E05e4018D8C46",
-      "symbol": "CHRONOS",
-      "name": "GodofTime",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA0423c204FB5B3a19FDFCa56F855bcAe5c8CE5fa",
       "symbol": "PLKDPF",
       "name": "plkdp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDA754d0B8e7a4a5597E3f3c09593e1621Dc9F6d1",
+      "symbol": "WCP",
+      "name": "WorldCupPot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14938,
-    "minor": 14938,
+    "major": 14939,
+    "minor": 14939,
     "patch": 86
   }
 }
