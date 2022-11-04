@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9f41B332145Aa141ea4FC4025359e9a453127FE4",
-      "symbol": "AST",
-      "name": "Asteria",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCEE695C52335B85A861e56586F9B5f068a5b1dA4",
       "symbol": "SPEX",
       "name": "SPEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8DA387cdeeF2699339D735C0E851c33Bf9B3E3cf",
+      "symbol": "RISK",
+      "name": "RiskProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14854,
-    "minor": 14854,
+    "major": 14855,
+    "minor": 14855,
     "patch": 86
   }
 }
