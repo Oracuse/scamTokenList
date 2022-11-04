@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xad529cfbd5015572F51b7c994cacFDA060eA4391",
-      "symbol": "TBH",
-      "name": "TheBlackHorse",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf52d94fe3bdDb6cb924ec6B2F35DdF5cA543690B",
       "symbol": "PANDORA",
       "name": "DeluxeSpirit",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3182B10c8FdC88bF9d2ee8c3De05997c95F2AcA",
+      "symbol": "GRINU",
+      "name": "GrinchInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14894,
-    "minor": 14894,
+    "major": 14895,
+    "minor": 14895,
     "patch": 86
   }
 }
