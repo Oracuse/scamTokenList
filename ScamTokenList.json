@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7CBF7f5Bc84e204B14621fC3a2610123F576a088",
-      "symbol": "CHH",
-      "name": "Chihuahua",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBF4a27709481B04fc7ae78e36a814525b8aA01Dd",
       "symbol": "TEST",
       "name": "TEST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4292d37f6C88856363C7E03eabb35197f5F74682",
+      "symbol": "REV",
+      "name": "RevenueProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14877,
-    "minor": 14877,
+    "major": 14878,
+    "minor": 14878,
     "patch": 86
   }
 }
