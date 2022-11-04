@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBF4a27709481B04fc7ae78e36a814525b8aA01Dd",
-      "symbol": "TEST",
-      "name": "TEST",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x913D00DD72a98F606AC75a3C243b2E1F51D344E6",
       "symbol": "IOSCO",
       "name": "IOSCO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC654EE14e711A8F75B3587Bb687E1eF7A05bA898",
+      "symbol": "IRAN",
+      "name": "IranProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14878,
-    "minor": 14878,
+    "major": 14879,
+    "minor": 14879,
     "patch": 86
   }
 }
