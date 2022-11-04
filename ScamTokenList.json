@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbc8f7dF9FcC17A2df94bdb12d77B0B5369Cc22D9",
-      "symbol": "DELPHI",
-      "name": "Delphi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC59D96d89AF19D7b1d6a41622d565983A0913693",
       "symbol": "ANON",
       "name": "iamdev",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47124d42783Ac9EC82D6d34CBc6fB8aC46C035cc",
+      "symbol": "OPPFIN",
+      "name": "OPPAFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14820,
-    "minor": 14820,
+    "major": 14821,
+    "minor": 14821,
     "patch": 86
   }
 }
