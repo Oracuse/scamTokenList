@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfaA63dd04cC568c5D98eB16Cc6291161C82e82F9",
-      "symbol": "EMONEY",
-      "name": "EverMoney",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE154c9887610E7139FF05876D7B80d56ce70D4d1",
       "symbol": "SHIBCHAIN",
       "name": "RealShibChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A396b42Bc625212b93d991959889c65403E90ee",
+      "symbol": "ELD",
+      "name": "EndlessWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14906,
-    "minor": 14906,
+    "major": 14907,
+    "minor": 14907,
     "patch": 86
   }
 }
