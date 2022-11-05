@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4d40B9f904713d722Ad0902D82Db4FB80fC40126",
-      "symbol": "RMB",
-      "name": "RhombusLegends",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4AAc80DBfe4F66EF91B626e8d20C58F4a13978fd",
       "symbol": "PRODINU",
       "name": "prodinu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE6f795addC341030d3Bf27275b34d63265e48e75",
+      "symbol": "MARU",
+      "name": "MarutaroInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14999,
-    "minor": 14999,
+    "major": 15000,
+    "minor": 15000,
     "patch": 86
   }
 }
