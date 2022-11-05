@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7a59238eD6F01c3a1919B66B432107B1c28B9022",
-      "symbol": "HANJA",
-      "name": "Ungnyeo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5a9115a84ee28c05F09F5Acd71B579C0d89d657E",
       "symbol": "BSUKA",
       "name": "TsukaBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6C26c6C0eb8ABF1a61b1e89007fa15Db663F146B",
+      "symbol": "ME",
+      "name": "Trash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14986,
-    "minor": 14986,
+    "major": 14987,
+    "minor": 14987,
     "patch": 86
   }
 }
