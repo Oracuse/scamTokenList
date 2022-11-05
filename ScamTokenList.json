@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x11e33D9b5f28b6854BD8B08E2f7D1114e1b4b552",
-      "symbol": "KODACHI",
-      "name": "KodachiToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49BBE293FCB45B8e18ab532A5E2607B41479a668",
       "symbol": "PEARL",
       "name": "PearlofLight",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x153B95F6aB77722DE64f11512556F6575EfeD39d",
+      "symbol": "BDOSA",
+      "name": "BabyDosa",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14966,
-    "minor": 14966,
+    "major": 14967,
+    "minor": 14967,
     "patch": 86
   }
 }
