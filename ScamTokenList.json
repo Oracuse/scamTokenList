@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe5DA3027cA2E1EF3885040e1E3F9BEcCDAE9CBC4",
-      "symbol": "SUKARU",
-      "name": "SUKARU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6d2E48c0C2FD7EE5e134F624eC526BB33e9F4490",
       "symbol": "LUNCL",
       "name": "LUNCL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3844412A0769f7634Fa26F883dAA2afd6972df0C",
+      "symbol": "NONKI",
+      "name": "NonkiShibaToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14963,
-    "minor": 14963,
+    "major": 14964,
+    "minor": 14964,
     "patch": 86
   }
 }
