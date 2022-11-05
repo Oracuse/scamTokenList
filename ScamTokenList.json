@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa0666A96D26AFEB71093E77F458EF45abd665153",
-      "symbol": "LUNCHAIN",
-      "name": "LunaClassicChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3f8a8A54088346191f65911EDF06E285E1d52CD5",
       "symbol": "EATMYASSUWU",
       "name": "EATMYASSUwU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x476FD782812BBE4D7450292183F3acf3EFCCe6e9",
+      "symbol": "EINU",
+      "name": "ElonInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15003,
-    "minor": 15003,
+    "major": 15004,
+    "minor": 15004,
     "patch": 86
   }
 }
