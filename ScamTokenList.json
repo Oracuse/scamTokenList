@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE492678b36604CF774bb7b03B64218656458325a",
-      "symbol": "BEACON",
-      "name": "CoinBeacon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA4f0EAe59A8A70aA455219574B4e6bdd74Fca99D",
       "symbol": "TSUJI",
       "name": "Tsujikiri",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf83b5a14947d9C0065aA6dD8909D59799ee5894",
+      "symbol": "BIRDU",
+      "name": "TwittherInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15029,
-    "minor": 15029,
+    "major": 15030,
+    "minor": 15030,
     "patch": 86
   }
 }
