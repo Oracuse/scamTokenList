@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81C5949304FaAAD31D24A2a3B7B37F01B64d8C07",
-      "symbol": "DONJA",
-      "name": "DogNobi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB094B4fd70519aA8212A2fe86cF0e5799AA1E1CA",
       "symbol": "MIKOTOC",
       "name": "MikotoChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x033c7E3d9466Be7c804Dc69406baAd5E307159B8",
+      "symbol": "QATAR",
+      "name": "FIFAWorldCupQatar20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15017,
-    "minor": 15017,
+    "major": 15018,
+    "minor": 15018,
     "patch": 86
   }
 }
