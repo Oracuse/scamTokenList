@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98F41E45c8Ab3303fa728344dd1DCD46013Ec112",
-      "symbol": "BEAR",
-      "name": "Grizzly",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcf9e9C978FEECbAC77e26696145C825Ff45e2a01",
       "symbol": "MIKASA",
       "name": "MikasaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e7fb4448a7453079b48Dc1122AF81776EDF8525",
+      "symbol": "GITPROTOCOL",
+      "name": "git",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15038,
-    "minor": 15038,
+    "major": 15039,
+    "minor": 15039,
     "patch": 86
   }
 }
