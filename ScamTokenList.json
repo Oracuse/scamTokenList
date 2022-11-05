@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6905cF2E043e020D789Fde0Ca771dF47e368E686",
-      "symbol": "KUROBARA",
-      "name": "Kurobara",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x47D6dcA100a3dbD608567d8A0D1110eA74a5297D",
       "symbol": "KDAO",
       "name": "KujiraDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43c20407ca2aFB451a415DD6EE6Ba2FBCDB8CAB6",
+      "symbol": "PERFECTION",
+      "name": "Perfection",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15069,
-    "minor": 15069,
+    "major": 15070,
+    "minor": 15070,
     "patch": 86
   }
 }
