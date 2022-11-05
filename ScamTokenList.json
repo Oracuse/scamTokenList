@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4A732eF4d4C585AfFAaED94bF08967056c391c90",
-      "symbol": "HEXCHAIN",
-      "name": "HexChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15AaE4256B3Ba497bADeAFdfd76a3C0c3FF8597C",
       "symbol": "CROWSFEAST",
       "name": "CrowsFeast",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe28bc29D2F361451Eb5C966c8Eca4a7aE5666254",
+      "symbol": "XMUSK",
+      "name": "MerryChristMusk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15076,
-    "minor": 15076,
+    "major": 15077,
+    "minor": 15077,
     "patch": 86
   }
 }
