@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5F1f7cFD5dA6C36e05956c6ebaDf2df5e950269f",
-      "symbol": "TEST",
-      "name": "Test",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE83a62bB155EFaEC26693b4962a3A85aABDbf843",
       "symbol": "OLDFLOKI",
       "name": "OldFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b75847CaC3195976C6Cef59118F3FDbA88E343e",
+      "symbol": "RLD",
+      "name": "REALISED",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15026,
-    "minor": 15026,
+    "major": 15027,
+    "minor": 15027,
     "patch": 86
   }
 }
