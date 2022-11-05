@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEC7F25340a8215871C4ee09c2CEf7e6Eb8D83054",
-      "symbol": "SHINSHUKYO",
-      "name": "ShinkoShukyo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x95d5fAf0DA6e9E62435261FFCBE0667CB9C2eeA6",
       "symbol": "GLOWF",
       "name": "Glowfloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDe1c2CfC803d9EE061e44d606165B4fF7aBF81e5",
+      "symbol": "SHEKELS",
+      "name": "Shekels",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15052,
-    "minor": 15052,
+    "major": 15053,
+    "minor": 15053,
     "patch": 86
   }
 }
