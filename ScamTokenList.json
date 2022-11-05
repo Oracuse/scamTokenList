@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x267A577a7A1B3AeB94201737aF17422ff87926c6",
-      "symbol": "THEBABA",
-      "name": "TheBaba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf1Ed07D814e7B3D7434aF0ad0d77d3e4aDecc3c2",
       "symbol": "UNIFY",
       "name": "UnifyandUnite",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe50c36c4A2b01d874641a05c3FfE292018dc57A0",
+      "symbol": "HEART",
+      "name": "TheHeartofDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15044,
-    "minor": 15044,
+    "major": 15045,
+    "minor": 15045,
     "patch": 86
   }
 }
