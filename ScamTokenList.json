@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd4ab5FAC3eFD6e32B5A6D461af4462EB7341Ac5e",
-      "symbol": "RC",
-      "name": "RyoshiChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc2FB129Ea7Ddf4071C2583aDD64750C13cf9D2e0",
       "symbol": "Z",
       "name": "OzawaUnderground",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf76Acc1A83008c07D673930B83D1907f54907422",
+      "symbol": "TWITCH",
+      "name": "TwitchInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15046,
-    "minor": 15046,
+    "major": 15047,
+    "minor": 15047,
     "patch": 86
   }
 }
