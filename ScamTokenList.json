@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x55B615f09C1f7C03a45E760E099d4591702dCb5F",
-      "symbol": "NH3",
-      "name": "SharedGas",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x11e33D9b5f28b6854BD8B08E2f7D1114e1b4b552",
       "symbol": "KODACHI",
       "name": "KodachiToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E135f592da418616e64F578e56dC7A582331783",
+      "symbol": "OO",
+      "name": "OneOnna",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14965,
-    "minor": 14965,
+    "major": 14966,
+    "minor": 14966,
     "patch": 86
   }
 }
