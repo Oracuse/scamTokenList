@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4e4Fe34AD4d24d237B9906488e0916cd4a704A84",
-      "symbol": "MC",
-      "name": "MoonChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x710e71f27E00E4f061AE58274852EfdbC4De3CD8",
       "symbol": "3VIL",
       "name": "Evils",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D6A9062a03a068CF051c7aFF84da2B037FBA19B",
+      "symbol": "VIP",
+      "name": "VitaliktothePeople",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14994,
-    "minor": 14994,
+    "major": 14995,
+    "minor": 14995,
     "patch": 86
   }
 }
