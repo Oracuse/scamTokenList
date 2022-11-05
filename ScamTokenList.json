@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc6115C1026772f693343E6b68D9Dd739EeaE9E1a",
-      "symbol": "MAKO",
-      "name": "MAKO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x706B7BB9A666FD7ee293Ae4E607ee5C0e7d4886c",
       "symbol": "SC",
       "name": "SaitamaChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D965FBd2a9843D5db106b64E9D4b60cE3A006eC",
+      "symbol": "WCI",
+      "name": "WorldCupInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15006,
-    "minor": 15006,
+    "major": 15007,
+    "minor": 15007,
     "patch": 86
   }
 }
