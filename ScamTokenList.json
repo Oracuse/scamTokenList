@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5DB00Fa3c3e525e774129444418ee2E98EbF53d9",
-      "symbol": "BELLATRIX",
-      "name": "Bellatrix",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe00dc799584ec473D4a885E0e3b7eF1Ca7a38FA5",
       "symbol": "OSO",
       "name": "OrsoToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4526638c94C2c5F268b81FAA17569Ad99F10e673",
+      "symbol": "POLICE",
+      "name": "Police",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15022,
-    "minor": 15022,
+    "major": 15023,
+    "minor": 15023,
     "patch": 86
   }
 }
