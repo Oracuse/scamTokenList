@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD05aA2acb3C2fB2292f95EbD1fad292526a43ac6",
-      "symbol": "FUKIJAMA",
-      "name": "FUKIJAMA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73F850bb51bA29b49a4BaDf86A8F04c623B32388",
       "symbol": "LCC",
       "name": "LUNCChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0DEA2C7149367C4324347A05aDA6400975105d7c",
+      "symbol": "DTUB",
+      "name": "DogeTube",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15066,
-    "minor": 15066,
+    "major": 15067,
+    "minor": 15067,
     "patch": 86
   }
 }
