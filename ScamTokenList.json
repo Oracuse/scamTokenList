@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x706B7BB9A666FD7ee293Ae4E607ee5C0e7d4886c",
-      "symbol": "SC",
-      "name": "SaitamaChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x40aFeD728517BbeCB3B35C7641A3229d76f8e603",
       "symbol": "AC",
       "name": "AnonymousChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaD4329ad6db498C3955a08559708101501Fb0669",
+      "symbol": "PAPAPA",
+      "name": "Papapa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15007,
-    "minor": 15007,
+    "major": 15008,
+    "minor": 15008,
     "patch": 86
   }
 }
