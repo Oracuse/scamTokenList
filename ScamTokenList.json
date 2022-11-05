@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE210c2F35256515884701A0194626FdF60139D2b",
-      "symbol": "SYCAMORE",
-      "name": "sycamore",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49591f3B31A3C36dCAC8e6165B1c5a69D0ac591f",
       "symbol": "PUNNYINU",
       "name": "PunnyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x129d4a6cE452f800CF526f0d203342853063002c",
+      "symbol": "HEART",
+      "name": "TheHeartofDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15081,
-    "minor": 15081,
+    "major": 15082,
+    "minor": 15082,
     "patch": 86
   }
 }
