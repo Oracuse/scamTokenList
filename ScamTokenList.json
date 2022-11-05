@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc88356c465aC49bF81dA6C3aB45C5184e5658454",
-      "symbol": "MRGINU",
-      "name": "MERGEINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeE49307452fE780AfAdc28DEab97c5aE6a17b383",
       "symbol": "TAKEDA",
       "name": "TigerofKai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC555e437949724751adcDeBB31Acd114A4E4eE64",
+      "symbol": "FUD",
+      "name": "TheEndIsNear",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14971,
-    "minor": 14971,
+    "major": 14972,
+    "minor": 14972,
     "patch": 86
   }
 }
