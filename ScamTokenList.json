@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9D097080d5813BFfC5b7c8E20B3B8D524B032e90",
-      "symbol": "TSUJI",
-      "name": "Tsujiri",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9Fb842022f0131FD44Af1e52a5B47456CcD88aC8",
       "symbol": "BUNNYCHAIN",
       "name": "BunnyChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf4781011a00964133Cc87446c5eFF3cc7e6e3606",
+      "symbol": "MAGMA",
+      "name": "MAGMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15062,
-    "minor": 15062,
+    "major": 15063,
+    "minor": 15063,
     "patch": 86
   }
 }
