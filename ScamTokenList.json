@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1C66cB56EE5a2dF90AA4933155bA96E131CCB06c",
-      "symbol": "SC",
-      "name": "SquidChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5DB00Fa3c3e525e774129444418ee2E98EbF53d9",
       "symbol": "BELLATRIX",
       "name": "Bellatrix",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D0A93609A3108AD7477CB69Cc34291327DD9afE",
+      "symbol": "IUSNAMI",
+      "name": "Iusnami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15021,
-    "minor": 15021,
+    "major": 15022,
+    "minor": 15022,
     "patch": 86
   }
 }
