@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE1C39B819a2626DA7C15A8499894971A1427a69d",
-      "symbol": "AVGDEV",
-      "name": "AverageDeveloper",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19df6b8FEaE5Fefc91E5d040316A874F8CC5dFef",
       "symbol": "CCI",
       "name": "ChocolateChipInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xceA9d5F9DaEE78B5275490BbbdBF5AA348009194",
+      "symbol": "BIRDWATCH",
+      "name": "Birdwatch",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15034,
-    "minor": 15034,
+    "major": 15035,
+    "minor": 15035,
     "patch": 86
   }
 }
