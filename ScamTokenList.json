@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x59faA3F1936bc489F78ac60a3237B5Ae5acC343F",
-      "symbol": "0X",
-      "name": "0X",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4A732eF4d4C585AfFAaED94bF08967056c391c90",
       "symbol": "HEXCHAIN",
       "name": "HexChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC5E80BFD333e5F2eC5D29DEa77C57cDf25b308b1",
+      "symbol": "LBIT",
+      "name": "LetsBurnIT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15075,
-    "minor": 15075,
+    "major": 15076,
+    "minor": 15076,
     "patch": 86
   }
 }
