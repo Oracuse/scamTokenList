@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x40aFeD728517BbeCB3B35C7641A3229d76f8e603",
-      "symbol": "AC",
-      "name": "AnonymousChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6F65A9b3A12a75f110ABf9aB138582581E0B9987",
       "symbol": "HC",
       "name": "HoichiChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09119E1925e7152290939dcF2bcA083AC3A23280",
+      "symbol": "LUSAIL",
+      "name": "LusailStadium",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15008,
-    "minor": 15008,
+    "major": 15009,
+    "minor": 15009,
     "patch": 86
   }
 }
