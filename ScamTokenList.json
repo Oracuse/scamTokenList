@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA4f0EAe59A8A70aA455219574B4e6bdd74Fca99D",
-      "symbol": "TSUJI",
-      "name": "Tsujikiri",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8D55472ea880238FBa3d17300372d9e26DAFe976",
       "symbol": "HEXFLOKI",
       "name": "HexFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76a81d9AD7B4FB690286CB73Ed0eF4427ED62656",
+      "symbol": "MMTV",
+      "name": "MemeTv",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15030,
-    "minor": 15030,
+    "major": 15031,
+    "minor": 15031,
     "patch": 86
   }
 }
