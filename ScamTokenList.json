@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc66915eD184EF556D1c718717fe3210039047B51",
-      "symbol": "SAICHAIN",
-      "name": "SaitamaChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4E6AbF78EedCD604015fCe4698a4Ff9DD2279838",
       "symbol": "KURAGE",
       "name": "Cosmic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3F434df6F1291346f84efAe33DdC030505a6BE6",
+      "symbol": "HEART",
+      "name": "TheHeartofDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15036,
-    "minor": 15036,
+    "major": 15037,
+    "minor": 15037,
     "patch": 86
   }
 }
