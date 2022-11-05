@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC149228563B5F189dcB7F172a4F2b62a6634047b",
-      "symbol": "ARIKURANOBABA",
-      "name": "Arikuranobaba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa518Da976484C38C84bFaEC7762f98f2f2E58088",
       "symbol": "BOGUS",
       "name": "BogusToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x827f6DD5c697EA2580567336002305EC1666C9cc",
+      "symbol": "BCI",
+      "name": "BlueCheckerInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14977,
-    "minor": 14977,
+    "major": 14978,
+    "minor": 14978,
     "patch": 86
   }
 }
