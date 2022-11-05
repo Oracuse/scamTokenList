@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCbb64D75d3C55A3558Dc3fbF86e68D88e5117Cc7",
-      "symbol": "CHIHUAHUA",
-      "name": "Chihuahua",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9323F26C8458819E5847B562656A5d1e3eE0C31A",
       "symbol": "SUDOKU",
       "name": "Sudoku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4116F35f0000b8a22280b5e8A232bbA826508948",
+      "symbol": "DPL",
+      "name": "DISCIPLE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15078,
-    "minor": 15078,
+    "major": 15079,
+    "minor": 15079,
     "patch": 86
   }
 }
