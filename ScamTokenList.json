@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2Ca1936782D7Eb246ce0aF576985508A8bebA992",
-      "symbol": "BOGUS",
-      "name": "BogusToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc88356c465aC49bF81dA6C3aB45C5184e5658454",
       "symbol": "MRGINU",
       "name": "MERGEINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03d94ca62BF43e24E026765FCAc70F0c06B83277",
+      "symbol": "GUDBOI",
+      "name": "Fido",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 14970,
-    "minor": 14970,
+    "major": 14971,
+    "minor": 14971,
     "patch": 86
   }
 }
