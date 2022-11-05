@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x47D6dcA100a3dbD608567d8A0D1110eA74a5297D",
-      "symbol": "KDAO",
-      "name": "KujiraDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x908d1F7c17622a995223e7EAE5ee1BCc362f584F",
       "symbol": "BLISS",
       "name": "Kangiten",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd862b482333715776eF6409706bf908E86cfc6Fb",
+      "symbol": "RICHDAD",
+      "name": "RichDadPoorDad",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15070,
-    "minor": 15070,
+    "major": 15071,
+    "minor": 15071,
     "patch": 86
   }
 }
