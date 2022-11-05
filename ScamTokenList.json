@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x651919a737D3EC94b0C96b9471F1250ABeADF6E6",
-      "symbol": "ARA",
-      "name": "Arashiyama",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6585b139713577788986Cfb2ebBe2465E9e482E6",
       "symbol": "ISOGASHI",
       "name": "Isogashi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9521DAe497a5Bc31c52788E9ebEe5fF174b78830",
+      "symbol": "PPP",
+      "name": "PeoplePowerProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14984,
-    "minor": 14984,
+    "major": 14985,
+    "minor": 14985,
     "patch": 86
   }
 }
