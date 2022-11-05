@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB094B4fd70519aA8212A2fe86cF0e5799AA1E1CA",
-      "symbol": "MIKOTOC",
-      "name": "MikotoChain",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71DE56DD0DC075D48bbE0f96c2D265Cfe81b7C06",
       "symbol": "TROOPS",
       "name": "CombatTroops",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD03E4b3bF646544D1c3b840Ed83000c898B6D67A",
+      "symbol": "HIRISK",
+      "name": "HighRisk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15018,
-    "minor": 15018,
+    "major": 15019,
+    "minor": 15019,
     "patch": 86
   }
 }
