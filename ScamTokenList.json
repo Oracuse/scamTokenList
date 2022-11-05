@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x80633dDb1cFd0F25D1c9028472b5347C9122B5b0",
-      "symbol": "JUBOKKO",
-      "name": "JUBOKKO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe5DA3027cA2E1EF3885040e1E3F9BEcCDAE9CBC4",
       "symbol": "SUKARU",
       "name": "SUKARU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41506b83a4eD8C16E16C824bfD75c63E36eb5605",
+      "symbol": "DOFI",
+      "name": "DogeFlokiCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14962,
-    "minor": 14962,
+    "major": 14963,
+    "minor": 14963,
     "patch": 86
   }
 }
