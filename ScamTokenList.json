@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB85B50C3c7Ce03F9E469f53EEb8A58B599A91d2F",
-      "symbol": "NEMAWASHI",
-      "name": "Nemawashi",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD2B80946B6f3C73661dF34ede9b6299eF2598789",
       "symbol": "TOKOROSHOJIKI",
       "name": "TokoroShojiki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c46A39acd5cf756b8B489a289d0C7801a8259A3",
+      "symbol": "ROCKS",
+      "name": "ROCKSPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15059,
-    "minor": 15059,
+    "major": 15060,
+    "minor": 15060,
     "patch": 86
   }
 }
