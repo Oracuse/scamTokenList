@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9d7f48B2653e5D6836908664285C951c41f73109",
-      "symbol": "SUKUNA",
-      "name": "RyomenSukuna",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF8D020424efCeC0703877981A8b45bFb8E802db1",
       "symbol": "CAT",
       "name": "KittyChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA47143bC550a9bF004BCDD3ab74E3E520FAa1070",
+      "symbol": "DOFI",
+      "name": "DogeFlokiCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14974,
-    "minor": 14974,
+    "major": 14975,
+    "minor": 14975,
     "patch": 86
   }
 }
