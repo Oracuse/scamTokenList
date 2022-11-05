@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x95d5fAf0DA6e9E62435261FFCBE0667CB9C2eeA6",
-      "symbol": "GLOWF",
-      "name": "Glowfloki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF345754D715fb208F7b3965FA5fA0B4Cff2dFE8f",
       "symbol": "APEX",
       "name": "ApexVentures",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf6f9F7CdC9015fe17420817D17Bc7299E81243D2",
+      "symbol": "LEVEL",
+      "name": "LevelUp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15053,
-    "minor": 15053,
+    "major": 15054,
+    "minor": 15054,
     "patch": 86
   }
 }
