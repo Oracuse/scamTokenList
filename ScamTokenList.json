@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD2B80946B6f3C73661dF34ede9b6299eF2598789",
-      "symbol": "TOKOROSHOJIKI",
-      "name": "TokoroShojiki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB17055551DE78F48e951918Af227EfAAA13A7e15",
       "symbol": "UKETAMO",
       "name": "AttitudeToLife",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c3563796612723003fb315208AD08623C54D758",
+      "symbol": "MAGMA",
+      "name": "ThisRocks",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15060,
-    "minor": 15060,
+    "major": 15061,
+    "minor": 15061,
     "patch": 86
   }
 }
