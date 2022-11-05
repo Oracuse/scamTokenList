@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8aE2a04a360DEfeA1BEd7161CFa57E86b63893d8",
-      "symbol": "HACHIKO",
-      "name": "Hachiko",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x415536FE159a3d406F6De1f20f25844d6c787e65",
       "symbol": "LUNC20",
       "name": "LUNC20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5B18D4FB86eE7705102dD7A0140334b6D01AF72",
+      "symbol": "GBE",
+      "name": "GBE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15010,
-    "minor": 15010,
+    "major": 15011,
+    "minor": 15011,
     "patch": 86
   }
 }
