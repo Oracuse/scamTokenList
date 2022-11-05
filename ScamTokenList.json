@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53A3c3627D8a60e3e12c118898379a59ae6851db",
-      "symbol": "SATO",
-      "name": "Furusasto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38d522a80DA2b917Fb3bdCAD891C951Aa22Dd9c9",
       "symbol": "MUSHISHI",
       "name": "MushiShi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D151d93E41B64145C64364b6c6c5dC23c4deec8",
+      "symbol": "MOONDUST",
+      "name": "MoonDust",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15057,
-    "minor": 15057,
+    "major": 15058,
+    "minor": 15058,
     "patch": 86
   }
 }
