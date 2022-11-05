@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcf9e9C978FEECbAC77e26696145C825Ff45e2a01",
-      "symbol": "MIKASA",
-      "name": "MikasaInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5A60fE3A859425B02AcfB3c0b08AB63258A4dcaC",
       "symbol": "TANUKI",
       "name": "Tanuki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2752CBb6A0b513Cd3a313Fd3444cD525bC23a429",
+      "symbol": "CROGE",
+      "name": "Croge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15039,
-    "minor": 15039,
+    "major": 15040,
+    "minor": 15040,
     "patch": 86
   }
 }
