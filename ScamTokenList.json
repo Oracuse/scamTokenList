@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x43AC77acBC6828862b5DBD6063378C72F5d50B65",
-      "symbol": "YOHI",
-      "name": "FugurumaYohi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE210c2F35256515884701A0194626FdF60139D2b",
       "symbol": "SYCAMORE",
       "name": "sycamore",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD679878c77757b7743918C8df602f3696d731AA6",
+      "symbol": "AVIA",
+      "name": "AVIA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15080,
-    "minor": 15080,
+    "major": 15081,
+    "minor": 15081,
     "patch": 86
   }
 }
