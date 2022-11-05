@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc2FB129Ea7Ddf4071C2583aDD64750C13cf9D2e0",
-      "symbol": "Z",
-      "name": "OzawaUnderground",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x790e526744FEdc95744dcf1D46744cdaa8A449C1",
       "symbol": "NINETAILS",
       "name": "Kumiho",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83201477136368d20b187D467c4dD5ae8BcC4265",
+      "symbol": "FUZANGLONG",
+      "name": "DragonofHiddenTreas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15047,
-    "minor": 15047,
+    "major": 15048,
+    "minor": 15048,
     "patch": 86
   }
 }
