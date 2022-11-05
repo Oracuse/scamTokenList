@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB984Bc424B76b73C5bdea0ffcc6EB05f40e9Aa23",
-      "symbol": "LADY",
-      "name": "WHITELADY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81C5949304FaAAD31D24A2a3B7B37F01B64d8C07",
       "symbol": "DONJA",
       "name": "DogNobi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4897378D834E2cAdfa034fD48D743C5E70e54a19",
+      "symbol": "HIGH",
+      "name": "HighRisk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15016,
-    "minor": 15016,
+    "major": 15017,
+    "minor": 15017,
     "patch": 86
   }
 }
