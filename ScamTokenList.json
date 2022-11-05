@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0c1e05863Ffee29B5939cEc7f2747d5F3f091A12",
-      "symbol": "LT",
-      "name": "LTest",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE492678b36604CF774bb7b03B64218656458325a",
       "symbol": "BEACON",
       "name": "CoinBeacon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6595E9Cbd47545847F8507e793caC2FC175a01e",
+      "symbol": "FT",
+      "name": "Fighter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15028,
-    "minor": 15028,
+    "major": 15029,
+    "minor": 15029,
     "patch": 86
   }
 }
