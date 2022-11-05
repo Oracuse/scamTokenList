@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3f8a8A54088346191f65911EDF06E285E1d52CD5",
-      "symbol": "EATMYASSUWU",
-      "name": "EATMYASSUwU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9ece0CFfC5Ea2F678ef839061BbAD8Ba9e0CF6Cc",
       "symbol": "VOLTCHAIN",
       "name": "VoltChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33D43a953FceE8203235FAb9E5f091483e0DE9AA",
+      "symbol": "MSM",
+      "name": "MemeShibaMagic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15004,
-    "minor": 15004,
+    "major": 15005,
+    "minor": 15005,
     "patch": 86
   }
 }
