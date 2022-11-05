@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x57E7A3CbbC8474Dd5F2ae52f36d56aC58EDF55B9",
-      "symbol": "CATCOIN",
-      "name": "Catcoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2Ca1936782D7Eb246ce0aF576985508A8bebA992",
       "symbol": "BOGUS",
       "name": "BogusToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70857f403aE48afD2559BC95d7C368c93EfdE8D2",
+      "symbol": "GREEN",
+      "name": "WeWantGreen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14969,
-    "minor": 14969,
+    "major": 14970,
+    "minor": 14970,
     "patch": 86
   }
 }
