@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc383640fCb1BB4837DBfb6EF735554f7EC16ea8A",
-      "symbol": "KRENEREUM",
-      "name": "KRENEREUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x726A87e852906Fb2709C10D82c441da42c6Cd157",
       "symbol": "KAZUYA",
       "name": "KazuyaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2188f88b1BedE8bc4D391A0b4A1Bd78D9fB963a6",
+      "symbol": "STRIPE",
+      "name": "Stripe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14959,
-    "minor": 14959,
+    "major": 14960,
+    "minor": 14960,
     "patch": 86
   }
 }
