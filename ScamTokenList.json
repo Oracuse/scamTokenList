@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa518Da976484C38C84bFaEC7762f98f2f2E58088",
-      "symbol": "BOGUS",
-      "name": "BogusToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7c6f248307857e878685BAC1F0Be2Bf2d2b0ad88",
       "symbol": "ORACLE",
       "name": "ORACLE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89450504Fef805a14CBb8cDCf12bD86d564a4826",
+      "symbol": "DANKSHARDING",
+      "name": "DankshardingProtoco",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14978,
-    "minor": 14978,
+    "major": 14979,
+    "minor": 14979,
     "patch": 86
   }
 }
