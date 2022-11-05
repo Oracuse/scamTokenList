@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9ece0CFfC5Ea2F678ef839061BbAD8Ba9e0CF6Cc",
-      "symbol": "VOLTCHAIN",
-      "name": "VoltChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc6115C1026772f693343E6b68D9Dd739EeaE9E1a",
       "symbol": "MAKO",
       "name": "MAKO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30Ec264Ec945a182f162529Ab30ae75Cb5CCee54",
+      "symbol": "CZVB",
+      "name": "CZXVB",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15005,
-    "minor": 15005,
+    "major": 15006,
+    "minor": 15006,
     "patch": 86
   }
 }
