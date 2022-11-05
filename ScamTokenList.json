@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x270c10849029a590b545bc1AdBFAF3601114605c",
-      "symbol": "WALK",
-      "name": "Walk",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa0666A96D26AFEB71093E77F458EF45abd665153",
       "symbol": "LUNCHAIN",
       "name": "LunaClassicChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39406B1889e4a5f50C442939626Bf00fD630489e",
+      "symbol": "PIGTV",
+      "name": "PIGTV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15002,
-    "minor": 15002,
+    "major": 15003,
+    "minor": 15003,
     "patch": 86
   }
 }
