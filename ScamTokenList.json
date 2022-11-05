@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x344ea53CDb8879A17E61F1C56d06809891E40C4f",
-      "symbol": "PEARLS",
-      "name": "DeadMansChest",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD05aA2acb3C2fB2292f95EbD1fad292526a43ac6",
       "symbol": "FUKIJAMA",
       "name": "FUKIJAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF40a0C5eedfB16B99e58fb3AeBAAA1447a6922E1",
+      "symbol": "QS",
+      "name": "QatarSoccer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15065,
-    "minor": 15065,
+    "major": 15066,
+    "minor": 15066,
     "patch": 86
   }
 }
