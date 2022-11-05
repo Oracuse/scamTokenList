@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe00dc799584ec473D4a885E0e3b7eF1Ca7a38FA5",
-      "symbol": "OSO",
-      "name": "OrsoToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90165513ae015F6b3BafA862D9230BC510A7F14f",
       "symbol": "TERYAKI",
       "name": "Teryaki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C99278E636959f6445EeC0bD0f577Be486d7Ea0",
+      "symbol": "GERMANCHARIOT",
+      "name": "FIFAWorldCupQatar20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15023,
-    "minor": 15023,
+    "major": 15024,
+    "minor": 15024,
     "patch": 86
   }
 }
