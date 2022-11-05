@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73F850bb51bA29b49a4BaDf86A8F04c623B32388",
-      "symbol": "LCC",
-      "name": "LUNCChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6ad5b84588bcBde84Eff7763F7B570Fe37134dB9",
       "symbol": "TINU",
       "name": "TruthInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7DAc25b1A665e1c70F25F1fC37d88C99274984ed",
+      "symbol": "SHINJA",
+      "name": "Shibnobi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15067,
-    "minor": 15067,
+    "major": 15068,
+    "minor": 15068,
     "patch": 86
   }
 }
