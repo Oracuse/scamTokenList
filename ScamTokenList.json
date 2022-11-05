@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x19df6b8FEaE5Fefc91E5d040316A874F8CC5dFef",
-      "symbol": "CCI",
-      "name": "ChocolateChipInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc66915eD184EF556D1c718717fe3210039047B51",
       "symbol": "SAICHAIN",
       "name": "SaitamaChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5a210281836d5347132192bCaaB511db1E496F6",
+      "symbol": "MUNDO",
+      "name": "MundoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15035,
-    "minor": 15035,
+    "major": 15036,
+    "minor": 15036,
     "patch": 86
   }
 }
