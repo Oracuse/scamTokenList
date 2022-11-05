@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x726A87e852906Fb2709C10D82c441da42c6Cd157",
-      "symbol": "KAZUYA",
-      "name": "KazuyaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01ce3f0F078a2380fd6455Af4a55af16fa0C03De",
       "symbol": "FEU",
       "name": "leLabyrinthedeFeu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf27a2f8d1D7afC95b2e654517d45Dc722766EF10",
+      "symbol": "METADG",
+      "name": "MetaDungeon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14960,
-    "minor": 14960,
+    "major": 14961,
+    "minor": 14961,
     "patch": 86
   }
 }
