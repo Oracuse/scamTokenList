@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6f8aedF3d4875eC70F9985985cF84B4eFB03a8b3",
-      "symbol": "DUCKCHAIN",
-      "name": "DuckChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4e4Fe34AD4d24d237B9906488e0916cd4a704A84",
       "symbol": "MC",
       "name": "MoonChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63a85B16424a32d2428432993F9DC0c4C980E553",
+      "symbol": "USAI",
+      "name": "FiveDragons",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14993,
-    "minor": 14993,
+    "major": 14994,
+    "minor": 14994,
     "patch": 86
   }
 }
