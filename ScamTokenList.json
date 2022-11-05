@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAe6C81A0E4539Be1BF648b6A868fF1Bdc187b8eF",
-      "symbol": "TSUKAC",
-      "name": "TsukaChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1C39B819a2626DA7C15A8499894971A1427a69d",
       "symbol": "AVGDEV",
       "name": "AverageDeveloper",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43dba698129eeB635d744A762460fadc014DE1e0",
+      "symbol": "BAPE",
+      "name": "BlackApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15033,
-    "minor": 15033,
+    "major": 15034,
+    "minor": 15034,
     "patch": 86
   }
 }
