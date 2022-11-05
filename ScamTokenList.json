@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x415536FE159a3d406F6De1f20f25844d6c787e65",
-      "symbol": "LUNC20",
-      "name": "LUNC20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDdE2C8b23d1870Ff551aea4D89ac1817874e32FD",
       "symbol": "GIGACHAIN",
       "name": "GIGACHAIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0281EC8C4f7f57354e39eC91fe913120A59Ca375",
+      "symbol": "HIKIMATA",
+      "name": "Hikimata",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15011,
-    "minor": 15011,
+    "major": 15012,
+    "minor": 15012,
     "patch": 86
   }
 }
