@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4eBe01404C90F8091fF569f3Ce0CE1d29357403F",
-      "symbol": "RIBENGUIZI",
-      "name": "RibenGuizi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x53A3c3627D8a60e3e12c118898379a59ae6851db",
       "symbol": "SATO",
       "name": "Furusasto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63b325e1e5874f98316D56df2b5D729c4aE20F31",
+      "symbol": "TOKU",
+      "name": "Tokumei",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15056,
-    "minor": 15056,
+    "major": 15057,
+    "minor": 15057,
     "patch": 86
   }
 }
