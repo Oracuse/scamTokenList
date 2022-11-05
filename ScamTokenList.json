@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE83a62bB155EFaEC26693b4962a3A85aABDbf843",
-      "symbol": "OLDFLOKI",
-      "name": "OldFloki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0c1e05863Ffee29B5939cEc7f2747d5F3f091A12",
       "symbol": "LT",
       "name": "LTest",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51985419256EBfEA3393c58BE68BE0a75Cb80dFC",
+      "symbol": "HEART",
+      "name": "TheHeartofDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15027,
-    "minor": 15027,
+    "major": 15028,
+    "minor": 15028,
     "patch": 86
   }
 }
