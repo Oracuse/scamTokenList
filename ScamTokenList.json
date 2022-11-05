@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdd8488287507ACE06dbdd754EA2b9B7c0DBa609f",
-      "symbol": "SHINJA",
-      "name": "Shinja",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5F1f7cFD5dA6C36e05956c6ebaDf2df5e950269f",
       "symbol": "TEST",
       "name": "Test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x063Ff3cc8E3C42b5d76b689d1105EDCbEaa77595",
+      "symbol": "EGP",
+      "name": "endgameprotocolport",
+      "decimals": 2,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15025,
-    "minor": 15025,
+    "major": 15026,
+    "minor": 15026,
     "patch": 86
   }
 }
