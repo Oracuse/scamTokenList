@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3653aBb9C9A44c5523611931DAfeCDFB96F4aD85",
-      "symbol": "BIKO",
-      "name": "BabyMikoto",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0000002596d937FE848B63f2AD3aAC9D45DE5f34",
       "symbol": "SHINPI",
       "name": "Shinpi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE60D0c0d752255AA9AeaB64200118Ff98D22f83c",
+      "symbol": "VTLKTV",
+      "name": "VitalikTv",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15041,
-    "minor": 15041,
+    "major": 15042,
+    "minor": 15042,
     "patch": 86
   }
 }
