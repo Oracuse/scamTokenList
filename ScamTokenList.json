@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdCdAa8142DE1BB74cFd6b84f11be14ba45A6EeAB",
-      "symbol": "ROICHI",
-      "name": "Roichi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE7bfaD5289157012061a8B29983D513ae8d70529",
       "symbol": "BABYCHAIN",
       "name": "BabyChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02060EdADE13c7A672CE8c53a687A65775a4ED35",
+      "symbol": "SHIBTV",
+      "name": "SHIBTV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15013,
-    "minor": 15013,
+    "major": 15014,
+    "minor": 15014,
     "patch": 86
   }
 }
