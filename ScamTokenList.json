@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5C0FABEAcF8d37b38977e96B5d69dda37af5C17D",
-      "symbol": "ETF",
-      "name": "EthereumFair",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6f8aedF3d4875eC70F9985985cF84B4eFB03a8b3",
       "symbol": "DUCKCHAIN",
       "name": "DuckChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x608145F7cF48f87721AdE0D059e95385B3254ee4",
+      "symbol": "CTW",
+      "name": "CRYPTOWIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 14992,
-    "minor": 14992,
+    "major": 14993,
+    "minor": 14993,
     "patch": 86
   }
 }
