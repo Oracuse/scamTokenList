@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfC106dacdB07718f03F79f104299c97DA86A8da1",
-      "symbol": "MEGALODON",
-      "name": "Megalodon",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3582c20023d33bbc6e283fe7E4E7bf274C3463CF",
       "symbol": "WOOF",
       "name": "Woof",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71aD8CF64596f5020C42fC3Bc902C0A2cD303735",
+      "symbol": "STKI",
+      "name": "santatsukainu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15103,
-    "minor": 15103,
+    "major": 15104,
+    "minor": 15104,
     "patch": 86
   }
 }
