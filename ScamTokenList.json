@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0cAB40725aAd7EF82C6A377be7735e8d0f69dD28",
-      "symbol": "SAC",
-      "name": "Saitamachain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x45243857cD57bB48B17B99f96eEb43487b0A6D08",
       "symbol": "PALE",
       "name": "ThePaleEmperor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17682c69D8b54f1323944b176947a1C4626ae00d",
+      "symbol": "HTOC",
+      "name": "HighThresholdOverri",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15086,
-    "minor": 15086,
+    "major": 15087,
+    "minor": 15087,
     "patch": 86
   }
 }
