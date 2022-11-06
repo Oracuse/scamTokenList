@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0CCAF08cF40FC19F69eF27d2C2cEf22544f04C92",
-      "symbol": "AHEX",
-      "name": "ApolloHex",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x867E67b34B90222DF748A2aBfA76d28DdE6F8efb",
       "symbol": "KINGYO",
       "name": "Kingyo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf07d82E514b98F446Ba1661d70E43dc6a19Fb5a8",
+      "symbol": "TAKY",
+      "name": "TakyKimura",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15160,
-    "minor": 15160,
+    "major": 15161,
+    "minor": 15161,
     "patch": 86
   }
 }
