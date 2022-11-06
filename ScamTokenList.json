@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa2E31e8B9F09A3c20CE680F3d4a07eDF07e4F170",
-      "symbol": "MINER",
-      "name": "MINER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7116629eEb3B9D575B0016f8B9d6988187285283",
       "symbol": "IMF",
       "name": "IMF",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7B84334DC5A7b0f84e895a7999eB21c71e0A925",
+      "symbol": "SCRATCH",
+      "name": "ScratchProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15110,
-    "minor": 15110,
+    "major": 15111,
+    "minor": 15111,
     "patch": 86
   }
 }
