@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7116629eEb3B9D575B0016f8B9d6988187285283",
-      "symbol": "IMF",
-      "name": "IMF",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA090E5E17Afe6f8D1d231d672F4e10b9a8a2359b",
       "symbol": "TSUKAI",
       "name": "MahouTsukai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b018C3Be88eE2FfedbB896e0d815fDbaE92cfD5",
+      "symbol": "LAIKA",
+      "name": "LAIKA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15111,
-    "minor": 15111,
+    "major": 15112,
+    "minor": 15112,
     "patch": 86
   }
 }
