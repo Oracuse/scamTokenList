@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8790f2fc7Ca2e7Db841307FB3f4e72a03Baf7b47",
-      "symbol": "SPILLWAYS",
-      "name": "SpillWays",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf971bdE00942025F884A65b0615bC2c7e73Dd8e1",
       "symbol": "HEXNOBI",
       "name": "Hexnobi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86C31738c67193A2e77735bB295c48bD11bfDF1B",
+      "symbol": "TV",
+      "name": "TVProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15145,
-    "minor": 15145,
+    "major": 15146,
+    "minor": 15146,
     "patch": 86
   }
 }
