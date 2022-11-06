@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x720eb0816F12846A33EAb9D23c3A9dF6E67b19CD",
-      "symbol": "UNO",
-      "name": "Unowned",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1e756362A5e0FeCb65d74b4ac9945Be7dA665307",
       "symbol": "US",
       "name": "UjigamiShotoku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbdcF29B8A1f9CcE2713d1E34Cf35AC01EAE8ee36",
+      "symbol": "DRAGONX",
+      "name": "Dragonx",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15107,
-    "minor": 15107,
+    "major": 15108,
+    "minor": 15108,
     "patch": 86
   }
 }
