@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5fd27edBF9a4cFc0BFFabED41873373410b639dF",
-      "symbol": "LIQUIDFIRE",
-      "name": "LiquidFire",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6bB34bcF2E0204F869b4832c8926fffA40198Bdf",
       "symbol": "LADY",
       "name": "WhiteLady",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD5bb657765D709B73B1D7a9A4707ACb6b83cbF32",
+      "symbol": "HEART",
+      "name": "TheHeartofDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15140,
-    "minor": 15140,
+    "major": 15141,
+    "minor": 15141,
     "patch": 86
   }
 }
