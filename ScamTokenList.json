@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x92cFf6079a2249C765eFe2895a8c87C4514896e6",
-      "symbol": "STC",
-      "name": "Saitamachain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6dcCfcC5D22ABbDC7092Fd7f1B4F243469a4C900",
       "symbol": "AFRO",
       "name": "AFRO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x456b59CF721702142e39813a7bD46a41a644d788",
+      "symbol": "PP",
+      "name": "ParodyProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15198,
-    "minor": 15198,
+    "major": 15199,
+    "minor": 15199,
     "patch": 86
   }
 }
