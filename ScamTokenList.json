@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE36aC872Eb1AEfcf746fEb6728b81B38fC6d75b2",
-      "symbol": "HAPE",
-      "name": "HexApeCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3fb6d3FD24725d256Fb10De68d316BF3a3032082",
       "symbol": "ISHIBA",
       "name": "Ishiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72c820137dAF0912208D5c9e6fF3766BF87B6Eef",
+      "symbol": "TCD",
+      "name": "TheChristmasDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15186,
-    "minor": 15186,
+    "major": 15187,
+    "minor": 15187,
     "patch": 86
   }
 }
