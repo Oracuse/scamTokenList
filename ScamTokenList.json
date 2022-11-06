@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3b11c86E5ED17b9B7972ff1b73c066c0a752e9fc",
-      "symbol": "KARASU",
-      "name": "Karasu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66705d8ae1702AdcED17a2e164C5f1E180cD4680",
       "symbol": "RITUAL",
       "name": "HishakuYutate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7fc954954f1C2Ca0F221b2264B205223Fe4aa28",
+      "symbol": "FIFA",
+      "name": "FIFAWorldCupQatar20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15177,
-    "minor": 15177,
+    "major": 15178,
+    "minor": 15178,
     "patch": 86
   }
 }
