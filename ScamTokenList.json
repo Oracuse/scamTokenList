@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x50BA4D4624a77DBe5654D53A702c817c3a2d3012",
-      "symbol": "ASTROBOY",
-      "name": "ASTROBOY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb2e82B6f15A17aB52De624E58Cee0821332F1bC2",
       "symbol": "AKIDO",
       "name": "TheAccord",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55374d3642c28AB0692995FDCEaE6Ad280a29D6D",
+      "symbol": "BO",
+      "name": "BREAKOUT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15148,
-    "minor": 15148,
+    "major": 15149,
+    "minor": 15149,
     "patch": 86
   }
 }
