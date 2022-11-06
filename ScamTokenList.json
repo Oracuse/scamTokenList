@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x814e7A02e7B228fF98fb5CE6fF96CaB1651ed028",
-      "symbol": "TENSHO",
-      "name": "Amaterasu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEf5ee67B946ba6Cedd63aD59e6e196202996df45",
       "symbol": "HEXT",
       "name": "Hextama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17F39B0DAd479d58781db254FeFf8436d6A41727",
+      "symbol": "MELON",
+      "name": "MyteryElon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15183,
-    "minor": 15183,
+    "major": 15184,
+    "minor": 15184,
     "patch": 86
   }
 }
