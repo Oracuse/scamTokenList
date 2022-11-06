@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6e35E581B673B78226a83A38c57F0AD416E09dCA",
-      "symbol": "KISARAGI",
-      "name": "Kisaragi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0cAB40725aAd7EF82C6A377be7735e8d0f69dD28",
       "symbol": "SAC",
       "name": "Saitamachain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB118Dc84330be0B54b9bf584AC46F0b0A0Eaa782",
+      "symbol": "TOKA",
+      "name": "Tokisha",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15085,
-    "minor": 15085,
+    "major": 15086,
+    "minor": 15086,
     "patch": 86
   }
 }
