@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xce6c7ce160Bf46cA396D7DaDE78d17e1970aE0ec",
-      "symbol": "DUNECOIN",
-      "name": "DUNECOIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0CCAF08cF40FC19F69eF27d2C2cEf22544f04C92",
       "symbol": "AHEX",
       "name": "ApolloHex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8284396cC7C524608EDAd48FAe09b90939CFe8eb",
+      "symbol": "SANTA",
+      "name": "SantaProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15159,
-    "minor": 15159,
+    "major": 15160,
+    "minor": 15160,
     "patch": 86
   }
 }
