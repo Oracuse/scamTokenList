@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA7AeC18D5c0e1aAA1dAA30e2FF74F67ee2664B85",
-      "symbol": "14THSTAGE",
-      "name": "AyogiKevalin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa2E31e8B9F09A3c20CE680F3d4a07eDF07e4F170",
       "symbol": "MINER",
       "name": "MINER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x008f2338Fe0E1C28956d7E8b3A0D483C73987128",
+      "symbol": "SPI",
+      "name": "TrendSpider",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15109,
-    "minor": 15109,
+    "major": 15110,
+    "minor": 15110,
     "patch": 86
   }
 }
