@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x811D74ab7637b1E3750CbB36a87C3D160e05d63C",
-      "symbol": "JINMU",
-      "name": "THEEMPERORJINMU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x87DC4F4d43de030A003763e4A1fCd48a28e8dc25",
       "symbol": "DEV",
       "name": "PreMix",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86030D1915272460C03A41b1C1D88E213F21b96d",
+      "symbol": "FTV",
+      "name": "FlokiTV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15136,
-    "minor": 15136,
+    "major": 15137,
+    "minor": 15137,
     "patch": 86
   }
 }
