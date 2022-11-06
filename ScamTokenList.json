@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDc929bc6251353b3d5233703304189A86C9faFc6",
-      "symbol": "WHITESNAKE",
-      "name": "Hakujya",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0Cb3C6B8a0156E02770095F15e878Eeb45BA592e",
       "symbol": "FANNYINU",
       "name": "FannyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fdbe667c39839DE0fCc62940922c00B362128CE",
+      "symbol": "VB",
+      "name": "VitalikBNB",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15098,
-    "minor": 15098,
+    "major": 15099,
+    "minor": 15099,
     "patch": 86
   }
 }
