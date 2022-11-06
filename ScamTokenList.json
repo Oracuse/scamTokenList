@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22ECF840eE508Cb5560B9BFF5e81534C40A408a8",
-      "symbol": "HEXINU",
-      "name": "HexInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF562a25108eA91642cb5A8E7C4c4A6Cf91E4E4C8",
       "symbol": "ZILLA",
       "name": "LarpDestroyer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1E92F3B3CD7dC7F8dB2083B19AB2b59222f7c61",
+      "symbol": "SHAMAN",
+      "name": "ShamanInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15129,
-    "minor": 15129,
+    "major": 15130,
+    "minor": 15130,
     "patch": 86
   }
 }
