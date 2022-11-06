@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb2e82B6f15A17aB52De624E58Cee0821332F1bC2",
-      "symbol": "AKIDO",
-      "name": "TheAccord",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9e0d4dF7c930e17AB12e30b94623A1E06129832a",
       "symbol": "HOTDOGE",
       "name": "HotDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x925930A3A2ba99751Ea2F95723432E5C55dA27Cd",
+      "symbol": "OBI",
+      "name": "OboruInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15149,
-    "minor": 15149,
+    "major": 15150,
+    "minor": 15150,
     "patch": 86
   }
 }
