@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x83dbc7124edB486CC392ba1334d8103Fa43990B7",
-      "symbol": "FUNDR",
-      "name": "Fundrama",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB9b750879ad08dFd2Bc8a02DA9a887da871fC44e",
       "symbol": "USDH",
       "name": "HOARD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD21d57AD00F79329725817a6aC451150B4631af5",
+      "symbol": "WCS",
+      "name": "WorldCupShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15114,
-    "minor": 15114,
+    "major": 15115,
+    "minor": 15115,
     "patch": 86
   }
 }
