@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x296093573cFdfF669F99FEfB8Db523A460D9A22C",
-      "symbol": "LBR",
-      "name": "LoopRingBridge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2368A152a54d8105E81a784eB3998Bb7Cf9d08fc",
       "symbol": "CULTSU",
       "name": "CultTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDc75Eb64298C48160ca57bf233d80cFD8d4Ae2e7",
+      "symbol": "PARODY",
+      "name": "ParodyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15195,
-    "minor": 15195,
+    "major": 15196,
+    "minor": 15196,
     "patch": 86
   }
 }
