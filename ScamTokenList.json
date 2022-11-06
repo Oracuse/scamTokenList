@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFFf314C364470eD556c9880A9644e217760fA8A2",
-      "symbol": "SZR",
-      "name": "ShibaZero",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3b11c86E5ED17b9B7972ff1b73c066c0a752e9fc",
       "symbol": "KARASU",
       "name": "Karasu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc50A3b982C065619163448D01337633a336A1A60",
+      "symbol": "DOGINA",
+      "name": "SheDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15176,
-    "minor": 15176,
+    "major": 15177,
+    "minor": 15177,
     "patch": 86
   }
 }
