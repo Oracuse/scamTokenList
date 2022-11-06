@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8aA9FE47117fB0044ae1DAA911E531C397035a08",
-      "symbol": "KONAN",
-      "name": "KONAN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3a2588bF759656a9cb1E2F8a0Ca75e0a54390B44",
       "symbol": "ALIVE",
       "name": "VivienneFavre",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ab272f658D3741eF92590Da8Ab70536236fa1c0",
+      "symbol": "NECRO",
+      "name": "NecroDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15092,
-    "minor": 15092,
+    "major": 15093,
+    "minor": 15093,
     "patch": 86
   }
 }
