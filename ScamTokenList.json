@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5eB936b41D7D0550aB31DE547a919b6a107be4D3",
-      "symbol": "SQUIDCHAIN",
-      "name": "SQUIDCHAIN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x18d9fEBF7B87Ef1B929d5aDCcc3162eF37a06095",
       "symbol": "YAKI",
       "name": "Sukiyaki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD073045F10347FFE5dB0b58a785E611ADA06b2E4",
+      "symbol": "KOCHI",
+      "name": "KochiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15095,
-    "minor": 15095,
+    "major": 15096,
+    "minor": 15096,
     "patch": 86
   }
 }
