@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd869597eC17dC8e18333a665040f58bB03e66e79",
-      "symbol": "FYM",
-      "name": "FYMILE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6e35E581B673B78226a83A38c57F0AD416E09dCA",
       "symbol": "KISARAGI",
       "name": "Kisaragi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f4E70714F1783b1590FdfE4AEa54Da9e88AC253",
+      "symbol": "1CHAD",
+      "name": "1Chad",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15084,
-    "minor": 15084,
+    "major": 15085,
+    "minor": 15085,
     "patch": 86
   }
 }
