@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x18d9fEBF7B87Ef1B929d5aDCcc3162eF37a06095",
-      "symbol": "YAKI",
-      "name": "Sukiyaki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb276bF2c9298687429cAa62ad1A977c2804E927a",
       "symbol": "FUXI",
       "name": "FuxiChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7FF34975Bc2d0D68fF66B4B78ad0eF614108B7e",
+      "symbol": "DRAGONPROTOCOL",
+      "name": "DRAGONPROTOCOL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15096,
-    "minor": 15096,
+    "major": 15097,
+    "minor": 15097,
     "patch": 86
   }
 }
