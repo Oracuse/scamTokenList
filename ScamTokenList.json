@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5Fd6b7040440b5D5De23Ef197eCa77Cb9A61d8Fc",
-      "symbol": "CRYP",
-      "name": "CrypteratorApp",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49bc66f664D3Dcae75b48898B6A8c04d5bea8e87",
       "symbol": "DOGNOBI",
       "name": "DogNobi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52CF36D47003397a749cB4057C011B1507A8af2a",
+      "symbol": "APT1",
+      "name": "APTOSLAYER1",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15120,
-    "minor": 15120,
+    "major": 15121,
+    "minor": 15121,
     "patch": 86
   }
 }
