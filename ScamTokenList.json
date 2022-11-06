@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0dd8B044594C471c5807f108B65c0777e4DBD433",
-      "symbol": "MOMO",
-      "name": "Momonaru",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10ef8f331D196Ffa983e2F717238cC17FE2EB055",
       "symbol": "IMOOGI",
       "name": "imoogi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12514830Ec1D8bb2429AFCE4C369F7929e035876",
+      "symbol": "SHIBATV",
+      "name": "ShibaTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15088,
-    "minor": 15088,
+    "major": 15089,
+    "minor": 15089,
     "patch": 86
   }
 }
