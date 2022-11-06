@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6f1B0be891d6f2Ab3a109D5FCd6b22D6bdc4842A",
-      "symbol": "TNTA",
-      "name": "TANABATA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x325cD117FF1a487d7ccF9511AAd4c612163Eb024",
       "symbol": "HAPPY",
       "name": "HappyCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76070e6Bd9a5B488008307F3f14D03Dd1a683795",
+      "symbol": "8",
+      "name": "EIGHT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15169,
-    "minor": 15169,
+    "major": 15170,
+    "minor": 15170,
     "patch": 86
   }
 }
