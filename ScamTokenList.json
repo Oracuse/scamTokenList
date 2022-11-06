@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3582c20023d33bbc6e283fe7E4E7bf274C3463CF",
-      "symbol": "WOOF",
-      "name": "Woof",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD42226B6c0D6209bBf5Bc875d6F078d6E69aC1A2",
       "symbol": "PREDATOR",
       "name": "ThrillOfTheHunt",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52Aa2d9648fAD00A3b220af77d071Cff85187c2F",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15104,
-    "minor": 15104,
+    "major": 15105,
+    "minor": 15105,
     "patch": 86
   }
 }
