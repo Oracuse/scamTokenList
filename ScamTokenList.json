@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x867E67b34B90222DF748A2aBfA76d28DdE6F8efb",
-      "symbol": "KINGYO",
-      "name": "Kingyo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x60d3150c61E490F88c7D71095814F2D6A022A9EB",
       "symbol": "XKIBA",
       "name": "HEXKIBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72b4144cDF8503af48870E8F4fE71CffCEBC50e8",
+      "symbol": "PEAK",
+      "name": "MountainPeak",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15161,
-    "minor": 15161,
+    "major": 15162,
+    "minor": 15162,
     "patch": 86
   }
 }
