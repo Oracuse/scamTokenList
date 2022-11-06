@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7ea597b05FA436884621C91e6CD63d0363806247",
-      "symbol": "TID",
-      "name": "TheInitiatedDevelop",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf4427B420486D8d5D1660A887bBb3554581385B9",
       "symbol": "HEXPUNKS",
       "name": "HexPunks",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22dD832D0336b5Dd3226a9b53F3605f67d90b693",
+      "symbol": "GRINCH",
+      "name": "TheGrinch",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15181,
-    "minor": 15181,
+    "major": 15182,
+    "minor": 15182,
     "patch": 86
   }
 }
