@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb276bF2c9298687429cAa62ad1A977c2804E927a",
-      "symbol": "FUXI",
-      "name": "FuxiChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDc929bc6251353b3d5233703304189A86C9faFc6",
       "symbol": "WHITESNAKE",
       "name": "Hakujya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a0e2f29B4883EEf011526b8607013930370b4dd",
+      "symbol": "SENGOKU",
+      "name": "Sengoku",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15097,
-    "minor": 15097,
+    "major": 15098,
+    "minor": 15098,
     "patch": 86
   }
 }
