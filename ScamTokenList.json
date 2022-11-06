@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3f6b33ec2652A9487CaDB13BE039196b7442A48C",
-      "symbol": "MURAI",
-      "name": "Murai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeF3A528b586BB3E5915EE59a437DE3BD43b5C253",
       "symbol": "CHARM",
       "name": "TheHex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x765174b9c44Bc870271469098A69712e30c1C829",
+      "symbol": "BNBVFTT",
+      "name": "BNBvsFTT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15191,
-    "minor": 15191,
+    "major": 15192,
+    "minor": 15192,
     "patch": 86
   }
 }
