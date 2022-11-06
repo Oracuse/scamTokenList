@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC7E7aA7D2C00bf5496C02a87Fd00ac9D13528522",
-      "symbol": "LUCKY",
-      "name": "Kei",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xce6c7ce160Bf46cA396D7DaDE78d17e1970aE0ec",
       "symbol": "DUNECOIN",
       "name": "DUNECOIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBEFb9646fAc9A06f2b460aF47307096afF47D1C3",
+      "symbol": "GOLDB",
+      "name": "GoldenBeagle",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15158,
-    "minor": 15158,
+    "major": 15159,
+    "minor": 15159,
     "patch": 86
   }
 }
