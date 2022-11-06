@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0Cb3C6B8a0156E02770095F15e878Eeb45BA592e",
-      "symbol": "FANNYINU",
-      "name": "FannyInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6566dA362010Ad06c0D454eb20E6231fd84c73b1",
       "symbol": "CHEE",
       "name": "Hachee",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f59c478753688f04ADC7509dA38e3b786E789dc",
+      "symbol": "HEART",
+      "name": "TheHeartofDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15099,
-    "minor": 15099,
+    "major": 15100,
+    "minor": 15100,
     "patch": 86
   }
 }
