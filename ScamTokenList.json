@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA3126335f58658CAa65De80552DaA71888d04afF",
-      "symbol": "RFI20",
-      "name": "RFI20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFFf314C364470eD556c9880A9644e217760fA8A2",
       "symbol": "SZR",
       "name": "ShibaZero",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x854E7aD43d19aCfC91C6d13bDdC4D423755A2731",
+      "symbol": "RUDOLPH",
+      "name": "RudolphInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15175,
-    "minor": 15175,
+    "major": 15176,
+    "minor": 15176,
     "patch": 86
   }
 }
