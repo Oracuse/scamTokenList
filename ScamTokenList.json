@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76c211e6f5E752d5feE18eFD90a9E628C6Ad4Bc7",
-      "symbol": "AINZ",
-      "name": "AinzInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69c30f2715B027761B2B4bdb94A49b374c3eC70e",
       "symbol": "HEXUFO",
       "name": "HexUFO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x140a4167d7A3a2C7Bf7D6cBE3D88a610F6eC581c",
+      "symbol": "MONA",
+      "name": "MonaShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15171,
-    "minor": 15171,
+    "major": 15172,
+    "minor": 15172,
     "patch": 86
   }
 }
