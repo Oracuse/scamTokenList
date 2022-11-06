@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaba20Ca6B78a5E33BD567Ca21924F5f141966fd2",
-      "symbol": "TINU",
-      "name": "TinkerInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98b9E2E8A9b26Bd5f528fAa9A2541A326FB0A6E9",
       "symbol": "KEN",
       "name": "kenjiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA6E3c5b796FBA7820fD408E502C895F6d5516a49",
+      "symbol": "MEDS",
+      "name": "BidenMeds",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15090,
-    "minor": 15090,
+    "major": 15091,
+    "minor": 15091,
     "patch": 86
   }
 }
