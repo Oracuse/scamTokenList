@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEf5ee67B946ba6Cedd63aD59e6e196202996df45",
-      "symbol": "HEXT",
-      "name": "Hextama",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2E43E2CbF550a8F722f0DF52F31521aDC8994a6c",
       "symbol": "HEXVIBES",
       "name": "HEXVIBES",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa44705A6C8a7E356133ff2e8662CfD74443886a7",
+      "symbol": "HEXTV",
+      "name": "HexTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15184,
-    "minor": 15184,
+    "major": 15185,
+    "minor": 15185,
     "patch": 86
   }
 }
