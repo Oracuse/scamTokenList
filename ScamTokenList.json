@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x768900753aF08163cd38e753b4941A1274F9633a",
-      "symbol": "HEXICAN",
-      "name": "NEWCOMMUNITYHEX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3f6b33ec2652A9487CaDB13BE039196b7442A48C",
       "symbol": "MURAI",
       "name": "Murai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e403a3e25eaf9B7499d3C6272E3dD20cace8DBF",
+      "symbol": "AFTV",
+      "name": "AFTVCrypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15190,
-    "minor": 15190,
+    "major": 15191,
+    "minor": 15191,
     "patch": 86
   }
 }
