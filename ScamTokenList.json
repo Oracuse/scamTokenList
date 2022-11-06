@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaD8b55675BdB8f70F926f2e06961e64d31bE7E2b",
-      "symbol": "GENX",
-      "name": "GenX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00E241ba329e5800f72BE99bf3D2a5903ff18BD1",
       "symbol": "0XGANG",
       "name": "EtherGang",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82A85045495A91d47697baFC9108C1472d4572b9",
+      "symbol": "BELGIUM",
+      "name": "BelgiumInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15165,
-    "minor": 15165,
+    "major": 15166,
+    "minor": 15166,
     "patch": 86
   }
 }
