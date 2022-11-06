@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf4427B420486D8d5D1660A887bBb3554581385B9",
-      "symbol": "HEXPUNKS",
-      "name": "HexPunks",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x814e7A02e7B228fF98fb5CE6fF96CaB1651ed028",
       "symbol": "TENSHO",
       "name": "Amaterasu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69904744D4e3F19a02897CAcbC22d68AA802BFc1",
+      "symbol": "FRANCE",
+      "name": "FRANCEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15182,
-    "minor": 15182,
+    "major": 15183,
+    "minor": 15183,
     "patch": 86
   }
 }
