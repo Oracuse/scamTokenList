@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3fb6d3FD24725d256Fb10De68d316BF3a3032082",
-      "symbol": "ISHIBA",
-      "name": "Ishiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21B575b9ba891B9797860a1D2598c73860b8F944",
       "symbol": "HEXPULSE",
       "name": "HEXPULSE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34e4139Cf817aA2A048fdA9F3938206323929f84",
+      "symbol": "HOLD",
+      "name": "hold",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15187,
-    "minor": 15187,
+    "major": 15188,
+    "minor": 15188,
     "patch": 86
   }
 }
