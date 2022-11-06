@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98A83C4461700c3317926E7F0125cA30B7Bf9bc1",
-      "symbol": "DAIICHI",
-      "name": "DAIICHI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfC106dacdB07718f03F79f104299c97DA86A8da1",
       "symbol": "MEGALODON",
       "name": "Megalodon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0006952c96134e1d377813A0bdaDb6316799c80A",
+      "symbol": "YBIFF3",
+      "name": "YoungBiff3",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15102,
-    "minor": 15102,
+    "major": 15103,
+    "minor": 15103,
     "patch": 86
   }
 }
