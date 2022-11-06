@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA090E5E17Afe6f8D1d231d672F4e10b9a8a2359b",
-      "symbol": "TSUKAI",
-      "name": "MahouTsukai",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEEC36fE4ED9d7a035566B49E686A99a3c91FD2Bc",
       "symbol": "BKAIK",
       "name": "BabyKaiken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd31E0359e1F611b3166144766a15BabFBaced9c",
+      "symbol": "CAT",
+      "name": "VitalikisaCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15112,
-    "minor": 15112,
+    "major": 15113,
+    "minor": 15113,
     "patch": 86
   }
 }
