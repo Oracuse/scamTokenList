@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x39D13c557b8bfD2AA450db4b486DAB8E1Fe35C52",
-      "symbol": "YAKUSHI",
-      "name": "Yakushi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6f1B0be891d6f2Ab3a109D5FCd6b22D6bdc4842A",
       "symbol": "TNTA",
       "name": "TANABATA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6F12b78f9253aF7fc9D30c505b149e2389C794F4",
+      "symbol": "CATV",
+      "name": "CatTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15168,
-    "minor": 15168,
+    "major": 15169,
+    "minor": 15169,
     "patch": 86
   }
 }
