@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x325cD117FF1a487d7ccF9511AAd4c612163Eb024",
-      "symbol": "HAPPY",
-      "name": "HappyCoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76c211e6f5E752d5feE18eFD90a9E628C6Ad4Bc7",
       "symbol": "AINZ",
       "name": "AinzInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBcE6854b396602ba79c0C18b074a672343436691",
+      "symbol": "SHIBLOTTO",
+      "name": "SHIBLOTTO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15170,
-    "minor": 15170,
+    "major": 15171,
+    "minor": 15171,
     "patch": 86
   }
 }
