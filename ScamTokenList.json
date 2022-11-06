@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6edf777Ef9a010D3c4503DB74f21F9DABFC41b63",
-      "symbol": "TENKEI",
-      "name": "IzanamiShinto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x24aE712cAa812ce111156A2f36df236F48790727",
       "symbol": "KARASU",
       "name": "Karasu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F5D06937b5AF60BB985201B699933D7ad8a4ef4",
+      "symbol": "GREEN",
+      "name": "GreenProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15179,
-    "minor": 15179,
+    "major": 15180,
+    "minor": 15180,
     "patch": 86
   }
 }
