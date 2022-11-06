@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x91FBc2728AE2bA2F21adB768cc31E10710D278d1",
-      "symbol": "METAHEX",
-      "name": "METAHEX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdD78D9c8Ef8c24dA666b9cad132cb3f487BBb960",
       "symbol": "TSUKICHAIN",
       "name": "LunaChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89226335e8BbA6A06dcbC7dEB813dff22a0CCb86",
+      "symbol": "SKYMATIC",
+      "name": "SKYMATIC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15152,
-    "minor": 15152,
+    "major": 15153,
+    "minor": 15153,
     "patch": 86
   }
 }
