@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5A08F50637Be7c63D9E5F2b13D9d8dfeC7D8730",
-      "symbol": "SFGS",
-      "name": "SFGS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x720eb0816F12846A33EAb9D23c3A9dF6E67b19CD",
       "symbol": "UNO",
       "name": "Unowned",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaBaE5587036B1f30c55B6F649d9ab428822B866F",
+      "symbol": "QUINTESSENCE",
+      "name": "Quintessence",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15106,
-    "minor": 15106,
+    "major": 15107,
+    "minor": 15107,
     "patch": 86
   }
 }
