@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93842B5f29BDdb5d744aED52De5eF3C5E02231f1",
-      "symbol": "BURNTHEXFLOKI",
-      "name": "BurntHexFloki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x018A03D9457A54Af9ED1A241D828022E8c5E043C",
       "symbol": "MICHIO",
       "name": "OnTheRightPath",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD26bF9db1a604d33B10C33A09bC40172092cef21",
+      "symbol": "FTTF",
+      "name": "FTXFloki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15249,
-    "minor": 15249,
+    "major": 15250,
+    "minor": 15250,
     "patch": 86
   }
 }
