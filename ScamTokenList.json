@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x916596140D4580Beb3D2866F0691050d6F6B76Ae",
-      "symbol": "ETCE",
-      "name": "ETCE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x87F2C069D101B2Bd5c2000035037e3aa5F11CE33",
       "symbol": "SIZU",
       "name": "SachikoKoshimizu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e0AA6de5cF056533a7B47FC29e6D19E2dbdeF8E",
+      "symbol": "MIND",
+      "name": "TheJail",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15245,
-    "minor": 15245,
+    "major": 15246,
+    "minor": 15246,
     "patch": 86
   }
 }
