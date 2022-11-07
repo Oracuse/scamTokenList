@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa4dC47748071C31bbFAd52A9E053f135A109A734",
-      "symbol": "HEXPEPE",
-      "name": "HexPepe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd197EB37FFaEaFd8e7De7b5cE33dC43e12799220",
       "symbol": "RIPQEII",
       "name": "RIPQueenElizabethII",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3911d6900314DbAaF6aD1397B17665ba14485E9",
+      "symbol": "MCC",
+      "name": "MemeCoinCapital",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15275,
-    "minor": 15275,
+    "major": 15276,
+    "minor": 15276,
     "patch": 86
   }
 }
