@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa93f9a1293d956A86D046edED941167C5396EdD2",
-      "symbol": "HEXD",
-      "name": "HexDAI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7E0feF18F113b9D4F30905769D378D8Ce7D4AAfA",
       "symbol": "TONT",
       "name": "TONT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe572d27F44067DB5b0bEC41BD1E19b41A00bf313",
+      "symbol": "CATS",
+      "name": "The9Lives",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15214,
-    "minor": 15214,
+    "major": 15215,
+    "minor": 15215,
     "patch": 86
   }
 }
