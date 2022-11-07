@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51369d7fd43474382aD8d2aE6DED867a5A52841b",
-      "symbol": "FAMEA",
-      "name": "FAMEMMA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7e190c8D83626b637d47C70522D5F7D167eCaA5E",
       "symbol": "HEXT",
       "name": "HEXTAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC5e25217684cfE0c7BBacC5933bB8949f837d972",
+      "symbol": "MIDEIA",
+      "name": "Mideia",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15221,
-    "minor": 15221,
+    "major": 15222,
+    "minor": 15222,
     "patch": 86
   }
 }
