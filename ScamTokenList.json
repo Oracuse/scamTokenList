@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB685cEEB5B59b519eC4DD9ee1D2e29DA8B9e9dd0",
-      "symbol": "HXS",
-      "name": "HEXSCAN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0db1213Bc88a0283b7dDFa74c00820f61301497e",
       "symbol": "AUROS",
       "name": "Auros",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E7fcC4438F183069763fba9D0Ea9b99A0810FDf",
+      "symbol": "WORLDWAVE",
+      "name": "FIFAWorldCupQatar20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15239,
-    "minor": 15239,
+    "major": 15240,
+    "minor": 15240,
     "patch": 86
   }
 }
