@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2EB7a82ed9F46bda742623004424587797Bcef53",
-      "symbol": "CORGI",
-      "name": "QueensInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe28085d7F465a56a8ad7E1D4f45e6a02230767Dd",
       "symbol": "HEXDOGE",
       "name": "HexDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xECD6791c2f2e3865d48883607e08048dd197b256",
+      "symbol": "NYC",
+      "name": "NewYearCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15300,
-    "minor": 15300,
+    "major": 15301,
+    "minor": 15301,
     "patch": 86
   }
 }
