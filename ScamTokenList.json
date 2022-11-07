@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf48A728A3D9987CD44A91B074401B71f4a065613",
-      "symbol": "HEXA",
-      "name": "HEXAGEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8db7b684D10BE3EcF38879484a709497Ff8AcBAD",
       "symbol": "MAGA",
       "name": "TamanooyanoMikoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF6176B6179A95B386A6a759ba9296F56F1060703",
+      "symbol": "DBTV",
+      "name": "DontBuyTV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15218,
-    "minor": 15218,
+    "major": 15219,
+    "minor": 15219,
     "patch": 86
   }
 }
