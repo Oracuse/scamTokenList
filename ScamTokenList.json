@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x52412D82FFb4a54dE7986C86b841F84dCFAEC510",
-      "symbol": "LAUNCAO",
-      "name": "LauncaoToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5b9F28be48a07114e5dd45F3571654d5f7C400eF",
       "symbol": "KING",
       "name": "HexKing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44Ccb5FC1e48E7b0524206510BFD411f5ca95592",
+      "symbol": "DONTBUY",
+      "name": "dontbuy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15309,
-    "minor": 15309,
+    "major": 15310,
+    "minor": 15310,
     "patch": 86
   }
 }
