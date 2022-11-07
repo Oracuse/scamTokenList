@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0db1213Bc88a0283b7dDFa74c00820f61301497e",
-      "symbol": "AUROS",
-      "name": "Auros",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x14d23957d81f41750c7B4845B0897c3c802Cb313",
       "symbol": "FLOKIFUND",
       "name": "FlokiFund",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x568B87faF1044f2DdB691685706EB0Aa797DA3A9",
+      "symbol": "WFI",
+      "name": "WaitForit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15240,
-    "minor": 15240,
+    "major": 15241,
+    "minor": 15241,
     "patch": 86
   }
 }
