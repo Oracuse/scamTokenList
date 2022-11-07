@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5E0f993E2708bFDE6237E3A721e0447c970aCd70",
-      "symbol": "HEXPEPE",
-      "name": "HEXPEPE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9164cc95cBE0707c74581d32427294E261d9eB0C",
       "symbol": "OCEAN",
       "name": "OceanFinance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F31C3F2994aa3C275d21c2b400E1D5413Ed8695",
+      "symbol": "SPUP",
+      "name": "SantaPup",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15277,
-    "minor": 15277,
+    "major": 15278,
+    "minor": 15278,
     "patch": 86
   }
 }
