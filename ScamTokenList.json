@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7d635Fb86102a353FaA74D5a30cBe90De5Cbdc76",
-      "symbol": "HATSU",
-      "name": "KashikoHatsu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB4e000FE971e2d9E962F8737b834AfDE8257e10a",
       "symbol": "RAGNAROK",
       "name": "Ragnarok",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB02a2f3F1C8c9534D327aa782C2AAd1dBC0E9C4C",
+      "symbol": "DAIKICHI",
+      "name": "Daikichi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15211,
-    "minor": 15211,
+    "major": 15212,
+    "minor": 15212,
     "patch": 86
   }
 }
