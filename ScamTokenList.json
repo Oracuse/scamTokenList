@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14d23957d81f41750c7B4845B0897c3c802Cb313",
-      "symbol": "FLOKIFUND",
-      "name": "FlokiFund",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x378C964e5c04e72d102D6d875524732A10607Aee",
       "symbol": "CHAUFFAGE",
       "name": "BoisDeChauffage",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3181F254037302162dc3AbBE1c4f0d0EC8F8e0A4",
+      "symbol": "C341",
+      "name": "ELONSCAT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15241,
-    "minor": 15241,
+    "major": 15242,
+    "minor": 15242,
     "patch": 86
   }
 }
