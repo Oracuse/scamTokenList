@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF4d704BF0AFcA814e62bdC5C22D83B7Fbe3dc6ae",
-      "symbol": "CHUSHINGURA",
-      "name": "Chushingura",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7D5B542E5c7B5469e9c5d783C1b4Bfbf5c88f14D",
       "symbol": "QUEENSHIBA",
       "name": "QueenShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA892F86D0a0Ac8bd3eAE828Fba54A39eA08CE1dd",
+      "symbol": "XMAS20",
+      "name": "ProofOfXmas",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15304,
-    "minor": 15304,
+    "major": 15305,
+    "minor": 15305,
     "patch": 86
   }
 }
