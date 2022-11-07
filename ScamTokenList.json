@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe28085d7F465a56a8ad7E1D4f45e6a02230767Dd",
-      "symbol": "HEXDOGE",
-      "name": "HexDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeD56d0327F0949b4EeBBcfeb5D849AE774bb8aaa",
       "symbol": "QUEENSHIBA",
       "name": "QueenShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Dc97AB9E3b89843B4696C288b76c5f9dAb2b023",
+      "symbol": "KO",
+      "name": "FightTV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15301,
-    "minor": 15301,
+    "major": 15302,
+    "minor": 15302,
     "patch": 86
   }
 }
