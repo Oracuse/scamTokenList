@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x378C964e5c04e72d102D6d875524732A10607Aee",
-      "symbol": "CHAUFFAGE",
-      "name": "BoisDeChauffage",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01Ee88Ef60D5A2D72bE080a0173F97a8db4EFBD6",
       "symbol": "DOGEFUND",
       "name": "DogeFund",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d2e4828E4CD18fC91B93C05a510Bef1828cB684",
+      "symbol": "HATOSE",
+      "name": "HATOSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15242,
-    "minor": 15242,
+    "major": 15243,
+    "minor": 15243,
     "patch": 86
   }
 }
