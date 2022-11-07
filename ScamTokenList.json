@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9a7f9c64B0D828382528b2fffD649112F1f71517",
-      "symbol": "BEB",
-      "name": "BEBAH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd182fB50a711426dDe3A41580cc1983BF0FF61D4",
       "symbol": "HEXHEX",
       "name": "HEXHEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF724cA10825c07c8046CEbAe39C05BD0fe0Ea74A",
+      "symbol": "MM",
+      "name": "MonkeyMayhem",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15270,
-    "minor": 15270,
+    "major": 15271,
+    "minor": 15271,
     "patch": 86
   }
 }
