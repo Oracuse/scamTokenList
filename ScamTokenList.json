@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEc70B7B45A6C5F05a966B688640aF163b8EEb1Be",
-      "symbol": "ROYAL",
-      "name": "RoyalInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x198C51E66569cFaefeA5B1d2Df9aA32bFc41dDD8",
       "symbol": "QUINU",
       "name": "QueenInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7459BaB074fA521681827E67FFE55e2323976d9",
+      "symbol": "UNCSTV",
+      "name": "UncensoredTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15306,
-    "minor": 15306,
+    "major": 15307,
+    "minor": 15307,
     "patch": 86
   }
 }
