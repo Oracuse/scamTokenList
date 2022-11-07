@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2Ea69D1446Ac38B70112A1EaCaA5af5C70456347",
-      "symbol": "MAXRES",
-      "name": "MaxResources",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF0D7D74eDa9C3dADa43CD4fea27b6B223A894c9D",
       "symbol": "HXTMA",
       "name": "HexTama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB2F905813A1c97370f82406516Dae537c6cdb21",
+      "symbol": "MBI",
+      "name": "MasterbatedoneInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15260,
-    "minor": 15260,
+    "major": 15261,
+    "minor": 15261,
     "patch": 86
   }
 }
