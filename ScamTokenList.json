@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6b0e8d9F1BAb23834C9D7575f9772AB3Fdc9762e",
-      "symbol": "KASUGAMI",
-      "name": "KasugamiInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x57F988a840eE25a553250bf3fe63FaA99DB76b6e",
       "symbol": "KARASU",
       "name": "GodofDark",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcc8636F1D6C65fE8dc91100fd353dafb911666A2",
+      "symbol": "TRIBE",
+      "name": "TheTwelveTribes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15314,
-    "minor": 15314,
+    "major": 15315,
+    "minor": 15315,
     "patch": 86
   }
 }
