@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x866f4F7DB79322e5916b07c735262A1cf5e21D4c",
-      "symbol": "TANOSHI",
-      "name": "Tanoshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93842B5f29BDdb5d744aED52De5eF3C5E02231f1",
       "symbol": "BURNTHEXFLOKI",
       "name": "BurntHexFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34d379CE385429920F127841Fc498244f6341FCb",
+      "symbol": "HTHC",
+      "name": "HowTimesHaveChanged",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15248,
-    "minor": 15248,
+    "major": 15249,
+    "minor": 15249,
     "patch": 86
   }
 }
