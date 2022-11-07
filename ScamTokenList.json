@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeD4327ac933Bdd551002994056C0C961776993EB",
-      "symbol": "DEAD",
-      "name": "RyoshiisDEAD",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa93f9a1293d956A86D046edED941167C5396EdD2",
       "symbol": "HEXD",
       "name": "HexDAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Ce090156CF1d4Ab78525E04720eFDe900C31271",
+      "symbol": "50CTV",
+      "name": "50centTV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15213,
-    "minor": 15213,
+    "major": 15214,
+    "minor": 15214,
     "patch": 86
   }
 }
