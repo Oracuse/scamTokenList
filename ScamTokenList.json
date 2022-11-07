@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC1587F68B368FC4E492AC9c4343BE0A21094d2De",
-      "symbol": "SHIC",
-      "name": "ShibaCome",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7d25a5EAAebbBa2AeB0E5168f4fB40c58C2D0015",
       "symbol": "SETSU",
       "name": "Setsubun",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC88250537f48fA36a23B096C9fEF83fBA05CB76b",
+      "symbol": "SCROOGE",
+      "name": "ScroogeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15204,
-    "minor": 15204,
+    "major": 15205,
+    "minor": 15205,
     "patch": 86
   }
 }
