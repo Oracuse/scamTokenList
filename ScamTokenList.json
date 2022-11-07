@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x35ED0a86b9528E85280BE30aa4046d9d5cFFe15C",
-      "symbol": "JOOU",
-      "name": "Joou",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC533A11CdD7a7D037fDf36544F91baF3CA007223",
       "symbol": "BRAVE",
       "name": "TehWarrior",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B735FFdc56B0CD9Fe4498182F83c637f5ab00a0",
+      "symbol": "VEDA",
+      "name": "RigVeda",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15311,
-    "minor": 15311,
+    "major": 15312,
+    "minor": 15312,
     "patch": 86
   }
 }
