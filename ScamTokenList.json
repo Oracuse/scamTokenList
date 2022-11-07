@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3D4C935eF169db391134491caf780AC554b8193c",
-      "symbol": "BGG",
-      "name": "BEGINNING",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBa7ddb62234Bb0DDd6637981FF1b068c9555F69A",
       "symbol": "HEXTSUKA",
       "name": "HexTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7eafF0e4675741b015DE963279ba699ed5F2195",
+      "symbol": "MWC",
+      "name": "MiniWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15231,
-    "minor": 15231,
+    "major": 15232,
+    "minor": 15232,
     "patch": 86
   }
 }
