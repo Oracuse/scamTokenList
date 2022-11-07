@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2D6C6Ec2E1526a3699E1a54f7b74e761564DAA45",
-      "symbol": "HEXSUZUME",
-      "name": "HexSuzume",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb8B8463609b2F1526dF2A8e17AA1575A10614e84",
       "symbol": "TANABA",
       "name": "Tanabata",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93f91D0301C7674f9607b488c2dA4a421cBdCC8A",
+      "symbol": "RESOLUTION",
+      "name": "NewYear",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15236,
-    "minor": 15236,
+    "major": 15237,
+    "minor": 15237,
     "patch": 86
   }
 }
