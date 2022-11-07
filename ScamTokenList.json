@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62FB033E620B75BFaC4724fd9BAEBD52869B1Da5",
-      "symbol": "AIRS",
-      "name": "AirSwapV3",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0Ca05AAA561EbafBa3888F61380a1B0D420458dA",
       "symbol": "HEXSAFEMOON",
       "name": "HexSafemoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x474DedAA5940C8F6F241cfF2779e92c603Ef58b9",
+      "symbol": "SCAT",
+      "name": "ShadowCat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15228,
-    "minor": 15228,
+    "major": 15229,
+    "minor": 15229,
     "patch": 86
   }
 }
