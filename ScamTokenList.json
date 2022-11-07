@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF266eA925E05c4EbD959029157372774ef39a2e2",
-      "symbol": "CHARLESINU",
-      "name": "CharlesInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb49C7e4De6755F761B133bbCEf79f4dA86Cd404c",
       "symbol": "QUEENFLOKI",
       "name": "QueenFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7fAa21725460233d6F5B76D3f1db65e089d7D006",
+      "symbol": "UVA",
+      "name": "Proxima",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15293,
-    "minor": 15293,
+    "major": 15294,
+    "minor": 15294,
     "patch": 86
   }
 }
