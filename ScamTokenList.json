@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23C5Ad2a12d9F7424fE9104acD0adE4e5E341082",
-      "symbol": "MIKASA",
-      "name": "MikasaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4e2c88D02601C0daDba7dC21cDA72365c45bde49",
       "symbol": "TI",
       "name": "TITANIUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63cd5BCB698eF2a6594969fa842ea6EF17928946",
+      "symbol": "BIRD",
+      "name": "BirdProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15216,
-    "minor": 15216,
+    "major": 15217,
+    "minor": 15217,
     "patch": 86
   }
 }
