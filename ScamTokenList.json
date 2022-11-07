@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x183ae4Aa93EAce66E4D7510313Cb4D431e6b676b",
-      "symbol": "UNO",
-      "name": "Unowned",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8b0612fBfbfC950D6373A80AC0cb16d7A6C4164d",
       "symbol": "HPEPE",
       "name": "HexPepe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x553953116F0e67cC03Dad71a6b4a0374c0e03455",
+      "symbol": "DIFF",
+      "name": "TheDifference",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15284,
-    "minor": 15284,
+    "major": 15285,
+    "minor": 15285,
     "patch": 86
   }
 }
