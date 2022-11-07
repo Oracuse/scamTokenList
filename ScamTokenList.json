@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x322feFC960d9347dAF153De60A358feA7BCd8a91",
-      "symbol": "TRUTH",
-      "name": "Minori",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15a57642d4c2CcCB35a786487177A322d2254EcE",
       "symbol": "MOLECULE",
       "name": "MoleculeDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15ADD0aE4A0D2DE4416Fe4F60B1a4A90096578FA",
+      "symbol": "MWC",
+      "name": "MiniWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15233,
-    "minor": 15233,
+    "major": 15234,
+    "minor": 15234,
     "patch": 86
   }
 }
