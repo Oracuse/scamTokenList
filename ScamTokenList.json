@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9164cc95cBE0707c74581d32427294E261d9eB0C",
-      "symbol": "OCEAN",
-      "name": "OceanFinance",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8Bac8249fa66025FeeE7edcCBbCf3a8B42D3fD9d",
       "symbol": "RIPQUEEN",
       "name": "RIPQUEEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1aAeDB070F6AD061204af0E0Bc04D41fcA3b045",
+      "symbol": "KI",
+      "name": "KnightInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15278,
-    "minor": 15278,
+    "major": 15279,
+    "minor": 15279,
     "patch": 86
   }
 }
