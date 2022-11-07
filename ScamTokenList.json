@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEC96bF25071433B0e2E27C5CAea6071b3E674984",
-      "symbol": "999",
-      "name": "TheNabla",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62FB033E620B75BFaC4724fd9BAEBD52869B1Da5",
       "symbol": "AIRS",
       "name": "AirSwapV3",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5718EAec03649E2C991A78d247aBF3bff38A56f",
+      "symbol": "SHISUI",
+      "name": "ShisuiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15227,
-    "minor": 15227,
+    "major": 15228,
+    "minor": 15228,
     "patch": 86
   }
 }
