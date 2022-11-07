@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7611EF2EbECed9f537bED6EA6BcFB48626F0c8a5",
-      "symbol": "ENSO",
-      "name": "Enso",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2EB7a82ed9F46bda742623004424587797Bcef53",
       "symbol": "CORGI",
       "name": "QueensInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaE41f557a2DB601B6484BF5CEca2EeB0D161FaA5",
+      "symbol": "POS",
+      "name": "ProofOfSocial",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15299,
-    "minor": 15299,
+    "major": 15300,
+    "minor": 15300,
     "patch": 86
   }
 }
