@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd424806f3877276A4D1f7ebA347ba87ee88C7bd3",
-      "symbol": "SHINKING",
-      "name": "ShinKingInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF4d704BF0AFcA814e62bdC5C22D83B7Fbe3dc6ae",
       "symbol": "CHUSHINGURA",
       "name": "Chushingura",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x213C056fC110B8eEfdC1A7D19BE4B7b8EfC103a5",
+      "symbol": "FTX",
+      "name": "FailedTransaction",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15303,
-    "minor": 15303,
+    "major": 15304,
+    "minor": 15304,
     "patch": 86
   }
 }
