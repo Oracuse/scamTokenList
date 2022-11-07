@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8Bac8249fa66025FeeE7edcCBbCf3a8B42D3fD9d",
-      "symbol": "RIPQUEEN",
-      "name": "RIPQUEEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2ccb50DDE81e7669585ed460E63E2d840C8Be949",
       "symbol": "DDAY",
       "name": "DDAY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAbaBd019Cde4Fda9F426094231040c87c756B08D",
+      "symbol": "MOUSE",
+      "name": "MouseProtcol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15279,
-    "minor": 15279,
+    "major": 15280,
+    "minor": 15280,
     "patch": 86
   }
 }
