@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93d32230FC204e59b0b5c70F5cBAe301A8bFEdab",
-      "symbol": "HEXZERO",
-      "name": "HEXZERO",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEC96bF25071433B0e2E27C5CAea6071b3E674984",
       "symbol": "999",
       "name": "TheNabla",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20174A12901F5B0737590ff078c11da06e771D6C",
+      "symbol": "FLOOR",
+      "name": "Floor",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15226,
-    "minor": 15226,
+    "major": 15227,
+    "minor": 15227,
     "patch": 86
   }
 }
