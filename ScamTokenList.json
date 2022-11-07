@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEDD3603a909D1964dAd32D639159b0D45C03CadA",
-      "symbol": "HEXINA",
-      "name": "HEXINA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB685cEEB5B59b519eC4DD9ee1D2e29DA8B9e9dd0",
       "symbol": "HXS",
       "name": "HEXSCAN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E7A73c0965760bA4a8e65C3343703527872Fcf2",
+      "symbol": "IZANAGI",
+      "name": "IzanaginoMikoto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15238,
-    "minor": 15238,
+    "major": 15239,
+    "minor": 15239,
     "patch": 86
   }
 }
