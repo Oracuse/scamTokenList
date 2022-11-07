@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe5F232EFe88353D7fFf73793242e4B0E6329EB4d",
-      "symbol": "EHIVE",
-      "name": "EthereumHive",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9a7f9c64B0D828382528b2fffD649112F1f71517",
       "symbol": "BEB",
       "name": "BEBAH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB13e3a18Ee449eee2A69468EC6617b5e9b68aaA",
+      "symbol": "ETV",
+      "name": "EthereumTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15269,
-    "minor": 15269,
+    "major": 15270,
+    "minor": 15270,
     "patch": 86
   }
 }
