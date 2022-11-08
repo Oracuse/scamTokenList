@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x31F3e1475AE5f0303f18D978efc9d6cD26C1340B",
-      "symbol": "LUNEX",
-      "name": "LunaHex",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97B1df85D47f997312B75e99E730Fbb0E8e44D24",
       "symbol": "ODYSSEY",
       "name": "TheOdyssey",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC12e54102B57c6aCa45928eDf93A0DDcd8E8445b",
+      "symbol": "CPF",
+      "name": "ChengpengFriedInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15424,
-    "minor": 15424,
+    "major": 15425,
+    "minor": 15425,
     "patch": 86
   }
 }
