@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e2109D5c09F412199B1AAAd55CB0a65750f2F7A",
-      "symbol": "TENRIKYO",
-      "name": "TenriOnoMikoto",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfB51332E9D20529af0A7bCEFFd4f310D2125D1e3",
       "symbol": "HITOSHI",
       "name": "Hitoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95261176039108D03bF33d2D49347b8BE1B7D005",
+      "symbol": "REDMOON",
+      "name": "LunarEclipse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15350,
-    "minor": 15350,
+    "major": 15351,
+    "minor": 15351,
     "patch": 86
   }
 }
