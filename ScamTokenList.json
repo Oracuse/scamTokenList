@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x425Ca6675Cf8c6b334f7Ca4F9120D1DF91044D86",
-      "symbol": "THENEXTSEVEN",
-      "name": "EcumenicalCouncils",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf1dB51547a20a2A2911b698C6792392a1d22dac8",
       "symbol": "KAHUNA",
       "name": "KahunaToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30ef9E4f4DC956E9D00171CB4cb5B8570c522397",
+      "symbol": "FTX20",
+      "name": "FTX20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15390,
-    "minor": 15390,
+    "major": 15391,
+    "minor": 15391,
     "patch": 86
   }
 }
