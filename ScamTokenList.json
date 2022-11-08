@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD6e3E065E3886244366261127323c8A7dd90ca52",
-      "symbol": "GANJIN",
-      "name": "Ganjin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcBA648e199aA6Ba7a6aF34A19C757B16994BdB9a",
       "symbol": "DOGORAI",
       "name": "Dogorai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfAa748E6723D0e29Ebc6928965A7bEb4ecBB37b7",
+      "symbol": "POR",
+      "name": "ProofofReserves",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15415,
-    "minor": 15415,
+    "major": 15416,
+    "minor": 15416,
     "patch": 86
   }
 }
