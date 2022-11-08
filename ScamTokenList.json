@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4144B3332045051518179cC7a194245006AF4d5b",
-      "symbol": "DOGOKU",
-      "name": "DogeGoku",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97C8CB9789497efa49bB10410F710191B5Ac2672",
       "symbol": "ASTOR",
       "name": "AstorDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fc5187Ee70299F6F9E6e7726926BC63c4c6f3C4",
+      "symbol": "UNVT",
+      "name": "Univaults",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15383,
-    "minor": 15383,
+    "major": 15384,
+    "minor": 15384,
     "patch": 86
   }
 }
