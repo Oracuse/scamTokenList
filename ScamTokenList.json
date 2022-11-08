@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE9031EAf3AB2846B0F7a1FB0D9ede44675F9DD28",
-      "symbol": "FLOKIGOKU",
-      "name": "FlokiGoku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x869CC10E30BE48c985f9CC5656d00d45Fb8EfA4E",
       "symbol": "SOSUKE",
       "name": "SosukeAizen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0ff7fE2b7be4521EA2C61472DccD222Da69c2aC",
+      "symbol": "FIFA",
+      "name": "FIFAWorldCupQatar20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15381,
-    "minor": 15381,
+    "major": 15382,
+    "minor": 15382,
     "patch": 86
   }
 }
