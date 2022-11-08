@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5d508B9f61411dDFfb75f57d3Dc2e774037118EC",
-      "symbol": "MC",
-      "name": "MoonCave",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC158f100258452957cE7E8ccb82E21C3Ce1607a1",
       "symbol": "HOMURA",
       "name": "HomuraAkemi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5ff791a8AB0D960aA2Ca5FAB530B7Bb2D70461bF",
+      "symbol": "HELIOS",
+      "name": "Helios",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15327,
-    "minor": 15327,
+    "major": 15328,
+    "minor": 15328,
     "patch": 86
   }
 }
