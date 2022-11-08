@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x10fC05b9693B15F638B4c0C553F93542525560e9",
-      "symbol": "MI",
-      "name": "MivieToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x738ed1c972590c49F3990E50c5D5935cE566198f",
       "symbol": "KOMO",
       "name": "Komorebi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0A888E2A89549c32758b68fc7C35Bf5f6325933",
+      "symbol": "STRIKE",
+      "name": "STRIKE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15325,
-    "minor": 15325,
+    "major": 15326,
+    "minor": 15326,
     "patch": 86
   }
 }
