@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6A29f559e6807678f56AbdEf78585674A167D45C",
-      "symbol": "SCYLLA",
-      "name": "LegendOfSea",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA87b578801F12B8130638A3C65dd24CdEA3C8936",
       "symbol": "SAITAMAPET",
       "name": "SaitamaPet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x952673863c54BC6f5c6e9b8972C2296604DF0a32",
+      "symbol": "SANTACZ",
+      "name": "SantaCZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15412,
-    "minor": 15412,
+    "major": 15413,
+    "minor": 15413,
     "patch": 86
   }
 }
