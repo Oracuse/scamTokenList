@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x06F039523c50e16Cc4aca781F23D911D4CE9907C",
-      "symbol": "SUSAN",
-      "name": "MonarchsInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf9DF113DaE273D87D6EE71e65FB97345b624b859",
       "symbol": "LUNB",
       "name": "LunaBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a3e8820e0b7403A4946C41CE07591f12C45f65A",
+      "symbol": "KFSAM",
+      "name": "KentuckyFriedSam",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15400,
-    "minor": 15400,
+    "major": 15401,
+    "minor": 15401,
     "patch": 86
   }
 }
