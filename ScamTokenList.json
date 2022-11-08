@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe38aF4a072bE8a7520801584627c57Dd7C29cF0D",
-      "symbol": "FORK",
-      "name": "TheForkers",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9e2109D5c09F412199B1AAAd55CB0a65750f2F7A",
       "symbol": "TENRIKYO",
       "name": "TenriOnoMikoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9663e3954B51632cc9e87B81d68AD877502d9699",
+      "symbol": "DENJI",
+      "name": "DenjitheChainsaw",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15349,
-    "minor": 15349,
+    "major": 15350,
+    "minor": 15350,
     "patch": 86
   }
 }
