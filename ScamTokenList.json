@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1c5d0805cA39E0ABe4d2503015116C91D5Feb4c1",
-      "symbol": "LIQUIDITY",
-      "name": "LiquidityDao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5fACEAcbFbBdf85CAcBd1A17947A941063Edf84d",
       "symbol": "NEWHEX",
       "name": "ROLEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf098c2eB8989772A07aD66D988031E736018bEae",
+      "symbol": "WLM",
+      "name": "WhaleMoon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15341,
-    "minor": 15341,
+    "major": 15342,
+    "minor": 15342,
     "patch": 86
   }
 }
