@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3e6162879Db2B46F73E82E8E4d7CD3377a90874a",
-      "symbol": "BUCKS",
-      "name": "BurnoBucks",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB253f03Ad75b44CCe8Ca1f4f3CecFeBdd3c96E8A",
       "symbol": "SHIBOKI",
       "name": "Shiboki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf229dC1E658027db2e54a006be3485393Ca36559",
+      "symbol": "RED",
+      "name": "LunarEclipse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15335,
-    "minor": 15335,
+    "major": 15336,
+    "minor": 15336,
     "patch": 86
   }
 }
