@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0A6FCbc75732480618F73C6fA575D7e8939FA23a",
-      "symbol": "COBRA",
-      "name": "CobraKai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6A29f559e6807678f56AbdEf78585674A167D45C",
       "symbol": "SCYLLA",
       "name": "LegendOfSea",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B48AC4BB649419818fa7B0EA95e44cF7fbE68C6",
+      "symbol": "BULLRUN",
+      "name": "BNBSeason",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15411,
-    "minor": 15411,
+    "major": 15412,
+    "minor": 15412,
     "patch": 86
   }
 }
