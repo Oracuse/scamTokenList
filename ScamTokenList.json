@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x888187F543afEC3BB0B83ddF4Aa7FF5AFFFd52e5",
-      "symbol": "MESA",
-      "name": "Mesa",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x57CCFC7D8F63b692345Da6DbDa2875679Cd8c77C",
       "symbol": "SHIBITO",
       "name": "Shibito",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x332bf299a07f409aF15FF7f1ba572732CDc89DB5",
+      "symbol": "FOMOTV",
+      "name": "FOMOTV",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15329,
-    "minor": 15329,
+    "major": 15330,
+    "minor": 15330,
     "patch": 86
   }
 }
