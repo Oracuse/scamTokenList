@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9655eB00f7555EeFED202116815ff1878DEd711F",
-      "symbol": "GOKUSDC",
-      "name": "GokuUSDC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB222161913922A59245194b8F14515d2FBCE1031",
       "symbol": "BONEHEX",
       "name": "BoneHEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe6a813708E9A0B6d16AbF0875E13E5e388A357Dc",
+      "symbol": "SBFLX",
+      "name": "SHIBFLIX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15396,
-    "minor": 15396,
+    "major": 15397,
+    "minor": 15397,
     "patch": 86
   }
 }
