@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfd7B1279e4952Ca260f6ab39AA9F1e93b6F55F68",
-      "symbol": "HEXCHAIN",
-      "name": "HexDuck",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x983Cbe7F4CbD624C2367f1F3B0Cf1d36aFC63eC5",
       "symbol": "HEXP",
       "name": "HexPacha",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x740ae58A0BF6aaF2877eF68c2B711CC1D1836Be9",
+      "symbol": "BLUELOCK",
+      "name": "BlueLock",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15364,
-    "minor": 15364,
+    "major": 15365,
+    "minor": 15365,
     "patch": 86
   }
 }
