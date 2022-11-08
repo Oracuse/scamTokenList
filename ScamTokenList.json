@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA87b578801F12B8130638A3C65dd24CdEA3C8936",
-      "symbol": "SAITAMAPET",
-      "name": "SaitamaPet",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF6D1BdaF191E69d8894E2f604239c941a187167f",
       "symbol": "CHNSK",
       "name": "Chernushka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC70e7052159C0608C116bA0840fbED54a71B7232",
+      "symbol": "HUDDLE",
+      "name": "HUDDLE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15413,
-    "minor": 15413,
+    "major": 15414,
+    "minor": 15414,
     "patch": 86
   }
 }
