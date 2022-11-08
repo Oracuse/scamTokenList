@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCAdc46c99A26758952B67897Da65Bfc96277090b",
-      "symbol": "HEXGOKU",
-      "name": "HexGoku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5c5d9514F700fD9E667190Af9F797A7AeAF56575",
       "symbol": "JUPINU",
       "name": "JupiterInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE101bf7beCA412d05991E7091c4598725c9c7e81",
+      "symbol": "CRASH",
+      "name": "TheCryptoCrash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15393,
-    "minor": 15393,
+    "major": 15394,
+    "minor": 15394,
     "patch": 86
   }
 }
