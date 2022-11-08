@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3530D0B4D2b3Af5e18053311c3c9c7A5F174bEcf",
-      "symbol": "HEXHIVE",
-      "name": "Hexhive",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x41bc3E37DC7e737B6123868857479e369d19714e",
       "symbol": "HEXM",
       "name": "HexMachine",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d6107F82B560BD44BF857a86E3c823b26b06c27",
+      "symbol": "FACELESS",
+      "name": "TheMatrix",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15417,
-    "minor": 15417,
+    "major": 15418,
+    "minor": 15418,
     "patch": 86
   }
 }
