@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76c335763f263fa4Ee1f9524E0553C44f0D75aCb",
-      "symbol": "ETERNITY",
-      "name": "Eiju",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8fc9A5275a39811504fAF4E7658d53a406ab313F",
       "symbol": "RC",
       "name": "RocketChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD1Fb2103Eb81cCB9509E85aCf022072759D8Be45",
+      "symbol": "N",
+      "name": "MatrixMLB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15371,
-    "minor": 15371,
+    "major": 15372,
+    "minor": 15372,
     "patch": 86
   }
 }
