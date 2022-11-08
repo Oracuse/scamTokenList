@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x21193fbDeBF0F299729a167bd8d3a1A6eC3fDa71",
-      "symbol": "EXARCH",
-      "name": "exarch",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7875aC18278c19cE575E93Afa70d6E8D60FD93c7",
       "symbol": "OPM",
       "name": "OnePunchMan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEbC3A91322695246cf75Ec2EE2a96a7515f05a20",
+      "symbol": "DELIVER",
+      "name": "DevWillDeliver",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15420,
-    "minor": 15420,
+    "major": 15421,
+    "minor": 15421,
     "patch": 86
   }
 }
