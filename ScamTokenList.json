@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x446109DC8E39d49723cF62fbbb4F46BfaE0aB701",
-      "symbol": "STROP",
-      "name": "Soundtropolis",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE9031EAf3AB2846B0F7a1FB0D9ede44675F9DD28",
       "symbol": "FLOKIGOKU",
       "name": "FlokiGoku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73BD1305252CB0c8f87f903F0d97be76383cA536",
+      "symbol": "CFTT",
+      "name": "NewCommunityFTX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15380,
-    "minor": 15380,
+    "major": 15381,
+    "minor": 15381,
     "patch": 86
   }
 }
