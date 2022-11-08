@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42cb5161B1854d63D7372c29dC972179CFbE9A61",
-      "symbol": "XEH",
-      "name": "THELASTHEX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F927418e1B8CC9B85D8Bc8d8968a18c04B3eaE4",
       "symbol": "KYOSHI",
       "name": "KYOSHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5eb3FB322DCEB0dA6483e6Cde5F31b4174B617B5",
+      "symbol": "Q",
+      "name": "Quick",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15354,
-    "minor": 15354,
+    "major": 15355,
+    "minor": 15355,
     "patch": 86
   }
 }
