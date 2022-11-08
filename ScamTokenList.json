@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2D3078DEa31c947A79B3921A72d7072E75D57F7F",
-      "symbol": "VISION",
-      "name": "TheDragonVision",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC4E5F8879cac3c0D4697dC1a1b4386A36dB2D897",
       "symbol": "HEXUSDT",
       "name": "HexUSDT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x963e837730976C8e4Fb1c16198723d34409473a8",
+      "symbol": "FTTP",
+      "name": "FTTProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15357,
-    "minor": 15357,
+    "major": 15358,
+    "minor": 15358,
     "patch": 86
   }
 }
