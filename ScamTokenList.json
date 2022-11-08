@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x738ed1c972590c49F3990E50c5D5935cE566198f",
-      "symbol": "KOMO",
-      "name": "Komorebi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5d508B9f61411dDFfb75f57d3Dc2e774037118EC",
       "symbol": "MC",
       "name": "MoonCave",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60Dfa7cc90f33DC23c2F2420579BF828dA300170",
+      "symbol": "GIFT",
+      "name": "CryptoGift",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15326,
-    "minor": 15326,
+    "major": 15327,
+    "minor": 15327,
     "patch": 86
   }
 }
