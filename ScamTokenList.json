@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE63b8965720333229D53B11305BFA9da15d432EE",
-      "symbol": "MOERU",
-      "name": "Moegami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10fC05b9693B15F638B4c0C553F93542525560e9",
       "symbol": "MI",
       "name": "MivieToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0fB0F2be7d29BbDd78c8C35c1e496006579fEdC0",
+      "symbol": "FTT",
+      "name": "FTTInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15324,
-    "minor": 15324,
+    "major": 15325,
+    "minor": 15325,
     "patch": 86
   }
 }
