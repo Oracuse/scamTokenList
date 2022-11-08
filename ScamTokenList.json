@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5c5d9514F700fD9E667190Af9F797A7AeAF56575",
-      "symbol": "JUPINU",
-      "name": "JupiterInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf2ab89A00F52E235FF2f4dB3E7235BC68Ea9E447",
       "symbol": "DARKSTAR",
       "name": "DarkStar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaC9ef6D19C35523e5488aD1d23d046616a4ba68f",
+      "symbol": "FTXD",
+      "name": "FTXDOGE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15394,
-    "minor": 15394,
+    "major": 15395,
+    "minor": 15395,
     "patch": 86
   }
 }
