@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0107B39407DF4e24F173c3d3146B653E45fC5B15",
-      "symbol": "EMPTY",
-      "name": "Nothingness",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbFf15dF2069194Eab18a37fdD9464B679B9AF980",
       "symbol": "HR",
       "name": "HULK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3DdFB417235dee184eDB9B1114315b4525FE9f60",
+      "symbol": "DOGEF",
+      "name": "DogeFifa",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15344,
-    "minor": 15344,
+    "major": 15345,
+    "minor": 15345,
     "patch": 86
   }
 }
