@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x414BcF7D7D925C8A10A1329b37BfC9faB6D17cFD",
-      "symbol": "BAKU",
-      "name": "Baku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE63b8965720333229D53B11305BFA9da15d432EE",
       "symbol": "MOERU",
       "name": "Moegami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44e9Eb9a006bdbc063C9C44A512E10A2AF5FC8A9",
+      "symbol": "GM",
+      "name": "GoodMeme",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15323,
-    "minor": 15323,
+    "major": 15324,
+    "minor": 15324,
     "patch": 86
   }
 }
