@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC4E5F8879cac3c0D4697dC1a1b4386A36dB2D897",
-      "symbol": "HEXUSDT",
-      "name": "HexUSDT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1C341ff478B11D76ba3bE0A5eE0A67d2099Ba7b2",
       "symbol": "SC",
       "name": "ShibChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6AE0c328A32cEA07Aa68B4e340f87bC6464836f4",
+      "symbol": "FTXDEAD",
+      "name": "FTXDead",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15358,
-    "minor": 15358,
+    "major": 15359,
+    "minor": 15359,
     "patch": 86
   }
 }
