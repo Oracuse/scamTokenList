@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22e27DdF94a2D0CF9f91879a6B78592a3B1a57D1",
-      "symbol": "LADY",
-      "name": "WhiteLady",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaDc5598c691f42cF95b53fa8456fcC2754C5b06A",
       "symbol": "KAKAROT",
       "name": "KakarotInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2c65ce25033A4278E324547808076a3dbcF1D3b",
+      "symbol": "FTTBNB",
+      "name": "FTXisBinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15405,
-    "minor": 15405,
+    "major": 15406,
+    "minor": 15406,
     "patch": 86
   }
 }
