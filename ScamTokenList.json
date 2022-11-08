@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1C341ff478B11D76ba3bE0A5eE0A67d2099Ba7b2",
-      "symbol": "SC",
-      "name": "ShibChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe757BB34CE141AB10CD10751a6586f771B116450",
       "symbol": "SOCO",
       "name": "SOCO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9057fA4B3c169FDBC7B75c87874764B270a73Eaf",
+      "symbol": "FTTC",
+      "name": "FTXClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15359,
-    "minor": 15359,
+    "major": 15360,
+    "minor": 15360,
     "patch": 86
   }
 }
