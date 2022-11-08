@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9196F65934aA6DAfa3A49DE2A7e919Dd7BaCE690",
-      "symbol": "YOLOCHAIN",
-      "name": "YOLOCHAIN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x446109DC8E39d49723cF62fbbb4F46BfaE0aB701",
       "symbol": "STROP",
       "name": "Soundtropolis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B9E4bb6562314E4064c8333cCc667b9A0a5006B",
+      "symbol": "SIESTA",
+      "name": "SIESTA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15379,
-    "minor": 15379,
+    "major": 15380,
+    "minor": 15380,
     "patch": 86
   }
 }
