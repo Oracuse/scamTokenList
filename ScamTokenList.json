@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7BDa3Efb4426d050c6366D2BB51D8Cd315AABA5a",
-      "symbol": "CSFI",
-      "name": "CoinStore",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6387c12e6ba0F0eC6B2909ea1F15e6432Cd80172",
       "symbol": "LACHAIN",
       "name": "LACHAINSPORTIFF",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4488BC6F7C6b40b2f6A57565C5AD3ad71126DEa2",
+      "symbol": "FTTCPOS",
+      "name": "FTTCProofofSCAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15369,
-    "minor": 15369,
+    "major": 15370,
+    "minor": 15370,
     "patch": 86
   }
 }
