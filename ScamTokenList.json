@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfB51332E9D20529af0A7bCEFFd4f310D2125D1e3",
-      "symbol": "HITOSHI",
-      "name": "Hitoshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x91DE150C1F79530aa2DB2d1834Ba0a62F1f214ba",
       "symbol": "RVNR",
       "name": "RVN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8eF58BE540D8d2e333E50C4667Da767935cfE801",
+      "symbol": "VOTERED",
+      "name": "VoteRed",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15351,
-    "minor": 15351,
+    "major": 15352,
+    "minor": 15352,
     "patch": 86
   }
 }
