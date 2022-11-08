@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x72F20e493809c0Bdd98374CfE876748D3108106e",
-      "symbol": "AIDEMLEOXIDE",
-      "name": "aidemleoxide",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6D0bbd1820a3eC31c870139C7E440e47AC5102DA",
       "symbol": "HEXCINU",
       "name": "HEXCLIFFORDINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3D5A2d7A0792085b994e3656B7E4a7BE14892c4D",
+      "symbol": "P8",
+      "name": "Pay8",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15338,
-    "minor": 15338,
+    "major": 15339,
+    "minor": 15339,
     "patch": 86
   }
 }
