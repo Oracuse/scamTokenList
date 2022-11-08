@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4F927418e1B8CC9B85D8Bc8d8968a18c04B3eaE4",
-      "symbol": "KYOSHI",
-      "name": "KYOSHI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x85D8562AF4a7dA2117Df31AA95346774Dce3eCBa",
       "symbol": "GHEX",
       "name": "GojiraHex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA07bdf99c0f15CeBC6E940F6DCf895Fb59C12149",
+      "symbol": "MDR",
+      "name": "MEVDestroyerrug",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15355,
-    "minor": 15355,
+    "major": 15356,
+    "minor": 15356,
     "patch": 86
   }
 }
