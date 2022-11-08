@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC158f100258452957cE7E8ccb82E21C3Ce1607a1",
-      "symbol": "HOMURA",
-      "name": "HomuraAkemi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x888187F543afEC3BB0B83ddF4Aa7FF5AFFFd52e5",
       "symbol": "MESA",
       "name": "Mesa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFe171234B191270dcEcd3b933B16E600a9386059",
+      "symbol": "ETH2001",
+      "name": "ETH2001",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15328,
-    "minor": 15328,
+    "major": 15329,
+    "minor": 15329,
     "patch": 86
   }
 }
