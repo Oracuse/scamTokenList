@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbD91A53B305ecec8Bb08E971be3f50A3f770B294",
-      "symbol": "BIT",
-      "name": "BYTE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x414BcF7D7D925C8A10A1329b37BfC9faB6D17cFD",
       "symbol": "BAKU",
       "name": "Baku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x767520F4Fe7cAc77dAdA038714eB5Ca3442B73d9",
+      "symbol": "GM",
+      "name": "GoodMeme",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15322,
-    "minor": 15322,
+    "major": 15323,
+    "minor": 15323,
     "patch": 86
   }
 }
