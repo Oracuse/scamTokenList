@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf9DF113DaE273D87D6EE71e65FB97345b624b859",
-      "symbol": "LUNB",
-      "name": "LunaBurn",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76b7C98A8594A6c7Dd4cB705D9576bFA444f8E32",
       "symbol": "BONEHEX",
       "name": "BoneHEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F1A934e77610E91a6F1600B325b274ebF6324FC",
+      "symbol": "ECLIPSE",
+      "name": "BeaverMoon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15401,
-    "minor": 15401,
+    "major": 15402,
+    "minor": 15402,
     "patch": 86
   }
 }
