@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0A183B626f49dB830a05a7D41A1759645B611E70",
-      "symbol": "ATARA",
-      "name": "Atarashii",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10fa44bFf35994a3f5E36177FBb10727Fc4f0F81",
       "symbol": "KSHIB",
       "name": "KingShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79CE5D9d0a065C636a98995D6D329b3c8F0F50bA",
+      "symbol": "GZ",
+      "name": "GigaZhao",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15422,
-    "minor": 15422,
+    "major": 15423,
+    "minor": 15423,
     "patch": 86
   }
 }
