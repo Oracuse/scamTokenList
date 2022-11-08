@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9E897fB1F40452464FFf9FE686a71eA8663718FA",
-      "symbol": "GOKU",
-      "name": "ApeGoku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9D9e399e5385e2b9A58d4F775A1E16441b571afb",
       "symbol": "METANO",
       "name": "METANO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf6f49BA43Dba8Ad14Aa6F0F9A3C5471314ebA6f6",
+      "symbol": "FTX20",
+      "name": "ProofofCZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15407,
-    "minor": 15407,
+    "major": 15408,
+    "minor": 15408,
     "patch": 86
   }
 }
