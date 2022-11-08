@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x208e26d98fd9001A80f0D7Ee68330f0C5CC2dD99",
-      "symbol": "MIYAMOTO",
-      "name": "Miyamoto",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6a5c2d3d6c8495De2c55AEB7311f2395dB8Be873",
       "symbol": "KING",
       "name": "RiseOfTheKing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCab50d0F59a290A7f139197923d0c3a92D52F77d",
+      "symbol": "SAFU",
+      "name": "StaySafu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15403,
-    "minor": 15403,
+    "major": 15404,
+    "minor": 15404,
     "patch": 86
   }
 }
