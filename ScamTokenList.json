@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDe8239e84c4f31875EA7A22dBdb232c28ac77bE4",
-      "symbol": "HOBI",
-      "name": "Hobi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x06F039523c50e16Cc4aca781F23D911D4CE9907C",
       "symbol": "SUSAN",
       "name": "MonarchsInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33A9Ac120DfE3f29c857341C708Ab02302Fcde7d",
+      "symbol": "DDAO",
+      "name": "DogeDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15399,
-    "minor": 15399,
+    "major": 15400,
+    "minor": 15400,
     "patch": 86
   }
 }
