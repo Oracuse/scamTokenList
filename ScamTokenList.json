@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5BBDEFFdaCbE6e75A04f9Bae4289c71019086224",
-      "symbol": "HEXQOM",
-      "name": "HexShibaPredator",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1c5d0805cA39E0ABe4d2503015116C91D5Feb4c1",
       "symbol": "LIQUIDITY",
       "name": "LiquidityDao",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xadb97D055BdBf852d2651b84D52059f11aBa712e",
+      "symbol": "10",
+      "name": "10",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15340,
-    "minor": 15340,
+    "major": 15341,
+    "minor": 15341,
     "patch": 86
   }
 }
