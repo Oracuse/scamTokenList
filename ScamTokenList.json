@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8d3fE856ac4C35E26A1Bebd9d2229Aa2717F34d7",
-      "symbol": "SE1",
-      "name": "ProjectLondonBridge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf79C7d931AF12aE0DfD6429515402EcA0D315d23",
       "symbol": "KOBO",
       "name": "KOBO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F42C1F8da836FB828c3485fd42595254f803732",
+      "symbol": "NGL",
+      "name": "NotGonnaLie",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15318,
-    "minor": 15318,
+    "major": 15319,
+    "minor": 15319,
     "patch": 86
   }
 }
