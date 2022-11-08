@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8fc9A5275a39811504fAF4E7658d53a406ab313F",
-      "symbol": "RC",
-      "name": "RocketChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc7Ed29daC0c4a07244F94056be8C703a2FfE50f7",
       "symbol": "DHARMAPALA",
       "name": "PaldenLhamo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfC0893A3E926c76a7CFbF4b86D8CDa1B56AC929C",
+      "symbol": "EB",
+      "name": "ETHBuilder",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15372,
-    "minor": 15372,
+    "major": 15373,
+    "minor": 15373,
     "patch": 86
   }
 }
