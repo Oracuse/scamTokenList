@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfb0D57dE87a37bFb5c6a9e54B521EF9C92A6Cc39",
-      "symbol": "END",
-      "name": "Finally",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2142e528A23F9Fe157BF48cAe60A17975403F7b0",
       "symbol": "QUEEN",
       "name": "RiseOfTheQueen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c945aC5533B53E44b2056343a461133fcC4d80D",
+      "symbol": "CZP",
+      "name": "CZProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15409,
-    "minor": 15409,
+    "major": 15410,
+    "minor": 15410,
     "patch": 86
   }
 }
