@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x10fa44bFf35994a3f5E36177FBb10727Fc4f0F81",
-      "symbol": "KSHIB",
-      "name": "KingShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x31F3e1475AE5f0303f18D978efc9d6cD26C1340B",
       "symbol": "LUNEX",
       "name": "LunaHex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe20854b4015004c19294f658f8CBda2552A720f",
+      "symbol": "BINU",
+      "name": "BankrunInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15423,
-    "minor": 15423,
+    "major": 15424,
+    "minor": 15424,
     "patch": 86
   }
 }
