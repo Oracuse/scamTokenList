@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xafE42eAE3E0509f7304EC7560Ea41ff633ea249b",
-      "symbol": "WATA",
-      "name": "WATATSUMI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x278d8a7092FC16BaE4B421386b1b22B98741FDe0",
       "symbol": "FLOKINATOR",
       "name": "Flokinator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x221F8Fa37e751c4d7ebEFE1686e8b802973Ff446",
+      "symbol": "AINU",
+      "name": "AlamedaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15375,
-    "minor": 15375,
+    "major": 15376,
+    "minor": 15376,
     "patch": 86
   }
 }
