@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76b7C98A8594A6c7Dd4cB705D9576bFA444f8E32",
-      "symbol": "BONEHEX",
-      "name": "BoneHEX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x208e26d98fd9001A80f0D7Ee68330f0C5CC2dD99",
       "symbol": "MIYAMOTO",
       "name": "Miyamoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd008F1481B47c3f86ce458E5327C09288Ca0368E",
+      "symbol": "DDAO",
+      "name": "DogeDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15402,
-    "minor": 15402,
+    "major": 15403,
+    "minor": 15403,
     "patch": 86
   }
 }
