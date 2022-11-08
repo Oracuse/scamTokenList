@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6a5c2d3d6c8495De2c55AEB7311f2395dB8Be873",
-      "symbol": "KING",
-      "name": "RiseOfTheKing",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22e27DdF94a2D0CF9f91879a6B78592a3B1a57D1",
       "symbol": "LADY",
       "name": "WhiteLady",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x765b989451DD3e18377e16a4Bd2DcCa2180d66cB",
+      "symbol": "CZHAO",
+      "name": "ArtOfWar",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15404,
-    "minor": 15404,
+    "major": 15405,
+    "minor": 15405,
     "patch": 86
   }
 }
