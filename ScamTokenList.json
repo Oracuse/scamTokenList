@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBb41f735de13b2bDB20D1ea330D309F871064481",
-      "symbol": "ALEPH",
-      "name": "AumShinrikyo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9196F65934aA6DAfa3A49DE2A7e919Dd7BaCE690",
       "symbol": "YOLOCHAIN",
       "name": "YOLOCHAIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7Ff6EE8228f2e44487AC659541aF29d4aAC9496",
+      "symbol": "SANTA",
+      "name": "SantaProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15378,
-    "minor": 15378,
+    "major": 15379,
+    "minor": 15379,
     "patch": 86
   }
 }
