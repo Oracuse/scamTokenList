@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x04C903f3572066773b99ed48ff670b7dA6FE5311",
-      "symbol": "GOKU",
-      "name": "ApeGoku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x23316f5984eB3FEC1F8d55d21Ab88B552fDfcFb2",
       "symbol": "6",
       "name": "SIXFIGURES",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1546EF38BA51804B68049280FD78bBDC00ec859",
+      "symbol": "SBJ",
+      "name": "SamBankmanJail",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15468,
-    "minor": 15468,
+    "major": 15469,
+    "minor": 15469,
     "patch": 86
   }
 }
