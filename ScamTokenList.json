@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x96b778D7179B59881f78d96B7B0e3af46C59D4b8",
-      "symbol": "ENIGUMA",
-      "name": "Eniguma",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd474fb194D9aDBA9C674D5152251540b882BB74F",
       "symbol": "DAIGOKU",
       "name": "DaiGoku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA8bBe6Fa2Ae429F23716012565D4EB9E0d449aa4",
+      "symbol": "FTTB",
+      "name": "FttBurn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15447,
-    "minor": 15447,
+    "major": 15448,
+    "minor": 15448,
     "patch": 86
   }
 }
