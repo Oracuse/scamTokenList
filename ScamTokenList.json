@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xECE0fE911505B6e60587CFd2fbb295a879DB8389",
-      "symbol": "TCENT",
-      "name": "TheCentaur",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0f330003dEAB44ef3Fd774AFdA01fDBdd22A740a",
       "symbol": "SPTK1",
       "name": "Sputnik1",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFC2C1EdBc2715590667c7c4BE0563010aBC9E205",
+      "symbol": "D82",
+      "name": "TheDistrict",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15436,
-    "minor": 15436,
+    "major": 15437,
+    "minor": 15437,
     "patch": 86
   }
 }
