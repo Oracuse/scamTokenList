@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2D2E1Df5184116402F340A772E873d4DCe0dC35E",
-      "symbol": "TARO",
-      "name": "TARO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x397c609760564114DA0ADDf1b1F5cf60A1d1eD31",
       "symbol": "YORI",
       "name": "Yori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB49c4Aa1948810ec58c16E7D3C1Ae6d93Fa2f315",
+      "symbol": "UPCZ",
+      "name": "NoTweet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15460,
-    "minor": 15460,
+    "major": 15461,
+    "minor": 15461,
     "patch": 86
   }
 }
