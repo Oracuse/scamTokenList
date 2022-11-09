@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6a315b998406048E5D79c2665420BeE75Fb7b676",
-      "symbol": "TIGINU",
-      "name": "TigerInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7BED616AC526F4F12a347e353Cc99709c883740B",
       "symbol": "HEXGECKO",
       "name": "HexGecko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E9297BdbDBc9E4E3064490D92d8cF54e269272C",
+      "symbol": "CINU",
+      "name": "CLAUSINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15428,
-    "minor": 15428,
+    "major": 15429,
+    "minor": 15429,
     "patch": 86
   }
 }
