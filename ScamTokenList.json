@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x343dE6aeE74295b9c4e864fE72c06aeEca8a36e2",
-      "symbol": "DOCTOR",
-      "name": "Medicus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xECE0fE911505B6e60587CFd2fbb295a879DB8389",
       "symbol": "TCENT",
       "name": "TheCentaur",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Aea3a1DF26AaF251a5b9051B58e1bD6e4E90D92",
+      "symbol": "PRIME",
+      "name": "PrimeFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15435,
-    "minor": 15435,
+    "major": 15436,
+    "minor": 15436,
     "patch": 86
   }
 }
