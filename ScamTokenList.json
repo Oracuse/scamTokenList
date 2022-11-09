@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFE0AeD26B665491aeE242391B5410750Fb0bc178",
-      "symbol": "METAINU",
-      "name": "metainu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbA3130aadb9EBebd5C6e151Ada7768dC47870095",
       "symbol": "HYI",
       "name": "HANNYAINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb998C4EA7EBc93531debAC3Aa6430BbC57bA7BCE",
+      "symbol": "CZERO",
+      "name": "CZero",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15465,
-    "minor": 15465,
+    "major": 15466,
+    "minor": 15466,
     "patch": 86
   }
 }
