@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6d2a77CF1B377E22BD984200Ca361a5Eece6650A",
-      "symbol": "SHIBUZI",
-      "name": "Shibuzi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAD29A421eD6A5901c14081a4404a4Ad289Bbd4e8",
       "symbol": "KYONYU",
       "name": "Kyonyu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca1Af5fa62EeBf140d8336E3037fBC731ab71517",
+      "symbol": "BAPE",
+      "name": "BAPECOIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15431,
-    "minor": 15431,
+    "major": 15432,
+    "minor": 15432,
     "patch": 86
   }
 }
