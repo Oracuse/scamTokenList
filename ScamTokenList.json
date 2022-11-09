@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23316f5984eB3FEC1F8d55d21Ab88B552fDfcFb2",
-      "symbol": "6",
-      "name": "SIXFIGURES",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD43a50a45a7348d7A9bB0372fa34D9f4fc04879c",
       "symbol": "HEXBEAR",
       "name": "HexBear",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3fCcC9A20B00e9E244DABee78a5d67E595641a90",
+      "symbol": "TETHER",
+      "name": "Tether",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15469,
-    "minor": 15469,
+    "major": 15470,
+    "minor": 15470,
     "patch": 86
   }
 }
