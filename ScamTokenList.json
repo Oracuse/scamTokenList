@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x455dFb460e79C4b4179068f9EdE81E8FF240382a",
-      "symbol": "BAB",
-      "name": "BABToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd8177cA9727F1F43d228584842791901BB3641D2",
       "symbol": "MS101",
       "name": "MaterialScience101",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0141dD5AC1a1fFFd873D74D762d620d90528180",
+      "symbol": "VXON",
+      "name": "VoxNET",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15449,
-    "minor": 15449,
+    "major": 15450,
+    "minor": 15450,
     "patch": 86
   }
 }
