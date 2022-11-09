@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2f872EE3FBeD7e0858Ed093ec5729C867a9a1Df6",
-      "symbol": "SKAI",
-      "name": "QueenofIce",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAa228D9A1a17dEa8EB8Ea32140dC5Cc3DfF6876C",
       "symbol": "HONTO",
       "name": "HONTO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03B6Ecaa921453A4c4B5a018B92C098Cc7f591cA",
+      "symbol": "THRONE",
+      "name": "EthereumThrone",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15462,
-    "minor": 15462,
+    "major": 15463,
+    "minor": 15463,
     "patch": 86
   }
 }
