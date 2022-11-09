@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA3DDB0f5A4f4Ff90c78F2fbD602ec159125DB8D2",
-      "symbol": "KG",
-      "name": "KingGoku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x343dE6aeE74295b9c4e864fE72c06aeEca8a36e2",
       "symbol": "DOCTOR",
       "name": "Medicus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x507558d7AdB661b42cb05F6Bf2197929eCE75b17",
+      "symbol": "1B",
+      "name": "1bProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15434,
-    "minor": 15434,
+    "major": 15435,
+    "minor": 15435,
     "patch": 86
   }
 }
