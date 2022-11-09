@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd474fb194D9aDBA9C674D5152251540b882BB74F",
-      "symbol": "DAIGOKU",
-      "name": "DaiGoku",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x455dFb460e79C4b4179068f9EdE81E8FF240382a",
       "symbol": "BAB",
       "name": "BABToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xede2B250181e0b4431D3E115E90f8065899934C1",
+      "symbol": "CZILLA",
+      "name": "CZilla",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15448,
-    "minor": 15448,
+    "major": 15449,
+    "minor": 15449,
     "patch": 86
   }
 }
