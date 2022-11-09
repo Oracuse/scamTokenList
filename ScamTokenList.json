@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x54C27F4F8E6daD6831d196bbCb19C0E492de5580",
-      "symbol": "ISHIBA",
-      "name": "IShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD9313C2c2b73dC91f10bc8D70A1A762344C7B1CB",
       "symbol": "BENJI",
       "name": "BENJI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF6AafbCFD0f724070C81be4b9F4be79a09106840",
+      "symbol": "THEBURGER",
+      "name": "TheBurger",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15455,
-    "minor": 15455,
+    "major": 15456,
+    "minor": 15456,
     "patch": 86
   }
 }
