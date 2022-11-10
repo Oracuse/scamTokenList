@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56C69453F19A04D2365061B11f32074d694Ac6E1",
-      "symbol": "CHADEREUM",
-      "name": "CHADEREUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAFC730b3A6EE7dA6d4A9263A36ccB5213FCB98d8",
       "symbol": "RAIJIN",
       "name": "Raijin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x389Fd23DfAc67032F46ADFBF59d79aA02D46d741",
+      "symbol": "VXON",
+      "name": "VoxNET",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15483,
-    "minor": 15483,
+    "major": 15484,
+    "minor": 15484,
     "patch": 86
   }
 }
