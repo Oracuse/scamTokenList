@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd3cDdB445885FA63c4Aa789d7B50A0a0af50A96B",
-      "symbol": "RYU",
-      "name": "RYUZO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8898B79621f49e0349Ce0b2A193F026f5fd832De",
       "symbol": "BUU",
       "name": "SHIBUUINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5bd56BbEF357Fe34D126394926f948D0272AfB1",
+      "symbol": "YDC",
+      "name": "YieldConvertor",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15519,
-    "minor": 15519,
+    "major": 15520,
+    "minor": 15520,
     "patch": 86
   }
 }
