@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5126D5630bDAaF38ED4d059D16A03F1E95690313",
-      "symbol": "ETF",
-      "name": "MetaverseETF",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x87D2bbbabfa64757b20128cfC7185D7b826Ae794",
       "symbol": "REBEL",
       "name": "Rebellion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3e37055817d285D868B4094b737159eDf7Ad6cD",
+      "symbol": "HWGA",
+      "name": "HereWeGoAgain",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15480,
-    "minor": 15480,
+    "major": 15481,
+    "minor": 15481,
     "patch": 86
   }
 }
