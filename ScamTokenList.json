@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfF48fC379BDA1b21B1E74d268599EA6863Ca3449",
-      "symbol": "PARTY",
-      "name": "HappyHour",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdc52DbcfBAD91d45B21E3F1C7f3A018636C4fC63",
       "symbol": "PARTY",
       "name": "HappyHour",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75B2e3764258327a8C2e6906bae3190B8383d0dF",
+      "symbol": "TAURUS",
+      "name": "ProofofReversal",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15500,
-    "minor": 15500,
+    "major": 15501,
+    "minor": 15501,
     "patch": 86
   }
 }
