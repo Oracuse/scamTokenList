@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBF3ca0c1E61cD6579252B2a6D7a38C1eb46a17FD",
-      "symbol": "COLD",
-      "name": "RIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x14B01188258358D997e89e9060C060A7c8ebafed",
       "symbol": "FUJIN",
       "name": "Fujin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7822c5e8c563CB4d9b3efc2483A976D6baAC58e2",
+      "symbol": "MR22",
+      "name": "Memoir",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15547,
-    "minor": 15547,
+    "major": 15548,
+    "minor": 15548,
     "patch": 86
   }
 }
