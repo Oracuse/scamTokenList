@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x968bF90a6d4ccBB4E561f1D080d7Bfaa12d0Fdb4",
-      "symbol": "TENO",
-      "name": "Tenome",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x53159108c7b2a5FB1f9d52065c62bcd2538ef0e0",
       "symbol": "GOICHI",
       "name": "Goichi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9891e56ae2F035d9f52a8dbBA9e4DfFF3Bb649Cf",
+      "symbol": "ETHC",
+      "name": "ETHClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15514,
-    "minor": 15514,
+    "major": 15515,
+    "minor": 15515,
     "patch": 86
   }
 }
