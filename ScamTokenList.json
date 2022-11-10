@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9dB31FfD1619Bc9d0523e334194bfE4e98B5E338",
-      "symbol": "ROICHI",
-      "name": "TheLastSamurai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x403faf0400D614F20be3e7812A3687b1cA76C11F",
       "symbol": "CC",
       "name": "CurtainsCall",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31F6AE8c0931E8dF411AcCe7819cC8c6a09b16b3",
+      "symbol": "UNSTABLE",
+      "name": "UnstableProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15503,
-    "minor": 15503,
+    "major": 15504,
+    "minor": 15504,
     "patch": 86
   }
 }
