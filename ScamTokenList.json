@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC6bD127761Fc01589ca8C82e2a8F42CD9e742eBe",
-      "symbol": "TSUKIMI",
-      "name": "TheFullMoon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x968bF90a6d4ccBB4E561f1D080d7Bfaa12d0Fdb4",
       "symbol": "TENO",
       "name": "Tenome",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x004DdeA0B86fC5E7bC301667768AC186897c5825",
+      "symbol": "SBF",
+      "name": "SBFuckedUp",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15513,
-    "minor": 15513,
+    "major": 15514,
+    "minor": 15514,
     "patch": 86
   }
 }
