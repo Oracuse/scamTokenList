@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x228C332d555324C84De8b49F161Ac4059C91D7d7",
-      "symbol": "911ATK",
-      "name": "WorldTradeCenterAtt",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x46bc2207b28678bBB84855f9A61aF2c8cc799c73",
       "symbol": "TOPCT",
       "name": "TOPC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb712960BBd85D2Df0D1A11d650bbB44DE6263388",
+      "symbol": "FTX20",
+      "name": "ProofOfBankruptcy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15488,
-    "minor": 15488,
+    "major": 15489,
+    "minor": 15489,
     "patch": 86
   }
 }
