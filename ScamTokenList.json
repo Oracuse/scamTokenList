@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb0B8c0Ca13115a9cfd5457570E24d4Cf96D9b8C2",
-      "symbol": "END",
-      "name": "Finally",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3c4097da769Eb3935B83d77b2AAb61D6a1f50E43",
       "symbol": "SAKUYA",
       "name": "KonohanaSakuya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07b90D6Ff092c7889D1d28D57fed0A8c7FeB4A10",
+      "symbol": "USDTC",
+      "name": "USDTClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15498,
-    "minor": 15498,
+    "major": 15499,
+    "minor": 15499,
     "patch": 86
   }
 }
