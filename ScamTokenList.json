@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc9C40792880825D8794C76Cb5b65036464fdBC66",
-      "symbol": "THEPHOENIX",
-      "name": "Hoo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFeAaef10Ac3Efa191b53F7B550ABc7fDF17Bc6fB",
       "symbol": "SHIBOKI",
       "name": "Shiboki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Cb52e4491087458991De30c0Cd6bE08A70ef706",
+      "symbol": "RESIST",
+      "name": "ResistProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15509,
-    "minor": 15509,
+    "major": 15510,
+    "minor": 15510,
     "patch": 86
   }
 }
