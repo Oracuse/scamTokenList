@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x46bc2207b28678bBB84855f9A61aF2c8cc799c73",
-      "symbol": "TOPCT",
-      "name": "TOPC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8fAAf1C26a7676aaC94d52A385a147Fc553adFe6",
       "symbol": "GOKUINU",
       "name": "GokuInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd98809c181a64fc4D741FFC28430850e3e20fDa6",
+      "symbol": "SINU",
+      "name": "SuntronInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15489,
-    "minor": 15489,
+    "major": 15490,
+    "minor": 15490,
     "patch": 86
   }
 }
