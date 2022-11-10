@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x599CF0c7Ab77F932b82aCc30D28E244861fA6c7B",
-      "symbol": "OCEAN",
-      "name": "OceanProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8D9053F21C5497e73078052Ebf96384aA9a8b06A",
       "symbol": "HOKK",
       "name": "HokaidoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07ce6DE28b6e31eE85DA413aE67A03d3eF9A4D0B",
+      "symbol": "OPTIMUS",
+      "name": "FLOKIOPTIMUS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15532,
-    "minor": 15532,
+    "major": 15533,
+    "minor": 15533,
     "patch": 86
   }
 }
