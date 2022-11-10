@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5aDF0f6634816C60C5Dadd7b1A21c738e1517308",
-      "symbol": "HEXBER",
-      "name": "HexBear",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4bd2b8Aaec4472891109759B73450D2EcF96EF91",
       "symbol": "FALF",
       "name": "FLAGATHALF",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45242CAA79B78512cA06f7FC9B4e29993467bc3D",
+      "symbol": "SOLSHIB",
+      "name": "SolanaShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15476,
-    "minor": 15476,
+    "major": 15477,
+    "minor": 15477,
     "patch": 86
   }
 }
