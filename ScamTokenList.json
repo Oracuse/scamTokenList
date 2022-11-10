@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa60279CE3b43a1f5F30C622146617e8a8B8B1426",
-      "symbol": "TOSHOGU",
-      "name": "ToshoguDragon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x599CF0c7Ab77F932b82aCc30D28E244861fA6c7B",
       "symbol": "OCEAN",
       "name": "OceanProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c782bb57bFFf93b05F2781492264935bCd622D9",
+      "symbol": "TRXI",
+      "name": "TronInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15531,
-    "minor": 15531,
+    "major": 15532,
+    "minor": 15532,
     "patch": 86
   }
 }
