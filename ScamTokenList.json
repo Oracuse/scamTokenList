@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66209a4A9B921Cd01df2C6aD532091A4D6780279",
-      "symbol": "DIVE",
-      "name": "DOGEHIVE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5E9B89aB6de7772EF1D02A6B0bA2f5482d0e3b6E",
       "symbol": "SWAG",
       "name": "BagofSwag",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf754f31C2d4E87cEcD0EB5CB0b50E68d3039D9bF",
+      "symbol": "ASH",
+      "name": "Ash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15522,
-    "minor": 15522,
+    "major": 15523,
+    "minor": 15523,
     "patch": 86
   }
 }
