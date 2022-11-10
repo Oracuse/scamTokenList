@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x55BB17F7F32D5c6427C615D7ac09984190bbCE8F",
-      "symbol": "LOOP",
-      "name": "LoopProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x188f604adE3182102cC9f638e0f856f53ed75FF5",
       "symbol": "DAWN",
       "name": "AuroreVincent",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60D19D6ec275eEA326DC88d0Fa96fD7e6ea0AC95",
+      "symbol": "SUNC",
+      "name": "SunClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15535,
-    "minor": 15535,
+    "major": 15536,
+    "minor": 15536,
     "patch": 86
   }
 }
