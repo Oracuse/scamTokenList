@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3CaD00e830ee01ab4819B013AE595A981bf69f02",
-      "symbol": "PEPE",
-      "name": "PepeInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa60279CE3b43a1f5F30C622146617e8a8B8B1426",
       "symbol": "TOSHOGU",
       "name": "ToshoguDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47CAf67E37AB1816a48Bc1922c0977BD17D6Cd30",
+      "symbol": "TWAPE",
+      "name": "TwitterApe",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15530,
-    "minor": 15530,
+    "major": 15531,
+    "minor": 15531,
     "patch": 86
   }
 }
