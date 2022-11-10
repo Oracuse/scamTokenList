@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8c075aEEDAAd1564EFf42847685531Ca0D88c872",
-      "symbol": "YOSHIBA",
-      "name": "GhostofYoshiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBF3ca0c1E61cD6579252B2a6D7a38C1eb46a17FD",
       "symbol": "COLD",
       "name": "RIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1196ed39A4115b70507353FA67363F3F8e134357",
+      "symbol": "SUPERSHIB",
+      "name": "SuperShiba",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15546,
-    "minor": 15546,
+    "major": 15547,
+    "minor": 15547,
     "patch": 86
   }
 }
