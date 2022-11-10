@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdc52DbcfBAD91d45B21E3F1C7f3A018636C4fC63",
-      "symbol": "PARTY",
-      "name": "HappyHour",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa0267cE42807c85c05B1a111334fF05FEb5BcbAE",
       "symbol": "KAMI",
       "name": "YaoyorozunoKamigami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaD94d4748d9dfCE0231247Da5141b9b281AEDbB6",
+      "symbol": "TC",
+      "name": "TetherClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15501,
-    "minor": 15501,
+    "major": 15502,
+    "minor": 15502,
     "patch": 86
   }
 }
