@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8898B79621f49e0349Ce0b2A193F026f5fd832De",
-      "symbol": "BUU",
-      "name": "SHIBUUINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0E0Fb914825Ba2d8Cbc13045ab172Cf1F494C3D2",
       "symbol": "HYI",
       "name": "HANNYAINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6144aa0CfE84cA88A5c0A2b52fAAEb7c127c6178",
+      "symbol": "MASASHI",
+      "name": "MasashiKishimoto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15520,
-    "minor": 15520,
+    "major": 15521,
+    "minor": 15521,
     "patch": 86
   }
 }
