@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3c4097da769Eb3935B83d77b2AAb61D6a1f50E43",
-      "symbol": "SAKUYA",
-      "name": "KonohanaSakuya",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfF48fC379BDA1b21B1E74d268599EA6863Ca3449",
       "symbol": "PARTY",
       "name": "HappyHour",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x817987c96b71875c7F61e36E45F950dE9b6FAbb7",
+      "symbol": "WAGBO",
+      "name": "WeAreAllGonnaBeOkay",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15499,
-    "minor": 15499,
+    "major": 15500,
+    "minor": 15500,
     "patch": 86
   }
 }
