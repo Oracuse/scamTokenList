@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0840ACF74B76b5D27cd03e828E3099c4Dfb94471",
-      "symbol": "HYPOME",
-      "name": "HypomeToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFd40f029D1aCb0FCf615D4bFABC69Da90D08Cb3C",
       "symbol": "SUTETORESU",
       "name": "Sutetoresu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B1881736a3a8D7D92D6E55D8889915C79B7FbEF",
+      "symbol": "BB",
+      "name": "LegendofBlackbeard",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15549,
-    "minor": 15549,
+    "major": 15550,
+    "minor": 15550,
     "patch": 86
   }
 }
