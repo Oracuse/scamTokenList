@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x403faf0400D614F20be3e7812A3687b1cA76C11F",
-      "symbol": "CC",
-      "name": "CurtainsCall",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x07e3B0F2D9B205FF0835769589bD82ad5C55A958",
       "symbol": "OBV",
       "name": "OBLIVION",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC1e49c2aD2aCCE54dEb8bb1F63e55e1Ff56cb3c7",
+      "symbol": "TLR",
+      "name": "TheLuckyRat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15504,
-    "minor": 15504,
+    "major": 15505,
+    "minor": 15505,
     "patch": 86
   }
 }
