@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA73A3f6F8dDbf8b59Bf39aFAF1c649156938bECe",
-      "symbol": "WHALE",
-      "name": "Jinglong",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe1A0b68A174CD3aB01d99267B8aAFAf865EA979d",
       "symbol": "ISHIN",
       "name": "IshinDenshin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3479B4790A696754BF593FebB71D5d2Ef31a94EA",
+      "symbol": "SOL20",
+      "name": "Solana20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15473,
-    "minor": 15473,
+    "major": 15474,
+    "minor": 15474,
     "patch": 86
   }
 }
