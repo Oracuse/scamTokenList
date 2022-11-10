@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87D2bbbabfa64757b20128cfC7185D7b826Ae794",
-      "symbol": "REBEL",
-      "name": "Rebellion",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1D8D6Fb3507462e8583e887858021A90B6Af0D2c",
       "symbol": "AZURE",
       "name": "azure",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0AF42534d50ee87a0a7b61cf3F5b6C010356BA9",
+      "symbol": "SOLB",
+      "name": "SolanaBurn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15481,
-    "minor": 15481,
+    "major": 15482,
+    "minor": 15482,
     "patch": 86
   }
 }
