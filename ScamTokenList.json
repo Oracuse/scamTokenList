@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2217E7dB352D8Be54df8c9541B04b6812278f369",
-      "symbol": "WRBT",
-      "name": "TheWhiteRabbit",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8c075aEEDAAd1564EFf42847685531Ca0D88c872",
       "symbol": "YOSHIBA",
       "name": "GhostofYoshiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22D971c6eB88ec84d0e1F1F729e12eC7E0FC66dc",
+      "symbol": "SHIMA",
+      "name": "KatsukiShima",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15545,
-    "minor": 15545,
+    "major": 15546,
+    "minor": 15546,
     "patch": 86
   }
 }
