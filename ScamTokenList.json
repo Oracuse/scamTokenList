@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14B01188258358D997e89e9060C060A7c8ebafed",
-      "symbol": "FUJIN",
-      "name": "Fujin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0840ACF74B76b5D27cd03e828E3099c4Dfb94471",
       "symbol": "HYPOME",
       "name": "HypomeToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc72c83bB42414356Db164eFFae303fd5f8B30F8C",
+      "symbol": "8",
+      "name": "NoDis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15548,
-    "minor": 15548,
+    "major": 15549,
+    "minor": 15549,
     "patch": 86
   }
 }
