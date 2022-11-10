@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcF47DE462b08fe7253688dBBf4f2de6628C129f4",
-      "symbol": "YMC",
-      "name": "YourMomsChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5126D5630bDAaF38ED4d059D16A03F1E95690313",
       "symbol": "ETF",
       "name": "MetaverseETF",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2Ad7924549d6da7701A0E30b2d32B4bAc2b43A2",
+      "symbol": "SOLD",
+      "name": "SolanaDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15479,
-    "minor": 15479,
+    "major": 15480,
+    "minor": 15480,
     "patch": 86
   }
 }
