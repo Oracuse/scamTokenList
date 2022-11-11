@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4FB1A159937EeA77E612b6ecC17ffeB0461F84dd",
-      "symbol": "PEEX",
-      "name": "ApeHex",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x52109A76AdeF96cc10326a82Eb04055caaada8d6",
       "symbol": "TAXFARM",
       "name": "NOTATAXFARM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58CD2ef4503AE55a1329cb2DB45E13f122B82681",
+      "symbol": "BLACK",
+      "name": "Black",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15581,
-    "minor": 15581,
+    "major": 15582,
+    "minor": 15582,
     "patch": 86
   }
 }
