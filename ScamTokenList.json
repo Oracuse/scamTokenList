@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9a78be2EBE6150217c9BF6B62EB86CDEd97bd5DA",
-      "symbol": "GUANYIN",
-      "name": "Guanyin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1717d2AdF3d9B8315aF266b43dF6B6F92398a374",
       "symbol": "YOUNG",
       "name": "TheAgeofInnocence",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA66F3f409c870e494b174dC46Fe79ab7b62FD913",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15595,
-    "minor": 15595,
+    "major": 15596,
+    "minor": 15596,
     "patch": 86
   }
 }
