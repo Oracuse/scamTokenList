@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x75cb95ef44Fdc51fbf9af893cE330Acc242d07e4",
-      "symbol": "SHEESH",
-      "name": "Sheesh",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdC5bB4F087E74A111BE40d39e44d074eE41CFD8f",
       "symbol": "MERGE",
       "name": "TheMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x095260e9072A093726806C2c38B4F06B4C9d6F3F",
+      "symbol": "DRAGON",
+      "name": "Dragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15584,
-    "minor": 15584,
+    "major": 15585,
+    "minor": 15585,
     "patch": 86
   }
 }
