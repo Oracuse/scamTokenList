@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x80E4a1C04f9BEBe38D893Eb1086c5E47250Bf756",
-      "symbol": "UNIGO",
-      "name": "UniGoSwap",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb592DFa878a781822Bba39813AeA28f412196E48",
       "symbol": "RYOTSU",
       "name": "Ryoshimitsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC2ac363245ae9D614be0713Ac0Ed2dD201CA7950",
+      "symbol": "SBF",
+      "name": "SamBadlyFucked",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15629,
-    "minor": 15629,
+    "major": 15630,
+    "minor": 15630,
     "patch": 86
   }
 }
