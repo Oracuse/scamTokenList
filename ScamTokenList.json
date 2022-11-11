@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1Bbd798E3F8afFEa2ae5347e703389f8019d5EEe",
-      "symbol": "RYOSHIS",
-      "name": "RyoshisFish",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa506012E8950ffC3878334a6D92651F88E548a46",
       "symbol": "AMATERASU",
       "name": "AmaterasuOmikani",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8eFb6dcB1078B1a9CC46C7B74e803F26A782c3d",
+      "symbol": "PEOPLE",
+      "name": "8Billion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15627,
-    "minor": 15627,
+    "major": 15628,
+    "minor": 15628,
     "patch": 86
   }
 }
