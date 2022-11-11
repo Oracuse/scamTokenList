@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x492a23C3757b689FDB4fD982E43d9b2E986a61bb",
-      "symbol": "CLUELESS",
-      "name": "Clueless",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB812Af3E08AD5E1237bdFfeeD779a5102e6f9da8",
       "symbol": "KAZUSA",
       "name": "Kazusa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x548985e7537CA4482eED03155347A4BA7cdaEa29",
+      "symbol": "QTD",
+      "name": "Quitetheday",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15603,
-    "minor": 15603,
+    "major": 15604,
+    "minor": 15604,
     "patch": 86
   }
 }
