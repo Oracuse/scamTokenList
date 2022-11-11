@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7e80205264faE6A1491D2756A595b34D37e3BA57",
-      "symbol": "SNINU",
-      "name": "SnufflesInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x279d5cF6c45a9C6e950F8E376372e7960412c2c4",
       "symbol": "I",
       "name": "Inure",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf89E07a8fcfB5FA96aaaA9fB073DE15d89E2D0cb",
+      "symbol": "PRD",
+      "name": "Prelude",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15648,
-    "minor": 15648,
+    "major": 15649,
+    "minor": 15649,
     "patch": 86
   }
 }
