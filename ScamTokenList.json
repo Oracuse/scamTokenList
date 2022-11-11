@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcB52DEB27F6122982bd3F8251f1884223f3F0F79",
-      "symbol": "EYE",
-      "name": "Bullseye",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe35d07D91B050CEa4a0B0C9c149C80a93f10ebaC",
       "symbol": "RIKIGAMI",
       "name": "RIKIGAMI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38F47c334100002bf8d74eD1c06D2e895C0E651d",
+      "symbol": "DESERT",
+      "name": "Desert",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15579,
-    "minor": 15579,
+    "major": 15580,
+    "minor": 15580,
     "patch": 86
   }
 }
