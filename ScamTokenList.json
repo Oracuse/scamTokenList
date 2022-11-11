@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfDA516AC59085a50ae12C020305BeF1Ed2665168",
-      "symbol": "DIF",
-      "name": "Diffusion",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x43De86f936718a4a9A09CB1fa1f53Cd41bAb899A",
       "symbol": "C",
       "name": "Carbon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9eB61b42a83Cd3A73b84e879A526f352E2474300",
+      "symbol": "FTXBANK",
+      "name": "FTXBank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15618,
-    "minor": 15618,
+    "major": 15619,
+    "minor": 15619,
     "patch": 86
   }
 }
