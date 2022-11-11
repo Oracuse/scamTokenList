@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC3d9a87B45eE394aB59178644614289f3a685Eb1",
-      "symbol": "ASTRO",
-      "name": "ASTRO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2A00Bd4AfcDbE197C5f5200aC301e99F34735840",
       "symbol": "HRDC",
       "name": "HOARDCHAIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F6F15B1b410a4a44D23f0AF09C69B78b933b8Dd",
+      "symbol": "GRI",
+      "name": "GrinchInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15642,
-    "minor": 15642,
+    "major": 15643,
+    "minor": 15643,
     "patch": 86
   }
 }
