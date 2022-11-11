@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17E53d94a605197d6fF4B05f2E0CFD21D2C0958c",
-      "symbol": "UCHU",
-      "name": "UchuKara",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe63Ae2dEA6a0C2461B873380b8F129Dfbc34D871",
       "symbol": "FLASH",
       "name": "THEFLASH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3f1A10e668D580032A3E89b2FEDA1761c59aB435",
+      "symbol": "MAZE",
+      "name": "MAZE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15644,
-    "minor": 15644,
+    "major": 15645,
+    "minor": 15645,
     "patch": 86
   }
 }
