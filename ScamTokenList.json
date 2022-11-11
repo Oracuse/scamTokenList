@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDb6b6B68eE94033379fb6886cb9792Ec01f8FD4a",
-      "symbol": "OKC",
-      "name": "OKCToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdb7E5d6D543B914E6C0833D24006ebdae6dB98c6",
       "symbol": "GAGE",
       "name": "tehGoldenAge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79D83A316c6fa69f8e8C30E36E11CeF244b85a87",
+      "symbol": "PARODY",
+      "name": "ParodyProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15660,
-    "minor": 15660,
+    "major": 15661,
+    "minor": 15661,
     "patch": 86
   }
 }
