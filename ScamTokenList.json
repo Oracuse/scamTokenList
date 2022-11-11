@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87e0a824C94eE4DbCf076776Bfb1567830cB88C7",
-      "symbol": "DOJI",
-      "name": "ShutenDoji",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x87e683b6EE1D61851Fb8B50E5642BeA3d87Df08f",
       "symbol": "CRIMA",
       "name": "CRIMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD6fb18D398eFcd9188503a7d9a4121596D484f0b",
+      "symbol": "VENMOME",
+      "name": "VenmoMe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15558,
-    "minor": 15558,
+    "major": 15559,
+    "minor": 15559,
     "patch": 86
   }
 }
