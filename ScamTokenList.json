@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x43De86f936718a4a9A09CB1fa1f53Cd41bAb899A",
-      "symbol": "C",
-      "name": "Carbon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x36AeA1691d59f25095Ea34e3C86B0f7e96e292E1",
       "symbol": "ENOHEX",
       "name": "EnlightenOfHex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x626Ae0722de349b1e0d8bA22044Ceb2ae3aC76a5",
+      "symbol": "TAKEPROFIT",
+      "name": "IShouldHaveSoldBro",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15619,
-    "minor": 15619,
+    "major": 15620,
+    "minor": 15620,
     "patch": 86
   }
 }
