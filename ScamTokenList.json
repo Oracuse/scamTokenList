@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0521Ed4cfb15CB16C3e7BFA2BD60372C956022E5",
-      "symbol": "SMART",
-      "name": "SmartWalletSecurity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0B214B9a6A237D31E74845F688398CF981639443",
       "symbol": "NOBODY",
       "name": "ProfNobody",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98868EF4fcba08C7c0FA18CABEa7ed0Ff71Bf0bB",
+      "symbol": "NEXO",
+      "name": "Nexo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15616,
-    "minor": 15616,
+    "major": 15617,
+    "minor": 15617,
     "patch": 86
   }
 }
