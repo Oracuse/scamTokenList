@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x279d5cF6c45a9C6e950F8E376372e7960412c2c4",
-      "symbol": "I",
-      "name": "Inure",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5156926bc732cE7e7129d6f96Da87d9b366F357B",
       "symbol": "WAR",
       "name": "WeAreRyoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69BD5Fd7756AbB8E12d6761Fc25113e22633C7f3",
+      "symbol": "THESTASH",
+      "name": "TheSecretStash",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15649,
-    "minor": 15649,
+    "major": 15650,
+    "minor": 15650,
     "patch": 86
   }
 }
