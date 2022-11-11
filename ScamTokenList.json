@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9C8cDD8288C1Fb204c728F0B79C52D77279551d2",
-      "symbol": "BAM",
-      "name": "Bamboozle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x35267AFeDcA1D6FAaA0fBfE38ba1666D7B1d50F9",
       "symbol": "SIN",
       "name": "TheTransgressor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b6A5384714Bc3C785EA291a47a5170AF033b230",
+      "symbol": "BFTV",
+      "name": "BlockfiTV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15601,
-    "minor": 15601,
+    "major": 15602,
+    "minor": 15602,
     "patch": 86
   }
 }
