@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x205aEd4073aA173325ee109d516A6b05244D359A",
-      "symbol": "JPT",
-      "name": "JeetProtectorToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x55c34B4F8418251E52E863986861223940b1698F",
       "symbol": "ZZZZ",
       "name": "WAKEUPDEV",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd6A31be488b5C2944BC55515d2A3866b965d87de",
+      "symbol": "POS",
+      "name": "ProofOfSocial",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15565,
-    "minor": 15565,
+    "major": 15566,
+    "minor": 15566,
     "patch": 86
   }
 }
