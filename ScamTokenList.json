@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB812Af3E08AD5E1237bdFfeeD779a5102e6f9da8",
-      "symbol": "KAZUSA",
-      "name": "Kazusa",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x94C78343F39e255abDCFdF6269847f6726cA4e61",
       "symbol": "SHIVE",
       "name": "ShibaHive",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA5a5C62aAf0EA67e3BCC3499Da4a95231Dbb0e0c",
+      "symbol": "QUITE",
+      "name": "QuiteProtocol",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15604,
-    "minor": 15604,
+    "major": 15605,
+    "minor": 15605,
     "patch": 86
   }
 }
