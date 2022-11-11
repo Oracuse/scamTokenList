@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8AfeB630A16fF1D8eD287818030d8F48e1351E8e",
-      "symbol": "KIBAHEX",
-      "name": "KibaHex",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x205aEd4073aA173325ee109d516A6b05244D359A",
       "symbol": "JPT",
       "name": "JeetProtectorToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6aC816d213bc5c3C61261A28Ee79ea01Bc5369f1",
+      "symbol": "BCD",
+      "name": "BehindClosedDoors",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15564,
-    "minor": 15564,
+    "major": 15565,
+    "minor": 15565,
     "patch": 86
   }
 }
