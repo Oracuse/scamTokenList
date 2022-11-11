@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdf631814cd0FBeb54fA2a3C23d4E81dE116c52cD",
-      "symbol": "CHAKRA",
-      "name": "Chakra",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcf5d2CcBC315b9d6CC6C11837C5051e370031c26",
       "symbol": "VMIL",
       "name": "Vermillion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8EbA6f2B211Ce4aFf0752802A94a88732b6628Eb",
+      "symbol": "SHIGOLD",
+      "name": "ShinodeGold",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15599,
-    "minor": 15599,
+    "major": 15600,
+    "minor": 15600,
     "patch": 86
   }
 }
