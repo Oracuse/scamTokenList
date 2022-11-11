@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x52109A76AdeF96cc10326a82Eb04055caaada8d6",
-      "symbol": "TAXFARM",
-      "name": "NOTATAXFARM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6e167009A102BA9B12F6495E6D12B294D6727840",
       "symbol": "KAMON",
       "name": "Kamon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49bdBB7e5283195D4119e9B4EaB4348137BbA50b",
+      "symbol": "ONLINE",
+      "name": "Online",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15582,
-    "minor": 15582,
+    "major": 15583,
+    "minor": 15583,
     "patch": 86
   }
 }
