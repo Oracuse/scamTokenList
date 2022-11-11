@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87e683b6EE1D61851Fb8B50E5642BeA3d87Df08f",
-      "symbol": "CRIMA",
-      "name": "CRIMA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x709CD8099822413eE7203f6818A5AFA96A6CD141",
       "symbol": "LAMIA",
       "name": "TheLibyanQueen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9883142a6E4A9456CcE788219cc60F6c84620A1B",
+      "symbol": "XMAS",
+      "name": "ChristmasCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15559,
-    "minor": 15559,
+    "major": 15560,
+    "minor": 15560,
     "patch": 86
   }
 }
