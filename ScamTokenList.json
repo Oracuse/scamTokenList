@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf210b4AFfEA22AbeD9e97F6B0Ee242F915eC48a6",
-      "symbol": "D",
-      "name": "Danger",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x24079341D4b9c45B5A44C9100e26003309220E69",
       "symbol": "CRYSTAL",
       "name": "CrystalETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6819aEc782f97eAD1145F1D9419aA87B7481fAF0",
+      "symbol": "TSBV",
+      "name": "ThestorybehindVital",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15655,
-    "minor": 15655,
+    "major": 15656,
+    "minor": 15656,
     "patch": 86
   }
 }
