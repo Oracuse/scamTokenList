@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd7FD5fD97FED07C4E5bBE6575a5d4eA34a94769d",
-      "symbol": "ACES",
-      "name": "HouseOfCards",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdD9672Dd70f8063b0e2D305901939fA102316D05",
       "symbol": "NEPH",
       "name": "Nephthys",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD092117a3b4ac0C59D87F0ac8b7A9e77006Dc23E",
+      "symbol": "STONE",
+      "name": "Masurami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15562,
-    "minor": 15562,
+    "major": 15563,
+    "minor": 15563,
     "patch": 86
   }
 }
