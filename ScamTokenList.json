@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdD9672Dd70f8063b0e2D305901939fA102316D05",
-      "symbol": "NEPH",
-      "name": "Nephthys",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8AfeB630A16fF1D8eD287818030d8F48e1351E8e",
       "symbol": "KIBAHEX",
       "name": "KibaHex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13cC9205F3027bb1BCF1161810f6b41F09901a3C",
+      "symbol": "ESCROW",
+      "name": "EscrowContracts",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15563,
-    "minor": 15563,
+    "major": 15564,
+    "minor": 15564,
     "patch": 86
   }
 }
