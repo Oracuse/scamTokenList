@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xccf561Ca1EaCf7B998809186b42419B0D43186a6",
-      "symbol": "DECINU",
-      "name": "DecentralizedInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf4CDABd8739C284f8C383dE60ADeF8b6dC7acBBa",
       "symbol": "YORI",
       "name": "Yori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x066DdE9648EE65e9808fd976bA10eAA1faAb29D9",
+      "symbol": "KARANDA",
+      "name": "Karanda",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15588,
-    "minor": 15588,
+    "major": 15589,
+    "minor": 15589,
     "patch": 86
   }
 }
