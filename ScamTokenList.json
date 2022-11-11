@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA4a35560F33b92B8266132Ca31B4cD08c5F9A47a",
-      "symbol": "LUNAS",
-      "name": "LunaS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x373a382B3AE6Da25dD53052B2006273994b40BeE",
       "symbol": "SPUR",
       "name": "Spurious",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84Bda480C33F200B4a4f2B4bebCef1e539d2F8C2",
+      "symbol": "FOOT",
+      "name": "Footballium",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15646,
-    "minor": 15646,
+    "major": 15647,
+    "minor": 15647,
     "patch": 86
   }
 }
