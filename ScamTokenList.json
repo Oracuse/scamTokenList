@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6D2D8028AD91FbB80506527F9fE6699763afd1E8",
-      "symbol": "PIXIE",
-      "name": "Mocha",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1f098e847161b2e4ba0b83c54A25b412E4c22296",
       "symbol": "LUNAR",
       "name": "LunarDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x951A843FA10B9550Cb9046618473269Cd29730C8",
+      "symbol": "GAPEFI",
+      "name": "GenesisApeFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15576,
-    "minor": 15576,
+    "major": 15577,
+    "minor": 15577,
     "patch": 86
   }
 }
