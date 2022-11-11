@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36AeA1691d59f25095Ea34e3C86B0f7e96e292E1",
-      "symbol": "ENOHEX",
-      "name": "EnlightenOfHex",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbd5F102219E40A88c9518032A0189D25c7E672d6",
       "symbol": "21",
       "name": "TwentyOne",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14A7a04De5e45DA62e371028aAc3cFB57E401dC3",
+      "symbol": "KINU",
+      "name": "KaidoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15620,
-    "minor": 15620,
+    "major": 15621,
+    "minor": 15621,
     "patch": 86
   }
 }
