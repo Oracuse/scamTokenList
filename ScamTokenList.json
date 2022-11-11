@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5d2374e5E60F400157Fb063916eD6Cec3E4e6D46",
-      "symbol": "DAIFU",
-      "name": "DAIFU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3B87529D45ba79E510B08589a02FBCFf8af6EbbD",
       "symbol": "8GATES",
       "name": "HachimonTonkonoJin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFBBd708d6dd4F97A834d06fc84761f83Ae8E1055",
+      "symbol": "GAMI",
+      "name": "Inugami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15614,
-    "minor": 15614,
+    "major": 15615,
+    "minor": 15615,
     "patch": 86
   }
 }
