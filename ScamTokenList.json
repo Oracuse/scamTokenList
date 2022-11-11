@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB381349901a16df9261Cf02915eF7C7CF6E4E900",
-      "symbol": "DHIVE",
-      "name": "DaiHive",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcB52DEB27F6122982bd3F8251f1884223f3F0F79",
       "symbol": "EYE",
       "name": "Bullseye",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69C152ec894e5A6F86D738C6b667AbCca152d38a",
+      "symbol": "MEMEVERSE",
+      "name": "Memeverse",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15578,
-    "minor": 15578,
+    "major": 15579,
+    "minor": 15579,
     "patch": 86
   }
 }
