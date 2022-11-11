@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcf5d2CcBC315b9d6CC6C11837C5051e370031c26",
-      "symbol": "VMIL",
-      "name": "Vermillion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9C8cDD8288C1Fb204c728F0B79C52D77279551d2",
       "symbol": "BAM",
       "name": "Bamboozle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8806C89b9237b37f7A65b4BDE56E1D4356eA3509",
+      "symbol": "SYNTHE",
+      "name": "SYNTHE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15600,
-    "minor": 15600,
+    "major": 15601,
+    "minor": 15601,
     "patch": 86
   }
 }
