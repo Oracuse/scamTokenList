@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1F65b5B5910d9E346B3Bb6281d1eb1dCb49A43A6",
-      "symbol": "WKZ",
-      "name": "Wakizashi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x61AD9146138CF621CBc1963ccb53A2b438456297",
       "symbol": "OMNI",
       "name": "Omnimusha",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11cA519D9B4952f761FE9c94a130A1dbd91Cf404",
+      "symbol": "BLOCKFI",
+      "name": "BlockFiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15568,
-    "minor": 15568,
+    "major": 15569,
+    "minor": 15569,
     "patch": 86
   }
 }
