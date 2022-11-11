@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7e239B4d9C354a7CF07F74105bE27c0A10330377",
-      "symbol": "VTM",
-      "name": "VitalikTheMerger",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDb6b6B68eE94033379fb6886cb9792Ec01f8FD4a",
       "symbol": "OKC",
       "name": "OKCToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2e80F16518D6B705926a2C6e64a076b8fa15638",
+      "symbol": "SEND",
+      "name": "SENDsational",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15659,
-    "minor": 15659,
+    "major": 15660,
+    "minor": 15660,
     "patch": 86
   }
 }
