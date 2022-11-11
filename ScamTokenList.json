@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaFc1dB795a49a53996c54Ded3e7d2479a3cb1177",
-      "symbol": "AKI",
-      "name": "Aki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5d2374e5E60F400157Fb063916eD6Cec3E4e6D46",
       "symbol": "DAIFU",
       "name": "DAIFU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcaB436acfF3b68853f362AAa8A7f9f4531Ff0Aae",
+      "symbol": "RAP",
+      "name": "RAPPERDEV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15613,
-    "minor": 15613,
+    "major": 15614,
+    "minor": 15614,
     "patch": 86
   }
 }
