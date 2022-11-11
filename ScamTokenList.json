@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa506012E8950ffC3878334a6D92651F88E548a46",
-      "symbol": "AMATERASU",
-      "name": "AmaterasuOmikani",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80E4a1C04f9BEBe38D893Eb1086c5E47250Bf756",
       "symbol": "UNIGO",
       "name": "UniGoSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A59cA67892a347Ed45A4AA58Af3BBDf8f430838",
+      "symbol": "HUOBIC",
+      "name": "HuobiClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15628,
-    "minor": 15628,
+    "major": 15629,
+    "minor": 15629,
     "patch": 86
   }
 }
