@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4198287d232c49a574FEBB0Ef133eF0d02428feC",
-      "symbol": "TOSHOGU",
-      "name": "ToshoguDragon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaFc1dB795a49a53996c54Ded3e7d2479a3cb1177",
       "symbol": "AKI",
       "name": "Aki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBfB7B485265BCFca53A1011bFFC3515b3Cf3b217",
+      "symbol": "ATH",
+      "name": "AllTimeHigh",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15612,
-    "minor": 15612,
+    "major": 15613,
+    "minor": 15613,
     "patch": 86
   }
 }
