@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe63Ae2dEA6a0C2461B873380b8F129Dfbc34D871",
-      "symbol": "FLASH",
-      "name": "THEFLASH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA4a35560F33b92B8266132Ca31B4cD08c5F9A47a",
       "symbol": "LUNAS",
       "name": "LunaS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25e265aD75Ff61505Cfbe7e290227788Bc288186",
+      "symbol": "CITIZEN",
+      "name": "CITIZENPEOPLE",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15645,
-    "minor": 15645,
+    "major": 15646,
+    "minor": 15646,
     "patch": 86
   }
 }
