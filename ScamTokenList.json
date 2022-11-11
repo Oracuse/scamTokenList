@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62c20BA5F705E9AA9Cf9de753D1340848a307015",
-      "symbol": "BIZ",
-      "name": "Bizarre",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdf631814cd0FBeb54fA2a3C23d4E81dE116c52cD",
       "symbol": "CHAKRA",
       "name": "Chakra",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe058a18f139fc710BB56f9c172D9661d41B4C23C",
+      "symbol": "SOS",
+      "name": "SOS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15598,
-    "minor": 15598,
+    "major": 15599,
+    "minor": 15599,
     "patch": 86
   }
 }
