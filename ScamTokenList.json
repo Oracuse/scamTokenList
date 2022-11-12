@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfBdEA6cCcD096180D0C134cA04e88d77358007A7",
-      "symbol": "ZEN",
-      "name": "RyoshisZen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC903F7C21d02bF911f8aA9025dDf76f4ed58205c",
       "symbol": "MIRACLE",
       "name": "THEMOON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B693c6CD23ee636934748bb076bd745e499F27c",
+      "symbol": "ROULETTE",
+      "name": "RouletteINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15718,
-    "minor": 15718,
+    "major": 15719,
+    "minor": 15719,
     "patch": 86
   }
 }
