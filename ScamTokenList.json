@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x27621312019742824F22c49eccF85cb0042e5e32",
-      "symbol": "ZAZA",
-      "name": "Zanoza",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfBdEA6cCcD096180D0C134cA04e88d77358007A7",
       "symbol": "ZEN",
       "name": "RyoshisZen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAA6e58cF90a5543eb82Eabd76f59f17B8d46bCc4",
+      "symbol": "APE100X",
+      "name": "APE100X",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15717,
-    "minor": 15717,
+    "major": 15718,
+    "minor": 15718,
     "patch": 86
   }
 }
