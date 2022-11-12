@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8D6CCC24474D1cf4Fbf55662Ae9A9E8B4848c77f",
-      "symbol": "OMNIBENEVOLENCE",
-      "name": "Omnibenevolence",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7FB696903e3a59101c5AD07be2Cf1E108A94E0Ae",
       "symbol": "YORI",
       "name": "Yori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8fBeC4270295b784EF549C87d709372ba5e53443",
+      "symbol": "RHINO",
+      "name": "RHINOANIME",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15707,
-    "minor": 15707,
+    "major": 15708,
+    "minor": 15708,
     "patch": 86
   }
 }
