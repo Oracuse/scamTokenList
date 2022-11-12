@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28B21AdfA3e43BEC5c1ae5354087697c4fB6B604",
-      "symbol": "CHAIN",
-      "name": "RyoshisChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa26d5DE30a6a61000316CE643A6216c830fAF395",
       "symbol": "TENGOKU",
       "name": "TengokunoKami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x303d299D7373A93f96d4D48F5071Fb07bE6d041a",
+      "symbol": "ANONS",
+      "name": "AnonsInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15678,
-    "minor": 15678,
+    "major": 15679,
+    "minor": 15679,
     "patch": 86
   }
 }
