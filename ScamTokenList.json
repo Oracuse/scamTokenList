@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7FB696903e3a59101c5AD07be2Cf1E108A94E0Ae",
-      "symbol": "YORI",
-      "name": "Yori",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1510D5c5D906fb74D635d2c1892EB87A17a87B79",
       "symbol": "THREADS",
       "name": "Kizuna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31aA0F8CB87479eBDc50aa46627755fe16c997BA",
+      "symbol": "QB",
+      "name": "QatarBets",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15708,
-    "minor": 15708,
+    "major": 15709,
+    "minor": 15709,
     "patch": 86
   }
 }
