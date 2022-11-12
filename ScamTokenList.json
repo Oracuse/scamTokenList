@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0dbF49E8Da09b6A44AF55D8D65575b795F6982cf",
-      "symbol": "AOZORA",
-      "name": "Aozora",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE7708F4ba493250a9195515B828E991F605Ee795",
       "symbol": "AOZORA",
       "name": "Aozora",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC8795EfD645A3f605f0d5F3378607e6f92832289",
+      "symbol": "KNEKO",
+      "name": "KeikoNeko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15690,
-    "minor": 15690,
+    "major": 15691,
+    "minor": 15691,
     "patch": 86
   }
 }
