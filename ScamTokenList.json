@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Dc22F19A7dAc77f56f934eC84ea4AA192A6c4d6",
-      "symbol": "SWINE",
-      "name": "ThePig",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28B21AdfA3e43BEC5c1ae5354087697c4fB6B604",
       "symbol": "CHAIN",
       "name": "RyoshisChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8026417C9feDe48D5653C079b6bdB7eCfEb601bD",
+      "symbol": "MOON",
+      "name": "UnexpectedMoon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15677,
-    "minor": 15677,
+    "major": 15678,
+    "minor": 15678,
     "patch": 86
   }
 }
