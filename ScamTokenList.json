@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x86C8125ec32CC1dD80363d3b75e2B5e90c31cE45",
-      "symbol": "SANGUINE",
-      "name": "RyoshisConviction",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x115d4a2b13E903714811F8C7B50679C768c30623",
       "symbol": "BLKRABBIT",
       "name": "BlackRabbit",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEE135e5667AD2d2574ab1dbd0B5aEa22fc7A4115",
+      "symbol": "FTXHACK",
+      "name": "FTXHack",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15681,
-    "minor": 15681,
+    "major": 15682,
+    "minor": 15682,
     "patch": 86
   }
 }
