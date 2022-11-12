@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA454d44c2c2507ABc0CfD2E21d74863894fcAABA",
-      "symbol": "GOAT",
-      "name": "GOATINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x27621312019742824F22c49eccF85cb0042e5e32",
       "symbol": "ZAZA",
       "name": "Zanoza",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2Fe3D13D05afb3fCd1c2a219AdCc24BBB9850Aa",
+      "symbol": "SYNTH",
+      "name": "Synthesia",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15716,
-    "minor": 15716,
+    "major": 15717,
+    "minor": 15717,
     "patch": 86
   }
 }
