@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa35137c7bb5142d72a0fD5E1F860C377e7D4e520",
-      "symbol": "SPRUCE",
-      "name": "SPRUCE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0747a3764Ee88A78a53318F2b8D31352d3d70099",
       "symbol": "MIZUCHI",
       "name": "Mizuchi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F932c8F528fAc9ECf685495182b54066507caa8",
+      "symbol": "DDD",
+      "name": "aaa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15703,
-    "minor": 15703,
+    "major": 15704,
+    "minor": 15704,
     "patch": 86
   }
 }
