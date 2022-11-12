@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0A16D08b57AfE4E0e323EbA83e0282b07C2ed1f1",
-      "symbol": "SPITZ",
-      "name": "FinnishSpitz",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8D6CCC24474D1cf4Fbf55662Ae9A9E8B4848c77f",
       "symbol": "OMNIBENEVOLENCE",
       "name": "Omnibenevolence",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF97027B763adFA1210f25aD38F96f2fFE25260dA",
+      "symbol": "AMIA",
+      "name": "Amnesia",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15706,
-    "minor": 15706,
+    "major": 15707,
+    "minor": 15707,
     "patch": 86
   }
 }
