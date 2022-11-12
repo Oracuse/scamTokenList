@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7E84b60aA65fa74eF0595afA9C9A8f7eCA13E73b",
-      "symbol": "SNUFFLES",
-      "name": "SnufflesInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF418b77eBaec93DC6E90958c48D85a806d2430F9",
       "symbol": "SS",
       "name": "SpaceSnake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46B1F79b5233450CDA8b66236d2d21EaCE754F36",
+      "symbol": "SBF",
+      "name": "ProofOfDust",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15673,
-    "minor": 15673,
+    "major": 15674,
+    "minor": 15674,
     "patch": 86
   }
 }
