@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE95EfbCb48ba3b1915d9eE03982C9b136a9D049A",
-      "symbol": "SHUGEN",
-      "name": "Shugendo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0A16D08b57AfE4E0e323EbA83e0282b07C2ed1f1",
       "symbol": "SPITZ",
       "name": "FinnishSpitz",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7aC055BE1106C53d93586515a123DE343638715d",
+      "symbol": "XRPC",
+      "name": "RippleClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15705,
-    "minor": 15705,
+    "major": 15706,
+    "minor": 15706,
     "patch": 86
   }
 }
