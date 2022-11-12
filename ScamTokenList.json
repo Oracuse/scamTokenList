@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE9C52c4c2E0C1971ff03882A688aa0CeB532F7C2",
-      "symbol": "TSU",
-      "name": "InfiniteTsukiyomi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8ef25893925130d5AcdBDB58b7e87cceB1355d02",
       "symbol": "TSUTARU",
       "name": "TsukuyomiDejitaru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82F4147F78198Af289352Aaa5acE495963873B86",
+      "symbol": "TOK",
+      "name": "TreasuryOfKnight",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15696,
-    "minor": 15696,
+    "major": 15697,
+    "minor": 15697,
     "patch": 86
   }
 }
