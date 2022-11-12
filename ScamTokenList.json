@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc0abc8940fEb7e9C017E5A38d1cDe4b312c91931",
-      "symbol": "7",
-      "name": "DX7",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7A643AA238c6fbf983Ff10Aa240F4A2224766606",
       "symbol": "LOICHI",
       "name": "Loichi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x148A4c91E61576758361e9641BE7335f90b6504A",
+      "symbol": "PLAYER",
+      "name": "FIFAWorldPlayerofth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15700,
-    "minor": 15700,
+    "major": 15701,
+    "minor": 15701,
     "patch": 86
   }
 }
