@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3A6bFbA78554De36052f9217b21Ca362e6aD6c88",
-      "symbol": "HASSAKU",
-      "name": "HASSAKU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE9C52c4c2E0C1971ff03882A688aa0CeB532F7C2",
       "symbol": "TSU",
       "name": "InfiniteTsukiyomi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAAE005727dD08346D11894B95778c0F9Ab91475D",
+      "symbol": "SHORTDAO",
+      "name": "SHORTDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15695,
-    "minor": 15695,
+    "major": 15696,
+    "minor": 15696,
     "patch": 86
   }
 }
