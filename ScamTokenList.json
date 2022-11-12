@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBd1396c363c080e9Ed6dB4A96b90bb18f6E78852",
-      "symbol": "COINSYMBOL",
-      "name": "COINNAME",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd4bd1181A66dd884A3A6fE561169605042531575",
       "symbol": "TYDUWAS",
       "name": "OraclesofTyduwas",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ec7f4ce8F327Da0fCdFCF238A116f22f29ebD8A",
+      "symbol": "VXON",
+      "name": "VoxNET",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15668,
-    "minor": 15668,
+    "major": 15669,
+    "minor": 15669,
     "patch": 86
   }
 }
