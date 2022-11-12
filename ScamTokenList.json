@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9f1902eBe52d822E6De4720263E66547770a52D7",
-      "symbol": "KLICK",
-      "name": "Klick",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe26170D99367B2cE7E32B0311A52bA893849635d",
       "symbol": "OATH",
       "name": "Hippocratic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6Cb7265d41933c61D77B0C2EaDf5540023cB5081",
+      "symbol": "RYSK",
+      "name": "RyskFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15663,
-    "minor": 15663,
+    "major": 15664,
+    "minor": 15664,
     "patch": 86
   }
 }
