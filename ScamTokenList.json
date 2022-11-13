@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA738753202A3FbCcB88CA32Acf6e120F6308dB1f",
-      "symbol": "ET",
-      "name": "ExtraTerrestrial",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC2045e74c83FEEfEc854dA67732033C8713298c9",
       "symbol": "LVLS",
       "name": "Levels",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe703cFF5fF14084e9438A9276bA314C0dF28805B",
+      "symbol": "1IC",
+      "name": "1inchClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15788,
-    "minor": 15788,
+    "major": 15789,
+    "minor": 15789,
     "patch": 86
   }
 }
