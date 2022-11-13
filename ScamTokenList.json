@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe47313779c753a58b0271D277269714e2f93Ac59",
-      "symbol": "MIKA",
-      "name": "Mikazuki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBcB34d10ff084A51035719f671D00Ce950739aa7",
       "symbol": "ARTM",
       "name": "Artemis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc787477dB8Fa61921490474d7a49Ac5C19c94E5d",
+      "symbol": "SC",
+      "name": "SantaClown",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15768,
-    "minor": 15768,
+    "major": 15769,
+    "minor": 15769,
     "patch": 86
   }
 }
