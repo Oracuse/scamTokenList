@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4Ce4C025692B3142dbdE1cd432ef55b9A8D18701",
-      "symbol": "DCNT",
-      "name": "Decanect",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb285fED0d46De0806AeD3d3Cf2b8d6AcC7Cf79b2",
       "symbol": "TORA",
       "name": "Torasuko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9e36f1955A89660d264c91eD3C344eC71Ef442a",
+      "symbol": "NFLTV",
+      "name": "NFLTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15790,
-    "minor": 15790,
+    "major": 15791,
+    "minor": 15791,
     "patch": 86
   }
 }
