@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x85D310710b705aFe6028424890EAd0495321c0F1",
-      "symbol": "HOSHI",
-      "name": "Horiyoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3AF7060628445266aC0AfA89FA6150B18A9c2577",
       "symbol": "WIND",
       "name": "RejecttheWind",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F58C9cF47cf2a132262D5bFf85D6cD4551285A3",
+      "symbol": "OS",
+      "name": "OnlyStables",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15780,
-    "minor": 15780,
+    "major": 15781,
+    "minor": 15781,
     "patch": 86
   }
 }
