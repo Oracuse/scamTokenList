@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x45bf5970A13459c00e4b068C4175B01a65773d21",
-      "symbol": "HIDAKA",
-      "name": "Kiyohime",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x27FE0535c7de60D26992dBBE458A34973E969ea8",
       "symbol": "MOKANE",
       "name": "MidoriOfOkane",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa95AD8d62593bAA6775D4a06c9fD1eC04Bae7Ab9",
+      "symbol": "TWT",
+      "name": "TrustWalletToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15770,
-    "minor": 15770,
+    "major": 15771,
+    "minor": 15771,
     "patch": 86
   }
 }
