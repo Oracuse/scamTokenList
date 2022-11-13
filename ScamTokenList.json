@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x35f9f2933a25E1d1512F312Cf7c924f41Fb9434f",
-      "symbol": "UDC",
-      "name": "UnstableDollarCoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc9cD6C340B269F1Efd0e500734fE960227165E13",
       "symbol": "AMATERASU",
       "name": "AmaterasuOmikami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39E40DB590B302055b7554aA7dDeCf41b27a0377",
+      "symbol": "TARTARUS",
+      "name": "TARTARUS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15784,
-    "minor": 15784,
+    "major": 15785,
+    "minor": 15785,
     "patch": 86
   }
 }
