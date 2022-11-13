@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8a8FAEE8c4328e2d43E93c80D58014094dF3f8C6",
-      "symbol": "YOICHI",
-      "name": "Yoichi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAC3b6456Cf42bc337ca4a21987bEF8E831905925",
       "symbol": "TAKANARI",
       "name": "Takanari",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCC87cEd8769197792b83B3a95365Ed33A7Cc037e",
+      "symbol": "PDA",
+      "name": "Pareidolia",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15745,
-    "minor": 15745,
+    "major": 15746,
+    "minor": 15746,
     "patch": 86
   }
 }
