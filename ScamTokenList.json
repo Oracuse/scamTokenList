@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x37d5427128A189Db6634A47ca0561CB262210Bd5",
-      "symbol": "ELEV",
-      "name": "Elevate",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8202Ddc6684fa2584a744C2bec2DF24BD5F970ef",
       "symbol": "YASUKA",
       "name": "YasukaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb259dE65Ef0e75C618eb6C88bb1A059d9B1EC132",
+      "symbol": "SFPC",
+      "name": "SafePalClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15774,
-    "minor": 15774,
+    "major": 15775,
+    "minor": 15775,
     "patch": 86
   }
 }
