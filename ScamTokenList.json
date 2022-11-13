@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC05c4228Cb9F2A07e52ee266C4426F82A908Ac65",
-      "symbol": "POIGNANT",
-      "name": "Archaic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6814650c01e46401214C73f5EA66C9918b954EE3",
       "symbol": "TSUKA",
       "name": "Tsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Bd973E463c20126d93010621Dc81AA0D8fd2d87",
+      "symbol": "PDS",
+      "name": "PsyduckSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15723,
-    "minor": 15723,
+    "major": 15724,
+    "minor": 15724,
     "patch": 86
   }
 }
