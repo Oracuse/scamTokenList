@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2f9BdDD66C6c4221Fe2CB715CE56d5C88b13410a",
-      "symbol": "SHIGO",
-      "name": "ShibaGolden",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00c6A3209be0797CBE3a5a13cBb9ccfDe4564b41",
       "symbol": "KOMATSUHIME",
       "name": "Komatsuhime",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A972594CaCDcB6d7189868b5dFc17CAA63C213f",
+      "symbol": "CROC",
+      "name": "CroClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15741,
-    "minor": 15741,
+    "major": 15742,
+    "minor": 15742,
     "patch": 86
   }
 }
