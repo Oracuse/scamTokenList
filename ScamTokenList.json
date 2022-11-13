@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBcB34d10ff084A51035719f671D00Ce950739aa7",
-      "symbol": "ARTM",
-      "name": "Artemis",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x45bf5970A13459c00e4b068C4175B01a65773d21",
       "symbol": "HIDAKA",
       "name": "Kiyohime",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53C42A2DA82EfB7F00254Ecb84E331Bfd249c567",
+      "symbol": "DEMO",
+      "name": "Demo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15769,
-    "minor": 15769,
+    "major": 15770,
+    "minor": 15770,
     "patch": 86
   }
 }
