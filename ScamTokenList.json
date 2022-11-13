@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa99EDceB8fd37E38F4e2640E42344005D12fac7C",
-      "symbol": "DRAGONHOARD",
-      "name": "DragonHoard",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA738753202A3FbCcB88CA32Acf6e120F6308dB1f",
       "symbol": "ET",
       "name": "ExtraTerrestrial",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36a2bA11275A19f909D0E97d735265b7f7C4327C",
+      "symbol": "TOW",
+      "name": "TaleofWhale",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15787,
-    "minor": 15787,
+    "major": 15788,
+    "minor": 15788,
     "patch": 86
   }
 }
