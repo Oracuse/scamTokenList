@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc9cD6C340B269F1Efd0e500734fE960227165E13",
-      "symbol": "AMATERASU",
-      "name": "AmaterasuOmikami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb209CcFfCc9958Aa9C77def6D9211c39D68d328D",
       "symbol": "TINS",
       "name": "ThereIsNoSpoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb2A8cA5f6Fe1BCE825617637a93Fc6e60432931",
+      "symbol": "TLP",
+      "name": "TheLootboxProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15785,
-    "minor": 15785,
+    "major": 15786,
+    "minor": 15786,
     "patch": 86
   }
 }
