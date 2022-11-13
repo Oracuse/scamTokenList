@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7521A8f7cc39BdAE687A5Ec0681E356BbF81eC09",
-      "symbol": "RYUJIN",
-      "name": "RYUJIN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB107BFb7A3F3a3640931e94885217d7B61d38CB7",
       "symbol": "TELEPATHY",
       "name": "Telepathy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x930dA7A3F515672AE40Ebe88751A49048a36F543",
+      "symbol": "CFINANCE",
+      "name": "CLITFINANCE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15736,
-    "minor": 15736,
+    "major": 15737,
+    "minor": 15737,
     "patch": 86
   }
 }
