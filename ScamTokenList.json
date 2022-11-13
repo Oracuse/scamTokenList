@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0BdF39527fD5bB885c5a471fE32f3760DE243009",
-      "symbol": "SENBONZAKURA",
-      "name": "Senbonzakura",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75c1704c24EfcFcC258862BF4D275379C8c0b2dC",
       "symbol": "OPTICS",
       "name": "BlockOptics",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC49E9f29Ebe9094Ac69a7629f3d0AC7df47839Ba",
+      "symbol": "DYOR",
+      "name": "DoYourOwnResearch",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15755,
-    "minor": 15755,
+    "major": 15756,
+    "minor": 15756,
     "patch": 86
   }
 }
