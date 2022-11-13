@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb209CcFfCc9958Aa9C77def6D9211c39D68d328D",
-      "symbol": "TINS",
-      "name": "ThereIsNoSpoon",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa99EDceB8fd37E38F4e2640E42344005D12fac7C",
       "symbol": "DRAGONHOARD",
       "name": "DragonHoard",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCbAE67bB9cc29a28e51499e155cc28400a2fbae4",
+      "symbol": "INJ",
+      "name": "InjectedFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15786,
-    "minor": 15786,
+    "major": 15787,
+    "minor": 15787,
     "patch": 86
   }
 }
