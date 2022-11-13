@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC47De5e419b50ae02426F4AbF8Ee8E5893e0e26f",
-      "symbol": "MOJO",
-      "name": "MOJO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8453ddBA129015B6F9240204878ABb5d6C3044BC",
       "symbol": "WHITELADY",
       "name": "WHITELADY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f08b2BD77AEeB1cCd40386C103bA13E1C78Aad4",
+      "symbol": "TALEOF",
+      "name": "TaleOfVitalik",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15782,
-    "minor": 15782,
+    "major": 15783,
+    "minor": 15783,
     "patch": 86
   }
 }
