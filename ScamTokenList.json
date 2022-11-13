@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x733d601fFac176F3d44E6933f5B1089E68adEdd6",
-      "symbol": "HIRUDORA",
-      "name": "Hirudorakazoku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5128be02b7B9daadeb57A082Ce512B00ddE77A47",
       "symbol": "SHIBIMON",
       "name": "Shibimon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfECdAdF5C895F1d9A082e65C443185337e2E9bea",
+      "symbol": "CROC",
+      "name": "CronosClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15753,
-    "minor": 15753,
+    "major": 15754,
+    "minor": 15754,
     "patch": 86
   }
 }
