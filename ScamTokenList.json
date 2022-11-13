@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF6BB7f98c0bB20337331AA09402757f44D7Ff1F5",
-      "symbol": "MERO",
-      "name": "MeroToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7521A8f7cc39BdAE687A5Ec0681E356BbF81eC09",
       "symbol": "RYUJIN",
       "name": "RYUJIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA768E59979CBcD5A875aD5914E6177a9363a6D48",
+      "symbol": "ADESANYA",
+      "name": "ADESANYA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15735,
-    "minor": 15735,
+    "major": 15736,
+    "minor": 15736,
     "patch": 86
   }
 }
