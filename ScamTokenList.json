@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x68d65C09aC31E40Edd702BE1204cCF16EcFcdee3",
-      "symbol": "GAKI",
-      "name": "GakiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x346572B6B8CEd4Ad0c98Bbf0cC449E27245B7d6C",
       "symbol": "SOLIPSM",
       "name": "THEUNIVERSE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1615450aFFF4f1b37b0883F807A0321c4dB652d6",
+      "symbol": "START",
+      "name": "StartProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15727,
-    "minor": 15727,
+    "major": 15728,
+    "minor": 15728,
     "patch": 86
   }
 }
