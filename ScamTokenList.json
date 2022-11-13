@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7E11bDc9C1E0817948c77d0687F8491c016Dd459",
-      "symbol": "THEX",
-      "name": "TheThornHex",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x02A2d60809563bc5e0eFCe5f552aCd034c665e20",
       "symbol": "MUSK",
       "name": "Gasoline",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5492Bc701d7c83A2263331168776db04969BcD77",
+      "symbol": "AC",
+      "name": "AnonymousClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15793,
-    "minor": 15793,
+    "major": 15794,
+    "minor": 15794,
     "patch": 86
   }
 }
