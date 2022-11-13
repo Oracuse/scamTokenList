@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEd0827C0f3BC4F161BbbE2E7572eaB9FaBd74449",
-      "symbol": "RYOSHIKI",
-      "name": "Ryoshiki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfC164aAE97245D6fdc58CDb4f4FAC592A5990D22",
       "symbol": "MUPPY",
       "name": "MuppyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2667807d492d44f04945cF23c81bcD1dF1D63Fbe",
+      "symbol": "TWTW",
+      "name": "TrustWallet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15762,
-    "minor": 15762,
+    "major": 15763,
+    "minor": 15763,
     "patch": 86
   }
 }
