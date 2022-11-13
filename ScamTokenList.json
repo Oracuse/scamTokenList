@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcbfCC644159D5B330f5acF2C81668b33787e6872",
-      "symbol": "VDOGE",
-      "name": "VOYAGERDOGE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb872a0cBF9e19E73F6Ec2E9C514e499CA93484be",
       "symbol": "SHINKO",
       "name": "Shinko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf820E18993327eF87123179927a91e169aABEd50",
+      "symbol": "KURISUMUSU",
+      "name": "Kurisumasu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15749,
-    "minor": 15749,
+    "major": 15750,
+    "minor": 15750,
     "patch": 86
   }
 }
