@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3D04A5E214a17937256c58d1A05BE7a3699591C0",
-      "symbol": "SHIGEKOINU",
-      "name": "ShigekoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1523e0ACAB9f7D03CdB080Ee4A089Db78009D593",
       "symbol": "KOKKEN",
       "name": "Kokken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cE1e6b1C0e3048adC996EcaF3ad60a7C6cF0feC",
+      "symbol": "TWTR",
+      "name": "TwitterWalletToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15776,
-    "minor": 15776,
+    "major": 15777,
+    "minor": 15777,
     "patch": 86
   }
 }
