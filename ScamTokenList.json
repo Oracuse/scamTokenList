@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5128be02b7B9daadeb57A082Ce512B00ddE77A47",
-      "symbol": "SHIBIMON",
-      "name": "Shibimon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0BdF39527fD5bB885c5a471fE32f3760DE243009",
       "symbol": "SENBONZAKURA",
       "name": "Senbonzakura",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x748f31D74B11bfe15e10Ee664dcDD885c7Ad66a4",
+      "symbol": "DLINK",
+      "name": "DlinkWallet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15754,
-    "minor": 15754,
+    "major": 15755,
+    "minor": 15755,
     "patch": 86
   }
 }
