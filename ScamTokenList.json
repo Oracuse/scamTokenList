@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0f651277475f724539be0A33552313240D84639e",
-      "symbol": "KISERU",
-      "name": "KISERU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x733d601fFac176F3d44E6933f5B1089E68adEdd6",
       "symbol": "HIRUDORA",
       "name": "Hirudorakazoku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1C6264a4F15de59893A4692Eb18BD9Dd468cee7",
+      "symbol": "WCD",
+      "name": "WorldCupDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15752,
-    "minor": 15752,
+    "major": 15753,
+    "minor": 15753,
     "patch": 86
   }
 }
