@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAC3b6456Cf42bc337ca4a21987bEF8E831905925",
-      "symbol": "TAKANARI",
-      "name": "Takanari",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4912E77C584b4f2a11eDc825A8C7aa6033e30eB2",
       "symbol": "MUSASHI",
       "name": "MIYAMOTOMUSASHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2DB6EbBdF5bdD0eBF5461b924e6B2D7d01606e5",
+      "symbol": "TWI",
+      "name": "TrustWalletInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15746,
-    "minor": 15746,
+    "major": 15747,
+    "minor": 15747,
     "patch": 86
   }
 }
