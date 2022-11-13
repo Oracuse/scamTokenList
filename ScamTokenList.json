@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8453ddBA129015B6F9240204878ABb5d6C3044BC",
-      "symbol": "WHITELADY",
-      "name": "WHITELADY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x35f9f2933a25E1d1512F312Cf7c924f41Fb9434f",
       "symbol": "UDC",
       "name": "UnstableDollarCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAE682e47032704194Bf1C9A811B1562143105823",
+      "symbol": "RPC",
+      "name": "RemoteProcedureCall",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15783,
-    "minor": 15783,
+    "major": 15784,
+    "minor": 15784,
     "patch": 86
   }
 }
