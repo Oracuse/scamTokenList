@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x43c15797F849C51a95F86546D112689252d0841e",
-      "symbol": "ROPE",
-      "name": "Shimenawa",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEd0827C0f3BC4F161BbbE2E7572eaB9FaBd74449",
       "symbol": "RYOSHIKI",
       "name": "Ryoshiki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x902080c56cc68dfEa8D2DCDEb0b3c5e1cA5e0a79",
+      "symbol": "CUSDT",
+      "name": "USDTClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15761,
-    "minor": 15761,
+    "major": 15762,
+    "minor": 15762,
     "patch": 86
   }
 }
