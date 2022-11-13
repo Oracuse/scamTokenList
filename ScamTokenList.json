@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC2045e74c83FEEfEc854dA67732033C8713298c9",
-      "symbol": "LVLS",
-      "name": "Levels",
-      "decimals": 5,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Ce4C025692B3142dbdE1cd432ef55b9A8D18701",
       "symbol": "DCNT",
       "name": "Decanect",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD138a6af876d2A6e98C90727EeC588F25C8E1A52",
+      "symbol": "OXK",
+      "name": "Oxiko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15789,
-    "minor": 15789,
+    "major": 15790,
+    "minor": 15790,
     "patch": 86
   }
 }
