@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc40d18b5f27091b39E975c0F24608D810139315C",
-      "symbol": "PICCOLO",
-      "name": "Piccolo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x37d5427128A189Db6634A47ca0561CB262210Bd5",
       "symbol": "ELEV",
       "name": "Elevate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfcF1Ce220750ebEa0a7C49e21F7211d335Ff8a14",
+      "symbol": "LINU",
+      "name": "LedgerInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15773,
-    "minor": 15773,
+    "major": 15774,
+    "minor": 15774,
     "patch": 86
   }
 }
