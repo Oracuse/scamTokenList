@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8480828D5b2976FaB039e5a2F59F40B9CfA4BE0a",
-      "symbol": "DECANECT",
-      "name": "Decanect",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF6BB7f98c0bB20337331AA09402757f44D7Ff1F5",
       "symbol": "MERO",
       "name": "MeroToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9584f81186215717152684e1dCf4529a54cA36dA",
+      "symbol": "DBC",
+      "name": "DontBuyClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15734,
-    "minor": 15734,
+    "major": 15735,
+    "minor": 15735,
     "patch": 86
   }
 }
