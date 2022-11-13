@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb285fED0d46De0806AeD3d3Cf2b8d6AcC7Cf79b2",
-      "symbol": "TORA",
-      "name": "Torasuko",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd67850F5c58FFf06c199764e5825DB27d4C480Ff",
       "symbol": "GK",
       "name": "GundamKart",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d18fA33A061b872B1E99c075099308091c57D44",
+      "symbol": "ATH",
+      "name": "ATHInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15791,
-    "minor": 15791,
+    "major": 15792,
+    "minor": 15792,
     "patch": 86
   }
 }
