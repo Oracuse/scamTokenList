@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4d6a275258E935dF2CC34F8a6ddd28A92a9a7396",
-      "symbol": "KAZU",
-      "name": "AspiretoInspire",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x99E4a57e0338BaB6130E0FAa5916387A201DeFE0",
       "symbol": "SWISH",
       "name": "Swish",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83401C394628dfAfbbAd63A146b2C2F516D4F2ab",
+      "symbol": "SUZAMI",
+      "name": "SUZAMI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15738,
-    "minor": 15738,
+    "major": 15739,
+    "minor": 15739,
     "patch": 86
   }
 }
