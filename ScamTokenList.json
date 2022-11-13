@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6814650c01e46401214C73f5EA66C9918b954EE3",
-      "symbol": "TSUKA",
-      "name": "Tsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7b4CE427f3f16996d4aCDe5B0AfC3e8743bc1389",
       "symbol": "SAKUYA",
       "name": "KonohanaSakuya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1732FB23a0181E2f38058896F46beE2dc472DE5b",
+      "symbol": "FTXO",
+      "name": "FTXOrgies",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15724,
-    "minor": 15724,
+    "major": 15725,
+    "minor": 15725,
     "patch": 86
   }
 }
