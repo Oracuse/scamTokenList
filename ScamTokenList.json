@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7c73bD9d9908e6e2E5AF68Ffda80D9C4B9c99e50",
-      "symbol": "SASAKIBE",
-      "name": "Chojiro",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x85D310710b705aFe6028424890EAd0495321c0F1",
       "symbol": "HOSHI",
       "name": "Horiyoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaFe4bd03C89f8E59592F5A47e5D48560B3ff380E",
+      "symbol": "TALEOFVITALIK",
+      "name": "TaleofVitalik",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15779,
-    "minor": 15779,
+    "major": 15780,
+    "minor": 15780,
     "patch": 86
   }
 }
