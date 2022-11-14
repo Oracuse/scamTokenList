@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf6c04E415BeC01eB56Ad8F221B931018502E22eA",
-      "symbol": "KONO",
-      "name": "Konohagakure",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50E6FEF189554d95c8a2F691DE061e516210596E",
       "symbol": "CCULT",
       "name": "ChillCult",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCe117A53Aba2b23720081Ead5E947D89C6735C36",
+      "symbol": "MMINU",
+      "name": "MetamaskInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15850,
-    "minor": 15850,
+    "major": 15851,
+    "minor": 15851,
     "patch": 86
   }
 }
