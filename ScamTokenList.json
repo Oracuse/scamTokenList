@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd5Da2b82d89bB71CCc262aA8D87E091f47b08a5B",
-      "symbol": "FLOKI2",
-      "name": "FlokiInu20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA927A79bE25b0b29c20Bb3BfE9917b63514357Bd",
       "symbol": "DOFLAMINGO",
       "name": "DoflamingoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFaa52d91970Da26d9F82b3903D87041BD524F928",
+      "symbol": "SOLUNA",
+      "name": "SOLUNA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15862,
-    "minor": 15862,
+    "major": 15863,
+    "minor": 15863,
     "patch": 86
   }
 }
