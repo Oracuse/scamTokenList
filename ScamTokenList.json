@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x773A77F5097b53327ec9BD9F959c3A82e030c81a",
-      "symbol": "YAMAINU",
-      "name": "YamaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x27838E135a0646EeBb60040D0412ad46187b032f",
       "symbol": "FABRE",
       "name": "TehGoldenFabre",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x474b365CaC5035D2a2Aef0044F6Bc7D86F9025cC",
+      "symbol": "TBA",
+      "name": "TwitterBotAlerts",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15893,
-    "minor": 15893,
+    "major": 15894,
+    "minor": 15894,
     "patch": 86
   }
 }
