@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60449673374670DDbb8559607fc8Ac24ED0aF7b6",
-      "symbol": "BABYDOGE20",
-      "name": "BabyDogeCoin20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xec4fD9EAb46AaA3B16114D2C37d2A0A858695EE1",
       "symbol": "TAMA20",
       "name": "Saitama20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72D4901f23861698d25Ac61078F2806392Ea693C",
+      "symbol": "LMEOW",
+      "name": "lmeow",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15833,
-    "minor": 15833,
+    "major": 15834,
+    "minor": 15834,
     "patch": 86
   }
 }
