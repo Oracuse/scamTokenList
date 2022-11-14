@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBC64B7CCA2d3E8FEf37E1f8Caa9E5954FC5cbb5d",
-      "symbol": "MIT",
-      "name": "Mitsuki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x77D6B0fBA3562c9F01628C994ea20Eb1eb2BA477",
       "symbol": "GHOSTAR",
       "name": "GhostarToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x705d7E889f36C9a50BFDa77daa87Ad730bA1AA99",
+      "symbol": "SBFLOL",
+      "name": "SBFPlaysLeagueofLeg",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15802,
-    "minor": 15802,
+    "major": 15803,
+    "minor": 15803,
     "patch": 86
   }
 }
