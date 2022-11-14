@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1BD0B4b6aB649174b29662d6D60da9000A52E2aF",
-      "symbol": "MZI",
-      "name": "MIZUCHIHIVE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xae289877a983cAc614D89E9a92FdD8B183Fe14B5",
       "symbol": "CAW20",
       "name": "AHuntersDream20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7abB167966154b15D8c1B957Cd8e4189d6A836A8",
+      "symbol": "QATAR",
+      "name": "FIFAWorldCupQatar20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15838,
-    "minor": 15838,
+    "major": 15839,
+    "minor": 15839,
     "patch": 86
   }
 }
