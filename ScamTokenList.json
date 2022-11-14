@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF013dC37195609c2D23E6A3981d1660C89d7ED7A",
-      "symbol": "DC20",
-      "name": "Dogechain20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2A496dfe41d6eFFc622cA6AAB291A05ab2527885",
       "symbol": "RYU",
       "name": "Ryujin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F5A5a53587D788535C8966231FbB9023AE8D3eE",
+      "symbol": "JAIL",
+      "name": "SamtoJail",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15848,
-    "minor": 15848,
+    "major": 15849,
+    "minor": 15849,
     "patch": 86
   }
 }
