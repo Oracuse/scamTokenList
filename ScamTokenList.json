@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x19a161648053135fd8e29993295d5D93b45364b5",
-      "symbol": "CVTC",
-      "name": "CVTC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xde1cd774a4b53c9c790BcC41758C56c062D7467f",
       "symbol": "THREELEGGEDCROW",
       "name": "Yatagarasu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1047e6e8dE385181c5E15B220c19E4F7596A5Ee9",
+      "symbol": "OS",
+      "name": "OnlyStables",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15856,
-    "minor": 15856,
+    "major": 15857,
+    "minor": 15857,
     "patch": 86
   }
 }
