@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa8db80350Ed3ECEe47284BD8Eecef8e3ADB4897b",
-      "symbol": "WTH",
-      "name": "WHATTHEHEX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa5070E00B3C71bAD4F9D8C0aEb81435674f85783",
       "symbol": "FLOKI20",
       "name": "FLOKI20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7CeC8Fd60E6325Fa16C6CDd3aa9605a02Dae7DF7",
+      "symbol": "WINU",
+      "name": "WhatInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15827,
-    "minor": 15827,
+    "major": 15828,
+    "minor": 15828,
     "patch": 86
   }
 }
