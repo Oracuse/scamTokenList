@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73AA0641220bc428B1ED2b2Fb6BD24D196119d3f",
-      "symbol": "KOYOSHI",
-      "name": "Koyoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBc9D2D3453E878730a68002B2E2FF34f99838D0F",
       "symbol": "MATSURI",
       "name": "Matsuri",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80C8A188711a37D8cE0Fa4d2088310De8Cb4A8C2",
+      "symbol": "WCC",
+      "name": "WorldCupClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15805,
-    "minor": 15805,
+    "major": 15806,
+    "minor": 15806,
     "patch": 86
   }
 }
