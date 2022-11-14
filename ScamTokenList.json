@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb3412078Cf4968EBe4fbb794E322bB623895e8eF",
-      "symbol": "CBDC",
-      "name": "CBDC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFa3891a5fe48DD5314dB25dC7926f707B5Ce5b12",
       "symbol": "SWEAT",
       "name": "Sweat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8E1aeF757887E4c2251f2925A40D808Ea623C36",
+      "symbol": "PORC",
+      "name": "ProofofReserveClass",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15807,
-    "minor": 15807,
+    "major": 15808,
+    "minor": 15808,
     "patch": 86
   }
 }
