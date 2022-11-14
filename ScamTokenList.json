@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1C99e5118a7C9694FFff3e0e17655E21d135AdDc",
-      "symbol": "CCHAIN",
-      "name": "CAWCHAIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe245061E509c1E62752dD71358dC6459B3e24f01",
       "symbol": "JIZO",
       "name": "JIZO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40Cd19A0C78e7e262af8BF4d5936558190EDa974",
+      "symbol": "BIGNEWS",
+      "name": "TrumpAnnouncement",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15874,
-    "minor": 15874,
+    "major": 15875,
+    "minor": 15875,
     "patch": 86
   }
 }
