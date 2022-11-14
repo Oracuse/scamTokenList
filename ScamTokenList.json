@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x02121902bD70f4258C5743026CFBEAfDA5062dF2",
-      "symbol": "MOON",
-      "name": "TheMoonToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66628BDA4Ef1Fa72f15fBeB01b402E900E7D4a08",
       "symbol": "EGOD20",
       "name": "Egod20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEf3b666d7c49b1575c1Fc1A669De6cfC57399435",
+      "symbol": "SAMI",
+      "name": "SamBankmanFrinu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15891,
-    "minor": 15891,
+    "major": 15892,
+    "minor": 15892,
     "patch": 86
   }
 }
