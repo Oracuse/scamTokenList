@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2a1B490938aca88663Ec11b501470B16b4e38f87",
-      "symbol": "AYATO",
-      "name": "NaoiAyato",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDC2e144A8AFe663DC4100908e3cBF1F105DE94ba",
       "symbol": "SKULLINU",
       "name": "SkullInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x051eE3Ea3f39123B17b20F5fE6Bafe8e53EDDbe3",
+      "symbol": "SINU",
+      "name": "SantaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15823,
-    "minor": 15823,
+    "major": 15824,
+    "minor": 15824,
     "patch": 86
   }
 }
