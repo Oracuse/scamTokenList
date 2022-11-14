@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2130eD3e574D4D05DC98870bC4bd0261A5121a6B",
-      "symbol": "CONNECTIVE",
-      "name": "Connective",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1C99e5118a7C9694FFff3e0e17655E21d135AdDc",
       "symbol": "CCHAIN",
       "name": "CAWCHAIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x304311a5bc434a6Ea07Bf89a6825068F13aE7320",
+      "symbol": "HAPPENED",
+      "name": "WhatHAPPENED",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15873,
-    "minor": 15873,
+    "major": 15874,
+    "minor": 15874,
     "patch": 86
   }
 }
