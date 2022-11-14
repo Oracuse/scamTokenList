@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCFfe20953432513311367EBCfA87042aC955D0D9",
-      "symbol": "EARTH",
-      "name": "earth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a93a0F04846Ab5BEaAfC85b21b8c63BF67fa3De",
       "symbol": "SAIKAI",
       "name": "Saikai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb83a54bd2295a42aCb6894d5b4c6eE9b988fD4aC",
+      "symbol": "WAVE",
+      "name": "WaveLabs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15898,
-    "minor": 15898,
+    "major": 15899,
+    "minor": 15899,
     "patch": 86
   }
 }
