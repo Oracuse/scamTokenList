@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x44A90A71a4A400746272fF092E13dbd6CA4c2b1B",
-      "symbol": "DFLY",
-      "name": "Tombo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6BD766d42E149bDf7474EA65f7B6f0a9eac4f7D6",
       "symbol": "WBOX",
       "name": "WealthBox",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x627B28eB332E730708264CC4b57AcBB99f449c09",
+      "symbol": "WHINU",
+      "name": "WhatInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15810,
-    "minor": 15810,
+    "major": 15811,
+    "minor": 15811,
     "patch": 86
   }
 }
