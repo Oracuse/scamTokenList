@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x034DAC6d278A8443DD678eF96B060b851A12C9C1",
-      "symbol": "TAMONTEN",
-      "name": "Tamonten",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x02121902bD70f4258C5743026CFBEAfDA5062dF2",
       "symbol": "MOON",
       "name": "TheMoonToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB88C935FC7D17cCe0992B82E31F59CDc994b3457",
+      "symbol": "OKACHI",
+      "name": "ShadowOfOkachi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15890,
-    "minor": 15890,
+    "major": 15891,
+    "minor": 15891,
     "patch": 86
   }
 }
