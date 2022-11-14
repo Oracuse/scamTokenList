@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a93a0F04846Ab5BEaAfC85b21b8c63BF67fa3De",
-      "symbol": "SAIKAI",
-      "name": "Saikai",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x40ef7e84f1f3A6cDC642Fb7D331010F8C4217C98",
       "symbol": "DOGEGUARD",
       "name": "DogeGuard",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4154A9d36fA8c1cFC9ba20ed4d2e6Dd02fB02942",
+      "symbol": "LPINU",
+      "name": "LiquidityInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15899,
-    "minor": 15899,
+    "major": 15900,
+    "minor": 15900,
     "patch": 86
   }
 }
