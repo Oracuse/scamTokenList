@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcF1ad8Dd4a354c950CA5A198058AAa40f822bA58",
-      "symbol": "EMAR",
-      "name": "CAUCHEMAR",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4270AB8df304130611f3fD3de76A0455B04e9a4f",
       "symbol": "ASSASIN",
       "name": "EtzioAuditore",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2089ed438021AC6A07b4f814787c02b4E34F109",
+      "symbol": "TEST2",
+      "name": "testtoken2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15884,
-    "minor": 15884,
+    "major": 15885,
+    "minor": 15885,
     "patch": 86
   }
 }
