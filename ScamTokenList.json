@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDd9dBcf7B41B770F23ed75FF9EfBB3f2eA275402",
-      "symbol": "KIBA20",
-      "name": "KIBA20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB0Dd6d17Cd9105E017060e73dFD22f9c186dF046",
       "symbol": "APE20",
       "name": "APE20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeC462b82817dAfb4E384659E83552D3Daabca329",
+      "symbol": "SHIMO",
+      "name": "Shimo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15835,
-    "minor": 15835,
+    "major": 15836,
+    "minor": 15836,
     "patch": 86
   }
 }
