@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEd3DE063C36bc2796dDEB02a65fC37BE1B50B81D",
-      "symbol": "ZKMONEYORG",
-      "name": "zkmoneyorg",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2130eD3e574D4D05DC98870bC4bd0261A5121a6B",
       "symbol": "CONNECTIVE",
       "name": "Connective",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f0340da19CcF50B9cbB34C51e73e675425A9A2c",
+      "symbol": "THECAYMANISLANDS",
+      "name": "TheCaymanIslands",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15872,
-    "minor": 15872,
+    "major": 15873,
+    "minor": 15873,
     "patch": 86
   }
 }
