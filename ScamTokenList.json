@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFa3891a5fe48DD5314dB25dC7926f707B5Ce5b12",
-      "symbol": "SWEAT",
-      "name": "Sweat",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE3EBef94fAB1B3f238e63bdD20e50b93835E6323",
       "symbol": "HINU",
       "name": "HelperInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA2fAEc29A63Df8eB716b2E7B7DCFC56aa2690EAa",
+      "symbol": "WHAT",
+      "name": "WhatProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15808,
-    "minor": 15808,
+    "major": 15809,
+    "minor": 15809,
     "patch": 86
   }
 }
