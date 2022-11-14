@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x567278c2A018dc0e2ACCD85CC78737c5B4875717",
-      "symbol": "SZU",
-      "name": "SHIBAZAMASU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7CD4B0491Bb69070307EaF73f6C5d1151F43703e",
       "symbol": "RYOSHITAKE",
       "name": "Ryoshitake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3E8038f9879B029EcEf2618f8e492FcABB90DF6",
+      "symbol": "JINGLE",
+      "name": "TaleOfSantoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15876,
-    "minor": 15876,
+    "major": 15877,
+    "minor": 15877,
     "patch": 86
   }
 }
