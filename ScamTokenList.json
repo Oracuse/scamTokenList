@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe245061E509c1E62752dD71358dC6459B3e24f01",
-      "symbol": "JIZO",
-      "name": "JIZO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x567278c2A018dc0e2ACCD85CC78737c5B4875717",
       "symbol": "SZU",
       "name": "SHIBAZAMASU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd76b731b2179078FBc853c2c8D147193fE946B4D",
+      "symbol": "WHERE",
+      "name": "WhereProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15875,
-    "minor": 15875,
+    "major": 15876,
+    "minor": 15876,
     "patch": 86
   }
 }
