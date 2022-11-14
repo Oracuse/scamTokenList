@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAFde504a46d63F1b5FdE87748C2151b09F39d098",
-      "symbol": "TSUKA20",
-      "name": "Tsuka20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8146D6afd9D04983cB2c09da9629cc04E5833093",
       "symbol": "KAJIYA",
       "name": "Kajiya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8dA241BEE7878F5Df6a3b6507FE4fFFf404bcf9",
+      "symbol": "WHATP",
+      "name": "WhatProtocol",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15830,
-    "minor": 15830,
+    "major": 15831,
+    "minor": 15831,
     "patch": 86
   }
 }
