@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x77D6B0fBA3562c9F01628C994ea20Eb1eb2BA477",
-      "symbol": "GHOSTAR",
-      "name": "GhostarToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6E47dB702359dE42002fE60f317E0b0b1F6D5671",
       "symbol": "SHUGO",
       "name": "ShinbutsuShugo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C0B670e7b61b4B4be7973Fa298A91D26c5bF65C",
+      "symbol": "REC",
+      "name": "Recognize",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15803,
-    "minor": 15803,
+    "major": 15804,
+    "minor": 15804,
     "patch": 86
   }
 }
