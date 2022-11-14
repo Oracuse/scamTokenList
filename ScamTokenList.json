@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8FE60c0F29cA2832C0f90C2ffC538403f15048B3",
-      "symbol": "KURO",
-      "name": "Kurozumikyo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAFA5213b6DBE8fDF74fc1752a1Da7CcDccDd0426",
       "symbol": "FPS",
       "name": "FPSDOUGCOIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE896Ec6d491A7CB6DCEA7E9A33f64B527a389365",
+      "symbol": "POB",
+      "name": "ProofofBoner",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15902,
-    "minor": 15902,
+    "major": 15903,
+    "minor": 15903,
     "patch": 86
   }
 }
