@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x96B0cC9ef7ed7d6c33324E2E059818656Be19010",
-      "symbol": "AWARER",
-      "name": "AwarerMetaverse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5173600d3151BcD1614fdbD01bA508077fa672c5",
       "symbol": "SANQING",
       "name": "ThreePureOnes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x636F36D9751058d5882827F3367eA0B4b0D0AB1d",
+      "symbol": "IMPLE",
+      "name": "Simple",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15799,
-    "minor": 15799,
+    "major": 15800,
+    "minor": 15800,
     "patch": 86
   }
 }
