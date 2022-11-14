@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2656f02bc30427Ed9d380E20CEc5E04F5a7A50FE",
-      "symbol": "SLOUGI",
-      "name": "SLOUGI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEd3DE063C36bc2796dDEB02a65fC37BE1B50B81D",
       "symbol": "ZKMONEYORG",
       "name": "zkmoneyorg",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fAa4f2a3DcCf9e632AB31A09Afb17D5289c497f",
+      "symbol": "HP",
+      "name": "HappenedProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15871,
-    "minor": 15871,
+    "major": 15872,
+    "minor": 15872,
     "patch": 86
   }
 }
