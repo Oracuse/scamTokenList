@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAA7D7Bcd818Ef9610Efe1b41A3dfe0B2AEE96A72",
-      "symbol": "TOOTSEE",
-      "name": "TootseeRoll",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8FE60c0F29cA2832C0f90C2ffC538403f15048B3",
       "symbol": "KURO",
       "name": "Kurozumikyo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaD9647B21c3Ffe5d229821Ada950a90B4A95863a",
+      "symbol": "SNOWDEN",
+      "name": "SnowdenInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15901,
-    "minor": 15901,
+    "major": 15902,
+    "minor": 15902,
     "patch": 86
   }
 }
