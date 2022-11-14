@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x46508c419D5415bB050590eD43Bf3202D4E2cc18",
-      "symbol": "SHIBIMON",
-      "name": "Shibimon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4e7F3e034b50666142F1D995F7a8C3fea576a183",
       "symbol": "HNT",
       "name": "HyperNation",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B4079b33b1C78927D6DB049a8E435955d7977b0",
+      "symbol": "HINU",
+      "name": "HInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15820,
-    "minor": 15820,
+    "major": 15821,
+    "minor": 15821,
     "patch": 86
   }
 }
