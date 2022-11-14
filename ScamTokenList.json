@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB0Dd6d17Cd9105E017060e73dFD22f9c186dF046",
-      "symbol": "APE20",
-      "name": "APE20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa65886f17B223bB3B74e93E9A5cddDB1e7457f36",
       "symbol": "VAULT",
       "name": "TehVault",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB98A69A8aa88A79Ad095e9946ee6449B28431BE0",
+      "symbol": "BCS",
+      "name": "BCSAUL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15836,
-    "minor": 15836,
+    "major": 15837,
+    "minor": 15837,
     "patch": 86
   }
 }
