@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE3EBef94fAB1B3f238e63bdD20e50b93835E6323",
-      "symbol": "HINU",
-      "name": "HelperInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x44A90A71a4A400746272fF092E13dbd6CA4c2b1B",
       "symbol": "DFLY",
       "name": "Tombo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x826870b2EAb10a495460BFb402Ba514d361669F6",
+      "symbol": "THEFUCK",
+      "name": "What",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15809,
-    "minor": 15809,
+    "major": 15810,
+    "minor": 15810,
     "patch": 86
   }
 }
