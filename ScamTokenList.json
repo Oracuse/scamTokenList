@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4e7F3e034b50666142F1D995F7a8C3fea576a183",
-      "symbol": "HNT",
-      "name": "HyperNation",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe71D80AA373235E622072f811beB317997Fd49cD",
       "symbol": "JURO",
       "name": "Jurojin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f809C096eBC1339e77d247BEd3871224b07E36e",
+      "symbol": "H",
+      "name": "HProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15821,
-    "minor": 15821,
+    "major": 15822,
+    "minor": 15822,
     "patch": 86
   }
 }
