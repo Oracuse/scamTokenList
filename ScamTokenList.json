@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36587E447587481923b3C9cfB1B5C835EF9f1771",
-      "symbol": "RIKI",
-      "name": "JINCHURIKI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaaAD244970c16E1FEdF295Af8fC681ABB47F4a8C",
       "symbol": "MAGENTA",
       "name": "Magenta",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28D8F1CDF8004385F7815D87c5F7DE8b8A520140",
+      "symbol": "CZ",
+      "name": "CZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15795,
-    "minor": 15795,
+    "major": 15796,
+    "minor": 15796,
     "patch": 86
   }
 }
