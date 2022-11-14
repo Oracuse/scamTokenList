@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3668Ad9038157c726743e449f2a5bAa5d80a502c",
-      "symbol": "GTA",
-      "name": "TheGoldenTale",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x243d3DfeEa76857D47CB206dF904c734B37994aF",
       "symbol": "VOID",
       "name": "IntoTheVoid",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12878432677aa7745A067c1779BD696837D8f591",
+      "symbol": "WB",
+      "name": "WhiteBall",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15878,
-    "minor": 15878,
+    "major": 15879,
+    "minor": 15879,
     "patch": 86
   }
 }
