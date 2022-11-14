@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBc9D2D3453E878730a68002B2E2FF34f99838D0F",
-      "symbol": "MATSURI",
-      "name": "Matsuri",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb3412078Cf4968EBe4fbb794E322bB623895e8eF",
       "symbol": "CBDC",
       "name": "CBDC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48C9Ac58fF80018c221DEb939536Da7d5B968289",
+      "symbol": "TOC",
+      "name": "TaleOfCZ",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15806,
-    "minor": 15806,
+    "major": 15807,
+    "minor": 15807,
     "patch": 86
   }
 }
