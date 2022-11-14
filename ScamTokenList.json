@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xae289877a983cAc614D89E9a92FdD8B183Fe14B5",
-      "symbol": "CAW20",
-      "name": "AHuntersDream20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7E6DAce84b43F0CBf7002c6EBe663aaEc3D4A47e",
       "symbol": "CULT30",
       "name": "Cult30",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8DFb411f9c29bE9b1F1c0568a213F032224FBfF8",
+      "symbol": "ZERO",
+      "name": "ZeroCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15839,
-    "minor": 15839,
+    "major": 15840,
+    "minor": 15840,
     "patch": 86
   }
 }
