@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3dbe3B966Ee59F653Da09037279Db9485135d2Ed",
-      "symbol": "CRUS",
-      "name": "CROESUS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38AdD78C2FFc1b095FCb9cf7500f1BA61BB0B20C",
       "symbol": "DEGENINDEX",
       "name": "DegenIndex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19CCe203a8563Df72fcc17fea1f5D4d7De5b8e40",
+      "symbol": "GAINS",
+      "name": "DeFiSummer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15825,
-    "minor": 15825,
+    "major": 15826,
+    "minor": 15826,
     "patch": 86
   }
 }
