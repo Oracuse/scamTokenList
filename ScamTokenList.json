@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1A031043597F118115e4C08493c44344Dd4220f3",
-      "symbol": "KARMA",
-      "name": "Karma",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5d7B6d68e5e2d6aE19c7c3fDFfBaD89DBA74c3a3",
       "symbol": "SKR",
       "name": "SAKURU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x674FB3451fC179Aa52d880B5909e3E9F34e71186",
+      "symbol": "DAU",
+      "name": "DegenAmongUs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15880,
-    "minor": 15880,
+    "major": 15881,
+    "minor": 15881,
     "patch": 86
   }
 }
