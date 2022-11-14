@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf2Ec529B9baf021F7e066d91dAfA18aEba248aA8",
-      "symbol": "TSUKA20",
-      "name": "TSUKA20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x60449673374670DDbb8559607fc8Ac24ED0aF7b6",
       "symbol": "BABYDOGE20",
       "name": "BabyDogeCoin20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC08568376B53e5fFC03Edd7Db4D294628281f837",
+      "symbol": "DSI",
+      "name": "DontSellInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15832,
-    "minor": 15832,
+    "major": 15833,
+    "minor": 15833,
     "patch": 86
   }
 }
