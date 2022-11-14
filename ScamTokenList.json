@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x639D83179B192D19b3F6aD2dc7E4872c99B59833",
-      "symbol": "KOCHIKAI",
-      "name": "KODACHIAKAI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBC64B7CCA2d3E8FEf37E1f8Caa9E5954FC5cbb5d",
       "symbol": "MIT",
       "name": "Mitsuki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52A3496dDc004c85c9a536788897e12Ce12f805C",
+      "symbol": "OTTO",
+      "name": "OttobrataRomana",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15801,
-    "minor": 15801,
+    "major": 15802,
+    "minor": 15802,
     "patch": 86
   }
 }
