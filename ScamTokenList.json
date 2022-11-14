@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2717b501B150094e419beF345F56f8887850B3f8",
-      "symbol": "HRD",
-      "name": "Hoard",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19a161648053135fd8e29993295d5D93b45364b5",
       "symbol": "CVTC",
       "name": "CVTC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDCb015F15E687953Eb3B49964C709326bE3b16aa",
+      "symbol": "TOR",
+      "name": "TaleOfReserve",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15855,
-    "minor": 15855,
+    "major": 15856,
+    "minor": 15856,
     "patch": 86
   }
 }
