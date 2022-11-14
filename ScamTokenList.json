@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66628BDA4Ef1Fa72f15fBeB01b402E900E7D4a08",
-      "symbol": "EGOD20",
-      "name": "Egod20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x773A77F5097b53327ec9BD9F959c3A82e030c81a",
       "symbol": "YAMAINU",
       "name": "YamaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x474E2F8fa8aBC0e96036F3dc4405538f291239db",
+      "symbol": "PLAYER",
+      "name": "FIFAWorldPlayerofth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15892,
-    "minor": 15892,
+    "major": 15893,
+    "minor": 15893,
     "patch": 86
   }
 }
