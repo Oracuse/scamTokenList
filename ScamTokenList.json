@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCc61Ae218ff9a89DC1e7C39E58926a150EB3d671",
-      "symbol": "VOLTZ",
-      "name": "LightningChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x29b7B62D13881DB670b62225e0d104e12144f7C7",
       "symbol": "AUTO",
       "name": "Automated",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1A355a72e7e90A0De8b1f28E50079361CB4a620",
+      "symbol": "RABBIT",
+      "name": "Rabbit2023",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15853,
-    "minor": 15853,
+    "major": 15854,
+    "minor": 15854,
     "patch": 86
   }
 }
