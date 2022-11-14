@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7CD4B0491Bb69070307EaF73f6C5d1151F43703e",
-      "symbol": "RYOSHITAKE",
-      "name": "Ryoshitake",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3668Ad9038157c726743e449f2a5bAa5d80a502c",
       "symbol": "GTA",
       "name": "TheGoldenTale",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c9d1541f647E5A428992019A857e67805f6c38C",
+      "symbol": "HOIKA",
+      "name": "HOIKA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15877,
-    "minor": 15877,
+    "major": 15878,
+    "minor": 15878,
     "patch": 86
   }
 }
