@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF95A8Aa4f2f0431c989EC57AEC2a534719Fd5E77",
-      "symbol": "SWEAT",
-      "name": "SweatEconomy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x034DAC6d278A8443DD678eF96B060b851A12C9C1",
       "symbol": "TAMONTEN",
       "name": "Tamonten",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E978F7C824ce81C6D335D733B7825bCa9dE945b",
+      "symbol": "SAM",
+      "name": "Samtoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15889,
-    "minor": 15889,
+    "major": 15890,
+    "minor": 15890,
     "patch": 86
   }
 }
