@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x02A2d60809563bc5e0eFCe5f552aCd034c665e20",
-      "symbol": "MUSK",
-      "name": "Gasoline",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x36587E447587481923b3C9cfB1B5C835EF9f1771",
       "symbol": "RIKI",
       "name": "JINCHURIKI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e820a9B7BaE2F90d4c914019dA84C566349c13c",
+      "symbol": "TOE",
+      "name": "TaleOfEth",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15794,
-    "minor": 15794,
+    "major": 15795,
+    "minor": 15795,
     "patch": 86
   }
 }
