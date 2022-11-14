@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbBb60198f4c232Da51B61B95E3Cf2069214C515F",
-      "symbol": "KUCOIN2",
-      "name": "Kucoinv20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x484d862cD3c074d701a869f9379a90b3EF502FB5",
       "symbol": "SHIFU",
       "name": "ShifuTheMaster",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C9282EC69f112f38011D4BEFafCCb2CFDB828A5",
+      "symbol": "P",
+      "name": "PProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15869,
-    "minor": 15869,
+    "major": 15870,
+    "minor": 15870,
     "patch": 86
   }
 }
