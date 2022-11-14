@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE08615810B872266fF1afe7B50CCDD163333b88D",
-      "symbol": "ORGU",
-      "name": "Orgulous",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCFfe20953432513311367EBCfA87042aC955D0D9",
       "symbol": "EARTH",
       "name": "earth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1f8aD437bFaDC5d2F42A4126403EE6c4200eE4E",
+      "symbol": "MTLS",
+      "name": "moontoolsnet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15897,
-    "minor": 15897,
+    "major": 15898,
+    "minor": 15898,
     "patch": 86
   }
 }
