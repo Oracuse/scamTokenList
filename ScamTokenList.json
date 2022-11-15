@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x16e810db7C097a27D5822727eBC69211d7Df239f",
-      "symbol": "MERGED",
-      "name": "MergeLoading",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB0E701a2CaA80c3Ea4D396f3BA913bdBf93a61C5",
       "symbol": "AKAIBARA",
       "name": "Akaibara",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B9061F463538AA68B21715E02538C72cD2374F7",
+      "symbol": "DHI",
+      "name": "DontHODLINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16011,
-    "minor": 16011,
+    "major": 16012,
+    "minor": 16012,
     "patch": 86
   }
 }
