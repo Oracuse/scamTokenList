@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x16838f7543BC883EB4138DCF5A4651F4e2109425",
-      "symbol": "LUNI",
-      "name": "WrappedLUNAToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0B76f659c32853c171D4cf64E092eC378dbfFAFB",
       "symbol": "COL",
       "name": "CultofLusohin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c7741C1e9e0EA478A2A7Bb5eE5b43d0014e70d6",
+      "symbol": "INFLATION",
+      "name": "InflationInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15972,
-    "minor": 15972,
+    "major": 15973,
+    "minor": 15973,
     "patch": 86
   }
 }
