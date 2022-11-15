@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x573D111777C5b7280Ad89A50712f1D49E02b756d",
-      "symbol": "INIMICIUM",
-      "name": "CasusBelli",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x205BeE9535cDE6dE6dfBBB04BD64136A55750bb8",
       "symbol": "MTI",
       "name": "MTI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb98D03422e977ec1b6c3344Bfa4476430414359B",
+      "symbol": "MAS",
+      "name": "Mastodon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15959,
-    "minor": 15959,
+    "major": 15960,
+    "minor": 15960,
     "patch": 86
   }
 }
