@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA9FA09C7b2C56893DF87263E94ddC9085BDbd43c",
-      "symbol": "SHIBAMINE",
-      "name": "ShibaMine",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0CF328176A7772de30148e2a38F40B4E228d9986",
       "symbol": "KIJA",
       "name": "Yokija",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7AF479c073f03380599EC23B6C5d90F3AB55d37",
+      "symbol": "TBH",
+      "name": "ToBeHonest",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16034,
-    "minor": 16034,
+    "major": 16035,
+    "minor": 16035,
     "patch": 86
   }
 }
