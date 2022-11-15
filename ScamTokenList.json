@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53eA617D04bf56a56Be18f337Ba65fAf674733B4",
-      "symbol": "MURAMASA",
-      "name": "TheDemonBlade",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf291C2acA5D491D3444e55FB9530b6d8CA0BD21D",
       "symbol": "MERGELON",
       "name": "MergelonETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA07c2B835171e29a11f33aA4E119F21747c0EA7F",
+      "symbol": "BRU",
+      "name": "TheBillionRun",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16006,
-    "minor": 16006,
+    "major": 16007,
+    "minor": 16007,
     "patch": 86
   }
 }
