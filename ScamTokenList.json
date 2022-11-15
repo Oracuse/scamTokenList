@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x09Df9669A600828c4909Ee9924D593Fce69bA0D6",
-      "symbol": "TSUCHIGUMO",
-      "name": "Tsuchigumo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfe66B19c44Be9772F5C4a8621652ae86c92A6a81",
       "symbol": "FLASH",
       "name": "FLASH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x267F9768F2d8e6E357b3AD62Db3E33Dc809a4E4c",
+      "symbol": "DAI",
+      "name": "DONTAPEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15961,
-    "minor": 15961,
+    "major": 15962,
+    "minor": 15962,
     "patch": 86
   }
 }
