@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6f31C64dAA49eca98e5C02cC2e64639aE054E7fc",
-      "symbol": "JIZO",
-      "name": "Jizo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE26126bc544d5B36bf77C8657434Cc9b1e1b126A",
       "symbol": "NIO",
       "name": "TehNioGuardian",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe05F4077c6B92479cb44669246eECd78219945b1",
+      "symbol": "LOCKER",
+      "name": "LOCKER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15910,
-    "minor": 15910,
+    "major": 15911,
+    "minor": 15911,
     "patch": 86
   }
 }
