@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeCb1bFAD8aF54dfc3927f5Cd11882C5Fed937923",
-      "symbol": "MOICHI",
-      "name": "Moichi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1e648c02918c39569CD782948480110Cc7947620",
       "symbol": "M",
       "name": "MergeSquared",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeF11Bd93357847d6aE24246E2d36Ed1A72Ab7757",
+      "symbol": "DSI",
+      "name": "DontSnipeInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16002,
-    "minor": 16002,
+    "major": 16003,
+    "minor": 16003,
     "patch": 86
   }
 }
