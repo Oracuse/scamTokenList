@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5F15F8e6487c7e2cAbD2a5F543C0ee1D2ef70179",
-      "symbol": "UZU",
-      "name": "UZUKI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3db1BAd1f05B1D2079DC2EeeD690A47d8f89c261",
       "symbol": "RYOKO",
       "name": "Ryoko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe96c6a4b62dDd087dd50d63b5AB4241140980b6a",
+      "symbol": "INUGEN",
+      "name": "InugamiGuren",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15952,
-    "minor": 15952,
+    "major": 15953,
+    "minor": 15953,
     "patch": 86
   }
 }
