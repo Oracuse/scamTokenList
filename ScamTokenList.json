@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6e7C041F31f662463d5BD91593D9608117d24Be7",
-      "symbol": "LIQUIDITY",
-      "name": "LiquidityDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd93C027B523328c3E9c82Dc992435AF5b95667e2",
       "symbol": "OKIKIBA",
       "name": "Okikiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc93119A805f0e809d08f91d0F298ee08E80CDf9A",
+      "symbol": "NCNP",
+      "name": "NounishCNP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15936,
-    "minor": 15936,
+    "major": 15937,
+    "minor": 15937,
     "patch": 86
   }
 }
