@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xba6971F467A9cb239c0b90cf6E73d3C63547613B",
-      "symbol": "AOSHUN",
-      "name": "BlackDragon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50f24eF0B7B6B32Aa3230ca582b2EB3f68Dfd453",
       "symbol": "TAME",
       "name": "MinamotonoTametomo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4e00D128FF7003cBd829CC16F2420e927C4FdB8",
+      "symbol": "HOSHIE",
+      "name": "HoshiResearch",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16044,
-    "minor": 16044,
+    "major": 16045,
+    "minor": 16045,
     "patch": 86
   }
 }
