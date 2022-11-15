@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x94B97E33D077E730979EDF45CC8312557e28E853",
-      "symbol": "YORI",
-      "name": "YORI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6f31C64dAA49eca98e5C02cC2e64639aE054E7fc",
       "symbol": "JIZO",
       "name": "Jizo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC5E8Af12a07A50740927Ef69D13C1cabDf413045",
+      "symbol": "DGC",
+      "name": "DogeClasic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15909,
-    "minor": 15909,
+    "major": 15910,
+    "minor": 15910,
     "patch": 86
   }
 }
