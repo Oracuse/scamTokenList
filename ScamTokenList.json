@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfe66B19c44Be9772F5C4a8621652ae86c92A6a81",
-      "symbol": "FLASH",
-      "name": "FLASH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9250a5cd766f464888dd0dD74390F5a314918701",
       "symbol": "TWIRL",
       "name": "Twirl",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a10aBd5F2B9BD278ac6Df80BcF7e6F01c97305b",
+      "symbol": "CONT",
+      "name": "CONTAGION",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15962,
-    "minor": 15962,
+    "major": 15963,
+    "minor": 15963,
     "patch": 86
   }
 }
