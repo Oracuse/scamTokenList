@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67E5C74459ecb6e3C553f0Cb227B8a8A6A7aF8B5",
-      "symbol": "MERGELON",
-      "name": "MergelonETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x34e10790bA08eCacfFCf807d8a6a5BF9498bf4A7",
       "symbol": "CENTAUR",
       "name": "Centaur",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96beaA1316f85fD679ec49e5A63DaCc293B044be",
+      "symbol": "TINA",
+      "name": "ThisIsNotAlpha",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16015,
-    "minor": 16015,
+    "major": 16016,
+    "minor": 16016,
     "patch": 86
   }
 }
