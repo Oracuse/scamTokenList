@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbC17B9e92Dee22B1426283b9bc382667d111Fe38",
-      "symbol": "ASHI",
-      "name": "Ashikaga",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x94B97E33D077E730979EDF45CC8312557e28E853",
       "symbol": "YORI",
       "name": "YORI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32cC9fa9977ec44bb3cA561787deEbBC731C956b",
+      "symbol": "PPA",
+      "name": "PsychedelicPapayaAp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15908,
-    "minor": 15908,
+    "major": 15909,
+    "minor": 15909,
     "patch": 86
   }
 }
