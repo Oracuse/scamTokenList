@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB0E701a2CaA80c3Ea4D396f3BA913bdBf93a61C5",
-      "symbol": "AKAIBARA",
-      "name": "Akaibara",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x788d57BCDB720dfB7E339efe283EF71af445A71E",
       "symbol": "TECHIE",
       "name": "TechieInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d26A9bD2F292c5d3B2C387d6C53e3315809688a",
+      "symbol": "SERUM",
+      "name": "Serum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16012,
-    "minor": 16012,
+    "major": 16013,
+    "minor": 16013,
     "patch": 86
   }
 }
