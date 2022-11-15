@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7253AD0DdbE722172a86532f8b146c20cc5c511B",
-      "symbol": "GHOSTWHALE",
-      "name": "BakeKujira",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x573D111777C5b7280Ad89A50712f1D49E02b756d",
       "symbol": "INIMICIUM",
       "name": "CasusBelli",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd703B36766b707B5b079Eb3469754Fa2afadbE4",
+      "symbol": "DYOR",
+      "name": "DYORBeforeBuyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15958,
-    "minor": 15958,
+    "major": 15959,
+    "minor": 15959,
     "patch": 86
   }
 }
