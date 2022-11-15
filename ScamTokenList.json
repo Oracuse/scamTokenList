@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x85BF82ec18aa871839655673CbAC27aBEA94b95c",
-      "symbol": "LIQUIDITY",
-      "name": "LiquidityDao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6E8D93ea79B187c061A6Cda5e2Fe7c6800Fe48e4",
       "symbol": "TOMOEGOZEN",
       "name": "TomoeGozen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92Fea860b425Fc396d2Db48191e3eFf549bF51B0",
+      "symbol": "BEAR",
+      "name": "Grizzly",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15934,
-    "minor": 15934,
+    "major": 15935,
+    "minor": 15935,
     "patch": 86
   }
 }
