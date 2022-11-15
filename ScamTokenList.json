@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2087Bcd71720E1BC7E814D2420C1ECF88E366940",
-      "symbol": "SHIKAI",
-      "name": "Kurosaki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7aeFa2266FF7219a416a08cfFD1655AC6b8f15F7",
       "symbol": "JEET",
       "name": "Victory",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98B424028902472c1042448d8f9103CBe40EcD94",
+      "symbol": "PK",
+      "name": "PrivateKeys",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16027,
-    "minor": 16027,
+    "major": 16028,
+    "minor": 16028,
     "patch": 86
   }
 }
