@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB84036E0Dab918D1DaC901D87c6694Ae61DF87eD",
-      "symbol": "SEPPUKU",
-      "name": "RyoshisSuicide",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7253AD0DdbE722172a86532f8b146c20cc5c511B",
       "symbol": "GHOSTWHALE",
       "name": "BakeKujira",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x793194E74dC3E8996491FF72241FAD0d1EC65D54",
+      "symbol": "LBI",
+      "name": "LiquidityBurnInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15957,
-    "minor": 15957,
+    "major": 15958,
+    "minor": 15958,
     "patch": 86
   }
 }
