@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBc3c195893b4AE1Bd0F4C5010B038558266A486A",
-      "symbol": "FURY",
-      "name": "WindsofFury",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd634B5CE8e1B37534895e877163788d6C3422bcd",
       "symbol": "ELIXIR",
       "name": "Elixir",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70dE375C0c9b944D6A6C326f85E18aed4d174965",
+      "symbol": "TEST",
+      "name": "test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15920,
-    "minor": 15920,
+    "major": 15921,
+    "minor": 15921,
     "patch": 86
   }
 }
