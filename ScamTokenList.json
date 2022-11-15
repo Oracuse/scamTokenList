@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3db1BAd1f05B1D2079DC2EeeD690A47d8f89c261",
-      "symbol": "RYOKO",
-      "name": "Ryoko",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2556a346a04b667612A09183e495816E30bCE0Fd",
       "symbol": "CPI",
       "name": "ConsumerPriceInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x614626661CFEa25Fe9377AF95931C8Df73b56472",
+      "symbol": "MATCHDAY",
+      "name": "Matchday",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15953,
-    "minor": 15953,
+    "major": 15954,
+    "minor": 15954,
     "patch": 86
   }
 }
