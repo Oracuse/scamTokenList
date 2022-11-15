@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEFD3CF86277A86fB2aF39B2e0DC8F9D7cbAF9EF7",
-      "symbol": "KOHEI",
-      "name": "Kohei",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbB1C74149Ac60CF4171245061c3d157054112164",
       "symbol": "NOVA",
       "name": "NOVA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64B5F095709d168A432Aa114F1972004C1E2D70A",
+      "symbol": "KARATESHIBU",
+      "name": "KarateShibu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16022,
-    "minor": 16022,
+    "major": 16023,
+    "minor": 16023,
     "patch": 86
   }
 }
