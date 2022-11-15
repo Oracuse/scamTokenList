@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc9888d56A2500abb7ebb3D1FB55e36c7a181da04",
-      "symbol": "YOKIJA",
-      "name": "Yokija",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x56FBbE1935D5b1c61010fA9c6F33f7E727d437C9",
       "symbol": "APARTHEID",
       "name": "Township",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc89D27463394107F6E04CbC5fec9aEe05F8DCC77",
+      "symbol": "DIFF",
+      "name": "TheDifference",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16000,
-    "minor": 16000,
+    "major": 16001,
+    "minor": 16001,
     "patch": 86
   }
 }
