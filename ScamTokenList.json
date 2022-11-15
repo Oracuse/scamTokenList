@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5d4599fA45409BCbE6CE05E03d07C3d06C9B1d67",
-      "symbol": "SHIJI",
-      "name": "Koshiji",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x11cEBE8AFe7B66D76e697FF561ed71B47E3ac415",
       "symbol": "FORTUNE",
       "name": "Fortune",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4cA7688913BeEb7F9303494c20C814CA1847faf6",
+      "symbol": "NCP",
+      "name": "NoCap",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15917,
-    "minor": 15917,
+    "major": 15918,
+    "minor": 15918,
     "patch": 86
   }
 }
