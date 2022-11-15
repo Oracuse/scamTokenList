@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEa01b6169a165329bFEF5C4904aDF2eeFE053a89",
-      "symbol": "DOWN",
-      "name": "TheRabbitHole",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE4788d3cD6aBc250f22b077Cbf1846E27Cf822eB",
       "symbol": "NAMELESS",
       "name": "thenameless",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcF68c12466C3FBEe4E4237A177f7aAD2b4f68C53",
+      "symbol": "SHINIGAMI",
+      "name": "Shinigami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15939,
-    "minor": 15939,
+    "major": 15940,
+    "minor": 15940,
     "patch": 86
   }
 }
