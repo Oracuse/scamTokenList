@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x34e10790bA08eCacfFCf807d8a6a5BF9498bf4A7",
-      "symbol": "CENTAUR",
-      "name": "Centaur",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5E08b54A09D137754e094506f52C8653bf15652A",
       "symbol": "SINU",
       "name": "SushiswapInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE4638ee037c4cF9D155f07D556B4Fc3A1AF9B3bC",
+      "symbol": "GOBBLE",
+      "name": "GobbleGobble",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16016,
-    "minor": 16016,
+    "major": 16017,
+    "minor": 16017,
     "patch": 86
   }
 }
