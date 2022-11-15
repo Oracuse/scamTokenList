@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFB063c1ABE5696d322a8432Df47D6EEeAEe2a2cD",
-      "symbol": "SHAITAN",
-      "name": "ShaitanInu",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5ed0C2a0390196118CA525c6f4e88C6e9F0eD657",
       "symbol": "DOBBY",
       "name": "TheHouseElf",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x670F513159019EA8B3C8F37aBfbD57547C86D771",
+      "symbol": "BDBI",
+      "name": "BabyDontBuyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15988,
-    "minor": 15988,
+    "major": 15989,
+    "minor": 15989,
     "patch": 86
   }
 }
