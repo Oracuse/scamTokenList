@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x33332BB8A00d544DC631267cc314BdAf5f06FD50",
-      "symbol": "MAXI",
-      "name": "MAXINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50f4C01D782db8221DE914cBbe163D892a96d00B",
       "symbol": "MAXI",
       "name": "MAXINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x630271aA5914558581b90F431236eA019AD53687",
+      "symbol": "DRI",
+      "name": "DontRugInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16030,
-    "minor": 16030,
+    "major": 16031,
+    "minor": 16031,
     "patch": 86
   }
 }
