@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe300cd540240C2667928682eE4591610f9F4cBE7",
-      "symbol": "KAGOSHIMA",
-      "name": "Kagoshima",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88716a119e1b0330fc2B332822Bf598C8B383Fbc",
       "symbol": "FUTSU",
       "name": "Futsunushi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE677Dd9E5a27f3f7184022f3f9faD37F8a207203",
+      "symbol": "DUDU",
+      "name": "DuDuLabNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15926,
-    "minor": 15926,
+    "major": 15927,
+    "minor": 15927,
     "patch": 86
   }
 }
