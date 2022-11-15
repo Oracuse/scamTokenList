@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBf889F93d40011ea12A25D71958E6c5054756BEF",
-      "symbol": "SUKE",
-      "name": "Kosuke",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9289ac647D8F1430322013fe3E0a98b9CBE9b02F",
       "symbol": "KAL",
       "name": "TheDragonKal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x041c7065e055F33c92100BAC04d185Fe48eccD96",
+      "symbol": "MOONTV",
+      "name": "MoonTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15974,
-    "minor": 15974,
+    "major": 15975,
+    "minor": 15975,
     "patch": 86
   }
 }
