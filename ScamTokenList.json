@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe849D5d00d32284BCe4cCCB506A24B101efb34D9",
-      "symbol": "ODIE",
-      "name": "TheUltimateDog",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8326972f60B886EDe96499A19E0F9a9d1DCaBe65",
       "symbol": "KOGA",
       "name": "Kogarashi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B3c3aC7EC6F92DFED90115d8D6AafC1E8692E9C",
+      "symbol": "8B",
+      "name": "8Billion",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15968,
-    "minor": 15968,
+    "major": 15969,
+    "minor": 15969,
     "patch": 86
   }
 }
