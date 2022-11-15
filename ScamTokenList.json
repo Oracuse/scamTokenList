@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x50dE20eCF624de44d0e9a98562fe12272FFb059A",
-      "symbol": "MAXI",
-      "name": "MaxInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEFD3CF86277A86fB2aF39B2e0DC8F9D7cbAF9EF7",
       "symbol": "KOHEI",
       "name": "Kohei",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D6b9290259597D6fF6054A178E40E8ce1d42ea5",
+      "symbol": "NYF",
+      "name": "NewYearFloki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16021,
-    "minor": 16021,
+    "major": 16022,
+    "minor": 16022,
     "patch": 86
   }
 }
