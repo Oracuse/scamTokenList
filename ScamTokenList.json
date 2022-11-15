@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60F5B10bC46Ccf55576eb65DB77dA848B2De6C39",
-      "symbol": "BISHAMON",
-      "name": "TobatsuBishamon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF2dED4B65696ab3c4527Da524D960CdBB279E535",
       "symbol": "HYDRAS",
       "name": "LesHydres",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7966aB6eA4191Ae19FE4C9a6A997Fa5F8ccEA5a1",
+      "symbol": "POSC",
+      "name": "ProofofShitCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15966,
-    "minor": 15966,
+    "major": 15967,
+    "minor": 15967,
     "patch": 86
   }
 }
