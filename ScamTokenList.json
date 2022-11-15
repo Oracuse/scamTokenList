@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0ea29288c07d1eE8935CFCb31d9c44A067Df6770",
-      "symbol": "SHIGZU",
-      "name": "SHIGEKAZU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbC17B9e92Dee22B1426283b9bc382667d111Fe38",
       "symbol": "ASHI",
       "name": "Ashikaga",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc33130811b4704F23aDC10fBe84E10Fdc9D914E2",
+      "symbol": "NOFAP",
+      "name": "NOFAP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15907,
-    "minor": 15907,
+    "major": 15908,
+    "minor": 15908,
     "patch": 86
   }
 }
