@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56FBbE1935D5b1c61010fA9c6F33f7E727d437C9",
-      "symbol": "APARTHEID",
-      "name": "Township",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeCb1bFAD8aF54dfc3927f5Cd11882C5Fed937923",
       "symbol": "MOICHI",
       "name": "Moichi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10A85a72e76219d60c073943386597316315d28d",
+      "symbol": "BABYPOM",
+      "name": "BabyPomeranian",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16001,
-    "minor": 16001,
+    "major": 16002,
+    "minor": 16002,
     "patch": 86
   }
 }
