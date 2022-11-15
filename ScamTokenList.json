@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8C0dBEb644B838Ef20CA47185F7350341b9de9A3",
-      "symbol": "POTION",
-      "name": "Potion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBc3c195893b4AE1Bd0F4C5010B038558266A486A",
       "symbol": "FURY",
       "name": "WindsofFury",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0631B33FF6B633DB11D6bf69c81c0CdFf502a325",
+      "symbol": "SAME",
+      "name": "SAME",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15919,
-    "minor": 15919,
+    "major": 15920,
+    "minor": 15920,
     "patch": 86
   }
 }
