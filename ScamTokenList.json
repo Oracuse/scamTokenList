@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9130256924b78753c146Fd8aC7284567C7f9DD45",
-      "symbol": "RAMEN",
-      "name": "IchirakuRamen",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8B36cD6635D4Be94C447399175B6eCc5Ce37D6c1",
       "symbol": "SHIJI",
       "name": "Shijira",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFD2BcB5Da2FDE84A7695a33E6A0CD6075Bf90485",
+      "symbol": "CULTCAI",
+      "name": "CultCai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15983,
-    "minor": 15983,
+    "major": 15984,
+    "minor": 15984,
     "patch": 86
   }
 }
