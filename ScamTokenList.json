@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x68e58d0eF2B63F09483Df7643b5052da249B2eDa",
-      "symbol": "404",
-      "name": "ERRORCODE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2c53a38F998F3EBFa5A11542Cb677ABD53B2676f",
       "symbol": "FZI",
       "name": "FZI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x560a005A713749A9a3cfE373525D05B534F2d96D",
+      "symbol": "DHI",
+      "name": "DontHoldInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15978,
-    "minor": 15978,
+    "major": 15979,
+    "minor": 15979,
     "patch": 86
   }
 }
