@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9250a5cd766f464888dd0dD74390F5a314918701",
-      "symbol": "TWIRL",
-      "name": "Twirl",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa360596E3bB12B8A8bBD99557435e910c927C41C",
       "symbol": "CLIODHNA",
       "name": "CLIODHNA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x408CC66A6bd746916639CCf487c1dAa4C2345D2a",
+      "symbol": "DAI",
+      "name": "DontApeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 15963,
-    "minor": 15963,
+    "major": 15964,
+    "minor": 15964,
     "patch": 86
   }
 }
