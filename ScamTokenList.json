@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7b209359a15eaC6d5dF22eC3dEa2EA547A4b3542",
-      "symbol": "SMTN",
-      "name": "Samaritan",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x364E1C4774087A11D3DE117eb7109a54C3Cfe10d",
       "symbol": "SACHIKO",
       "name": "ChildOfBliss",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf37A233FdEc2F7E1e91D1b2332891Cd328AEd2c5",
+      "symbol": "BCT",
+      "name": "BitChainToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15995,
-    "minor": 15995,
+    "major": 15996,
+    "minor": 15996,
     "patch": 86
   }
 }
