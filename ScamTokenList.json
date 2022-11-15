@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x409F2526feb9827684Ee3e06BBDc68850C31A32C",
-      "symbol": "BLOODY",
-      "name": "Bloodthirst",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe20880461010D815Ccc1b763727917Ba6aCBF82f",
       "symbol": "KSGI",
       "name": "Kisagari",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAAe81f0fa786288a1e3de4Dd19EbdB75B0717e9C",
+      "symbol": "YAKI",
+      "name": "YakikoboInc",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16041,
-    "minor": 16041,
+    "major": 16042,
+    "minor": 16042,
     "patch": 86
   }
 }
