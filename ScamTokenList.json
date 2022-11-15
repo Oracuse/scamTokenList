@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28d3aafD741A90a512f24811264186530D9FF6F4",
-      "symbol": "KAIBA",
-      "name": "KAIBA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x68e58d0eF2B63F09483Df7643b5052da249B2eDa",
       "symbol": "404",
       "name": "ERRORCODE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7aA0a88f90457af2a8348c20338a19FBCc569fe2",
+      "symbol": "TA",
+      "name": "THEApe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15977,
-    "minor": 15977,
+    "major": 15978,
+    "minor": 15978,
     "patch": 86
   }
 }
