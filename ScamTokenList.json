@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76fE58AFAb9811f3C31b9b1da35970569dbCbD0f",
-      "symbol": "YASUKI",
-      "name": "Yasuki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf7C2AF7cDEB633598b51f39916D991b3e7b3e61F",
       "symbol": "BELLMAN",
       "name": "HuntingofTheSnark",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa335a9Eff8A29cDBea6520a45C29219Fb2f781C9",
+      "symbol": "DONOTBUY",
+      "name": "DONOTBUYTEST",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16018,
-    "minor": 16018,
+    "major": 16019,
+    "minor": 16019,
     "patch": 86
   }
 }
