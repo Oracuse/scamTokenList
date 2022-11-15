@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x205BeE9535cDE6dE6dfBBB04BD64136A55750bb8",
-      "symbol": "MTI",
-      "name": "MTI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09Df9669A600828c4909Ee9924D593Fce69bA0D6",
       "symbol": "TSUCHIGUMO",
       "name": "Tsuchigumo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5EdAdb6e5AF58cF5a9151dfBE5b5AfDf746C4219",
+      "symbol": "BULLS",
+      "name": "BullsWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15960,
-    "minor": 15960,
+    "major": 15961,
+    "minor": 15961,
     "patch": 86
   }
 }
