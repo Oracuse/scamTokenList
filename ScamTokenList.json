@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x95e7d38c04d938690E0D1101150962ED058A9E91",
-      "symbol": "KIJA",
-      "name": "Yokija",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28d3aafD741A90a512f24811264186530D9FF6F4",
       "symbol": "KAIBA",
       "name": "KAIBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdc6b59340e5515da7392A056D9e59D906b8e73C2",
+      "symbol": "8B",
+      "name": "8Billion",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15976,
-    "minor": 15976,
+    "major": 15977,
+    "minor": 15977,
     "patch": 86
   }
 }
