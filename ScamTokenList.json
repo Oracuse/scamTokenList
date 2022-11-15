@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8B36cD6635D4Be94C447399175B6eCc5Ce37D6c1",
-      "symbol": "SHIJI",
-      "name": "Shijira",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd9EEF9f78BFD48c3956C5B5A354e0Ee264b26015",
       "symbol": "AETHER",
       "name": "SonofErebus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf7cd4eC76ad1114fE6D1a48aB925Ae0f95bC4601",
+      "symbol": "BABYSHI",
+      "name": "BabyShiToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15984,
-    "minor": 15984,
+    "major": 15985,
+    "minor": 15985,
     "patch": 86
   }
 }
