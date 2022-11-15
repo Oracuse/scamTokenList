@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf291C2acA5D491D3444e55FB9530b6d8CA0BD21D",
-      "symbol": "MERGELON",
-      "name": "MergelonETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7FF01AD440d23194C39A69d6fFC82225b5907be8",
       "symbol": "SHAKAI",
       "name": "Kurosaki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4071e3F117D4203604d8f78b2994d4395c70A1A2",
+      "symbol": "LOS",
+      "name": "LordofShibu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16007,
-    "minor": 16007,
+    "major": 16008,
+    "minor": 16008,
     "patch": 86
   }
 }
