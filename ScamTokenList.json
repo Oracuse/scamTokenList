@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAa88753d7C0867EeC4D6B5CC9947f70c2578AF47",
-      "symbol": "BAKU",
-      "name": "Bakunate",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x43aAc471899f2CA2D74B530277c2684782e7E751",
       "symbol": "OVER",
       "name": "Overmorrow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF076581d9C4836921190a1b9E81827591c215016",
+      "symbol": "TSDAPP",
+      "name": "TelegramSniperDAPP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15905,
-    "minor": 15905,
+    "major": 15906,
+    "minor": 15906,
     "patch": 86
   }
 }
