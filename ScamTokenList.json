@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7aa72C360947cf5Cbe9f5720BE78F5552FCb4a02",
-      "symbol": "KUCHISAKE",
-      "name": "KuchisakeOnna",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x16838f7543BC883EB4138DCF5A4651F4e2109425",
       "symbol": "LUNI",
       "name": "WrappedLUNAToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28c316E9165528fB889AC43B2ceE9618aF519E49",
+      "symbol": "MIMOTO",
+      "name": "miniIMOTO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15971,
-    "minor": 15971,
+    "major": 15972,
+    "minor": 15972,
     "patch": 86
   }
 }
