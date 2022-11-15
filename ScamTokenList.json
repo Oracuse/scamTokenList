@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7888181ea14F46e3Cdb9fF70893c7427d290A070",
-      "symbol": "RYOSHIJR",
-      "name": "RyoshiJunior",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA2aF52E9aBE8BEE35874637d9F980eDa6c38EB31",
       "symbol": "Y2K",
       "name": "Millennium",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03166B8F56D5509c548A5F82872D77ba3Ca0B28A",
+      "symbol": "DWI",
+      "name": "DontWithdrawInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16009,
-    "minor": 16009,
+    "major": 16010,
+    "minor": 16010,
     "patch": 86
   }
 }
