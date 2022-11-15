@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x83CD46c4b5a139231B083E5A53B8154Ac2548C72",
-      "symbol": "UNIVERSE",
-      "name": "LunaHome",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x409F2526feb9827684Ee3e06BBDc68850C31A32C",
       "symbol": "BLOODY",
       "name": "Bloodthirst",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6Bc038fC41D863F6c2A25f091ad9aeAA753D1e06",
+      "symbol": "NO",
+      "name": "notoken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16040,
-    "minor": 16040,
+    "major": 16041,
+    "minor": 16041,
     "patch": 86
   }
 }
