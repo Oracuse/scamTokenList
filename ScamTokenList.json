@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4E0a21Fab145Ae3e4eC2D2E809268E3166b31b53",
-      "symbol": "BYAKKO",
-      "name": "BYAKKO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0c2d260093308e3DCE250b3a2D531Ee8251fE87f",
       "symbol": "SHI",
       "name": "Shien",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0526304a68A0FD0ea13168dCC803d09a6Fad60eB",
+      "symbol": "POM20",
+      "name": "PomProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 15990,
-    "minor": 15990,
+    "major": 15991,
+    "minor": 15991,
     "patch": 86
   }
 }
