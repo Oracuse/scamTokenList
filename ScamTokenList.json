@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd5aE601d118970c2dFc3Ea8A42aF4AA2823ED430",
-      "symbol": "MDS",
-      "name": "MetaDaoStack",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1C5108526265cfE28eC3e281D6aA2f1eE2Ce58FF",
       "symbol": "MERGE20",
       "name": "TheGreatMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46a247a1F58b652eaA7d9ad9017e5D9f026a0858",
+      "symbol": "LOS",
+      "name": "LordofShibu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16004,
-    "minor": 16004,
+    "major": 16005,
+    "minor": 16005,
     "patch": 86
   }
 }
