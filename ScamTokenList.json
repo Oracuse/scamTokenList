@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x844462ED1BBc5e8E36BDd840b679b78d82Fb2227",
-      "symbol": "DOKWON",
-      "name": "DoKwon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb7b940C8C0b744E6ae9d7D7A10049C73960b8736",
       "symbol": "ETH20",
       "name": "ETHEREUM20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7544057B301B01f0C7C8921F33B6f0FEBf841140",
+      "symbol": "SRMS",
+      "name": "SerumDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16079,
-    "minor": 16079,
+    "major": 16080,
+    "minor": 16080,
     "patch": 86
   }
 }
