@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDf73c72b08EC9fcCAA2d73eCB5c877ce97228891",
-      "symbol": "WHIRL",
-      "name": "Whirl",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x170CB6652C4b28Fa601903439f1aee00A3f59aC8",
       "symbol": "ETHW",
       "name": "PoWETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43C175af6fc6c2499713071b56B7b98D55279A15",
+      "symbol": "ETS",
+      "name": "EthereumSchool",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16131,
-    "minor": 16131,
+    "major": 16132,
+    "minor": 16132,
     "patch": 86
   }
 }
