@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x46CD9D3E67d874779d752758E2f12a03e1521881",
-      "symbol": "TTD",
-      "name": "totalDifficulty",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x149b2F1936509FBF0Cb4AAb1142e701610876b2c",
       "symbol": "BURAKKUHORU",
       "name": "Burakkuhoru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4C538F882A73DBdb5a04144E06F126675b2E64B",
+      "symbol": "TB",
+      "name": "TruthAndBeauty",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16083,
-    "minor": 16083,
+    "major": 16084,
+    "minor": 16084,
     "patch": 86
   }
 }
