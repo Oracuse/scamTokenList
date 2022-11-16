@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF3858c2e0f64210B261Efcfa1187728C69873Ed8",
-      "symbol": "GCI",
-      "name": "TheGoldenCircle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81488c2F7dca26D2B27ad249ec28daF45768b95C",
       "symbol": "SOKO",
       "name": "Sokotsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfCaa5036FD83216265bB9B8cEd2C358D629bC35B",
+      "symbol": "0X51",
+      "name": "0x51",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16184,
-    "minor": 16184,
+    "major": 16185,
+    "minor": 16185,
     "patch": 86
   }
 }
