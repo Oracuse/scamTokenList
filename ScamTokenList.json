@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x90e664Ecf2F3fDA3b9f486fc2E9Ef43EC1d5a929",
-      "symbol": "REALM",
-      "name": "REALM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBbB6D5b36DB51964dDEF98c5c658563afadf0675",
       "symbol": "SHIBYOSHI",
       "name": "Shibyoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Ba63f99d7EeBb9b2462528a2f048569a936D6be",
+      "symbol": "TESTER",
+      "name": "Tester",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16062,
-    "minor": 16062,
+    "major": 16063,
+    "minor": 16063,
     "patch": 86
   }
 }
