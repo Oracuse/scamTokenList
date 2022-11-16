@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6D151786fbcB571789ccE738abA5f5b1f829Db00",
-      "symbol": "DOKU",
-      "name": "DokuInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x337606E689c87dF5c11b052aB2b7f68574470330",
       "symbol": "UCHU",
       "name": "UchuKara",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA37C44705278293F7c7934ea0838bcCaf6dF699f",
+      "symbol": "SHAKIMO",
+      "name": "ShadowOfShakimo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16073,
-    "minor": 16073,
+    "major": 16074,
+    "minor": 16074,
     "patch": 86
   }
 }
