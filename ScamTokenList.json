@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa0005195A3FBFc93E449914c20ebf4CBC0A56567",
-      "symbol": "MC",
-      "name": "MergeoftheCrow",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00265D3d6111129E95885d581e90daca3BDe0819",
       "symbol": "ILY",
       "name": "ILYToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b94Cc54560541614e9E073c0f764fcA2e882d5f",
+      "symbol": "SHIH",
+      "name": "ShihTzu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16109,
-    "minor": 16109,
+    "major": 16110,
+    "minor": 16110,
     "patch": 86
   }
 }
