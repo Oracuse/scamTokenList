@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x86b7F4BE2ef8b98e2b59B6dbd47285B33233DD18",
-      "symbol": "MINTYS",
-      "name": "MintySwapV2",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x65a686889DB1d6cEFAC813d02D6c22fb73BAd120",
       "symbol": "ESHIT",
       "name": "Shitethereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA70c3786774AD8dbaBc1Ef31d5Df97611a352eAB",
+      "symbol": "XIRTAM",
+      "name": "Xirtam",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16060,
-    "minor": 16060,
+    "major": 16061,
+    "minor": 16061,
     "patch": 86
   }
 }
