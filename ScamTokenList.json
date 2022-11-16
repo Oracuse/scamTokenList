@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa7fd69e5Cc02017f2D7e34A560b36F44a2282976",
-      "symbol": "POSH",
-      "name": "POSH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcae4b5ec1664a1207c25AbDFfe472904AE989Be7",
       "symbol": "SUDORUG",
       "name": "SudoRugToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5955f7d312c5d84B004d259D55072C4F0A478dBC",
+      "symbol": "BALTO",
+      "name": "BaltoToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16172,
-    "minor": 16172,
+    "major": 16173,
+    "minor": 16173,
     "patch": 86
   }
 }
