@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdBBcA7015007C8519CB7E25dE89d49295d2106b8",
-      "symbol": "GAMA",
-      "name": "GamatatsuInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6600e77d4A64bAa3c353eCC7eDf66ED706D7ca06",
       "symbol": "RICH",
       "name": "ROICHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1fDDC3DBF844Ad185A4457e6368e4a6Ac13D63de",
+      "symbol": "SMI",
+      "name": "ShinMeowInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16116,
-    "minor": 16116,
+    "major": 16117,
+    "minor": 16117,
     "patch": 86
   }
 }
