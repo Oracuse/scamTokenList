@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf3a0C5d5821f3aBB10e0F411f99472d7737A210B",
-      "symbol": "MRG",
-      "name": "Merge20",
-      "decimals": 5,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6B6f1698648a9a877dF11e8547075334Fb2d00f3",
       "symbol": "ILY",
       "name": "ILoveYouToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c670fA9b0A3913BC15B1a45b30ABeab3C0A6cab",
+      "symbol": "SHONEN",
+      "name": "SHONEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16128,
-    "minor": 16128,
+    "major": 16129,
+    "minor": 16129,
     "patch": 86
   }
 }
