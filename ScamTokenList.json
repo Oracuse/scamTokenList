@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76B310249be33A2c585D75b712ECB27Db9aDB53d",
-      "symbol": "SUMOC",
-      "name": "SumoChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa0005195A3FBFc93E449914c20ebf4CBC0A56567",
       "symbol": "MC",
       "name": "MergeoftheCrow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13968f67D99cA67aB4ed6Fe9017B2f39Cf2869aC",
+      "symbol": "SCRYPTO",
+      "name": "ScryptoChain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16108,
-    "minor": 16108,
+    "major": 16109,
+    "minor": 16109,
     "patch": 86
   }
 }
