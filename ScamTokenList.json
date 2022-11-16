@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0D5275142B127610322f8cffA0B2666201E942fE",
-      "symbol": "SHINGON",
-      "name": "Shinnyoen",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x65CDD45b5b84a1F381468619573Fb46342E5B097",
       "symbol": "TENBU",
       "name": "Tenbu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEc25e9E61D8cF73bd9Fd90E843e529334D5eBE65",
+      "symbol": "ETH30",
+      "name": "ProofOfMeta",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16118,
-    "minor": 16118,
+    "major": 16119,
+    "minor": 16119,
     "patch": 86
   }
 }
