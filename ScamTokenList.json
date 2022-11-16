@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3F795B3ED47B56009EB2725e07ac7C9C14B6665E",
-      "symbol": "PROOFOFSTAKE",
-      "name": "ProofOfStake",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf0cB059eb8a8f548afd778711e3fCf67Bd079549",
       "symbol": "MPANDA",
       "name": "MergePanda",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf98A9907540B389850474C0b9437746bFD9fCE9B",
+      "symbol": "DONT",
+      "name": "DONTAPE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16162,
-    "minor": 16162,
+    "major": 16163,
+    "minor": 16163,
     "patch": 86
   }
 }
