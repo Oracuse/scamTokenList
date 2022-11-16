@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7C9CeC4F1C7C6c894f498912f84976007df2671b",
-      "symbol": "SHARD",
-      "name": "ShardsofETH20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5454f57a4fc2a4aa642298d0C4F379013F803157",
       "symbol": "CONNECTIVE",
       "name": "Connective",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7044fb0C842383C7bA7c94413Bb419Af138573d",
+      "symbol": "BB",
+      "name": "BlackBeardInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16154,
-    "minor": 16154,
+    "major": 16155,
+    "minor": 16155,
     "patch": 86
   }
 }
