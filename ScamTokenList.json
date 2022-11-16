@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x20443B2c4ef2570657Ed5646b399aCCa2970Aaa0",
-      "symbol": "JELLYFISH",
-      "name": "jellyfish",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6D151786fbcB571789ccE738abA5f5b1f829Db00",
       "symbol": "DOKU",
       "name": "DokuInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x174a17cBBA48d80935B5C4731D1ab5Ce164484Ea",
+      "symbol": "SANTA",
+      "name": "SantaTrumpinu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16072,
-    "minor": 16072,
+    "major": 16073,
+    "minor": 16073,
     "patch": 86
   }
 }
