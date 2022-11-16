@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBebfde50Eec898C01Be29F0bC4B8c1BA482319cB",
-      "symbol": "LASTBLOCK",
-      "name": "TheLastBlock1553719",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x785C492f0bd99dDDC7D54C1ff6B3b9038E902168",
       "symbol": "BUMP",
       "name": "BUMP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59F3F84521B7665A8c14e4A67d9C92f9Ca556026",
+      "symbol": "ECI",
+      "name": "EVILCENTRALIZEDINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16146,
-    "minor": 16146,
+    "major": 16147,
+    "minor": 16147,
     "patch": 86
   }
 }
