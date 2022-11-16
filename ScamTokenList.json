@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0Db133A0FDc7b2a3ed7e5800Aa8C3F48D195Ace9",
-      "symbol": "DISCUS",
-      "name": "DISCUS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7D7554A494382fdB418771F431dEE0e4B2C88556",
       "symbol": "POW",
       "name": "POW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8CB09c29F7e8352A9FFA2cd803c8715921CbB3b3",
+      "symbol": "KC",
+      "name": "KeccakCode",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16182,
-    "minor": 16182,
+    "major": 16183,
+    "minor": 16183,
     "patch": 86
   }
 }
