@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC89D8aF09c3cEeCeBFf5fdB50C59D39e16eB6463",
-      "symbol": "EGG",
-      "name": "TheGoldenEgg",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x709821cc4490a828B5e37A6C983f930876cD124E",
       "symbol": "ILY",
       "name": "ILoveYouToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00B76657b02E1dE5c86c57C7E87F65591552fce1",
+      "symbol": "HWT",
+      "name": "HuskyWallet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16122,
-    "minor": 16122,
+    "major": 16123,
+    "minor": 16123,
     "patch": 86
   }
 }
