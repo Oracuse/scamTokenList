@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x291aD47E264350Da35Ed1f72cf4E568E92c55fd2",
-      "symbol": "SHITA",
-      "name": "Shitalik",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76B310249be33A2c585D75b712ECB27Db9aDB53d",
       "symbol": "SUMOC",
       "name": "SumoChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29985007beE8159fC7dB325970134E6779F081e3",
+      "symbol": "NYTSSBF",
+      "name": "NYTSucksSBF",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16107,
-    "minor": 16107,
+    "major": 16108,
+    "minor": 16108,
     "patch": 86
   }
 }
