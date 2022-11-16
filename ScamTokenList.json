@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x547a417B497D1090C2822Bd747B800A51510b566",
-      "symbol": "OROCHI",
-      "name": "KamiochiOrochi",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6E73250C7B02a4D52ee67CcA5da6e70E1Fa37b49",
       "symbol": "FAIRIES",
       "name": "GuardianForest",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAd0552f4E1745D3Bc8f71Ee96036A618d6CF1Fe5",
+      "symbol": "OWL",
+      "name": "AlamedaOwl",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16055,
-    "minor": 16055,
+    "major": 16056,
+    "minor": 16056,
     "patch": 86
   }
 }
