@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x805733b31cC90F6859AB4F52973c1f2DEe335DA3",
-      "symbol": "IDK",
-      "name": "ImprisonDoKwan",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2C40c3b6c58b8393eA68af2a8b26dD579c27Bc67",
       "symbol": "DK",
       "name": "DoKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3702f7897879ecA91053c0699473DCEFdFD2fC04",
+      "symbol": "TOE",
+      "name": "TALEOFELON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16052,
-    "minor": 16052,
+    "major": 16053,
+    "minor": 16053,
     "patch": 86
   }
 }
