@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x337606E689c87dF5c11b052aB2b7f68574470330",
-      "symbol": "UCHU",
-      "name": "UchuKara",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc667a0e7711de7C5916038B6FB709C93DBb7B67f",
       "symbol": "KISHTN",
       "name": "KISSHOTEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97D431053A99Cc97d1B20ef730F1B70e8BC81423",
+      "symbol": "POTUS",
+      "name": "TRUMP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16074,
-    "minor": 16074,
+    "major": 16075,
+    "minor": 16075,
     "patch": 86
   }
 }
