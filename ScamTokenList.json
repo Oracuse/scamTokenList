@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x00265D3d6111129E95885d581e90daca3BDe0819",
-      "symbol": "ILY",
-      "name": "ILYToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76FB36Fd5FC71dCA80Df895e403BE07833149A35",
       "symbol": "TSUMORI",
       "name": "Purpose",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x755AEB9C54Ec33BF3a5d22aC5A96ce0310082376",
+      "symbol": "FSRA",
+      "name": "FinancialServicesRe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16110,
-    "minor": 16110,
+    "major": 16111,
+    "minor": 16111,
     "patch": 86
   }
 }
