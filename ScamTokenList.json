@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98639cea48E406e8441cbebA377C6f699e3E39e7",
-      "symbol": "AKIMEINU",
-      "name": "Akimeinu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17f968af127BFbea896C85BF58f502be38701683",
       "symbol": "MRG",
       "name": "MERGE20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74CA3C78C9A09043982694FF16Cc94064e9Fb54e",
+      "symbol": "CD",
+      "name": "CeaseAndDesist",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16126,
-    "minor": 16126,
+    "major": 16127,
+    "minor": 16127,
     "patch": 86
   }
 }
