@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbc0bCEDB560eC5BCa7B1dA434C6cc0D6cf8FB7Be",
-      "symbol": "TANUKI",
-      "name": "Baketanuki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x884fc68e25193c0d72435F50CA36071d4a9BC7b7",
       "symbol": "CUMINU",
       "name": "CommunityINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE57D6dEF588b1BAee5C4bC52e0af0943896162D1",
+      "symbol": "CEXC",
+      "name": "CentralizedExchange",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16124,
-    "minor": 16124,
+    "major": 16125,
+    "minor": 16125,
     "patch": 86
   }
 }
