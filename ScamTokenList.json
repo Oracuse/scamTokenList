@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x010C38Af3b0A6dEa8616c1B2c3ffBcf3119A1642",
-      "symbol": "DKMERGE",
-      "name": "DoKwonMerge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66D9E8112582Bb620a46437c17d82Cd49A981C8A",
       "symbol": "ETHMINOC",
       "name": "ETHMINOC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1C6c306E8ff77789907932218981F4441731dA2f",
+      "symbol": "ETHELON",
+      "name": "Ethelon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16105,
-    "minor": 16105,
+    "major": 16106,
+    "minor": 16106,
     "patch": 86
   }
 }
