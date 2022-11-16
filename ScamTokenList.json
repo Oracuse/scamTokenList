@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x789f969e02A96d9fdc5b86618d1Bc746AF0eA8e6",
-      "symbol": "KAISEN",
-      "name": "CryptoKaisen",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x805733b31cC90F6859AB4F52973c1f2DEe335DA3",
       "symbol": "IDK",
       "name": "ImprisonDoKwan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d75B47ec22f41321745fea37444F79559be62ff",
+      "symbol": "FORTUITY",
+      "name": "TheFortuities",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16051,
-    "minor": 16051,
+    "major": 16052,
+    "minor": 16052,
     "patch": 86
   }
 }
