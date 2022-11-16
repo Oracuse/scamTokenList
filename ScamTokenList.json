@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x02EB2F48f92DAB08432F36C790d363aebf11Bcb7",
-      "symbol": "MSHIBA",
-      "name": "MergeShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9b215f2B647528047523EE48834a839c7FC9f152",
       "symbol": "CLASSICS",
       "name": "THECLASSICSDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ad6930CCc5ff8DCcaA0D0571D3FE8C1355c7Dd7",
+      "symbol": "GHOST",
+      "name": "Ghost",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16167,
-    "minor": 16167,
+    "major": 16168,
+    "minor": 16168,
     "patch": 86
   }
 }
