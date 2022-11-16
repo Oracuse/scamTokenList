@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51006Dca3F69Cb75234ac10a81dF2C182E963F31",
-      "symbol": "ETHW",
-      "name": "ETHPoW",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3F795B3ED47B56009EB2725e07ac7C9C14B6665E",
       "symbol": "PROOFOFSTAKE",
       "name": "ProofOfStake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e5fCa2eEE57f6df4D799d4Bb9E8C143529Cd4f8",
+      "symbol": "MAGAGA",
+      "name": "MAGAGA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16161,
-    "minor": 16161,
+    "major": 16162,
+    "minor": 16162,
     "patch": 86
   }
 }
