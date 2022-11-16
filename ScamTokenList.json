@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x388F5B5198386bd6c743681eE4234cAa89518841",
-      "symbol": "MERGY",
-      "name": "MergyInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51006Dca3F69Cb75234ac10a81dF2C182E963F31",
       "symbol": "ETHW",
       "name": "ETHPoW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46CcBF03De71296b0Ee01291c9024e973FD11b0D",
+      "symbol": "X",
+      "name": "ProofofX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16160,
-    "minor": 16160,
+    "major": 16161,
+    "minor": 16161,
     "patch": 86
   }
 }
