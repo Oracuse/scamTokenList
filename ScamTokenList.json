@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6Ae8565bFea865a58F5eee7DD30D9FBADb6Bd79D",
-      "symbol": "ALCR",
-      "name": "Alacazar",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE4564C68b07997Cd223c0dD0a29ecC29E2869bea",
       "symbol": "YOKIJA",
       "name": "Yokija",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36EF3ce5cC8d0611813bBf49b8D270E3Ace077E4",
+      "symbol": "BEAR",
+      "name": "Grizzly",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16093,
-    "minor": 16093,
+    "major": 16094,
+    "minor": 16094,
     "patch": 86
   }
 }
