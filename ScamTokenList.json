@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x13fc0F393b2CFA660Fa2A35CBf68b7Fb0D37CffD",
-      "symbol": "MINU",
-      "name": "MergeInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA42A1Cf7645EA962e08E927D7e014528407Af582",
       "symbol": "BABYLDO",
       "name": "BabyLido",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEf61035f291fC91100BFf8771b8bD7230418eb04",
+      "symbol": "BITBOY",
+      "name": "BitboyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16165,
-    "minor": 16165,
+    "major": 16166,
+    "minor": 16166,
     "patch": 86
   }
 }
