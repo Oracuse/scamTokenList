@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4efdC844a4b860cD701844A7CF00bca610517647",
-      "symbol": "Y2K",
-      "name": "Y2K",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7C9CeC4F1C7C6c894f498912f84976007df2671b",
       "symbol": "SHARD",
       "name": "ShardsofETH20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e530Aa9e6D47c678C0279fa015B970caAAa2F21",
+      "symbol": "CAKN",
+      "name": "CoatsAndKnight",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16153,
-    "minor": 16153,
+    "major": 16154,
+    "minor": 16154,
     "patch": 86
   }
 }
