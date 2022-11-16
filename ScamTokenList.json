@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5e120e2Dc523E0b1EE5f79CaBaa56837DF9F717",
-      "symbol": "PROM",
-      "name": "Prometheus",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfFCE99aF8b57f2a990b01aAf4122fB7609D6Cc20",
       "symbol": "SHINBU",
       "name": "ShinbuMesatsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6E9653dDAB87A52ACC10f50259021eaDB72c33a1",
+      "symbol": "BEAR",
+      "name": "Grizzly",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16091,
-    "minor": 16091,
+    "major": 16092,
+    "minor": 16092,
     "patch": 86
   }
 }
