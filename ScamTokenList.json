@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6B6f1698648a9a877dF11e8547075334Fb2d00f3",
-      "symbol": "ILY",
-      "name": "ILoveYouToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x374b7dF48923cE6440B40C73ffe2BF828304d1e4",
       "symbol": "MERGEREUM",
       "name": "Mergereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0daC80Be1690f9f3406B2eFED2D994D02Ee5AD4C",
+      "symbol": "GINU",
+      "name": "GENESISINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16129,
-    "minor": 16129,
+    "major": 16130,
+    "minor": 16130,
     "patch": 86
   }
 }
