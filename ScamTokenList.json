@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb0d121386cf0f6671d8502Ea43EC9720F6E3aACA",
-      "symbol": "ETHI",
-      "name": "EtherealImps",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1d9aBf56E58d36c2AEf8a32A753229Ef29dCA400",
       "symbol": "NSHIBA",
       "name": "NyanShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a71b3437C8d9De54a6920b50A5531858dFfB377",
+      "symbol": "DCI",
+      "name": "DontCryInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16101,
-    "minor": 16101,
+    "major": 16102,
+    "minor": 16102,
     "patch": 86
   }
 }
