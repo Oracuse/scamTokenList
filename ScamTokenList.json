@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd2fCb24f9f7b1d6EE25B5f71696410bD7AE486BF",
-      "symbol": "FAIRIES",
-      "name": "GuardianForest",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x308c6dCD101186bD7CFa58571031069C7E348709",
       "symbol": "SISU",
       "name": "Sisu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2119285c1B4F767daD803db5c17E6ebcF3A5dc57",
+      "symbol": "AST",
+      "name": "ApesStrongTogether",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16057,
-    "minor": 16057,
+    "major": 16058,
+    "minor": 16058,
     "patch": 86
   }
 }
