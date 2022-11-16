@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbaA0630729c1b3286C91F01E43A7645CE4e38AcD",
-      "symbol": "JIANGSHI",
-      "name": "theJiangshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2d939816bbfbe89C3054Eda5787f336e33005784",
       "symbol": "NCHAD",
       "name": "NeoChad",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8610b0Cf2F90F7a552ff73583857a0a5d2F3dC44",
+      "symbol": "NVPT",
+      "name": "ENVYPETS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16077,
-    "minor": 16077,
+    "major": 16078,
+    "minor": 16078,
     "patch": 86
   }
 }
