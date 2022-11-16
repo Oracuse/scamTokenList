@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x592Ab280506F7eaCeE63c438CFB8f5e0CD7f70eC",
-      "symbol": "WUKONG20",
-      "name": "Wukong2ETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb2e4d71829b6aDE191C6f09b0954CdED05E8D980",
       "symbol": "EGREM",
       "name": "EGREM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCb3af4bC02cFc901Cb014cEb271DCC576D8827F6",
+      "symbol": "SHIM",
+      "name": "SHIMMYINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16137,
-    "minor": 16137,
+    "major": 16138,
+    "minor": 16138,
     "patch": 86
   }
 }
