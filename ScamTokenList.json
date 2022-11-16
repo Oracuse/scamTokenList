@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4d37Cb6B52A76C5832e2d8FFbe12193DaBF5E68d",
-      "symbol": "MOMOTARO",
-      "name": "Momotaro",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x010C38Af3b0A6dEa8616c1B2c3ffBcf3119A1642",
       "symbol": "DKMERGE",
       "name": "DoKwonMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6c6214ACdF348E26Ceb7094fe089f9cBBF5C138",
+      "symbol": "DBTRUMP",
+      "name": "DontBuyTrump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16104,
-    "minor": 16104,
+    "major": 16105,
+    "minor": 16105,
     "patch": 86
   }
 }
