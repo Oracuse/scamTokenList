@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7495e3DAe2D7caB7731Cd52B2a50295d2653A069",
-      "symbol": "MERGESHIBA",
-      "name": "MergeShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x592Ab280506F7eaCeE63c438CFB8f5e0CD7f70eC",
       "symbol": "WUKONG20",
       "name": "Wukong2ETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ac9BF08F65F3F03A997bA0C6581D60b9e6B751A",
+      "symbol": "PEOPLE",
+      "name": "PBythePeople",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16136,
-    "minor": 16136,
+    "major": 16137,
+    "minor": 16137,
     "patch": 86
   }
 }
