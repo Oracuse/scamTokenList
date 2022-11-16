@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe1D13C4F58d9f59707e87B00b396A82289b737e1",
-      "symbol": "ETHPOW",
-      "name": "EthMerge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42Ea3740C310f73b1C491ee9aD026Bd779940F02",
       "symbol": "TSUKAITO",
       "name": "WrappedTSUKA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4e88DfE4Ab75d6D6a12f427789393794e4AA88A",
+      "symbol": "OTOH",
+      "name": "OnTheOtherHand",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16081,
-    "minor": 16081,
+    "major": 16082,
+    "minor": 16082,
     "patch": 86
   }
 }
