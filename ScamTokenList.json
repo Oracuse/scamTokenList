@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfFCE99aF8b57f2a990b01aAf4122fB7609D6Cc20",
-      "symbol": "SHINBU",
-      "name": "ShinbuMesatsu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6Ae8565bFea865a58F5eee7DD30D9FBADb6Bd79D",
       "symbol": "ALCR",
       "name": "Alacazar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4911c66A74FFd10461D30Dc9A624F204f19c3186",
+      "symbol": "KLIQ",
+      "name": "KliQue",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16092,
-    "minor": 16092,
+    "major": 16093,
+    "minor": 16093,
     "patch": 86
   }
 }
