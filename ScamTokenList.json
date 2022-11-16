@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbFd0D963E5899963f204cef3FC6eE1c6bCF9445c",
-      "symbol": "EMG20",
-      "name": "EthereumMerge20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC89D8aF09c3cEeCeBFf5fdB50C59D39e16eB6463",
       "symbol": "EGG",
       "name": "TheGoldenEgg",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDDb196B1CDc994bAA93B8081F4d4f457Db1daEaf",
+      "symbol": "TESLA",
+      "name": "TeslaDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16121,
-    "minor": 16121,
+    "major": 16122,
+    "minor": 16122,
     "patch": 86
   }
 }
