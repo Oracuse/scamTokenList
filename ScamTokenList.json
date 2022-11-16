@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1d9aBf56E58d36c2AEf8a32A753229Ef29dCA400",
-      "symbol": "NSHIBA",
-      "name": "NyanShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6576BAf8b1eA9Ac2b7d90879Dd8241d0Cbbff315",
       "symbol": "SUCCUBUS",
       "name": "Succubus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c75915e208f3DBB6C47d60b544271D0aFF08c2d",
+      "symbol": "TOT",
+      "name": "TaleOfTrump",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16102,
-    "minor": 16102,
+    "major": 16103,
+    "minor": 16103,
     "patch": 86
   }
 }
