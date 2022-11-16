@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81488c2F7dca26D2B27ad249ec28daF45768b95C",
-      "symbol": "SOKO",
-      "name": "Sokotsu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0Adf4bBf3A2542bC51621ABe30Ac8F9684FB1585",
       "symbol": "POSD",
       "name": "PoSDAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD24eFd62c859C3b51F20E226A3c411510B4275db",
+      "symbol": "MF",
+      "name": "MissionFailed",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16185,
-    "minor": 16185,
+    "major": 16186,
+    "minor": 16186,
     "patch": 86
   }
 }
