@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf2D699357FFaEcd813EDD922d30FCcc30EB135eC",
-      "symbol": "MERGELON",
-      "name": "Mergelon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01384e828AEa2249a7fcd3E1089B01fe476976C9",
       "symbol": "EIUSRELIGIO",
       "name": "CuiusRegio",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa77DB3A90AAcAfd181Bc54AFBB22587F743E4Ac9",
+      "symbol": "PINKSC",
+      "name": "PinkSaleClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16087,
-    "minor": 16087,
+    "major": 16088,
+    "minor": 16088,
     "patch": 86
   }
 }
