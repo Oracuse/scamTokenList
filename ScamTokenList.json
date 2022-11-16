@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x709821cc4490a828B5e37A6C983f930876cD124E",
-      "symbol": "ILY",
-      "name": "ILoveYouToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbc0bCEDB560eC5BCa7B1dA434C6cc0D6cf8FB7Be",
       "symbol": "TANUKI",
       "name": "Baketanuki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCDAA176f908d7dbc47e2870DCD3DB44f9D1c8d98",
+      "symbol": "THEV",
+      "name": "THEDEVTOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16123,
-    "minor": 16123,
+    "major": 16124,
+    "minor": 16124,
     "patch": 86
   }
 }
