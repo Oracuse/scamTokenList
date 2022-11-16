@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2d939816bbfbe89C3054Eda5787f336e33005784",
-      "symbol": "NCHAD",
-      "name": "NeoChad",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x844462ED1BBc5e8E36BDd840b679b78d82Fb2227",
       "symbol": "DOKWON",
       "name": "DoKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92380D919321555775647341723fA4EE493Ff426",
+      "symbol": "TP",
+      "name": "TakeProfit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16078,
-    "minor": 16078,
+    "major": 16079,
+    "minor": 16079,
     "patch": 86
   }
 }
