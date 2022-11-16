@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x65a686889DB1d6cEFAC813d02D6c22fb73BAd120",
-      "symbol": "ESHIT",
-      "name": "Shitethereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90e664Ecf2F3fDA3b9f486fc2E9Ef43EC1d5a929",
       "symbol": "REALM",
       "name": "REALM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E739CBeeE45c7A74974446fb02bc3CCbF799C46",
+      "symbol": "TOR",
+      "name": "TaleofRyoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16061,
-    "minor": 16061,
+    "major": 16062,
+    "minor": 16062,
     "patch": 86
   }
 }
