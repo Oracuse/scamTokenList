@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x149b2F1936509FBF0Cb4AAb1142e701610876b2c",
-      "symbol": "BURAKKUHORU",
-      "name": "Burakkuhoru",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0BcDE1F7C13bF1Aa24eF893C9e2C88B2106F5af3",
       "symbol": "WLM",
       "name": "WhiteLittleMermaid",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9C3598a0D3958F323585Ac6952492f40877266CE",
+      "symbol": "TBI",
+      "name": "TruthBeautyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16084,
-    "minor": 16084,
+    "major": 16085,
+    "minor": 16085,
     "patch": 86
   }
 }
