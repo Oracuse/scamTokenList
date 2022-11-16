@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2668799a0f23AdcE5AedE2fbfc5471366E66cb04",
-      "symbol": "TATEINU",
-      "name": "TATEINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5F9EA7129aa22f482EDbE5fCCC33a1a39946ae5d",
       "symbol": "CPINU",
       "name": "ChinesePandaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75b37a623041D7d2537397644dc8dd1b3Bf79745",
+      "symbol": "BEAR",
+      "name": "Grizzly",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16089,
-    "minor": 16089,
+    "major": 16090,
+    "minor": 16090,
     "patch": 86
   }
 }
