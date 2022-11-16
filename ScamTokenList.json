@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf0cB059eb8a8f548afd778711e3fCf67Bd079549",
-      "symbol": "MPANDA",
-      "name": "MergePanda",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB93110c464B8F365bD0de843a9Ab838FF7f2577E",
       "symbol": "PANDAINU",
       "name": "PandaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa8F04358d897B3D42C5E6c0A1147d5B23c694838",
+      "symbol": "SHRAPNEL",
+      "name": "Shrapnel",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16163,
-    "minor": 16163,
+    "major": 16164,
+    "minor": 16164,
     "patch": 86
   }
 }
