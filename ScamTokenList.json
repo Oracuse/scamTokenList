@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42Ea3740C310f73b1C491ee9aD026Bd779940F02",
-      "symbol": "TSUKAITO",
-      "name": "WrappedTSUKA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x46CD9D3E67d874779d752758E2f12a03e1521881",
       "symbol": "TTD",
       "name": "totalDifficulty",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9244814593fD9b8C66d9714d82329c3f83fb3f51",
+      "symbol": "SHIBVINCI",
+      "name": "shibDaVinci",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16082,
-    "minor": 16082,
+    "major": 16083,
+    "minor": 16083,
     "patch": 86
   }
 }
