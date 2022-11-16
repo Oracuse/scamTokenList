@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCa1757B969aD840c2A168F34d0cC033084a8e797",
-      "symbol": "ALICE",
-      "name": "ThroughTheGlass",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbaA0630729c1b3286C91F01E43A7645CE4e38AcD",
       "symbol": "JIANGSHI",
       "name": "theJiangshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Decf1fF0eCdb3335E9f2AD8d8615CC89b9BdA14",
+      "symbol": "SOLARE",
+      "name": "Solare",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16076,
-    "minor": 16076,
+    "major": 16077,
+    "minor": 16077,
     "patch": 86
   }
 }
