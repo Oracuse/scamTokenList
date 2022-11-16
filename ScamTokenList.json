@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x170CB6652C4b28Fa601903439f1aee00A3f59aC8",
-      "symbol": "ETHW",
-      "name": "PoWETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3512e0dB63872DA0883FFFa16b674D9d289D993a",
       "symbol": "THORSE",
       "name": "TrojanHorseDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC03821eCc59ed6645dD5DBe041685EeaC7ceE031",
+      "symbol": "DYORI",
+      "name": "DYORINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16132,
-    "minor": 16132,
+    "major": 16133,
+    "minor": 16133,
     "patch": 86
   }
 }
