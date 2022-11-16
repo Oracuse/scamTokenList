@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25A804691bd645c15E2b2Bf30Ae23F6Ce5e8FB77",
-      "symbol": "USDCL",
-      "name": "Cloak",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9B84105F9ecd0B6527813FcF9338436F52F5174B",
       "symbol": "SNAFU",
       "name": "ChaoticState",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBB426e7d2D9E85d1C30B85d60292a8ef8100FA7A",
+      "symbol": "MAGA",
+      "name": "MakeAmericaGreatAga",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16069,
-    "minor": 16069,
+    "major": 16070,
+    "minor": 16070,
     "patch": 86
   }
 }
