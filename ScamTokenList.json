@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3510Ff6700fCea8294aeBf3E0100243950B957fE",
-      "symbol": "MIDO",
-      "name": "Mikado",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0d121386cf0f6671d8502Ea43EC9720F6E3aACA",
       "symbol": "ETHI",
       "name": "EtherealImps",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x804C9159a25184D135e2B379dE1fD21Eff2D5A0d",
+      "symbol": "TAB",
+      "name": "TruthandBeauty",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16100,
-    "minor": 16100,
+    "major": 16101,
+    "minor": 16101,
     "patch": 86
   }
 }
