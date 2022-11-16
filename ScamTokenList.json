@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x94C78e8D31a8fa5584a8f143668d2328d4F3A8E7",
-      "symbol": "MERGELON",
-      "name": "Mergelon",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8b928eBc9F5613B0A545fc14e701a3c75d695b8a",
       "symbol": "RYUJIN",
       "name": "Ryujin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0B38fC49E084C95F1Ed456AaeFB6dB12667cd8F",
+      "symbol": "FORTUITY",
+      "name": "TheFortuities",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16049,
-    "minor": 16049,
+    "major": 16050,
+    "minor": 16050,
     "patch": 86
   }
 }
