@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x65CDD45b5b84a1F381468619573Fb46342E5B097",
-      "symbol": "TENBU",
-      "name": "Tenbu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCbfA639381FcFBb4e783108A39F45b11D08bb894",
       "symbol": "ILY",
       "name": "ILoveYou",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD7352D1298db46164DaBBB783047409d52958AD1",
+      "symbol": "SWORLDCUP",
+      "name": "ShibasWorldCup",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16119,
-    "minor": 16119,
+    "major": 16120,
+    "minor": 16120,
     "patch": 86
   }
 }
