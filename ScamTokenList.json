@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x884fc68e25193c0d72435F50CA36071d4a9BC7b7",
-      "symbol": "CUMINU",
-      "name": "CommunityINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98639cea48E406e8441cbebA377C6f699e3E39e7",
       "symbol": "AKIMEINU",
       "name": "Akimeinu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDFfd4935d16cbBEbE9c9E604a477241f729F04D7",
+      "symbol": "THED",
+      "name": "THEDEVTOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16125,
-    "minor": 16125,
+    "major": 16126,
+    "minor": 16126,
     "patch": 86
   }
 }
