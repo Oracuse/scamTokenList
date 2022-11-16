@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb7b940C8C0b744E6ae9d7D7A10049C73960b8736",
-      "symbol": "ETH20",
-      "name": "ETHEREUM20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe1D13C4F58d9f59707e87B00b396A82289b737e1",
       "symbol": "ETHPOW",
       "name": "EthMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCE87EF62fc89Ba086Eb44E53F73Be3Ca0C8C6793",
+      "symbol": "TALES",
+      "name": "Fantasia",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16080,
-    "minor": 16080,
+    "major": 16081,
+    "minor": 16081,
     "patch": 86
   }
 }
