@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x07f11e3e3041a691573853A4ce978a902b78D8A8",
-      "symbol": "TDAO",
-      "name": "TheDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3510Ff6700fCea8294aeBf3E0100243950B957fE",
       "symbol": "MIDO",
       "name": "Mikado",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B7264d733F448B3772f977541dB0c480B85D39F",
+      "symbol": "SHISUNE",
+      "name": "Shisune",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16099,
-    "minor": 16099,
+    "major": 16100,
+    "minor": 16100,
     "patch": 86
   }
 }
