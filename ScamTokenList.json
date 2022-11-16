@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9B84105F9ecd0B6527813FcF9338436F52F5174B",
-      "symbol": "SNAFU",
-      "name": "ChaoticState",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0409cA7E9Bc16048043D8ee7177Dc97cd91878dC",
       "symbol": "SAMA",
       "name": "Yorisama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf83e791E93DA0ed45cADb0A3A615dba6D3B25D9",
+      "symbol": "DOGE2024",
+      "name": "DOGE2024",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16070,
-    "minor": 16070,
+    "major": 16071,
+    "minor": 16071,
     "patch": 86
   }
 }
