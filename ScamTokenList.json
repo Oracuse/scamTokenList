@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x374b7dF48923cE6440B40C73ffe2BF828304d1e4",
-      "symbol": "MERGEREUM",
-      "name": "Mergereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDf73c72b08EC9fcCAA2d73eCB5c877ce97228891",
       "symbol": "WHIRL",
       "name": "Whirl",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe0b646C740a3f82674502014A3ee5322B808F0F",
+      "symbol": "PLAYER",
+      "name": "FIFAWorldPlayerofth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16130,
-    "minor": 16130,
+    "major": 16131,
+    "minor": 16131,
     "patch": 86
   }
 }
