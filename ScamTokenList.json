@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5cA14530FA17b382f99723c152Dcf05bE2F7Add0",
-      "symbol": "BABYMERGY",
-      "name": "BabyMergyInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd16cc138E7bD97DC85B025fC4674bE25fd003dB8",
       "symbol": "TAKI",
       "name": "Takiyasha",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8FE75F2223c918B6EC227455FB49af0F61e920FF",
+      "symbol": "OS",
+      "name": "OnlyStables",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16220,
-    "minor": 16220,
+    "major": 16221,
+    "minor": 16221,
     "patch": 86
   }
 }
