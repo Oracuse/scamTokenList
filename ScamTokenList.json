@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9AB20838D03e15Ab9d6B227a9AEbA5eaA171DCe1",
-      "symbol": "TSUMI",
-      "name": "Watatsumi",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE6214BcFDEe95C6bda625E66A28D853c324F572E",
       "symbol": "VTEX",
       "name": "Vortex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0a96bbA6C47D535852263806AeD9C8c9c10cD319",
+      "symbol": "GENC",
+      "name": "GenesisClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16299,
-    "minor": 16299,
+    "major": 16300,
+    "minor": 16300,
     "patch": 86
   }
 }
