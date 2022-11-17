@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3dE244826573B0Ab7BF76E1D63ef83b5572B8Bb2",
-      "symbol": "ZZ",
-      "name": "ZigZag",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66301f0Ea611749a06f05F52ab974e24792209Dc",
       "symbol": "FM",
       "name": "FlokiMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF758162975Da5803dBFC1704F3C10168c66DD54",
+      "symbol": "USDC",
+      "name": "USDCLASSIC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16262,
-    "minor": 16262,
+    "major": 16263,
+    "minor": 16263,
     "patch": 86
   }
 }
