@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x89bdDBcB294BE801121109Cb76874405Db2CD8eA",
-      "symbol": "SHIBGAR",
-      "name": "SHIBGAR",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a9288EdB5E9208D9076c8B7231f1Ef9c1390b60",
       "symbol": "BUDDHA",
       "name": "Gautama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFdcE97CEF0fAe8aa003f3ab485BB29084dbFb694",
+      "symbol": "JESTER",
+      "name": "Jester",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16313,
-    "minor": 16313,
+    "major": 16314,
+    "minor": 16314,
     "patch": 86
   }
 }
