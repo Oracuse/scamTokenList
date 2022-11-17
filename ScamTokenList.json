@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE5262FB5389e4bB4b754429f565e4b6e5c56dA82",
-      "symbol": "SOM",
-      "name": "StraightOuttaMerge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAeBC74216dFd1f072Fc53AF0dE6a02155fE73c7e",
       "symbol": "MIZUCHI",
       "name": "Mizuchi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1dcC49ef243B54520377a6048E7ED1F36B7aCFe",
+      "symbol": "MEMES",
+      "name": "TheMemesToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16201,
-    "minor": 16201,
+    "major": 16202,
+    "minor": 16202,
     "patch": 86
   }
 }
