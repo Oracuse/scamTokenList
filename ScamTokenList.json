@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbbb0102537427EF3EfB014058b73CD707918eF5c",
-      "symbol": "IOS",
-      "name": "TheImpureOracles",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84016A01FD3829523ae8D5989E58FBe9C1539218",
       "symbol": "SHIBJUTSU",
       "name": "ShibaNoJutsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f88dcb577cef8bB3AC635596265eE8A89be157F",
+      "symbol": "WENDY",
+      "name": "WendyBankmanFriedIn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16301,
-    "minor": 16301,
+    "major": 16302,
+    "minor": 16302,
     "patch": 86
   }
 }
