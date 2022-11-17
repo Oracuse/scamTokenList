@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA3066314f5993506307BADBecCDacbf1d7f356D5",
-      "symbol": "JADE",
-      "name": "JadeDragon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9AB20838D03e15Ab9d6B227a9AEbA5eaA171DCe1",
       "symbol": "TSUMI",
       "name": "Watatsumi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54057922dD76aD19d8FAA5a44B2cCc8892F56A18",
+      "symbol": "TTEST",
+      "name": "TTest",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16298,
-    "minor": 16298,
+    "major": 16299,
+    "minor": 16299,
     "patch": 86
   }
 }
