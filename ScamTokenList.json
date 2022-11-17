@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA64Ff4fCA677a55440ba7737Fe33e9A7e0EF6FaD",
-      "symbol": "MOD",
-      "name": "Modefi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81ff5a19FB2373A29A7e049b6b1a088e165C5D40",
       "symbol": "DEPLOYER",
       "name": "TheDeployer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5192337c2391A9d8F4Bc8A2978a41A613bD100ea",
+      "symbol": "FTSEX",
+      "name": "WankmanBankman",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16213,
-    "minor": 16213,
+    "major": 16214,
+    "minor": 16214,
     "patch": 86
   }
 }
