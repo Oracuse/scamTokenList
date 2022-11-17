@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x00819c26fBD1C7b70b3270567A55aF46d5Ea5B08",
-      "symbol": "CONNECTIVE",
-      "name": "Connective",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf85363723d8Acb6745Eb95708c0a341668705e19",
       "symbol": "RASUKA",
       "name": "RasukaisWise",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF52929bA9793C5DA3d1C87a010A942346c279B3D",
+      "symbol": "TESTING",
+      "name": "THISISATEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16245,
-    "minor": 16245,
+    "major": 16246,
+    "minor": 16246,
     "patch": 86
   }
 }
