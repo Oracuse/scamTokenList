@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4cDd3013fd50bB8C25C67EACfD78709eE42EfECB",
-      "symbol": "ILY",
-      "name": "ILY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3E412D00Bc6B8b24269d3ce4518f398f18dF36e7",
       "symbol": "ENERGY",
       "name": "Energy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4BD0C74faE995cc04da0e1E2E1bd3fB76dEee611",
+      "symbol": "ARTEMIS",
+      "name": "Artemis",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16306,
-    "minor": 16306,
+    "major": 16307,
+    "minor": 16307,
     "patch": 86
   }
 }
