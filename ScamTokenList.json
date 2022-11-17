@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14D557493A1C24f194125ECfb2C84e01fE6d8622",
-      "symbol": "POWORPOS",
-      "name": "POSorPOW",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x68FdB72CA386D24360B7b35486a619B8BcA4FF18",
       "symbol": "JUBJUB",
       "name": "Jabberwocky",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38e82D3619Ca90Ed6325AC4e37Eba38135975F33",
+      "symbol": "MEMES",
+      "name": "TheMemesToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16204,
-    "minor": 16204,
+    "major": 16205,
+    "minor": 16205,
     "patch": 86
   }
 }
