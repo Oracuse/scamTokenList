@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08e386bAAc7A54de87a1Dbb6cbF7AE6657d0D869",
-      "symbol": "FM",
-      "name": "FlokiMerge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2346FC578a06990E2E790D3981a291B174EFbcE3",
       "symbol": "KUZA",
       "name": "Yakuza",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9940d806bCeE887F8CbE02860711Feec4378960",
+      "symbol": "ETHV",
+      "name": "ETHeaven",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16290,
-    "minor": 16290,
+    "major": 16291,
+    "minor": 16291,
     "patch": 86
   }
 }
