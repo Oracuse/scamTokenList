@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x655537571fFAEF45F6900ae48803fd60C18910D6",
-      "symbol": "THEREALISATION",
-      "name": "Sonder",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x61E0673daB85B5C7719439928b4833a8b53AfDD1",
       "symbol": "POS32",
       "name": "PoS32",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99Bb5AF75c43CD19C29E9D4B3A788b52BE215d43",
+      "symbol": "ASK",
+      "name": "ASK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16315,
-    "minor": 16315,
+    "major": 16316,
+    "minor": 16316,
     "patch": 86
   }
 }
