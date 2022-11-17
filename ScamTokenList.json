@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81437Fc1f24A03F8071e9868384Bd2937B492F57",
-      "symbol": "DKYC",
-      "name": "DontKYC",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x123c68f31d9fe773E6ADc3C0ed8A811a3aFDfd97",
       "symbol": "EGREM",
       "name": "EGREM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92ec3063788C2207CbBBf1C56491EB86E38dbA13",
+      "symbol": "WSHLY",
+      "name": "washly",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16236,
-    "minor": 16236,
+    "major": 16237,
+    "minor": 16237,
     "patch": 86
   }
 }
