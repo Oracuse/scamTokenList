@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x006Ff2b003286e9269eeddDf5CCa01464789374e",
-      "symbol": "EIAB",
-      "name": "ETHinabox",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDFEb1F48c1717a9b7d6ed369dbe817318f6A10E4",
       "symbol": "QUEST",
       "name": "DragonQuest",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97b8D066E667C4466a0BB906E0c173cc350a01D1",
+      "symbol": "OCAM",
+      "name": "OCamCoinAdult30",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16295,
-    "minor": 16295,
+    "major": 16296,
+    "minor": 16296,
     "patch": 86
   }
 }
