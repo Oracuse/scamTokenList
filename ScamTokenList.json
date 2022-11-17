@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42c2f413fB33C43D51DF6Ab4eDF40E6A0F2AC239",
-      "symbol": "DUBBZ",
-      "name": "DubbzGaming",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x47c4dCe9bc1b0A3fb458fF3b4cd59C28D994bB5D",
       "symbol": "KWON",
       "name": "FreeKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF2631AF89989d293496E9AA65CED020c17516BDA",
+      "symbol": "VALLA",
+      "name": "BoredVALLASProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16249,
-    "minor": 16249,
+    "major": 16250,
+    "minor": 16250,
     "patch": 86
   }
 }
