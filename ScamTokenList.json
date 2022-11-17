@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5E21a44e18553c42723138852594b1c36734F738",
-      "symbol": "KO",
-      "name": "Kimono",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x86BB5d0fda8283129DC6dd12b401C208082DB70E",
       "symbol": "IOS",
       "name": "TheImpureOracles",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12E21AF420C26134EC3Cf6233777129A675b7C5c",
+      "symbol": "GENESIS",
+      "name": "GenesisGlobal",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16281,
-    "minor": 16281,
+    "major": 16282,
+    "minor": 16282,
     "patch": 86
   }
 }
