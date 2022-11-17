@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDc3C6Cc69635aa4C2f197d11bbe8BB96c01d9935",
-      "symbol": "DTH",
-      "name": "DogeETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9B930D7a158bc5b3bb06A60c696eB3c66aB57BDA",
       "symbol": "EGREM",
       "name": "EGREM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6075491B2cA6BAD3547Ba35d5dA93ec1A5D14A2",
+      "symbol": "TESTI",
+      "name": "testiloni",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16218,
-    "minor": 16218,
+    "major": 16219,
+    "minor": 16219,
     "patch": 86
   }
 }
