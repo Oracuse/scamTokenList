@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb647A7718567B8B8CD0A9155fA6bB21AFf07C966",
-      "symbol": "RASU",
-      "name": "Amaterasu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x46E20956e6f08976DC8f44EDb66AB60abaeb706F",
       "symbol": "CODEOFLIFE",
       "name": "CodeofLife",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3fac18860ab73c3e5C27d92ea1387F8b8d7eC5F8",
+      "symbol": "XCEX",
+      "name": "CANCELTHECEX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16275,
-    "minor": 16275,
+    "major": 16276,
+    "minor": 16276,
     "patch": 86
   }
 }
