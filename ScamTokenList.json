@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17cD8d80e60b52a8ea588BDC01CBD2D9Bbf4e76a",
-      "symbol": "DIANA",
-      "name": "DIANAPoS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0929c46AE7cd8Ea482A229eBe57c0fDB0Fef4cD1",
       "symbol": "ITERO",
       "name": "Itero",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF30332964F8D3a90743B3eC98DAf4A32069B7188",
+      "symbol": "2DOLLAR",
+      "name": "TwoDollarMillionair",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16209,
-    "minor": 16209,
+    "major": 16210,
+    "minor": 16210,
     "patch": 86
   }
 }
