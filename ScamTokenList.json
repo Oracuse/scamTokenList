@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE3f4723799150f3879e21d49f7f66B02Efc45b9D",
-      "symbol": "SUTEKINGU",
-      "name": "Sutekingu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1D634772b5000d921A6A833fE156B42740966aF0",
       "symbol": "HINA",
       "name": "HINA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc9B374fc4d59ec38CbBd46968F4F965B0E605938",
+      "symbol": "MIROAR",
+      "name": "MiROAR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16196,
-    "minor": 16196,
+    "major": 16197,
+    "minor": 16197,
     "patch": 86
   }
 }
