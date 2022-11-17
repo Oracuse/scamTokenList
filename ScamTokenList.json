@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3E412D00Bc6B8b24269d3ce4518f398f18dF36e7",
-      "symbol": "ENERGY",
-      "name": "Energy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6c4268bC447e16FC2D69886941fC8dA8489578E8",
       "symbol": "STRONG",
       "name": "Ryota",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x428C1351264B1b79c58693f047CD1594D3249029",
+      "symbol": "BAD",
+      "name": "BADCOIN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16307,
-    "minor": 16307,
+    "major": 16308,
+    "minor": 16308,
     "patch": 86
   }
 }
