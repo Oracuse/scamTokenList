@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAeBC74216dFd1f072Fc53AF0dE6a02155fE73c7e",
-      "symbol": "MIZUCHI",
-      "name": "Mizuchi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28Ed9584febebf0FD05c243b12083e5E2E36A564",
       "symbol": "ETHD",
       "name": "ETHD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76F11ad915c88D5dc53B9D668bCBcCf2822f0179",
+      "symbol": "POO",
+      "name": "PoodleInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16202,
-    "minor": 16202,
+    "major": 16203,
+    "minor": 16203,
     "patch": 86
   }
 }
