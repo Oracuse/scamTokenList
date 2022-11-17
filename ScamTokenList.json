@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2ab3A0e7A769d2A1Ce5753F0DeF45D4Ae4c98DFb",
-      "symbol": "EGREM02",
-      "name": "MERGE20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf1e6928b549C977dd848070C0FEf08CBF3428C0a",
       "symbol": "EGREM02",
       "name": "MERGE20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0911e5f22679424b51FeC1fC0D9E2f47e92D838",
+      "symbol": "TRG",
+      "name": "TheRugGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16206,
-    "minor": 16206,
+    "major": 16207,
+    "minor": 16207,
     "patch": 86
   }
 }
