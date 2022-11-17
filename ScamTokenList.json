@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfF76fDfFe50033203d66c3b3C441A13CF2fA1f9d",
-      "symbol": "TEST",
-      "name": "TestToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb647A7718567B8B8CD0A9155fA6bB21AFf07C966",
       "symbol": "RASU",
       "name": "Amaterasu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95dff3eCb05Ec1eF6F598113a3E3603c95574b34",
+      "symbol": "DILLIONAIRE",
+      "name": "TheDollarMillionair",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16274,
-    "minor": 16274,
+    "major": 16275,
+    "minor": 16275,
     "patch": 86
   }
 }
