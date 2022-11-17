@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x80A8fD3Bc1DB49c5CdDc3029559b01229F50a6C8",
-      "symbol": "PURE",
-      "name": "PurifyDAO",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x540D60030422690d0e0fdD7c3cb5Ea2D8601015B",
       "symbol": "SHIBLINK",
       "name": "ShibaLink",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07C74DCbAb8E29725abC42840c8E0aC8193dacAC",
+      "symbol": "EPROTOCOL",
+      "name": "EtherProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16233,
-    "minor": 16233,
+    "major": 16234,
+    "minor": 16234,
     "patch": 86
   }
 }
