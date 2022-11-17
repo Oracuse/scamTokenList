@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4Cd588b76928168f80cD359A7e2c5A06317d8EF8",
-      "symbol": "EIP1559",
-      "name": "EIP1559",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x54a8e599BC2D5967E652759d8F7E0cFA0a91f52B",
       "symbol": "FM",
       "name": "FlokiMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x760302754103cF19B675d9E60ec336E1be105A52",
+      "symbol": "CCULT",
+      "name": "ConsumeCulture",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16260,
-    "minor": 16260,
+    "major": 16261,
+    "minor": 16261,
     "patch": 86
   }
 }
