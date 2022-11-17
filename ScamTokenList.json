@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0248Ce7Bf19Ede68d4f70637BE2fAaC171F55c98",
-      "symbol": "70ATTACK",
-      "name": "AbyssalWhip",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4DE770DDF7956bBEf89fD9533071445D0129aC9F",
       "symbol": "OCAT",
       "name": "OceanCat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F01CAd692BeE181E860AF0DF7765b6ccB70443E",
+      "symbol": "METHV2",
+      "name": "MethereumV2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16285,
-    "minor": 16285,
+    "major": 16286,
+    "minor": 16286,
     "patch": 86
   }
 }
