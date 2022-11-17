@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdb306Dc0496092Ef1aa0273094e2DB2E5f5Af90c",
-      "symbol": "DDAO",
-      "name": "DegenDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfF76fDfFe50033203d66c3b3C441A13CF2fA1f9d",
       "symbol": "TEST",
       "name": "TestToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3E133a0A14Bb8B595e5Fbf9851c7c783685BA69",
+      "symbol": "LKT",
+      "name": "LockerToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16273,
-    "minor": 16273,
+    "major": 16274,
+    "minor": 16274,
     "patch": 86
   }
 }
