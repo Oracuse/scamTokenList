@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x82296575C448001e0219dAD75fc13907a30Aa87b",
-      "symbol": "SHARIN",
-      "name": "SharinInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd3e6dFCAB072B5417ac990E98B108f3650521153",
       "symbol": "HOLYGRAIL",
       "name": "KnightsoftheRoundTa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB6eC96771804cB50316f2C43468608F4dFEb15C",
+      "symbol": "WEN",
+      "name": "WenBurnLiquidity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16324,
-    "minor": 16324,
+    "major": 16325,
+    "minor": 16325,
     "patch": 86
   }
 }
