@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x02D0879FCeA6fE79a39C7ecbD51396700981612C",
-      "symbol": "NAME",
-      "name": "NAME",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC84A151c0aB77C0890796c57e894D2a9BA175Bea",
       "symbol": "DUBBZ",
       "name": "Dubbz",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54B48F88aDB48097310dE29C3b469d9Fd6a48535",
+      "symbol": "TRG",
+      "name": "TheRugGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16190,
-    "minor": 16190,
+    "major": 16191,
+    "minor": 16191,
     "patch": 86
   }
 }
