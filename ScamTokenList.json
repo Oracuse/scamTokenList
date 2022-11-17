@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE6214BcFDEe95C6bda625E66A28D853c324F572E",
-      "symbol": "VTEX",
-      "name": "Vortex",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbbb0102537427EF3EfB014058b73CD707918eF5c",
       "symbol": "IOS",
       "name": "TheImpureOracles",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e91927e04ee7612B809Bc9B5a4979cD6BAb9263",
+      "symbol": "BFI",
+      "name": "BlackFridayINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16300,
-    "minor": 16300,
+    "major": 16301,
+    "minor": 16301,
     "patch": 86
   }
 }
