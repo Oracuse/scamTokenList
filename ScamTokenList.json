@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4CB744657672cc98618a1D33b34369Fc0Ef23334",
-      "symbol": "SHIRO",
-      "name": "SanshiTokai",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8eb5bD8c9Ab0F8ad28e94693F3c889F490bE2aB0",
       "symbol": "POS32",
       "name": "PoS32",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC458905442CAe83c1Db43382db0cd9EB5bB89529",
+      "symbol": "LOAD",
+      "name": "Lifeofadegen",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16317,
-    "minor": 16317,
+    "major": 16318,
+    "minor": 16318,
     "patch": 86
   }
 }
