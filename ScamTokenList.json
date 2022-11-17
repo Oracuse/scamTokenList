@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x75F08AdB0E657A2bBE0a5a54088c1dE65Ed05033",
-      "symbol": "UINU",
-      "name": "UniInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcB1efD03c919be65FB8FcA6B48179A3e661FE98e",
       "symbol": "SAIKOU",
       "name": "MaximumTheHighest",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeaf8bdb4EB0d077E8B03F04350A564D21aCC967D",
+      "symbol": "VERIFY",
+      "name": "VerifiedBadgeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16287,
-    "minor": 16287,
+    "major": 16288,
+    "minor": 16288,
     "patch": 86
   }
 }
