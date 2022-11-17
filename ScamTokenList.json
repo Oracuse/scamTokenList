@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x18EAB47961f0f64bbBdAca4D2261a30D3A75b6F6",
-      "symbol": "ETHUB",
-      "name": "ETHub",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00819c26fBD1C7b70b3270567A55aF46d5Ea5B08",
       "symbol": "CONNECTIVE",
       "name": "Connective",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDefb4586d962993e4444655Dd675E943C3F86886",
+      "symbol": "NO10",
+      "name": "APerfect10",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16244,
-    "minor": 16244,
+    "major": 16245,
+    "minor": 16245,
     "patch": 86
   }
 }
