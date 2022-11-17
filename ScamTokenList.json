@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1D634772b5000d921A6A833fE156B42740966aF0",
-      "symbol": "HINA",
-      "name": "HINA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x181920039593a6Db85E503eADdeA327eE7E856Ba",
       "symbol": "SHIBIRA",
       "name": "Shibira",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeA840941516CAF9de952ea4c9a57D756CA37f234",
+      "symbol": "MIRAR",
+      "name": "MiRAR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16197,
-    "minor": 16197,
+    "major": 16198,
+    "minor": 16198,
     "patch": 86
   }
 }
