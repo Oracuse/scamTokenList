@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7eD48b66797EEBb5f02B4545b389de32A7a60EF8",
-      "symbol": "OKO",
-      "name": "OKOToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xee839e80edD4897e387945739e40c871E9ABA73c",
       "symbol": "LKCH",
       "name": "LuckyCharm",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeD9eBE18094592f79D589ad489E64076D2d0d34c",
+      "symbol": "REDDOGE",
+      "name": "BigRedDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16293,
-    "minor": 16293,
+    "major": 16294,
+    "minor": 16294,
     "patch": 86
   }
 }
