@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8202bE32b8E045CE97418B0DBE77a7A1398dbE51",
-      "symbol": "ETHW",
-      "name": "ETHW",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01b9cA34C2B59d74C87820b85b9fB6e6F5f7339f",
       "symbol": "CONNECTIVE",
       "name": "Connective",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3850B396AB67281B8Cb454002A593336eD6D5670",
+      "symbol": "BULL",
+      "name": "FengShui",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16187,
-    "minor": 16187,
+    "major": 16188,
+    "minor": 16188,
     "patch": 86
   }
 }
