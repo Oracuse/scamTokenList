@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28Ed9584febebf0FD05c243b12083e5E2E36A564",
-      "symbol": "ETHD",
-      "name": "ETHD",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x14D557493A1C24f194125ECfb2C84e01fE6d8622",
       "symbol": "POWORPOS",
       "name": "POSorPOW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D814459ce521965991F507Bab5a5b29Fb906E56",
+      "symbol": "MADMANGA",
+      "name": "MadManga",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16203,
-    "minor": 16203,
+    "major": 16204,
+    "minor": 16204,
     "patch": 86
   }
 }
