@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcF52F475D4AfB2dDFE13A6fd0f456c2eFEac0c5C",
-      "symbol": "CONNECTIVE",
-      "name": "Connective",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF57B152De454AbC13aeE9C1EcCe9097eB922Fd7F",
       "symbol": "SUDORUG",
       "name": "SudoRugToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7af3d0AC02cad52192C28D17396F4e6A0DefE32",
+      "symbol": "UNII",
+      "name": "UniswapInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16256,
-    "minor": 16256,
+    "major": 16257,
+    "minor": 16257,
     "patch": 86
   }
 }
