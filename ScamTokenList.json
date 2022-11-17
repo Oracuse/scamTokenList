@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc0454fdfD33eD98f7ad30fE356c40080a74D122d",
-      "symbol": "PRO",
-      "name": "Promethacles",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5E21a44e18553c42723138852594b1c36734F738",
       "symbol": "KO",
       "name": "Kimono",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x182646E84586dda1a2168a7C4EA3790d9834EB31",
+      "symbol": "TRUMPUMP",
+      "name": "PumpTrump",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16280,
-    "minor": 16280,
+    "major": 16281,
+    "minor": 16281,
     "patch": 86
   }
 }
