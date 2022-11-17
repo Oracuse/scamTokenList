@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6355fd89D597c3bf902Ff9ca7A76e10968dD790C",
-      "symbol": "CLOSER",
-      "name": "Closer",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf70a50138a82b57c046F62B273Ad0DF6fb70aC53",
       "symbol": "CONNECTIVE",
       "name": "Connective",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60BA00a218bCB52600Daf15E32BAEfFc06cc49bC",
+      "symbol": "WOW",
+      "name": "WorldOfWarcraft",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16239,
-    "minor": 16239,
+    "major": 16240,
+    "minor": 16240,
     "patch": 86
   }
 }
