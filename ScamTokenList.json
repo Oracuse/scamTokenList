@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4ee94004dfaBbf0C8DD52F5128eC6Cc660A2CF9F",
-      "symbol": "CONNECTIVE",
-      "name": "Connective",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4cDd3013fd50bB8C25C67EACfD78709eE42EfECB",
       "symbol": "ILY",
       "name": "ILY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa621262C32801f185E88411869655Dc03BC5C495",
+      "symbol": "POISON",
+      "name": "PoisonIvy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16305,
-    "minor": 16305,
+    "major": 16306,
+    "minor": 16306,
     "patch": 86
   }
 }
