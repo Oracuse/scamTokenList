@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9533FFE812d3566E185052018ef193Ec9421eBDA",
-      "symbol": "MERGYSHIBA",
-      "name": "MergyShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa54d09C1a2aFD25BDf2f12D2f98D76f2dEB1Ec2B",
       "symbol": "SAIGOTAKAMORI",
       "name": "TheLastSamurai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43F22437aC8336130B5876a3EF7D02f8247E3c98",
+      "symbol": "FAS",
+      "name": "FundsAreSafe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16303,
-    "minor": 16303,
+    "major": 16304,
+    "minor": 16304,
     "patch": 86
   }
 }
