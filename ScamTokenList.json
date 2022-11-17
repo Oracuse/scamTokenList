@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5d2B8F929490938c3bfDA6Fcb6B6FD7c97e2887A",
-      "symbol": "MLOCKER",
-      "name": "MemeLocker",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x77F4A9e73Af6B2f277354D1475CcafFa2AdF466C",
       "symbol": "IZANAGI",
       "name": "IzanagiProtcol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Db476b786E2a7a8714350DC455F88fd8faf16ed",
+      "symbol": "100B",
+      "name": "OneHundresDollarBil",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16224,
-    "minor": 16224,
+    "major": 16225,
+    "minor": 16225,
     "patch": 86
   }
 }
