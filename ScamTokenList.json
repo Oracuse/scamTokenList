@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9fC56a701Fa8f3B1442A14025975091359caFf5A",
-      "symbol": "CONNECTIVE",
-      "name": "Connective",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0d97F92134Bdc49ba87B66A72737dF0152D9Fc26",
       "symbol": "ETHW",
       "name": "ETHW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3c4A0Cc442fEfDD8b956b008C95D8A58C0F8190",
+      "symbol": "DEEROGEINU",
+      "name": "DeeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16226,
-    "minor": 16226,
+    "major": 16227,
+    "minor": 16227,
     "patch": 86
   }
 }
