@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDCAd0f5d685e07c4c5bD9E92DDCf9EB40E0E963C",
-      "symbol": "NEWERA",
-      "name": "NewEra",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE5262FB5389e4bB4b754429f565e4b6e5c56dA82",
       "symbol": "SOM",
       "name": "StraightOuttaMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4907363b28FA87cC3d33F01323C57DC3C0083f03",
+      "symbol": "KYC",
+      "name": "KnowYourCrypto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16200,
-    "minor": 16200,
+    "major": 16201,
+    "minor": 16201,
     "patch": 86
   }
 }
