@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4DE770DDF7956bBEf89fD9533071445D0129aC9F",
-      "symbol": "OCAT",
-      "name": "OceanCat",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75F08AdB0E657A2bBE0a5a54088c1dE65Ed05033",
       "symbol": "UINU",
       "name": "UniInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B5841f10C0e6d181774E1A0E35c4b2C352e7A2E",
+      "symbol": "QUICKY",
+      "name": "QUICKBURN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16286,
-    "minor": 16286,
+    "major": 16287,
+    "minor": 16287,
     "patch": 86
   }
 }
