@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD7B5d851aFbbD59d50D57c1db2A75C13cbDd43F9",
-      "symbol": "PETH",
-      "name": "MergedPanda",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10Af14b64f90464e497b32D213FDe093750430f5",
       "symbol": "QUIET",
       "name": "TheQuietHope",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44a60f883Ad168005A8Fd3E7c827C63726d2D1d3",
+      "symbol": "100SCLUB",
+      "name": "100sClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16251,
-    "minor": 16251,
+    "major": 16252,
+    "minor": 16252,
     "patch": 86
   }
 }
