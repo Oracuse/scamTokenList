@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5fFD8a3eBd0924eAb4869f3de9e1846d9758788a",
-      "symbol": "ILY",
-      "name": "ILY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7eD48b66797EEBb5f02B4545b389de32A7a60EF8",
       "symbol": "OKO",
       "name": "OKOToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1b0Cd5A1a7608BA1354238892576d9DB7E017bd",
+      "symbol": "QWC",
+      "name": "QatarWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16292,
-    "minor": 16292,
+    "major": 16293,
+    "minor": 16293,
     "patch": 86
   }
 }
