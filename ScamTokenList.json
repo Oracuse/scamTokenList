@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1a6a694e6f1EC5A1fd222955Ffe1346868BA82e8",
-      "symbol": "POS32",
-      "name": "PoS32",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x89bdDBcB294BE801121109Cb76874405Db2CD8eA",
       "symbol": "SHIBGAR",
       "name": "SHIBGAR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42a17D6C4edbbEcc9A7633D76Dd7A78997C6C8A0",
+      "symbol": "CROATIA",
+      "name": "CroatiaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16312,
-    "minor": 16312,
+    "major": 16313,
+    "minor": 16313,
     "patch": 86
   }
 }
