@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAD887Db45303C00fc8b56BcEfAF36A3212948146",
-      "symbol": "DM",
-      "name": "DogeMerge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73830C23d50D45f588418748d853F4458fEb1046",
       "symbol": "REALISE",
       "name": "Sonderarealisation",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d03AFB6f4AEB635E0FbB408a6564bC466719893",
+      "symbol": "METH",
+      "name": "Methereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16271,
-    "minor": 16271,
+    "major": 16272,
+    "minor": 16272,
     "patch": 86
   }
 }
