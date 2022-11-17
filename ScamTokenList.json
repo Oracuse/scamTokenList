@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x47c4dCe9bc1b0A3fb458fF3b4cd59C28D994bB5D",
-      "symbol": "KWON",
-      "name": "FreeKwon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD7B5d851aFbbD59d50D57c1db2A75C13cbDd43F9",
       "symbol": "PETH",
       "name": "MergedPanda",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x094d9FF5a966312e48CC8C247a55CB86a425148B",
+      "symbol": "RETOLD",
+      "name": "FinalFantasia",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16250,
-    "minor": 16250,
+    "major": 16251,
+    "minor": 16251,
     "patch": 86
   }
 }
