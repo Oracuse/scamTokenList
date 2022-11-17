@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73830C23d50D45f588418748d853F4458fEb1046",
-      "symbol": "REALISE",
-      "name": "Sonderarealisation",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdb306Dc0496092Ef1aa0273094e2DB2E5f5Af90c",
       "symbol": "DDAO",
       "name": "DegenDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcBB65438D14748D201Cd8f915a61f745E68D866e",
+      "symbol": "DBDC",
+      "name": "DecentralBankDigita",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16272,
-    "minor": 16272,
+    "major": 16273,
+    "minor": 16273,
     "patch": 86
   }
 }
