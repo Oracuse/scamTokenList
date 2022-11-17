@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x19f0059093Be9593eCfea2fDebE0eed824409E5e",
-      "symbol": "DOOM",
-      "name": "Doomsday",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7Ec254E07222685f5Ca1A8409c2feBE91430105c",
       "symbol": "TROJANI",
       "name": "Trojani",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD058d156428f888a5da2D66C91c8293a2547FaE4",
+      "symbol": "10DOLLAR",
+      "name": "TenDollarMillionair",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16265,
-    "minor": 16265,
+    "major": 16266,
+    "minor": 16266,
     "patch": 86
   }
 }
