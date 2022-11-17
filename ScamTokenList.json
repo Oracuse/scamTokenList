@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0Adf4bBf3A2542bC51621ABe30Ac8F9684FB1585",
-      "symbol": "POSD",
-      "name": "PoSDAI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8202bE32b8E045CE97418B0DBE77a7A1398dbE51",
       "symbol": "ETHW",
       "name": "ETHW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2e03a53B28C4ffa5Ec7907e2Ff33c5c8919F835b",
+      "symbol": "KTV",
+      "name": "KishuTV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16186,
-    "minor": 16186,
+    "major": 16187,
+    "minor": 16187,
     "patch": 86
   }
 }
