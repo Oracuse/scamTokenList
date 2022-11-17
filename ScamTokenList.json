@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5D3C80bc415Ee8c3a8a8666e9ceBF0B07903bc34",
-      "symbol": "KASHIRO",
-      "name": "Katashiro",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xACFDE1DE407767C874B1eE4EDA38727348c51bE4",
       "symbol": "INUGAMI",
       "name": "INUGAMI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a852106aE2A247B241f39CfBc723C78E45B67CB",
+      "symbol": "OS",
+      "name": "OnlyStables",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16241,
-    "minor": 16241,
+    "major": 16242,
+    "minor": 16242,
     "patch": 86
   }
 }
