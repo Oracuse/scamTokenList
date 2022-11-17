@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0BF765dAf6C17f333Cf90C349d8Faf4818230577",
-      "symbol": "CRSP",
-      "name": "CruiseShip",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Cd588b76928168f80cD359A7e2c5A06317d8EF8",
       "symbol": "EIP1559",
       "name": "EIP1559",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x816cE6dfFC9d2F933DFaA5Ce4F23Cea29b1897bE",
+      "symbol": "FF",
+      "name": "FifaFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16259,
-    "minor": 16259,
+    "major": 16260,
+    "minor": 16260,
     "patch": 86
   }
 }
