@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f805680E0366f09F5D71fDa5C6D58F7d4f015f1",
-      "symbol": "BUDAI",
-      "name": "BudaiInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x23529F171140C07Ce5708C86f2e959846bcf63A5",
       "symbol": "FUFE",
       "name": "FuriedeFeu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6E83E5C738dB6805Ce334d586c2575deEcA2E8c9",
+      "symbol": "KINU",
+      "name": "KidsInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16194,
-    "minor": 16194,
+    "major": 16195,
+    "minor": 16195,
     "patch": 86
   }
 }
