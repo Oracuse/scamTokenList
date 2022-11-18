@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7fA587249698C8F12510C355601edE4a6E261389",
-      "symbol": "HIBAKUSHA",
-      "name": "TheBurnCommunity",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd528fc832A3179401Cd8ad0E9EbB5C2922978797",
       "symbol": "SAINTS",
       "name": "SAINTS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA5E8D428958204727d3d96264a2174AFeE1CEA6b",
+      "symbol": "TWTMIG",
+      "name": "TwitterMigration",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16382,
-    "minor": 16382,
+    "major": 16383,
+    "minor": 16383,
     "patch": 86
   }
 }
