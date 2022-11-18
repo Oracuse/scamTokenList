@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x306D2A122582E3b3983f8aACD079F948e664aaBB",
-      "symbol": "ASTRO",
-      "name": "ASTRO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x67332088E02975B2134564DfbF1F5e8Ca77aa5eA",
       "symbol": "KANGOO",
       "name": "Kangoo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60122F36c3D5F70165B10628BDc87C4741E7398c",
+      "symbol": "PIXEL",
+      "name": "LifeofPixel",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16403,
-    "minor": 16403,
+    "major": 16404,
+    "minor": 16404,
     "patch": 86
   }
 }
