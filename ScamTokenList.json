@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7C61a233493BDdcA8de70C414f74f5529e42fde3",
-      "symbol": "UNSELLABLE",
-      "name": "DONTBUYTHIS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49B4F92431c5B8cF260F983c4d3ed28E1fd0b991",
       "symbol": "JOJO",
       "name": "JoJosAdventure",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c6F393c9d6eC35095258d6cB72088D5C8Df5Da7",
+      "symbol": "POOP",
+      "name": "MrHankey",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16422,
-    "minor": 16422,
+    "major": 16423,
+    "minor": 16423,
     "patch": 86
   }
 }
