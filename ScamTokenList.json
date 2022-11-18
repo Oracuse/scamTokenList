@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2f230D7B12e2b005a12661008d6370FDD9BC26E9",
-      "symbol": "DISCONNECT",
-      "name": "DISCONNECT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAf8d0759a4123B66772a146049bc01A218af4b81",
       "symbol": "WIZARD",
       "name": "Mahotsukai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE8248dfc93cF579f09074FC605AFA51A2AD62586",
+      "symbol": "DOGTAG",
+      "name": "DogTag",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16372,
-    "minor": 16372,
+    "major": 16373,
+    "minor": 16373,
     "patch": 86
   }
 }
