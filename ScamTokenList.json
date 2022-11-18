@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCeBbDa551AAfAb28c36CC6682FDD69Abf0492f8c",
-      "symbol": "BBSHIB",
-      "name": "BabyShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x148689cd03a966E0e4E9AF0dA9dA932FeeC78BD4",
       "symbol": "KAMIKAZE",
       "name": "AtomicSamurai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x218803C3e66A2B485020881E8763b7284515059e",
+      "symbol": "FTXE",
+      "name": "FTXEnron",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16388,
-    "minor": 16388,
+    "major": 16389,
+    "minor": 16389,
     "patch": 86
   }
 }
