@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5833cd7b14a0B6E61d2180dE0136D0fE894de16",
-      "symbol": "ASWR",
-      "name": "AgentSmithWasRight",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42F2aA6E973f6757529fb0f1F26D882cA5E90813",
       "symbol": "SHINRAN",
       "name": "Shinran",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9191812df9551E0035038c4f838b084e532a9fD0",
+      "symbol": "YORI",
+      "name": "ThePathOfLightV2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16390,
-    "minor": 16390,
+    "major": 16391,
+    "minor": 16391,
     "patch": 86
   }
 }
