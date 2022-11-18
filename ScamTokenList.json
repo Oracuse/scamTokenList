@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDA7cB1eDad4EC9224a79718bABB6715F7407184a",
-      "symbol": "SAFU",
-      "name": "Safuchain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2fC560904531a95c9019297C08817D6d625BAc05",
       "symbol": "QUIET",
       "name": "Shizunoiwaya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF44C985A78cD22aE703a7E8eE27200283Da5e926",
+      "symbol": "WCP",
+      "name": "WorldCupPunter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16351,
-    "minor": 16351,
+    "major": 16352,
+    "minor": 16352,
     "patch": 86
   }
 }
