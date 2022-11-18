@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x324E495d388b82C078D4AB51ce8Fbe4CC6f9C1E5",
-      "symbol": "JOKER",
-      "name": "fiveforbiddencards",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4dDD9cF6bC4b77Bb30B9A5f5483ED695b04A34bF",
       "symbol": "YORI",
       "name": "Yori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48a559E3cE3519f779dCF317Ec55554d31c6bEE7",
+      "symbol": "DOGE",
+      "name": "JustDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16449,
-    "minor": 16449,
+    "major": 16450,
+    "minor": 16450,
     "patch": 86
   }
 }
