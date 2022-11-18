@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81E9519aC8f01A16781605D201c7A537E85AB2B8",
-      "symbol": "WETHSWAP",
-      "name": "WETHSWAP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7A25c607b37c49E17932EeBFa5484A9DB90b2a19",
       "symbol": "SC",
       "name": "SHIBCHAIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xffA19F522b7009f7CC5466a0202062917aBb6FA0",
+      "symbol": "GETH",
+      "name": "GreenEthereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16361,
-    "minor": 16361,
+    "major": 16362,
+    "minor": 16362,
     "patch": 86
   }
 }
