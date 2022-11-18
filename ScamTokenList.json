@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4C249fE8bB7a71Af9FaF205F83d46e5f52F24115",
-      "symbol": "KRYPT",
-      "name": "Kryptonite",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8BD1cff992d70441d2869C06987383EfFA03035D",
       "symbol": "BLUE",
       "name": "0xBlue",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0F2E48444A906Ec82047F526aF13E2C4fA4F2b93",
+      "symbol": "SNIPER",
+      "name": "SniperInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16369,
-    "minor": 16369,
+    "major": 16370,
+    "minor": 16370,
     "patch": 86
   }
 }
