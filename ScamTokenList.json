@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd528fc832A3179401Cd8ad0E9EbB5C2922978797",
-      "symbol": "SAINTS",
-      "name": "SAINTS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1e4C7c36743390Eae38a7f0cD0711C9C09DBF9c8",
       "symbol": "FUEGO",
       "name": "ElFuego",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5354c908FB4F09445712a953c03e454D605f9668",
+      "symbol": "OG",
+      "name": "OriginalGangster",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16383,
-    "minor": 16383,
+    "major": 16384,
+    "minor": 16384,
     "patch": 86
   }
 }
