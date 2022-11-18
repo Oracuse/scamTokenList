@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF45475789564D68bf16AfD08270Cf1a994c517d5",
-      "symbol": "CARX",
-      "name": "Caraxes",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCdAB2a25edcAa489dBD6C8dFA25e98F1aEa698c0",
       "symbol": "FCLIFF",
       "name": "FuckCliff",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbfAd0A5cde9Cc4fB532b1a1277c2dA3495Ec008E",
+      "symbol": "PLM",
+      "name": "PLOMO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16332,
-    "minor": 16332,
+    "major": 16333,
+    "minor": 16333,
     "patch": 86
   }
 }
