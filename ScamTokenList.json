@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60531789A03a9a250A39923E3228137494C65017",
-      "symbol": "ASTRO",
-      "name": "ASTRO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81C763AfB07b18977436BFD84711d6f49CABf76D",
       "symbol": "KOWARETA",
       "name": "KowaretaDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x037DBa50990aeA1a7CB7B56f812A6EeDD11e3C30",
+      "symbol": "LOOT",
+      "name": "LootProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16400,
-    "minor": 16400,
+    "major": 16401,
+    "minor": 16401,
     "patch": 86
   }
 }
