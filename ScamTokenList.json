@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9251855541bc0eC44Ad45166BEB64C2dF0BE276E",
-      "symbol": "EDD",
-      "name": "Eddereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc761eeaB269e712c7C5fEcd2E207c037C08FBFc8",
       "symbol": "WIS",
       "name": "Wisdom",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x996D7ea3d3A6728BdFA94b039C9D5855FC7eD023",
+      "symbol": "FTSEX",
+      "name": "FTXSEXTAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16385,
-    "minor": 16385,
+    "major": 16386,
+    "minor": 16386,
     "patch": 86
   }
 }
