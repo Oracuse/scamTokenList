@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4cB1bC56F62165aB5Fd7445B06946333250D432f",
-      "symbol": "EPIDEMIC",
-      "name": "epidemic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81E9519aC8f01A16781605D201c7A537E85AB2B8",
       "symbol": "WETHSWAP",
       "name": "WETHSWAP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe23315fa164195DbBd9A4be22aa195c3aB2E9228",
+      "symbol": "DINO",
+      "name": "DinoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16360,
-    "minor": 16360,
+    "major": 16361,
+    "minor": 16361,
     "patch": 86
   }
 }
