@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x00a50e70F4162B81c13c2c36C0DC7FaC852dcd82",
-      "symbol": "POS69",
-      "name": "PoS69",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc9b6A17EbB43491635F603A01f8Bb3e4B5D22228",
       "symbol": "MAGA",
       "name": "MAGACoinETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xecF9F8b0662B5f2be1Df232CA9616E1c313768F3",
+      "symbol": "FRIDAY",
+      "name": "FreedomFridays",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16415,
-    "minor": 16415,
+    "major": 16416,
+    "minor": 16416,
     "patch": 86
   }
 }
