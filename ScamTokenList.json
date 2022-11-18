@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x787Bc106B1ffeB8016899abc7Cf05B158d78b7df",
-      "symbol": "HODO",
-      "name": "HogeDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x94fE0C7D3Dc3f7Dd7B69be61BE8a6cD4C02BaBcD",
       "symbol": "TANUKI",
       "name": "TanukiMujina",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2ce76Ed05B56B4E75670cF0c7cFD6b464896240",
+      "symbol": "UT99",
+      "name": "Emscripten",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16328,
-    "minor": 16328,
+    "major": 16329,
+    "minor": 16329,
     "patch": 86
   }
 }
