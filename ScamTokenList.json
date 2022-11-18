@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf049943a58012d26D30C9091D568872ea1DB59A7",
-      "symbol": "GUMO",
-      "name": "Jorogumo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x05e5eEBB2EE8ce93411F87Ea685ad3384c8107f3",
       "symbol": "OWARU",
       "name": "Owaru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27E93a0cE23e505fab6cFA02572b93Db165B8535",
+      "symbol": "DCA",
+      "name": "DiCapriosClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16330,
-    "minor": 16330,
+    "major": 16331,
+    "minor": 16331,
     "patch": 86
   }
 }
