@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7a5C68c39662CA79Fabb29fd693beBB47Fc216E2",
-      "symbol": "POLLUX",
-      "name": "PolluxInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5ffE00B3801F48C280d6bc6fE2EF020F754c938F",
       "symbol": "DEGEN",
       "name": "DegensLegacy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7b2cFCBBDF70c9d4B90b54dA2FbD7409B8b94062",
+      "symbol": "SIMO",
+      "name": "SimoSniperToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16393,
-    "minor": 16393,
+    "major": 16394,
+    "minor": 16394,
     "patch": 86
   }
 }
