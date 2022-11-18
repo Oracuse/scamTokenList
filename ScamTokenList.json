@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x69C82422b0c7979AFd6f32DaA415261A1cF34863",
-      "symbol": "KEKSWAP",
-      "name": "KEKSWAP",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd67C0da0d6B0439473e7E271ceC60cAEAcf35C2A",
       "symbol": "DOBA",
       "name": "DOBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x103b603D95F769a8184c1e7cd49c81Bc826aB6E8",
+      "symbol": "TBI",
+      "name": "TwitterBlueInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16334,
-    "minor": 16334,
+    "major": 16335,
+    "minor": 16335,
     "patch": 86
   }
 }
