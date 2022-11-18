@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9CE8deBc537510fb0443916B9638Af0496979E47",
-      "symbol": "KUZURYU",
-      "name": "KuzuryuDaimyojin",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe36F8e8785B2803678009BC564eD22836A82D19c",
       "symbol": "SHENLONG",
       "name": "GodDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeA2b53ed9B7f9B56e275eeCEDf06b1621F18580A",
+      "symbol": "TID",
+      "name": "TwitterisDead",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16379,
-    "minor": 16379,
+    "major": 16380,
+    "minor": 16380,
     "patch": 86
   }
 }
