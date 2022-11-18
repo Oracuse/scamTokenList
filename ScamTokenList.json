@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x49B4F92431c5B8cF260F983c4d3ed28E1fd0b991",
-      "symbol": "JOJO",
-      "name": "JoJosAdventure",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb97B975c304a214b2a901687E1b1FB544b48Df60",
       "symbol": "SHIBAKU",
       "name": "ShibakuToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87625725821423bfdd1A61022e29625B2D6A5CF4",
+      "symbol": "BEAGLE",
+      "name": "BeagleInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16423,
-    "minor": 16423,
+    "major": 16424,
+    "minor": 16424,
     "patch": 86
   }
 }
