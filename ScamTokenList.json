@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x64d8ACd48Ac8773082B8980b423E38db3B0eDd39",
-      "symbol": "ODIN",
-      "name": "Odineum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6014cF7A1b9428182a8636ed902a027C346Fd839",
       "symbol": "MNT",
       "name": "MantaChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa213E7a42dfda24c06C958C90CA2E2Ce15c1925",
+      "symbol": "LFG",
+      "name": "ShibaLFG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16444,
-    "minor": 16444,
+    "major": 16445,
+    "minor": 16445,
     "patch": 86
   }
 }
