@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7a6157FCd6E54F8962651F0331C4AB6a967CaF73",
-      "symbol": "MEGA",
-      "name": "MEGACoinETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCF8C79Fb7Df3c977cd90902358fb4b140c432b15",
       "symbol": "RICKMORTY",
       "name": "RickandMorty",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x647c91ed5AbEb84D58Fb135cCC94897FD0434012",
+      "symbol": "BETTING",
+      "name": "BettingInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16407,
-    "minor": 16407,
+    "major": 16408,
+    "minor": 16408,
     "patch": 86
   }
 }
