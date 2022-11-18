@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE1c7ef69726a1742Ad82CDefcf2edeDd8A936CBA",
-      "symbol": "ETHM",
-      "name": "ETHMainnetMerge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9CE8deBc537510fb0443916B9638Af0496979E47",
       "symbol": "KUZURYU",
       "name": "KuzuryuDaimyojin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0a84e7373EBB62c92868Ff193f5f752099605fb0",
+      "symbol": "5000X",
+      "name": "5000x",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16378,
-    "minor": 16378,
+    "major": 16379,
+    "minor": 16379,
     "patch": 86
   }
 }
