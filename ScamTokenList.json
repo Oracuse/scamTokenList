@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc761eeaB269e712c7C5fEcd2E207c037C08FBFc8",
-      "symbol": "WIS",
-      "name": "Wisdom",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8b7805F103264eE4BB7d7580ca6C12C359A41923",
       "symbol": "ORK",
       "name": "OrkaniansInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4Ec016b2E0c4284bB45690759cD1e4Db0E1563c",
+      "symbol": "ONIC",
+      "name": "Omnicrypt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16386,
-    "minor": 16386,
+    "major": 16387,
+    "minor": 16387,
     "patch": 86
   }
 }
