@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcEBd930106dcb7e00779f72BCBB9D94a2511E362",
-      "symbol": "TEST",
-      "name": "testToken",
-      "decimals": 2,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x448c4204226252B0137477625d932Dc6ee78C6C3",
       "symbol": "ETHPOL",
       "name": "ProofofLarp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3407b159583aa8B5b70b0fF5366E9E8105B1b9Ff",
+      "symbol": "LORD",
+      "name": "LordVitalik",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16451,
-    "minor": 16451,
+    "major": 16452,
+    "minor": 16452,
     "patch": 86
   }
 }
