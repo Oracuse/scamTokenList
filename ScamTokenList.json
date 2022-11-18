@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x842178f45e01926C74cE6D317e2AD0e539a83527",
-      "symbol": "TAMER",
-      "name": "WHITESNAKE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf6DB8e3aB5E6d4cb99634f9C55Dc0cCd55d2d03A",
       "symbol": "SENSEI",
       "name": "WordOfSensei",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79de35F08cf1558b3Eb307BF0f7e3ad43273acA9",
+      "symbol": "FUD",
+      "name": "FearUncertaintyDoub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16344,
-    "minor": 16344,
+    "major": 16345,
+    "minor": 16345,
     "patch": 86
   }
 }
