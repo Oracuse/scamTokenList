@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0CDcF2eB7aeB6360C31e269b673F070b24c452f0",
-      "symbol": "AKAMICHI",
-      "name": "Akamichi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x051F17643995A28f5469C268eFB0031B9D5e7fE1",
       "symbol": "BARYON",
       "name": "Baryon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B8e57aBdcD811699Ad50d77a3E720D43427597D",
+      "symbol": "WC2022",
+      "name": "FIFAWorldCup2022",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16395,
-    "minor": 16395,
+    "major": 16396,
+    "minor": 16396,
     "patch": 86
   }
 }
