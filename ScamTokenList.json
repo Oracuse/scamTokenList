@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x79e6325362e13C81Ba20291cCA8dE11Bf40458d5",
-      "symbol": "DUBBZ",
-      "name": "DubbzGaming",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7a5C68c39662CA79Fabb29fd693beBB47Fc216E2",
       "symbol": "POLLUX",
       "name": "PolluxInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd274517Fe64b75722CbEBaA4FdFC84640dd9d4A5",
+      "symbol": "NALFA",
+      "name": "noAlfa",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16392,
-    "minor": 16392,
+    "major": 16393,
+    "minor": 16393,
     "patch": 86
   }
 }
