@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1F665Af9486137a49901e8782AB973eFc8C4a0a0",
-      "symbol": "HODL",
-      "name": "HOLD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbeecBDB29c0f8A5bA4aBD88D914EB311f259eeA0",
       "symbol": "HODL",
       "name": "HOLD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7625Ec0339e244E7aeE5FC755216c48d940ff0A5",
+      "symbol": "WOC",
+      "name": "WorldOfCats",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16426,
-    "minor": 16426,
+    "major": 16427,
+    "minor": 16427,
     "patch": 86
   }
 }
