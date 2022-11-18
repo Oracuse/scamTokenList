@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc9b6A17EbB43491635F603A01f8Bb3e4B5D22228",
-      "symbol": "MAGA",
-      "name": "MAGACoinETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2D8a93021726aCd2bD826d8243f00A3e8B23887C",
       "symbol": "FETH",
       "name": "FlokiETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x316D72d09783f00bF50DA15Dbd6608556165f55A",
+      "symbol": "TSUNADE",
+      "name": "KotaroTsunade",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16416,
-    "minor": 16416,
+    "major": 16417,
+    "minor": 16417,
     "patch": 86
   }
 }
