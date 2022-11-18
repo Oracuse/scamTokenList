@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x787a15A8673B9F6E9Ea2Aa6173Bcad8BD35AD117",
-      "symbol": "YORI",
-      "name": "Yori",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38f83f4370C918cDE4a0123396881A33669b9726",
       "symbol": "SPUTNIK",
       "name": "SputnikOne",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90dA5f6DF2f43cFbA15A1BD7212E5A8Dd0Db4c93",
+      "symbol": "USDTINU",
+      "name": "USDTINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16376,
-    "minor": 16376,
+    "major": 16377,
+    "minor": 16377,
     "patch": 86
   }
 }
