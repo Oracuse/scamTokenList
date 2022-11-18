@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6014cF7A1b9428182a8636ed902a027C346Fd839",
-      "symbol": "MNT",
-      "name": "MantaChain",
-      "decimals": 12,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x20687B3aBcb475c6b5881c2e13231417b040C979",
       "symbol": "MOVEZM",
       "name": "MOVEZM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x862267A2FCc2418288b19b7512fdd53A6E9ce9F0",
+      "symbol": "DINO",
+      "name": "DinoBank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16445,
-    "minor": 16445,
+    "major": 16446,
+    "minor": 16446,
     "patch": 86
   }
 }
