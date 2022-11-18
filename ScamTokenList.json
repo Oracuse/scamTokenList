@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe5190F172cB359B110625e1316d7Fd5B382789d3",
-      "symbol": "ILY",
-      "name": "ILoveYouToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1F665Af9486137a49901e8782AB973eFc8C4a0a0",
       "symbol": "HODL",
       "name": "HOLD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c933f57E38Bc3F02BE52099B4aD39d3c3Dcff5E",
+      "symbol": "NZM",
+      "name": "Enzyme",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16425,
-    "minor": 16425,
+    "major": 16426,
+    "minor": 16426,
     "patch": 86
   }
 }
