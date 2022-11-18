@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3f4595C9bfa05A89675C8e14458A5fd114D84071",
-      "symbol": "IDVLP",
-      "name": "IDVLP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3CE3e88eC11f41b8f605ae4C6663415c08dD8F11",
       "symbol": "VRX",
       "name": "Vortex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x100beFE39784E221F6c7f94932930b31E423e451",
+      "symbol": "RHINO",
+      "name": "RhinoProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16397,
-    "minor": 16397,
+    "major": 16398,
+    "minor": 16398,
     "patch": 86
   }
 }
