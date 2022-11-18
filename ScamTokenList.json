@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x850b969c8FcA35A944f9908F4986624775a7d080",
-      "symbol": "FUTOSHI",
-      "name": "Futoshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2761968d94060ebf9Af371C2E4Ed92251F98955E",
       "symbol": "FE",
       "name": "FlokiETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1221Fb4f6636B175C767F382bdBeC5254Eb298c6",
+      "symbol": "7",
+      "name": "LuckyNumber7",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16410,
-    "minor": 16410,
+    "major": 16411,
+    "minor": 16411,
     "patch": 86
   }
 }
