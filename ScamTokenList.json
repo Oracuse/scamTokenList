@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x00cb41205CF324F07892F602BA09025d1838Ec4A",
-      "symbol": "TAMER",
-      "name": "WhiteSnake",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59059E9bd8b520D47e88E557375Bc6Fa53611691",
       "symbol": "STAR",
       "name": "MorningStar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x514DE4c8Bba97CcE04259a85Fa545f72F987B98E",
+      "symbol": "SHARKJUMPING",
+      "name": "SharkJumping",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16363,
-    "minor": 16363,
+    "major": 16364,
+    "minor": 16364,
     "patch": 86
   }
 }
