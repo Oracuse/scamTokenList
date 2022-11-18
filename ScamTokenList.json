@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb30A75DD1586db434C8CDfeCEcE71717293ed174",
-      "symbol": "ETHSCAN",
-      "name": "FvckSocials",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc76a63f58a45288CB081aC6bF58d635d92DBc48d",
       "symbol": "CELSUS",
       "name": "HomoCelsus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D822F2734CCA47DCd7F0e1Fdcf52B089D6d3B13",
+      "symbol": "BUG",
+      "name": "Bug",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16457,
-    "minor": 16457,
+    "major": 16458,
+    "minor": 16458,
     "patch": 86
   }
 }
