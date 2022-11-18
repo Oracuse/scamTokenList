@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67332088E02975B2134564DfbF1F5e8Ca77aa5eA",
-      "symbol": "KANGOO",
-      "name": "Kangoo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x653CA77972818a0A8588a2EBE11866bdC1593fB3",
       "symbol": "ASTRO",
       "name": "Astro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf23F0f512b47F7CFd4903b32B59230eb2639DaAA",
+      "symbol": "FOOTBALL",
+      "name": "football",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16404,
-    "minor": 16404,
+    "major": 16405,
+    "minor": 16405,
     "patch": 86
   }
 }
