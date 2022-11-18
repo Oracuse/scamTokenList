@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2D8a93021726aCd2bD826d8243f00A3e8B23887C",
-      "symbol": "FETH",
-      "name": "FlokiETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe6180aBD18dd497CfdCa92AD107904842802783c",
       "symbol": "SHIBASAIYAN",
       "name": "SHIBASAIYAN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x092f5586b9549eC76BAEa491F86Ec3BED03fa13d",
+      "symbol": "INSP",
+      "name": "Inspiration4",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16417,
-    "minor": 16417,
+    "major": 16418,
+    "minor": 16418,
     "patch": 86
   }
 }
