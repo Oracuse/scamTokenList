@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5ffE00B3801F48C280d6bc6fE2EF020F754c938F",
-      "symbol": "DEGEN",
-      "name": "DegensLegacy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0CDcF2eB7aeB6360C31e269b673F070b24c452f0",
       "symbol": "AKAMICHI",
       "name": "Akamichi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Ec58aee3B330De01cacd22ca37E221a42f31905",
+      "symbol": "QATAR",
+      "name": "QATARWORLDCUP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16394,
-    "minor": 16394,
+    "major": 16395,
+    "minor": 16395,
     "patch": 86
   }
 }
