@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb8924B6ea6eA3Df8D6586A681B601e69852c8452",
-      "symbol": "FETH",
-      "name": "FlokiETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF59B8D2E226fA13C23029aB0346A35eA90702B4F",
       "symbol": "JEWEL",
       "name": "EnchantedPalace",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11fD42D6516BbF45F59729e693f62D22155E243B",
+      "symbol": "BURNI",
+      "name": "BURNINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16419,
-    "minor": 16419,
+    "major": 16420,
+    "minor": 16420,
     "patch": 86
   }
 }
