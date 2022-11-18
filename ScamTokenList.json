@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x64A00397104eFd270Aa1E4529288bD01EFc11dfc",
-      "symbol": "NF",
-      "name": "NightFlower",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90D21f13594dad8c3ACa2F928a0b6FdAA0B1F748",
       "symbol": "TAISHA",
       "name": "Taishakuten",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56ec2Be3c57E3bDc26dE565729f7BA1a252669c6",
+      "symbol": "GBINU",
+      "name": "GoldenBallInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16336,
-    "minor": 16336,
+    "major": 16337,
+    "minor": 16337,
     "patch": 86
   }
 }
