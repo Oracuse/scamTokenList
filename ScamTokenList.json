@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x700035775895D817Db039Eb8d6f5e190d251bc8C",
-      "symbol": "QUIET",
-      "name": "Shizunoiwaya",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDA7cB1eDad4EC9224a79718bABB6715F7407184a",
       "symbol": "SAFU",
       "name": "Safuchain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc180fcd6aFc0c712AC847A610B28E10f2A61C441",
+      "symbol": "TC",
+      "name": "TwitterClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16350,
-    "minor": 16350,
+    "major": 16351,
+    "minor": 16351,
     "patch": 86
   }
 }
