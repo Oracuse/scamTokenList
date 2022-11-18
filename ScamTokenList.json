@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc76a63f58a45288CB081aC6bF58d635d92DBc48d",
-      "symbol": "CELSUS",
-      "name": "HomoCelsus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x245a916e71144eF5553A3e7A2305297888c9e916",
       "symbol": "SEINEN",
       "name": "SEINENKI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F65C2573267D78aD6b7c8A6fB8Ff56e32cD0b73",
+      "symbol": "VBOOST",
+      "name": "VoltBoost",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16458,
-    "minor": 16458,
+    "major": 16459,
+    "minor": 16459,
     "patch": 86
   }
 }
