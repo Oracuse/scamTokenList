@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xABd9F2EcE6874aC73F65E3803c194826aBCF41e7",
-      "symbol": "MRTS",
-      "name": "MARTIUS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBe194045fA4339818062Cd2782528c3aB82058E1",
       "symbol": "SENSEI",
       "name": "WordOfSensei",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd653A375E3445dA41342E2084bebf488d42923Bd",
+      "symbol": "TWTR",
+      "name": "TWITTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16342,
-    "minor": 16342,
+    "major": 16343,
+    "minor": 16343,
     "patch": 86
   }
 }
