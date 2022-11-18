@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9DAe63B4a4Da5c74C992FDb81c8043B1F5684610",
-      "symbol": "DOKU",
-      "name": "Tsundoku",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1Db3d29e26f1CEe333471423D545301966aC21B6",
       "symbol": "SC",
       "name": "SHIBCHAIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC95CFA0C1b470525a19423FCb64c3D9f240d229b",
+      "symbol": "EV",
+      "name": "EscapeVelocity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16365,
-    "minor": 16365,
+    "major": 16366,
+    "minor": 16366,
     "patch": 86
   }
 }
