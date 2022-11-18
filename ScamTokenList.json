@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF59B8D2E226fA13C23029aB0346A35eA90702B4F",
-      "symbol": "JEWEL",
-      "name": "EnchantedPalace",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4840AF08Fd9847275049eB5040237545c52556CD",
       "symbol": "OKCSWAP",
       "name": "OKCSWAP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63000CD4A6090791A2d752468A25590C862ee1a8",
+      "symbol": "BABYLON",
+      "name": "TheBabylon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16420,
-    "minor": 16420,
+    "major": 16421,
+    "minor": 16421,
     "patch": 86
   }
 }
