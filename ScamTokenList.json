@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8BD1cff992d70441d2869C06987383EfFA03035D",
-      "symbol": "BLUE",
-      "name": "0xBlue",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8dB74FA75032c49fE4F753A048670df268488451",
       "symbol": "CHIMATA",
       "name": "ChimataNoKami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03Da89993fB75160d797E6753fC540727a96b874",
+      "symbol": "DEUM",
+      "name": "Dogereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16370,
-    "minor": 16370,
+    "major": 16371,
+    "minor": 16371,
     "patch": 86
   }
 }
