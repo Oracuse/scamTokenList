@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0304266a4A521Afc138c19DD1DF27321A6DF3075",
-      "symbol": "REX",
-      "name": "RyoHEX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x850b969c8FcA35A944f9908F4986624775a7d080",
       "symbol": "FUTOSHI",
       "name": "Futoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD4aa5E96a4bC2E9A476db897bAb2F2F5a964aECf",
+      "symbol": "DOT",
+      "name": "DeathofTwitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16409,
-    "minor": 16409,
+    "major": 16410,
+    "minor": 16410,
     "patch": 86
   }
 }
