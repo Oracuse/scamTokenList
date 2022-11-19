@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x34Df780850D25b2527b7Db4122852Bc9FA623Fe4",
-      "symbol": "POS20",
-      "name": "POS20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5ad55E0cE9Da45Df192efF04639220e718a4Bf4F",
       "symbol": "PARAPH",
       "name": "Paraph",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7583e41E84B3e691615be835E6afF6ce858f3bE5",
+      "symbol": "TOTO",
+      "name": "KajitotoIO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16480,
-    "minor": 16480,
+    "major": 16481,
+    "minor": 16481,
     "patch": 86
   }
 }
