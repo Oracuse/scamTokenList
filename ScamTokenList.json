@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x40e118A0303cD209402C95301f5f65e187A6a8CD",
-      "symbol": "GEMR",
-      "name": "GEMR",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5ED7Bb0aa66F5C105Ab8D738B0dc25bCF5f13C5e",
       "symbol": "MIRAI",
       "name": "MIRAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x134bA5614eB346DAf42B7c03258DfE475D3EbFD2",
+      "symbol": "THELFG",
+      "name": "TheLFG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16550,
-    "minor": 16550,
+    "major": 16551,
+    "minor": 16551,
     "patch": 86
   }
 }
