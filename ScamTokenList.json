@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDa977e65FFC79D182D16c8319FDcbF818478187f",
-      "symbol": "YUREI",
-      "name": "YamishiBai",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51d73f2529CeDE23df94e6c72D97dbF74F71789E",
       "symbol": "WTH",
       "name": "WHATTHEHEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDbEE52438DeC764440afb77e3ac8eD301736B9c5",
+      "symbol": "DOPAMINE",
+      "name": "DopamineBooster",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16552,
-    "minor": 16552,
+    "major": 16553,
+    "minor": 16553,
     "patch": 86
   }
 }
