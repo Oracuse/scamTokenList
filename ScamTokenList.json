@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x38067D0877052170358261565Ca434fF8e1D2bAA",
-      "symbol": "HARUTO",
-      "name": "HarutoInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73077817E5176d9a6fdDce0c0769894cCB22a39D",
       "symbol": "MOON",
       "name": "Moonprotocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F3F3F2D0Ae35F7DC526FAB32c62Ec807ee6072b",
+      "symbol": "BLOOM",
+      "name": "Plaguebloom",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16530,
-    "minor": 16530,
+    "major": 16531,
+    "minor": 16531,
     "patch": 86
   }
 }
