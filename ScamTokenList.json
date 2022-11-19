@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x863b5b1012f4D2cB43BF3404381fb1B244AD32b8",
-      "symbol": "AARP",
-      "name": "AnActualRugPull",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbe68f71728D1046aAA741679cCFE90a2e2FCf772",
       "symbol": "IP",
       "name": "IridiumProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF7fBcbAac5F27b7584889861E2Acd0bfb1553249",
+      "symbol": "UNCANCELLED",
+      "name": "BirdsOfAFeather",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16490,
-    "minor": 16490,
+    "major": 16491,
+    "minor": 16491,
     "patch": 86
   }
 }
