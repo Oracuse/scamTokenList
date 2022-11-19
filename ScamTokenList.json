@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7d362e7305E6497D5138Ee03Cc73891D9Ef7B5c1",
-      "symbol": "TENSEI",
-      "name": "EdoTensei",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa59DdAdc9f27dfD2266FCf3C6F961CD62551C90E",
       "symbol": "PARHELION",
       "name": "Sundog",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c724a9B369c7Bd9D71199E0A4BDF6cbF200b0a8",
+      "symbol": "POS",
+      "name": "ProofOfSolvency",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16494,
-    "minor": 16494,
+    "major": 16495,
+    "minor": 16495,
     "patch": 86
   }
 }
