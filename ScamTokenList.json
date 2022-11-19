@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4d722A933054eC6D7C2AD8d0077f89d1A2C6cB73",
-      "symbol": "MECALLAN",
-      "name": "Mecallan",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x558eB8722Fa36ed1F12C04eDD0A41AE3c8F153f7",
       "symbol": "ANTISOCIAL",
       "name": "AntiSocial",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4E74B28B74cAFDaD07a7c2D016Bd97E37cdD773",
+      "symbol": "TEHLFG",
+      "name": "TehLFG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16548,
-    "minor": 16548,
+    "major": 16549,
+    "minor": 16549,
     "patch": 86
   }
 }
