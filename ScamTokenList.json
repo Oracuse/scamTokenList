@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4900C50663E6102462eDd093688092552B1f0AaF",
-      "symbol": "ARTEMIS",
-      "name": "ARTEMIS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xACc5E336592eb186AD91487087C369Ddb3468C46",
       "symbol": "PLM",
       "name": "Palm",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9dd7b89c54395ea4B30e5B9ffC6b9Fc51164EDcA",
+      "symbol": "TLFG",
+      "name": "TsukaLFG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16509,
-    "minor": 16509,
+    "major": 16510,
+    "minor": 16510,
     "patch": 86
   }
 }
