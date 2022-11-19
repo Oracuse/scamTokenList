@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAF36FbD2871507488Ef17132569169fc714cFC3e",
-      "symbol": "ZERO",
-      "name": "ZERO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4900C50663E6102462eDd093688092552B1f0AaF",
       "symbol": "ARTEMIS",
       "name": "ARTEMIS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29Ad533A9a3E12F3C8Da70e1AF180073e84f5975",
+      "symbol": "999",
+      "name": "999",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16508,
-    "minor": 16508,
+    "major": 16509,
+    "minor": 16509,
     "patch": 86
   }
 }
