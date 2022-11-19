@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc2a42195C1b6C3e963843b6249104436A2d4350A",
-      "symbol": "TEEE",
-      "name": "teee",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7f2DE8bF00e41200058423f27287BC9A030ccF50",
       "symbol": "SC",
       "name": "ShibChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74EA7Df4D20014AEF0eA2b7f5442F200809d1317",
+      "symbol": "BTCITY",
+      "name": "BTCCITY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16504,
-    "minor": 16504,
+    "major": 16505,
+    "minor": 16505,
     "patch": 86
   }
 }
