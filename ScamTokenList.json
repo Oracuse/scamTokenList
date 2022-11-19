@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x189692020353B48bE40f93accC25F3e0c87E791E",
-      "symbol": "TIANE",
-      "name": "Tiane",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCF6Be57D332C5c5Ca2F2929db5F5684FB07E5A33",
       "symbol": "SAFU",
       "name": "Safuchain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9Bc2Eaa13475dB144C882ed8d114A4D634b607c",
+      "symbol": "QATARLFG",
+      "name": "QatarLFG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16519,
-    "minor": 16519,
+    "major": 16520,
+    "minor": 16520,
     "patch": 86
   }
 }
