@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8647BEDd6C06a9F9A50DfF60C4696cE2B520ebc8",
-      "symbol": "RICE",
-      "name": "AmeNoMiKumari",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7d362e7305E6497D5138Ee03Cc73891D9Ef7B5c1",
       "symbol": "TENSEI",
       "name": "EdoTensei",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F803708aa53b9A5171a3c4a4396cF4Fd5661d77",
+      "symbol": "CEX",
+      "name": "CEX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16493,
-    "minor": 16493,
+    "major": 16494,
+    "minor": 16494,
     "patch": 86
   }
 }
