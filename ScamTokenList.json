@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD3BEbbbc60b5d5918D20ACfbe6304C7873bDF81A",
-      "symbol": "DCD",
-      "name": "DogechainToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA17E78ecAE99C120A07Bf32BB8bCe82127a0EEb4",
       "symbol": "SAFU",
       "name": "Safuchain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6291d951c5d68f47eD346042E2f86A94c253Bec4",
+      "symbol": "BRL",
+      "name": "BullRun",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16465,
-    "minor": 16465,
+    "major": 16466,
+    "minor": 16466,
     "patch": 86
   }
 }
