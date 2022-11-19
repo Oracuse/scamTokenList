@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5c15BcE4388fF3a90422e4fcD4b2095F85B5177",
-      "symbol": "CELSUS",
-      "name": "HomoCelsus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80037E32727b861DD3d5e8D2d59544158f052BaF",
       "symbol": "MISER",
       "name": "MISER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x02F2653BaB26b56e2be3aFEA61769000Cc62985f",
+      "symbol": "LFG",
+      "name": "InuLFG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16460,
-    "minor": 16460,
+    "major": 16461,
+    "minor": 16461,
     "patch": 86
   }
 }
