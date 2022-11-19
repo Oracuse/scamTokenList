@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEEc471C55A0c8ab13FdaD9e1EaA4B419FEcfe1F1",
-      "symbol": "ALEKA",
-      "name": "ALEKA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x78904f5F5b8CdE41df35A5D3Cac6d5A9cdfd22E5",
       "symbol": "FH",
       "name": "FlokiHive",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA472498F804bf515b25C32AE243Becc89364675e",
+      "symbol": "RISKY",
+      "name": "NeverLocking",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16475,
-    "minor": 16475,
+    "major": 16476,
+    "minor": 16476,
     "patch": 86
   }
 }
