@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7Ff083094F47E3DEDB0b4f0e582C2b03656FA9BD",
-      "symbol": "HURRICANE",
-      "name": "Hurricane",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x974AF27F66b5E5677a678f44359DD78AD126Df61",
       "symbol": "CORRU",
       "name": "CorruObserver",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x367092Ba906F9358c2AfaD8312c5372D4071Cb38",
+      "symbol": "BURNC",
+      "name": "BurnClassic",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16499,
-    "minor": 16499,
+    "major": 16500,
+    "minor": 16500,
     "patch": 86
   }
 }
