@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCF6Be57D332C5c5Ca2F2929db5F5684FB07E5A33",
-      "symbol": "SAFU",
-      "name": "Safuchain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x92B537271e24B2d33b3661E2A2a9e7281284b4e0",
       "symbol": "CVPV",
       "name": "PowerPool",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63E13b885FD9edD3b3e05bA27DE34E8e72F0AE07",
+      "symbol": "DINOLFG20",
+      "name": "DINOLFG20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16520,
-    "minor": 16520,
+    "major": 16521,
+    "minor": 16521,
     "patch": 86
   }
 }
