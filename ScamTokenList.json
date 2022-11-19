@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD74e3137772aAa5e5Efe38A23C7de578C51570Db",
-      "symbol": "AMPA",
-      "name": "AMP",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8861Bd681Efeec4Ff7eeda28ff6661Bc0b85CBD1",
       "symbol": "MISER",
       "name": "MISER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35CDB72Fd97109A27096257AAb8744dA937B02eF",
+      "symbol": "PGOLD",
+      "name": "POCKET",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16469,
-    "minor": 16469,
+    "major": 16470,
+    "minor": 16470,
     "patch": 86
   }
 }
