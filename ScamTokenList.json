@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2350212f8481dF48BdE8613C7C911D2105176cc6",
-      "symbol": "LUNB",
-      "name": "WrappedLUNBToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x65182C96010e330A87A44DF4f373c4D778217082",
       "symbol": "AARP",
       "name": "AnActualRugPull",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7F0e985aAC4A3dE30EC60ED791E5D74eEE491da",
+      "symbol": "XCHIEF",
+      "name": "XmasChief",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16488,
-    "minor": 16488,
+    "major": 16489,
+    "minor": 16489,
     "patch": 86
   }
 }
