@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73077817E5176d9a6fdDce0c0769894cCB22a39D",
-      "symbol": "MOON",
-      "name": "Moonprotocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x06E78090d47BefA15CbEd2731D68271E6E659a5D",
       "symbol": "AKATOMBO",
       "name": "RedDragonfly",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAFC38f0be56e257bC596C0B24E0b58C459e39701",
+      "symbol": "PRIX",
+      "name": "MARBLE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16531,
-    "minor": 16531,
+    "major": 16532,
+    "minor": 16532,
     "patch": 86
   }
 }
