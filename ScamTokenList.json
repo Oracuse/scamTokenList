@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbDbC75c7B61BAb0e7F131Abb8a1D8958eE36B078",
-      "symbol": "IYKYK",
-      "name": "IYKYK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x34Df780850D25b2527b7Db4122852Bc9FA623Fe4",
       "symbol": "POS20",
       "name": "POS20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb41f7835070d38892a17a19b8bF27a14e2e2f7Eb",
+      "symbol": "VANITY",
+      "name": "Vainglory",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16479,
-    "minor": 16479,
+    "major": 16480,
+    "minor": 16480,
     "patch": 86
   }
 }
