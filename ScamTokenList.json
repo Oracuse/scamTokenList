@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBf4d5B927b4a5C1da220133A86Db414f1c0B866c",
-      "symbol": "TUNGUSKA",
-      "name": "BurningEvent",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEEc471C55A0c8ab13FdaD9e1EaA4B419FEcfe1F1",
       "symbol": "ALEKA",
       "name": "ALEKA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5eb767d1510CEafF03Ee2dCC7A2dC878d960B89",
+      "symbol": "DARKORACLE",
+      "name": "DarkOracle",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16474,
-    "minor": 16474,
+    "major": 16475,
+    "minor": 16475,
     "patch": 86
   }
 }
