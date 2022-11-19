@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4d9DEa44941BF521B580b3F9e134C0F03281185b",
-      "symbol": "TAKETORI",
-      "name": "TaketoriMonogatari",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3e3Ee9b798d672f26a9039130e19DB897979966F",
       "symbol": "ELDAR",
       "name": "ProtectedAlchemy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x137b71c74b296694c0c12111001A033D5C80692b",
+      "symbol": "TP",
+      "name": "TsukaPlayer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16534,
-    "minor": 16534,
+    "major": 16535,
+    "minor": 16535,
     "patch": 86
   }
 }
