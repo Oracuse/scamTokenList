@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7B4CF71DF95EC2ae28Bdd89f09c0efC84ba0aFd7",
-      "symbol": "ASTA",
-      "name": "ASTA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1A8086AA7Bb3D7c252759E75147018B5884ee374",
       "symbol": "SRN",
       "name": "Sauron",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4ad7a056191F4c9519fAcd6D75FA94CA26003aCE",
+      "symbol": "GPO",
+      "name": "GoldPesaOption",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16483,
-    "minor": 16483,
+    "major": 16484,
+    "minor": 16484,
     "patch": 86
   }
 }
