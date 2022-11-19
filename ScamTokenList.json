@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8360b842e8a3853cCdbd061F94bE1eD69547820D",
-      "symbol": "TSUKACHAIN",
-      "name": "DarumaResearch",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38067D0877052170358261565Ca434fF8e1D2bAA",
       "symbol": "HARUTO",
       "name": "HarutoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1CDA13446094B3BabBF2f00D8339E33f73eb2a39",
+      "symbol": "MARBLEPRIX",
+      "name": "MARBLEPRIX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16529,
-    "minor": 16529,
+    "major": 16530,
+    "minor": 16530,
     "patch": 86
   }
 }
