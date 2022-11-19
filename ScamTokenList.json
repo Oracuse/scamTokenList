@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD653b40871F23921d6f6097Fe6E08365944Fd9E9",
-      "symbol": "SHUMEI",
-      "name": "ShinjiShumeikai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB79Ff8f7dd6d9948881C1AF9F8e3BFd15b04E3F0",
       "symbol": "UNSELLABLE",
       "name": "DONTBUYTHIS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83066f55F2E128666dEdEd285416E3c6c939bDCA",
+      "symbol": "SAFECEX",
+      "name": "SAFECEX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16477,
-    "minor": 16477,
+    "major": 16478,
+    "minor": 16478,
     "patch": 86
   }
 }
