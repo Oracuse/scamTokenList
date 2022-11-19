@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3e3Ee9b798d672f26a9039130e19DB897979966F",
-      "symbol": "ELDAR",
-      "name": "ProtectedAlchemy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5749511E2dC24000d348CEc5f968b5520e5cE800",
       "symbol": "DOKWON",
       "name": "DoKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Af1a0914CC0c82AE6f02249b0dE39Cde4Eb253b",
+      "symbol": "KOPOT",
+      "name": "KopotToken",
+      "decimals": 12,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16535,
-    "minor": 16535,
+    "major": 16536,
+    "minor": 16536,
     "patch": 86
   }
 }
