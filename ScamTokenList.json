@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9b3841432DdE22cc98e52622Abb8ccbd7214F96A",
-      "symbol": "MOVER",
-      "name": "MOVERme",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8E4a8Aa53EE8d5a5B55453e16935D9B6c6f1464A",
       "symbol": "SQD",
       "name": "SHIBASQUID",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6eDC05091a3b08883f8E01bA5ccE02d37ed55481",
+      "symbol": "BUG",
+      "name": "Bug",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16472,
-    "minor": 16472,
+    "major": 16473,
+    "minor": 16473,
     "patch": 86
   }
 }
