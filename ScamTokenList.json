@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x32E082FC98305A1bcf1ed16FFd8B4131000b4969",
-      "symbol": "CORNIX",
-      "name": "CornixToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4e6aE2A3263a94a6e27dA7e712C45Ee3eae3BC2F",
       "symbol": "CS",
       "name": "CS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63d4BAf64a8eAA09b97facE663355aD7C68698f8",
+      "symbol": "YOB",
+      "name": "YearofBearish",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16467,
-    "minor": 16467,
+    "major": 16468,
+    "minor": 16468,
     "patch": 86
   }
 }
