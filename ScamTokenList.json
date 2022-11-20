@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0e24e1402ae32fbBB3c6D04EA219065a3559B143",
-      "symbol": "VOLT",
-      "name": "Volta",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE91306148Ea79F22B0E0cA317EE76E17094CAb6c",
       "symbol": "MOOP",
       "name": "MonthOfProof",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbbfEb56EB7191E1F7B8bE4b6ab649a98B390E229",
+      "symbol": "MEXICO",
+      "name": "Mexico",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16603,
-    "minor": 16603,
+    "major": 16604,
+    "minor": 16604,
     "patch": 86
   }
 }
