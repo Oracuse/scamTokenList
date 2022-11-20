@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x07A3A3F5670A57925A65E84E0cdc3AF709aEAfeE",
-      "symbol": "SHINO",
-      "name": "SHINOBI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76C2Ba174ABF2ac03D0FBBF301F6365B7Fa31eb7",
       "symbol": "POD20",
       "name": "ProofOfDegen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBf98fd0Bcd6a6f48D853E018573A60d3d1839F8b",
+      "symbol": "EMPANADAS",
+      "name": "Empanadas",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16644,
-    "minor": 16644,
+    "major": 16645,
+    "minor": 16645,
     "patch": 86
   }
 }
