@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4Aa7ed0c6a2aE3f17d94654CD1f5B2342B8e5465",
-      "symbol": "USDC20",
-      "name": "ProofofUSC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDa1323f171FD89918C15eb7c6015AcCfC40F359C",
       "symbol": "NORI",
       "name": "Norikura",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x112eFaa1BcbFC89E512dAF90b28A78Eb8Dc60450",
+      "symbol": "WCZ",
+      "name": "WorldCupZilla",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16611,
-    "minor": 16611,
+    "major": 16612,
+    "minor": 16612,
     "patch": 86
   }
 }
