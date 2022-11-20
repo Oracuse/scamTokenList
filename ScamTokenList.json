@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd5154cF5306AeBDE058c45eE9B05f91f843dF8F5",
-      "symbol": "FOD",
-      "name": "FeastofDogs",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEdc439ff02aFeA3383D243D03B2e674A27FC42c6",
       "symbol": "ETHGODS",
       "name": "ETHGODS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x442AAa2A28dC9c67E8c65FBFCC123d4B7FFbab1e",
+      "symbol": "BLKETH",
+      "name": "BlackFridayEth",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16634,
-    "minor": 16634,
+    "major": 16635,
+    "minor": 16635,
     "patch": 86
   }
 }
