@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08B077237Ae06b345b2660Ec5b5641C485f9a887",
-      "symbol": "POF",
-      "name": "ProofOfFloki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x466FA9378E867Cfc1e97AD387537F9DfDC68BEF6",
       "symbol": "OKINAMI20",
       "name": "Okinami20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB816897fe5B71d189790fac3Ded32c441e77CD68",
+      "symbol": "WCS",
+      "name": "WorldCupStars",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16638,
-    "minor": 16638,
+    "major": 16639,
+    "minor": 16639,
     "patch": 86
   }
 }
