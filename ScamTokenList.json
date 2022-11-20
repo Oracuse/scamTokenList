@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEdc439ff02aFeA3383D243D03B2e674A27FC42c6",
-      "symbol": "ETHGODS",
-      "name": "ETHGODS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x266Db3cAf05671e92282Dd5EF29FecDbcf95c6cA",
       "symbol": "OURO",
       "name": "OUROBOROS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3FD8b80173d35B439F00dCb041787A521483DfeF",
+      "symbol": "FWC",
+      "name": "FifaWorldCup",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16635,
-    "minor": 16635,
+    "major": 16636,
+    "minor": 16636,
     "patch": 86
   }
 }
