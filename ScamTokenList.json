@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA9F42404d06c3659f1F2A9509BEfE8C525E202df",
-      "symbol": "SHIBABANK",
-      "name": "ShibaBank",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA80CEb9f9b20d0869Df641EDDb060D3b549D0436",
       "symbol": "ETH4868",
       "name": "ProofofLife",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6D37AeCcC1C7b71630154fC48AA74750F922A2f9",
+      "symbol": "TD",
+      "name": "TrumpDay",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16580,
-    "minor": 16580,
+    "major": 16581,
+    "minor": 16581,
     "patch": 86
   }
 }
