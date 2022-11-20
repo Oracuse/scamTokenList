@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1b2522a26E0F5a8CE17B7D7550E86715872f86Ee",
-      "symbol": "DNDLION",
-      "name": "Dandelion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5875b495149B05c3aA54a4dca67B3bF714ddD384",
       "symbol": "ETH30",
       "name": "ProofofFade",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x371BEF27919645a40D595cCe428927bff094C867",
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16563,
-    "minor": 16563,
+    "major": 16564,
+    "minor": 16564,
     "patch": 86
   }
 }
