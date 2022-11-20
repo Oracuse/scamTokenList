@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x35c9027A50e0D8309E17573Af0C4Fe65fC0272BC",
-      "symbol": "PALETTE",
-      "name": "Colorful",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x949132fB0918d9c30088fdD52F6b2908730A2908",
       "symbol": "PEPE20",
       "name": "ProofofPepe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC5A668D7C699b53273d656472a0C3efA5492CE51",
+      "symbol": "FINU",
+      "name": "FormulaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16649,
-    "minor": 16649,
+    "major": 16650,
+    "minor": 16650,
     "patch": 86
   }
 }
