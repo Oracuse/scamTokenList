@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22a6F7ee0CC87ff690edb1A0114bE666Ec58D410",
-      "symbol": "PROOFOFMOON",
-      "name": "ETH1000",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD250E251b71EfF338FB1d3364b6971dCd49e8BAa",
       "symbol": "CHIMPJA",
       "name": "ChimpjaNoDensetsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd701D582cCfF80C02c320ffb6bD8F202B89817d",
+      "symbol": "CCHAIN",
+      "name": "CloudChain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16577,
-    "minor": 16577,
+    "major": 16578,
+    "minor": 16578,
     "patch": 86
   }
 }
