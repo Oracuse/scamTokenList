@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x16aeD753ea425AFEdDb9E28faeaE77D954BC8dF3",
-      "symbol": "DME",
-      "name": "DogeMerge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb200058ef5afa23DEF626F9499cAFac2cE435052",
       "symbol": "REWARD20",
       "name": "ProofofReward",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB7174299fe4aC7eEbB1605aF46c6c11a5171712",
+      "symbol": "HACK",
+      "name": "HackerInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16618,
-    "minor": 16618,
+    "major": 16619,
+    "minor": 16619,
     "patch": 86
   }
 }
