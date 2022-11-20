@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x935B09Ca70F00b46067509Ac908f6D9311baF933",
-      "symbol": "FLOKI20",
-      "name": "ProofOfFloki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x43698c5B69ba8620B3ca4AF6c6831E14c3EceA24",
       "symbol": "REX",
       "name": "RyoHEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4217074A7d1d82EE83921a127a2e201599f8a7fA",
+      "symbol": "TEST",
+      "name": "test",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16592,
-    "minor": 16592,
+    "major": 16593,
+    "minor": 16593,
     "patch": 86
   }
 }
