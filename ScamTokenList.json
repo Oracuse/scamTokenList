@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x10F0F3128aA7FC2bAb6aF2870Dd24D5501f83315",
-      "symbol": "NVY",
-      "name": "ENVY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaA08B39aB26e2BD17A6d3c436A5fAA552b265722",
       "symbol": "HITODAMA",
       "name": "Hitodama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x734a1FA3713CaC537F09E1E4a30B898AACCAdA03",
+      "symbol": "WCI",
+      "name": "WORLDCUPINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16609,
-    "minor": 16609,
+    "major": 16610,
+    "minor": 16610,
     "patch": 86
   }
 }
