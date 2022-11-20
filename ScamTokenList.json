@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x469c3eF8f4BF90166C43e63E2320B0E3ffda9642",
-      "symbol": "ALGOA",
-      "name": "Algorand",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB33ada78dA8f192DEDC13b4092744fFD1D5b288b",
       "symbol": "YOGENNOTORI",
       "name": "YogennoTori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe6203792c557ccD68b332A1c53f64CeCe95B1f20",
+      "symbol": "TRUMPBIRD",
+      "name": "TRUMPANDTHEBIRD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16629,
-    "minor": 16629,
+    "major": 16630,
+    "minor": 16630,
     "patch": 86
   }
 }
