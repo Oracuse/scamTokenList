@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDfD4d9d4B849aC740F156faB6343b067001D46e2",
-      "symbol": "ETH20",
-      "name": "ProofOfGains",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15A73363EE43D177A626271dE4285F2834947b74",
       "symbol": "TAKASIWA",
       "name": "takasiwa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C3a1f8A4248C92645a23b00cd02CC27D52Fb552",
+      "symbol": "WCT",
+      "name": "WorldCupTournament",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16641,
-    "minor": 16641,
+    "major": 16642,
+    "minor": 16642,
     "patch": 86
   }
 }
