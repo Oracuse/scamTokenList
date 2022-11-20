@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1CFb123BDAa68171828b67c60ee5A72216F3a78a",
-      "symbol": "TAMA",
-      "name": "Tamadoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x14fe2cdfF3750aB2615e0FAEb1C774e76d7c299C",
       "symbol": "ATOMA",
       "name": "ATOM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x149698C8C72b210294240eA856aB65f492b230EC",
+      "symbol": "NERDYLABS",
+      "name": "NerdyLabs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16626,
-    "minor": 16626,
+    "major": 16627,
+    "minor": 16627,
     "patch": 86
   }
 }
