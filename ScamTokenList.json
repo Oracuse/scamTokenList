@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x460Ff8fF721afFE8EDfdd705868Df31724762e43",
-      "symbol": "EMAX",
-      "name": "EthereumMax",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x935B09Ca70F00b46067509Ac908f6D9311baF933",
       "symbol": "FLOKI20",
       "name": "ProofOfFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0D9a117155265Deb47C8bE1b97d09b2789Fa71B8",
+      "symbol": "POM",
+      "name": "Pomegranate",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16591,
-    "minor": 16591,
+    "major": 16592,
+    "minor": 16592,
     "patch": 86
   }
 }
