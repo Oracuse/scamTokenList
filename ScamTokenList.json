@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA870EfF1d40F04D8B00FD95c6e585f6855A5604B",
-      "symbol": "SETH",
-      "name": "ShibaETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x45e73591B55e22595EcbBB9C3D22D2DB24C59664",
       "symbol": "RYOIKI",
       "name": "KyuubiKitsune",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD920E15Eb95672ddB36cad494D9F0bA576f9e1C4",
+      "symbol": "134M",
+      "name": "134Million",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16559,
-    "minor": 16559,
+    "major": 16560,
+    "minor": 16560,
     "patch": 86
   }
 }
