@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC4dDD5Bda8A30EFF2E35b7a580B0f7fBfA6B502a",
-      "symbol": "PAD",
-      "name": "PaperDragon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6EdEf725A1DCC62Bd04b08568f4F5622A0524781",
       "symbol": "FANDRAG",
       "name": "FantasticDragons",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39C27Fd075d9F386D6dbE7cA4AF5dae1FFbdaa6C",
+      "symbol": "DTG",
+      "name": "DonaldTrumpGriffin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16669,
-    "minor": 16669,
+    "major": 16670,
+    "minor": 16670,
     "patch": 86
   }
 }
