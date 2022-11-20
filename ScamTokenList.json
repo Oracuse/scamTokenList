@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x509Aa0D20E21840AcCDC2428eF6BB73ebfED1b9A",
-      "symbol": "MOON",
-      "name": "MoonProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10F0F3128aA7FC2bAb6aF2870Dd24D5501f83315",
       "symbol": "NVY",
       "name": "ENVY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37214C69f7d79560A8B11bA64CE4Bbf313431A00",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16608,
-    "minor": 16608,
+    "major": 16609,
+    "minor": 16609,
     "patch": 86
   }
 }
