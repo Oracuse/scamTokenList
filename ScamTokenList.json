@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe7137ba79F1e9EB204736AAb798f5f73d8b6a6c5",
-      "symbol": "DION20",
-      "name": "ProofOfDion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE031715BDf7E8EF2530eAD750215E934b51D9e97",
       "symbol": "INVISIBLE",
       "name": "DarkMatter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9e0Cb663783d119EC1e034Eb5FA44e52907e130",
+      "symbol": "KITTER",
+      "name": "Kitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16659,
-    "minor": 16659,
+    "major": 16660,
+    "minor": 16660,
     "patch": 86
   }
 }
