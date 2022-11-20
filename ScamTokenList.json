@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x949132fB0918d9c30088fdD52F6b2908730A2908",
-      "symbol": "PEPE20",
-      "name": "ProofofPepe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x840dA8e748A52d8b9C58789B54C0f184E12c380a",
       "symbol": "BABYCHAIN",
       "name": "BabyChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4961a1b42d5D2ef4cf1eaA44C237105058FE9971",
+      "symbol": "TM",
+      "name": "TsukaMusic",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16650,
-    "minor": 16650,
+    "major": 16651,
+    "minor": 16651,
     "patch": 86
   }
 }
