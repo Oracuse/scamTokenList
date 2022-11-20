@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDfec6EA8D34A82c74F46f84C6Ef6B34F79921A85",
-      "symbol": "SHIBA30",
-      "name": "ProofOfEarn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA9F42404d06c3659f1F2A9509BEfE8C525E202df",
       "symbol": "SHIBABANK",
       "name": "ShibaBank",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x187c549db1393a1686D4DC03f68029c0Eb55D8b6",
+      "symbol": "TROGE",
+      "name": "TrumpDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16579,
-    "minor": 16579,
+    "major": 16580,
+    "minor": 16580,
     "patch": 86
   }
 }
