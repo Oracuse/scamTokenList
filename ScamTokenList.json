@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2529E4Fdd7e45b45f04Cab346427f0f6A79C0A4e",
-      "symbol": "FULLCON",
-      "name": "FullofConfidence",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42921eD07e89Bac273Ed51d78A55C6a3023b9940",
       "symbol": "ACCIO",
       "name": "AccioSpell",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAD9320a7c312c3218ecFE5d8c31C465582A8ae02",
+      "symbol": "ALIVE",
+      "name": "TwitterisAlive",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16589,
-    "minor": 16589,
+    "major": 16590,
+    "minor": 16590,
     "patch": 86
   }
 }
