@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x365e187A5bF7f3D15d62fCaD3594Fe76839Fc582",
-      "symbol": "FROGGY",
-      "name": "FROGGYINU",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x209b9fD7f634eA940458b8A104dc0C01f0f23f94",
       "symbol": "ZOKU",
       "name": "Ryuzoku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71b590F11fBDDF1d9A225249cDC65b91570D0da3",
+      "symbol": "COSMOS",
+      "name": "CosmosChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16657,
-    "minor": 16657,
+    "major": 16658,
+    "minor": 16658,
     "patch": 86
   }
 }
