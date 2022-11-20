@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4f996C901f32891546c43DF967F8D61e0403ac73",
-      "symbol": "LME",
-      "name": "LME",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCA22fC2467dDf5BDBc4C06Cbe49C58CD4Cf42F88",
       "symbol": "7R1X",
       "name": "PROOF",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1bE9e96775851370869A5a68D2bbd9c81549691",
+      "symbol": "LORD",
+      "name": "LordElon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16623,
-    "minor": 16623,
+    "major": 16624,
+    "minor": 16624,
     "patch": 86
   }
 }
