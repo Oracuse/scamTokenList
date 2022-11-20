@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x748dE0AfAED05593EC07cd1841B3Cc07B838F94d",
-      "symbol": "USDC20",
-      "name": "ProofofUSDC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0fcF448Dab14F97BF9bBC40288d78E70f6aA486A",
       "symbol": "STARRY",
       "name": "StarryNight",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c34cA54F03D6432AA28EA474AeEf43b22AF31BB",
+      "symbol": "LAEEB",
+      "name": "WorldCupLaeeb",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16613,
-    "minor": 16613,
+    "major": 16614,
+    "minor": 16614,
     "patch": 86
   }
 }
