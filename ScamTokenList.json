@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14fe2cdfF3750aB2615e0FAEb1C774e76d7c299C",
-      "symbol": "ATOMA",
-      "name": "ATOM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa6Cfe77134dda4d520245A832Bf66F95e9627CB4",
       "symbol": "SERPENT",
       "name": "SERPENT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA30a6c7e2b11A68AD92362f81fF1095b853F2434",
+      "symbol": "QATARWORLDCUP",
+      "name": "QatarWorldCup",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16627,
-    "minor": 16627,
+    "major": 16628,
+    "minor": 16628,
     "patch": 86
   }
 }
