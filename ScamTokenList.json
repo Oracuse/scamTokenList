@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42921eD07e89Bac273Ed51d78A55C6a3023b9940",
-      "symbol": "ACCIO",
-      "name": "AccioSpell",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x460Ff8fF721afFE8EDfdd705868Df31724762e43",
       "symbol": "EMAX",
       "name": "EthereumMax",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Cdc4765618927138809fa7d064bBBaC6C852242",
+      "symbol": "TRUMP20",
+      "name": "ProofofTrump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16590,
-    "minor": 16590,
+    "major": 16591,
+    "minor": 16591,
     "patch": 86
   }
 }
