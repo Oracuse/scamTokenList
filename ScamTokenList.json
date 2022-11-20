@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd8ed82f8A8cc84884EBB4DA822C7cA470347EC83",
-      "symbol": "MAGOTS",
-      "name": "PROOFOFMAGOTS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9F34Bd16307E99051097a45BFc1fC095faA17890",
       "symbol": "BCT20",
       "name": "ProofOfBitcoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8189a767163e3CC834cbdd8d0Ac88F73E46682b3",
+      "symbol": "QATAR",
+      "name": "WorldCupQatar",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16615,
-    "minor": 16615,
+    "major": 16616,
+    "minor": 16616,
     "patch": 86
   }
 }
