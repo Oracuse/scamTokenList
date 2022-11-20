@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x479eC61187Ab1b7591C29A69Aa4De4692f2fbD08",
-      "symbol": "ART",
-      "name": "AncientRatToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x16aeD753ea425AFEdDb9E28faeaE77D954BC8dF3",
       "symbol": "DME",
       "name": "DogeMerge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82d75D232eb5e50F99fC6867eDcE0f53D9b8CdF7",
+      "symbol": "YERC20",
+      "name": "YERC20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16617,
-    "minor": 16617,
+    "major": 16618,
+    "minor": 16618,
     "patch": 86
   }
 }
