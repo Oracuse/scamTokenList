@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1bd8142A6d18d4d0eF345b6816aBF591BAAa200F",
-      "symbol": "POP",
-      "name": "ProofOfPowell",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x452AD1385210B460A59301b4DeF99De527cab6A4",
       "symbol": "AKUMA",
       "name": "Onikuma",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x253c2cd48600D4794C5cd9914Ad8A3DabaeF1a33",
+      "symbol": "WC",
+      "name": "WorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16654,
-    "minor": 16654,
+    "major": 16655,
+    "minor": 16655,
     "patch": 86
   }
 }
