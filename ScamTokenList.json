@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9f709038d506487663801839beCEEcBda00F9B1e",
-      "symbol": "TESTSYMBOL",
-      "name": "COINTEST",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1E415434721Ad8abC87457cebB611B3973D08847",
       "symbol": "SQUID2",
       "name": "SQUIDGAMETWO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaba9401e17fB669DfC77BF1DB2c8a15b4e81b74a",
+      "symbol": "TTP",
+      "name": "TheTrumpPump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16575,
-    "minor": 16575,
+    "major": 16576,
+    "minor": 16576,
     "patch": 86
   }
 }
