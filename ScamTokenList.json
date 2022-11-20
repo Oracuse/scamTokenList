@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x52e71d7a1E4e67114FA358B633C4574A5a3E1E4d",
-      "symbol": "ETH40",
-      "name": "Proofofshade",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCDdB7f2a691dd03A7030dBD9A48268c94D7aFbA8",
       "symbol": "MONS",
       "name": "MON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFf1Fd481FB5752E95Cacd4471f0442ab7E0F6065",
+      "symbol": "TINU",
+      "name": "TrumpInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16573,
-    "minor": 16573,
+    "major": 16574,
+    "minor": 16574,
     "patch": 86
   }
 }
