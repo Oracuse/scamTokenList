@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x209b9fD7f634eA940458b8A104dc0C01f0f23f94",
-      "symbol": "ZOKU",
-      "name": "Ryuzoku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe7137ba79F1e9EB204736AAb798f5f73d8b6a6c5",
       "symbol": "DION20",
       "name": "ProofOfDion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe145Cd542c11f1AafF6D0777C8D80E2AfE1DF35b",
+      "symbol": "FUTBOL",
+      "name": "FutbolInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16658,
-    "minor": 16658,
+    "major": 16659,
+    "minor": 16659,
     "patch": 86
   }
 }
