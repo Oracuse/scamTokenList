@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x421Af059251A4A56889d4de9143a2141E7156f32",
-      "symbol": "SAITAMA20",
-      "name": "SAITAMA20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDfD4d9d4B849aC740F156faB6343b067001D46e2",
       "symbol": "ETH20",
       "name": "ProofOfGains",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A730E7B1E27e805B81C62ACeD83C6f24Afd1FdE",
+      "symbol": "MSN",
+      "name": "TheMission",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16640,
-    "minor": 16640,
+    "major": 16641,
+    "minor": 16641,
     "patch": 86
   }
 }
