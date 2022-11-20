@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x466FA9378E867Cfc1e97AD387537F9DfDC68BEF6",
-      "symbol": "OKINAMI20",
-      "name": "Okinami20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x421Af059251A4A56889d4de9143a2141E7156f32",
       "symbol": "SAITAMA20",
       "name": "SAITAMA20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b12Be7A153Aa204785C2Ed64B12E5a4061bD2F9",
+      "symbol": "HOWC",
+      "name": "HostofWorldCup",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16639,
-    "minor": 16639,
+    "major": 16640,
+    "minor": 16640,
     "patch": 86
   }
 }
