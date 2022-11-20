@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x095244d1B126F63f37301B7809a73d863578Ef53",
-      "symbol": "YUKIONNA",
-      "name": "Snow",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4f996C901f32891546c43DF967F8D61e0403ac73",
       "symbol": "LME",
       "name": "LME",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x682B883586Ec32Cd54F164bfe197efe1F30F065F",
+      "symbol": "DINU",
+      "name": "DemocracyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16622,
-    "minor": 16622,
+    "major": 16623,
+    "minor": 16623,
     "patch": 86
   }
 }
