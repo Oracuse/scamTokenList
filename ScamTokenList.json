@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x266Db3cAf05671e92282Dd5EF29FecDbcf95c6cA",
-      "symbol": "OURO",
-      "name": "OUROBOROS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdC9e0F1A321e9eCE941582BD1C292c531b7AF5a2",
       "symbol": "RYNJA",
       "name": "RYOSHINJA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3CD9500cf1f4C3ab36F7F262B5ecb8fd5D2df60e",
+      "symbol": "TWITTER",
+      "name": "ProofOfSpeech",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16636,
-    "minor": 16636,
+    "major": 16637,
+    "minor": 16637,
     "patch": 86
   }
 }
