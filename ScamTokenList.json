@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf7bB9759FF81232b127bc036D9367F316574112a",
-      "symbol": "POM",
-      "name": "ProofOfMoonshot",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4AA7fe385Df162161dc74Ee5F5dce01af32Eed15",
       "symbol": "BEAR",
       "name": "TheBearMarket",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9224fE96E89f0583747B5EAa3D01e355EE8d83bE",
+      "symbol": "FANS",
+      "name": "FANSToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16671,
-    "minor": 16671,
+    "major": 16672,
+    "minor": 16672,
     "patch": 86
   }
 }
