@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE7E2700Db6603c9c76Ba59cd5A524eC784C4d767",
-      "symbol": "KURO",
-      "name": "Kuro",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEBE98EDF16021F5e6296ccc06986A3f9654fE903",
       "symbol": "LOCKDAO",
       "name": "LOCKDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDb817679a14F6190B8af21B9c9FBF56c897f4E71",
+      "symbol": "REDRUM",
+      "name": "REDRUM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16666,
-    "minor": 16666,
+    "major": 16667,
+    "minor": 16667,
     "patch": 86
   }
 }
