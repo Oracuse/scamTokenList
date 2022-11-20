@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCa6cEaA18Fc44590bC1730755212E5234bFe96C1",
-      "symbol": "DOJO",
-      "name": "DOJOFIGHTER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9Ff5031B6827B1F86c18cB89f621043693f5AE7E",
       "symbol": "SAITAMADIAMONDS",
       "name": "SaitamaDiamonds",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9aB69b32BC4e78A9CCa6a78b4764bE14BC56A04",
+      "symbol": "FTXHACK",
+      "name": "FTXHACK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16620,
-    "minor": 16620,
+    "major": 16621,
+    "minor": 16621,
     "patch": 86
   }
 }
