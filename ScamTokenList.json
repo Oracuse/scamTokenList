@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb734978dEAFF04b56B5a609938279C909A080c04",
-      "symbol": "MOONPROTOCOL",
-      "name": "MoonProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd5154cF5306AeBDE058c45eE9B05f91f843dF8F5",
       "symbol": "FOD",
       "name": "FeastofDogs",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x579D2950679777b8655aBE59b6024e7DEE5ebA60",
+      "symbol": "LP",
+      "name": "LaeebProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16633,
-    "minor": 16633,
+    "major": 16634,
+    "minor": 16634,
     "patch": 86
   }
 }
