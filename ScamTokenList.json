@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76C2Ba174ABF2ac03D0FBBF301F6365B7Fa31eb7",
-      "symbol": "POD20",
-      "name": "ProofOfDegen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xce82cAc52Be14cA17b3d9eDfc1812acEe64ebaFa",
       "symbol": "EEAHSAPA",
       "name": "Eeahsapa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x873867605411b0edb06D86eD6419ae2474d00721",
+      "symbol": "WCPI",
+      "name": "WorldCupPoolsINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16645,
-    "minor": 16645,
+    "major": 16646,
+    "minor": 16646,
     "patch": 86
   }
 }
