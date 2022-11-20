@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE031715BDf7E8EF2530eAD750215E934b51D9e97",
-      "symbol": "INVISIBLE",
-      "name": "DarkMatter",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE3d564D5181801278143dBE687Aa321a2de3b5f3",
       "symbol": "WIFESWAP",
       "name": "WifeSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50E292394f15DA1Ef8DE0891Ca5b87ebf4bFe369",
+      "symbol": "REX",
+      "name": "RegnumDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16660,
-    "minor": 16660,
+    "major": 16661,
+    "minor": 16661,
     "patch": 86
   }
 }
