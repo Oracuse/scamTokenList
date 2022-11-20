@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEBE98EDF16021F5e6296ccc06986A3f9654fE903",
-      "symbol": "LOCKDAO",
-      "name": "LOCKDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4cc0662e487E451Ec174a5f75d8f8Ba26fF028d3",
       "symbol": "GYOTO",
       "name": "Gyoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x891aa4a2b7444eb90762ea639Ac88Ebf6500487c",
+      "symbol": "30MIN",
+      "name": "ExtraTime",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16667,
-    "minor": 16667,
+    "major": 16668,
+    "minor": 16668,
     "patch": 86
   }
 }
