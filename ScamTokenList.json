@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1E415434721Ad8abC87457cebB611B3973D08847",
-      "symbol": "SQUID2",
-      "name": "SQUIDGAMETWO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22a6F7ee0CC87ff690edb1A0114bE666Ec58D410",
       "symbol": "PROOFOFMOON",
       "name": "ETH1000",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34c2084B57F4623D0FdB5cf174e2Aa1dBfc0cE38",
+      "symbol": "TAJP",
+      "name": "TheAntiJeetProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16576,
-    "minor": 16576,
+    "major": 16577,
+    "minor": 16577,
     "patch": 86
   }
 }
