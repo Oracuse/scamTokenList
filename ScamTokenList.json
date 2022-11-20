@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x540da267DEc95da2094fd544A9d1251d4a1985D4",
-      "symbol": "SAFU",
-      "name": "Safuchain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0e24e1402ae32fbBB3c6D04EA219065a3559B143",
       "symbol": "VOLT",
       "name": "Volta",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF52800f5859D2C9AC7B167Ca536Ed83cbB162C95",
+      "symbol": "MEXICO",
+      "name": "Mexico",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16602,
-    "minor": 16602,
+    "major": 16603,
+    "minor": 16603,
     "patch": 86
   }
 }
