@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x47d85EFEb908A4E399605b56C15d7B23DCb5612B",
-      "symbol": "SNA",
-      "name": "ShibuNai",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE81536521743cDBBdb7f85DEB9EdFB200Bd5A525",
       "symbol": "KATSURA",
       "name": "KatsuraOtoko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbBA09603900b7937a48f79e60f33B2905D48fDAE",
+      "symbol": "FOOT",
+      "name": "FootballCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16631,
-    "minor": 16631,
+    "major": 16632,
+    "minor": 16632,
     "patch": 86
   }
 }
