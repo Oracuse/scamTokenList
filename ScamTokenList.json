@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6b42504248B6A68E484A776F28FCB9366C1F091D",
-      "symbol": "LINES",
-      "name": "LinesCryptocurrency",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x35c9027A50e0D8309E17573Af0C4Fe65fC0272BC",
       "symbol": "PALETTE",
       "name": "Colorful",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76783a3aD70f72c2fD71E956416F386f4746120B",
+      "symbol": "BEAR",
+      "name": "BearMarket",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16648,
-    "minor": 16648,
+    "major": 16649,
+    "minor": 16649,
     "patch": 86
   }
 }
