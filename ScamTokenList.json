@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB33ada78dA8f192DEDC13b4092744fFD1D5b288b",
-      "symbol": "YOGENNOTORI",
-      "name": "YogennoTori",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x47d85EFEb908A4E399605b56C15d7B23DCb5612B",
       "symbol": "SNA",
       "name": "ShibuNai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04083A693c9447a21f4466F8a3613415A1f0AFC1",
+      "symbol": "RCI",
+      "name": "RedCardInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16630,
-    "minor": 16630,
+    "major": 16631,
+    "minor": 16631,
     "patch": 86
   }
 }
