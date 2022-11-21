@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x029dB8aa931801E937F7204d1e8070B8195a1b22",
-      "symbol": "RYOSHI20",
-      "name": "ProofOfLarp",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd23CA08CCC56C671d6756499Bf8869Ae861c7F91",
       "symbol": "SANDS",
       "name": "SAND",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb38cFe5Ae0b2003B97c9C1e4b6d52f756181bBab",
+      "symbol": "THING",
+      "name": "Thing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16705,
-    "minor": 16705,
+    "major": 16706,
+    "minor": 16706,
     "patch": 86
   }
 }
