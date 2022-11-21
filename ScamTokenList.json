@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8a5dFba01F25B2e78C874E163b4759Fa74cc1fE4",
-      "symbol": "WIND",
-      "name": "WIND",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8Fb10Ec27158C8DeB577F3f88E03350Ff64a1fb6",
       "symbol": "POV",
       "name": "ProofOfVisions",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47729758327997C7DcfbA2295F268CB82F974d53",
+      "symbol": "ROYALMATRIX",
+      "name": "RoyalMatrix",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16725,
-    "minor": 16725,
+    "major": 16726,
+    "minor": 16726,
     "patch": 86
   }
 }
