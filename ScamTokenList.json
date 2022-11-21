@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x030203E826FE32a37f5219BB47fE33891B0917FE",
-      "symbol": "PIKA",
-      "name": "PIKAPIKA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x972816D00e495A520e2921C1B8cf202e72E251A7",
       "symbol": "ASCUEMIP",
       "name": "Ascuemip",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0839A408944260f546CF893Ba5c79960f30D27D4",
+      "symbol": "ST",
+      "name": "Demogorgon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16750,
-    "minor": 16750,
+    "major": 16751,
+    "minor": 16751,
     "patch": 86
   }
 }
