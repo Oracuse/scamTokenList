@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66571B3F5C925fD27aAff741c7b3Bbb3F5e923a6",
-      "symbol": "MET",
-      "name": "MivieToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0ba19c21d701C8A7550AcD531cf8C4CB154fAb0e",
       "symbol": "TRVE",
       "name": "TheTruth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE67b8f7931929c5BBC29dF23b89F6c0A86F4aD16",
+      "symbol": "SPACEX",
+      "name": "SpaceX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16703,
-    "minor": 16703,
+    "major": 16704,
+    "minor": 16704,
     "patch": 86
   }
 }
