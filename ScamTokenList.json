@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x26e35d839662C116ddbdB76377BFC0FDA8214F4d",
-      "symbol": "DIONEBANK",
-      "name": "DioneBank",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6ceA3EFBb1A03d98c52653D84e40714A1D3Dcc9e",
       "symbol": "DC20",
       "name": "DogechainToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x049e3A27779EEB2aaD92AB785B19fc76b4d49c0D",
+      "symbol": "WTC",
+      "name": "WorldTrumpCup",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16689,
-    "minor": 16689,
+    "major": 16690,
+    "minor": 16690,
     "patch": 86
   }
 }
