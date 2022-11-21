@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62E971f69193e20adFA64f13594ee8654fC508aB",
-      "symbol": "DETH",
-      "name": "DEth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50cdCd6674146010DfB787f98a1e22403244f656",
       "symbol": "BONGO",
       "name": "BongoCat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a8567B72DE8c16885fE2F7a6448Ab76b4308cD7",
+      "symbol": "RC",
+      "name": "RonaldoClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16759,
-    "minor": 16759,
+    "major": 16760,
+    "minor": 16760,
     "patch": 86
   }
 }
