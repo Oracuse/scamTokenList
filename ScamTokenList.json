@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAE36155a55F04a696b8362777620027882B31dB5",
-      "symbol": "KISHIMOTO",
-      "name": "Kishimoto",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbB4a94F562DC1608BC06d26ccB87cC437FCEa085",
       "symbol": "BBC",
       "name": "BunbukuChagama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7a7087098ab75a09878E2a0f3Ba6b313d7cB2f1",
+      "symbol": "GC",
+      "name": "GenesisClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16752,
-    "minor": 16752,
+    "major": 16753,
+    "minor": 16753,
     "patch": 86
   }
 }
