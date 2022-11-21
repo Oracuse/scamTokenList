@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4AfA835Efd01fC265D3a76f27Ee5308dAEf01B7d",
-      "symbol": "TDOGE",
-      "name": "TempleofDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd58B3fa87a27A6A2E0983AD726d04B57A8Abaad4",
       "symbol": "BLOB",
       "name": "BlobChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3767A74A7a90572A07cEEE7272A27a8867e731C8",
+      "symbol": "TUS",
+      "name": "TehUS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16744,
-    "minor": 16744,
+    "major": 16745,
+    "minor": 16745,
     "patch": 86
   }
 }
