@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x63e570E4fd26e64f5a837A986f7FA547F51f3e1c",
-      "symbol": "TAKA",
-      "name": "Takanome",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf4cBccfcE178ceECD7Aeb0F13C8AE7A150D3E27e",
       "symbol": "PINU",
       "name": "PoWInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2471e8042CE90a0562Db4Cd53B48Af6720112Ae1",
+      "symbol": "DUNE",
+      "name": "Dune",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16738,
-    "minor": 16738,
+    "major": 16739,
+    "minor": 16739,
     "patch": 86
   }
 }
