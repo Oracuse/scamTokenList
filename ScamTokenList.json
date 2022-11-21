@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCc274F95B94566dF840DBe4Fa7B69e86b9f8A1b8",
-      "symbol": "BDAO",
-      "name": "Bunsan",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x92915dabb71f9c8bcfFAE2F3870dd4c428D5BDB8",
       "symbol": "SOCRA",
       "name": "SocratesDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23Faed88f620b5b90616ADe06D672d84e95F3d6F",
+      "symbol": "X",
+      "name": "X",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16757,
-    "minor": 16757,
+    "major": 16758,
+    "minor": 16758,
     "patch": 86
   }
 }
