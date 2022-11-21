@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8155F0d5714f304aBe85E05293AA7AB386987D3d",
-      "symbol": "MYTH",
-      "name": "ProofOfMyth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04dc58a7B4F4ab31Bc37923C373Bc1d951f7aa5a",
       "symbol": "ERN",
       "name": "Eurion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc58F7FDf4239A71Ae629843DB81dF3e792B5D016",
+      "symbol": "SHALOM",
+      "name": "ShalomChain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16685,
-    "minor": 16685,
+    "major": 16686,
+    "minor": 16686,
     "patch": 86
   }
 }
