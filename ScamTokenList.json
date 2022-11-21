@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDF2F56BC8cD8871101eeBAc46466dEfc95C46536",
-      "symbol": "ETREE",
-      "name": "EthereumTree",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17f13249eD67969fc24237BF17989C77081cF8a5",
       "symbol": "FLOKICHAIN",
       "name": "FlokiChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5344c78C24E52956c8Ab9123c76092DB05959f4b",
+      "symbol": "WCL",
+      "name": "WorldCupLite",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16715,
-    "minor": 16715,
+    "major": 16716,
+    "minor": 16716,
     "patch": 86
   }
 }
