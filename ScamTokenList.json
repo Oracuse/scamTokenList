@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x920014ce62a83df0d197ad916Db1081F1B380e59",
-      "symbol": "KAIDA",
-      "name": "DejitaruKaida",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcff5d3EA156f2cf245b441b20097531C910A0756",
       "symbol": "SOLANA20",
       "name": "ProofOfSolana",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92A6dEB2C485A5BAa10B8441abb7a1Cd2c92090b",
+      "symbol": "VAR",
+      "name": "VAR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16707,
-    "minor": 16707,
+    "major": 16708,
+    "minor": 16708,
     "patch": 86
   }
 }
