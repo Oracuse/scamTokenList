@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd58B3fa87a27A6A2E0983AD726d04B57A8Abaad4",
-      "symbol": "BLOB",
-      "name": "BlobChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x85156E351Bb993d47e960f46fdfF15b39B404770",
       "symbol": "PMAX",
       "name": "PROOFOFEMAX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3FC51F20851a6131A37e9c3e5B4b1EFd17c22cDd",
+      "symbol": "BK",
+      "name": "BurnerKing",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16745,
-    "minor": 16745,
+    "major": 16746,
+    "minor": 16746,
     "patch": 86
   }
 }
