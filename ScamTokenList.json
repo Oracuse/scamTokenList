@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd669eD0752A2806F058bF04E3fCEf5DeBf282423",
-      "symbol": "GOD",
-      "name": "GodGlory",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf3BECcB94FC64189120CF002CCe7BA4Ebd00e7F7",
       "symbol": "BART",
       "name": "TheBartman",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4CEAA66AD75a601bF0754A0c64728a8C5f2C5Fc4",
+      "symbol": "POR",
+      "name": "ProofOfReserve",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16748,
-    "minor": 16748,
+    "major": 16749,
+    "minor": 16749,
     "patch": 86
   }
 }
