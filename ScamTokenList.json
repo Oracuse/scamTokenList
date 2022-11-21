@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd157D1a2C5546a3E43b975d80fACbBEFaA8De7c8",
-      "symbol": "GOTEI",
-      "name": "Seireitei",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE6DBBC16EBEcE2Aa9931919E512E580368378B2d",
       "symbol": "SAFU",
       "name": "Safuchain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB284B8c971eAc34b7Eff10db324b76c5775ca3c",
+      "symbol": "USAINU",
+      "name": "USAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16709,
-    "minor": 16709,
+    "major": 16710,
+    "minor": 16710,
     "patch": 86
   }
 }
