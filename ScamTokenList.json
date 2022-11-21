@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf3BECcB94FC64189120CF002CCe7BA4Ebd00e7F7",
-      "symbol": "BART",
-      "name": "TheBartman",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x030203E826FE32a37f5219BB47fE33891B0917FE",
       "symbol": "PIKA",
       "name": "PIKAPIKA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6A9ae897a24c2fc680c43D34b526Dfd94B801DBD",
+      "symbol": "TSUKU",
+      "name": "TSUKUYOMI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16749,
-    "minor": 16749,
+    "major": 16750,
+    "minor": 16750,
     "patch": 86
   }
 }
