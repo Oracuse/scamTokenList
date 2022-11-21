@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7a1195021e851a8A6CF55fa3C64180a33888f77C",
-      "symbol": "FENRIR",
-      "name": "ChainBreaker",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDAFd4308eC204E0DD7AB514Ff6356bf41FF5F0d9",
       "symbol": "NXS",
       "name": "NEXUS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCD3A752561f98Ed379B8E62a0CF963a9e493ccC3",
+      "symbol": "WCS",
+      "name": "WorldCupShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16733,
-    "minor": 16733,
+    "major": 16734,
+    "minor": 16734,
     "patch": 86
   }
 }
