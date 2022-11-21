@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6a74eD8733Bb8b6756C7Ccf3c751cEA4904FBEf3",
-      "symbol": "MOON",
-      "name": "MoonProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdFd5fe4b861a6eec63CaECC437F5b3a2dd0A71Bc",
       "symbol": "MOUNTFUJI",
       "name": "MountFuji",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6C41b899d1FfC9CF4ADc96c6a2DF1A29F7bec5c7",
+      "symbol": "GENLABS",
+      "name": "GenesisLabs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16741,
-    "minor": 16741,
+    "major": 16742,
+    "minor": 16742,
     "patch": 86
   }
 }
