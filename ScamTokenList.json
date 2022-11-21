@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6d83A66D0D2a0AFD35b2894E880eBa53672c5Ee5",
-      "symbol": "POT",
-      "name": "ProofofTemple",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6eaD88E91f9AedE1c319166FA053610C7B6aB463",
       "symbol": "HAVEN",
       "name": "DesuKa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEF6A8F54ff5B6351A6962E2122C5cEd6A75d869d",
+      "symbol": "INUONE",
+      "name": "InuOne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16719,
-    "minor": 16719,
+    "major": 16720,
+    "minor": 16720,
     "patch": 86
   }
 }
