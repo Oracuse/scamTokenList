@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEDcA2Aa1D529fa146ea18fc23Ac8A06520c4394F",
-      "symbol": "MOON",
-      "name": "MoonProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDF2F56BC8cD8871101eeBAc46466dEfc95C46536",
       "symbol": "ETREE",
       "name": "EthereumTree",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bee9B5aA4DC21861f758C03853421C7551B80e7",
+      "symbol": "MOONG",
+      "name": "Moongram",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16714,
-    "minor": 16714,
+    "major": 16715,
+    "minor": 16715,
     "patch": 86
   }
 }
