@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x095Dc9c436C585670d979F84E8a01a4De15CDAbe",
-      "symbol": "1B15",
-      "name": "IBIS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF6bfd69D28a203522aAc60801496aB0c86F03677",
       "symbol": "1B15",
       "name": "IBIS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbc19c6feb03BBB99F80fC49ee4a191927B79659f",
+      "symbol": "WCB",
+      "name": "WorldCupBet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16736,
-    "minor": 16736,
+    "major": 16737,
+    "minor": 16737,
     "patch": 86
   }
 }
