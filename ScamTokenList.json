@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5FeDc239Eb6Fe9b06071D92bD056a4B727e5dF11",
-      "symbol": "SPIRAL20",
-      "name": "ProofofSPIRAL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8ac6e4eeF1EEEd508cB7F4871178a72b04d10ac9",
       "symbol": "PLSX",
       "name": "PulseX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4751A77520a3a73121a49559864d4AE23F4B7dbf",
+      "symbol": "NAMASTE",
+      "name": "Namaste",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16728,
-    "minor": 16728,
+    "major": 16729,
+    "minor": 16729,
     "patch": 86
   }
 }
