@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa44d6e8575a9E02e1804346E150b643A6876B2bf",
-      "symbol": "SPC",
-      "name": "Simplicity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09FC8F47944f9c4a4C6b512Ff1204a8e47A07b00",
       "symbol": "ISHIINU",
       "name": "Ishigantou",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA68E7D9C9E9Bd421D4db811b1D5D159435877B72",
+      "symbol": "DINO",
+      "name": "DinoGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16766,
-    "minor": 16766,
+    "major": 16767,
+    "minor": 16767,
     "patch": 86
   }
 }
