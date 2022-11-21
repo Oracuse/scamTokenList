@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE6DBBC16EBEcE2Aa9931919E512E580368378B2d",
-      "symbol": "SAFU",
-      "name": "Safuchain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x14E6bEaCA9A5D6e1F93108FF1000f76Ba8eBf011",
       "symbol": "KAMUI",
       "name": "AkkoroKamui",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C1339a6152800F97089d0bE91C08DAFb3e4FBdD",
+      "symbol": "QU4K",
+      "name": "QUAK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16710,
-    "minor": 16710,
+    "major": 16711,
+    "minor": 16711,
     "patch": 86
   }
 }
