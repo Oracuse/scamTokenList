@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x35514659DE48a7A5a0e7267aa6b94322013301f2",
-      "symbol": "SORI",
-      "name": "DejitaruSori",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCc274F95B94566dF840DBe4Fa7B69e86b9f8A1b8",
       "symbol": "BDAO",
       "name": "Bunsan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2DE1F0A8Af9b6EA9C16c353932C259d241FA0b06",
+      "symbol": "OND",
+      "name": "Onedation",
+      "decimals": 7,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16756,
-    "minor": 16756,
+    "major": 16757,
+    "minor": 16757,
     "patch": 86
   }
 }
