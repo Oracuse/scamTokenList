@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2E2DE497b32069e8E0273ed3a7eD538E36451290",
-      "symbol": "SHANGHAI",
-      "name": "SHANGHAI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6a74eD8733Bb8b6756C7Ccf3c751cEA4904FBEf3",
       "symbol": "MOON",
       "name": "MoonProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCE3513d72150726679d1505b8326C071C5f86297",
+      "symbol": "FALKOR",
+      "name": "Falkor",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16740,
-    "minor": 16740,
+    "major": 16741,
+    "minor": 16741,
     "patch": 86
   }
 }
