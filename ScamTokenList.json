@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6b91b72931993449fecC9d590D0d786a41588b1E",
-      "symbol": "BFIGHT",
-      "name": "BARFIGHT",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66571B3F5C925fD27aAff741c7b3Bbb3F5e923a6",
       "symbol": "MET",
       "name": "MivieToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc6143a6fa0483eF8dF11D44764412924f6f20D38",
+      "symbol": "VITALIK",
+      "name": "Athing",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16702,
-    "minor": 16702,
+    "major": 16703,
+    "minor": 16703,
     "patch": 86
   }
 }
