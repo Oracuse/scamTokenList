@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8ac6e4eeF1EEEd508cB7F4871178a72b04d10ac9",
-      "symbol": "PLSX",
-      "name": "PulseX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE793B72dFfDBDA2688e34D5D5A2BBBa47788735C",
       "symbol": "KENNELSPHERENFTGAME",
       "name": "httpstmeKennelSpher",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67f2898370438C2A2cb47EB3c844b13EDB5FbA91",
+      "symbol": "METH",
+      "name": "MemeETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16729,
-    "minor": 16729,
+    "major": 16730,
+    "minor": 16730,
     "patch": 86
   }
 }
