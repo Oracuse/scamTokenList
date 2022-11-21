@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE8A0fD9a76Bf3f7860B92A0026DFF03735a08404",
-      "symbol": "DEIMOS",
-      "name": "DEIMOS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x26e35d839662C116ddbdB76377BFC0FDA8214F4d",
       "symbol": "DIONEBANK",
       "name": "DioneBank",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC707b3BB954c4bdB9Df65A06cbdDbe985bF51D8C",
+      "symbol": "OKM",
+      "name": "Okami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16688,
-    "minor": 16688,
+    "major": 16689,
+    "minor": 16689,
     "patch": 86
   }
 }
