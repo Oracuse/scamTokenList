@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbAD48588E7Fc596393e6Ea83553708F3456eB7C6",
-      "symbol": "SWING",
-      "name": "SwingDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x055595DBC55Fa11C9a67e2381B33216B01daC25c",
       "symbol": "TERRA20",
       "name": "ProofofFugitive",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b0a1D0902D3eA65f484b326fc6E6fF9F7FB12b1",
+      "symbol": "GIBA",
+      "name": "GamblerShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16712,
-    "minor": 16712,
+    "major": 16713,
+    "minor": 16713,
     "patch": 86
   }
 }
