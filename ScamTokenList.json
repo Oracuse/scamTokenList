@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x234Fe8b3EE315d06aBFf5330B29CA01C72b416a4",
-      "symbol": "BHIM",
-      "name": "BabyAkasareruHimits",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6d83A66D0D2a0AFD35b2894E880eBa53672c5Ee5",
       "symbol": "POT",
       "name": "ProofofTemple",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c022e58C5E3Ee213F06f975fd8a0d3a6fE9Ca1C",
+      "symbol": "FINU",
+      "name": "FormulaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16718,
-    "minor": 16718,
+    "major": 16719,
+    "minor": 16719,
     "patch": 86
   }
 }
