@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14E6bEaCA9A5D6e1F93108FF1000f76Ba8eBf011",
-      "symbol": "KAMUI",
-      "name": "AkkoroKamui",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbAD48588E7Fc596393e6Ea83553708F3456eB7C6",
       "symbol": "SWING",
       "name": "SwingDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDfE288A97aBC17733B91e2D1a4124c1187D5260c",
+      "symbol": "ALPHA",
+      "name": "TheNextAge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16711,
-    "minor": 16711,
+    "major": 16712,
+    "minor": 16712,
     "patch": 86
   }
 }
