@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6ceA3EFBb1A03d98c52653D84e40714A1D3Dcc9e",
-      "symbol": "DC20",
-      "name": "DogechainToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd111C8516BAFED13fB2F50c2fdf4031C181Cdc76",
       "symbol": "APECOIN20",
       "name": "ProofofApe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x816C6B49dF992e526C768B0472D1C927b88E8387",
+      "symbol": "PAIRS",
+      "name": "HOTPAIRSDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16690,
-    "minor": 16690,
+    "major": 16691,
+    "minor": 16691,
     "patch": 86
   }
 }
