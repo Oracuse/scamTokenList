@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x055595DBC55Fa11C9a67e2381B33216B01daC25c",
-      "symbol": "TERRA20",
-      "name": "ProofofFugitive",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEDcA2Aa1D529fa146ea18fc23Ac8A06520c4394F",
       "symbol": "MOON",
       "name": "MoonProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF00b040776F073c48d752EcacfeC2aAF802b4eC8",
+      "symbol": "WCP",
+      "name": "WorldCupPlatform",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16713,
-    "minor": 16713,
+    "major": 16714,
+    "minor": 16714,
     "patch": 86
   }
 }
