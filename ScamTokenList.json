@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8Fb10Ec27158C8DeB577F3f88E03350Ff64a1fb6",
-      "symbol": "POV",
-      "name": "ProofOfVisions",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe12C18A71F3Bbc3557d3d784D08590eC032c4933",
       "symbol": "USDTW",
       "name": "TetherUSDPOW",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x460add1328fF90fb62bbf6DC31ac1FC40821F097",
+      "symbol": "PGINU",
+      "name": "PaulGrahamInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16726,
-    "minor": 16726,
+    "major": 16727,
+    "minor": 16727,
     "patch": 86
   }
 }
