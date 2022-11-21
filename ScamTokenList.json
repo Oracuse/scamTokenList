@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1D12a4Cb19f1625d5BA0651267875b792eE5E4b2",
-      "symbol": "APOOLO",
-      "name": "Apoolo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1e9c63491960a89B9279D79404d728ed4CFB6E8a",
       "symbol": "GENFLOKI",
       "name": "TheGenesisFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8CE941666e429bbd969c1Af11f474b505c69BC5",
+      "symbol": "KUJIRA",
+      "name": "ZAKUJIRA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16696,
-    "minor": 16696,
+    "major": 16697,
+    "minor": 16697,
     "patch": 86
   }
 }
