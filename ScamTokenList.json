@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb0D636c791aF6859bF275e8aE3DcBdb9e1E85F2D",
-      "symbol": "SHIROKO",
-      "name": "ShirokoHatsuneMiku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1A16FA1A39029Be3E25f87A844cE89Af84Cd75da",
       "symbol": "MOONS",
       "name": "MoonRunners",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0fF511bbb19daD78Aa998aE7AccDa93cD0c2c815",
+      "symbol": "SIBDAVINCI",
+      "name": "ShibDaVinci",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16829,
-    "minor": 16829,
+    "major": 16830,
+    "minor": 16830,
     "patch": 86
   }
 }
