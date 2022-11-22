@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF174F983E19D28C14D75Ffb7b86DA02cf080aAc5",
-      "symbol": "OPPAI",
-      "name": "Oppai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA4BCd4024f66D6FA016E43eDB5B8cB2C93e079c7",
       "symbol": "ON",
       "name": "OdaNobunaga",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x387238e8e31912804D9bCC0c3f30d6275A239181",
+      "symbol": "SPARKLE",
+      "name": "MrSparkle",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16864,
-    "minor": 16864,
+    "major": 16865,
+    "minor": 16865,
     "patch": 86
   }
 }
