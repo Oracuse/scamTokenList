@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFa9c031586Aed239F97bAE84813eCD3124ac7d55",
-      "symbol": "BAKA",
-      "name": "BakaDesuKa",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x06Acd27B8Db49bF75Be0B5457e765A3DB932f73f",
       "symbol": "FAFNIR",
       "name": "Fafnir",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1171818f908c61208522E2D03DB218761111503",
+      "symbol": "ALS",
+      "name": "Aeolus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16805,
-    "minor": 16805,
+    "major": 16806,
+    "minor": 16806,
     "patch": 86
   }
 }
