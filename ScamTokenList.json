@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4Cd199dA46a5D30d9E9D50CeCC5F8563c9294D14",
-      "symbol": "BURNZ",
-      "name": "JojoBurn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe0E53f10B589fD6037361db150bCf287e5ae660d",
       "symbol": "POB",
       "name": "BulletProof",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e79aABb27C0A292166e277a3db6e69F557F797E",
+      "symbol": "LFG",
+      "name": "BuytheDip",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16784,
-    "minor": 16784,
+    "major": 16785,
+    "minor": 16785,
     "patch": 86
   }
 }
