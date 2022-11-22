@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x59d6A1EeF725e528E9f1c1CDC7428E12f501C838",
-      "symbol": "POS",
-      "name": "PROOFOFSAITAMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10B2ACe074122e03f02dE3B43C46Bdc73BE5A0e2",
       "symbol": "LEGEND",
       "name": "TheLegendofRyoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5D0EadFaBa9b8c612A59f87D5640BdF87799fCD9",
+      "symbol": "DINO",
+      "name": "DinoGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16786,
-    "minor": 16786,
+    "major": 16787,
+    "minor": 16787,
     "patch": 86
   }
 }
