@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x908626133F2E621E938E56556fe13EF3de4e2697",
-      "symbol": "ANTE",
-      "name": "Omiferous",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x34D9B80781276E7d2DaaDD3386e88E0C19D4aCdC",
       "symbol": "CERBERUS",
       "name": "Cerberus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBa00975B5429E05dfBc7f8e154A2c4dF23EC9C9f",
+      "symbol": "DINO",
+      "name": "DinoGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16781,
-    "minor": 16781,
+    "major": 16782,
+    "minor": 16782,
     "patch": 86
   }
 }
