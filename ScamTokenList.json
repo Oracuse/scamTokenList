@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x63EA7FFFde99A2e53a40D977DD8B4F962788e9C8",
-      "symbol": "GIGA",
-      "name": "GigaNft",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa99ecb1090476352768e2cBC4976c2e4A7c82430",
       "symbol": "SAITOMIC",
       "name": "SAITOMICINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E81B54de105dc7567366A6abcF3dE31369fCB6b",
+      "symbol": "DINO",
+      "name": "DinoGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16791,
-    "minor": 16791,
+    "major": 16792,
+    "minor": 16792,
     "patch": 86
   }
 }
