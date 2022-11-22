@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x29F39700EF36f91D43C159D95630D5d56f21184A",
-      "symbol": "ONIGIRI",
-      "name": "Onigiri",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8d3D54DEB76B1B905bFE4748F172442b1056657D",
       "symbol": "GAIA",
       "name": "Gaia",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82B1dD12DdDFe3B3cc885D1e55ECeb826841D2d1",
+      "symbol": "WCF",
+      "name": "WorldCupFloki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16826,
-    "minor": 16826,
+    "major": 16827,
+    "minor": 16827,
     "patch": 86
   }
 }
