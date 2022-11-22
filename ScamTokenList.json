@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x68B560FdC74A33f7973844ba5C61B895F464413F",
-      "symbol": "MOON",
-      "name": "MoonProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9e18d5BAB2FA94a6A95F509Ecb38F8F68322AbD3",
       "symbol": "OMIKAMI",
       "name": "AMATERASUOMIKAMI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90F7BE4b31842b86d74E69ED72B26522227C684F",
+      "symbol": "STBZ",
+      "name": "Stabilize",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16852,
-    "minor": 16852,
+    "major": 16853,
+    "minor": 16853,
     "patch": 86
   }
 }
