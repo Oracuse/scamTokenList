@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFeaF7D69dC1EB5Bc177919AA31BAE7909Be68043",
-      "symbol": "POC",
-      "name": "ProofOfChads",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x569C0e10c4e083B8aa909e0014cF3860d4f9cf0a",
       "symbol": "POFU",
       "name": "ProofofFunds",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6da1c2D24334e4340FAb76F038121748B1BB2880",
+      "symbol": "MIACIS",
+      "name": "Miacis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16862,
-    "minor": 16862,
+    "major": 16863,
+    "minor": 16863,
     "patch": 86
   }
 }
