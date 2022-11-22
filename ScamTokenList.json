@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x835B0cFdac20F2Dd8b210349514bcb57295e9C06",
-      "symbol": "MIKU",
-      "name": "MIKUINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3Ca3fFE6853F477Ea1F74DCCC5A188237F145C10",
       "symbol": "USDC20",
       "name": "PROOFOFUSDC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbaC0056C0BfaF024967017aafc07c3875f6A1E6f",
+      "symbol": "FUDWAR",
+      "name": "FUDWARS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16871,
-    "minor": 16871,
+    "major": 16872,
+    "minor": 16872,
     "patch": 86
   }
 }
