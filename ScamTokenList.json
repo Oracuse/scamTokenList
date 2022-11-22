@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf8118c6468E9747fD07d3afdF0234f60440a2Cce",
-      "symbol": "BBRC",
-      "name": "IVYBOYS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0e6918ea38c69C60612AbA8e8034319188612541",
       "symbol": "POR",
       "name": "ProofofRacism",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93e53037Ff547b94953FD5D0698B11dBCce3a956",
+      "symbol": "UPSET",
+      "name": "FIFAWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16849,
-    "minor": 16849,
+    "major": 16850,
+    "minor": 16850,
     "patch": 86
   }
 }
