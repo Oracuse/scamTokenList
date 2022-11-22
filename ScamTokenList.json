@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73d0a92fc74926eAc84C7609e01F8e883Dbc2084",
-      "symbol": "MOON",
-      "name": "MoonProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09c7107648C74AD1432C98b0C85FEb328d6EcAe0",
       "symbol": "ADIK",
       "name": "AbouKida",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1576c0Ff9E95B2d60023c462a0cD8BFB5e7D46C1",
+      "symbol": "QC",
+      "name": "QatarClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16866,
-    "minor": 16866,
+    "major": 16867,
+    "minor": 16867,
     "patch": 86
   }
 }
