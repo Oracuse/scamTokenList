@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5bcA5c3BFfB82382D7B4BB9dA985C33f0ffD20b0",
-      "symbol": "SAFU",
-      "name": "Safuchain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x74666308fD5fE0622c34EbD418621c81201589bB",
       "symbol": "MPG",
       "name": "MoonProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8d52C3314771a7d969C0A00Ad7e7e161520137D",
+      "symbol": "20",
+      "name": "TheAvatar",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16844,
-    "minor": 16844,
+    "major": 16845,
+    "minor": 16845,
     "patch": 86
   }
 }
