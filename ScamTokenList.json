@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8B5239B1B4289c66d631cc375343A7EC1fD8dA8b",
-      "symbol": "MASSUGU",
-      "name": "Masssugu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc4946d6E765c1a95C693757136A6Cc0C89a32d63",
       "symbol": "SNOWY",
       "name": "SnowyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3222825FBDDa4A32d13CA99097A072D3964bfCd4",
+      "symbol": "ARGINU",
+      "name": "ArgentinaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16812,
-    "minor": 16812,
+    "major": 16813,
+    "minor": 16813,
     "patch": 86
   }
 }
