@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcB547a2891F67e4D6E5068306f5edb7d20769a54",
-      "symbol": "MIRAI",
-      "name": "Mirai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1E0A0a68679913e4EAA060494dA6Cb36Ae295013",
       "symbol": "SBT",
       "name": "SBT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1899db0aD696cdD5BFf1210A4D98746F971c1E6C",
+      "symbol": "DINOMOON",
+      "name": "DinoMoon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16800,
-    "minor": 16800,
+    "major": 16801,
+    "minor": 16801,
     "patch": 86
   }
 }
