@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x06Acd27B8Db49bF75Be0B5457e765A3DB932f73f",
-      "symbol": "FAFNIR",
-      "name": "Fafnir",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb491b705cFCa480cA37Fa40ed0e6AdF29906a396",
       "symbol": "KILAUEA",
       "name": "Kilauea",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0F453A4080bCFe3E3b9D88D4F907a1246c6c05f9",
+      "symbol": "VPVD",
+      "name": "VoxPopuliVoxDei",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16806,
-    "minor": 16806,
+    "major": 16807,
+    "minor": 16807,
     "patch": 86
   }
 }
