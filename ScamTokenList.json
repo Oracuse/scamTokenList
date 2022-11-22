@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbBac3008Ae312A01aE3806590F1Fe49030aD8F6B",
-      "symbol": "VALID",
-      "name": "ValidatoorMoney",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0bc548fA010114fC8D01b2dfead86C75452bf52",
       "symbol": "MOON",
       "name": "MoonProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD62F1CE1079dDF85C1B89D3D3Fc53C35821f4927",
+      "symbol": "BCRAB",
+      "name": "BabyCrabMarket",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16809,
-    "minor": 16809,
+    "major": 16810,
+    "minor": 16810,
     "patch": 86
   }
 }
