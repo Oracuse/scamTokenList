@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfEB132951a40d33B7971555b029F5abEE914274C",
-      "symbol": "LEOL",
-      "name": "LEO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFa9c031586Aed239F97bAE84813eCD3124ac7d55",
       "symbol": "BAKA",
       "name": "BakaDesuKa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81F9cb1229023638B4e3A036A3B07FBaDbf831bf",
+      "symbol": "GC",
+      "name": "GRAYSCALECLASSIC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16804,
-    "minor": 16804,
+    "major": 16805,
+    "minor": 16805,
     "patch": 86
   }
 }
