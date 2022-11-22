@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa99ecb1090476352768e2cBC4976c2e4A7c82430",
-      "symbol": "SAITOMIC",
-      "name": "SAITOMICINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x64fC33a5E02C4fB8D08c7B22c276CCA42EEa7784",
       "symbol": "POP",
       "name": "ProofOfPoodle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b277823ed9e619FD73a04E30161EdacFCdE453B",
+      "symbol": "TIT",
+      "name": "tit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16792,
-    "minor": 16792,
+    "major": 16793,
+    "minor": 16793,
     "patch": 86
   }
 }
