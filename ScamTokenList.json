@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73C4a8cC2E000d65c732b9169d36F8BA9E5963d1",
-      "symbol": "POC",
-      "name": "ProofOfCake",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcB547a2891F67e4D6E5068306f5edb7d20769a54",
       "symbol": "MIRAI",
       "name": "Mirai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72260230dA9AABfa65C5c5Fb0193382EBD9c2E5E",
+      "symbol": "DINO",
+      "name": "DinoGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16799,
-    "minor": 16799,
+    "major": 16800,
+    "minor": 16800,
     "patch": 86
   }
 }
