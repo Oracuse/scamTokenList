@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb0bc548fA010114fC8D01b2dfead86C75452bf52",
-      "symbol": "MOON",
-      "name": "MoonProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2AAa35014C7337f2B9f0C1A6562E50C29Cf7955f",
       "symbol": "TEST",
       "name": "test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x519ae463b877deeCB8359E245849756D05F8dA21",
+      "symbol": "UNI",
+      "name": "UniswapInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16810,
-    "minor": 16810,
+    "major": 16811,
+    "minor": 16811,
     "patch": 86
   }
 }
