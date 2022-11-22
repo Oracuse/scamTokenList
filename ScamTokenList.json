@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53B48A3101281c64390e9e121de23E057187e460",
-      "symbol": "UDON",
-      "name": "Udon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE8c07A8b0382A63E9547143f356590FDf6898821",
       "symbol": "MOONPROTOCOL",
       "name": "MoonProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x016FC65790b7Afa868F41cFb60d385A3500545A6",
+      "symbol": "DINU",
+      "name": "DenmarkInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16822,
-    "minor": 16822,
+    "major": 16823,
+    "minor": 16823,
     "patch": 86
   }
 }
