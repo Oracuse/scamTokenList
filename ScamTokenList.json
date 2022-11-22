@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe732750AF88EA108be476e3e8f6c1f8d6AfEeb6E",
-      "symbol": "BOROS",
-      "name": "MeteoricBURST",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1143d82117083cF1a0005feeE2035A2Bcd29fd2",
       "symbol": "POG",
       "name": "ProofOfGains",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41EEF6D284aBedCe3CBE268EEBC4e8E7843F7c1b",
+      "symbol": "BOPPY",
+      "name": "BoppyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16833,
-    "minor": 16833,
+    "major": 16834,
+    "minor": 16834,
     "patch": 86
   }
 }
