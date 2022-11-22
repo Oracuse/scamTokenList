@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8560d24036bdB164C7d5a6AFFB0f9E66992e5BF5",
-      "symbol": "PO2",
-      "name": "ProofOf20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8325171E099A1B9ADf4e4A6202f63005965162F7",
       "symbol": "PROOFOFMOON",
       "name": "ETH1000",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B58a5c37DC61C017D1bc1863c311ACC44D6383D",
+      "symbol": "APX",
+      "name": "Apex",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16774,
-    "minor": 16774,
+    "major": 16775,
+    "minor": 16775,
     "patch": 86
   }
 }
