@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF1Ffe5c3A89e45Df72e05cf3877ceafD083305B9",
-      "symbol": "SELENE",
-      "name": "Selene",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Cd199dA46a5D30d9E9D50CeCC5F8563c9294D14",
       "symbol": "BURNZ",
       "name": "JojoBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcD531A2661D42d6BbD2EE1AC7Dc3924278E755b4",
+      "symbol": "DINO",
+      "name": "DinoGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16783,
-    "minor": 16783,
+    "major": 16784,
+    "minor": 16784,
     "patch": 86
   }
 }
