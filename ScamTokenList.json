@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE8c07A8b0382A63E9547143f356590FDf6898821",
-      "symbol": "MOONPROTOCOL",
-      "name": "MoonProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x527af740e9848267D9A0B2Dc3Ebf94710fac7c05",
       "symbol": "SUSHI",
       "name": "Sushi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x330a60b1aA904eEC9408532A30e8029C0F700908",
+      "symbol": "SAUDOGE",
+      "name": "SaudiArabiaDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16823,
-    "minor": 16823,
+    "major": 16824,
+    "minor": 16824,
     "patch": 86
   }
 }
