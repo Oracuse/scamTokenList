@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e18d5BAB2FA94a6A95F509Ecb38F8F68322AbD3",
-      "symbol": "OMIKAMI",
-      "name": "AMATERASUOMIKAMI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59D9e6e02a824ed88e35da4646304266eE017F60",
       "symbol": "DIM",
       "name": "DogeInuMarket",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5B4965c9cE486FC12ddB2C9F67a33B334694826",
+      "symbol": "X",
+      "name": "X",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16853,
-    "minor": 16853,
+    "major": 16854,
+    "minor": 16854,
     "patch": 86
   }
 }
