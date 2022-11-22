@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8e5FC0e96C331dA22AcB18fA7A30891ec6553af6",
-      "symbol": "HENTAI",
-      "name": "Hentai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFeaF7D69dC1EB5Bc177919AA31BAE7909Be68043",
       "symbol": "POC",
       "name": "ProofOfChads",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d47731817c30e3A4d6AB8989c5C06D7F1C56b17",
+      "symbol": "INAZUMA",
+      "name": "InazumaEleven",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16861,
-    "minor": 16861,
+    "major": 16862,
+    "minor": 16862,
     "patch": 86
   }
 }
