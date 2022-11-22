@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x099d6791aA5D6b6F8721d8A00210319EA234e72A",
-      "symbol": "KUROSAKI",
-      "name": "IchigoKurosaki",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73C4a8cC2E000d65c732b9169d36F8BA9E5963d1",
       "symbol": "POC",
       "name": "ProofOfCake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22596f0bbE62a2AC15F495c074680aD28e6490f2",
+      "symbol": "KINU",
+      "name": "KoichiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16798,
-    "minor": 16798,
+    "major": 16799,
+    "minor": 16799,
     "patch": 86
   }
 }
