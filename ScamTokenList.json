@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1Bc2ce4E1611D0Eeed700c9fFca0D075627Acd62",
-      "symbol": "NULLA",
-      "name": "Nulla",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8560d24036bdB164C7d5a6AFFB0f9E66992e5BF5",
       "symbol": "PO2",
       "name": "ProofOf20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeffe20309556942c6b425c9B31815A46A2e24129",
+      "symbol": "ERI",
+      "name": "EdgerunnerInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16773,
-    "minor": 16773,
+    "major": 16774,
+    "minor": 16774,
     "patch": 86
   }
 }
