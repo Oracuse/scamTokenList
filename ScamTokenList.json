@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE6e51ABd8De206E7023B3F213792d5ad0a262bd2",
-      "symbol": "SUMOTORI",
-      "name": "Sumotori",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x835B0cFdac20F2Dd8b210349514bcb57295e9C06",
       "symbol": "MIKU",
       "name": "MIKUINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x415e50fE6205D70Fea2a2eCBb343Db1796AD38Bf",
+      "symbol": "FLASHBOTS",
+      "name": "Flashbots",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16870,
-    "minor": 16870,
+    "major": 16871,
+    "minor": 16871,
     "patch": 86
   }
 }
