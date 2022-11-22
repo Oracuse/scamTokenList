@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD754A13F88a3330be3CB9d02174f956b99Fd93d7",
-      "symbol": "STAR",
-      "name": "StarPlatinum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8e5FC0e96C331dA22AcB18fA7A30891ec6553af6",
       "symbol": "HENTAI",
       "name": "Hentai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67f367918A6c4186E8585C188bf794df89Bcab3e",
+      "symbol": "AOA",
+      "name": "AuraOfArmageddon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16860,
-    "minor": 16860,
+    "major": 16861,
+    "minor": 16861,
     "patch": 86
   }
 }
