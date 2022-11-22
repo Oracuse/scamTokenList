@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4B92Ff9E000F71BA030703F1315b7E96b04A4BAe",
-      "symbol": "DOLCA",
-      "name": "Dolca",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x63EA7FFFde99A2e53a40D977DD8B4F962788e9C8",
       "symbol": "GIGA",
       "name": "GigaNft",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1089E4c58089c170E00649100343334e13C727e0",
+      "symbol": "DINO",
+      "name": "DinoGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16790,
-    "minor": 16790,
+    "major": 16791,
+    "minor": 16791,
     "patch": 86
   }
 }
