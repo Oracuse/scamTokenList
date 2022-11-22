@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x474009f832EB08262B51fea329b5107036d22C4F",
-      "symbol": "SOURCE",
-      "name": "Provenance",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x908626133F2E621E938E56556fe13EF3de4e2697",
       "symbol": "ANTE",
       "name": "Omiferous",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x272bD09f7180220679d3D3ef18190827A5c5d12A",
+      "symbol": "DINO",
+      "name": "DinoGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16780,
-    "minor": 16780,
+    "major": 16781,
+    "minor": 16781,
     "patch": 86
   }
 }
