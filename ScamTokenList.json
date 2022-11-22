@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xff1d0d784063ab3693B03c016f2D95ABf1F2B608",
-      "symbol": "FOV",
-      "name": "Fovirtle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6652C34Ca5b3F6a7d49276F11A4b6005B73F3dDA",
       "symbol": "TBA",
       "name": "TheBronzeAge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfc842e658DDdeeD7Fba417B89c9A6c95e9F18a46",
+      "symbol": "WCW",
+      "name": "WorldCupWinner",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16840,
-    "minor": 16840,
+    "major": 16841,
+    "minor": 16841,
     "patch": 86
   }
 }
