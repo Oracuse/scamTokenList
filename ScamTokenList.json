@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x74666308fD5fE0622c34EbD418621c81201589bB",
-      "symbol": "MPG",
-      "name": "MoonProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1cA7982E5AFdA2a2F18088A5f04A5928793C5F57",
       "symbol": "OUT",
       "name": "Outrance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1f4722B7AFCb6C52d90934bfFd378f2f37553a2",
+      "symbol": "ACT",
+      "name": "Auctus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16845,
-    "minor": 16845,
+    "major": 16846,
+    "minor": 16846,
     "patch": 86
   }
 }
