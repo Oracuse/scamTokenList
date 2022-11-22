@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x59D9e6e02a824ed88e35da4646304266eE017F60",
-      "symbol": "DIM",
-      "name": "DogeInuMarket",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA434c277d87A7fA82F1FFb1D5e8e02173F41dC1c",
       "symbol": "PARASITE20",
       "name": "ProofofParasites",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfefc5aC041C5ca5a693D614D35970b3180871A41",
+      "symbol": "KSA",
+      "name": "KingofSaudiArabia",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16854,
-    "minor": 16854,
+    "major": 16855,
+    "minor": 16855,
     "patch": 86
   }
 }
