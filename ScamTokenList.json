@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x64fC33a5E02C4fB8D08c7B22c276CCA42EEa7784",
-      "symbol": "POP",
-      "name": "ProofOfPoodle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38beA41C549E33Ef4A7c3A8F3e2b87bF15Cdb4Fd",
       "symbol": "SAFU",
       "name": "Safuchain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca4aA0dbb69e9235dd9794e73367364F3E975407",
+      "symbol": "DINO",
+      "name": "DinoGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16793,
-    "minor": 16793,
+    "major": 16794,
+    "minor": 16794,
     "patch": 86
   }
 }
