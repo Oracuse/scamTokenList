@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Ca3fFE6853F477Ea1F74DCCC5A188237F145C10",
-      "symbol": "USDC20",
-      "name": "PROOFOFUSDC",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x876E92e6A7a93927ca513d9A52bAF37DAfab773f",
       "symbol": "KANA",
       "name": "IwatatennoTaniguku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE766e8385f1c62Af581433598D1009371661a40a",
+      "symbol": "MEVBOOST",
+      "name": "CostOfResilience",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16872,
-    "minor": 16872,
+    "major": 16873,
+    "minor": 16873,
     "patch": 86
   }
 }
