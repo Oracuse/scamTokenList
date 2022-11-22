@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE1143d82117083cF1a0005feeE2035A2Bcd29fd2",
-      "symbol": "POG",
-      "name": "ProofOfGains",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA1f21Bb012A5398E591B02f245029070BB9bEE0c",
       "symbol": "KC",
       "name": "KishuChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBE34b276aae1CCa2Cb74bc023740099049cb7b65",
+      "symbol": "ST",
+      "name": "Demogorgon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16834,
-    "minor": 16834,
+    "major": 16835,
+    "minor": 16835,
     "patch": 86
   }
 }
