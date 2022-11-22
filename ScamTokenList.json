@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6e8e2A863d4FD640C9aD06ceAc1747Efe2384e60",
-      "symbol": "GUNGNIR",
-      "name": "Gungnir",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbBac3008Ae312A01aE3806590F1Fe49030aD8F6B",
       "symbol": "VALID",
       "name": "ValidatoorMoney",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01bbEacce791F58DaBA59eBFf71C8BA33Fc65E47",
+      "symbol": "ALS",
+      "name": "Aeolus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16808,
-    "minor": 16808,
+    "major": 16809,
+    "minor": 16809,
     "patch": 86
   }
 }
