@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf6f62ED6e7067f0B28e5BA8Bc036057d86B50cA5",
-      "symbol": "TEST",
-      "name": "test",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7A5A3DaAD123cCfcF52D534481Fc1922f5E48ECd",
       "symbol": "KAIDO",
       "name": "KAIDO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Ece2252e7665bdEF2e56549e5DbA723f0415ab7",
+      "symbol": "FACTS",
+      "name": "TehFacts",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16964,
-    "minor": 16964,
+    "major": 16965,
+    "minor": 16965,
     "patch": 86
   }
 }
