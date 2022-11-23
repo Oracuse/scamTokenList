@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8C09385ca9176f5B39e760699ac1CA05066e0e13",
-      "symbol": "DOLT",
-      "name": "DOLT",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdb8C38179F52F2109c9f1c4f410cc7Bb68E8642B",
       "symbol": "DOCU",
       "name": "DOCU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88ff74676591faa8317494df556bf45757c567A1",
+      "symbol": "MIKOTO",
+      "name": "TsukuyominoMikoto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16958,
-    "minor": 16958,
+    "major": 16959,
+    "minor": 16959,
     "patch": 86
   }
 }
