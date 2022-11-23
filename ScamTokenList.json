@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xacFAb7492c5F100C69C6CeA6dC1590f6032705C5",
-      "symbol": "CERNUNNOS",
-      "name": "Cernunnos",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x07734a95431470fE43831d820F87656AA10cF177",
       "symbol": "BASED",
       "name": "BASEDPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc15FD6993436Fdf960275184cdEAA351A78D0547",
+      "symbol": "MDB",
+      "name": "MedusaBank",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16934,
-    "minor": 16934,
+    "major": 16935,
+    "minor": 16935,
     "patch": 86
   }
 }
