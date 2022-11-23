@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfB70FBFf66C7B0FB2AD9C3EC2BD200CACf5AF177",
-      "symbol": "REDEMPTION",
-      "name": "ARK",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB1218ef7D1Bd44433464E90486507C4d5Ee84B81",
       "symbol": "BBEAN",
       "name": "BustedBeanClub",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc49E21367285B3E774F6fC8BdC378C9A46a82962",
+      "symbol": "CHAMPION",
+      "name": "defendingchampion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16969,
-    "minor": 16969,
+    "major": 16970,
+    "minor": 16970,
     "patch": 86
   }
 }
