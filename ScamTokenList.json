@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a1149f41b496395Cf575C59AA4aaDCDab8040ff",
-      "symbol": "POP",
-      "name": "ProofOfPoodle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF5D20BAe62a50C2A0953e054e9544D7906114df9",
       "symbol": "POP",
       "name": "ProofOfPoodle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB760817aF12014c7B58f93ea200a99Fea673058C",
+      "symbol": "PATH",
+      "name": "SilkPath",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16914,
-    "minor": 16914,
+    "major": 16915,
+    "minor": 16915,
     "patch": 86
   }
 }
