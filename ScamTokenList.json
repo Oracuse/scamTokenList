@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x48c09ab2cd6e1f76D3b285C80845e8EC1fA9c843",
-      "symbol": "SHIBAR",
-      "name": "SHIBARIUMCHAIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd57BbB1750C84d89787089BFAEA1c8c38CD07480",
       "symbol": "YAIBA",
       "name": "Kimetsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf16a1ba293939B64f6CD225e504D65Adb180CdD0",
+      "symbol": "ETH96",
+      "name": "ETH1996",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16903,
-    "minor": 16903,
+    "major": 16904,
+    "minor": 16904,
     "patch": 86
   }
 }
