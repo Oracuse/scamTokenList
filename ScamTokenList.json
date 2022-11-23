@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1699aF4F0c7Fa8b09686e400Dce7C0206d70F477",
-      "symbol": "MPRO",
-      "name": "MoonProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd7A76FC7916429e44fF468d5A34D5CA91b58802d",
       "symbol": "MOON",
       "name": "MoonProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x713A064770f727e96b71A4b1c1556508d861fE35",
+      "symbol": "BOD",
+      "name": "BattleofDegens",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16874,
-    "minor": 16874,
+    "major": 16875,
+    "minor": 16875,
     "patch": 86
   }
 }
