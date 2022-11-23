@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD6883EA130DE88611A89aBa81f5ba534F8139C30",
-      "symbol": "GOBLINETH",
-      "name": "GoblinETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7E086f1Ce74048e4cE9ad11a2d949a542Eb8238C",
       "symbol": "HEAT",
       "name": "Heatwave",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50C54d1e5f8D6d97aa71FD29A6D378e30c8d07AB",
+      "symbol": "SNIB",
+      "name": "Snibbu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16945,
-    "minor": 16945,
+    "major": 16946,
+    "minor": 16946,
     "patch": 86
   }
 }
