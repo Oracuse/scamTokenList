@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8De0Ca1Afb76037Cc56aBF901e34b9000125D189",
-      "symbol": "RYNJA",
-      "name": "RYOSHINJA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xacFAb7492c5F100C69C6CeA6dC1590f6032705C5",
       "symbol": "CERNUNNOS",
       "name": "Cernunnos",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7fD366A0c26Ae201D4B7f2c561A87316E5F72467",
+      "symbol": "CRAB",
+      "name": "CrabMarket",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16933,
-    "minor": 16933,
+    "major": 16934,
+    "minor": 16934,
     "patch": 86
   }
 }
