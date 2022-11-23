@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaE85d3856D9C4A43777dBA5D213DAf1d400FaAc6",
-      "symbol": "WBT",
-      "name": "WhiteBITTonken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdFd79Cb9F17176e4bc2De64471a2b9B0E3C65F2D",
       "symbol": "YORI",
       "name": "Yori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e72A2D412d532F0e21861dF23248219468D006C",
+      "symbol": "SERA",
+      "name": "Seraphim",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16921,
-    "minor": 16921,
+    "major": 16922,
+    "minor": 16922,
     "patch": 86
   }
 }
