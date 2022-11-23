@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF90BD0e5666f342235EefDCD25AB560C4854CA9A",
-      "symbol": "NAZUKE",
-      "name": "Nazuke",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x204079374a13136B1122dE0d2e6816EcA202935B",
       "symbol": "POG",
       "name": "ProofOfGod",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87F9B622f656187c16B1BE8a1539D65990FE9Ca4",
+      "symbol": "TOPGUN",
+      "name": "TOPGUNTOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16901,
-    "minor": 16901,
+    "major": 16902,
+    "minor": 16902,
     "patch": 86
   }
 }
