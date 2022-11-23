@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8eD852E841634dD9011d4F699328FfAaCf0836CF",
-      "symbol": "MIVIE",
-      "name": "Mivie",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5441426A72779a60F1123D1C45F1C58ad2cD4b61",
       "symbol": "RUN",
       "name": "Runner",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA8b097E8211f63532DC08fe94953220C7d37659F",
+      "symbol": "GEMD",
+      "name": "GeminiDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16985,
-    "minor": 16985,
+    "major": 16986,
+    "minor": 16986,
     "patch": 86
   }
 }
