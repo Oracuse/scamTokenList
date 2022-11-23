@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7671B4e34cD46b5CDE990D1FeC414915753BEe24",
-      "symbol": "KNIGHTS",
-      "name": "KNIGHTS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbd8F3356841F2F5769164c39BAc71bc7E1A6eB51",
       "symbol": "SENPAI",
       "name": "Senpai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE85468dCdF05c89460247E7377Ebcc6Cb7717812",
+      "symbol": "TOE",
+      "name": "TaleOfElon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16886,
-    "minor": 16886,
+    "major": 16887,
+    "minor": 16887,
     "patch": 86
   }
 }
