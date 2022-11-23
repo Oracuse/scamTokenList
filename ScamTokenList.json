@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB6056a7F7989A0D7B6836dEeAB935304FdaA4387",
-      "symbol": "SUMOTORI",
-      "name": "Sumotori",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62f5C63FdB767aD1e891A872f39E3852c33132Ad",
       "symbol": "GOLD",
       "name": "Gold",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3F976F75e3e833163C90b7524B2FB0fC2e2B1A8",
+      "symbol": "FABLE",
+      "name": "TyrantsFable",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16956,
-    "minor": 16956,
+    "major": 16957,
+    "minor": 16957,
     "patch": 86
   }
 }
