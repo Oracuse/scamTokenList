@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF5D20BAe62a50C2A0953e054e9544D7906114df9",
-      "symbol": "POP",
-      "name": "ProofOfPoodle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF34bAf4c065B09eC2CEdad28B2F23f58957605D2",
       "symbol": "BIG",
       "name": "BigEyes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x850A5AC8B1BAeb044e30579Ab3f48472894ccE27",
+      "symbol": "WCSAUDI",
+      "name": "WorldCupSaudiINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16915,
-    "minor": 16915,
+    "major": 16916,
+    "minor": 16916,
     "patch": 86
   }
 }
