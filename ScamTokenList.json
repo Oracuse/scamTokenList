@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfA076687dD34A8927d71D9658799E51284D8b0AE",
-      "symbol": "FINALS",
-      "name": "FinalShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2c7a418dd5ef14dE8668aba30887ABE4B92203AE",
       "symbol": "SHIKORI",
       "name": "ShikoriTekkai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F390710d30a2ED39eB583210bE19A2dAE221f09",
+      "symbol": "LUFFY",
+      "name": "LuffyINU",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16988,
-    "minor": 16988,
+    "major": 16989,
+    "minor": 16989,
     "patch": 86
   }
 }
