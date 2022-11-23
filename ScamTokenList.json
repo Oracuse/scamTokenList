@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf7aFe456fd65f6C4CB987c86fe0C20488a988eFD",
-      "symbol": "BRRR",
-      "name": "TransitoryInflation",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7671B4e34cD46b5CDE990D1FeC414915753BEe24",
       "symbol": "KNIGHTS",
       "name": "KNIGHTS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfeeBC334D7B5672a889989FA8208C082883E65D7",
+      "symbol": "GOLDEN",
+      "name": "GoldenBall",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16885,
-    "minor": 16885,
+    "major": 16886,
+    "minor": 16886,
     "patch": 86
   }
 }
