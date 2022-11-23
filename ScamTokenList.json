@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc4fc1048Fa2Ea63A124585F8Eb35fb26C441770b",
-      "symbol": "UST",
-      "name": "ustest",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeA851D9adB5AD6D41958ec196ac4821309C5C272",
       "symbol": "AI",
       "name": "AIALien",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c72C1b2BC06452001b70212A417331453DEB57a",
+      "symbol": "FUXI",
+      "name": "Bagua",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16930,
-    "minor": 16930,
+    "major": 16931,
+    "minor": 16931,
     "patch": 86
   }
 }
