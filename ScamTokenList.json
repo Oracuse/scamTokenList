@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66A66D2a6956a33eF17873bA93D18D880E0e3692",
-      "symbol": "KNIGHTS",
-      "name": "EldenKnights",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf7aFe456fd65f6C4CB987c86fe0C20488a988eFD",
       "symbol": "BRRR",
       "name": "TransitoryInflation",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19AF0cbab3D932827708364939fc5533CAf65B6e",
+      "symbol": "OCFI",
+      "name": "OCTOFI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16884,
-    "minor": 16884,
+    "major": 16885,
+    "minor": 16885,
     "patch": 86
   }
 }
