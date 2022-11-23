@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2450dD2450541EA366FE8a1582CF1861D96E7F33",
-      "symbol": "ELEGO",
-      "name": "ElegoToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x785b6a4384Df3DE52dA94519C4BCC17332E794d2",
       "symbol": "SCHWIFTY",
       "name": "GetSchwifty",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeBF9814fA9992625152DE3c569479A15c5a927BE",
+      "symbol": "0MGO",
+      "name": "OMGNetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16991,
-    "minor": 16991,
+    "major": 16992,
+    "minor": 16992,
     "patch": 86
   }
 }
