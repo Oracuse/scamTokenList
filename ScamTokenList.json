@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1a5548DCe7b781929Be3dD4Fdf1141448f941431",
-      "symbol": "AREA51",
-      "name": "AlienProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3A97F2a188394184c2B7cA42E6F13E6E466347C2",
       "symbol": "TI",
       "name": "TokugawaIeyasu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC1154701d699c2117dCB729D84C101c6Bb766147",
+      "symbol": "HTF",
+      "name": "HighTierFinanceToke",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16950,
-    "minor": 16950,
+    "major": 16951,
+    "minor": 16951,
     "patch": 86
   }
 }
