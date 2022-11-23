@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcF460795f485443259305Cc5b58a6c8032Bf4D6C",
-      "symbol": "RUBIX",
-      "name": "Rubinomix",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc4fc1048Fa2Ea63A124585F8Eb35fb26C441770b",
       "symbol": "UST",
       "name": "ustest",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ff6890d6514E394164422e036aDEf56Cb9D4195",
+      "symbol": "INDICATOR",
+      "name": "TheAlphaIndicator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16929,
-    "minor": 16929,
+    "major": 16930,
+    "minor": 16930,
     "patch": 86
   }
 }
