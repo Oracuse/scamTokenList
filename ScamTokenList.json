@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6D2d9F8556D07852a6737366ce19f082E0Bb8162",
-      "symbol": "MPG",
-      "name": "MoonProtocolGlobal",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4128DA771dE7D11D121ab04C571cF21a69F9bdFD",
       "symbol": "SCARECROW",
       "name": "PlagueDoctor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21295fd71c4f01ED0EBdb7895c14eB470E4AA71E",
+      "symbol": "DFU",
+      "name": "DragonFate",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16880,
-    "minor": 16880,
+    "major": 16881,
+    "minor": 16881,
     "patch": 86
   }
 }
