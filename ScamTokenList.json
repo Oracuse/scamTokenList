@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5AF29ee7abdd627507f1d23b8f56005cc8bAD3Ec",
-      "symbol": "CRES",
-      "name": "Crescent",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEa466d99914Aec270d8537fAEb2c4b165534A09d",
       "symbol": "SQUEEZEIT",
       "name": "OvErBuRn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeA3C4ccf0232A2e267DB0f13c69e41547952ADAf",
+      "symbol": "PLAY",
+      "name": "DOGEDROPPER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16899,
-    "minor": 16899,
+    "major": 16900,
+    "minor": 16900,
     "patch": 86
   }
 }
