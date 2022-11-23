@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x12EeC9132295C1fd7CaB0B2CfDE67a15aa9457D7",
-      "symbol": "TORI",
-      "name": "Torimodosu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC4A429662226d1e9A3B57717F5b4DbC07efc75F4",
       "symbol": "DOKI",
       "name": "DogeFLoki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b6bb2d577618a96294Af73436d5b722E0f57065",
+      "symbol": "TOPGUN",
+      "name": "TopgunToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16918,
-    "minor": 16918,
+    "major": 16919,
+    "minor": 16919,
     "patch": 86
   }
 }
