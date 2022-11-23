@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x180C7b1ce1395618E68AB63510fa99D5DC706cCe",
-      "symbol": "ASTRS",
-      "name": "ASTR",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x40469Ff549a382c19790227770e0e9EcdEd6958f",
       "symbol": "VPR",
       "name": "Vampire",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9b69BEF8cbA1fe2B085FcA0673c9A1A9aB82934",
+      "symbol": "BYOB",
+      "name": "BeYourOwnBank",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16927,
-    "minor": 16927,
+    "major": 16928,
+    "minor": 16928,
     "patch": 86
   }
 }
