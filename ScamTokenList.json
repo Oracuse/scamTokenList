@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0b680Cc6559Cc35Af35F7a92B89B90aea32f347b",
-      "symbol": "FOMC",
-      "name": "FearOfMarketCrash",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2450dD2450541EA366FE8a1582CF1861D96E7F33",
       "symbol": "ELEGO",
       "name": "ElegoToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30BabC130FdCfB94896b5d7f232B632a24d92531",
+      "symbol": "GEMD",
+      "name": "GeminiDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16990,
-    "minor": 16990,
+    "major": 16991,
+    "minor": 16991,
     "patch": 86
   }
 }
