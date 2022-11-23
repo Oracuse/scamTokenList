@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8771501aD67Ecb287773042EF5090DDBc4b22fB1",
-      "symbol": "MOON",
-      "name": "MoonProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84e390103532efCF7F82C5B7d59Fcf263B86e733",
       "symbol": "YATAGARASU",
       "name": "EightSpanCrow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30D378519D5819Ba40492A5E94e339c6674F90De",
+      "symbol": "TWC",
+      "name": "TrumpWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16876,
-    "minor": 16876,
+    "major": 16877,
+    "minor": 16877,
     "patch": 86
   }
 }
