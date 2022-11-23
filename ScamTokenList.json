@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x568aDe720D986597F162Fa92398839A6f2E90b29",
-      "symbol": "ORIGIN",
-      "name": "Origin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf546d01C847bf830F510f04672346572929f425E",
       "symbol": "CONFUSION",
       "name": "Confusion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd95b2AcB79460Df6EfEaaC0BaBeD8bd9e0e7c4D4",
+      "symbol": "SCORPIO",
+      "name": "Scorpio",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16924,
-    "minor": 16924,
+    "major": 16925,
+    "minor": 16925,
     "patch": 86
   }
 }
