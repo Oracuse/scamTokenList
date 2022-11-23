@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB73856758a1B787bC542D2513ec73039294d632B",
-      "symbol": "POTHER",
-      "name": "ProofofTether",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd4126f195a8de772EeFfa61a4aB6dd43462F4e39",
       "symbol": "HIKARI",
       "name": "HIKARI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x332629b63ccf41324EDc6443956D7C36fB8C2727",
+      "symbol": "ADDICT",
+      "name": "AdderallInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16878,
-    "minor": 16878,
+    "major": 16879,
+    "minor": 16879,
     "patch": 86
   }
 }
