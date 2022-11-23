@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDD59f77273aAe557eaE74c4bc2630009B01c11F1",
-      "symbol": "JIGOKU",
-      "name": "AHuntersHell",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD6883EA130DE88611A89aBa81f5ba534F8139C30",
       "symbol": "GOBLINETH",
       "name": "GoblinETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3652EDE4125aD7cc2eC87f1a9d63b91d54DB15Bf",
+      "symbol": "PENALTY",
+      "name": "PenaltyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16944,
-    "minor": 16944,
+    "major": 16945,
+    "minor": 16945,
     "patch": 86
   }
 }
