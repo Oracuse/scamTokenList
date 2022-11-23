@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcfda25Be53Cb12B6f4a4C1640D66EAac09E0CF97",
-      "symbol": "S",
-      "name": "ProofOfRyoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82Bf40AEED15880D9C6669A7e885A2F010E66e96",
       "symbol": "SUZAKU",
       "name": "TheFireDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x720468bc70eA1668845EC912685CfBa2e36541eA",
+      "symbol": "FWCA",
+      "name": "FIFAWorldCupAwards",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16948,
-    "minor": 16948,
+    "major": 16949,
+    "minor": 16949,
     "patch": 86
   }
 }
