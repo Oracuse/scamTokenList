@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEEA8692791A8AbEDeC818772AEc6eeA41d16B13E",
-      "symbol": "SANJURO",
-      "name": "SanjuroTani",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9B1C7dD94b9e246E706549124005B26D6b0f5E17",
       "symbol": "TBO",
       "name": "TheBlackOrder",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x951D2996454ffd4B78cF19Ac4e3161a6e7F0eb54",
+      "symbol": "SHK",
+      "name": "Sharkeel",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16979,
-    "minor": 16979,
+    "major": 16980,
+    "minor": 16980,
     "patch": 86
   }
 }
