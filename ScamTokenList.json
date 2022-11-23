@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1C8e417Bc77107617E86a5f68C91470ae89a5da3",
-      "symbol": "JYNX",
-      "name": "Superstitious",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5E7BEE0BB5B097DaD21c1f43b80B85c9c434107C",
       "symbol": "SWFTCS",
       "name": "SwftCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91EdA1040271DBC3658cF8E8f756D8383C6eD4f1",
+      "symbol": "ZPG",
+      "name": "ZeroPlucksGiven",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16983,
-    "minor": 16983,
+    "major": 16984,
+    "minor": 16984,
     "patch": 86
   }
 }
