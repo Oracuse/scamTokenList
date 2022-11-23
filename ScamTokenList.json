@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0d0A86bF7A77FE0d086d19f0E0193CDEe16A9F34",
-      "symbol": "NOKU",
-      "name": "tomou",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x856513C8D19b770AC18c9Df497aeB66eA945df5A",
       "symbol": "NOKU",
       "name": "tomou",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4eFb538953AFC37E983E2d07284362899fA68F6C",
+      "symbol": "HOOK",
+      "name": "HookedProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16905,
-    "minor": 16905,
+    "major": 16906,
+    "minor": 16906,
     "patch": 86
   }
 }
