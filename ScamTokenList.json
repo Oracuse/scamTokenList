@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x97b33eDFB9375d6FD7b8F3Bd69c8CB435A784B98",
-      "symbol": "SAAS",
-      "name": "SaasNode",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x255C8EcF6088A95Eb61eBd2C9197811809035fd1",
       "symbol": "VAIN",
       "name": "InVain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7EcAe34F00630653F18b83036911a06406D79Bc4",
+      "symbol": "HOLE",
+      "name": "BlackHole",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16981,
-    "minor": 16981,
+    "major": 16982,
+    "minor": 16982,
     "patch": 86
   }
 }
