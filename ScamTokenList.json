@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd7A76FC7916429e44fF468d5A34D5CA91b58802d",
-      "symbol": "MOON",
-      "name": "MoonProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8771501aD67Ecb287773042EF5090DDBc4b22fB1",
       "symbol": "MOON",
       "name": "MoonProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB6D506EBD84e894b93Bc2d8c4e2f5153E2a3F77C",
+      "symbol": "HAM",
+      "name": "TaleOfMunehisaHomma",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16875,
-    "minor": 16875,
+    "major": 16876,
+    "minor": 16876,
     "patch": 86
   }
 }
