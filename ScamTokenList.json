@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5E7BEE0BB5B097DaD21c1f43b80B85c9c434107C",
-      "symbol": "SWFTCS",
-      "name": "SwftCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8eD852E841634dD9011d4F699328FfAaCf0836CF",
       "symbol": "MIVIE",
       "name": "Mivie",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe854D6766EE9b28201915e8DACcCb87F4b95407E",
+      "symbol": "THEWALL",
+      "name": "TheGreatWall",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16984,
-    "minor": 16984,
+    "major": 16985,
+    "minor": 16985,
     "patch": 86
   }
 }
