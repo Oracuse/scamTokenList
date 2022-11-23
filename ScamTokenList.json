@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x785b6a4384Df3DE52dA94519C4BCC17332E794d2",
-      "symbol": "SCHWIFTY",
-      "name": "GetSchwifty",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0702ad384fc471529BbfAdA49E23Faa51D6D051c",
       "symbol": "TANJIROINU",
       "name": "TanjiroInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b3EB9EBCef7A1d0FC22e1Ff20f9Ef69f06830D8",
+      "symbol": "HODL",
+      "name": "BUYANDHOLD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 16992,
-    "minor": 16992,
+    "major": 16993,
+    "minor": 16993,
     "patch": 86
   }
 }
