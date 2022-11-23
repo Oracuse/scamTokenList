@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbD76EEAe6F7bbCFD0A6e4a624Bdd1fb1c128E41e",
-      "symbol": "OKMR",
-      "name": "OkamiaRaiden",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfB70FBFf66C7B0FB2AD9C3EC2BD200CACf5AF177",
       "symbol": "REDEMPTION",
       "name": "ARK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43f837764600047A6B451eD6f466b0b123b251D0",
+      "symbol": "TGS",
+      "name": "THANKSGIVINGSHIBA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16968,
-    "minor": 16968,
+    "major": 16969,
+    "minor": 16969,
     "patch": 86
   }
 }
