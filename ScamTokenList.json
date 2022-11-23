@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x06dBCF0561Ac15a1321FB56e16F4B3525128eDbC",
-      "symbol": "LUCY",
-      "name": "Lucy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6e82368990Fe9f742c3b9169b77084d64Cc109C4",
       "symbol": "WGPUMP",
       "name": "WeGonnaPump",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc580D6dd46E085703195271126C08B21ab975919",
+      "symbol": "GEMINI",
+      "name": "Gemini",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16909,
-    "minor": 16909,
+    "major": 16910,
+    "minor": 16910,
     "patch": 86
   }
 }
