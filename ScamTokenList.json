@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x07734a95431470fE43831d820F87656AA10cF177",
-      "symbol": "BASED",
-      "name": "BASEDPROTOCOL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x492C9Fe86c90042f82eefe6c21Db27C8ccF86c80",
       "symbol": "KIMETSU",
       "name": "KimetsuNoYaiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60A81bcFD86c72Fbd8D79C6535c8f13c1fd0E7b3",
+      "symbol": "WORLDWAVE",
+      "name": "FIFAWorldCupQatar",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16935,
-    "minor": 16935,
+    "major": 16936,
+    "minor": 16936,
     "patch": 86
   }
 }
