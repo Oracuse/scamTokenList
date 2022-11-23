@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x95a4Ba9e9072C6401ADD7a4A06a04142a027eC56",
-      "symbol": "FURE",
-      "name": "FusionReactor",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x06dBCF0561Ac15a1321FB56e16F4B3525128eDbC",
       "symbol": "LUCY",
       "name": "Lucy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xea44c5e461FdEB1b8A38725B684Ff9C5617E988b",
+      "symbol": "BIL",
+      "name": "BestInLife",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16908,
-    "minor": 16908,
+    "major": 16909,
+    "minor": 16909,
     "patch": 86
   }
 }
