@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB789211507A52a1f44F5F5B3950511e6F4588E86",
-      "symbol": "MATRIX",
-      "name": "Existence",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEEA8692791A8AbEDeC818772AEc6eeA41d16B13E",
       "symbol": "SANJURO",
       "name": "SanjuroTani",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00D281507529AC3A73a6B9A9DdfddeE754f83dEC",
+      "symbol": "BFT",
+      "name": "BelgiumFanToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16978,
-    "minor": 16978,
+    "major": 16979,
+    "minor": 16979,
     "patch": 86
   }
 }
