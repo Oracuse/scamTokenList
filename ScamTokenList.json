@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9B1C7dD94b9e246E706549124005B26D6b0f5E17",
-      "symbol": "TBO",
-      "name": "TheBlackOrder",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97b33eDFB9375d6FD7b8F3Bd69c8CB435A784B98",
       "symbol": "SAAS",
       "name": "SaasNode",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xba71efcaeAd90E2FfC61cAD6c9b185891C449522",
+      "symbol": "SBT",
+      "name": "SoulsboundToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16980,
-    "minor": 16980,
+    "major": 16981,
+    "minor": 16981,
     "patch": 86
   }
 }
