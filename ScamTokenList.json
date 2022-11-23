@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5B144D4cb03A54A501344C279f65BE29E20CC5e7",
-      "symbol": "HOLY",
-      "name": "HOLYGENESIS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7f79e99394ab3EB8a6D1b0db4E2dBd7A46240aCA",
       "symbol": "WEB3GOLD",
       "name": "Web3Gold",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d34Bb279Bf843e23EAA5d6d03FF9C277f5224c9",
+      "symbol": "DLFG",
+      "name": "DegenLFG",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16888,
-    "minor": 16888,
+    "major": 16889,
+    "minor": 16889,
     "patch": 86
   }
 }
