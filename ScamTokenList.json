@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5441426A72779a60F1123D1C45F1C58ad2cD4b61",
-      "symbol": "RUN",
-      "name": "Runner",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x008996080e2e9aCc6c7ad69c28de4A8F63fB5a17",
       "symbol": "SKI",
       "name": "Stilinski",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x192274b57F5E46fE6fF5A52FF4c6a3FEa04f048A",
+      "symbol": "GLX",
+      "name": "Galaxia",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16986,
-    "minor": 16986,
+    "major": 16987,
+    "minor": 16987,
     "patch": 86
   }
 }
