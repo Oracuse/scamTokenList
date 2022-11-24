@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF23894895406499F8a3edA7657818bdE4e7679d4",
-      "symbol": "CHEESEBURGER",
-      "name": "Cheeseburger",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE6998c02fa232f0c5a7df77388629682219576f1",
       "symbol": "ENTITY",
       "name": "Minerva",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa584F767456726B4056c60d81eb480bc95117436",
+      "symbol": "REKT",
+      "name": "RektProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17031,
-    "minor": 17031,
+    "major": 17032,
+    "minor": 17032,
     "patch": 86
   }
 }
