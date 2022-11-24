@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc4479ad0278D1A9248620cf63B20b6BdE4598c63",
-      "symbol": "PEPENOBI",
-      "name": "PEPENOBI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x20b779B0ccEB051B5780B57bF5fa5eeD4931D31c",
       "symbol": "FBABY",
       "name": "FunnyBaby",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc8B70C8b1eb0864752A2973e45A2592593A79E82",
+      "symbol": "HP",
+      "name": "HumanitarianParadox",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17081,
-    "minor": 17081,
+    "major": 17082,
+    "minor": 17082,
     "patch": 86
   }
 }
