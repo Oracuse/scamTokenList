@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98d57C734E82d8db659D5c58F574f09C299cA257",
-      "symbol": "RKAN",
-      "name": "Ryokan",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc94266f74F334B6ee63Ec9Bd7d8189041A327DBe",
       "symbol": "PEOPLE20",
       "name": "PEOPLE20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93ddceF896f8dd394868E88464E8eCbABF14B73D",
+      "symbol": "SK",
+      "name": "SmartKey",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17061,
-    "minor": 17061,
+    "major": 17062,
+    "minor": 17062,
     "patch": 86
   }
 }
