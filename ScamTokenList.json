@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb667dE29D8F0c272439A1c8aA30FC07c9F4Ed176",
-      "symbol": "RIPPLEEFFECT",
-      "name": "TheRippleEffect",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93eb75EbeB76923e53C1e978C4169Ca9caea52c4",
       "symbol": "RETHEORIGIN",
       "name": "REFLECTION",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8fBC1Fdb72ba4ef8E8f4Fc1bC8067bD170173f6F",
+      "symbol": "SHARD",
+      "name": "ProtoDanksharding",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17025,
-    "minor": 17025,
+    "major": 17026,
+    "minor": 17026,
     "patch": 86
   }
 }
