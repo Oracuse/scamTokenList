@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeC1AD8bc08b38065cD631f22629cbD010E404262",
-      "symbol": "RYRES",
-      "name": "RyoshisResearch",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x021FbE8B8E8c2161C779bC7D440DC39e8197522C",
       "symbol": "TOKYO",
       "name": "Tokyo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2218D4C9632D52D8D68C3b5f7FedfF11359eC7b1",
+      "symbol": "RDOGE",
+      "name": "ReinDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17087,
-    "minor": 17087,
+    "major": 17088,
+    "minor": 17088,
     "patch": 86
   }
 }
