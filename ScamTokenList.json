@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2dCf61B17D4d68b63253f714DFd8eE4279BC8450",
-      "symbol": "MSC",
-      "name": "MultiStableCapital",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9Af10d1dF47B04beCB4D2d47ec066e67Fd661294",
       "symbol": "WITHDRAW",
       "name": "Withdraw",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4f5C8ad29643A2Bda9fcAbe87680714Fd6A8E91",
+      "symbol": "DGTG",
+      "name": "DEGENTHANKSGIVING",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17009,
-    "minor": 17009,
+    "major": 17010,
+    "minor": 17010,
     "patch": 86
   }
 }
