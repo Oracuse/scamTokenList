@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x20b779B0ccEB051B5780B57bF5fa5eeD4931D31c",
-      "symbol": "FBABY",
-      "name": "FunnyBaby",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6A10b32BC072f3f7Cd3Caabb8aEcBC366cf166C3",
       "symbol": "OKOTTA",
       "name": "OkottaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23716a9819CD951Ae70011e91A07BCbe7A0424bc",
+      "symbol": "USD",
+      "name": "Stablecoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17082,
-    "minor": 17082,
+    "major": 17083,
+    "minor": 17083,
     "patch": 86
   }
 }
