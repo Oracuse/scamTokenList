@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x387AA431BeD52fC55A23Bdf239F809Bd314B570E",
-      "symbol": "SHINA20",
-      "name": "ProofOfShina",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaA00B7375C1f70740dE95CEA9ce61Eed4897BF55",
       "symbol": "SAAS",
       "name": "SaasNode",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f6CC8CA4B25E72d35EE61b7a8093CD0E52797FD",
+      "symbol": "SEVEN",
+      "name": "SevenFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17000,
-    "minor": 17000,
+    "major": 17001,
+    "minor": 17001,
     "patch": 86
   }
 }
