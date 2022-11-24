@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9Af10d1dF47B04beCB4D2d47ec066e67Fd661294",
-      "symbol": "WITHDRAW",
-      "name": "Withdraw",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x404F390762C1dCa9c45826B4a436Df9908830571",
       "symbol": "U2",
       "name": "UcheyUche",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86379b8EF312074d5Db717c67F2f285730AE170F",
+      "symbol": "BVB",
+      "name": "BabyVeryBanking",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17010,
-    "minor": 17010,
+    "major": 17011,
+    "minor": 17011,
     "patch": 86
   }
 }
