@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4C9beC8b6A3D0dE5FD043f278E73681435E4CB35",
-      "symbol": "MONO",
-      "name": "TheMonolith",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x157CbD2708cF1DABf485189eC9604f84F4218a58",
       "symbol": "THEEND",
       "name": "Moshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7aa2008C2D68b0cF0BE54F6909EDe4Fb270b6984",
+      "symbol": "ALPHA",
+      "name": "Alphabetic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17050,
-    "minor": 17050,
+    "major": 17051,
+    "minor": 17051,
     "patch": 86
   }
 }
