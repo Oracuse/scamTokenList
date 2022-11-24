@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbC94A399ED58Da6b836c382F8c8a739AFd27e8A4",
-      "symbol": "PDOGE",
-      "name": "PuzzleDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x37B6486B6c39868cec3365DA37212601F753dDE8",
       "symbol": "FETH",
       "name": "FomoEtherRise",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21472C4Eaa4d4A83797831140287812868b5aC78",
+      "symbol": "SB",
+      "name": "StableBanking",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17022,
-    "minor": 17022,
+    "major": 17023,
+    "minor": 17023,
     "patch": 86
   }
 }
