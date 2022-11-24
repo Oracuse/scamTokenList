@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93eb75EbeB76923e53C1e978C4169Ca9caea52c4",
-      "symbol": "RETHEORIGIN",
-      "name": "REFLECTION",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc87B07b5d8dC27b703ED234Ff439dC6D1DaD7eA2",
       "symbol": "VANGUARD",
       "name": "TheAdvanceGuard",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B217f6c4BEb8D803A55d94f71B7C8b7FCB311ce",
+      "symbol": "GFISH",
+      "name": "GayFish",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17026,
-    "minor": 17026,
+    "major": 17027,
+    "minor": 17027,
     "patch": 86
   }
 }
