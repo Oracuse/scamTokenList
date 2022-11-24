@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9B5488019d0f18EF5DBdB5839c4C15DeF919e416",
-      "symbol": "KTSN",
-      "name": "Katsue",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc4479ad0278D1A9248620cf63B20b6BdE4598c63",
       "symbol": "PEPENOBI",
       "name": "PEPENOBI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ED419d7ddDb84FAd12AdeC557ce09a63cE0088A",
+      "symbol": "NYNF",
+      "name": "NewYearNewFloki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17080,
-    "minor": 17080,
+    "major": 17081,
+    "minor": 17081,
     "patch": 86
   }
 }
