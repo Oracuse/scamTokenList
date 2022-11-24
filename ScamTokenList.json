@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE6998c02fa232f0c5a7df77388629682219576f1",
-      "symbol": "ENTITY",
-      "name": "Minerva",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8E61C2889Fee99f347D78350Fb5C77408828334d",
       "symbol": "DIABLO",
       "name": "Fallen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59Ac13dB254F31163c9eDb79300c134dB94B393B",
+      "symbol": "KUJI",
+      "name": "DarkDakuji",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17032,
-    "minor": 17032,
+    "major": 17033,
+    "minor": 17033,
     "patch": 86
   }
 }
