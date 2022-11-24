@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5B74b721301B30767CF93C910aa68720693b63fc",
-      "symbol": "FETH",
-      "name": "FomoEtherRise",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xffeAbA320321b79A195c49D9b2725c1D327bE281",
       "symbol": "EXODIA",
       "name": "TheForbiddenOne",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0d86D0a22a662a3d7aEdDbce823795931bd62Df",
+      "symbol": "GBR",
+      "name": "Gobbler",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17054,
-    "minor": 17054,
+    "major": 17055,
+    "minor": 17055,
     "patch": 86
   }
 }
