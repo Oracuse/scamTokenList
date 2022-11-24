@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf1B99e3E573A1a9C5E6B2Ce818b617F0E664E86B",
-      "symbol": "OSQTH",
-      "name": "OpynSqueeth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd928A88C8fF319cb472fdC14a4f36C225Da8d215",
       "symbol": "SANJI",
       "name": "SANJI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A60462D7D60a83B4BE6F4f600098a0934cd46e2",
+      "symbol": "SOS",
+      "name": "ShadowOfSylo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17014,
-    "minor": 17014,
+    "major": 17015,
+    "minor": 17015,
     "patch": 86
   }
 }
