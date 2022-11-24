@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7eA28E85A4b5C2F76eA52787Be1cfe49d1039Ac1",
-      "symbol": "INVESTIFI",
-      "name": "InvestiFI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01deF52CB1DBf3E145b5224535f804aba1a80000",
       "symbol": "TSUKA20",
       "name": "ProofOfDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA78B4B32A8e6551B7f622fC646Eb0128e144e23B",
+      "symbol": "BREAKER",
+      "name": "FableOfTheMirror",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17004,
-    "minor": 17004,
+    "major": 17005,
+    "minor": 17005,
     "patch": 86
   }
 }
