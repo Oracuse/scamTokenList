@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8a34D707189fBFa46930ABFDe3D22abDC48AB73D",
-      "symbol": "UNKAI",
-      "name": "UNKAI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4C9beC8b6A3D0dE5FD043f278E73681435E4CB35",
       "symbol": "MONO",
       "name": "TheMonolith",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c5dbe710906E14ad3dD3AB7851C0182AF7d70ef",
+      "symbol": "MARBLEX",
+      "name": "MarblePrix",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17049,
-    "minor": 17049,
+    "major": 17050,
+    "minor": 17050,
     "patch": 86
   }
 }
