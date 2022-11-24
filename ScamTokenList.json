@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8E61C2889Fee99f347D78350Fb5C77408828334d",
-      "symbol": "DIABLO",
-      "name": "Fallen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xadde24705CDCFbdDD0137c07fd1218aaEDE38dEF",
       "symbol": "ANNA",
       "name": "ANNADAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE244a09850507c2233b094bE732064Ee52e2BF43",
+      "symbol": "INFO",
+      "name": "MetaMaskClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17033,
-    "minor": 17033,
+    "major": 17034,
+    "minor": 17034,
     "patch": 86
   }
 }
