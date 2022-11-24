@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1e61C71004C328a9f4a683572A497A722738d539",
-      "symbol": "YOKOBON",
-      "name": "YOKOZUNABONZAI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9E30B3C02c481A92c89A4510737D0aDCDc283c0D",
       "symbol": "YOKOZUNA",
       "name": "Yokozuna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaF90Ec4610966B1be9312eFdFbB570043AC3A2Ad",
+      "symbol": "RINU",
+      "name": "ReliefInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17084,
-    "minor": 17084,
+    "major": 17085,
+    "minor": 17085,
     "patch": 86
   }
 }
