@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA946956e12515D6b8cF779BC805094fF3731d95a",
-      "symbol": "NAZUKE",
-      "name": "Nazuke",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x387AA431BeD52fC55A23Bdf239F809Bd314B570E",
       "symbol": "SHINA20",
       "name": "ProofOfShina",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B994E04DC6210e0413a8950f006D66f2D294f36",
+      "symbol": "GRAMMIES",
+      "name": "CryptogramNetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16999,
-    "minor": 16999,
+    "major": 17000,
+    "minor": 17000,
     "patch": 86
   }
 }
