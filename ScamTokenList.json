@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6a4571C7594F2f2359aD0a28a0267CFBC8C8C80a",
-      "symbol": "BROKEN",
-      "name": "BrokenMeta",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9f8FD5a5854cE14ca2f01d674D0A6206Ff144acb",
       "symbol": "MYST",
       "name": "Myst",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa45ecE4185CeE57F98A299dFA0F00c6e216aF5E0",
+      "symbol": "RFL",
+      "name": "Reindeerfloki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17002,
-    "minor": 17002,
+    "major": 17003,
+    "minor": 17003,
     "patch": 86
   }
 }
