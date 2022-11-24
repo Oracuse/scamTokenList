@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8a753E3971672aA1A51246e62Ccb4f23A0110686",
-      "symbol": "DEFI20",
-      "name": "DecentralizedFuture",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb667dE29D8F0c272439A1c8aA30FC07c9F4Ed176",
       "symbol": "RIPPLEEFFECT",
       "name": "TheRippleEffect",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8307a1451D38ee84B766FA8fb32f4b02272614Cd",
+      "symbol": "GOLD1",
+      "name": "TehGoldenOne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17024,
-    "minor": 17024,
+    "major": 17025,
+    "minor": 17025,
     "patch": 86
   }
 }
