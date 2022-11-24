@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8bE3EdAF8D34816A5f9B6b951355FE2D0D7c5BaB",
-      "symbol": "SAEKI",
-      "name": "ToshioSaeki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9B5488019d0f18EF5DBdB5839c4C15DeF919e416",
       "symbol": "KTSN",
       "name": "Katsue",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA2114Af21F85aDd81914F73De7211cc34B8324F0",
+      "symbol": "DEI",
+      "name": "VoxDei",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17079,
-    "minor": 17079,
+    "major": 17080,
+    "minor": 17080,
     "patch": 86
   }
 }
