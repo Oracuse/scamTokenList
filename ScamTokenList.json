@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x775160Cfa1eE9FF4eaBB435bC7485B9D3B195c4F",
-      "symbol": "MINOGAME",
-      "name": "Minogame",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF23894895406499F8a3edA7657818bdE4e7679d4",
       "symbol": "CHEESEBURGER",
       "name": "Cheeseburger",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68E39514c9B89A94b4CACD01c63a0845733bfDd5",
+      "symbol": "TURKEY",
+      "name": "ThanksGivingDay",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17030,
-    "minor": 17030,
+    "major": 17031,
+    "minor": 17031,
     "patch": 86
   }
 }
