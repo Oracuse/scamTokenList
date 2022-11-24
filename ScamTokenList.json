@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x63f8c53F6cC0Da5b32E714ebcba24e71Cd0cb514",
-      "symbol": "KOMAINU",
-      "name": "AShibasWish",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x421d0e21FC34265bc8051Ca89088A7848DD73C11",
       "symbol": "RETHEORIGIN",
       "name": "REFLECTION",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcF3115e3A3352857CaCbC43F7B31dC8eE96f71c6",
+      "symbol": "WOOF",
+      "name": "Shibance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17028,
-    "minor": 17028,
+    "major": 17029,
+    "minor": 17029,
     "patch": 86
   }
 }
