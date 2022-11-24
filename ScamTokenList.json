@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfca9ab6e69380eAfc4FE4d531B8E026a78907C09",
-      "symbol": "AVICII",
-      "name": "Avicii",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF31f513d6974b4e9cd148a8D06D3F7F16A865E22",
       "symbol": "SUKAI",
       "name": "AmenoMinakanushi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFf82272EA6be78D1507706377f52a9Af39dEE4Ef",
+      "symbol": "DRAFT",
+      "name": "DogeCraft",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17063,
-    "minor": 17063,
+    "major": 17064,
+    "minor": 17064,
     "patch": 86
   }
 }
