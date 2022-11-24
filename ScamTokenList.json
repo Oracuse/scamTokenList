@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6A10b32BC072f3f7Cd3Caabb8aEcBC366cf166C3",
-      "symbol": "OKOTTA",
-      "name": "OkottaInu",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1e61C71004C328a9f4a683572A497A722738d539",
       "symbol": "YOKOBON",
       "name": "YOKOZUNABONZAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3AA9dA4C907Fcdadd9fEfdFE7EffDA9bE2B06f3",
+      "symbol": "CE",
+      "name": "CryptoEats",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17083,
-    "minor": 17083,
+    "major": 17084,
+    "minor": 17084,
     "patch": 86
   }
 }
