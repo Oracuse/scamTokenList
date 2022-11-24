@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x96aEEfA881E1661E7102aF43B123F4a311aDa332",
-      "symbol": "COST",
-      "name": "cryptosplit",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2408Bf1D9923DA02F832e1FeDD62dd7DF30f2664",
       "symbol": "BLUE",
       "name": "Blue",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfd1338Dd388b78a388b2cb01f22aA30559fc8750",
+      "symbol": "HUMANTON",
+      "name": "HumantonProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17076,
-    "minor": 17076,
+    "major": 17077,
+    "minor": 17077,
     "patch": 86
   }
 }
