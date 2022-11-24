@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x018a841F3777694bD4cd718F5f3a30a3a6B592E0",
-      "symbol": "AKCAT",
-      "name": "AkatsukiCat",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0CA0743aC3a2cc21E8104089D7950dc45E8Bc507",
       "symbol": "OKONOMIYAKI",
       "name": "Okonomiyaki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8f838B9eA3976dA38EcC676A17E981cFA122c8D",
+      "symbol": "TRKYC",
+      "name": "TurkeyClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17059,
-    "minor": 17059,
+    "major": 17060,
+    "minor": 17060,
     "patch": 86
   }
 }
