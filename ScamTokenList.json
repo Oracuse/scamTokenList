@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE92EE350d0053eC9Ba4518dFC67Ef76afe2e2292",
-      "symbol": "VASUKI",
-      "name": "Vasuki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa802b9e8CaCeb76acd88d2eAF6821d3850e5fFA8",
       "symbol": "CULT",
       "name": "CULT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7095f9c2a66a081ff5A4e9bee1a750AF0195973d",
+      "symbol": "DESTRUCTION",
+      "name": "SelfDestruct",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17044,
-    "minor": 17044,
+    "major": 17045,
+    "minor": 17045,
     "patch": 86
   }
 }
