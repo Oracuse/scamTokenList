@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbA87057F1A9e7a9dE3725993B84633857F5b4B11",
-      "symbol": "BULL",
-      "name": "BLACKBULL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD0118E086491A0238c6699Ecf701372Ac349e1F3",
       "symbol": "BZEN",
       "name": "BITZEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c79567532f96d47644D053B3a115D6A667E3308",
+      "symbol": "MB",
+      "name": "MuchBanking",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17019,
-    "minor": 17019,
+    "major": 17020,
+    "minor": 17020,
     "patch": 86
   }
 }
