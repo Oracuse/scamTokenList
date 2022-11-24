@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA4DD0AE11506395E806133731d08a13f433c8087",
-      "symbol": "HECHIDAI",
-      "name": "Hechidai",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA946956e12515D6b8cF779BC805094fF3731d95a",
       "symbol": "NAZUKE",
       "name": "Nazuke",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x228F207acB8fC142F42B4b4DfF4e74776239e905",
+      "symbol": "TB",
+      "name": "TyrantBank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 16998,
-    "minor": 16998,
+    "major": 16999,
+    "minor": 16999,
     "patch": 86
   }
 }
