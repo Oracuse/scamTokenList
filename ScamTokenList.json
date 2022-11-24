@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4Ec62c488026263F545A5Aee0CA573c2eFdB2ec8",
-      "symbol": "FLAWLESS",
-      "name": "TheFlawless",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4528d26e6FE2624A90024468052020E95c05818A",
       "symbol": "VANITAS",
       "name": "MomentoMori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCbed595c7F4226caF58346F9936088e447AD61b7",
+      "symbol": "BRA2002",
+      "name": "Brasil2002",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17065,
-    "minor": 17065,
+    "major": 17066,
+    "minor": 17066,
     "patch": 86
   }
 }
