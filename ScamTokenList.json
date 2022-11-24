@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08cECd974D6A1E858E7e3bc401e96736CE297489",
-      "symbol": "KILLERDOGE",
-      "name": "KillerDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2dCf61B17D4d68b63253f714DFd8eE4279BC8450",
       "symbol": "MSC",
       "name": "MultiStableCapital",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59ce8bbDc6fc0562C0573195d404dcd8a9102223",
+      "symbol": "TDI",
+      "name": "THANKSGIVINGDOGEINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17008,
-    "minor": 17008,
+    "major": 17009,
+    "minor": 17009,
     "patch": 86
   }
 }
