@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76a8A0F6E51BBaAB592572AF01D41C02da5a87E9",
-      "symbol": "POC",
-      "name": "ProofOfClassic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8a34D707189fBFa46930ABFDe3D22abDC48AB73D",
       "symbol": "UNKAI",
       "name": "UNKAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93D2D40656F81790E2394f0220f0FF8919841021",
+      "symbol": "SAFEU",
+      "name": "SafetyTest",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17048,
-    "minor": 17048,
+    "major": 17049,
+    "minor": 17049,
     "patch": 86
   }
 }
