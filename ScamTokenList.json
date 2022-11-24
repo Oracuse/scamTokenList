@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA9BEea939aC5068da4919c03de1f18cc0AF23697",
-      "symbol": "RYOXYZ",
-      "name": "SaebaRyo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xECDEf5E53D39e2DDf071aCB3a87928b66c7365a0",
       "symbol": "PAKKUN",
       "name": "PakkunInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF32C8E214554BDF3443f2Cd0940FFaf57c8f7CE0",
+      "symbol": "MC",
+      "name": "MetamaskClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17039,
-    "minor": 17039,
+    "major": 17040,
+    "minor": 17040,
     "patch": 86
   }
 }
