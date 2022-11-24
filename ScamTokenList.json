@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x438371E91e48354EDf025c034Dda0C61aA7Ef6Df",
-      "symbol": "SCHWIFTY",
-      "name": "GetSchwifty",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x018a841F3777694bD4cd718F5f3a30a3a6B592E0",
       "symbol": "AKCAT",
       "name": "AkatsukiCat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe375169bc22c55C5d6f39edD859B189e20DC584B",
+      "symbol": "MAX",
+      "name": "MetaMax",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17058,
-    "minor": 17058,
+    "major": 17059,
+    "minor": 17059,
     "patch": 86
   }
 }
