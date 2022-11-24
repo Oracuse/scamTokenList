@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7DD1a71898dD122B4613A12D897f7B64c4CCAC64",
-      "symbol": "MARS",
-      "name": "MarsProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x32a2A7FDD6192ff3E4d236CF5bfd522a57122C66",
       "symbol": "7EVEN",
       "name": "Shemitah",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0371A16cA8F28882C222347a7A15cB23c6193374",
+      "symbol": "DRPC",
+      "name": "DegenRPC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17069,
-    "minor": 17069,
+    "major": 17070,
+    "minor": 17070,
     "patch": 86
   }
 }
