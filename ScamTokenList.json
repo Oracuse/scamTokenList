@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0342EB064785FE635D8e7f3A28Fc5BE316830194",
-      "symbol": "SCRATCH",
-      "name": "ScratchProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeA3f36996833cb05332c4443f67C283273A14f8F",
       "symbol": "AVATAR2",
       "name": "Avatar2",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6B88a880537c79206cc01aBD5746206fA3A89Dc",
+      "symbol": "DOPE",
+      "name": "DopeEth",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17035,
-    "minor": 17035,
+    "major": 17036,
+    "minor": 17036,
     "patch": 86
   }
 }
