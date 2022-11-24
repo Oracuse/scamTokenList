@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xadde24705CDCFbdDD0137c07fd1218aaEDE38dEF",
-      "symbol": "ANNA",
-      "name": "ANNADAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0342EB064785FE635D8e7f3A28Fc5BE316830194",
       "symbol": "SCRATCH",
       "name": "ScratchProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb26164A92D04cA210D190D188712F41FD9479eb7",
+      "symbol": "FUTURE",
+      "name": "FutureYield",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17034,
-    "minor": 17034,
+    "major": 17035,
+    "minor": 17035,
     "patch": 86
   }
 }
