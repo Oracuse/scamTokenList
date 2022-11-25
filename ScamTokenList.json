@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62f9e717bfF883196c97a65191FE225E90829937",
-      "symbol": "KEK",
-      "name": "MemeGod",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1b05D27Cfa26F073184dA92b8601d76e5ACd7855",
       "symbol": "WANYUDO",
       "name": "Wanyudo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38457FCD25811b0dEc435E9C2c1B420949454F45",
+      "symbol": "POR",
+      "name": "ProofofReserves",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17136,
-    "minor": 17136,
+    "major": 17137,
+    "minor": 17137,
     "patch": 86
   }
 }
