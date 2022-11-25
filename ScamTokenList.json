@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4866D858CbEDC193E38A3cfC6d54a56CA0692aE4",
-      "symbol": "PRINCE",
-      "name": "PrinceTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x797f23f0edd0eae45EE58F974A17EDEa1c6EC296",
       "symbol": "KAIDA",
       "name": "DejitaruKaida",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x494bA0aDD50Ca1C9e393e3C9Bb541f56f231fefA",
+      "symbol": "TEST",
+      "name": "Testpurposeonly",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17162,
-    "minor": 17162,
+    "major": 17163,
+    "minor": 17163,
     "patch": 86
   }
 }
