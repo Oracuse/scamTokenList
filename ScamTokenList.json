@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x245eB2623073090aD8C043e496F2F7a07f9a1f60",
-      "symbol": "DJUICE",
-      "name": "DragonJuice",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC84D45De220F281848cabad5d0bf1dbc941E3fCE",
       "symbol": "FUJI",
       "name": "Fujin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ef5AEf393dB38445df83d7807E45Fb7a5bcbBF2",
+      "symbol": "MM",
+      "name": "MiniMission",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17192,
-    "minor": 17192,
+    "major": 17193,
+    "minor": 17193,
     "patch": 86
   }
 }
