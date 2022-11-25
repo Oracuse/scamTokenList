@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4D3c31057Dd5d2435993D8DC472a7aaA99ea1257",
-      "symbol": "EVE",
-      "name": "BabyEhive",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaD73D6A721c7eefe4927126203bEaD654c7aed2d",
       "symbol": "EFLOKI",
       "name": "ETHFLOKI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB17A4F3e7a15951d7EBCD423907C3023f8c9F7c3",
+      "symbol": "MKA",
+      "name": "MATRYOSHKA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17178,
-    "minor": 17178,
+    "major": 17179,
+    "minor": 17179,
     "patch": 86
   }
 }
