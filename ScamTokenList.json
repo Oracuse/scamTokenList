@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3b358b2Cca708C09eb95e82a60bDf3aa5b79077e",
-      "symbol": "WINGW",
-      "name": "Wing",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6340B01cE785D742FF750E2e699644e332c8d6A9",
       "symbol": "TSUKAGATE",
       "name": "TsukaGatekeeper",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe469f1743bbcA1e518326a21AAB30A4b66D1CC25",
+      "symbol": "CU",
+      "name": "Cursed",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17175,
-    "minor": 17175,
+    "major": 17176,
+    "minor": 17176,
     "patch": 86
   }
 }
