@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc7794567c79520fA97E283EE966E2D181B4d2db2",
-      "symbol": "SAASNODE",
-      "name": "SaasNode",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAfc2e1AF1E28e6DB82A99C2CE852dA8DdFbb4ce7",
       "symbol": "TEST",
       "name": "TestToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAb0c737C2496EFc77ce6850Bc54D16Cc3cE72369",
+      "symbol": "L",
+      "name": "MessiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17093,
-    "minor": 17093,
+    "major": 17094,
+    "minor": 17094,
     "patch": 86
   }
 }
