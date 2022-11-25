@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2F3CAA28AD28A7dC56a6B1099EB714D8d964dE08",
-      "symbol": "CAISHENC",
-      "name": "Caishencoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc7794567c79520fA97E283EE966E2D181B4d2db2",
       "symbol": "SAASNODE",
       "name": "SaasNode",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f77B64C6ec709Ae77368EE3Deb01058E5A03f78",
+      "symbol": "VW",
+      "name": "VestWork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17092,
-    "minor": 17092,
+    "major": 17093,
+    "minor": 17093,
     "patch": 86
   }
 }
