@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA628DC79f99D72873FdB24bF1e41EFa3ca20c26D",
-      "symbol": "SHEMITAINU",
-      "name": "SHEMITAINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9eCF0e6E96CcF8dE78FBC10fF475983810662327",
       "symbol": "MPOOL",
       "name": "MergePool",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0FFF62909c217F2EB7A4621CddeFaf98F08e680e",
+      "symbol": "CTSUKA",
+      "name": "TsukaClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17122,
-    "minor": 17122,
+    "major": 17123,
+    "minor": 17123,
     "patch": 86
   }
 }
