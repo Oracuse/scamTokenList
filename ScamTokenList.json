@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14e98d1354545c515A8a0a358CFF68cDa48cF61A",
-      "symbol": "MARIA",
-      "name": "MariaOzawa",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2F3CAA28AD28A7dC56a6B1099EB714D8d964dE08",
       "symbol": "CAISHENC",
       "name": "Caishencoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B7f384404d077EDBdFf1D173dd06d1B0b7f72be",
+      "symbol": "SALE",
+      "name": "BlackFriday",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17091,
-    "minor": 17091,
+    "major": 17092,
+    "minor": 17092,
     "patch": 86
   }
 }
