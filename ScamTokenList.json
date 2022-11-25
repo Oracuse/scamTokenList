@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe1Bda45C6dE09D0bD91ab7816584Ed867C96120B",
-      "symbol": "7COINS",
-      "name": "7LegendaryCoins",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3D5c2d8c9A1CaEa27c35E47a15D391B578A02D92",
       "symbol": "NINTAI",
       "name": "DarumaDoll",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBC56cCE94A421DB31dDDFE1Bb6b8fF254BEAddCD",
+      "symbol": "YE",
+      "name": "PresidentKanyeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17102,
-    "minor": 17102,
+    "major": 17103,
+    "minor": 17103,
     "patch": 86
   }
 }
