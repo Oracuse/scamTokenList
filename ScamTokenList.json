@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3a8dae950CdCa0bCD42E89DF2d487952f803812F",
-      "symbol": "NIHONGI",
-      "name": "Nihongi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB5183E32D138949aCed831a448d8B4e2B1e4807b",
       "symbol": "DOSA",
       "name": "Dosa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x663be80d2502a9b4232750c2609c5dD0B58e562c",
+      "symbol": "MBA",
+      "name": "MightBeAlpha",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17126,
-    "minor": 17126,
+    "major": 17127,
+    "minor": 17127,
     "patch": 86
   }
 }
