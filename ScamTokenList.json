@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x371b757edA232c4329535889CB8E74A787EC5c49",
-      "symbol": "TLT",
-      "name": "TheLastTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x45E07779B2414d1823B15b031eb7613E151d6175",
       "symbol": "UFO",
       "name": "ProofofUFO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00c4cE12f0BBbF2E1401C76F0aCab6F9fF3cc13E",
+      "symbol": "TEST",
+      "name": "TEstpurposeonly",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17169,
-    "minor": 17169,
+    "major": 17170,
+    "minor": 17170,
     "patch": 86
   }
 }
