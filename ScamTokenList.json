@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4F7c000f29AE28DDad8Ef902B44DA0d6BEdF2a5b",
-      "symbol": "ACAER",
-      "name": "Acaer",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x94cb1577988c1e17E5811ECc90A10A13fd51D2b6",
       "symbol": "AI",
       "name": "TheAlgorithm",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc019624142cF8D6D3b215d3974b479c97FE356C1",
+      "symbol": "SATO",
+      "name": "Satoshi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17130,
-    "minor": 17130,
+    "major": 17131,
+    "minor": 17131,
     "patch": 86
   }
 }
