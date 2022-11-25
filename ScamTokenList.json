@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1052112D8AF959E460Fc61d0330E4E149bB00698",
-      "symbol": "POM",
-      "name": "ProofOfMaltipoo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51bc63a26EFA74bf5af7bf48eaEb068B9A8105f8",
       "symbol": "OKUNI",
       "name": "Okuninushi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xabc6C1dce76b01074b4f8E8F67f7D54d07a748CB",
+      "symbol": "N64",
+      "name": "N64GAMETOKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17153,
-    "minor": 17153,
+    "major": 17154,
+    "minor": 17154,
     "patch": 86
   }
 }
