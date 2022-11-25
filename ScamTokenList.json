@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9d995A2C831a173cBb7552d31dDCe633b16aD893",
-      "symbol": "FTD",
-      "name": "FTDToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc8CFbE992B93821ee0BEdBa1Ba371cc8737B1b28",
       "symbol": "BRISK",
       "name": "Brisk",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c344CaBc68AA069F482eE55cBd721aA0bFba4ab",
+      "symbol": "RYUNA",
+      "name": "DragonMaiden",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17120,
-    "minor": 17120,
+    "major": 17121,
+    "minor": 17121,
     "patch": 86
   }
 }
