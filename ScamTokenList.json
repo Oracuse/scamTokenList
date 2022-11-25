@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x760125b36821E0F39475149b37Ab6e144d4a8bdb",
-      "symbol": "TAISHA",
-      "name": "IzumoTaisha",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf80c290a6C15Dea35cbdEb647EBE725C38C8D962",
       "symbol": "MSUKA",
       "name": "MommyTSUKA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe810CE820163b7e618101dacc29CaB69b01EBC4b",
+      "symbol": "SATO",
+      "name": "SATOSHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17151,
-    "minor": 17151,
+    "major": 17152,
+    "minor": 17152,
     "patch": 86
   }
 }
