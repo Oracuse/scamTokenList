@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC84D45De220F281848cabad5d0bf1dbc941E3fCE",
-      "symbol": "FUJI",
-      "name": "Fujin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x39884e4Ff4fFA24ab233919f20B7C6fb6C48f3aB",
       "symbol": "777",
       "name": "LuckyDegen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x560d6Fa87c3de52FA0f15166e70359D65Eb0B300",
+      "symbol": "TEST",
+      "name": "Testingpurposeonly",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17193,
-    "minor": 17193,
+    "major": 17194,
+    "minor": 17194,
     "patch": 86
   }
 }
