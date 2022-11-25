@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAE29f6cB703c3bD2DdF1bf5e721C730A90B6916A",
-      "symbol": "CONFIDENT",
-      "name": "Confidential",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6FCFC9BaCC1cfBA33ba5C2e3b93A2592585b2257",
       "symbol": "PQC",
       "name": "PQCProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1eE68Af264f71A1994dE5E0C4C19fED01e14F6ca",
+      "symbol": "SATO",
+      "name": "SATOSHI",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17147,
-    "minor": 17147,
+    "major": 17148,
+    "minor": 17148,
     "patch": 86
   }
 }
