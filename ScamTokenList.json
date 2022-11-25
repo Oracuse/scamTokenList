@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x313c9209B3A525340c4ec5b4E953040315C500ee",
-      "symbol": "TSUKAGATE",
-      "name": "TsukaGatekeeper",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4D3c31057Dd5d2435993D8DC472a7aaA99ea1257",
       "symbol": "EVE",
       "name": "BabyEhive",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C5665105DCfC69984Df3a6cf543FF747c6c96DA",
+      "symbol": "GOO",
+      "name": "Goonoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17177,
-    "minor": 17177,
+    "major": 17178,
+    "minor": 17178,
     "patch": 86
   }
 }
