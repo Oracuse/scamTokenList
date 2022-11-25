@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF9bc0c86975F9247E9B62913Cf4e670eeA6D6560",
-      "symbol": "POTS",
-      "name": "ProofOfTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4866D858CbEDC193E38A3cfC6d54a56CA0692aE4",
       "symbol": "PRINCE",
       "name": "PrinceTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcAB2A3D30258C480A7A6711ff29eBaE7F7Cc90d0",
+      "symbol": "0XRUGGED",
+      "name": "0xRUGGED",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17161,
-    "minor": 17161,
+    "major": 17162,
+    "minor": 17162,
     "patch": 86
   }
 }
