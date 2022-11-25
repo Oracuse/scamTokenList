@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe7431e190521e970b7F3E4ffDBB0d902169C9A6F",
-      "symbol": "BOTFREE",
-      "name": "BOTFREE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8F9f586f51595DDa0FAC8f734f39f7409D2874E7",
       "symbol": "BEAN",
       "name": "BustedBean",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bC24CeA9A65e15C1fF28Cc55D6b1e2e33B31e6e",
+      "symbol": "YE24",
+      "name": "Ye24",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17104,
-    "minor": 17104,
+    "major": 17105,
+    "minor": 17105,
     "patch": 86
   }
 }
