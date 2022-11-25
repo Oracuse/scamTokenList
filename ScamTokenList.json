@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa0C16D19431560d1C9c4586c6B639FB4810aC5f5",
-      "symbol": "MTSUKA",
-      "name": "MiniTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF9bc0c86975F9247E9B62913Cf4e670eeA6D6560",
       "symbol": "POTS",
       "name": "ProofOfTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa656E791a8b7458b5E2439b3cBAA295A44C9B885",
+      "symbol": "CRB",
+      "name": "CryptoRehab",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17160,
-    "minor": 17160,
+    "major": 17161,
+    "minor": 17161,
     "patch": 86
   }
 }
