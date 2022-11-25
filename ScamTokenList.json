@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBC754A8Da9a98e3f7665f05E37536A950ac1Df61",
-      "symbol": "GRANDTSUKA",
-      "name": "GrandfatherTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x327ECF3C9067EBa31AB917A61900e86C4833233e",
       "symbol": "TSUKAKILLER",
       "name": "TsukaKiller",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3e655Fa4F0E7540E2DCfD0Bd77c48C322E4FbDE",
+      "symbol": "OT",
+      "name": "OddTaxi",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17184,
-    "minor": 17184,
+    "major": 17185,
+    "minor": 17185,
     "patch": 86
   }
 }
