@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6FCFC9BaCC1cfBA33ba5C2e3b93A2592585b2257",
-      "symbol": "PQC",
-      "name": "PQCProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB528Fc067d048E857349De7d2038394F0DDDee12",
       "symbol": "METAV",
       "name": "MetaVillage",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD6E7F6ab259Dc2A71214707Ba1b4708Bd630aDD3",
+      "symbol": "TEST",
+      "name": "Fortestingpurposeon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17148,
-    "minor": 17148,
+    "major": 17149,
+    "minor": 17149,
     "patch": 86
   }
 }
