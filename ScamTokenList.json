@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAF9C2e7dcE8B76AC8320d6Db1D86FA5b00528715",
-      "symbol": "BOOST",
-      "name": "BOOST",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F7c000f29AE28DDad8Ef902B44DA0d6BEdF2a5b",
       "symbol": "ACAER",
       "name": "Acaer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdA0314CC4182B0c6eB8023AA4eA26f8570481069",
+      "symbol": "POR",
+      "name": "ProofofReserves",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17129,
-    "minor": 17129,
+    "major": 17130,
+    "minor": 17130,
     "patch": 86
   }
 }
