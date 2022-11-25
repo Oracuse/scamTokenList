@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeE2B297408063E0967096bafDCfD1278d5BF1b8a",
-      "symbol": "DOSA",
-      "name": "Dosa",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAF9C2e7dcE8B76AC8320d6Db1D86FA5b00528715",
       "symbol": "BOOST",
       "name": "BOOST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1e1a9Dbad78400897C78EB17573AEe75f8FdaEc",
+      "symbol": "OS",
+      "name": "OnlyStables",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17128,
-    "minor": 17128,
+    "major": 17129,
+    "minor": 17129,
     "patch": 86
   }
 }
