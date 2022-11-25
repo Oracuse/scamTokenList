@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa70bF24512F00E230fF39b5916bFEf4C8F236650",
-      "symbol": "NERVE",
-      "name": "Nerve",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAEc4584F50453c93BadAcdA801A2820EE0fab512",
       "symbol": "TOM",
       "name": "TomKeene",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x444dcA6877265837A811cd85a0B6d9C04c29B10d",
+      "symbol": "CE",
+      "name": "CryptoEats",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17098,
-    "minor": 17098,
+    "major": 17099,
+    "minor": 17099,
     "patch": 86
   }
 }
