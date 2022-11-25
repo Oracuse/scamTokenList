@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x047674A3176deF32dC81198B77af170cc249422C",
-      "symbol": "DARK",
-      "name": "DarkTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x83C4925380d1C218325a686be31368F16BDd7671",
       "symbol": "DTSUKA",
       "name": "DefendTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF76210a5f088E4c88A282B0066Bd779427658f16",
+      "symbol": "ONEWAY",
+      "name": "TheOneWay",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17164,
-    "minor": 17164,
+    "major": 17165,
+    "minor": 17165,
     "patch": 86
   }
 }
