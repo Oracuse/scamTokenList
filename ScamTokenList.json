@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE1b983dA4783418694410e1990A80Fd0a23a1806",
-      "symbol": "ADOG",
-      "name": "AigleDog",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9d995A2C831a173cBb7552d31dDCe633b16aD893",
       "symbol": "FTD",
       "name": "FTDToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f191426fF009428e9e39De0B2bdc575E40746a3",
+      "symbol": "MYX",
+      "name": "Myxious",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17119,
-    "minor": 17119,
+    "major": 17120,
+    "minor": 17120,
     "patch": 86
   }
 }
