@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4DF82b6BAbf43bA68aEcEB25b47419E02fcfb31A",
-      "symbol": "FTD",
-      "name": "FTDToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0bDccD8ec544B45C9Af249017877DDC5bad33689",
       "symbol": "BORINGB",
       "name": "BoringDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA9F3F3B93BcCCaf166027e831435C68E120429Da",
+      "symbol": "CWAR",
+      "name": "CULTUREWAR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17114,
-    "minor": 17114,
+    "major": 17115,
+    "minor": 17115,
     "patch": 86
   }
 }
