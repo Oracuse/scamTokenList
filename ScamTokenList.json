@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAfc2e1AF1E28e6DB82A99C2CE852dA8DdFbb4ce7",
-      "symbol": "TEST",
-      "name": "TestToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7C9c5deA467a5B5817909a3897dDC3cF747d504e",
       "symbol": "DARUMA",
       "name": "Daruma",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6Dd05C6AB29Ae66e5249df088a89A12BBAb0A56D",
+      "symbol": "BWW",
+      "name": "BrazilWinWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17094,
-    "minor": 17094,
+    "major": 17095,
+    "minor": 17095,
     "patch": 86
   }
 }
