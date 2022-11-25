@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x92737F370eCeEDD92d396282A2B7349c91d722d7",
-      "symbol": "TARO",
-      "name": "UrashimaTaro",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2536709fD52a6a3538b1012C460CC22FC99C5Af3",
       "symbol": "JOSHI",
       "name": "JoshiKousei",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x896d868FdF1abe84b283CF4036A2b7C0DD9aC48d",
+      "symbol": "CERES",
+      "name": "AventineTriad",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17096,
-    "minor": 17096,
+    "major": 17097,
+    "minor": 17097,
     "patch": 86
   }
 }
