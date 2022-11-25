@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73cde70eEC07D248AA0590EDf79529cE24D29F99",
-      "symbol": "YORI",
-      "name": "YoriToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD0b3C473DCBd552228Da02BB422B46eDe5e7E829",
       "symbol": "FURUKOTOFUMI",
       "name": "SujinTenno",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D54ABe91D00B1f923788eA0Ae1EAf0045d7adF0",
+      "symbol": "CINU",
+      "name": "CoffeezillaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17107,
-    "minor": 17107,
+    "major": 17108,
+    "minor": 17108,
     "patch": 86
   }
 }
