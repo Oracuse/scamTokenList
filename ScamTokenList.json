@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7893a12E9592215BD5244305335532a091Ea12c7",
-      "symbol": "SAFETSUKA",
-      "name": "SafeTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdb6500B070e87701275dc140DD3883eD174b585f",
       "symbol": "REVENGE",
       "name": "TsukaRevenge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2EF61AF9e4eD8e95eEAACe6DF076574Ac58691b",
+      "symbol": "LP",
+      "name": "LiquidityInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17186,
-    "minor": 17186,
+    "major": 17187,
+    "minor": 17187,
     "patch": 86
   }
 }
