@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeeac4d12405075055751dbA257325830ca4D5ed0",
-      "symbol": "DEAD",
-      "name": "Dead",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x486108dEc13b68c524748F3aE5418Bf94ca6eC59",
       "symbol": "WANYUDO",
       "name": "Wanyudo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7316cb1F7Ca817f657aD6976503bC3CF593D35E3",
+      "symbol": "SMAUG",
+      "name": "Smaug",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17138,
-    "minor": 17138,
+    "major": 17139,
+    "minor": 17139,
     "patch": 86
   }
 }
