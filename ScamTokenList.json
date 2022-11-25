@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc8CFbE992B93821ee0BEdBa1Ba371cc8737B1b28",
-      "symbol": "BRISK",
-      "name": "Brisk",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA628DC79f99D72873FdB24bF1e41EFa3ca20c26D",
       "symbol": "SHEMITAINU",
       "name": "SHEMITAINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x082DbF7fa736d8fe9c7a156539BAe4c3791643EB",
+      "symbol": "IRA",
+      "name": "IRANINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17121,
-    "minor": 17121,
+    "major": 17122,
+    "minor": 17122,
     "patch": 86
   }
 }
