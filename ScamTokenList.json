@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD112802945Df979814368Db4201b8D834B5f810E",
-      "symbol": "FEED",
-      "name": "Feedthevillage",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x364406736914e45dbDC87c71F323c42e144d4b8f",
       "symbol": "PROB",
       "name": "ProbablyNothing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f8b23296394d20eC048FbDec8eBc0CA90f5c8f1",
+      "symbol": "TUF",
+      "name": "TUFToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17145,
-    "minor": 17145,
+    "major": 17146,
+    "minor": 17146,
     "patch": 86
   }
 }
