@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2d6A756f4A4ac392C7F681bC92dBd653EC889ba4",
-      "symbol": "VSDAO",
-      "name": "VIEWSDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3158B711140A975a7a6B9f9236EF76448581776e",
       "symbol": "KAPE",
       "name": "KingApe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08266f693d14C1fF725c499b7B2351249638451e",
+      "symbol": "RC",
+      "name": "RoyalCup",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17212,
-    "minor": 17212,
+    "major": 17213,
+    "minor": 17213,
     "patch": 86
   }
 }
