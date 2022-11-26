@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x476A3DDB2873702981cC8F14FADeeBa706fD72f5",
-      "symbol": "INAZUMA",
-      "name": "TheLightning",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a9D849CC740382a9bdF1a44e85E583F0c6d6A11",
       "symbol": "BABYMIKABOSHI",
       "name": "BabyMikaboshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4cF5c41850a2Fa0723c23eb41316E1507c9293a",
+      "symbol": "DOLLARS",
+      "name": "OneDollarProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17280,
-    "minor": 17280,
+    "major": 17281,
+    "minor": 17281,
     "patch": 86
   }
 }
