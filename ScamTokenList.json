@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5aB6304077A016d36D4322DeCea78cA939D3d7bf",
-      "symbol": "BABYMIKABOSHI",
-      "name": "BabyMikaboshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x476A3DDB2873702981cC8F14FADeeBa706fD72f5",
       "symbol": "INAZUMA",
       "name": "TheLightning",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b3d0b7dEAde9857Bac83BF174407DAB834864b6",
+      "symbol": "DRGN",
+      "name": "Dragonite",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17279,
-    "minor": 17279,
+    "major": 17280,
+    "minor": 17280,
     "patch": 86
   }
 }
