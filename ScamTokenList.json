@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7528f83dACdd927e84c38b1Ad1BC7832Cd5B9279",
-      "symbol": "BUQUOR",
-      "name": "Buquor",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x230f8f9f1540Bd6c961A382B6cd21c2bf9Cc29aF",
       "symbol": "APEA",
       "name": "APECOIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2FCB466bca2fC94c43a4bd843c1D58eF82fbf4A9",
+      "symbol": "AURA",
+      "name": "AuraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17225,
-    "minor": 17225,
+    "major": 17226,
+    "minor": 17226,
     "patch": 86
   }
 }
