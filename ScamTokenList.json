@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF621c8F455848b55Dc738089752f59907A4B6F22",
-      "symbol": "HNTM",
-      "name": "Helium",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7976c286C5bd91ec0bbF26C2a2E094Cc9F62c815",
       "symbol": "OWARI",
       "name": "WorldsEnd",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7080E2680DBF4Cba5E9f272e73067F388881dBD9",
+      "symbol": "OS",
+      "name": "OnlyStables",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17210,
-    "minor": 17210,
+    "major": 17211,
+    "minor": 17211,
     "patch": 86
   }
 }
