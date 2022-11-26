@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x880001DD1f90ddcAecd9642c40f1701C624Af79c",
-      "symbol": "MTRL",
-      "name": "Mithrillium",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2C7eA5e13fA37cE6cFa281c2b55DAFA4Ec8867dC",
       "symbol": "POT",
       "name": "ProofOfTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0610e401C78744D2Ed2AAf0f7DC32d506FF01EEB",
+      "symbol": "RUDOSHI",
+      "name": "Rudoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17235,
-    "minor": 17235,
+    "major": 17236,
+    "minor": 17236,
     "patch": 86
   }
 }
