@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAA93E2E17C533d18A97e302320A71F33E9289EF0",
-      "symbol": "CCULT",
-      "name": "ChillCult",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81789e2d1Bd3EACd4a09EdA8B6c9f3cEE33554B2",
       "symbol": "THREEDEE",
       "name": "3D",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39F153F432119E6d4B95Bab12Da2f46786298398",
+      "symbol": "SANADA",
+      "name": "SANADAYUKIMURA",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17231,
-    "minor": 17231,
+    "major": 17232,
+    "minor": 17232,
     "patch": 86
   }
 }
