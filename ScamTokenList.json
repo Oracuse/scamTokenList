@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7a332aeEEd9D4fe5669856340fd85DBb705D8B51",
-      "symbol": "SEKI",
-      "name": "KeigoSeki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9075C17A5093a4F3052c5c0Beed4fc2f344A83aF",
       "symbol": "LEGACY",
       "name": "Legacy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A1021622037E0dFB5888e2c8118da58376ee7a0",
+      "symbol": "CR",
+      "name": "CristianoRonaldo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17203,
-    "minor": 17203,
+    "major": 17204,
+    "minor": 17204,
     "patch": 86
   }
 }
