@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4Ed384fA0B1122F6cc6aA1A01CeEa77C6fFffa61",
-      "symbol": "IQUIT",
-      "name": "ALTF4",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21AFF8b9E5761fEa0aD827b71d4fe93dE39792cf",
       "symbol": "REPEAT",
       "name": "ripPIT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C4Ce32B716287343c630D1a7341707BA9A19c3A",
+      "symbol": "AZURE",
+      "name": "Seiryu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17215,
-    "minor": 17215,
+    "major": 17216,
+    "minor": 17216,
     "patch": 86
   }
 }
