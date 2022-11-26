@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x241a29960ab3454cd4F15a7cd743418d35736Aae",
-      "symbol": "SUMO",
-      "name": "NezuminoSumo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc18675D501c81e42976F6455f079a7D8A7B595bc",
       "symbol": "SUMO",
       "name": "NezuminoSumo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4041d8D1fD58A1faB126eb046710D55f6d1A1b16",
+      "symbol": "NOMAN",
+      "name": "NOMAN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17200,
-    "minor": 17200,
+    "major": 17201,
+    "minor": 17201,
     "patch": 86
   }
 }
