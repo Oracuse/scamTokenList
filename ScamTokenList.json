@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7976c286C5bd91ec0bbF26C2a2E094Cc9F62c815",
-      "symbol": "OWARI",
-      "name": "WorldsEnd",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2d6A756f4A4ac392C7F681bC92dBd653EC889ba4",
       "symbol": "VSDAO",
       "name": "VIEWSDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Cab5A74cB5a5e38F56Da1dF6ffBEa09D80bca86",
+      "symbol": "RIDGE",
+      "name": "RidgeProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17211,
-    "minor": 17211,
+    "major": 17212,
+    "minor": 17212,
     "patch": 86
   }
 }
