@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1e155bc4A324D4B3997E0E37E2ceF70030A438BC",
-      "symbol": "BM",
-      "name": "BabyMikaboshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0584F27E94CBA0aFbE0CD9C1b3526886db6A6666",
       "symbol": "ENOU",
       "name": "ZenPatriarch",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf30267FfeF09A9465846e1674D653950603c6Ef1",
+      "symbol": "RO66",
+      "name": "Route66",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17275,
-    "minor": 17275,
+    "major": 17276,
+    "minor": 17276,
     "patch": 86
   }
 }
