@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDEF36443DC3EC40de55b7255A00f209f579db246",
-      "symbol": "TA",
-      "name": "TheAttache",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1917232a4039aE743f0C6A5917C77206c4726bCF",
       "symbol": "EXOBLOK",
       "name": "ExoBlok",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x540C504C844eeB6273337f5b7FEEc58ef6f84e1c",
+      "symbol": "WWW",
+      "name": "WProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17265,
-    "minor": 17265,
+    "major": 17266,
+    "minor": 17266,
     "patch": 86
   }
 }
