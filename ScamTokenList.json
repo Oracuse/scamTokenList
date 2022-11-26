@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66A48c64C257EeB4863c4E92e6d151fB46DEcC90",
-      "symbol": "NUWA",
-      "name": "MEGAMI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93964DFCf0Ef1d154d1a108D0E0Bdeb9ed90274f",
       "symbol": "WAR",
       "name": "Ares",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa54D1EE59506788f2Cc35927d9d92552a92CC5eC",
+      "symbol": "KITSUNEBI",
+      "name": "Kitsunebi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17258,
-    "minor": 17258,
+    "major": 17259,
+    "minor": 17259,
     "patch": 86
   }
 }
