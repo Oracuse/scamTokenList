@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66814DaDdd92ACD0F9bD6e8e3219482bEe52808d",
-      "symbol": "SEKI",
-      "name": "KeigoSeki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE9dc1Fe0738165F731F49714035ac630cf0cAe35",
       "symbol": "GHOST",
       "name": "GhostOfTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5470f2b6B0b60f4C91B4C56e9Aa9793285ee652f",
+      "symbol": "STV2",
+      "name": "SHIBTOROv2",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17205,
-    "minor": 17205,
+    "major": 17206,
+    "minor": 17206,
     "patch": 86
   }
 }
