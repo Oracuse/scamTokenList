@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6bf1e89246AeF339BD3D961ba11D5a8b916BD561",
-      "symbol": "TOR",
-      "name": "Tortuga",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x848a898d0A4B7099465B2e8a9408def4C3599D19",
       "symbol": "URASHIMA",
       "name": "Urashima",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40853adc2d58bac8Ba71570387be9314431471Ec",
+      "symbol": "TRUMP",
+      "name": "WelcomeBackTrump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17244,
-    "minor": 17244,
+    "major": 17245,
+    "minor": 17245,
     "patch": 86
   }
 }
