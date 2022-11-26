@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x61ee40440c026Acf637E664aDdd8e00CbfF40376",
-      "symbol": "SISN",
-      "name": "SISUNETWORK",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd57efA89f17BEa7eCdC714C6c424325170e629aA",
       "symbol": "NETCOIN",
       "name": "Netcoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C73454D2E3bEDfCfEE43b469053451630F196f7",
+      "symbol": "PRO",
+      "name": "PROMETHEANS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17241,
-    "minor": 17241,
+    "major": 17242,
+    "minor": 17242,
     "patch": 86
   }
 }
