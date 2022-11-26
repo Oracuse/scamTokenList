@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9baCAE42D407Ec21182F572C6Fe54C7b80393b31",
-      "symbol": "EXIT",
-      "name": "CTRLW",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x880001DD1f90ddcAecd9642c40f1701C624Af79c",
       "symbol": "MTRL",
       "name": "Mithrillium",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x147FE11b06390F11BB463464a77870E92B672fdC",
+      "symbol": "KORO",
+      "name": "Kokoro",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17234,
-    "minor": 17234,
+    "major": 17235,
+    "minor": 17235,
     "patch": 86
   }
 }
