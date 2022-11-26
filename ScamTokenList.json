@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x590D88897c4F1413180ed1395d4Ed59569517763",
-      "symbol": "INR",
-      "name": "Inery",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6Cb6c6e90605E235F18499cF3d308BA30954B630",
       "symbol": "MINITSUKA",
       "name": "DejitaruMiniTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDD7aa056880297d88215e091e409380a312B566F",
+      "symbol": "DOT",
+      "name": "DOT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17288,
-    "minor": 17288,
+    "major": 17289,
+    "minor": 17289,
     "patch": 86
   }
 }
