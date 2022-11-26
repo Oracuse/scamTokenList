@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB2190E1B088Ad51A703fdEA90BB37df645222142",
-      "symbol": "BABYKURAMA",
-      "name": "BabyKurama",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9593BA11352B69E3aF4966670B45900Da0e4b72C",
       "symbol": "SAASNODE",
       "name": "SAASNODE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c343C6c46756148A6C6c1fA95109bC9A2401E5B",
+      "symbol": "HNTH",
+      "name": "Helium",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17272,
-    "minor": 17272,
+    "major": 17273,
+    "minor": 17273,
     "patch": 86
   }
 }
