@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x959396c35c47280828Af6Cc6f62D35e09E1Af2B6",
-      "symbol": "TSUKADAO",
-      "name": "TsukaDao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0Cf9bbd2014982e53040c7A0F86664b313F16986",
       "symbol": "SISI",
       "name": "Symbiosis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2C8a549dE907dBd08c66686ee0674B50de30673",
+      "symbol": "QRPTOKEN",
+      "name": "QRProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17220,
-    "minor": 17220,
+    "major": 17221,
+    "minor": 17221,
     "patch": 86
   }
 }
