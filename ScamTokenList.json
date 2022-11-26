@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x230f8f9f1540Bd6c961A382B6cd21c2bf9Cc29aF",
-      "symbol": "APEA",
-      "name": "APECOIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3F2236B5E7D99Df62120C031e4023E0b15f964Ab",
       "symbol": "ALTTAB",
       "name": "TaskSwitcher",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE34148158B1dE2caeFA9B5b75c1d322D0C867b51",
+      "symbol": "DAEMON",
+      "name": "DRACARYS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17226,
-    "minor": 17226,
+    "major": 17227,
+    "minor": 17227,
     "patch": 86
   }
 }
