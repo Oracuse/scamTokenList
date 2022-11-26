@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22e04177e386BABBB74D6Ba400754791cfC827b0",
-      "symbol": "STABLZ",
-      "name": "TheStabilizer",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0A16D3dD93BE7Ae7FeB5d2578Df38c30e8BAe62F",
       "symbol": "PROTECTOR",
       "name": "TsukaProtector",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb2f454959F534E0b97582454B52F78F8117Ef1f",
+      "symbol": "MICRO",
+      "name": "MicroMillionaire",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17239,
-    "minor": 17239,
+    "major": 17240,
+    "minor": 17240,
     "patch": 86
   }
 }
