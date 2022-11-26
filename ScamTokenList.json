@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3158B711140A975a7a6B9f9236EF76448581776e",
-      "symbol": "KAPE",
-      "name": "KingApe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4fAF3F9b1a3C05c9015527B6f9DBAaCFD9C0d294",
       "symbol": "SHIBAYC",
       "name": "ShibaYatch",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F51665d4fA0522Ac51c9970d85f7c64EBb9f4F6",
+      "symbol": "SCINU",
+      "name": "ScavengerINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17213,
-    "minor": 17213,
+    "major": 17214,
+    "minor": 17214,
     "patch": 86
   }
 }
