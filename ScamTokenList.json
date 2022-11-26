@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x417ACd7e337849b7E20CDE21F650361dc27b25D1",
-      "symbol": "TSUKATANA",
-      "name": "Tsukatana",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xafC29BA26216c24213c5540ffD92841B8816065F",
       "symbol": "DRACO",
       "name": "DRACONIS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf20De2A7706cD8Fafb097DDd85F7CCEBcAEd0FBb",
+      "symbol": "WCD",
+      "name": "WorldCupDegens",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17223,
-    "minor": 17223,
+    "major": 17224,
+    "minor": 17224,
     "patch": 86
   }
 }
