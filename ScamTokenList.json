@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4cD8c7819ab6834cd0D71FdDE86D90CAdeEe146A",
-      "symbol": "DONTBUY",
-      "name": "DONTBUY",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71628b84571d4F29aDcf747f393A0695c9C46F2f",
       "symbol": "SPI",
       "name": "SamuraiPandaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9A813e9C5225DF37D313B1Ed7f11004fD9BeFCb",
+      "symbol": "CENT",
+      "name": "CentTaurus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17356,
-    "minor": 17356,
+    "major": 17357,
+    "minor": 17357,
     "patch": 86
   }
 }
