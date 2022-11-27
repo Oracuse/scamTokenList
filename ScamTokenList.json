@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2EeF45FFdF1779536cbEd84B1b9E47D8d0359054",
-      "symbol": "SAAS",
-      "name": "SAASProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2Afabe5192EE4dC658a4Ea7A331bAb77Fd73A3Eb",
       "symbol": "SAFPRO",
       "name": "SAFEProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D61Fe9E35781305aE2375ae0BcB63660Cc75E5F",
+      "symbol": "LAYER",
+      "name": "BaseLayer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17369,
-    "minor": 17369,
+    "major": 17370,
+    "minor": 17370,
     "patch": 86
   }
 }
