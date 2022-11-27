@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5Ae32a96964a8C64963d60656F7651E628812DaE",
-      "symbol": "TSUKAGIRL",
-      "name": "DejitaruTsukaGirl",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7D441904C8fdA441D7CC8f3cF82aB2429a2A4262",
       "symbol": "BABYHIVE",
       "name": "BabyHive",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFaB1fac61EB5bF5a75BA311DE1b397E73DF8AaCa",
+      "symbol": "DRAGON",
+      "name": "FlightoftheDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17400,
-    "minor": 17400,
+    "major": 17401,
+    "minor": 17401,
     "patch": 86
   }
 }
