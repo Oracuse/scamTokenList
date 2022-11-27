@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB36409d79B5b0560416A426F0dB51E2dFf5f6665",
-      "symbol": "SAAS",
-      "name": "SAASProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xABda3176402F80Ea1701B0e15A00DA2BA404037e",
       "symbol": "BABYCRAM",
       "name": "BabyCRAMER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e3bc33fdf496B03334F0dad05D31b3E00474810",
+      "symbol": "DELTA",
+      "name": "DeltaProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17402,
-    "minor": 17402,
+    "major": 17403,
+    "minor": 17403,
     "patch": 86
   }
 }
