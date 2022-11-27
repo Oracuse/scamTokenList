@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x651746650d272d05B3Bef5CeFF31D0a8A3E65a4F",
-      "symbol": "LILTSUKA",
-      "name": "Little",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6FBDa8dD61729763c0B4cf6E17D44D19bf33Ae76",
       "symbol": "DADDYTSUKA",
       "name": "DaddyTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1144EDea5b3E403469d920006e061b501A845804",
+      "symbol": "DOGE",
+      "name": "TheFableOfDoge",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17301,
-    "minor": 17301,
+    "major": 17302,
+    "minor": 17302,
     "patch": 86
   }
 }
