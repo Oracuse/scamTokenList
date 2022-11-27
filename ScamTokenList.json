@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0D83A1fBc4c212754Dd1e453C67Fd5F79A2DB6d5",
-      "symbol": "TSUKATWO",
-      "name": "TSUKA20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x310ab7831aefaaBeAD0bd14F711d4ce5ac5bfF56",
       "symbol": "LF8",
       "name": "Elevate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf42842D98ac74d886D572dCDBF747c0DfDa75d0b",
+      "symbol": "MK",
+      "name": "MemeKulture",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17407,
-    "minor": 17407,
+    "major": 17408,
+    "minor": 17408,
     "patch": 86
   }
 }
