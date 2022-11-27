@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc2f866627864406bDf557d59d410391c600B72d5",
-      "symbol": "ZAI",
-      "name": "ZAIMUSHO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x590EDd121ce94AF7FC192Fa10D4A638d5F0aD25b",
       "symbol": "B63P",
       "name": "B63P",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x081D731a3448094F972977e9551A0cA2175CE964",
+      "symbol": "PSWAP",
+      "name": "PrimeSwap",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17328,
-    "minor": 17328,
+    "major": 17329,
+    "minor": 17329,
     "patch": 86
   }
 }
