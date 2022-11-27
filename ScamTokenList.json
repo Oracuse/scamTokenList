@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x21745F22c4E39F68E27634762A243B2Ae07e8A98",
-      "symbol": "ATSUKA",
-      "name": "AlphaTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x985DF5f0d874B8ba27bAc94eDB148FEC794e3B3A",
       "symbol": "ELEMENT",
       "name": "ElementsofTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcEB7AAEdF71d5e8A186896CdcD1923911e4360de",
+      "symbol": "DRG",
+      "name": "Drogon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17316,
-    "minor": 17316,
+    "major": 17317,
+    "minor": 17317,
     "patch": 86
   }
 }
