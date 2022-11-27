@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC522556C4DDCb2EFD07a64bc686D546683a02605",
-      "symbol": "SAAS",
-      "name": "SAASProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD42432729A619D4b90695922c0b448983b10FE2c",
       "symbol": "DRAGONBANK",
       "name": "BankofDejitaru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a63a945F1c71350bA3e8f17cA4aE978E18cB2D3",
+      "symbol": "WELP",
+      "name": "WELP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17325,
-    "minor": 17325,
+    "major": 17326,
+    "minor": 17326,
     "patch": 86
   }
 }
