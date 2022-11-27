@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb544653908cB9347154E617B86400903E05EB0D1",
-      "symbol": "SHINGEKI",
-      "name": "Shingeki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22a2a29DB15E96717F19848cBD962D1f54B773Ba",
       "symbol": "CINU",
       "name": "CRAMERInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28F19cF9ECE7dC9c0B086939Da4081A7bA27d0D3",
+      "symbol": "DP",
+      "name": "Dragonprotocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17392,
-    "minor": 17392,
+    "major": 17393,
+    "minor": 17393,
     "patch": 86
   }
 }
