@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25Ec156868b1F51ff376e0227C5e8407F08F8865",
-      "symbol": "MEGATSUKA",
-      "name": "MegaTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x651746650d272d05B3Bef5CeFF31D0a8A3E65a4F",
       "symbol": "LILTSUKA",
       "name": "Little",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8Aee4eda2C04d7fc54BeEB9686902Ca082935d4",
+      "symbol": "HAKU",
+      "name": "TheFableofHakuRyu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17300,
-    "minor": 17300,
+    "major": 17301,
+    "minor": 17301,
     "patch": 86
   }
 }
