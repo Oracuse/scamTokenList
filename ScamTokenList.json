@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1B03771AB9f74a1A790958fAfe9479cAf9966916",
-      "symbol": "TSUKA",
-      "name": "AKUST",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3cD50d3C4B219463e997bA56DF1606e9e8d95eF3",
       "symbol": "PUZZINU",
       "name": "PuzzInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01ac34B6dF9561501a0f61A537f3901C8d9a1811",
+      "symbol": "DOBBY",
+      "name": "SnoopDobbyDobb",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17404,
-    "minor": 17404,
+    "major": 17405,
+    "minor": 17405,
     "patch": 86
   }
 }
