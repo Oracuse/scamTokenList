@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA84b7bCe5019Bb2AFe395B7db4dFe54fdfac35DB",
-      "symbol": "TSUBURN",
-      "name": "TsukaBurn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x67776f14E5E9e7845e33fB0c2a3C709d259D01EB",
       "symbol": "ERA",
       "name": "ERA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x287b59Bce6a59766eCcD6523C971590B243F4C0E",
+      "symbol": "SILVER",
+      "name": "DragonDollar",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17380,
-    "minor": 17380,
+    "major": 17381,
+    "minor": 17381,
     "patch": 86
   }
 }
