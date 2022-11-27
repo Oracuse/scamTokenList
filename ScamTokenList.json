@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x47f69FB9CCB7389DfF6f36f1317254e7ff5d5CA4",
-      "symbol": "TOFU",
-      "name": "Tofukozo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1D81faDDb8298eD5Ceb895673A98D062B892028a",
       "symbol": "VVC3",
       "name": "VVC3",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8CBcb1A0fabF90347cA3F14747c701C40D7B9d27",
+      "symbol": "DRAGO",
+      "name": "Dragonite",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17350,
-    "minor": 17350,
+    "major": 17351,
+    "minor": 17351,
     "patch": 86
   }
 }
