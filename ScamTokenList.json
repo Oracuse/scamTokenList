@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8Db09E2276aEc67BF3b0a582B6c241e739Fb3ECF",
-      "symbol": "TEST",
-      "name": "TEST",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB8342E96D5297a65825B7C25aF1159a63F52fA96",
       "symbol": "BABYSHIB",
       "name": "BabyShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a5b0dFe0844043060c584e89c8F91F170f276B2",
+      "symbol": "BFT",
+      "name": "BelgiumFanToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17364,
-    "minor": 17364,
+    "major": 17365,
+    "minor": 17365,
     "patch": 86
   }
 }
