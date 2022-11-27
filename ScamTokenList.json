@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0DeAa3d09C9dD743a49CEADb469C606DD3033746",
-      "symbol": "SPN",
-      "name": "Spacen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA84b7bCe5019Bb2AFe395B7db4dFe54fdfac35DB",
       "symbol": "TSUBURN",
       "name": "TsukaBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFde1F8fF3cFFf7693adC96e6b20d0D203972924c",
+      "symbol": "COACH",
+      "name": "CoachInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17379,
-    "minor": 17379,
+    "major": 17380,
+    "minor": 17380,
     "patch": 86
   }
 }
