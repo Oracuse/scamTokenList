@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7bbE1F59F24bBFE27ff721394Ac9e62c0CBe9A2B",
-      "symbol": "STATE20",
-      "name": "NewWorldOrder20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8Db09E2276aEc67BF3b0a582B6c241e739Fb3ECF",
       "symbol": "TEST",
       "name": "TEST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42d89bA81f3aAfAfcE29620DF663055B4C070617",
+      "symbol": "HAKU",
+      "name": "SpiritAway",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17363,
-    "minor": 17363,
+    "major": 17364,
+    "minor": 17364,
     "patch": 86
   }
 }
