@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x259a29Eb1a156cd7793a3F0efcF0cbA910249DF6",
-      "symbol": "FIOLE",
-      "name": "Fiole",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3Cf19Ba410FA07e20854e8520227f756c8Afd655",
       "symbol": "STSUKA",
       "name": "ShibaTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBF161251201e5bc72c9206f042784f61861C18D1",
+      "symbol": "MDR",
+      "name": "MicroDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17410,
-    "minor": 17410,
+    "major": 17411,
+    "minor": 17411,
     "patch": 86
   }
 }
