@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7869BCD2D3a631a46Fe9D4Dd6562f2F89b596D9f",
-      "symbol": "AUTO",
-      "name": "Automated",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71177817F9095c0e55bcA382A557B886d8846Be4",
       "symbol": "MII",
       "name": "MOONII",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7552bDb9B2aE004238C82c3218D9bf1e107E6348",
+      "symbol": "MEDUSA",
+      "name": "MEDUSA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17389,
-    "minor": 17389,
+    "major": 17390,
+    "minor": 17390,
     "patch": 86
   }
 }
