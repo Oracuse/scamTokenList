@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc2Bd5CAf80B76BEC1679cE57cb78023a3ff3D736",
-      "symbol": "TSUKACULT",
-      "name": "TsukaCult",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x962833874aD68dd1549D21Bf3de6a3b344B65d7E",
       "symbol": "DREGAN",
       "name": "DragonDegan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79e3261c3d852Dec9Aa12C8A62FE13dC2B87997f",
+      "symbol": "BLUEDRAGON",
+      "name": "BlueEyesWhiteDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17412,
-    "minor": 17412,
+    "major": 17413,
+    "minor": 17413,
     "patch": 86
   }
 }
