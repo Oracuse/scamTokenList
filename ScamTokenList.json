@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9Cc497E37FaeEA29902BE8F0F9C483b79E41700e",
-      "symbol": "TSUKAMOON",
-      "name": "TsukaMoon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa5DeB86CA799DF9E05E872A7FBf3648Fc75D3512",
       "symbol": "KISARAGI",
       "name": "Kisaragi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB46F82E6EB74ae14256278b1aC2c2B30D2fDEDc6",
+      "symbol": "DC",
+      "name": "DragonChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17297,
-    "minor": 17297,
+    "major": 17298,
+    "minor": 17298,
     "patch": 86
   }
 }
