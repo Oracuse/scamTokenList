@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1D81faDDb8298eD5Ceb895673A98D062B892028a",
-      "symbol": "VVC3",
-      "name": "VVC3",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7eBfFDAcf99c8D1F20FEC252b441D12F64D8e975",
       "symbol": "0066",
       "name": "0066",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41358f00010B9581D3CfD386B57aA4a7dFa893CD",
+      "symbol": "XMAS",
+      "name": "XMASETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17351,
-    "minor": 17351,
+    "major": 17352,
+    "minor": 17352,
     "patch": 86
   }
 }
