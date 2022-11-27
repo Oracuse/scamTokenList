@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2E2eCcd8350575e1FA5094ad6959AAd874ac4423",
-      "symbol": "SHIBTSUKA",
-      "name": "ShibaTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5478E47efDc740da544BE75511cf1E75F48011bc",
       "symbol": "NAUGHTYTSUKA",
       "name": "NaughtyTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0082C4C1B34420Ca233c9d3324f8b269D9e9414C",
+      "symbol": "AOTD",
+      "name": "AuraOfTheDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17303,
-    "minor": 17303,
+    "major": 17304,
+    "minor": 17304,
     "patch": 86
   }
 }
