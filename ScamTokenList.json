@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x64683051dC3f8B5DdB5B59959c41F0Bc77dC34e7",
-      "symbol": "ALPHA",
-      "name": "AlphaTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0b0e5c050BF95659717E3EE313fa0BE16b46885a",
       "symbol": "MVPX",
       "name": "MVPLabs",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBe03cb843DD28071322C6d4d22dca39B210FEF52",
+      "symbol": "FELON",
+      "name": "FABLEOFELON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17311,
-    "minor": 17311,
+    "major": 17312,
+    "minor": 17312,
     "patch": 86
   }
 }
