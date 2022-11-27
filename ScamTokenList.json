@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1B0DDae09aAD046374E940791c0f7174734D0670",
-      "symbol": "YORI",
-      "name": "JourneyofYori",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2EeF45FFdF1779536cbEd84B1b9E47D8d0359054",
       "symbol": "SAAS",
       "name": "SAASProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75A993332DD1BBdeD91eb85AA598bB8c04844dbe",
+      "symbol": "KURAOKAMI",
+      "name": "Kuraokami",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17368,
-    "minor": 17368,
+    "major": 17369,
+    "minor": 17369,
     "patch": 86
   }
 }
