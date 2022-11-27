@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x701184E1DEdd981882B9FB089Eb06e64557229B3",
-      "symbol": "STCS",
-      "name": "Satoshilsland",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x64683051dC3f8B5DdB5B59959c41F0Bc77dC34e7",
       "symbol": "ALPHA",
       "name": "AlphaTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9D33Cb6319B9Db49A20ce6A46Db2B985Ab255cB",
+      "symbol": "SATOSHI",
+      "name": "TheFableOfSatoshi",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17310,
-    "minor": 17310,
+    "major": 17311,
+    "minor": 17311,
     "patch": 86
   }
 }
