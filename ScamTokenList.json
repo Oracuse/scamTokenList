@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x435f5B64251F095b7Bd3DB9E0B340603B804f8Fd",
-      "symbol": "TSUKARYU",
-      "name": "TsukaRyu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1c53A0769aA035a094E1b43991e179a674391D77",
       "symbol": "LASTTSUKA",
       "name": "LastTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07ca76e4FfD082ae4667C5604a2A896D7D409d70",
+      "symbol": "CLOC",
+      "name": "ClockClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17385,
-    "minor": 17385,
+    "major": 17386,
+    "minor": 17386,
     "patch": 86
   }
 }
