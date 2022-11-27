@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xABda3176402F80Ea1701B0e15A00DA2BA404037e",
-      "symbol": "BABYCRAM",
-      "name": "BabyCRAMER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1B03771AB9f74a1A790958fAfe9479cAf9966916",
       "symbol": "TSUKA",
       "name": "AKUST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x489bDD0D93cED69B4FfBA664CF6FCc7A85e2ccF8",
+      "symbol": "HYDRA",
+      "name": "LernaeanHydra",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17403,
-    "minor": 17403,
+    "major": 17404,
+    "minor": 17404,
     "patch": 86
   }
 }
