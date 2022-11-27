@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2F0F865fFE00E022A8363226Ac2Cb71A7Bf9FF63",
-      "symbol": "ALPHA",
-      "name": "AlphaTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21745F22c4E39F68E27634762A243B2Ae07e8A98",
       "symbol": "ATSUKA",
       "name": "AlphaTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0b53E47c93323c8f0BD06672eb00CF30cA7C3a1",
+      "symbol": "HEAL",
+      "name": "HealLink",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17315,
-    "minor": 17315,
+    "major": 17316,
+    "minor": 17316,
     "patch": 86
   }
 }
