@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0b0e5c050BF95659717E3EE313fa0BE16b46885a",
-      "symbol": "MVPX",
-      "name": "MVPLabs",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x57cDC3F86C09641418383305af44A1af4Ed77414",
       "symbol": "DRAGNEEL",
       "name": "RyuJin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6F622672C5279F1E0eF9257f0AFC2b3AFD1B1955",
+      "symbol": "LIKES",
+      "name": "LikesDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17312,
-    "minor": 17312,
+    "major": 17313,
+    "minor": 17313,
     "patch": 86
   }
 }
