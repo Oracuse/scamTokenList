@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x929537cedcBd51d248c158d9948Dc787F4096725",
-      "symbol": "TSUKABURN",
-      "name": "DejitaruTsukaBurn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25Ec156868b1F51ff376e0227C5e8407F08F8865",
       "symbol": "MEGATSUKA",
       "name": "MegaTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x094BD575255C6a57e050c22a9FA76647d8b2F779",
+      "symbol": "EGTC",
+      "name": "ElonGoatClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17299,
-    "minor": 17299,
+    "major": 17300,
+    "minor": 17300,
     "patch": 86
   }
 }
