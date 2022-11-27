@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfcFFD8a7508eCC6527d2b013129b11e4A757D134",
-      "symbol": "MATOS",
-      "name": "MatosCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb544653908cB9347154E617B86400903E05EB0D1",
       "symbol": "SHINGEKI",
       "name": "Shingeki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60b5b0edD149eb61c339986dBC93b349B083B0fE",
+      "symbol": "EXALTED",
+      "name": "Exalted",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17391,
-    "minor": 17391,
+    "major": 17392,
+    "minor": 17392,
     "patch": 86
   }
 }
