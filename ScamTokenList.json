@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1B25bA8d0dc405474cCE96e3361B6c01B7AB6F30",
-      "symbol": "MMP6",
-      "name": "MMP",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x47f69FB9CCB7389DfF6f36f1317254e7ff5d5CA4",
       "symbol": "TOFU",
       "name": "Tofukozo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6695dC08AbB39E0a11328b233624658355a71d80",
+      "symbol": "SD",
+      "name": "SpaceDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17349,
-    "minor": 17349,
+    "major": 17350,
+    "minor": 17350,
     "patch": 86
   }
 }
