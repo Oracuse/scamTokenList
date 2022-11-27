@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x71177817F9095c0e55bcA382A557B886d8846Be4",
-      "symbol": "MII",
-      "name": "MOONII",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfcFFD8a7508eCC6527d2b013129b11e4A757D134",
       "symbol": "MATOS",
       "name": "MatosCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64B89AA08A1d5841421ec76A0F16E0A3C2Cac998",
+      "symbol": "PINKB",
+      "name": "PinkBanana",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17390,
-    "minor": 17390,
+    "major": 17391,
+    "minor": 17391,
     "patch": 86
   }
 }
