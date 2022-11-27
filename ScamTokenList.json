@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x614592C812D730f37373b5D8b0d772CCE3B58761",
-      "symbol": "TEST",
-      "name": "TEST",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7bbE1F59F24bBFE27ff721394Ac9e62c0CBe9A2B",
       "symbol": "STATE20",
       "name": "NewWorldOrder20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3048769b816e556832e60eEAC0daCb2E376D38Bb",
+      "symbol": "FTT",
+      "name": "FableoftheTwitter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17362,
-    "minor": 17362,
+    "major": 17363,
+    "minor": 17363,
     "patch": 86
   }
 }
