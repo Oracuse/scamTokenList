@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5478E47efDc740da544BE75511cf1E75F48011bc",
-      "symbol": "NAUGHTYTSUKA",
-      "name": "NaughtyTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x427243Db19E19690096c51EaEa006D7bC2FBe85E",
       "symbol": "BUSDT",
       "name": "BabyUSDT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6eA676f51CBe0d11C9814F25203eEd22B545e5f7",
+      "symbol": "GOAT",
+      "name": "GoatProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17304,
-    "minor": 17304,
+    "major": 17305,
+    "minor": 17305,
     "patch": 86
   }
 }
