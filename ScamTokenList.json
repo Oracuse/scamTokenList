@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67aC4AE3c15FED53d50D87Bec272180c0306C00F",
-      "symbol": "TSUKAREUM",
-      "name": "Tsukareum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBbE144507282096272a3C64b5a50FE584900eD53",
       "symbol": "FLOGAMI",
       "name": "FLOKIGAMI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC2A77FdeA7B4C29861755A7738350E43B2ca55bc",
+      "symbol": "BLUR",
+      "name": "BlurCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17398,
-    "minor": 17398,
+    "major": 17399,
+    "minor": 17399,
     "patch": 86
   }
 }
