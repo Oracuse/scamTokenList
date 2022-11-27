@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc3876cAF0F4133BDd28C39a6a78e179512080d46",
-      "symbol": "NAZUKE",
-      "name": "Nazuke",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB67C8409cB93fEa5f028DC2aF75c998B66F80663",
       "symbol": "SAAS",
       "name": "SAASProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8368FB57be2fc7f278a5c534A194bfF2ECfEf1f4",
+      "symbol": "BABIES",
+      "name": "BabyBabyToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17414,
-    "minor": 17414,
+    "major": 17415,
+    "minor": 17415,
     "patch": 86
   }
 }
