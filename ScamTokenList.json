@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF395dBE49b29B8E0bb82C52b239Bc5D8b9cc5428",
-      "symbol": "COPY",
-      "name": "stop",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0edC5aC3DA3df2E4643aca1A777cA9Eb6656117a",
       "symbol": "MOTOKO",
       "name": "MotokoKusanagi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ff7C0396b866Eb6d05D8f7180667A611c9eD033",
+      "symbol": "POD",
+      "name": "ParadigmOfChads",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17345,
-    "minor": 17345,
+    "major": 17346,
+    "minor": 17346,
     "patch": 86
   }
 }
