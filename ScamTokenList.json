@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbc9FB823821b51fD0A5dE7e0052De91Bf2A57586",
-      "symbol": "CASA",
-      "name": "Casablanca",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x52A8e71Ab40d1b278d60e33ae1c1135c9Ff3F592",
       "symbol": "OURSECRET",
       "name": "OurSecret",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6eD9A9c63cC603ce9e63895ccd3E6f6a5CB71A06",
+      "symbol": "BELLS",
+      "name": "JINGLE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17539,
-    "minor": 17539,
+    "major": 17540,
+    "minor": 17540,
     "patch": 86
   }
 }
