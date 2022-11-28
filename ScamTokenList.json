@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7d45DC2A02a6cD08C1Ed60F75AE523D4F4154EBD",
-      "symbol": "WDE",
-      "name": "WhiteDragonETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF096D2ce4b65BFd777934B84C2705b7Bb6B5ec34",
       "symbol": "BABYSTATE",
       "name": "NewWorldBaby",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x068Be90c2be1e2cc3B39A0fA5d0Ee7022A23848b",
+      "symbol": "BFPRO",
+      "name": "BlockFiProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17527,
-    "minor": 17527,
+    "major": 17528,
+    "minor": 17528,
     "patch": 86
   }
 }
