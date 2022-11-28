@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFe9030739AAEdd6B575C68542999F5eDc5Ae7Fa4",
-      "symbol": "STSUKA",
-      "name": "TheSunDwagon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x219E702779eaa4E59B07adee27eE7a99dfF5119D",
       "symbol": "BABYHIVE",
       "name": "BabyHive",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f41D9e5471DBE45048a8D79Bf2015f1DEa51950",
+      "symbol": "PYRO",
+      "name": "PYROmatic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17442,
-    "minor": 17442,
+    "major": 17443,
+    "minor": 17443,
     "patch": 86
   }
 }
