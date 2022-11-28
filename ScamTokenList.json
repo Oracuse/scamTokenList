@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFd2FB6d8AA4B78717e6C96FdF22e9887907b659b",
-      "symbol": "KYU",
-      "name": "KyuubiInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x39e811659Ade09743c3f60e5C7973f9B0F596e0F",
       "symbol": "NIGISUKA",
       "name": "NigihayamiTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4964f7dF96dc4aF3d9D0967d3D81e703b7b48A83",
+      "symbol": "POS",
+      "name": "ProofofSpeech",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17524,
-    "minor": 17524,
+    "major": 17525,
+    "minor": 17525,
     "patch": 86
   }
 }
