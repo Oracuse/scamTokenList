@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x01cB2E15287D737B6f4096989417Df915F91fEF0",
-      "symbol": "GRAM",
-      "name": "CryptoGram",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb4906f2C55e0AeB96acd8A61923709b02Bc2858A",
       "symbol": "TSUKASA",
       "name": "TSUKASA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0810C7D11c2C82345B14EB0770E23B92Ec67A572",
+      "symbol": "ADT",
+      "name": "ADRAGONSTALE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17426,
-    "minor": 17426,
+    "major": 17427,
+    "minor": 17427,
     "patch": 86
   }
 }
