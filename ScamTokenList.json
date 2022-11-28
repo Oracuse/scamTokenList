@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc3655D58f33e3b934AE681426AC1f6758dA8facc",
-      "symbol": "FAMILY",
-      "name": "TsukaFamily",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0041fB383081576F9750c5a9B507180992e1C5DA",
       "symbol": "GMI20",
       "name": "GemInu20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x590619F44e1550CccD6F7778aE73947050Aec22B",
+      "symbol": "BARC",
+      "name": "BluArctic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17484,
-    "minor": 17484,
+    "major": 17485,
+    "minor": 17485,
     "patch": 86
   }
 }
