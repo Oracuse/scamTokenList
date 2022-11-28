@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5ff255b7D64Fddee6D69DeC49E0f004005F7fC7F",
-      "symbol": "PONZU",
-      "name": "PonzuSauce",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5d89113062FAf9070ACf1D1092Ec5Ab096052026",
       "symbol": "TSUKADA",
       "name": "TsukadaIsland",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8cc5824b81eBB28D3A22A01bb626D7EbD903c835",
+      "symbol": "FOXE",
+      "name": "FoxESwap",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17491,
-    "minor": 17491,
+    "major": 17492,
+    "minor": 17492,
     "patch": 86
   }
 }
