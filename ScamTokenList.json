@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x248E6489963b74276295707B8Dc8C3f232bDfBE6",
-      "symbol": "XMEN",
-      "name": "XMen",
-      "decimals": 0,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x100C90C2eb2eCDB2AF42B218B6faCf615C3E9d9B",
       "symbol": "CHON2",
       "name": "Khon2u",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x093b338005628045A78550691c5e947aF8c604dc",
+      "symbol": "APPLC",
+      "name": "AppleClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17497,
-    "minor": 17497,
+    "major": 17498,
+    "minor": 17498,
     "patch": 86
   }
 }
