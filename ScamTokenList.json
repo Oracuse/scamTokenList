@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd8a702ceD5cb94be17260C91fdCF4C432fB830B6",
-      "symbol": "FINU",
-      "name": "FIFAINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf95cEF95901647C1715e3c7bfA4E8104FF4fa799",
       "symbol": "MOTLEYFOOL",
       "name": "MOTLEYFOOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA348B2c945Edf072B02da30562a01005893Db40f",
+      "symbol": "BLACK",
+      "name": "Blackhat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17529,
-    "minor": 17529,
+    "major": 17530,
+    "minor": 17530,
     "patch": 86
   }
 }
