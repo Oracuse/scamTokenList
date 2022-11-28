@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x52A8e71Ab40d1b278d60e33ae1c1135c9Ff3F592",
-      "symbol": "OURSECRET",
-      "name": "OurSecret",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6A0697AD8E0B8BE0934F76eaf8b05Fc1f15A6fF8",
       "symbol": "KUMATSU",
       "name": "KumaTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x527587870D7805478a01B5F280078e395587f226",
+      "symbol": "EGGS",
+      "name": "Shyreggs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17540,
-    "minor": 17540,
+    "major": 17541,
+    "minor": 17541,
     "patch": 86
   }
 }
