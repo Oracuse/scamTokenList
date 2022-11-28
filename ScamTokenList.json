@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6fE0fFCa7E97b5f3e211b55F2c823Ac99e64D7F1",
-      "symbol": "TREEFINANCE",
-      "name": "TREE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc0c99729fae5221ac4fbBc9fA87dA40501Fb9bDE",
       "symbol": "ZBCZ",
       "name": "ZebecProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1cCb11c0A2B6E9518F04315380D015421890e2Bc",
+      "symbol": "DINO",
+      "name": "Dinoverse",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17461,
-    "minor": 17461,
+    "major": 17462,
+    "minor": 17462,
     "patch": 86
   }
 }
