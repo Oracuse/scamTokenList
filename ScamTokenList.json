@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc881a2457912b76EF1f40fbAB40293d4D55236C8",
-      "symbol": "SHIBKINAMI",
-      "name": "ShibKinami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaD81d3917339C6Da2496E6E6BAEFd5b3EB53F106",
       "symbol": "DESU",
       "name": "DejitaruSenju",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB2bD7746FF79d5f100A7B1406d9ebd5f980Ba489",
+      "symbol": "PLAYER",
+      "name": "FIFAPlayer",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17499,
-    "minor": 17499,
+    "major": 17500,
+    "minor": 17500,
     "patch": 86
   }
 }
