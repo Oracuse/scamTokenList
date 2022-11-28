@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x35752e5c92bABfaE131094adE40DC197Be6e6aD2",
-      "symbol": "KANJURO",
-      "name": "Kanjuro",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7c2dbbf1B556E9EE5BDb2452D15ad8EcF7759114",
       "symbol": "WCI",
       "name": "WORLDCUPINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFcD709bac1AC5c4B5A5cF59a66A46415BF97f9bB",
+      "symbol": "IINU",
+      "name": "InflationInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17466,
-    "minor": 17466,
+    "major": 17467,
+    "minor": 17467,
     "patch": 86
   }
 }
