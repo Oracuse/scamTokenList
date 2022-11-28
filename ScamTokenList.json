@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF096D2ce4b65BFd777934B84C2705b7Bb6B5ec34",
-      "symbol": "BABYSTATE",
-      "name": "NewWorldBaby",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd8a702ceD5cb94be17260C91fdCF4C432fB830B6",
       "symbol": "FINU",
       "name": "FIFAINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbE605aaFD1775D7b4090572E08cA26972368E65E",
+      "symbol": "BYOB",
+      "name": "BeYourOwnBank",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17528,
-    "minor": 17528,
+    "major": 17529,
+    "minor": 17529,
     "patch": 86
   }
 }
