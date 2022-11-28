@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD122BbE3468e3C1BC4815453Ce2bb30aC2a27593",
-      "symbol": "SAPRO",
-      "name": "SAFEProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x906Cc50A7523D80FF5544474F668AA2d28046cC0",
       "symbol": "MCRAMER",
       "name": "MiniCramer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1E8B4719f870225ab5A5c1292dF50cD529B4760",
+      "symbol": "WETHC",
+      "name": "WETHCLASSIC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17471,
-    "minor": 17471,
+    "major": 17472,
+    "minor": 17472,
     "patch": 86
   }
 }
