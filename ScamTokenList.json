@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a2B5e15A35Dfaf18EB059811c7597865991aEA8",
-      "symbol": "HANAMI",
-      "name": "HanamiTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4cde1d898A0f04398E755d335f64B142E09e6f64",
       "symbol": "TSUBURN",
       "name": "BurnDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a769AB5FeC862Cb83743Ec7C19d38cc0668635C",
+      "symbol": "BX",
+      "name": "BULLETX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17422,
-    "minor": 17422,
+    "major": 17423,
+    "minor": 17423,
     "patch": 86
   }
 }
