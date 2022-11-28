@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc0c99729fae5221ac4fbBc9fA87dA40501Fb9bDE",
-      "symbol": "ZBCZ",
-      "name": "ZebecProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2CF61a630aB445Ef1aF90FdB161D1873f6091154",
       "symbol": "KAIDA",
       "name": "DejitaruKaida",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfE6e675642782eEB1E186F9Bc71a4CD744DF0ee9",
+      "symbol": "LIVESEY",
+      "name": "ChadLivesey",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17462,
-    "minor": 17462,
+    "major": 17463,
+    "minor": 17463,
     "patch": 86
   }
 }
