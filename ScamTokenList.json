@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF22f83644d171Da7c19FC283db4A078380dFc5f6",
-      "symbol": "BANKTSUKA",
-      "name": "BankofTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x67cfc7606a0CBCc109f6d4f8c54bfC211d59Fd36",
       "symbol": "UNKEI",
       "name": "UnkeiBusshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf403382AfdDA04112Fcc1Ac2de08dC5d4Bc106E2",
+      "symbol": "DINU",
+      "name": "DevInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17440,
-    "minor": 17440,
+    "major": 17441,
+    "minor": 17441,
     "patch": 86
   }
 }
