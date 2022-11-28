@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x914E111A952F7C4671D139355D05939fB805F686",
-      "symbol": "KOO",
-      "name": "AHuntersDeath",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7d45DC2A02a6cD08C1Ed60F75AE523D4F4154EBD",
       "symbol": "WDE",
       "name": "WhiteDragonETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x549Bae4bF9F81c2C9dAbD9d9cB32490D574A028c",
+      "symbol": "SANTA",
+      "name": "SantaClaus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17526,
-    "minor": 17526,
+    "major": 17527,
+    "minor": 17527,
     "patch": 86
   }
 }
