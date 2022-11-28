@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6B5DDe2c94EcC10C93e8A44288bEFAD2a89bd657",
-      "symbol": "BFIGHT",
-      "name": "BARFIGHT",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB4D73B82198188c85CA83B82a370a646eb92F98A",
       "symbol": "MTSUKA",
       "name": "MotherofTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7DBfa8A82a2CB5Bf012eF59247D5C93911D72F22",
+      "symbol": "TYCHE",
+      "name": "Fortuna",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17508,
-    "minor": 17508,
+    "major": 17509,
+    "minor": 17509,
     "patch": 86
   }
 }
