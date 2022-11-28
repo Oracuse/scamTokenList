@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBeC5938FD565CbEc72107eE39CdE1bc78049537d",
-      "symbol": "SWING",
-      "name": "SwingDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2b8beC81F648f327B7d8278EE74932845cDa3d19",
       "symbol": "RIPGWC",
       "name": "SceptreXC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x781D66b62419C24fC93eaf81E85D48b12977bD42",
+      "symbol": "VGRD",
+      "name": "VanguardInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17536,
-    "minor": 17536,
+    "major": 17537,
+    "minor": 17537,
     "patch": 86
   }
 }
