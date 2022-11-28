@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x752853B15D036e5358A2369a867aFBd2525E14ed",
-      "symbol": "TSUC",
-      "name": "TsukaCommunity",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x61C1D95eBe3a77542C0A835AC6A9194fA6c2fd78",
       "symbol": "YUREI",
       "name": "Yurei",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d7022D4FCdD9ae2c1448b0d691553dca8980f76",
+      "symbol": "DROGON",
+      "name": "Drogon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17495,
-    "minor": 17495,
+    "major": 17496,
+    "minor": 17496,
     "patch": 86
   }
 }
