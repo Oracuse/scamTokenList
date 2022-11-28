@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17d6aA8F0e324e48590e6812429477006d7f617e",
-      "symbol": "COST",
-      "name": "cryptosplit",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0f511101EB1967893ae8b51A417A3d73529E13A9",
       "symbol": "CHEESETSUKA",
       "name": "CheeseTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x852688AdfF3443260a420c6c74b1B70E55Bd8d6a",
+      "symbol": "KESHINU",
+      "name": "KokeshiInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17430,
-    "minor": 17430,
+    "major": 17431,
+    "minor": 17431,
     "patch": 86
   }
 }
