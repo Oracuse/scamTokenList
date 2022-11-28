@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe0080014DdF814B1b3B5E495cde91f84df955bce",
-      "symbol": "LORDTSUKA",
-      "name": "DwagonLord",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a2B5e15A35Dfaf18EB059811c7597865991aEA8",
       "symbol": "HANAMI",
       "name": "HanamiTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1407DCE835Ea49e065CaD05fef01A4955f0613d8",
+      "symbol": "IQ",
+      "name": "EvilGeniuses",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17421,
-    "minor": 17421,
+    "major": 17422,
+    "minor": 17422,
     "patch": 86
   }
 }
