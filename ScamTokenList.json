@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Ca8471043b3dd404b0e668eb4e2d4F9cF792c5B",
-      "symbol": "TEST",
-      "name": "TEST",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf3242b99087A97d636F1dAB74A79d80C188A42B9",
       "symbol": "TEST",
       "name": "CopyThis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB3a6b1a3cF33144E5bb1d5080F1E07816c93fa0D",
+      "symbol": "SPAINWC",
+      "name": "SpainWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17452,
-    "minor": 17452,
+    "major": 17453,
+    "minor": 17453,
     "patch": 86
   }
 }
