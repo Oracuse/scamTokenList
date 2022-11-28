@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0b4dbEEe2FFBf6Fe97fD5aE199A98a78C98d5Cb5",
-      "symbol": "WAAA",
-      "name": "WeAreAllAnon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa668b9Dc834e0ccf91899cFda06fEaF5140d924c",
       "symbol": "OBLOCK",
       "name": "OnyxBlock",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80862CfBc2dA94fA83118F90245A847482Ee2971",
+      "symbol": "FOMO",
+      "name": "FOMOToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17513,
-    "minor": 17513,
+    "major": 17514,
+    "minor": 17514,
     "patch": 86
   }
 }
