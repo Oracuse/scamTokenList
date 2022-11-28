@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76A9A0C64d9d650d8613216C28Ea7Ef61F8D64be",
-      "symbol": "TEST",
-      "name": "TEST",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3Ca8471043b3dd404b0e668eb4e2d4F9cF792c5B",
       "symbol": "TEST",
       "name": "TEST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5ae18E054B9F05D2FC79f6BFf4d812AB2525ad5",
+      "symbol": "CD",
+      "name": "CyberDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17451,
-    "minor": 17451,
+    "major": 17452,
+    "minor": 17452,
     "patch": 86
   }
 }
