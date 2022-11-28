@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7104dCF974EDFf201F68171b9c26e82Ce9FEBfe5",
-      "symbol": "OSF",
-      "name": "OSFEditions",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x35752e5c92bABfaE131094adE40DC197Be6e6aD2",
       "symbol": "KANJURO",
       "name": "Kanjuro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x629ff177CE30fC33786b2f113D7C2E0951c5035a",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17465,
-    "minor": 17465,
+    "major": 17466,
+    "minor": 17466,
     "patch": 86
   }
 }
