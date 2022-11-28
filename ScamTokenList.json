@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5661653578629bE4C73a758719Ae67E8eb691CeB",
-      "symbol": "PIKKA",
-      "name": "PikkaInu20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0b4dbEEe2FFBf6Fe97fD5aE199A98a78C98d5Cb5",
       "symbol": "WAAA",
       "name": "WeAreAllAnon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e0c3fEEA9e17474f269d17866796Bd7341c90fe",
+      "symbol": "ONEWAY",
+      "name": "TheOneWay",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17512,
-    "minor": 17512,
+    "major": 17513,
+    "minor": 17513,
     "patch": 86
   }
 }
