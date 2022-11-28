@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x219E702779eaa4E59B07adee27eE7a99dfF5119D",
-      "symbol": "BABYHIVE",
-      "name": "BabyHive",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51D43B6ae869940C61C415660A73cFE85a6a03fa",
       "symbol": "PEPENOBI",
       "name": "Pepenobi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBe4f0C1615bE701d11E5C60137Dd594bEdC2Df29",
+      "symbol": "MCC",
+      "name": "MedCareCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17443,
-    "minor": 17443,
+    "major": 17444,
+    "minor": 17444,
     "patch": 86
   }
 }
