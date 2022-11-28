@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x906Cc50A7523D80FF5544474F668AA2d28046cC0",
-      "symbol": "MCRAMER",
-      "name": "MiniCramer",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC1E90e2B2eEa013faad356D951F88400eE8e78E3",
       "symbol": "SAPRO",
       "name": "SAFEProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb10C9Fea355Ea0d589eFB7f764D2a6a7e83Fd6d0",
+      "symbol": "KVI",
+      "name": "KiloVoltInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17472,
-    "minor": 17472,
+    "major": 17473,
+    "minor": 17473,
     "patch": 86
   }
 }
