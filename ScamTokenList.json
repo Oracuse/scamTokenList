@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF5B6F4DB88539f827D15E0D5ECCC18799e9C70A2",
-      "symbol": "LIZARD",
-      "name": "LizardTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9eB42e7e85764F26b2A69D08fd9D6d9706F7b86e",
       "symbol": "QSUKA",
       "name": "QueenofTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdD3A88EF8535Ff7b19178B735C52eA277eF25623",
+      "symbol": "DFX",
+      "name": "DeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17469,
-    "minor": 17469,
+    "major": 17470,
+    "minor": 17470,
     "patch": 86
   }
 }
