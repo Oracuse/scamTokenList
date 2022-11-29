@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15EC4B52A2A9092780a2b2Fc973FCf01F2EB9484",
-      "symbol": "RUN",
-      "name": "CatchMeIfYouKwon",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5EFDb2f4a8DF48068841fd222dc6d15C855dF2BF",
       "symbol": "JENNER",
       "name": "KylieJennerCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7552D6E88e1a1CA5180B828A1Cd1Fb866726a166",
+      "symbol": "BABYDRAGON",
+      "name": "BabyDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17645,
-    "minor": 17645,
+    "major": 17646,
+    "minor": 17646,
     "patch": 86
   }
 }
