@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8e315BCbe48626138bB62BC0f37bBA80EE5a9800",
-      "symbol": "X2Y2C",
-      "name": "X2Y2Chain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA9419FABA635A5149146a2AA414C59aE2a8795FF",
       "symbol": "BEZOS",
       "name": "BezosCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9443582096Ff584b56cA5a7e14Bc3690Aa62bA77",
+      "symbol": "FREEDOM",
+      "name": "Freedom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17652,
-    "minor": 17652,
+    "major": 17653,
+    "minor": 17653,
     "patch": 86
   }
 }
