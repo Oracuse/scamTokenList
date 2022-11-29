@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4c17e7cd5A6C0A79564131fb7701d9d39555A482",
-      "symbol": "TSUKWON",
-      "name": "TSUKADOKWON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x30Fd8dfFA292DF351C4116BFd2FD4d1015675E85",
       "symbol": "BABYETH",
       "name": "Beth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fC32dC6735e029B96b14F4ef99337bA14DF63cD",
+      "symbol": "TSUSAKA",
+      "name": "Tsusaka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17619,
-    "minor": 17619,
+    "major": 17620,
+    "minor": 17620,
     "patch": 86
   }
 }
