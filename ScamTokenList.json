@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x49Ea22B2573694848186Ca14416498DB3Bb3F71c",
-      "symbol": "WCF",
-      "name": "WorldCupFinals",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6D8A8C8a478a5BD0c4b2758601f8fd97976486C5",
       "symbol": "WCBUFFET",
       "name": "WorldCupBuffet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73C6403EDAE00096bB4cE421ca9e04C4e3413858",
+      "symbol": "TRUMP",
+      "name": "DonaldTrump",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17575,
-    "minor": 17575,
+    "major": 17576,
+    "minor": 17576,
     "patch": 86
   }
 }
