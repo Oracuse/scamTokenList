@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08371291BDce745bFEc9A540077096ED7873bB31",
-      "symbol": "SOAP",
-      "name": "SlipperyKwon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3E906729b9bD21b3742AD6b797BF2C1B9abB6177",
       "symbol": "TUNA",
       "name": "LunaTunes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A7354123d02DE2e4162a1bd7B7F903ACbFeA74C",
+      "symbol": "DBD",
+      "name": "DontBuyDragons",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17611,
-    "minor": 17611,
+    "major": 17612,
+    "minor": 17612,
     "patch": 86
   }
 }
