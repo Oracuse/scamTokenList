@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4458924C379210B2A6b11D36C50aeC91cf7b2aa2",
-      "symbol": "TSUKAFI",
-      "name": "TsukaFinance",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9bEbEc3cA123CB6dF3C1E4Be72c6853454ae64b2",
       "symbol": "TERRADOKWON",
       "name": "TerraKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16b116AecfF299692a0a17b6Ffac66D8FffFEdAC",
+      "symbol": "DXB",
+      "name": "DEXBASE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17656,
-    "minor": 17656,
+    "major": 17657,
+    "minor": 17657,
     "patch": 86
   }
 }
