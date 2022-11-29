@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x692C941f30c2C2fe7728eC601eB4b02e1eDdD348",
-      "symbol": "TEST",
-      "name": "Test",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa7339B9Aea5210116F1b17539C3A1CC8064dF49D",
       "symbol": "ABTA",
       "name": "ABT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63c815C1a60D88db955c1D88a545bdec7620ca6D",
+      "symbol": "100",
+      "name": "100DollarMillionair",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17659,
-    "minor": 17659,
+    "major": 17660,
+    "minor": 17660,
     "patch": 86
   }
 }
