@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf4Df6BFadcc2f7eD546C8278201288B6C43A96AA",
-      "symbol": "TRUMP",
-      "name": "TrumpToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeB3e9F44891B6457b1d8Ab6C9b5fea663Ba195e5",
       "symbol": "SPONGE",
       "name": "SpongeBob",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2c1fCf7E192756867BC30d0a86a6E5A1D565161B",
+      "symbol": "PUFF",
+      "name": "PuffTheMagicDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17548,
-    "minor": 17548,
+    "major": 17549,
+    "minor": 17549,
     "patch": 86
   }
 }
