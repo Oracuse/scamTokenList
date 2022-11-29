@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x759e48a78F20bD8b331f7B4F4201B3B49ed2A3Fc",
-      "symbol": "NAGAMAKI",
-      "name": "Nagamaki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEb25962C1Dc4B2E1331B87a47ec222fD55C2D992",
       "symbol": "ETHS",
       "name": "EthSocial",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63e2463F3d516C3d1B501FFC3dA2Aa19989BbF75",
+      "symbol": "MUSK",
+      "name": "TheDictator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17599,
-    "minor": 17599,
+    "major": 17600,
+    "minor": 17600,
     "patch": 86
   }
 }
