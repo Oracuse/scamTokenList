@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x01231ed8bcd7729F7eF60cbF63409D52f93bb6de",
-      "symbol": "BIDEN",
-      "name": "BIDEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0461eadD4e2ae6adA0b11E56A1EC10bd07Dd2644",
       "symbol": "JI",
       "name": "JEEPINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x547dC528a867B70aF248E2e6e468A83C80E8AF1c",
+      "symbol": "COMMUNITY",
+      "name": "CommunityToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17544,
-    "minor": 17544,
+    "major": 17545,
+    "minor": 17545,
     "patch": 86
   }
 }
