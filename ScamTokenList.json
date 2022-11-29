@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEb25962C1Dc4B2E1331B87a47ec222fD55C2D992",
-      "symbol": "ETHS",
-      "name": "EthSocial",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3e8d0D3B1289CB1948E16964f7f187D82c833cEd",
       "symbol": "TSUKA",
       "name": "NOT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D632b3352e813ba03826AD0B82Fc7882dFaD4E2",
+      "symbol": "VITALIKXBUTERIN",
+      "name": "VitalikXButerin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17600,
-    "minor": 17600,
+    "major": 17601,
+    "minor": 17601,
     "patch": 86
   }
 }
