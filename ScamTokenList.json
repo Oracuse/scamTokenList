@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3C05516Cea7b1F0650e654c466E1ae987dD95763",
-      "symbol": "WARREN",
-      "name": "BuffetCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd5f061BCf3c09afd4bfFC9fD1A884e2Ee030A111",
       "symbol": "SIM",
       "name": "MarioSimulation",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0D5dBf26babA08872f466961c2FE253E02f82a3d",
+      "symbol": "AS",
+      "name": "AncientSculpture",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17550,
-    "minor": 17550,
+    "major": 17551,
+    "minor": 17551,
     "patch": 86
   }
 }
