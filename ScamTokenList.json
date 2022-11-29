@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0461eadD4e2ae6adA0b11E56A1EC10bd07Dd2644",
-      "symbol": "JI",
-      "name": "JEEPINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA3423E68168f461F5224fb6a17ccc5cd9097A255",
       "symbol": "TTSUKA",
       "name": "TwinTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C8Da35488314Aee21D28Ec7C7FBCC6f212408c6",
+      "symbol": "VOLAT",
+      "name": "VolatileDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17545,
-    "minor": 17545,
+    "major": 17546,
+    "minor": 17546,
     "patch": 86
   }
 }
