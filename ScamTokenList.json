@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbA05a809889D258546bd230a452b692003bfa234",
-      "symbol": "DKRT",
-      "name": "DoKwonRuntogether",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4E5BBDE5306317b5C2881515B05e3AB5f1c5A7E1",
       "symbol": "UMEEU",
       "name": "Umee",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x322e0e2e8e331D17AAcc3a3Ec9F7C49381E86A7d",
+      "symbol": "CHEEZ",
+      "name": "CHEEZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17622,
-    "minor": 17622,
+    "major": 17623,
+    "minor": 17623,
     "patch": 86
   }
 }
