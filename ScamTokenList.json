@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDA648A2017d6490274787274075AcC35a3c98b69",
-      "symbol": "KWONVICT",
-      "name": "KWONVICT",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAD20E2E0E6922feFC668e9f18dF9b0341dD6e861",
       "symbol": "DRAKWON",
       "name": "DraKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Ee21A16A251e719002c1D8d5f40f869ab702025",
+      "symbol": "DRGNC",
+      "name": "DragonClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17629,
-    "minor": 17629,
+    "major": 17630,
+    "minor": 17630,
     "patch": 86
   }
 }
