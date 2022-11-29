@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3d13e0713921D58C215fC12C341D45203Fd6b14B",
-      "symbol": "BDKWON",
-      "name": "BabyDoKwonInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15EC4B52A2A9092780a2b2Fc973FCf01F2EB9484",
       "symbol": "RUN",
       "name": "CatchMeIfYouKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7147a8d6562B818e24C2a6E8e0B5304827fCf089",
+      "symbol": "DRAGONFATE",
+      "name": "DRAGONFATE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17644,
-    "minor": 17644,
+    "major": 17645,
+    "minor": 17645,
     "patch": 86
   }
 }
