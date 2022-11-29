@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0ADD8e95694e44141D6dA70b1a4150Ea47275a7",
-      "symbol": "RIKUO",
-      "name": "RIKUO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22eD7fAE35a4B7b33abb80788FCaA3481024e618",
       "symbol": "USAGI",
       "name": "SailorMoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5BDf8cE0842445aD77e8C3c5755a47799d4aac60",
+      "symbol": "FLORD",
+      "name": "FLOKIWORLD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17584,
-    "minor": 17584,
+    "major": 17585,
+    "minor": 17585,
     "patch": 86
   }
 }
