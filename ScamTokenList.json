@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x94F1E284C0627d64ddE9799A2113A797b94d25c9",
-      "symbol": "JKWON",
-      "name": "JailKwon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd8804523811aCAa9c6ACbb424f0967c28148723C",
       "symbol": "FREEKWON",
       "name": "FreeDoKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB62dFC60c26609a23Ca1da27f8879779724cD9cD",
+      "symbol": "PREDATOR",
+      "name": "Predator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17603,
-    "minor": 17603,
+    "major": 17604,
+    "minor": 17604,
     "patch": 86
   }
 }
