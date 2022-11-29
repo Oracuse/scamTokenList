@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x870b963775D8b1A7927DDeEC1e9Fe66e3A89C2e5",
-      "symbol": "FBEAN",
-      "name": "FifaBean",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDA648A2017d6490274787274075AcC35a3c98b69",
       "symbol": "KWONVICT",
       "name": "KWONVICT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x997f3F67b0584DC205F3DCC12D9c26F8a8c789F0",
+      "symbol": "CNOTES",
+      "name": "CommunityNotes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17628,
-    "minor": 17628,
+    "major": 17629,
+    "minor": 17629,
     "patch": 86
   }
 }
