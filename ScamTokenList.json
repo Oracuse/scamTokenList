@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB582705A8c8231C01824B60b81577E7A5D7ee1CF",
-      "symbol": "BPOWELL",
-      "name": "BabyPowell",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8e315BCbe48626138bB62BC0f37bBA80EE5a9800",
       "symbol": "X2Y2C",
       "name": "X2Y2Chain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46a48ACBD325283690AecFD0Df6E3982D77b41BE",
+      "symbol": "IMPORTANT",
+      "name": "FreedomProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17651,
-    "minor": 17651,
+    "major": 17652,
+    "minor": 17652,
     "patch": 86
   }
 }
