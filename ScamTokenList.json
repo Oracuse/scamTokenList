@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56cD93A3ABBa23903050dfB6FBfDf0C3742076A4",
-      "symbol": "UNRYU",
-      "name": "LuckyDragon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4EC732eF61f5eC5D5d56cf6Ba0BBc3808cFCd056",
       "symbol": "FLOKIWAMI",
       "name": "Flokiwami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xde908AD638eC3E02b1B6E4e0474d884F31488612",
+      "symbol": "MTT",
+      "name": "MoonToolsToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17634,
-    "minor": 17634,
+    "major": 17635,
+    "minor": 17635,
     "patch": 86
   }
 }
