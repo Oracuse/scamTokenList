@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3e8d0D3B1289CB1948E16964f7f187D82c833cEd",
-      "symbol": "TSUKA",
-      "name": "NOT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5b0cB2fE7bB48976AdA998ACF40fBe3c2e7BC66a",
       "symbol": "EVENTG",
       "name": "EventGuardio",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x20a48F97C1808433824BD1fa520c0C401838f758",
+      "symbol": "KIYO",
+      "name": "KiyoNFT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17601,
-    "minor": 17601,
+    "major": 17602,
+    "minor": 17602,
     "patch": 86
   }
 }
