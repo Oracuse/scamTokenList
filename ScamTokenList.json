@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66C23D1788b9551bd37381F6CfE8B91DB8114f0B",
-      "symbol": "DONRYU",
-      "name": "DejitaruDonRyu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe2651bb225540019B04b7D56a1620629683439b9",
       "symbol": "STSUKA",
       "name": "SHIBTSUKA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65D4ABA28Ce3076873301Cef1e3725B78a31Ef9B",
+      "symbol": "RUPEE",
+      "name": "DigitalRupee",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17615,
-    "minor": 17615,
+    "major": 17616,
+    "minor": 17616,
     "patch": 86
   }
 }
