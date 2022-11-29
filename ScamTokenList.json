@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6Bbc74Cb11813bb833e006434c9540C4D38ECEC9",
-      "symbol": "BEZOS",
-      "name": "BezosCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3713a47E9472F23d21c124edE952bA5c6A86F16B",
       "symbol": "BLACK",
       "name": "BlackShibaverse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaa763A0a7aa5b78083eF4AA21024E5e1c909E085",
+      "symbol": "CYRUS",
+      "name": "TheGreat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17570,
-    "minor": 17570,
+    "major": 17571,
+    "minor": 17571,
     "patch": 86
   }
 }
