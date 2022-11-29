@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0dA4F1fF99ed6B2cbB41b73eC2676cac247C3335",
-      "symbol": "BBDOGE",
-      "name": "BlueBabyDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49Ea22B2573694848186Ca14416498DB3Bb3F71c",
       "symbol": "WCF",
       "name": "WorldCupFinals",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0bE1015F1b128bb99fF8A470e7E1e9492E3e50b",
+      "symbol": "HYDRAGON",
+      "name": "HYDRADRAGONPROTOCOL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17574,
-    "minor": 17574,
+    "major": 17575,
+    "minor": 17575,
     "patch": 86
   }
 }
