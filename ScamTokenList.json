@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5463aeeb6dE43049A49dC02D7fC50604765EEEcc",
-      "symbol": "SBF",
-      "name": "SamBankmanFried",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x48df7d810B5119e63eE96d35a863192b1871fe87",
       "symbol": "TSUNA",
       "name": "TsukaLuna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E54Bd9494f5Bf00b1513874f9170e64E2b5c868",
+      "symbol": "GBI",
+      "name": "GoBuyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17582,
-    "minor": 17582,
+    "major": 17583,
+    "minor": 17583,
     "patch": 86
   }
 }
