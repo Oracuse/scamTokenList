@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7d0199f26bFBDFff25553e769A3Dc432587F4914",
-      "symbol": "TEST",
-      "name": "Test",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xABE4034e057Fa84C51186A86CE0E7f7Bb429Ca83",
       "symbol": "ESO",
       "name": "ESOTERIC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xee879284d64CEfaba610A2c833ae14919abAEB5f",
+      "symbol": "O",
+      "name": "Orpheus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17663,
-    "minor": 17663,
+    "major": 17664,
+    "minor": 17664,
     "patch": 86
   }
 }
