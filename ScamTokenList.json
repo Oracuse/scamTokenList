@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa5F07f29B518B7C49FA56C336849b47e61B6c7C8",
-      "symbol": "RSUKA",
-      "name": "RATSUKA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3EFe220a2e2bd5bC9656E4002e330459691bA00f",
       "symbol": "SAASPROTOCOL",
       "name": "SAAS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB9Cad6f1D86d7877f128e0fB6369555efe61BD4F",
+      "symbol": "GIVINGTUESDAY",
+      "name": "GivingTuesday",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17605,
-    "minor": 17605,
+    "major": 17606,
+    "minor": 17606,
     "patch": 86
   }
 }
