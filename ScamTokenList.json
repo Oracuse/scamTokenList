@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x778d943BEC6A7Fef0fA3905Dd1006f9AA7Bcbc88",
-      "symbol": "MOLTEN",
-      "name": "MOLTEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17E75F39232c5370DCF59712000587e0Fed38c73",
       "symbol": "GATES",
       "name": "BillGatesCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa34F10093311F57Bde8ef199F7D6dC532eE13Fb5",
+      "symbol": "SPRAGON",
+      "name": "SpuriousDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17579,
-    "minor": 17579,
+    "major": 17580,
+    "minor": 17580,
     "patch": 86
   }
 }
