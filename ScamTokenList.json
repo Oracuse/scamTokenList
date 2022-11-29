@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5EFDb2f4a8DF48068841fd222dc6d15C855dF2BF",
-      "symbol": "JENNER",
-      "name": "KylieJennerCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE13832929787E9E59ACa10E76943e99395AA93Ad",
       "symbol": "KO",
       "name": "Kwonoff",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9b195434D7ACdfA25741EF0F636FD48ed4A88a7",
+      "symbol": "VDA",
+      "name": "Vidya",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17646,
-    "minor": 17646,
+    "major": 17647,
+    "minor": 17647,
     "patch": 86
   }
 }
