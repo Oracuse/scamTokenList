@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x777ec62Ce0982a1c0bD71DA92d408D781d5764A7",
-      "symbol": "PEPENOBI",
-      "name": "Pepenobi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2dE4cbF6CdAfb204C2B2B553B0d7F4B5558dF0ec",
       "symbol": "AKEMI",
       "name": "Akemi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8030ADADE73BE47386557f9a2021ae81cf70cdB9",
+      "symbol": "FIFA",
+      "name": "FIFAWorldCupQatar",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17638,
-    "minor": 17638,
+    "major": 17639,
+    "minor": 17639,
     "patch": 86
   }
 }
