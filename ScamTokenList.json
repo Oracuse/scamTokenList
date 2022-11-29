@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5b0cB2fE7bB48976AdA998ACF40fBe3c2e7BC66a",
-      "symbol": "EVENTG",
-      "name": "EventGuardio",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x94F1E284C0627d64ddE9799A2113A797b94d25c9",
       "symbol": "JKWON",
       "name": "JailKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7e1Adb51d784A6c645A40F4991e3F9d07850030",
+      "symbol": "DRAGONE",
+      "name": "DragonEthereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17602,
-    "minor": 17602,
+    "major": 17603,
+    "minor": 17603,
     "patch": 86
   }
 }
