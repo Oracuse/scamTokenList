@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDF5417E1bf509A4dc3db09790D59C2aE039d9913",
-      "symbol": "SAS",
-      "name": "SecretArtSociety",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x870b963775D8b1A7927DDeEC1e9Fe66e3A89C2e5",
       "symbol": "FBEAN",
       "name": "FifaBean",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE6E6616021EC445B05AB8799B43903ec6cE9E447",
+      "symbol": "FOMO",
+      "name": "FOMO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17627,
-    "minor": 17627,
+    "major": 17628,
+    "minor": 17628,
     "patch": 86
   }
 }
