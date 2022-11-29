@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0ea605A88D23C5Dc0e7F4691e804E8A5f3d81b51",
-      "symbol": "FLOKISONIC",
-      "name": "FlokiSonic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x56cD93A3ABBa23903050dfB6FBfDf0C3742076A4",
       "symbol": "UNRYU",
       "name": "LuckyDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1ee914BB443Ca5607C083335c9D39fDC2c508B7d",
+      "symbol": "STEEZ",
+      "name": "STEEZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17633,
-    "minor": 17633,
+    "major": 17634,
+    "minor": 17634,
     "patch": 86
   }
 }
