@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDee6FB461c074E8DcEb27440A15e9e2E08863DF5",
-      "symbol": "AXL",
-      "name": "Axelar",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3d13e0713921D58C215fC12C341D45203Fd6b14B",
       "symbol": "BDKWON",
       "name": "BabyDoKwonInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5eF56cC18Ed88cdC2dfe8b3ceB643f37421b1AdA",
+      "symbol": "GIVE",
+      "name": "GivingBlockInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17643,
-    "minor": 17643,
+    "major": 17644,
+    "minor": 17644,
     "patch": 86
   }
 }
