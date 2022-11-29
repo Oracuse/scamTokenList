@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17E75F39232c5370DCF59712000587e0Fed38c73",
-      "symbol": "GATES",
-      "name": "BillGatesCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x65Ac99f6066C7Af147e129204708Bc466c2b2a30",
       "symbol": "RONALD",
       "name": "ReaganCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7FAfdcC5d35CEDd8b0672625a1d1adC8E6e6055",
+      "symbol": "AXO",
+      "name": "AXOprogram",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17580,
-    "minor": 17580,
+    "major": 17581,
+    "minor": 17581,
     "patch": 86
   }
 }
