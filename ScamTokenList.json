@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x40Ef400743aCeF5761Df67b78788623092a486A4",
-      "symbol": "DESTINY",
-      "name": "Destiny",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x37Dc28E11F2e6647b66357de605BDb2087Bc37E7",
       "symbol": "POF",
       "name": "ProofofDollar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x723Fc7191Be49B98f9e8662D8305A81BF93f31fd",
+      "symbol": "X",
+      "name": "XProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17587,
-    "minor": 17587,
+    "major": 17588,
+    "minor": 17588,
     "patch": 86
   }
 }
