@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4D8313aBc3CCF156C5ffD7b39877e544aEb0d4b8",
-      "symbol": "HYPER",
-      "name": "InuFlation",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4c17e7cd5A6C0A79564131fb7701d9d39555A482",
       "symbol": "TSUKWON",
       "name": "TSUKADOKWON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb5B2958062e344295D4cB9EFB0cDaA5673Bc5f3",
+      "symbol": "FELLOW",
+      "name": "Fellow",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17618,
-    "minor": 17618,
+    "major": 17619,
+    "minor": 17619,
     "patch": 86
   }
 }
