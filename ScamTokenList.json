@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x20c9D37E0025aA078704d0933F2e4Cc3Db7d6d4b",
-      "symbol": "ODAO",
-      "name": "OkinamiDao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa8B70D97234c9FF9618eB53746D2A32Ac3dba961",
       "symbol": "TSUBAMEGAESHI",
       "name": "TheSwallowsCounter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77Dc7759F689a28f557ffCe2588AAfFF81853b07",
+      "symbol": "MUJIRUSHI",
+      "name": "Mujirushi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17631,
-    "minor": 17631,
+    "major": 17632,
+    "minor": 17632,
     "patch": 86
   }
 }
