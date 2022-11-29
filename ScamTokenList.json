@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4f1B2fD44681A29fFe1c50A02a3B8b147Ca7d407",
-      "symbol": "KEK",
-      "name": "KekChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x218d9ea52C0894B438a8048ABF626410ecaEF0B5",
       "symbol": "DOSHI",
       "name": "DogShit",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa8d2dB5849D2Cea38f0ef5279f6F2F4cb8AEDfB4",
+      "symbol": "TDO",
+      "name": "TyrantDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17667,
-    "minor": 17667,
+    "major": 17668,
+    "minor": 17668,
     "patch": 86
   }
 }
