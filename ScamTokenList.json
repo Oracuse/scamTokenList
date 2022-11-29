@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2dE4cbF6CdAfb204C2B2B553B0d7F4B5558dF0ec",
-      "symbol": "AKEMI",
-      "name": "Akemi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9B7640B0b9075C0d868D923471334c29ff9F3469",
       "symbol": "LUNCL",
       "name": "LuncL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x308fedced0A29660f373B4C05001b0b886B0A9be",
+      "symbol": "FOOT",
+      "name": "FootballCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17639,
-    "minor": 17639,
+    "major": 17640,
+    "minor": 17640,
     "patch": 86
   }
 }
