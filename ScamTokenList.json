@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa7339B9Aea5210116F1b17539C3A1CC8064dF49D",
-      "symbol": "ABTA",
-      "name": "ABT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5Bcd4dAFb373441E095dc7f6A9D33ce981133F0B",
       "symbol": "ODIN",
       "name": "Odineum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57cA69f97c6E0A5671fD6c427d09D0B0e03838Ee",
+      "symbol": "FREEDOM",
+      "name": "VitalikFreedom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17660,
-    "minor": 17660,
+    "major": 17661,
+    "minor": 17661,
     "patch": 86
   }
 }
