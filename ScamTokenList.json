@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9fb3575b77A278279F20aABd289F57513ec20767",
-      "symbol": "UNIVERSE",
-      "name": "BIGBANG",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0568072304ed25252110103Fa18176bffb4dCB59",
       "symbol": "TRIAL",
       "name": "TrialToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33d13Ef21990D8253f2310606Daf19cA783C38Db",
+      "symbol": "HEX",
+      "name": "Exodus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17747,
-    "minor": 17747,
+    "major": 17748,
+    "minor": 17748,
     "patch": 86
   }
 }
