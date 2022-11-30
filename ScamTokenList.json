@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Acc247D574a5C6D908217Ca74c324ceE4c23AdF",
-      "symbol": "AKCAT",
-      "name": "AkatsukiCat",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc441c2D92B1b2FD3a266E6A8cf5BFB673B1abe15",
       "symbol": "CHEESECAKE",
       "name": "CheeseCake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6321cb42025e2103A9EC993a3b8918D9ab9E9afA",
+      "symbol": "APEGATE",
+      "name": "ApeGateFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17694,
-    "minor": 17694,
+    "major": 17695,
+    "minor": 17695,
     "patch": 86
   }
 }
