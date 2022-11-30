@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6013446f2b00C5f821AF16aeA52B12A8598A72e7",
-      "symbol": "DMDAO",
-      "name": "DragonMurataDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD371cE2BeB6b24195E790C561e4d86DD745E3c49",
       "symbol": "TALIEN",
       "name": "Tsukalien",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x215cCe2382655a62B78775319389F0108a9E8123",
+      "symbol": "SHYBRANT",
+      "name": "FableOfTheShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17711,
-    "minor": 17711,
+    "major": 17712,
+    "minor": 17712,
     "patch": 86
   }
 }
