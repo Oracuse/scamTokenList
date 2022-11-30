@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf84588a64D90F5FDD8c8E05DD4bA670d33b182AA",
-      "symbol": "HALLAS",
-      "name": "HallasToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3d4639d4F4D6c2F1F607B3c905Dc6A5a21E01cF2",
       "symbol": "OKB",
       "name": "OKBToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x570d10Aab9CDEC3380d0F6Ad056d373Ae4F0c0B1",
+      "symbol": "ALRANT",
+      "name": "TyrantAlpha",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17740,
-    "minor": 17740,
+    "major": 17741,
+    "minor": 17741,
     "patch": 86
   }
 }
