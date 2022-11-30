@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1Aa585b52c78463a522FCD954974690568aeD82b",
-      "symbol": "LINU",
-      "name": "LaeebINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x32F19B8c25333bF68FaCe58041858f185c17CF74",
       "symbol": "SAYLOR",
       "name": "SaylorCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e8D2446272f632e89Ba65d466B042b6a6bE7074",
+      "symbol": "FABLEOF",
+      "name": "FableOfSatoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17680,
-    "minor": 17680,
+    "major": 17681,
+    "minor": 17681,
     "patch": 86
   }
 }
