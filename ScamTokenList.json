@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF5194ee2f52B8C7DEEE9B56dd2BB4Aff0d1a4BE5",
-      "symbol": "LINU",
-      "name": "LaeebInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x58F8d190bD4A0EC2cCe434704802bd31F0fc22DA",
       "symbol": "INC",
       "name": "Incinerator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8ff89aB224F92403564073967aA2A5D1dcc9266",
+      "symbol": "GINU",
+      "name": "GrinchINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17678,
-    "minor": 17678,
+    "major": 17679,
+    "minor": 17679,
     "patch": 86
   }
 }
