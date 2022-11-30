@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53751529DF4B6ce122143583066845b4d90dD9D7",
-      "symbol": "LUNACAKE",
-      "name": "LunaCake",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb8Ec5b27de7D971D74e8531BaA27853cFfDFae1D",
       "symbol": "MNC",
       "name": "Manic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cA568cea669c66f31AD51E1ffBfCed72e1D6d91",
+      "symbol": "ULTRA",
+      "name": "UltraSoundMoney",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17805,
-    "minor": 17805,
+    "major": 17806,
+    "minor": 17806,
     "patch": 86
   }
 }
