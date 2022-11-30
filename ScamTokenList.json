@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB86AB70fA12a7BcD417772Be1EacB800202b6fd3",
-      "symbol": "DOGECAKE",
-      "name": "DOGECAKE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x96F0bA6e13b741F43695d9A1f9D8e2123AF8C9dF",
       "symbol": "TCAKE",
       "name": "TSUKACAKE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3aa23E8779878811cdaf3F845161CB426A5C792D",
+      "symbol": "QUETZALCOATL",
+      "name": "QUETZALCOATL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17699,
-    "minor": 17699,
+    "major": 17700,
+    "minor": 17700,
     "patch": 86
   }
 }
