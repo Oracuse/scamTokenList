@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa1697f88FaCa03D287BDC5dF671610E47521b27C",
-      "symbol": "AIDAY",
-      "name": "AIDay",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf1cB8F9738AdFf8C280D6Eae8e2285a839B79F80",
       "symbol": "UNDO",
       "name": "CtrlZ",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5FA0C1bEEB3cb33994C8BC0E907B2278bBc51307",
+      "symbol": "ANIME",
+      "name": "TaleOfAnime",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17797,
-    "minor": 17797,
+    "major": 17798,
+    "minor": 17798,
     "patch": 86
   }
 }
