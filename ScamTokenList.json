@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x90ab7bC86dE8e44927Aaac5eF8C6451AB95ACB78",
-      "symbol": "PEPENOBI",
-      "name": "Pepenobi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAaDF2bd5AA90bBf25906eDcC319C9d239c49CaE0",
       "symbol": "BDARUMA",
       "name": "BabyDaruma",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe2850293B82f0B961CB915934C7dB817c97F35C",
+      "symbol": "TINAC",
+      "name": "ThisIsNotACasino",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17789,
-    "minor": 17789,
+    "major": 17790,
+    "minor": 17790,
     "patch": 86
   }
 }
