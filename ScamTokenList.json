@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAaDF2bd5AA90bBf25906eDcC319C9d239c49CaE0",
-      "symbol": "BDARUMA",
-      "name": "BabyDaruma",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4ed32Bd57C84c8bC775379a15976c5b69fa227Ed",
       "symbol": "XRPC",
       "name": "RippleCredits",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ad0c8d38eF7CFc90700c410d01Bf28B5e0F545c",
+      "symbol": "TYRANT",
+      "name": "DejitaruTyrant",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17790,
-    "minor": 17790,
+    "major": 17791,
+    "minor": 17791,
     "patch": 86
   }
 }
