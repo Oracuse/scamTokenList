@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5d23659fbE9E77bfD0a7ED204b3183c081f4a4b3",
-      "symbol": "ETHCAKE",
-      "name": "EthereumCake",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x56c7CE80b732F5ADE635A3f70Dd8f198238e1D82",
       "symbol": "YUMMY",
       "name": "ShibaLovesPancakes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFf6f4a2b14f6A001590037597A5661D4937758B1",
+      "symbol": "GAIN",
+      "name": "YieldProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17696,
-    "minor": 17696,
+    "major": 17697,
+    "minor": 17697,
     "patch": 86
   }
 }
