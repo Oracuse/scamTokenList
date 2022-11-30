@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e824f90bAca708124C20dcE25E80a963231e244",
-      "symbol": "TOKYO",
-      "name": "TokyoDrift",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0d95bc0C758AE70141Fc95345A7164a4C6E1DF15",
       "symbol": "ECB",
       "name": "Lagarde",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A5E88D02a43f2F610d710860cbf5a05D019d7D6",
+      "symbol": "TYWANT",
+      "name": "FableoftheDwagon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17715,
-    "minor": 17715,
+    "major": 17716,
+    "minor": 17716,
     "patch": 86
   }
 }
