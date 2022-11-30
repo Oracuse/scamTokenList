@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7105E64bF67ECA3Ae9b123F0e5Ca2b83b2eF2dA0",
-      "symbol": "X7DAO",
-      "name": "X7DAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7101a9392EAc53B01e7c07ca3baCa945A56EE105",
       "symbol": "X7101",
       "name": "X7101",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x728bE352664eE42a5472125ef5eBf01391eFEd6C",
+      "symbol": "DFLY",
+      "name": "Dragonfly",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17727,
-    "minor": 17727,
+    "major": 17728,
+    "minor": 17728,
     "patch": 86
   }
 }
