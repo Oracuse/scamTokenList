@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x88EFE4470C5BCFacFD273d0077B2b5eb31374FCC",
-      "symbol": "GMI20",
-      "name": "GemInu20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE43ea683Dd9e8bcAC199b6FF48c8EFc036e5b486",
       "symbol": "PEPENOBI",
       "name": "Pepenobi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C3C47DA348f0c01289782fa7961b2363f91578c",
+      "symbol": "SUS",
+      "name": "Suspicious",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17816,
-    "minor": 17816,
+    "major": 17817,
+    "minor": 17817,
     "patch": 86
   }
 }
