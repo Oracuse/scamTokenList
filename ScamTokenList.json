@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x72BD2930663b30dBA3cd362bc1f8C2251E24C73A",
-      "symbol": "JEETKILLER",
-      "name": "JeetDestroyer",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6778820AC2DC8CC9556ec078E893D37873c3923a",
       "symbol": "ING",
       "name": "InfinityAngel",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF242dFD4EFfb307c8290185C66C954E813821571",
+      "symbol": "POW",
+      "name": "PowellProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17812,
-    "minor": 17812,
+    "major": 17813,
+    "minor": 17813,
     "patch": 86
   }
 }
