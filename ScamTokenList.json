@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14135bbb3E5154284B58Cd10d403724C004F565f",
-      "symbol": "SOR",
-      "name": "Sorious",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04626529553D128a786fa2910cA55c4c45D9c705",
       "symbol": "SOR",
       "name": "Sorious",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E0DC79795b688EE1f955bD0c9fe4db4472944E1",
+      "symbol": "BTY",
+      "name": "TyrantBurn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17755,
-    "minor": 17755,
+    "major": 17756,
+    "minor": 17756,
     "patch": 86
   }
 }
