@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC21B0fA7630fdCFB22aD1412ABAD6d7AC96Fb7C2",
-      "symbol": "SC",
-      "name": "SquidCake",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa66871e559E255A719F2a08e835441588234a11b",
       "symbol": "BTCAKE",
       "name": "BTCake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39D576Ab1549C3dA6f0751e38E112fe654d42e26",
+      "symbol": "TRIBUTE",
+      "name": "ADragonsFeast",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17701,
-    "minor": 17701,
+    "major": 17702,
+    "minor": 17702,
     "patch": 86
   }
 }
