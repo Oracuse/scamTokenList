@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x32F19B8c25333bF68FaCe58041858f185c17CF74",
-      "symbol": "SAYLOR",
-      "name": "SaylorCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC969D6BA572F58080F2E784b462A18Dd9a74CF4F",
       "symbol": "TG",
       "name": "TouchGrass",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD6D3A4cE3f460E342CD8ea94dE706Ec6472dC2E1",
+      "symbol": "BEWD",
+      "name": "BlueEyesWhiteDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17681,
-    "minor": 17681,
+    "major": 17682,
+    "minor": 17682,
     "patch": 86
   }
 }
