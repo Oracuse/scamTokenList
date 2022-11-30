@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4d37D0aB328e1D449Ea8CFc3b0B7364B398c41E0",
-      "symbol": "CAT",
-      "name": "CatETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf7a84edAc5539b75AFaaA04f1103dBf9Db4b09c6",
       "symbol": "DLC",
       "name": "DeployingLessCapita",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe759F69239c7bEC60f35d217a5102cd14E52e18a",
+      "symbol": "TIAMAT",
+      "name": "TheBabylonia",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17787,
-    "minor": 17787,
+    "major": 17788,
+    "minor": 17788,
     "patch": 86
   }
 }
