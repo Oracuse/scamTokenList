@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x906e314921251090902fa78E9f9C85f04283c739",
-      "symbol": "WAKO",
-      "name": "KIRAWAKA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA6263739Cb4146586067942B6Ec6b493Da4ef513",
       "symbol": "DENAI",
       "name": "DejitaruSenpai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Df6c3C367FAf36567e387464c4840D65C7f7708",
+      "symbol": "OPENSEA",
+      "name": "OpenSea",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17684,
-    "minor": 17684,
+    "major": 17685,
+    "minor": 17685,
     "patch": 86
   }
 }
