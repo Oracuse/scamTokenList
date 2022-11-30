@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6c5A9466A8a5ED51584f6B4ad652e21AB5E7ee0E",
-      "symbol": "KWONRUN",
-      "name": "RunDoKwonRun",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xae0E1816867C9a4Cd5B991342e3201D488b85144",
       "symbol": "AHSOKA",
       "name": "StarWars",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x044F82A566033208D476C86bFf5E81F926bc92A1",
+      "symbol": "VTLS",
+      "name": "Vitalis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17735,
-    "minor": 17735,
+    "major": 17736,
+    "minor": 17736,
     "patch": 86
   }
 }
