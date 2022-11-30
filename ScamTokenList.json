@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x211236311fcF428857290e6B28Df8899cf29E8c0",
-      "symbol": "ETHCAKE",
-      "name": "ETHCAKE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3Acc247D574a5C6D908217Ca74c324ceE4c23AdF",
       "symbol": "AKCAT",
       "name": "AkatsukiCat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c58E7F2c13A2DDa0526eB818E5bd46a973BBbde",
+      "symbol": "BELLS",
+      "name": "JINGLE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17693,
-    "minor": 17693,
+    "major": 17694,
+    "minor": 17694,
     "patch": 86
   }
 }
