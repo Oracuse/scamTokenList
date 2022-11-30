@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8e1E5612b553ee651C50D992d44f18a899627bB2",
-      "symbol": "01",
-      "name": "PointOne",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4f73c17195d0f77c1fC4175345B9251a9fb21849",
       "symbol": "BBE",
       "name": "BabyEth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2fd128e42E0549a5e596D9CE7c5434a9aea7BDbF",
+      "symbol": "REDNOSE",
+      "name": "RedNoseINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17782,
-    "minor": 17782,
+    "major": 17783,
+    "minor": 17783,
     "patch": 86
   }
 }
