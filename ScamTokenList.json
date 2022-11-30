@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBdf9d5752Ec89A3b7c3b7ffe31F5BD565016c221",
-      "symbol": "ICHI",
-      "name": "Ichikami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x53751529DF4B6ce122143583066845b4d90dD9D7",
       "symbol": "LUNACAKE",
       "name": "LunaCake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8983309e5bf953829421eE9E5BeC0805d71c6814",
+      "symbol": "HUAHUA",
+      "name": "Chihuahua",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17804,
-    "minor": 17804,
+    "major": 17805,
+    "minor": 17805,
     "patch": 86
   }
 }
