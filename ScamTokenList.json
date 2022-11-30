@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3d4639d4F4D6c2F1F607B3c905Dc6A5a21E01cF2",
-      "symbol": "OKB",
-      "name": "OKBToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC3c9880df04529C2f6C65e6583E350eEc78f3CeE",
       "symbol": "CAKER",
       "name": "PancakeRevolution",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15314926C1d8e07AF30A9FE1efD24B39e0a3a8D2",
+      "symbol": "POE",
+      "name": "PredatorOfEthereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17741,
-    "minor": 17741,
+    "major": 17742,
+    "minor": 17742,
     "patch": 86
   }
 }
