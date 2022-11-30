@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBcC74BE3a0f74bD1C873eA7b0639F6f1a40eBb1C",
-      "symbol": "WATSUKA",
-      "name": "MizuchiShoki",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x366F8913b902B76032D72E6c6A003d258c5be508",
       "symbol": "GODT",
       "name": "Godzitsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaBbEA34248FA9bCb0090B70b010773f59659dA0E",
+      "symbol": "BINU",
+      "name": "BoosterInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17709,
-    "minor": 17709,
+    "major": 17710,
+    "minor": 17710,
     "patch": 86
   }
 }
