@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe7DdB0ea7BaDE19Cf2Fee8dF12173a5803D1DD8b",
-      "symbol": "CAKECUP",
-      "name": "CakeCup",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf84588a64D90F5FDD8c8E05DD4bA670d33b182AA",
       "symbol": "HALLAS",
       "name": "HallasToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc024849674a5fdBF901F19f19dB7DE447332ee1D",
+      "symbol": "BABYTYRANT",
+      "name": "BabyFableOfTheDrago",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17739,
-    "minor": 17739,
+    "major": 17740,
+    "minor": 17740,
     "patch": 86
   }
 }
