@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1542947e272607057C9d36D3C0920C37dB7a4172",
-      "symbol": "POLGE",
-      "name": "OnPolge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88EFE4470C5BCFacFD273d0077B2b5eb31374FCC",
       "symbol": "GMI20",
       "name": "GemInu20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3dD06A5029d832D8E7C4BcB685dC2e1028AEb41C",
+      "symbol": "FD",
+      "name": "FleetwoodDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17815,
-    "minor": 17815,
+    "major": 17816,
+    "minor": 17816,
     "patch": 86
   }
 }
