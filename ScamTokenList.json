@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5b756369e4d110Ca0353C3605A0d94e9Fc55f0Ea",
-      "symbol": "DOKLOST",
-      "name": "DoKLOST",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2cb055cAa56bfb341422ed9Abd90632c8defaf97",
       "symbol": "EMD",
       "name": "Emerald",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47B8398821BA6A69103790BC62219c288C2c2480",
+      "symbol": "TREX",
+      "name": "TyrantosaurusRex",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17713,
-    "minor": 17713,
+    "major": 17714,
+    "minor": 17714,
     "patch": 86
   }
 }
