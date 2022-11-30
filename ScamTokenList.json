@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f2479c553328f3B50E09Fd295899393E5Ab0212",
-      "symbol": "SAKUSHI",
-      "name": "SakuraShibaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf6118cAA630552Cbc630722A4955D40Aff5D1D55",
       "symbol": "SAYA",
       "name": "DejitaruSaya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3f5498E8Aa8E678775b9565e6807A92a9ee2B34",
+      "symbol": "TGP",
+      "name": "TELEGRAMPROTOCOL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17780,
-    "minor": 17780,
+    "major": 17781,
+    "minor": 17781,
     "patch": 86
   }
 }
