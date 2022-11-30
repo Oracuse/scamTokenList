@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe6272008493200bB8610cd633d269269046F33e4",
-      "symbol": "METAX",
-      "name": "METAX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49566Ab7EF0d4da06A3117e9e4FB3e9947ABAf96",
       "symbol": "DGNKWON",
       "name": "DEGENKWON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFe30dFDeae0cBB6CA5F79b8c128a64c42034c60d",
+      "symbol": "TEST3",
+      "name": "Test3",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17808,
-    "minor": 17808,
+    "major": 17809,
+    "minor": 17809,
     "patch": 86
   }
 }
