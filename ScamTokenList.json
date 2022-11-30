@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2cb055cAa56bfb341422ed9Abd90632c8defaf97",
-      "symbol": "EMD",
-      "name": "Emerald",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9e824f90bAca708124C20dcE25E80a963231e244",
       "symbol": "TOKYO",
       "name": "TokyoDrift",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71638fDE3f14E1078dc9a4551001d179Eb5a6cF3",
+      "symbol": "YOMI",
+      "name": "Tsukiyomi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17714,
-    "minor": 17714,
+    "major": 17715,
+    "minor": 17715,
     "patch": 86
   }
 }
