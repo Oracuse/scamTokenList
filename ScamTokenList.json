@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1e8840a6186E065D1ec750c79Ba4aFd959A866A3",
-      "symbol": "TRIAL",
-      "name": "TrialToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFE5C48AA4F2726051d638C5762647ff207e56c8D",
       "symbol": "SOR",
       "name": "Sorious",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7CDBD211A3069111C993266A1508443d49EaB98e",
+      "symbol": "VYPER",
+      "name": "Vyper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17753,
-    "minor": 17753,
+    "major": 17754,
+    "minor": 17754,
     "patch": 86
   }
 }
