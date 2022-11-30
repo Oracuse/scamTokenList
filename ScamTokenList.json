@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfEff9661617cBbA5A2eD3A69000F4BF1E266BE71",
-      "symbol": "KITSU",
-      "name": "Kitsunami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC9aaECD6e9fe43C72237eDD5Ba7756A01A265736",
       "symbol": "2022",
       "name": "AIDay",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Dd3223eE61C4C1d1b718AD9eC227CA845273553",
+      "symbol": "MEMEX",
+      "name": "MemeX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17794,
-    "minor": 17794,
+    "major": 17795,
+    "minor": 17795,
     "patch": 86
   }
 }
