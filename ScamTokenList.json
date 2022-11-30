@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x366F8913b902B76032D72E6c6A003d258c5be508",
-      "symbol": "GODT",
-      "name": "Godzitsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6013446f2b00C5f821AF16aeA52B12A8598A72e7",
       "symbol": "DMDAO",
       "name": "DragonMurataDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBC44ad55047B919043aaf7CE08d4Fc058e6AeE55",
+      "symbol": "INSIDERS",
+      "name": "THEINSIDERS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17710,
-    "minor": 17710,
+    "major": 17711,
+    "minor": 17711,
     "patch": 86
   }
 }
