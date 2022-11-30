@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8E4D127d6c0e9Ba68816E07B59b38E4856b5D083",
-      "symbol": "HCASH",
-      "name": "HurricanCash",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1130f8c0B9d9beB4C35A91b3A8C5A8D058d4e9bc",
       "symbol": "BRITANNICA",
       "name": "Ninigi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9fb11D76f5E06C4fc1ec6E8eD55E16644BAfb21E",
+      "symbol": "VTT",
+      "name": "VitalikTheTyrant",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17766,
-    "minor": 17766,
+    "major": 17767,
+    "minor": 17767,
     "patch": 86
   }
 }
