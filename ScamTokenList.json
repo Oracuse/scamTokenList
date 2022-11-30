@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf1cB8F9738AdFf8C280D6Eae8e2285a839B79F80",
-      "symbol": "UNDO",
-      "name": "CtrlZ",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDa99396b6Be2408e0aeF3d1a412072fA30102a7E",
       "symbol": "AKIRA",
       "name": "Akira",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x510d5E26e6e690042c55c3108974412bf9A2E2A2",
+      "symbol": "L0P",
+      "name": "Layer0Protocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17798,
-    "minor": 17798,
+    "major": 17799,
+    "minor": 17799,
     "patch": 86
   }
 }
