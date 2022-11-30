@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa66871e559E255A719F2a08e835441588234a11b",
-      "symbol": "BTCAKE",
-      "name": "BTCake",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe7F8C2b235841D7dBd7959D10256b171a9Dc5e0E",
       "symbol": "MESSI",
       "name": "MESSINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e893c18BB65eC202D41bB3f1e50b097DB686cc7",
+      "symbol": "GAIN",
+      "name": "YieldProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17702,
-    "minor": 17702,
+    "major": 17703,
+    "minor": 17703,
     "patch": 86
   }
 }
