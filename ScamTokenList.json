@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4ed32Bd57C84c8bC775379a15976c5b69fa227Ed",
-      "symbol": "XRPC",
-      "name": "RippleCredits",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7126984859A937BF8c2b8b884a66f5137774a8F8",
       "symbol": "DOSA",
       "name": "Dosa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAE4e3Fcb3089190B729f411d2Ea1e220ba5bB08d",
+      "symbol": "X",
+      "name": "X",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17791,
-    "minor": 17791,
+    "major": 17792,
+    "minor": 17792,
     "patch": 86
   }
 }
