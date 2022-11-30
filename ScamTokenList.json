@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc789166F72E574d5FF442ec10477A808B531CFda",
-      "symbol": "BDKWON",
-      "name": "BABYDOKWONINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcfBBB131674c6f2B52dF1385Da2ec5A1768D2FDE",
       "symbol": "KCHAIN",
       "name": "KwonChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5De61ADf2df5C60AC6C39e3A73a55A4627feCE8F",
+      "symbol": "SECONDBLOOM",
+      "name": "secondbloom",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17785,
-    "minor": 17785,
+    "major": 17786,
+    "minor": 17786,
     "patch": 86
   }
 }
