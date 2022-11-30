@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDa99396b6Be2408e0aeF3d1a412072fA30102a7E",
-      "symbol": "AKIRA",
-      "name": "Akira",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x87A4B0388Eb661838f1B50D9A6EB299C16A21219",
       "symbol": "SUWUKO",
       "name": "Wukong",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60e101A9999A43A73d11f3e42fd02855dD805469",
+      "symbol": "DANZAYEMON",
+      "name": "ChiefoftheEtas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17799,
-    "minor": 17799,
+    "major": 17800,
+    "minor": 17800,
     "patch": 86
   }
 }
