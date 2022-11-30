@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2023AcBCe80f79B23f8F378Aeb6e9702fE7e057E",
-      "symbol": "USDCJ",
-      "name": "USDCircleJerk",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59fCcdC00B7c290C9904c232d11e725bB3b7295d",
       "symbol": "CINU",
       "name": "CakeInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Aa3c46724D789AFAaa38189f5fC3FDE558af4E2",
+      "symbol": "BUTERIN",
+      "name": "FableofVitalik",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17721,
-    "minor": 17721,
+    "major": 17722,
+    "minor": 17722,
     "patch": 86
   }
 }
