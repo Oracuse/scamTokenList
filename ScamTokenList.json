@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0568072304ed25252110103Fa18176bffb4dCB59",
-      "symbol": "TRIAL",
-      "name": "TrialToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x456cD8af1E936AD47a31579A5fB462393c6A6851",
       "symbol": "GOLD",
       "name": "XAUETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf87089Bd21Ae4B85AF92d368e96e0B7370aA2ca3",
+      "symbol": "TARO",
+      "name": "FableofTarocchi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17748,
-    "minor": 17748,
+    "major": 17749,
+    "minor": 17749,
     "patch": 86
   }
 }
