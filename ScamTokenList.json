@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2DA5286B95b9e69a10f8324535De6A27faC1F2F2",
-      "symbol": "DFLOKI",
-      "name": "DragonFloki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93f63C85Ca0F3a3767113d12a7289a995ccCDAE2",
       "symbol": "NAGINATA",
       "name": "Naginata",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfbEA52ecaa53DE3585a867FaAA3ed982D4c9214F",
+      "symbol": "SATYRANT",
+      "name": "FableOfSatoshi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17931,
-    "minor": 17931,
+    "major": 17932,
+    "minor": 17932,
     "patch": 86
   }
 }
