@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5ad406dd08d0ABA38C1fE23B72e09969d5291e0f",
-      "symbol": "MXS",
-      "name": "MixSwap",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x61CB0e0cbE562f6d2e615038B0942eAdd645443A",
       "symbol": "CKWON",
       "name": "CakeKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x796729b9a2792Ec2CC6A81bAAc59f98072380195",
+      "symbol": "ZIM",
+      "name": "zim",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17861,
-    "minor": 17861,
+    "major": 17862,
+    "minor": 17862,
     "patch": 86
   }
 }
