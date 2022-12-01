@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x581C624DcaAdFC05f6A68e30a5144B0ADC029086",
-      "symbol": "RKITTY",
-      "name": "RoaringKitty",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x264433CAf2A478D1bB8f7cd96107797e0DfD2Bb3",
       "symbol": "BABYDARU",
       "name": "BabyDaruma",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x832faa8D1c56cC76D67C7c6ffEa40B900415158E",
+      "symbol": "XMAS",
+      "name": "MerryChristmas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17928,
-    "minor": 17928,
+    "major": 17929,
+    "minor": 17929,
     "patch": 86
   }
 }
