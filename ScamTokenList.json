@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe5CF33893400b28c857F27a8D8837247A51b763A",
-      "symbol": "MOMO",
-      "name": "Momo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcd08FbEe790d1d9715b3137503eB4C439E232885",
       "symbol": "MURASAKI",
       "name": "Murasaki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x662F1e1D99874a576044007d4d05F41B7fC3fD05",
+      "symbol": "FRAUD",
+      "name": "FableofSBF",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17966,
-    "minor": 17966,
+    "major": 17967,
+    "minor": 17967,
     "patch": 86
   }
 }
