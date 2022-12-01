@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF7Ac9cfde358B4eD90B6fEc99CA17a396221C0E3",
-      "symbol": "UNICAKE",
-      "name": "Unicake",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa6625c3c03BEA9ea660BE58Bab540B9340dF4486",
       "symbol": "SHIDO",
       "name": "ShidoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCD4bC98f4b6CbEf520680EA97c5B5e3FbA35c255",
+      "symbol": "MEVLABS",
+      "name": "MevBotResearch",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17866,
-    "minor": 17866,
+    "major": 17867,
+    "minor": 17867,
     "patch": 86
   }
 }
