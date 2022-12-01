@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x12C33B1c82d2204d33Bf75e26416EFE7bd7b5828",
-      "symbol": "SOHO",
-      "name": "SohoClub",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1165D3B66487F291DE747A6Ab3f05943C959661D",
       "symbol": "EGMS",
       "name": "Enigmus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcf80ec798b7360fE63172d38a83a319dD3E0F486",
+      "symbol": "FLOKI",
+      "name": "Floki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17840,
-    "minor": 17840,
+    "major": 17841,
+    "minor": 17841,
     "patch": 86
   }
 }
