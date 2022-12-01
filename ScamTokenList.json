@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x626C4fa5Bd2e9299C581eD9F5EA4A83E49833665",
-      "symbol": "CRAMSER",
-      "name": "JeetCramer",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3f26f4dC8350435E3D2520fB251F7b06B26d74f7",
       "symbol": "INFINITE",
       "name": "Infinite",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b18F678B1Ae72579e25934Cc3b9C64ACef87E9F",
+      "symbol": "PIM",
+      "name": "pim",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17856,
-    "minor": 17856,
+    "major": 17857,
+    "minor": 17857,
     "patch": 86
   }
 }
