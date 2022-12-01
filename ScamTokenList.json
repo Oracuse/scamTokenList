@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6dCCe7000740347AA541077695A809130302Cab3",
-      "symbol": "ERNI",
-      "name": "EthernityChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x48a5B5bBE64Eb096D0c75f998146b0D4BD96A9C0",
       "symbol": "TOSHI",
       "name": "Tochi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9EA9d5391B1EDe34498422B25c3d8DD6967eb5e2",
+      "symbol": "S",
+      "name": "SHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17885,
-    "minor": 17885,
+    "major": 17886,
+    "minor": 17886,
     "patch": 86
   }
 }
