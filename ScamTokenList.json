@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1F98576335d096ECF64008a8913cF4fB1f3FD416",
-      "symbol": "FIFA",
-      "name": "FIFAWouldCup",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x91C1B58F24F5901276b1F2CfD197a5B73e31F96E",
       "symbol": "QSHIB",
       "name": "QatarShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40ac650917880A4049e51DD15804c976EeE3C323",
+      "symbol": "DDAY",
+      "name": "Armageddon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17872,
-    "minor": 17872,
+    "major": 17873,
+    "minor": 17873,
     "patch": 86
   }
 }
