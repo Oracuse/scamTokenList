@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x96528852b4B40Dd803758bD010d994c25E8f69F8",
-      "symbol": "CONDOM",
-      "name": "CONDOM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10945d57cd90841B6783100810338f423702B1B9",
       "symbol": "SAAS",
       "name": "SAASProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9155b4F24D860B0779C5A9216614f4024F60e665",
+      "symbol": "POE",
+      "name": "PredatorOfEthereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17832,
-    "minor": 17832,
+    "major": 17833,
+    "minor": 17833,
     "patch": 86
   }
 }
