@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9352CffCC2047A6Ffe1AE4DebC2F707911F618ab",
-      "symbol": "EPRIMAL",
-      "name": "ETHPRIMAL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1F98576335d096ECF64008a8913cF4fB1f3FD416",
       "symbol": "FIFA",
       "name": "FIFAWouldCup",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcECa6c84Da0F66650a7eb9047fc36aA2a7F1b3c4",
+      "symbol": "SHBLK",
+      "name": "ShibaBlack",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17871,
-    "minor": 17871,
+    "major": 17872,
+    "minor": 17872,
     "patch": 86
   }
 }
