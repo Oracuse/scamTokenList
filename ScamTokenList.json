@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x97eCC5C7DbCFf78812ae45eA72387ad5f1543468",
-      "symbol": "AMAZONINU",
-      "name": "AMZN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4fAC64da6DBc4E7f431591Aaa74bC62D4b9dA5cA",
       "symbol": "BFIFA",
       "name": "BabyFIFA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x864F682C4d1076e01bDb8BF34A83F9a6c8104A50",
+      "symbol": "HFSP",
+      "name": "HaveFunStayingPoor",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17925,
-    "minor": 17925,
+    "major": 17926,
+    "minor": 17926,
     "patch": 86
   }
 }
