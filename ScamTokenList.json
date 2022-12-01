@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x92E6638dcDD245929e57244802AeCBd367Be834d",
-      "symbol": "SHIBAOKAMI",
-      "name": "ShibaOkami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2DA5286B95b9e69a10f8324535De6A27faC1F2F2",
       "symbol": "DFLOKI",
       "name": "DragonFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA2C02319087bB85C18591fE3D171EAf18D9FeA09",
+      "symbol": "FLOKYRANT",
+      "name": "FableOfTheFloki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17930,
-    "minor": 17930,
+    "major": 17931,
+    "minor": 17931,
     "patch": 86
   }
 }
