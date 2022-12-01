@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBeCF1D2C74Bcb5700dfb6bA29C19681127AB2727",
-      "symbol": "SARU",
-      "name": "Saru",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5ad406dd08d0ABA38C1fE23B72e09969d5291e0f",
       "symbol": "MXS",
       "name": "MixSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75Ff7F1a3bBa83700780408Ad7106159690c7294",
+      "symbol": "QIM",
+      "name": "qim",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17860,
-    "minor": 17860,
+    "major": 17861,
+    "minor": 17861,
     "patch": 86
   }
 }
