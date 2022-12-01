@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1412d2f12Ef17666aAF5A05eE4F15Ad2C2518E1c",
-      "symbol": "FSHIBA",
-      "name": "FIFAShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4065be32c0d747d07adeDA8bcE4AEE1f0391aCd4",
       "symbol": "TEST",
       "name": "test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71F68B63b59D3e82fA5E682714bb3eABeCe4Bea2",
+      "symbol": "PUMP",
+      "name": "Pumpcember",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17893,
-    "minor": 17893,
+    "major": 17894,
+    "minor": 17894,
     "patch": 86
   }
 }
