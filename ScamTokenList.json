@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xECaf16c85Ce80443C6D1deE4Fe17AeAb64926CeA",
-      "symbol": "NARA",
-      "name": "Nara",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb76d7161ADC480aA53a1efc8643Aa31a88e5bd3a",
       "symbol": "OHARA",
       "name": "Ohara",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47C2D6aE4c7A2c0BE40B4cCaE35814dB2620de51",
+      "symbol": "BANKRUPT",
+      "name": "FableofSBF",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17969,
-    "minor": 17969,
+    "major": 17970,
+    "minor": 17970,
     "patch": 86
   }
 }
