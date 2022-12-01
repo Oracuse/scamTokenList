@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf45409EDb249631388e77CAf3cec29c4907CE238",
-      "symbol": "SLIPPAGE",
-      "name": "WYS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7a98F4BB3fCF26a782B4ec08F1764F10895BA09B",
       "symbol": "AGENERATE",
       "name": "AiGenerate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x160cA2E69A4153c5D1af485bF0EC2866B3778943",
+      "symbol": "DD",
+      "name": "DungeonDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17819,
-    "minor": 17819,
+    "major": 17820,
+    "minor": 17820,
     "patch": 86
   }
 }
