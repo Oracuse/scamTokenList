@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3327Ca19660f0498D6a24798a73f9A5fC6aC677b",
-      "symbol": "UNITE",
-      "name": "Coadunate",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9352CffCC2047A6Ffe1AE4DebC2F707911F618ab",
       "symbol": "EPRIMAL",
       "name": "ETHPRIMAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4aF1A631ba563BD347E875F857aC49CC71743c53",
+      "symbol": "BCN",
+      "name": "BlockcoinNetwork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17870,
-    "minor": 17870,
+    "major": 17871,
+    "minor": 17871,
     "patch": 86
   }
 }
