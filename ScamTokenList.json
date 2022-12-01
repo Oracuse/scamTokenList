@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8e992914aA7441b736628E7C082E9716EA20CD08",
-      "symbol": "FIX",
-      "name": "NorthStreamPipeline",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0E24224484c7E445438AE9eD9B03a0108aD798f2",
       "symbol": "CHIP",
       "name": "ChipToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc917627d53527bA4A047001823FbEeBf53aaB99B",
+      "symbol": "DEGENXII",
+      "name": "DEGEMBER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17848,
-    "minor": 17848,
+    "major": 17849,
+    "minor": 17849,
     "patch": 86
   }
 }
