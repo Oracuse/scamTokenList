@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8C1f941Eb2dF808809Db1d8d85D87C928e5d0480",
-      "symbol": "HULK",
-      "name": "ETHULK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDeb372B9d42E39072e36f77d005541bcB15c8Dd3",
       "symbol": "TSUKI",
       "name": "Tsukimoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21b8186EB7564BE3D8F673AA9fCd64d6C9852511",
+      "symbol": "TSYRANT",
+      "name": "FableofTheTsuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17901,
-    "minor": 17901,
+    "major": 17902,
+    "minor": 17902,
     "patch": 86
   }
 }
