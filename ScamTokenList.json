@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x61CB0e0cbE562f6d2e615038B0942eAdd645443A",
-      "symbol": "CKWON",
-      "name": "CakeKwon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x54231b44340100140fA30D2B44062a8D354b1C5E",
       "symbol": "SARU",
       "name": "SARU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d760eF9D85288E33F80900Eb23F7e438F3a4Db5",
+      "symbol": "DIM",
+      "name": "dim",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17862,
-    "minor": 17862,
+    "major": 17863,
+    "minor": 17863,
     "patch": 86
   }
 }
