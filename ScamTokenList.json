@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2a3AF872AC71d43FC49D0732D61008770c72e2d0",
-      "symbol": "NOKIAINU",
-      "name": "Nokia",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC39c5bf0384B5fD6c9d4D1448Bd06dbDD0D7beef",
       "symbol": "TAU",
       "name": "TAUToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBFF85456C7042B1f3B4668f94DE52Db6E2C05d94",
+      "symbol": "GIFTINU",
+      "name": "GINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17974,
-    "minor": 17974,
+    "major": 17975,
+    "minor": 17975,
     "patch": 86
   }
 }
