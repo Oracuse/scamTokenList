@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2CD0dBA835998eBbAD21dFA9Ee1D6Af63452Ff23",
-      "symbol": "TSUKINAMI",
-      "name": "Tsukinami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x12C33B1c82d2204d33Bf75e26416EFE7bd7b5828",
       "symbol": "SOHO",
       "name": "SohoClub",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B7c20B3733F9d4D57E072AEc473dAA8c37cd3FB",
+      "symbol": "BABYTYRANT",
+      "name": "FableOfTheDwagon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17839,
-    "minor": 17839,
+    "major": 17840,
+    "minor": 17840,
     "patch": 86
   }
 }
