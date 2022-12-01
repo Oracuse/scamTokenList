@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb76d7161ADC480aA53a1efc8643Aa31a88e5bd3a",
-      "symbol": "OHARA",
-      "name": "Ohara",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA2e4263FA4A7aACB7706a93fcb03AAd3C854e387",
       "symbol": "SAYO",
       "name": "Sayo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc6A25b136dD3f455341079d508545c2BE503227D",
+      "symbol": "PYRANT",
+      "name": "FableOfPyro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17970,
-    "minor": 17970,
+    "major": 17971,
+    "minor": 17971,
     "patch": 86
   }
 }
