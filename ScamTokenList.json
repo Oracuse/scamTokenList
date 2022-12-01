@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa8505b0a997a71aCa0e43A10Ce233e85635808f6",
-      "symbol": "ZION",
-      "name": "RESISTANCE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe06Ed356Be76f6Da5E345809BA4d3d748531cF08",
       "symbol": "HOSEKI",
       "name": "RainbowDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4e58C8856B73A196c72d555D87943F2D34e1c4c",
+      "symbol": "POS",
+      "name": "ProofOfSecret",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17837,
-    "minor": 17837,
+    "major": 17838,
+    "minor": 17838,
     "patch": 86
   }
 }
