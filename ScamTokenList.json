@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x91C1B58F24F5901276b1F2CfD197a5B73e31F96E",
-      "symbol": "QSHIB",
-      "name": "QatarShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE27Edc1435A8dAe4CDe64D19bfd88C564bC38794",
       "symbol": "HIRA",
       "name": "Hiratami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33d5d4cF09EE647c7B70351714c7d925939C150c",
+      "symbol": "ORBERC",
+      "name": "ORBERC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17873,
-    "minor": 17873,
+    "major": 17874,
+    "minor": 17874,
     "patch": 86
   }
 }
