@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4c54E239f4869262bf651cA74B0fF18eD8346f95",
-      "symbol": "GENX",
-      "name": "GenX",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x72ffC4A9BD04B0a155B66ac3B64F2A50387800d6",
       "symbol": "STOPFRONTRUNNING",
       "name": "STOPFRONTRUNNING",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfF2672Ca8098F97c91Fb0D35834C4fFa6C936893",
+      "symbol": "DOGEBER",
+      "name": "Dogecember",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17844,
-    "minor": 17844,
+    "major": 17845,
+    "minor": 17845,
     "patch": 86
   }
 }
