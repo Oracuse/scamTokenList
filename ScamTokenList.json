@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaa3cC1818B3916720675A1Ad35e39f9B455f6D1d",
-      "symbol": "TSUKAL",
-      "name": "TsukaLiquidity",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5f211bc24Dd99e9D403a6C799F8dcdB53f0D19C1",
       "symbol": "VUDU",
       "name": "Voodoo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f4b12863CD1a460a86fe62D00a8A39E7d40acbE",
+      "symbol": "TDT",
+      "name": "TheDragonTyrant",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17834,
-    "minor": 17834,
+    "major": 17835,
+    "minor": 17835,
     "patch": 86
   }
 }
