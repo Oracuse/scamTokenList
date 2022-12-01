@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x10945d57cd90841B6783100810338f423702B1B9",
-      "symbol": "SAAS",
-      "name": "SAASProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaa3cC1818B3916720675A1Ad35e39f9B455f6D1d",
       "symbol": "TSUKAL",
       "name": "TsukaLiquidity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x287bB0CCF7c53A13546FBB4041968efCd211f785",
+      "symbol": "NS",
+      "name": "NeuralinkShow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17833,
-    "minor": 17833,
+    "major": 17834,
+    "minor": 17834,
     "patch": 86
   }
 }
