@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15Df1432715702021332734A396cE9159564c207",
-      "symbol": "SARU",
-      "name": "MergeGuardian",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3c94eF694DCbaBFfc40F6D5437878aEe8D8F0D95",
       "symbol": "STS",
       "name": "Signits",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE4FFA213F96225f600d5bD9aF3eEE3efFfe07Fd2",
+      "symbol": "UPCEMBER",
+      "name": "Upcember",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17883,
-    "minor": 17883,
+    "major": 17884,
+    "minor": 17884,
     "patch": 86
   }
 }
