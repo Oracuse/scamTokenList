@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x999CE2bCcB6a201d05dcF663a25156c36032bd98",
-      "symbol": "ARENA",
-      "name": "AIArena",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7d3ba986875Ef1C347Df7566E437AFE4E9Dda671",
       "symbol": "TGN",
       "name": "TheGreatNoru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5117Fe7Ca32A376743c8bDcE1443fd47D6403b61",
+      "symbol": "D",
+      "name": "DAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17826,
-    "minor": 17826,
+    "major": 17827,
+    "minor": 17827,
     "patch": 86
   }
 }
