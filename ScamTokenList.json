@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0bd3f523f4b218aD68Dc4378B6A243F437840271",
-      "symbol": "REDPILL",
-      "name": "BlueorRed",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x999CE2bCcB6a201d05dcF663a25156c36032bd98",
       "symbol": "ARENA",
       "name": "AIArena",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEbD8aCe7BeA713598035Ec6c908A38e72707d2Ec",
+      "symbol": "POM",
+      "name": "ProofofMeta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17825,
-    "minor": 17825,
+    "major": 17826,
+    "minor": 17826,
     "patch": 86
   }
 }
