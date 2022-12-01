@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf92c655f76C8A247977C3f7fa83eA7c896983c2C",
-      "symbol": "BBBY",
-      "name": "BedBathBeyondInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0A2f66fA6506E6B4cA2de41e69F73731fe6ba32A",
       "symbol": "RONALDO",
       "name": "RonaldoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d38bcae972906Cf18A7060fc3BA63FEfefD45f0",
+      "symbol": "MESSI",
+      "name": "LionlMessi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17938,
-    "minor": 17938,
+    "major": 17939,
+    "minor": 17939,
     "patch": 86
   }
 }
