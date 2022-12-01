@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x244c85CFd9c742c24C3b7EE8fD1942bED695ACDf",
-      "symbol": "TSUKARAI",
-      "name": "DejitaruSamurai",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8Cf8953D5D0B3cB9fd72C3Eac244790AB8d2007F",
       "symbol": "HONESTY",
       "name": "Honesty",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a1b442D2FB1e7c44381c435f26176CBD8aA0355",
+      "symbol": "BSHIB",
+      "name": "BlackShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17913,
-    "minor": 17913,
+    "major": 17914,
+    "minor": 17914,
     "patch": 86
   }
 }
