@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFb64E0302C6981Bf21e197b4b8Aa4ebf355919a3",
-      "symbol": "SARU",
-      "name": "SARU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9F6D57A54995c9dF0d0bDC62A3ceDd54a954F5FA",
       "symbol": "MCDONALDSFRENCHFRIE",
       "name": "MFF",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x933856bba05B35dB514290ee8714F3a23F806Feb",
+      "symbol": "RRIM",
+      "name": "rrim",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17852,
-    "minor": 17852,
+    "major": 17853,
+    "minor": 17853,
     "patch": 86
   }
 }
