@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0A2f66fA6506E6B4cA2de41e69F73731fe6ba32A",
-      "symbol": "RONALDO",
-      "name": "RonaldoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x07bD55FBB311c89779F657705b349eB2eC2B91A1",
       "symbol": "AMC",
       "name": "AMCInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11FD8FbF6A166F539A10C278931F84A07c11BCF6",
+      "symbol": "SNOWBALL",
+      "name": "Snuffles",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17939,
-    "minor": 17939,
+    "major": 17940,
+    "minor": 17940,
     "patch": 86
   }
 }
