@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x237B8ffb3a5CD1EA5d84BdB5F49206B545399033",
-      "symbol": "VARIOLE",
-      "name": "Variole",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x94064f5fC27EAefbE99007e8Eb7C667fF366c857",
       "symbol": "TSUNAMI",
       "name": "TheGreatwaveofETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD77B199251E7f63686d8127b55b780c1ad7c487a",
+      "symbol": "POG",
+      "name": "ProofofGiving",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17822,
-    "minor": 17822,
+    "major": 17823,
+    "minor": 17823,
     "patch": 86
   }
 }
