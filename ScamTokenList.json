@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0E24224484c7E445438AE9eD9B03a0108aD798f2",
-      "symbol": "CHIP",
-      "name": "ChipToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFA33b08A2fF6332132B59db80964d47E34803f0F",
       "symbol": "COLRV",
       "name": "colRverse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e24a8c0750CbfD282E37Ca69db54730266e5D5f",
+      "symbol": "R0RRIM",
+      "name": "R0rrim",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17849,
-    "minor": 17849,
+    "major": 17850,
+    "minor": 17850,
     "patch": 86
   }
 }
