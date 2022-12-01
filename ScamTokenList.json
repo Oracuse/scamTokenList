@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAc28FF30B5094C6C7c9E93dc5785dB58667D320A",
-      "symbol": "VENEZIA",
-      "name": "ViadelCorso",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdf3a466eC6654a70A99E693e07b5c81E0E814fab",
       "symbol": "SIMP",
       "name": "SimpDoKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa51c5fa40de59F5FF01C8B1155313Be83c6B2A18",
+      "symbol": "BELLS",
+      "name": "JINGLE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17911,
-    "minor": 17911,
+    "major": 17912,
+    "minor": 17912,
     "patch": 86
   }
 }
