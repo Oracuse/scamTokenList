@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc4eA027499154a88398ec0F78b6c8F0796D4Ea48",
-      "symbol": "LAEEB",
-      "name": "WorldCupMascot",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4c54E239f4869262bf651cA74B0fF18eD8346f95",
       "symbol": "GENX",
       "name": "GenX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3A8996A9f7e2b194D8192fa7bC37096695Fd6Cb3",
+      "symbol": "TESTMEINU",
+      "name": "TestMeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17843,
-    "minor": 17843,
+    "major": 17844,
+    "minor": 17844,
     "patch": 86
   }
 }
