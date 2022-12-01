@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x651C9AB07C815C6987972370F581F127D8B920D7",
-      "symbol": "TNT",
-      "name": "TNT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x581C624DcaAdFC05f6A68e30a5144B0ADC029086",
       "symbol": "RKITTY",
       "name": "RoaringKitty",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A261241235d03CEc7868582aB07502aE10a6827",
+      "symbol": "TESLA",
+      "name": "TeslaDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17927,
-    "minor": 17927,
+    "major": 17928,
+    "minor": 17928,
     "patch": 86
   }
 }
