@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7a98F4BB3fCF26a782B4ec08F1764F10895BA09B",
-      "symbol": "AGENERATE",
-      "name": "AiGenerate",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1377C17f097Ea58230916626ce5f653394E3712b",
       "symbol": "OSF",
       "name": "OSFEditiones",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7608830BDd75D3EdF15CBC9AC3D96641C3A8beCe",
+      "symbol": "TPRINT",
+      "name": "TyrantPrinter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17820,
-    "minor": 17820,
+    "major": 17821,
+    "minor": 17821,
     "patch": 86
   }
 }
