@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6d5a63bc8E5d61bbedc7a7F35398E57FC5bd73a5",
-      "symbol": "RESET",
-      "name": "TehGrandReset",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBeCF1D2C74Bcb5700dfb6bA29C19681127AB2727",
       "symbol": "SARU",
       "name": "Saru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x603006f35964E415380860feeC49a8863e3f3C53",
+      "symbol": "ZIM",
+      "name": "zim",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 17859,
-    "minor": 17859,
+    "major": 17860,
+    "minor": 17860,
     "patch": 86
   }
 }
