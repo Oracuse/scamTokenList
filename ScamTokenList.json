@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc0ab477DB88dAe437eDba11d7F5f9F5FEaC8A6A5",
-      "symbol": "HOSHI",
-      "name": "Hoshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc273AE559442ADd93d8Fc4D77546466a4B59A8e4",
       "symbol": "INARI",
       "name": "Inari",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc6751E17A78b1910A1418F372C2bB699eaF5ba0a",
+      "symbol": "MEVLABS",
+      "name": "DefiBotResearch",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17955,
-    "minor": 17955,
+    "major": 17956,
+    "minor": 17956,
     "patch": 86
   }
 }
