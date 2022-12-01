@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa6bDA458F18E9a064fB3D6d83B52dB68cDDa87bb",
-      "symbol": "KYO",
-      "name": "Kyoto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf45409EDb249631388e77CAf3cec29c4907CE238",
       "symbol": "SLIPPAGE",
       "name": "WYS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x117910ea0f61668635f1bc032e24625cBfDBB773",
+      "symbol": "DARAKU",
+      "name": "DarakuShita",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17818,
-    "minor": 17818,
+    "major": 17819,
+    "minor": 17819,
     "patch": 86
   }
 }
