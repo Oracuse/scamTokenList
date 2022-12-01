@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2cA52bB5Ed93627F8CAAa4A4A94303111D60Eb36",
-      "symbol": "ACQ",
-      "name": "AcquireFi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82e039644dd042E9aff8658dE5da76a0063596e8",
       "symbol": "CONDOM",
       "name": "CONDOM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc62D13CD1d79347AE63B39dEf0e88056b89a8CF2",
+      "symbol": "BTCW",
+      "name": "BitcoinWhite",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17828,
-    "minor": 17828,
+    "major": 17829,
+    "minor": 17829,
     "patch": 86
   }
 }
