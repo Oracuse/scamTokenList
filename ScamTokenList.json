@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x72ffC4A9BD04B0a155B66ac3B64F2A50387800d6",
-      "symbol": "STOPFRONTRUNNING",
-      "name": "STOPFRONTRUNNING",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21b396C37c30AAf7fB7289F26f6925744C835E9D",
       "symbol": "YOSHI",
       "name": "ASAKURAYOSHIKAGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2983d72ED975220b2880BE25bD43177eD085BD5",
+      "symbol": "EMP",
+      "name": "Emporium",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17845,
-    "minor": 17845,
+    "major": 17846,
+    "minor": 17846,
     "patch": 86
   }
 }
