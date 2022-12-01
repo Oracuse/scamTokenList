@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93f63C85Ca0F3a3767113d12a7289a995ccCDAE2",
-      "symbol": "NAGINATA",
-      "name": "Naginata",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x95165d568d47eC7302E4be654b343e9b6862BFF2",
       "symbol": "WSB",
       "name": "WallStreetBetsInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5aB1cdfEe534f9416C53D729Da71C5A253dCc840",
+      "symbol": "GULAG",
+      "name": "HydraVision",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17932,
-    "minor": 17932,
+    "major": 17933,
+    "minor": 17933,
     "patch": 86
   }
 }
