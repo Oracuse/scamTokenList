@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1CC4932198472BF8436DFcD5eB1FbB1585e66db1",
-      "symbol": "GEM",
-      "name": "Gem",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x961DD8659b6226C463af7045637Ebf5E10395f00",
       "symbol": "BUNGAMA",
       "name": "BunbukuChagama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3420c7222FDdEC2318415350a861E5f8208c0F3b",
+      "symbol": "DINO",
+      "name": "TinyDino",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18025,
-    "minor": 18025,
+    "major": 18026,
+    "minor": 18026,
     "patch": 86
   }
 }
