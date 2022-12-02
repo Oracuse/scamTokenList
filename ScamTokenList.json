@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdFD92421e94572A128E3b638979b22961aC4e5e0",
-      "symbol": "PIPELINE",
-      "name": "GasSabotage",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x505967B14AD06a783dB2a0468f834CA78b646f63",
       "symbol": "HBO",
       "name": "HBOInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0380fE4279662c15dB721eD56E27Ba0acbDbd789",
+      "symbol": "KINU",
+      "name": "KanyeWestInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18014,
-    "minor": 18014,
+    "major": 18015,
+    "minor": 18015,
     "patch": 86
   }
 }
