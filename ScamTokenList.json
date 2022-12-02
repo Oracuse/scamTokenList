@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x176aeBe4E05531d813b270e338De2d56E8b459B6",
-      "symbol": "DRAGCHAIN",
-      "name": "DragonChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88f872DC4D83Ed2949d6CbA086817cd1F4395e6f",
       "symbol": "TSUG",
       "name": "TsukaGrow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73911409a9eBeAf4068682910160f4936cC4551c",
+      "symbol": "GOTHMOG",
+      "name": "FableofBalrogs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18079,
-    "minor": 18079,
+    "major": 18080,
+    "minor": 18080,
     "patch": 86
   }
 }
