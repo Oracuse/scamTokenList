@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDB4687810914d906C809857d3e18735016721163",
-      "symbol": "SPY",
-      "name": "SpyInuMemeCoinIndex",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2fef0642EF9d7dE689D2e55751A7f1A3eE1deAd9",
       "symbol": "SOT",
       "name": "SonOfTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B7B05FB718C3df314C0E9FA3cB9Cd4a1aF42385",
+      "symbol": "LFG",
+      "name": "AlphaApes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18077,
-    "minor": 18077,
+    "major": 18078,
+    "minor": 18078,
     "patch": 86
   }
 }
