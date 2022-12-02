@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6185e544e043392e6E6AB23fE53c89e086453E07",
-      "symbol": "NAAS",
-      "name": "NodeService",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5411D2A13c6308Ee8C79448FA46053bEcF7d62ED",
       "symbol": "RUPOL",
       "name": "Rupol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc2d724D61628082aE3F02e33Dff2726A650862Ff",
+      "symbol": "ANKRC",
+      "name": "AnkrClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17993,
-    "minor": 17993,
+    "major": 17994,
+    "minor": 17994,
     "patch": 86
   }
 }
