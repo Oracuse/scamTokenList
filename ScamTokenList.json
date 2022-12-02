@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBad4D2A896F550906A451cf30B012CcC55d14E85",
-      "symbol": "WIGT",
-      "name": "TradingWidget",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x633ACa6e410B48E07c599aF61C4B53264a87014c",
       "symbol": "BOT",
       "name": "BalanceOfTrade",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c7184bFAf3cE8D4370653b154c6ceFC577aD69A",
+      "symbol": "DBZ",
+      "name": "Dubbz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18072,
-    "minor": 18072,
+    "major": 18073,
+    "minor": 18073,
     "patch": 86
   }
 }
