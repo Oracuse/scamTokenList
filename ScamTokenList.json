@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbf529c3AE8B405A77F88F9188Fe88e9d90CF4Af4",
-      "symbol": "BRI",
-      "name": "BlackRockInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8a25Dd1a3a626C85768c66D706a6f11831a694E0",
       "symbol": "FEE",
       "name": "GAS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE26CA8238ce6989e60bcb89ee256ddB71EB72cCa",
+      "symbol": "DYRANT",
+      "name": "FableOfTheDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18010,
-    "minor": 18010,
+    "major": 18011,
+    "minor": 18011,
     "patch": 86
   }
 }
