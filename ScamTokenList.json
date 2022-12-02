@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc98C3c9296242cC3EbDE2d376C70D1efC43cb208",
-      "symbol": "GOLGO13",
-      "name": "DukeTogo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF63e37b3383ea98752d16c7db969276A17757Bd7",
       "symbol": "MRANE",
       "name": "ManchurianCrane",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF33433a52A7cd3A9E7975DC5FfEE6aa3352a1fbD",
+      "symbol": "INF",
+      "name": "InfinitySwap",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18092,
-    "minor": 18092,
+    "major": 18093,
+    "minor": 18093,
     "patch": 86
   }
 }
