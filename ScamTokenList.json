@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x633ACa6e410B48E07c599aF61C4B53264a87014c",
-      "symbol": "BOT",
-      "name": "BalanceOfTrade",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3A867ccb5a51d5854306Ac7C66136460875B4A8A",
       "symbol": "RSCAN",
       "name": "RavenScan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa13a27fc833D09eabd9fE03091CA36E5f5686D93",
+      "symbol": "REDUX",
+      "name": "Redux",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18073,
-    "minor": 18073,
+    "major": 18074,
+    "minor": 18074,
     "patch": 86
   }
 }
