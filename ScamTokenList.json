@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8a25Dd1a3a626C85768c66D706a6f11831a694E0",
-      "symbol": "FEE",
-      "name": "GAS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x16A1B78907311815b6727F8dDbDfFE8CA557193a",
       "symbol": "SUPERSTONK",
       "name": "SUPERSTONK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2345F60FD7cE61aC25D82BdcAd7Bb50142d866c6",
+      "symbol": "KEICHO",
+      "name": "Keicho",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18011,
-    "minor": 18011,
+    "major": 18012,
+    "minor": 18012,
     "patch": 86
   }
 }
