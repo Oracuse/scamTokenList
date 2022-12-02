@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81251c8FD1f13F129689B6AB2eB22472C082f714",
-      "symbol": "APG",
-      "name": "APG",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x72b28C931447C26C1242bc47896913fdc1F4b4C1",
       "symbol": "MANEKI",
       "name": "ManekiNeko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F87AFB4E98ce8c1dfC5E07C7Ba1861794b98214",
+      "symbol": "NEVERMORE",
+      "name": "Nevermore",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18020,
-    "minor": 18020,
+    "major": 18021,
+    "minor": 18021,
     "patch": 86
   }
 }
