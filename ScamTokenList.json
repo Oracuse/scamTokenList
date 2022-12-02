@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc6cC97735f4D439aa5D4A17b19Df0819905C8251",
-      "symbol": "TGALAXY",
-      "name": "GalaxyToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09224dCEAC5AB3dF7F66aB10C5EAAE2E0D24a428",
       "symbol": "NIPPON",
       "name": "NipponInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe87EF8B5A96A4baDc620bF7F71395920ca8C9803",
+      "symbol": "SHAMOO",
+      "name": "shamoo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18007,
-    "minor": 18007,
+    "major": 18008,
+    "minor": 18008,
     "patch": 86
   }
 }
