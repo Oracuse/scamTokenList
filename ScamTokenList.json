@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x79D4f6CAF6a8bA100F8Ad2c09dAd7a845B03c2c8",
-      "symbol": "TEST",
-      "name": "Test",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x319dca99721dc6b145583723060e9642CDae6719",
       "symbol": "OKARA",
       "name": "OkaraToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x004ac90dd3237Cc82AAfA3cd61a321b8aAF96766",
+      "symbol": "DUNGEON",
+      "name": "LoveDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18070,
-    "minor": 18070,
+    "major": 18071,
+    "minor": 18071,
     "patch": 86
   }
 }
