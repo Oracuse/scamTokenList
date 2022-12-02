@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd26ADe7E740d16B2c03A820594BfC72C1b2F0001",
-      "symbol": "UNIQUE",
-      "name": "TheOnlyOne",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1306bb8bCF77033E92951a85BC3FaeB913C059E0",
       "symbol": "DNOMICS",
       "name": "Dosanomics",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaA683eFAF89c38a580458dE25CF5b619323446D7",
+      "symbol": "BNBB",
+      "name": "SinanceBlack",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18099,
-    "minor": 18099,
+    "major": 18100,
+    "minor": 18100,
     "patch": 86
   }
 }
