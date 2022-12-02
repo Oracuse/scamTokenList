@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC1040ad4e6356DDf6f9b1D50F041169402CEA855",
-      "symbol": "ANKH",
-      "name": "Ankh",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd740f775d4886D03f19EAed6660C1353375aF579",
       "symbol": "AMAZON",
       "name": "AmazonInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xECbC6eEFde057861917B62226d6f080C36749dBD",
+      "symbol": "GYE",
+      "name": "GoodbyeYe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18052,
-    "minor": 18052,
+    "major": 18053,
+    "minor": 18053,
     "patch": 86
   }
 }
