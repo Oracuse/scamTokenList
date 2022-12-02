@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5A22bF2DF5fBfC4Cea6cB3C5ecc32de0ffd059B1",
-      "symbol": "MASS",
-      "name": "MidnightMASS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf8b844e7128C6b0FBAC40dF7Da8A934881080491",
       "symbol": "KOMATSUHIME",
       "name": "Komatsuhime",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43E8F8A8Ddc0728Ba6fA2BD5aa73C937160c73b6",
+      "symbol": "SHIBATAR",
+      "name": "Shibatar",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18049,
-    "minor": 18049,
+    "major": 18050,
+    "minor": 18050,
     "patch": 86
   }
 }
