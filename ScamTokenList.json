@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Dfd7d6004599574E25e2FA3e9fc47b7Bf9dEb7d",
-      "symbol": "NOKIAINU",
-      "name": "NOK",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3B2605CB273AebCFE3eD7AA9D9Ad38AbB99ad0fB",
       "symbol": "WSB",
       "name": "WALLSTREETBETS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Ad2a911A7363CB760c74A24011aD7a4bcA55a2B",
+      "symbol": "JUNP",
+      "name": "JunpTrading",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18029,
-    "minor": 18029,
+    "major": 18030,
+    "minor": 18030,
     "patch": 86
   }
 }
