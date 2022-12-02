@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1306bb8bCF77033E92951a85BC3FaeB913C059E0",
-      "symbol": "DNOMICS",
-      "name": "Dosanomics",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9bc90450780630D39f9Bf6599C31aEd8bdDC2359",
       "symbol": "FC",
       "name": "FlokiCup",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a327857D10093039fe9e4174A240eDA95e2db3B",
+      "symbol": "BNBB",
+      "name": "BinanceBlack",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18100,
-    "minor": 18100,
+    "major": 18101,
+    "minor": 18101,
     "patch": 86
   }
 }
