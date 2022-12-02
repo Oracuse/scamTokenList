@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x00705C7a97951132A1DA87965BF138eA59c579FC",
-      "symbol": "YUM",
-      "name": "DYOR",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBAFA519a80Eb37D8c649C3C5a1eD6A8EfDC81cD8",
       "symbol": "RIP",
       "name": "BOZO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5596bC9e7222100339617Ae1CB47eCDf6e9fBEaF",
+      "symbol": "TEST",
+      "name": "test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18005,
-    "minor": 18005,
+    "major": 18006,
+    "minor": 18006,
     "patch": 86
   }
 }
