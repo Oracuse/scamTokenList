@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFcaA609c6567d6Ed51A9CD330A69eeEEB72c4343",
-      "symbol": "SQUID20",
-      "name": "SquidGame",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x166A47c3413972360C3eB2Ee7f4Bceb6e1c82D47",
       "symbol": "ETHSYRUP",
       "name": "EthereumSyrup",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52320a9EA931c7fc9188fAa55A1c0522b8E3665F",
+      "symbol": "TOV",
+      "name": "TempleofVitalik",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18043,
-    "minor": 18043,
+    "major": 18044,
+    "minor": 18044,
     "patch": 86
   }
 }
