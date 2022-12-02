@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x16A1B78907311815b6727F8dDbDfFE8CA557193a",
-      "symbol": "SUPERSTONK",
-      "name": "SUPERSTONK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98eEDEFD3C80Ccb4Df42Aa9B45115458Af339975",
       "symbol": "QATAR",
       "name": "QatarInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x067C114B77e343bd93780Eb78ae34511413f89e7",
+      "symbol": "OKXFC",
+      "name": "OKXFootballCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18012,
-    "minor": 18012,
+    "major": 18013,
+    "minor": 18013,
     "patch": 86
   }
 }
