@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x03E84ee9B5EacFbaB69a2a840AbC1bA1625Ef7E6",
-      "symbol": "UNIFY",
-      "name": "Unify",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x79D4f6CAF6a8bA100F8Ad2c09dAd7a845B03c2c8",
       "symbol": "TEST",
       "name": "Test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd444028163d6261687155ba62e92F894EA6aFB05",
+      "symbol": "RALPHA",
+      "name": "reAlpha",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18069,
-    "minor": 18069,
+    "major": 18070,
+    "minor": 18070,
     "patch": 86
   }
 }
