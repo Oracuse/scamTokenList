@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x992D521d61dF1cfb6bA1d61ca4241d049004200E",
-      "symbol": "FACECRAMER",
-      "name": "BADFACECRAMER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6217903c95551bEf701F4A634d5ED8Df4E2116E1",
       "symbol": "PL",
       "name": "PepeLore",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF854C0beB4eA13E6FC7257f37aD75545D253D45C",
+      "symbol": "XMAS",
+      "name": "XMAS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18036,
-    "minor": 18036,
+    "major": 18037,
+    "minor": 18037,
     "patch": 86
   }
 }
