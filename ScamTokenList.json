@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51e96dB9b71Ca81F26D29f0895fb9ab115f7ad65",
-      "symbol": "BBYD",
-      "name": "BabyDosa",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xce626026E2b1F38a9337faE30D117bB0544301BB",
       "symbol": "TSLA",
       "name": "TeslaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFDF6fcd190A862FD00770729a93b3E8Fa9C8b8E7",
+      "symbol": "DROKI",
+      "name": "DRAGONFLOKI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18060,
-    "minor": 18060,
+    "major": 18061,
+    "minor": 18061,
     "patch": 86
   }
 }
