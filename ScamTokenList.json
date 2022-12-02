@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC39c5bf0384B5fD6c9d4D1448Bd06dbDD0D7beef",
-      "symbol": "TAU",
-      "name": "TAUToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB01fd2e439Ec3457C719c34dF305538F6777e4AF",
       "symbol": "ITACHI",
       "name": "Itachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x915602a59E5160600C6a6665DA71f40A684532C9",
+      "symbol": "NO2",
+      "name": "Diesel",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17975,
-    "minor": 17975,
+    "major": 17976,
+    "minor": 17976,
     "patch": 86
   }
 }
