@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x319dca99721dc6b145583723060e9642CDae6719",
-      "symbol": "OKARA",
-      "name": "OkaraToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBad4D2A896F550906A451cf30B012CcC55d14E85",
       "symbol": "WIGT",
       "name": "TradingWidget",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a41197B8b4A41bc027be6Ee9d69c95494fD6a11",
+      "symbol": "SHINAMON",
+      "name": "Shinamon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18071,
-    "minor": 18071,
+    "major": 18072,
+    "minor": 18072,
     "patch": 86
   }
 }
