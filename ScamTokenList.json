@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2fef0642EF9d7dE689D2e55751A7f1A3eE1deAd9",
-      "symbol": "SOT",
-      "name": "SonOfTsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x176aeBe4E05531d813b270e338De2d56E8b459B6",
       "symbol": "DRAGCHAIN",
       "name": "DragonChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x077AcDD0E0B5A40B416d29Dbb5Fb5Ef436996AEd",
+      "symbol": "GYRANT",
+      "name": "FableOfTheGolden",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18078,
-    "minor": 18078,
+    "major": 18079,
+    "minor": 18079,
     "patch": 86
   }
 }
