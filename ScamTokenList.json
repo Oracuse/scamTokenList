@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x637388290c67ca918940F91E1b1b89677fFA1918",
-      "symbol": "DOSA",
-      "name": "DOSATOKENOMICS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBc75054C3CDCcA2637F5669e52a68d9971af18FC",
       "symbol": "VELADA",
       "name": "Velada",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe0B5Daf3De4a5423D7FFbf23681054b3fbA9932",
+      "symbol": "MONGOOSEV2",
+      "name": "MONGOOSEv2",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18082,
-    "minor": 18082,
+    "major": 18083,
+    "minor": 18083,
     "patch": 86
   }
 }
