@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x88f872DC4D83Ed2949d6CbA086817cd1F4395e6f",
-      "symbol": "TSUG",
-      "name": "TsukaGrow",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x970cf867Ca0530a989f222bE01FdD67C1ab5b2bF",
       "symbol": "BASAN",
       "name": "BASAN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE612800A22B2CC2Eb088Dd73Fba2deC9F59164bD",
+      "symbol": "FABINU",
+      "name": "FableInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18080,
-    "minor": 18080,
+    "major": 18081,
+    "minor": 18081,
     "patch": 86
   }
 }
