@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x166A47c3413972360C3eB2Ee7f4Bceb6e1c82D47",
-      "symbol": "ETHSYRUP",
-      "name": "EthereumSyrup",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1DBF4FEB927A1a3feA80f069112D741ab4451C4D",
       "symbol": "DOSA",
       "name": "Dosa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3306FcBB3213Ef4B796595D5cbed90487748935",
+      "symbol": "SENKU",
+      "name": "SENKU",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18044,
-    "minor": 18044,
+    "major": 18045,
+    "minor": 18045,
     "patch": 86
   }
 }
