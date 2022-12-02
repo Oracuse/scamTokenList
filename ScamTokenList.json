@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB10b783b407863E261F075b0B3E269C63eb8282A",
-      "symbol": "DESTINED",
-      "name": "Destiny",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe90d751093cf626Cd9b89DC06A5002Ae55Ba0FcD",
       "symbol": "DAIKI",
       "name": "DAIKI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x097bd8B7F55B6d48b64149f910e689782e073bFC",
+      "symbol": "GTC",
+      "name": "GrandTheftCrypto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18066,
-    "minor": 18066,
+    "major": 18067,
+    "minor": 18067,
     "patch": 86
   }
 }
