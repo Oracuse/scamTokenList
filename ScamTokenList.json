@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x816f30AF822D04156719c903B35F395AAc6622d9",
-      "symbol": "KFCI",
-      "name": "KFCInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00329708A10bbEC7b32dd731E235464414703c0F",
       "symbol": "0XPFL",
       "name": "0xPFL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa74a37b7DFa6422330D3d24d6521F0Ea6ABC332A",
+      "symbol": "GS",
+      "name": "GORILLASWAP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18058,
-    "minor": 18058,
+    "major": 18059,
+    "minor": 18059,
     "patch": 86
   }
 }
