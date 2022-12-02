@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4d78d138669D6D35e2D8CBE0c197328cE36aB77f",
-      "symbol": "YAGA",
-      "name": "BabaYaga",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76bA025EED1f4A6054D53DD22692D0278D4091B5",
       "symbol": "FIREFOX",
       "name": "FIREFOX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2741B8fce74AB0017Aa4E065997C6a3e568A2c42",
+      "symbol": "BETH",
+      "name": "BlackEthereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18086,
-    "minor": 18086,
+    "major": 18087,
+    "minor": 18087,
     "patch": 86
   }
 }
