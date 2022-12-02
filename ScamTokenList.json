@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA1B26B9918b350e9657D9Ab43A45088805d65E4e",
-      "symbol": "KINGS",
-      "name": "KingsCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x482cdb92fC1d942cB62eBfD40F3d8c6a1F7e366d",
       "symbol": "APPLEINU",
       "name": "APPLE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E029196D047830d0186Eaee79a57B7Dd4506545",
+      "symbol": "INURANT",
+      "name": "FableoftheInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18033,
-    "minor": 18033,
+    "major": 18034,
+    "minor": 18034,
     "patch": 86
   }
 }
