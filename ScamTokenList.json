@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd740f775d4886D03f19EAed6660C1353375aF579",
-      "symbol": "AMAZON",
-      "name": "AmazonInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x969E58dC02e7E207Ffc4C9Bcb82eef9Ae5fE74Ad",
       "symbol": "PARADOX",
       "name": "PowerofParadox",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x985C839f8c9BCA814C97356EE0325eE17C9302a1",
+      "symbol": "ZIRA",
+      "name": "Zira",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18053,
-    "minor": 18053,
+    "major": 18054,
+    "minor": 18054,
     "patch": 86
   }
 }
