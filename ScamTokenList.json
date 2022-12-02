@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x09224dCEAC5AB3dF7F66aB10C5EAAE2E0D24a428",
-      "symbol": "NIPPON",
-      "name": "NipponInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4f050be79dDb480DEdcdb2af7F0c8724d7B54fcb",
       "symbol": "KYOTO",
       "name": "Kyoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0bCC2F89dBE7Acd9BdcB4A45B5897d192507175",
+      "symbol": "KAPE",
+      "name": "KINGAPE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18008,
-    "minor": 18008,
+    "major": 18009,
+    "minor": 18009,
     "patch": 86
   }
 }
