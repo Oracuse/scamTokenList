@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x392af1321dF9F4fF2b5632a43C363693b0C04184",
-      "symbol": "RHI",
-      "name": "RobinhoonInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA5bf8D1c5CC254B31c1b7cEFA12E0744Ae083980",
       "symbol": "ATHENA",
       "name": "ATHENA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf9DdC9eb7a9fE0E3B7194913b7f28BB826E8ade",
+      "symbol": "DYRANT",
+      "name": "FableofTheDegen",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18002,
-    "minor": 18002,
+    "major": 18003,
+    "minor": 18003,
     "patch": 86
   }
 }
