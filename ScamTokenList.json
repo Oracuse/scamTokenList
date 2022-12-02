@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9E778416060e2Fa3D0638F8d2879Cf87A59094e9",
-      "symbol": "KANO",
-      "name": "Kano",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x940abf41036e602Ef3523D1749e8287a0B31b206",
       "symbol": "KAZUO",
       "name": "Kazuo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25E54B893A359C27B1e633253554Cc99F54D066a",
+      "symbol": "EPI",
+      "name": "EmptyPocketsInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17981,
-    "minor": 17981,
+    "major": 17982,
+    "minor": 17982,
     "patch": 86
   }
 }
