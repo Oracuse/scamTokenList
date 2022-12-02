@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA08a471Dc7EbbDdc758740Bc67236fb1bf26465d",
-      "symbol": "POOPS",
-      "name": "Poopsicle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x840b9f32E6dBEc1139E329d7aFC02F3b6c97579c",
       "symbol": "GLDF",
       "name": "TheGoldenFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcE7f1366f301d3D563a705d71456f0D171c5e0d6",
+      "symbol": "FAFO",
+      "name": "FirstAndFinalOffer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18022,
-    "minor": 18022,
+    "major": 18023,
+    "minor": 18023,
     "patch": 86
   }
 }
