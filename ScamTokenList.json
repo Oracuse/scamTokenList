@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9db6922b3ac96f4B4675620442c1D5d14d2A350F",
-      "symbol": "APPLEINC",
-      "name": "APPLE",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA1B26B9918b350e9657D9Ab43A45088805d65E4e",
       "symbol": "KINGS",
       "name": "KingsCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x283E4C5EDb1c71E23BF8F69236C9B61EDc7075eA",
+      "symbol": "THEHOLIDAYS",
+      "name": "Hannukah",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18032,
-    "minor": 18032,
+    "major": 18033,
+    "minor": 18033,
     "patch": 86
   }
 }
