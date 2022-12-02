@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3A867ccb5a51d5854306Ac7C66136460875B4A8A",
-      "symbol": "RSCAN",
-      "name": "RavenScan",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x34fDbbCEb89092fAaCe8c5dAFF0009d5F10C4314",
       "symbol": "DOSA",
       "name": "Dosa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A3D611726e0446b00d631baD21B93c65F701B4D",
+      "symbol": "OSF",
+      "name": "OSFEditions",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18074,
-    "minor": 18074,
+    "major": 18075,
+    "minor": 18075,
     "patch": 86
   }
 }
