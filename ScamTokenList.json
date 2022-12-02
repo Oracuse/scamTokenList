@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf4aff2f7B80b82ac3416cAb09770aD0a1374D6d1",
-      "symbol": "SUPPORT",
-      "name": "OpaqueHelper",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1E60bDc0722872ab2BDCFF5ad0B7eDe01A8dC79D",
       "symbol": "TRA",
       "name": "Translucent",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c883Ca69e69939A1965AA6ED82acDC73eb44598",
+      "symbol": "BIDEN",
+      "name": "HunterBiden",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18084,
-    "minor": 18084,
+    "major": 18085,
+    "minor": 18085,
     "patch": 86
   }
 }
