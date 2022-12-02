@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8Df92D734c7C8d2C34c9c7E7A01cb51332ce324E",
-      "symbol": "KYOTO",
-      "name": "Kyoto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6185e544e043392e6E6AB23fE53c89e086453E07",
       "symbol": "NAAS",
       "name": "NodeService",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60f4E92777667572B0ECBc102a08742080a6ff23",
+      "symbol": "ANKRY",
+      "name": "ANKRPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17992,
-    "minor": 17992,
+    "major": 17993,
+    "minor": 17993,
     "patch": 86
   }
 }
