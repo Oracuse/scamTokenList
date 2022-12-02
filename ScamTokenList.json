@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaB5697aB432424CfffF241B8339D61CbF5F21758",
-      "symbol": "RODDO",
-      "name": "RyoshiNoRoddo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x91b2c4A5Ec7278A8e4125b059abAbFe361c0c208",
       "symbol": "MSFT",
       "name": "MicrosoftInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0427960346d8d0E73a04763CBA4D33b732255197",
+      "symbol": "ICE",
+      "name": "IceDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 17985,
-    "minor": 17985,
+    "major": 17986,
+    "minor": 17986,
     "patch": 86
   }
 }
