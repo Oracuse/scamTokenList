@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f5114bEEcECf1918cD7580e74e371B18636cc5D",
-      "symbol": "COCKWON",
-      "name": "Cockwon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6EAf62dEC3340A580836507f29D5738770a80d43",
       "symbol": "YEO",
       "name": "Yeoheung",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x168777a8d7123EE244b59a9138D59EBA015aa12d",
+      "symbol": "SHIBATAR",
+      "name": "SHIBATAR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18039,
-    "minor": 18039,
+    "major": 18040,
+    "minor": 18040,
     "patch": 86
   }
 }
