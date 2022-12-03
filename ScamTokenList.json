@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x82f6d1c09cf4aDD02c5ae941a42aDdB1DF8b70aC",
-      "symbol": "OBNK",
-      "name": "OpaqueBank",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3c4E3E64572E869cED9D8e5066c23D2387cffE41",
       "symbol": "BETH",
       "name": "BabyEth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E6bf612cAB2395A12DD7d41bb5670Ee4CA58388",
+      "symbol": "BRINU",
+      "name": "BlackEtherInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18131,
-    "minor": 18131,
+    "major": 18132,
+    "minor": 18132,
     "patch": 86
   }
 }
