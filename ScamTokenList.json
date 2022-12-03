@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x03ED4498D9e4825EC01B1C4F4322ffb53FD2e70b",
-      "symbol": "ICEFI",
-      "name": "IceFinance",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEFF33c62D1F9Bc35230D9ddC5F92Bf0Da981C50e",
       "symbol": "TARUMA",
       "name": "TARUMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a9a8e845847a3c27fa7eefCe222c93A9F3deA5E",
+      "symbol": "BSHIB",
+      "name": "BLACKSHIBA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18174,
-    "minor": 18174,
+    "major": 18175,
+    "minor": 18175,
     "patch": 86
   }
 }
