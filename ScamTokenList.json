@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCcB3E68048ACbc1a8C9A6FCf6709d4557a2B5119",
-      "symbol": "NAAS",
-      "name": "NodeService",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82f6d1c09cf4aDD02c5ae941a42aDdB1DF8b70aC",
       "symbol": "OBNK",
       "name": "OpaqueBank",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBb09a53fc7482964931C0A5EE23EAeD58eDC9f57",
+      "symbol": "DOOM",
+      "name": "DOOMINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18130,
-    "minor": 18130,
+    "major": 18131,
+    "minor": 18131,
     "patch": 86
   }
 }
