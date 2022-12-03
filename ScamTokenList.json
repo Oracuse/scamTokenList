@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb21BB992009f6782603a98df27B45795718cA3c4",
-      "symbol": "NOBITCHES20",
-      "name": "ProofofBitches",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x55FD990F9391c83fe645Bd50262CEa07dcFD69fc",
       "symbol": "AKIR",
       "name": "Akirameruna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDDD3A7E2A2EF6a7728B52826C72C38C49e1CfdAa",
+      "symbol": "BDRAG",
+      "name": "BlackDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18191,
-    "minor": 18191,
+    "major": 18192,
+    "minor": 18192,
     "patch": 86
   }
 }
