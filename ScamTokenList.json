@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEFF33c62D1F9Bc35230D9ddC5F92Bf0Da981C50e",
-      "symbol": "TARUMA",
-      "name": "TARUMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC7a5EdA5Af51Fd10ADAc733DCD3Da2d3b9d1C854",
       "symbol": "RYOSHISU",
       "name": "Ryoshisu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD13461D3F3f089CdFeB69F171C149ec1DBA4fFC5",
+      "symbol": "BNBB",
+      "name": "BNBBlack",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18175,
-    "minor": 18175,
+    "major": 18176,
+    "minor": 18176,
     "patch": 86
   }
 }
