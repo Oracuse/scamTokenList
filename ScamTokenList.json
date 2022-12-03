@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeECeF5F9Fc20a70d059c98c2A89e4212bA99fd7a",
-      "symbol": "COOPER",
-      "name": "Cooper",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDcbdA615b422eCaCe7242058EB2C321949290ff6",
       "symbol": "OASIS",
       "name": "TheLiquidityParadis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c9ea7EDD219eA5A97ce548409B3984fcF6f016f",
+      "symbol": "TYRANTULA",
+      "name": "Tyrantula",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18141,
-    "minor": 18141,
+    "major": 18142,
+    "minor": 18142,
     "patch": 86
   }
 }
