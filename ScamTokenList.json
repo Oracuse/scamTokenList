@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x77b142B1E03685279b0752c50B391d04959673BE",
-      "symbol": "BCC",
-      "name": "BlindCarbonCopy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81C9ec866dc35d48262Da24B4620164baf8B054e",
       "symbol": "BXRP",
       "name": "BabyXRP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3bd272aDA2253a994b5F6dc2520e75ac6ddA4BF",
+      "symbol": "ETHB",
+      "name": "EthereumBlack",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18153,
-    "minor": 18153,
+    "major": 18154,
+    "minor": 18154,
     "patch": 86
   }
 }
