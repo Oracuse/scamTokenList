@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA06587269a2E2897dbf5C10744FeE411B0e78fD8",
-      "symbol": "MANKEINEKO",
-      "name": "JapeneseLuckyCat",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0E3BB378C30149A7B79D2a01BC6281B5Da2aaB1",
       "symbol": "DOTA",
       "name": "DotaToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x012bEa623027811977670d76B5d8F4dEC5b61a11",
+      "symbol": "REFLECT",
+      "name": "reflect",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18125,
-    "minor": 18125,
+    "major": 18126,
+    "minor": 18126,
     "patch": 86
   }
 }
