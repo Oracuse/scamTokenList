@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81C9ec866dc35d48262Da24B4620164baf8B054e",
-      "symbol": "BXRP",
-      "name": "BabyXRP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xce954dA1c155424b9D177F24CdBF810ab44Eb90a",
       "symbol": "NK",
       "name": "NTSSKIL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x716F6DD1a62710aCC5D57eF49373B3d37E5A1b1c",
+      "symbol": "STYRANT",
+      "name": "SantaTyrant",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18154,
-    "minor": 18154,
+    "major": 18155,
+    "minor": 18155,
     "patch": 86
   }
 }
