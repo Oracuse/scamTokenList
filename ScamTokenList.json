@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x065Be2d25Db5AdC06DDfdEfC29802C12f032dae2",
-      "symbol": "TN",
-      "name": "Testnet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE64973006716F08119f317FEa822E956a6a6c5Be",
       "symbol": "SPN",
       "name": "SPACEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3bD8A4B9d417e63b8B10e89f0ec86F54285562cd",
+      "symbol": "FLOKIB",
+      "name": "FlokiBlack",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18114,
-    "minor": 18114,
+    "major": 18115,
+    "minor": 18115,
     "patch": 86
   }
 }
