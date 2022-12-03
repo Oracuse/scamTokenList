@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE64973006716F08119f317FEa822E956a6a6c5Be",
-      "symbol": "SPN",
-      "name": "SPACEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3b98406A0c3Bd9512B8C32F02fC8307609a9eB02",
       "symbol": "LIQUIDITY",
       "name": "LiquidityDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBAE14C20ACcDc02e98dfBe302128749B78A5c886",
+      "symbol": "ETHW",
+      "name": "ETHEREUMWHITE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18115,
-    "minor": 18115,
+    "major": 18116,
+    "minor": 18116,
     "patch": 86
   }
 }
