@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbCDAE4fE337bF8bdD3E6349376283abDA4b7a99B",
-      "symbol": "TC",
-      "name": "TehCommunity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00259f6Cf9F5C2875e3CC450ed3286E8b05030e9",
       "symbol": "POP",
       "name": "ProofofOptimus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x346383b30F9F59f0B302E138aA12eADB0AE151EA",
+      "symbol": "BC",
+      "name": "BlackCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18186,
-    "minor": 18186,
+    "major": 18187,
+    "minor": 18187,
     "patch": 86
   }
 }
