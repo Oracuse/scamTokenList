@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa56fB0c23c56ea5969a68636d17E3275caD09a1E",
-      "symbol": "OPPS",
-      "name": "OpaquePoweredPumpin",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbB9Be726D58b84974c15bF51000f8bA0aF22C6B3",
       "symbol": "FOLLOWER",
       "name": "Adepto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59E39d76e1dA6fCCC173b727043d0814CA67DC02",
+      "symbol": "HUSKYNAUT",
+      "name": "HuskynautFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18146,
-    "minor": 18146,
+    "major": 18147,
+    "minor": 18147,
     "patch": 86
   }
 }
