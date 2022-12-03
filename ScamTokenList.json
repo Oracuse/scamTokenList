@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x00259f6Cf9F5C2875e3CC450ed3286E8b05030e9",
-      "symbol": "POP",
-      "name": "ProofofOptimus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD902088c7B657e6d29a4C9AFA2eCb489eE00C7bB",
       "symbol": "OCTOBULL",
       "name": "OctoberBull",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc94e34f250330b018AfAEa4d89242d64776F8e8E",
+      "symbol": "UNITY",
+      "name": "UnityToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18187,
-    "minor": 18187,
+    "major": 18188,
+    "minor": 18188,
     "patch": 86
   }
 }
