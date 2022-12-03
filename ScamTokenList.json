@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3c4E3E64572E869cED9D8e5066c23D2387cffE41",
-      "symbol": "BETH",
-      "name": "BabyEth",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC32cB0Fe9703BF11e28Cd512C50b60009F385D8F",
       "symbol": "MTRL",
       "name": "Mithrillium",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBda92130B4F725301B930ca6F3D3C591a4a3a947",
+      "symbol": "BTPB",
+      "name": "BitcoingProBlack",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18132,
-    "minor": 18132,
+    "major": 18133,
+    "minor": 18133,
     "patch": 86
   }
 }
