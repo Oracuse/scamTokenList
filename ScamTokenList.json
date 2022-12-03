@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFe70E186E361A926d73Cf02955f8F0fEb8218699",
-      "symbol": "LIQUIDITY",
-      "name": "LiquidityDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdd37C7F34Ad053CB61979596C26fF2c39EadFBB1",
       "symbol": "AINU",
       "name": "AIINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5180E3C6f93AD5369458309488e34906C33C0Fd8",
+      "symbol": "ADVT",
+      "name": "CryptoAdvent",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18123,
-    "minor": 18123,
+    "major": 18124,
+    "minor": 18124,
     "patch": 86
   }
 }
