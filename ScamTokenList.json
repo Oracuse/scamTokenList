@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xea0E8C8E6280a0840CF1Cf14170274CAe3d3c95a",
-      "symbol": "BABYDOSA",
-      "name": "BabyDosa",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBb28B10cDd94CD91F7987BEE5ee333AEe21562bD",
       "symbol": "WST",
       "name": "WallStreetTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7806c2744C08DeEa4E048D825f1962F1159e7f8c",
+      "symbol": "BTCX",
+      "name": "Bitcoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18110,
-    "minor": 18110,
+    "major": 18111,
+    "minor": 18111,
     "patch": 86
   }
 }
