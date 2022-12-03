@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9618E8189645037038f2EB4280c0E1a2ef862d63",
-      "symbol": "MRFOOTBALL",
-      "name": "MrFootball",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCcB3E68048ACbc1a8C9A6FCf6709d4557a2B5119",
       "symbol": "NAAS",
       "name": "NodeService",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF78c6B7314AEa899374Ad8475DF19414C5253b3F",
+      "symbol": "SPB",
+      "name": "ShibaProBlack",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18129,
-    "minor": 18129,
+    "major": 18130,
+    "minor": 18130,
     "patch": 86
   }
 }
