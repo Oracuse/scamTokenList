@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB0048A220ee485FF46952e37f0C69d657643dd67",
-      "symbol": "BRRRRRRRR",
-      "name": "PrintingUSDC",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x591eeC72E770743593bb15a2ECE438802f1ea08c",
       "symbol": "META",
       "name": "MetaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x196A2E0B6Afe25C6A92840f8aCe0011f089420E1",
+      "symbol": "BASHI",
+      "name": "BashiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18107,
-    "minor": 18107,
+    "major": 18108,
+    "minor": 18108,
     "patch": 86
   }
 }
