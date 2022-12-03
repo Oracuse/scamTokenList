@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x191Af439784FdFDF67a48c828ff963210CED8775",
-      "symbol": "SHINKAI",
-      "name": "UNDERWATER",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf86464c67462B8B79D65ee84Dd3E9F2208b999B6",
       "symbol": "ERMIUM",
       "name": "ErmiumProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7665322F32F275665d3149f4ebe440162765D369",
+      "symbol": "NUFF",
+      "name": "SBFNUFF",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18189,
-    "minor": 18189,
+    "major": 18190,
+    "minor": 18190,
     "patch": 86
   }
 }
