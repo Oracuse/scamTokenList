@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb0E3BB378C30149A7B79D2a01BC6281B5Da2aaB1",
-      "symbol": "DOTA",
-      "name": "DotaToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0208A9Ffc97A6e96F050087aE1c9F7a2bdD3F5B0",
       "symbol": "HOSHIKA",
       "name": "HoshiKatachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4324934b68e9798f5c9A67A1826Ae8e40adD7Ae8",
+      "symbol": "RFLECT",
+      "name": "rflect",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18126,
-    "minor": 18126,
+    "major": 18127,
+    "minor": 18127,
     "patch": 86
   }
 }
