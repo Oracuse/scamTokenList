@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd0a16fd0659dC6F0ACad5097bab72Ae4164ff14A",
-      "symbol": "COVERC",
-      "name": "COVERProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbE3bbaB84f291b931c750ff06a19D36E36EF3822",
       "symbol": "REDDIT",
       "name": "redditcom",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49a9e8198c5aAd6Ddcf2d5fAD8c1ED3feb345B11",
+      "symbol": "SHIBB",
+      "name": "ShibaBlack",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18120,
-    "minor": 18120,
+    "major": 18121,
+    "minor": 18121,
     "patch": 86
   }
 }
