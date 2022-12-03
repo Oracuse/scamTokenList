@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7BFcCBf1c6fa25892874cba4fB163182E70235b5",
-      "symbol": "SEIRYU",
-      "name": "DejitaruSeiryu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2B7cfAc3FE900745ff0e755529575FA73DF05636",
       "symbol": "SEC",
       "name": "SECInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x086Ce4957B1429bD09bFD2A8eA5C7211B71464b3",
+      "symbol": "DBLS",
+      "name": "Dabloons",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18112,
-    "minor": 18112,
+    "major": 18113,
+    "minor": 18113,
     "patch": 86
   }
 }
