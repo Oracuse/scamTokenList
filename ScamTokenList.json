@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2B7cfAc3FE900745ff0e755529575FA73DF05636",
-      "symbol": "SEC",
-      "name": "SECInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x065Be2d25Db5AdC06DDfdEfC29802C12f032dae2",
       "symbol": "TN",
       "name": "Testnet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe925299591d4590A9037D8b23C375324F8964A83",
+      "symbol": "DSANTA",
+      "name": "DegenSanta",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18113,
-    "minor": 18113,
+    "major": 18114,
+    "minor": 18114,
     "patch": 86
   }
 }
