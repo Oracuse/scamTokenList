@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC32cB0Fe9703BF11e28Cd512C50b60009F385D8F",
-      "symbol": "MTRL",
-      "name": "Mithrillium",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x14Dc820e3B61666337991e0a49C3E34B1BFB4640",
       "symbol": "PFDG",
       "name": "ProofofDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x123A47E48de40C172F9eeC56b23559Bb890d72e2",
+      "symbol": "ETHW",
+      "name": "EthereumWhite",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18133,
-    "minor": 18133,
+    "major": 18134,
+    "minor": 18134,
     "patch": 86
   }
 }
