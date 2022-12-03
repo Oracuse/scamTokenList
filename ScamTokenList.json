@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCADC6f430aDD282e60ed3CcFbEb57e87Bd4A369F",
-      "symbol": "0",
-      "name": "Block",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFa8a7f509Abc750eDc2802D56e52b00675BeB79d",
       "symbol": "GMEETH",
       "name": "GMEETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x889e2F325459eAad7854748f807DF09788F9259b",
+      "symbol": "BLACKINU",
+      "name": "BlackMambaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18135,
-    "minor": 18135,
+    "major": 18136,
+    "minor": 18136,
     "patch": 86
   }
 }
