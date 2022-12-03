@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f7cdE4AF99951171d3B66300eFdbfF86141737f",
-      "symbol": "VISAINU",
-      "name": "VISAINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd0a16fd0659dC6F0ACad5097bab72Ae4164ff14A",
       "symbol": "COVERC",
       "name": "COVERProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4945C61692E7340F32d120E9F66Be64D6900DE55",
+      "symbol": "BITCOINBWACK",
+      "name": "BabyBTCB",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18119,
-    "minor": 18119,
+    "major": 18120,
+    "minor": 18120,
     "patch": 86
   }
 }
