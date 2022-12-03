@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc70A7C35A42250A76A35A137975Ba5b20F98cB06",
-      "symbol": "CAP",
-      "name": "Capitalism",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2fe7fCF4434D6233c57796657540540355DDD386",
       "symbol": "ELONAI",
       "name": "ElonAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBEFF90e74516f7DE41eceF82DF84d4Da61c33EB8",
+      "symbol": "BTCG",
+      "name": "BitcoinGold",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18172,
-    "minor": 18172,
+    "major": 18173,
+    "minor": 18173,
     "patch": 86
   }
 }
