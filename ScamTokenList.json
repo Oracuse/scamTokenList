@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08d4092e3E16B15ff23EfebC22BDcE9E8AEe0ff7",
-      "symbol": "SUKO",
-      "name": "MITSUKO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00897C8EC7AF97aeebE1A46bb543035436184485",
       "symbol": "DOSU",
       "name": "DogeTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75EA868bf508679125912c70Dd6AF988C05564b6",
+      "symbol": "PONZI",
+      "name": "Ponzinomics",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18137,
-    "minor": 18137,
+    "major": 18138,
+    "minor": 18138,
     "patch": 86
   }
 }
