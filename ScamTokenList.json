@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFa8a7f509Abc750eDc2802D56e52b00675BeB79d",
-      "symbol": "GMEETH",
-      "name": "GMEETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08d4092e3E16B15ff23EfebC22BDcE9E8AEe0ff7",
       "symbol": "SUKO",
       "name": "MITSUKO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9310bbb650E1555605b671873a8688eB6cDE44D3",
+      "symbol": "BVB",
+      "name": "BlackVitalik",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18136,
-    "minor": 18136,
+    "major": 18137,
+    "minor": 18137,
     "patch": 86
   }
 }
