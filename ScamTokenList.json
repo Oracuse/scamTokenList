@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7012ED1c85020a966bB879AEE8cF88dA807657b3",
-      "symbol": "OROCHI",
-      "name": "YamatanoOrochi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F2D48d78ACF275d29b220be122C65392e4B166e",
       "symbol": "RFUELR",
       "name": "RFUEL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E871b730dfc8d86d76D9186fe0b4e369aafa335",
+      "symbol": "GRINCH",
+      "name": "GrinchCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18310,
-    "minor": 18310,
+    "major": 18311,
+    "minor": 18311,
     "patch": 86
   }
 }
