@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x09fC992fD3a99826c691d0CD51A04B8168C4E3a6",
-      "symbol": "EOS",
-      "name": "EndofSummer",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2F9AF0D280407fE40D634B3ed239De7DC4D696af",
       "symbol": "AME",
       "name": "Akirameruna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x954dE186cFf41D182588495227D86Fcd0ba3Ac60",
+      "symbol": "BTCD",
+      "name": "BitcoinDiamond",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18244,
-    "minor": 18244,
+    "major": 18245,
+    "minor": 18245,
     "patch": 86
   }
 }
