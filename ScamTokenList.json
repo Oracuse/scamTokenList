@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdfeAcEA46CA4165f63501dd64dcAFA4A5becF587",
-      "symbol": "SPOUT",
-      "name": "Spout",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE3f2C84359616355a675B0DaA9E732D0fc2521c2",
       "symbol": "ODAO",
       "name": "OptimusDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x920E306ce04A698f706d692814EBa9b9F0FE8aE1",
+      "symbol": "AI",
+      "name": "TheFuture",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18308,
-    "minor": 18308,
+    "major": 18309,
+    "minor": 18309,
     "patch": 86
   }
 }
