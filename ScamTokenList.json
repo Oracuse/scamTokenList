@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62DE74523a9f1988057C293549A52FF3cED1C9bF",
-      "symbol": "POT",
-      "name": "PROOFOFTOKINAMI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8C040b2bFDa9B56EE7580D06991147bd9EaD4534",
       "symbol": "WAKIZASHI",
       "name": "Wakizashi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x879bDE472227C211063dDc9A9BE7eD19dE04536F",
+      "symbol": "OYGB",
+      "name": "OnceYouGoBlack",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18206,
-    "minor": 18206,
+    "major": 18207,
+    "minor": 18207,
     "patch": 86
   }
 }
