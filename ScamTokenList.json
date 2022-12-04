@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFe3BD807a20507180392fBB8DEc72879df0e327F",
-      "symbol": "FTMKING",
-      "name": "FTMKing",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA7a6C92cbeF8f93dE1b5CdC8a2C388505Ba639E3",
       "symbol": "MCHAIN",
       "name": "MAGICHAIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb1275482f0F0b17994Daca687C0B52e3986A2f5b",
+      "symbol": "BTCAI",
+      "name": "BitcoinAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18300,
-    "minor": 18300,
+    "major": 18301,
+    "minor": 18301,
     "patch": 86
   }
 }
