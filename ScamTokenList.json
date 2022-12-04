@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF1B8e582d1eE88829b8edea62fD38fFc95575175",
-      "symbol": "DOLLAR",
-      "name": "OneDollarExperiment",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA4cFd61f82b24b56040AB7c8240ccE02B39b7e1b",
       "symbol": "MORGOTH",
       "name": "Morgoth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6EfDA85A6016251d13a87A26d0bE2e4BD75a4CB0",
+      "symbol": "CHIBB",
+      "name": "BlackChibbaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18236,
-    "minor": 18236,
+    "major": 18237,
+    "minor": 18237,
     "patch": 86
   }
 }
