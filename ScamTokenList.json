@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCdDE1d5540F919C3bdE24436e6acEBEB12046025",
-      "symbol": "KIRIN",
-      "name": "Kirin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFe3BD807a20507180392fBB8DEc72879df0e327F",
       "symbol": "FTMKING",
       "name": "FTMKing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5D3B916636F21790F15603AeF08542bfB80228f9",
+      "symbol": "VHX",
+      "name": "Vermithrax",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18299,
-    "minor": 18299,
+    "major": 18300,
+    "minor": 18300,
     "patch": 86
   }
 }
