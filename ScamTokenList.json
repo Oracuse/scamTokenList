@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa0af0331f530E0c5AA414Ef2D948C721622813E9",
-      "symbol": "LEPEW",
-      "name": "PEPELEPEW",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5CE39d152Dc4153b98470e26F12F0366297D105e",
       "symbol": "SILVER",
       "name": "SilverShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73C6A78363D1aCAD01B3DDA0C8CA04C392cCADB5",
+      "symbol": "ETHG",
+      "name": "EthereumGold",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18240,
-    "minor": 18240,
+    "major": 18241,
+    "minor": 18241,
     "patch": 86
   }
 }
