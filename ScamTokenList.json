@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6325Bb11dDFA2aD08B88f8e733809519C34CE856",
-      "symbol": "M2",
-      "name": "MOONII",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCdDE1d5540F919C3bdE24436e6acEBEB12046025",
       "symbol": "KIRIN",
       "name": "Kirin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAf6d09Db07a488050a7b68122950de776aF77259",
+      "symbol": "VITAIK",
+      "name": "VitalikAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18298,
-    "minor": 18298,
+    "major": 18299,
+    "minor": 18299,
     "patch": 86
   }
 }
