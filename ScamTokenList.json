@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x74C861B82Bb1aDf243E547ee212a9D17d01984E9",
-      "symbol": "LARPSWAP",
-      "name": "LarpSwap",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1ffdc514829D06B011F1a50d4ccAd3c6BDC8DC4d",
       "symbol": "HOT",
       "name": "HouseofTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb3F629109A6434b57a0eeA0c368eE6A6654b46C",
+      "symbol": "VIX",
+      "name": "TheVixerium",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18221,
-    "minor": 18221,
+    "major": 18222,
+    "minor": 18222,
     "patch": 86
   }
 }
