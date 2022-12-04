@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x06C2DCb8ED4D13248e0Dec3269eB681CEacb48a1",
-      "symbol": "POWER",
-      "name": "Tairyoku",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe65eDB875E9aB8eA65c8F971adE9953A5334F64d",
       "symbol": "OES",
       "name": "OneEyedShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3277Cb49e78702fF7d5f637bF9f1584dB6f72d04",
+      "symbol": "WW",
+      "name": "Whitewhale",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18204,
-    "minor": 18204,
+    "major": 18205,
+    "minor": 18205,
     "patch": 86
   }
 }
