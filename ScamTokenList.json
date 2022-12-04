@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5CE39d152Dc4153b98470e26F12F0366297D105e",
-      "symbol": "SILVER",
-      "name": "SilverShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8e6933b43618AB631f3AE6DBE62cbDca683Bde4F",
       "symbol": "QWSH",
       "name": "QWSH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd07f3745a0a411Bf56936aeb37CFE26a2c4C2C4e",
+      "symbol": "SHIBAI",
+      "name": "ShibaAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18241,
-    "minor": 18241,
+    "major": 18242,
+    "minor": 18242,
     "patch": 86
   }
 }
