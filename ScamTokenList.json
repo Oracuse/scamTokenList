@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x30f630Ad70f012380CF90413EaF5398DFC840aC5",
-      "symbol": "BUU",
-      "name": "MAJINBULLISH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x74C861B82Bb1aDf243E547ee212a9D17d01984E9",
       "symbol": "LARPSWAP",
       "name": "LarpSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64F4fEe06F2f205e4432a82BD564A93035971306",
+      "symbol": "BTCP",
+      "name": "BitcoinPlatinum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18220,
-    "minor": 18220,
+    "major": 18221,
+    "minor": 18221,
     "patch": 86
   }
 }
