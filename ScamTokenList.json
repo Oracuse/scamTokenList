@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe65eDB875E9aB8eA65c8F971adE9953A5334F64d",
-      "symbol": "OES",
-      "name": "OneEyedShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62DE74523a9f1988057C293549A52FF3cED1C9bF",
       "symbol": "POT",
       "name": "PROOFOFTOKINAMI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1DAeDab31eb315850318901d282F587dF838e80D",
+      "symbol": "GPT3",
+      "name": "GPT3",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18205,
-    "minor": 18205,
+    "major": 18206,
+    "minor": 18206,
     "patch": 86
   }
 }
