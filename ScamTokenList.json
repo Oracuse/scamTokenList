@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8E5441702272E7DC4145C2c768b4028B21d3862c",
-      "symbol": "LIST",
-      "name": "TheList",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7101a844288e652b4f312fdd51416f80D9a30b24",
       "symbol": "JUNLON",
       "name": "JunlonToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEb828447Bfa75Eee35F8D59ACA4600A922e17E93",
+      "symbol": "VB",
+      "name": "VeryBlack",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18268,
-    "minor": 18268,
+    "major": 18269,
+    "minor": 18269,
     "patch": 86
   }
 }
