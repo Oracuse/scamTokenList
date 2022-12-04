@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF5bB91Af80Dfb5044b77F31e4189d66FAC1ffA5b",
-      "symbol": "RAVEN",
-      "name": "RavenToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8A01b0e258a403FeCc7982819B2636c1EB211c93",
       "symbol": "PACA",
       "name": "AlpacaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08cA611978df1EEEd989A4D00c41d505D31Fd3Ef",
+      "symbol": "UNIB",
+      "name": "UniswapBlack",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18253,
-    "minor": 18253,
+    "major": 18254,
+    "minor": 18254,
     "patch": 86
   }
 }
