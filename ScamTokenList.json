@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3B999aEba784308e44d6045A5509cb4a84d27A04",
-      "symbol": "SQUEEZE",
-      "name": "GmeSqueeze",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7F4D94E0303A2e6761d6EE1a9ab41a222289E915",
       "symbol": "KITARO",
       "name": "KitaroWorld",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2fdDE470Ddca6892080a5aEe31C9191FE4bD5CD",
+      "symbol": "TSYRANT",
+      "name": "TSYRANT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18266,
-    "minor": 18266,
+    "major": 18267,
+    "minor": 18267,
     "patch": 86
   }
 }
