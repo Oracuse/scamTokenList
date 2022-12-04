@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC28021489D8D989dD5F8d5F7FbfeAee68E8A8f24",
-      "symbol": "MBFT",
-      "name": "MrBeastFanToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xddd80ceFA9b6c4FBC39eAE3592DE472429d2BB93",
       "symbol": "STORY",
       "name": "TimeLine",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x157e7394DED61e7ef31CedEC1198213e9128614b",
+      "symbol": "AITAMA",
+      "name": "AItamaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18279,
-    "minor": 18279,
+    "major": 18280,
+    "minor": 18280,
     "patch": 86
   }
 }
