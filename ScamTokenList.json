@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4f6509FBB38CeBFD0961688a3A9E621D63E1b30D",
-      "symbol": "BABYVUDU",
-      "name": "BabyVoodoo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3D26Daf20BB13B34c27C8B7BE2DF2eB3703DaB51",
       "symbol": "OP",
       "name": "Optimism",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73563d517DE03cD8CacC88a6DE6C9bDC9Ed6C53b",
+      "symbol": "SAI",
+      "name": "SantaAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18290,
-    "minor": 18290,
+    "major": 18291,
+    "minor": 18291,
     "patch": 86
   }
 }
