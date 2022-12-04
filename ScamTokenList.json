@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6C476fDD07834c2e86C135a949D1C8ef4EcC503e",
-      "symbol": "SAMURA",
-      "name": "Samuraiburu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x997A3E76fAd54eF6727D80CE7BdE3bd475F0651E",
       "symbol": "KURUTTA",
       "name": "APageofMadness",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4009686379b42C73Daf906Fd18A6d453a2a18d60",
+      "symbol": "BTCD",
+      "name": "BitcoinDiamond",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18246,
-    "minor": 18246,
+    "major": 18247,
+    "minor": 18247,
     "patch": 86
   }
 }
