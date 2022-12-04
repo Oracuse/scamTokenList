@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE0da6E757d91c8531305A69b2F1cAd808835CD92",
-      "symbol": "PRIMAS",
-      "name": "primas",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBE4dC33BF54b07B54Ffe3447a9B752Fa69c2F6d1",
       "symbol": "LNR",
       "name": "Lunareum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb77583a79E9cAE4C8561433da1625241DA53Ef79",
+      "symbol": "SANTA",
+      "name": "SantaDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18287,
-    "minor": 18287,
+    "major": 18288,
+    "minor": 18288,
     "patch": 86
   }
 }
