@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x363aADc9032fAedF0c33b35B9b847a751922949E",
-      "symbol": "TAKEO",
-      "name": "Takeo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6E564aa56A02d4D8B319Cc6E412aCdCD12Db36Ed",
       "symbol": "ETH30",
       "name": "ProofOfVitalik",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F8a228471e922d7f939459bcc9d7489E423B077",
+      "symbol": "STRAYS",
+      "name": "StrayMission",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18250,
-    "minor": 18250,
+    "major": 18251,
+    "minor": 18251,
     "patch": 86
   }
 }
