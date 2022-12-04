@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xddd80ceFA9b6c4FBC39eAE3592DE472429d2BB93",
-      "symbol": "STORY",
-      "name": "TimeLine",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x731373ea9BFCd1E8CC4075dD7aA1063c3aF01cC4",
       "symbol": "SAGA",
       "name": "Saga",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2627AaB0618C15224f1C2e7528d092968C6387ac",
+      "symbol": "CEXT",
+      "name": "CEXTOOLS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18280,
-    "minor": 18280,
+    "major": 18281,
+    "minor": 18281,
     "patch": 86
   }
 }
