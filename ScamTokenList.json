@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9972244880a81C19943393e752B3056d6D26b4dc",
-      "symbol": "TSUKAGATE",
-      "name": "TsukaGatekeeper",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80669ba41119b1B267835181c7060DF0A29410F6",
       "symbol": "TG",
       "name": "TouchGrass",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfAA638a4021e5F0789bd4995AAff951028A75aa1",
+      "symbol": "FINDSAT",
+      "name": "WheresSatoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18306,
-    "minor": 18306,
+    "major": 18307,
+    "minor": 18307,
     "patch": 86
   }
 }
