@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3D26Daf20BB13B34c27C8B7BE2DF2eB3703DaB51",
-      "symbol": "OP",
-      "name": "Optimism",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x55FE6774e5a772b57C60ba09EE93bac60bFF3C0E",
       "symbol": "UNDEAD",
       "name": "UndeadShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9b9812898593D258404aA938d023967CEB83daf",
+      "symbol": "BYTEAI",
+      "name": "DynoByte",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18291,
-    "minor": 18291,
+    "major": 18292,
+    "minor": 18292,
     "patch": 86
   }
 }
