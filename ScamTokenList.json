@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8e6933b43618AB631f3AE6DBE62cbDca683Bde4F",
-      "symbol": "QWSH",
-      "name": "QWSH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAAde65Efa9CBBcb1D7592903aa038F578fB7bcA6",
       "symbol": "CHO",
       "name": "Cho",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2AE7e14B9141E4ae5b1aBb71DE0ba50779154f70",
+      "symbol": "OPENBTC",
+      "name": "OpenBitcoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18242,
-    "minor": 18242,
+    "major": 18243,
+    "minor": 18243,
     "patch": 86
   }
 }
