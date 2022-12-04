@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE3f2C84359616355a675B0DaA9E732D0fc2521c2",
-      "symbol": "ODAO",
-      "name": "OptimusDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7012ED1c85020a966bB879AEE8cF88dA807657b3",
       "symbol": "OROCHI",
       "name": "YamatanoOrochi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x170C9835d400134eF15B8f01b7E0dC332187BD6B",
+      "symbol": "NOBOTS",
+      "name": "NoBots",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18309,
-    "minor": 18309,
+    "major": 18310,
+    "minor": 18310,
     "patch": 86
   }
 }
