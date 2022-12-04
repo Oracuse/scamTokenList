@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9E552F6ea01F5cC313e9850911bA9c968584bdA2",
-      "symbol": "ESU",
-      "name": "ProofofRyoshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x363aADc9032fAedF0c33b35B9b847a751922949E",
       "symbol": "TAKEO",
       "name": "Takeo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73a8458341725D33735aB8A6C8B00C9bCf2ed3eD",
+      "symbol": "BALPHA",
+      "name": "BlackAlpha",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18249,
-    "minor": 18249,
+    "major": 18250,
+    "minor": 18250,
     "patch": 86
   }
 }
