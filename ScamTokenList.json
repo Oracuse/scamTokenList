@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7101a844288e652b4f312fdd51416f80D9a30b24",
-      "symbol": "JUNLON",
-      "name": "JunlonToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc398c37EA3f7e07a45Bbc1D5853D9C90E526B4d9",
       "symbol": "SONOFRYUUKO",
       "name": "SonofRyuuko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3bB5a0E451F6689D4a917fA17EA4BFbCA298ae91",
+      "symbol": "BB",
+      "name": "BlackBird",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18269,
-    "minor": 18269,
+    "major": 18270,
+    "minor": 18270,
     "patch": 86
   }
 }
