@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9E5e85d3E4ECbfA382887B6D5E61B2ee1b026817",
-      "symbol": "EMP",
-      "name": "EMPORIUM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4E403344f0B2483e2EE7537B5C243DE4918083Ba",
       "symbol": "BIYA",
       "name": "BabyMiya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x488c3Bc2270E5761119a196E1EAAb4971B96f6bB",
+      "symbol": "BTCP",
+      "name": "BitcoinPlatinum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18230,
-    "minor": 18230,
+    "major": 18231,
+    "minor": 18231,
     "patch": 86
   }
 }
