@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCdFe69A7Ec69d9880727bdADA7d65552188aDd0E",
-      "symbol": "POWSHIB",
-      "name": "PowerShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x06C2DCb8ED4D13248e0Dec3269eB681CEacb48a1",
       "symbol": "POWER",
       "name": "Tairyoku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDEa45B98b1B37595AB5544671Fc5C0019F017356",
+      "symbol": "OPENDOGE",
+      "name": "OpenDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18203,
-    "minor": 18203,
+    "major": 18204,
+    "minor": 18204,
     "patch": 86
   }
 }
