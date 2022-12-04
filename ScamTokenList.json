@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7b4d4Fa58e8DACDf15091172aE8b97E739F85717",
-      "symbol": "BACK",
-      "name": "BackToWork",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF1B8e582d1eE88829b8edea62fD38fFc95575175",
       "symbol": "DOLLAR",
       "name": "OneDollarExperiment",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9AAeb584d1E3f6aACAD7B2927F6BcAa42e3BA9d6",
+      "symbol": "BTCVB",
+      "name": "BitcoinVantablack",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18235,
-    "minor": 18235,
+    "major": 18236,
+    "minor": 18236,
     "patch": 86
   }
 }
