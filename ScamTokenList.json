@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAfD6d4ce2226b580e4d06601D0Ae0f0Ad9013a3a",
-      "symbol": "TSUDOG",
-      "name": "ADragonsDog",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x895917741dD920393A915B3184Bb374E9810A441",
       "symbol": "SPN",
       "name": "SPACEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA8879fAa1172345f24248eD51Ca0F7aDA51229a9",
+      "symbol": "BLAB",
+      "name": "BlackLab",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18201,
-    "minor": 18201,
+    "major": 18202,
+    "minor": 18202,
     "patch": 86
   }
 }
