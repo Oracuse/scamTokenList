@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x86DBdc22F6781dfe7192738c16100Ba33476BEE6",
-      "symbol": "CATGIRL",
-      "name": "Catgirl",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9E5e85d3E4ECbfA382887B6D5E61B2ee1b026817",
       "symbol": "EMP",
       "name": "EMPORIUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x764F50D93f5b0BCe392D92D0a25cdC2E0cbE30a4",
+      "symbol": "STORY",
+      "name": "StoryOfBlackShib",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18229,
-    "minor": 18229,
+    "major": 18230,
+    "minor": 18230,
     "patch": 86
   }
 }
