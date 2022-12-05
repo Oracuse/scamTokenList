@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5e70601C6bEA9c0d78e9b569953b85812F69CAF4",
-      "symbol": "CYCLOP",
-      "name": "CYCLOP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1c8b91291c944725943105c592A5DD082b15c345",
       "symbol": "STOP",
       "name": "Stoptober",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04ddDb0C0194b3517Dd09300440748D8B9f6f3F3",
+      "symbol": "RSNIPE",
+      "name": "RubixSniper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18436,
-    "minor": 18436,
+    "major": 18437,
+    "minor": 18437,
     "patch": 86
   }
 }
