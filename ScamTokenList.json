@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf3F3ce53F27487d09A774ff21f2ebA11D90853EA",
-      "symbol": "OPTIMISMDAO",
-      "name": "OptimismDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7dD4f32c82285d8F9E7e5c425BA0f6E289038fDf",
       "symbol": "POS20",
       "name": "ProofofVitalik",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6bE22F86F482B53E535778CF78c9819139273C3b",
+      "symbol": "TAI",
+      "name": "TheAlphaIntelligenc",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18363,
-    "minor": 18363,
+    "major": 18364,
+    "minor": 18364,
     "patch": 86
   }
 }
