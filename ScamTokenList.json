@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb76C52B4840042bb166291A5712fD0B4Ff7488Ab",
-      "symbol": "TOKAIDO",
-      "name": "TOKAIDO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x23de0011D5D6D21751C34E7606Bf0ABa8AB592b4",
       "symbol": "SOCIAL",
       "name": "SOCIAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0958CB0412bbB8684108AA20316978F8E593560",
+      "symbol": "TEST",
+      "name": "test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18379,
-    "minor": 18379,
+    "major": 18380,
+    "minor": 18380,
     "patch": 86
   }
 }
