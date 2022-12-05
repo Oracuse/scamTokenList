@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08B1B48559Eba96336fdFD4754890ceAd2f2392c",
-      "symbol": "CURSED",
-      "name": "BadLuck",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x437F8C62f193E15b87D16F39c8DC5Db968DC349E",
       "symbol": "OKTOBERFEST",
       "name": "TheOktoberfest",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDD147d0EA81484bC7a2a954Ba592DAE38e4491E8",
+      "symbol": "TWINU",
+      "name": "TwitterInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18360,
-    "minor": 18360,
+    "major": 18361,
+    "minor": 18361,
     "patch": 86
   }
 }
