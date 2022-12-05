@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0Dd290931d70A37cce61d43754EB115F004c5B4e",
-      "symbol": "TAGAWARI",
-      "name": "TagawariToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE9a9590c63Cc495cAa01F0cbF1cd1924ba5f7489",
       "symbol": "DAMN",
       "name": "Damn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24c8c40D88EE3BbB242F7586D0d95eB42aE313F4",
+      "symbol": "GOBLIN",
+      "name": "GoblinMode",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18439,
-    "minor": 18439,
+    "major": 18440,
+    "minor": 18440,
     "patch": 86
   }
 }
