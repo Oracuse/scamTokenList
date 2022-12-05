@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaEaD09EEa0cC5E1149B642ceB800FbA4342923A0",
-      "symbol": "MAGIC",
-      "name": "Abracadabra",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88D87c739EEaE8FFde5DF6BC9c668c7582d3a074",
       "symbol": "ASANA",
       "name": "AsanaToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3CAd624d8E97DAb4B50004F2F70BdFc071084bDf",
+      "symbol": "PARAGISM",
+      "name": "Paragism",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18452,
-    "minor": 18452,
+    "major": 18453,
+    "minor": 18453,
     "patch": 86
   }
 }
