@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x089c6b013a9cf9E207C4620d69743Ce6e6A900CC",
-      "symbol": "AOANDO",
-      "name": "BlueAndon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x29c3B881F33dd1934d30ebb1C274711E5253C34B",
       "symbol": "DOGETOBER",
       "name": "Dogetober",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeecFd8A57d2708A9E68820CAa96123d91eDF4994",
+      "symbol": "SDOGE",
+      "name": "SantaDoge",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18419,
-    "minor": 18419,
+    "major": 18420,
+    "minor": 18420,
     "patch": 86
   }
 }
