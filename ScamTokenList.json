@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB5E4E6Ad22a894A78Ea0dEbBB571AEa087875F6E",
-      "symbol": "DAHMER",
-      "name": "JeffreyDahmer",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x70C1846f204fFd539d50aB890Ea56933a368f50B",
       "symbol": "MC",
       "name": "Microtic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x623A02515AB26aD524367c2749C793a20668ab76",
+      "symbol": "AA",
+      "name": "AlienAi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18449,
-    "minor": 18449,
+    "major": 18450,
+    "minor": 18450,
     "patch": 86
   }
 }
