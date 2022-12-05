@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBCb1459b3b430d0C7a7f50431322b380F18F24cF",
-      "symbol": "GRONK",
-      "name": "GronkowskiToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7cB1bF38e80bb5102eE9e89822eC59FbB7C642b7",
       "symbol": "LEHMAN",
       "name": "Lehman",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF0b00B230990B71e3bb1a2eEA7E8Ff566a829C9B",
+      "symbol": "POKE",
+      "name": "Pokemoon",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18447,
-    "minor": 18447,
+    "major": 18448,
+    "minor": 18448,
     "patch": 86
   }
 }
