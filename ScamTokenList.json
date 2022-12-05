@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x845Ce16767bb3c43619719E6b1a92De5dDC87c03",
-      "symbol": "PUMPA",
-      "name": "LePumpa",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xda163480A33133d040BcdFee46e8cecFe1779faA",
       "symbol": "WCI20",
       "name": "WorldCupInu20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3fa53236268EB4cc0358C7149bFCCb70DA9a6aCf",
+      "symbol": "METH",
+      "name": "MachinedEthereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18342,
-    "minor": 18342,
+    "major": 18343,
+    "minor": 18343,
     "patch": 86
   }
 }
