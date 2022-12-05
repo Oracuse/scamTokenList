@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x290451f4460F01Ca41023875edb9D6B622Ad40c7",
-      "symbol": "HAKUU",
-      "name": "Sankahakuu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb00Dcf196d286d9360cfBF301C81ddB500928E9A",
       "symbol": "EXILE",
       "name": "Exile",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDB2E38b05ae563E829a83B14B0080C6fbC4F2BFF",
+      "symbol": "TC",
+      "name": "TwitterCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18346,
-    "minor": 18346,
+    "major": 18347,
+    "minor": 18347,
     "patch": 86
   }
 }
