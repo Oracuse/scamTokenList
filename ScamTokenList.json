@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xadA860F12fA2A966Ac33FFF33AEa1f5a11d00707",
-      "symbol": "RISHOKU",
-      "name": "Rishoku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCA333f4fa3ebE865f76D3e68ECB162477832B11a",
       "symbol": "MIYA",
       "name": "MiyaShei",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5164Dc70a9599A159018878432f0362BdEc74b0C",
+      "symbol": "CAIW",
+      "name": "CAWIntelligence",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18370,
-    "minor": 18370,
+    "major": 18371,
+    "minor": 18371,
     "patch": 86
   }
 }
