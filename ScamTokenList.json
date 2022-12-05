@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBC037dbB8f0D99FB29bA10a5550DfFddEE5e4133",
-      "symbol": "OKTOBEER",
-      "name": "Oktoberfest2022",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0e526dB0510E0F6289BCfeC7C93ECb9A209e1Bf4",
       "symbol": "OKTOBEER",
       "name": "Oktoberfest2022",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2A3cafc7dC3425553E0F5cCA71f740a091EA253",
+      "symbol": "AIS",
+      "name": "AISAITAMA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18445,
-    "minor": 18445,
+    "major": 18446,
+    "minor": 18446,
     "patch": 86
   }
 }
