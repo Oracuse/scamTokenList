@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x30F74D9080c027426aFb1183B9507F2D8e3B5475",
-      "symbol": "SONSAT",
-      "name": "SonSatoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA991Baa93F5b3573949C4b5fe08cdf0087656f00",
       "symbol": "TSUNJU",
       "name": "TsukaSenju",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55Dd585f632E2A42FBde872585802EE3dF987bA2",
+      "symbol": "BRINU",
+      "name": "BrazilInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18423,
-    "minor": 18423,
+    "major": 18424,
+    "minor": 18424,
     "patch": 86
   }
 }
