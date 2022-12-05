@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14183ef22952c7f6Fc8761886c33cA16d7D351BC",
-      "symbol": "KANNAZUKI",
-      "name": "MonthWithoutGods",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x30F74D9080c027426aFb1183B9507F2D8e3B5475",
       "symbol": "SONSAT",
       "name": "SonSatoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bca2ed47bD4B8B662980a1f734a3092b35a0C4f",
+      "symbol": "ARCH",
+      "name": "ARCHIVES",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18422,
-    "minor": 18422,
+    "major": 18423,
+    "minor": 18423,
     "patch": 86
   }
 }
