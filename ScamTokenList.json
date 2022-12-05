@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x74FC5D418808921a777286203c04dbB1804B556e",
-      "symbol": "TAIGA",
-      "name": "Taiga",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x261Cfbed95198a0Fe2ae2C124Cd4A7e9E315Fd1D",
       "symbol": "YESNT",
       "name": "Yesnt",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15b5b6A775a16E38602a8abaD8673EBf35bdB589",
+      "symbol": "ALPHAI",
+      "name": "AlphaIndicator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18349,
-    "minor": 18349,
+    "major": 18350,
+    "minor": 18350,
     "patch": 86
   }
 }
