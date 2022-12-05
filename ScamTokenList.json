@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0D760e9152e30CAc112054a35EE8f7860A2d2502",
-      "symbol": "RLD",
-      "name": "Reload",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc0D5c591485879943F40e9e13814c4A9e58da2d6",
       "symbol": "HOUDINI",
       "name": "TheMagician",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB20c764E13Cf85d0D72D69652DB32e388232edDA",
+      "symbol": "SIGMA",
+      "name": "Sigma",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18401,
-    "minor": 18401,
+    "major": 18402,
+    "minor": 18402,
     "patch": 86
   }
 }
