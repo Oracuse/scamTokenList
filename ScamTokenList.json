@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9474C385E367F5E8269E8c62b64a38a7061E85DB",
-      "symbol": "SHIMA",
-      "name": "SHIBAMECA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x938AF87bc6c78Ec6C3ff3eE11Fb4F1B2ae9517bf",
       "symbol": "IZANAMI",
       "name": "Izanami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8cd530b27709E9D22a65d048891D48Fc494f57B1",
+      "symbol": "AIP",
+      "name": "AIPROTOCOL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18319,
-    "minor": 18319,
+    "major": 18320,
+    "minor": 18320,
     "patch": 86
   }
 }
