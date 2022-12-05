@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb7977d9B4d76a2360a7ac6E53A9585343b8019B2",
-      "symbol": "THORIUM",
-      "name": "ThoriumProject",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62A7ffDEF9FFdEfea78e429f9e69d70Ef5a5B02e",
       "symbol": "TARGARYENINU",
       "name": "HouseTargaryen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2F261F86aB126EA83c353D765C9Ec56FF67f9f9",
+      "symbol": "UND",
+      "name": "Undercity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18414,
-    "minor": 18414,
+    "major": 18415,
+    "minor": 18415,
     "patch": 86
   }
 }
