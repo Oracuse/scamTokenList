@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfD0eE9Ecd2483808df2C3323fa2CaeCC9ebfaaD6",
-      "symbol": "HNZO",
-      "name": "Hanzo",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB7618a55c6935122b604eE9750A5aa273a1e0Ce0",
       "symbol": "SHIBZ",
       "name": "ZombieShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB06D4B3d95e134E5ae6547D7FcA75A2dE07c280A",
+      "symbol": "BDAI",
+      "name": "BlackDragonAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18387,
-    "minor": 18387,
+    "major": 18388,
+    "minor": 18388,
     "patch": 86
   }
 }
