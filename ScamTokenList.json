@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD774e680BF391Cfc75Ba6d247e85c22E788b3d0D",
-      "symbol": "SWIPER",
-      "name": "Swiper",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1bd2Ca6eFd530a2Bc8ED97E84E7099feFfF20276",
       "symbol": "TRADET",
       "name": "UniTrade",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8cc0dA9C18CE38e9d87bBC74052ABc696D2A7B6E",
+      "symbol": "ARK",
+      "name": "SpaceArk1968",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18410,
-    "minor": 18410,
+    "major": 18411,
+    "minor": 18411,
     "patch": 86
   }
 }
