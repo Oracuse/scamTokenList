@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8Eb4e0c4C4896827a1B4d6Aea52f2a93609Ebb62",
-      "symbol": "PIGO",
-      "name": "PIGODZILLA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2750A908d6C04b9f04Cc303aF32c3d094fBD544A",
       "symbol": "TSURU",
       "name": "Tsuru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdEf93cdb6b2320DcE261275C6C4940cd289d49AC",
+      "symbol": "CPR",
+      "name": "ComposerFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18406,
-    "minor": 18406,
+    "major": 18407,
+    "minor": 18407,
     "patch": 86
   }
 }
