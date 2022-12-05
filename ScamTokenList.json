@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1d870c94c2E299009bBf1f33EA53B259b773b9dD",
-      "symbol": "TSUKA",
-      "name": "Onitsuka",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc98b41eAe40ab53bfa62431af14deCBF8B6Fcd55",
       "symbol": "RAIJU",
       "name": "Raiju",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDEEAF0222166F1223DFb03FB84D85698946f4eB3",
+      "symbol": "HAZE",
+      "name": "Scourge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18315,
-    "minor": 18315,
+    "major": 18316,
+    "minor": 18316,
     "patch": 86
   }
 }
