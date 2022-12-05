@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB7618a55c6935122b604eE9750A5aa273a1e0Ce0",
-      "symbol": "SHIBZ",
-      "name": "ZombieShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x565cCbc85992D39Cb9Dea75e0FC1856728C195Fe",
       "symbol": "PUMP",
       "name": "PumpPumpkin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49E4545b43a1C43332e69c6dcE89CC11d1df1A12",
+      "symbol": "TEST",
+      "name": "test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18388,
-    "minor": 18388,
+    "major": 18389,
+    "minor": 18389,
     "patch": 86
   }
 }
