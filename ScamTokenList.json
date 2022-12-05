@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0e526dB0510E0F6289BCfeC7C93ECb9A209e1Bf4",
-      "symbol": "OKTOBEER",
-      "name": "Oktoberfest2022",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBCb1459b3b430d0C7a7f50431322b380F18F24cF",
       "symbol": "GRONK",
       "name": "GronkowskiToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D811806dB9e7e94Bd5280E764B64F65a64c8080",
+      "symbol": "SANTVK",
+      "name": "SantAlfaVitalik",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18446,
-    "minor": 18446,
+    "major": 18447,
+    "minor": 18447,
     "patch": 86
   }
 }
