@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCdEe6702162AFf49EDe2D64e0F9Edb7Bc3a5c276",
-      "symbol": "BROKAR",
-      "name": "BrokarToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3205dE5C88E49D8261D5811a6eB022E120d51F9b",
       "symbol": "SINU",
       "name": "SPARROWINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD7d28665d28D990122a4A4164104aEc4208D0299",
+      "symbol": "DI",
+      "name": "DegenIntelligence",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18323,
-    "minor": 18323,
+    "major": 18324,
+    "minor": 18324,
     "patch": 86
   }
 }
