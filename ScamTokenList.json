@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1c8b91291c944725943105c592A5DD082b15c345",
-      "symbol": "STOP",
-      "name": "Stoptober",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF4d062bE480Fc24609f640F6f448E5C7541Af9d5",
       "symbol": "ODIN",
       "name": "AllFather",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFAFB02446e3E8431D1e5eC6863Fb30A37E12b109",
+      "symbol": "GMODE",
+      "name": "GoblinMode",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18437,
-    "minor": 18437,
+    "major": 18438,
+    "minor": 18438,
     "patch": 86
   }
 }
