@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0A9FF1a0464002e6eD3a57502218524a9c3280A3",
-      "symbol": "W11",
-      "name": "WINNINGELEVEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8a69C9eA9ec6BaB61bf00C0fDC6678D5701830Dd",
       "symbol": "FATE",
       "name": "FORTUNEINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xafAd8F131aDc996239eFA7630151FfB4A5699044",
+      "symbol": "BTCF",
+      "name": "FortheFomo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18336,
-    "minor": 18336,
+    "major": 18337,
+    "minor": 18337,
     "patch": 86
   }
 }
