@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8a69C9eA9ec6BaB61bf00C0fDC6678D5701830Dd",
-      "symbol": "FATE",
-      "name": "FORTUNEINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8F96A1eB087F805d1C694A2bF46B961c847daf36",
       "symbol": "OKTOFAMS",
       "name": "OKTOBERFAMS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB15756b621f20B285D3e8b2586fdE063c7af5ceC",
+      "symbol": "KUSANAGI",
+      "name": "KusanagiNoTsurugi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18337,
-    "minor": 18337,
+    "major": 18338,
+    "minor": 18338,
     "patch": 86
   }
 }
