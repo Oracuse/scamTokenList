@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6CC9879c912b003dCE68bF7E7d2b76c1A5043840",
-      "symbol": "CHANCEY",
-      "name": "Chancey",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCdEe6702162AFf49EDe2D64e0F9Edb7Bc3a5c276",
       "symbol": "BROKAR",
       "name": "BrokarToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a72D7f53DF53Dd2584455e2F1E78Ec29ebCcC49",
+      "symbol": "OPENAI2",
+      "name": "OpenAI20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18322,
-    "minor": 18322,
+    "major": 18323,
+    "minor": 18323,
     "patch": 86
   }
 }
