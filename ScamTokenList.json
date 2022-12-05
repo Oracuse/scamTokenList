@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3561c105612dF44512C5E1Bd4B8000Db39445829",
-      "symbol": "MRANE",
-      "name": "ManchurianCrane",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfD0eE9Ecd2483808df2C3323fa2CaeCC9ebfaaD6",
       "symbol": "HNZO",
       "name": "Hanzo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCC4aaC049dE536A10b8B92aa012DBCc4EB11B038",
+      "symbol": "ETM",
+      "name": "EtherMars",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18386,
-    "minor": 18386,
+    "major": 18387,
+    "minor": 18387,
     "patch": 86
   }
 }
