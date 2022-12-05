@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6559A96003ddf7415Dd62f302Db8Edeb2AC0A348",
-      "symbol": "TSURU",
-      "name": "Tsuru",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc7E3BFA8c35377e2C9127dEF4A80D7B58F2f6C56",
       "symbol": "BABYTSURU",
       "name": "BabyTsuru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE95be63bdE7dE2798b520bD544061b309070B109",
+      "symbol": "BLACKGOLD",
+      "name": "BITCOINBLACKGOLD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18408,
-    "minor": 18408,
+    "major": 18409,
+    "minor": 18409,
     "patch": 86
   }
 }
