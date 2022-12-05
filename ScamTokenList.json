@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x026abD87EC2B39f5040A468D5AF00f7Ffd1B4881",
-      "symbol": "TSURU",
-      "name": "Tsuru",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0D760e9152e30CAc112054a35EE8f7860A2d2502",
       "symbol": "RLD",
       "name": "Reload",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fFdb280ce1cCC4D2f4D350c54D9B2D2107Ee27D",
+      "symbol": "CM",
+      "name": "CoinMarket",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18400,
-    "minor": 18400,
+    "major": 18401,
+    "minor": 18401,
     "patch": 86
   }
 }
