@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7cB1bF38e80bb5102eE9e89822eC59FbB7C642b7",
-      "symbol": "LEHMAN",
-      "name": "Lehman",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB5E4E6Ad22a894A78Ea0dEbBB571AEa087875F6E",
       "symbol": "DAHMER",
       "name": "JeffreyDahmer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBab6d7731BC7560333f7F72df9E754713c7fdaD9",
+      "symbol": "AIM",
+      "name": "AIMultichain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18448,
-    "minor": 18448,
+    "major": 18449,
+    "minor": 18449,
     "patch": 86
   }
 }
