@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1F501007C3a626c02dCcaAa254319DEc6fCFE966",
-      "symbol": "OCTOBULL",
-      "name": "OctoberBullish",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6fb81370e85334172Ee966b6730D33d89Af1cDeb",
       "symbol": "TSUNK",
       "name": "DragonPunk",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07E8045Cd9E88C9589a5e858Dd9A4C3AB91E7e75",
+      "symbol": "PLAY",
+      "name": "Playoftheday",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18376,
-    "minor": 18376,
+    "major": 18377,
+    "minor": 18377,
     "patch": 86
   }
 }
