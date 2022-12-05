@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x565cCbc85992D39Cb9Dea75e0FC1856728C195Fe",
-      "symbol": "PUMP",
-      "name": "PumpPumpkin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59a028eF368730c961bDb834417241C0031f6b6F",
       "symbol": "TEST",
       "name": "Dontbuy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC0A5c688c37CE8402E96A7A820E82fddc1AF136F",
+      "symbol": "SANTAMA",
+      "name": "SantaSaitama",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18389,
-    "minor": 18389,
+    "major": 18390,
+    "minor": 18390,
     "patch": 86
   }
 }
