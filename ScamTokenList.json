@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD4A5027BDB5ffacbA7894B57E2edccBd6C7600E2",
-      "symbol": "REKT",
-      "name": "REKTOBER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb7977d9B4d76a2360a7ac6E53A9585343b8019B2",
       "symbol": "THORIUM",
       "name": "ThoriumProject",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6C1a994e4D56EE08EB4031913903723cfE7A1E26",
+      "symbol": "ANONP",
+      "name": "AnonPay",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18413,
-    "minor": 18413,
+    "major": 18414,
+    "minor": 18414,
     "patch": 86
   }
 }
