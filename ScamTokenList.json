@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x86ba81FD270235f2fC77210B728458865FA3B3DC",
-      "symbol": "SPOOKYSAI",
-      "name": "SpookySaitama",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDa5D0EE286D1C14fA10a1f50e66Cf86A093235Fa",
       "symbol": "FRUNKSHIBA",
       "name": "FrunkPuppy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf064c4e10f6b190E8648E60BAe935B251EDE7E9B",
+      "symbol": "TEST",
+      "name": "test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18393,
-    "minor": 18393,
+    "major": 18394,
+    "minor": 18394,
     "patch": 86
   }
 }
