@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCc4128A71920E55dE8F033b583523b25f30aaf37",
-      "symbol": "SUSANOO",
-      "name": "Susanoo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3Bbadf3B11f06bE6A26DAe4191b28C0c64F12Da9",
       "symbol": "ABOOST",
       "name": "AthletesBoost",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x626d333198aC8aCEd8b8b67F4ee37ad2F1b5D93d",
+      "symbol": "AISCAN",
+      "name": "AIAlphaScan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18339,
-    "minor": 18339,
+    "major": 18340,
+    "minor": 18340,
     "patch": 86
   }
 }
