@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF4d062bE480Fc24609f640F6f448E5C7541Af9d5",
-      "symbol": "ODIN",
-      "name": "AllFather",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0Dd290931d70A37cce61d43754EB115F004c5B4e",
       "symbol": "TAGAWARI",
       "name": "TagawariToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x285da97B21967F4C519086061F2efCb192B81D50",
+      "symbol": "GROGE",
+      "name": "GrinchDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18438,
-    "minor": 18438,
+    "major": 18439,
+    "minor": 18439,
     "patch": 86
   }
 }
