@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa3A00C2dbC91D3C2881CCf59eD459Aa2BdFEB5ed",
-      "symbol": "GHL",
-      "name": "GhiliToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x026abD87EC2B39f5040A468D5AF00f7Ffd1B4881",
       "symbol": "TSURU",
       "name": "Tsuru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88f2E9C10F67CE8d2BcE9435918B282780CB44bF",
+      "symbol": "VITALEAK",
+      "name": "AlfalfaProtocoll",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18399,
-    "minor": 18399,
+    "major": 18400,
+    "minor": 18400,
     "patch": 86
   }
 }
