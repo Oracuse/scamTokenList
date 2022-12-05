@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23de0011D5D6D21751C34E7606Bf0ABa8AB592b4",
-      "symbol": "SOCIAL",
-      "name": "SOCIAL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA6e7c1452DD88E1a84E8845bB6C61edc5f29E529",
       "symbol": "ERNE",
       "name": "EthemityChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6756803a6410b6AA2F4e672e82df709b0c9A83F",
+      "symbol": "ALP",
+      "name": "AlfalfaLeakProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18380,
-    "minor": 18380,
+    "major": 18381,
+    "minor": 18381,
     "patch": 86
   }
 }
