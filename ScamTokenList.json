@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x88D87c739EEaE8FFde5DF6BC9c668c7582d3a074",
-      "symbol": "ASANA",
-      "name": "AsanaToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa012be76cbFaA241c8e6d7B8FEa9334801Aa5d72",
       "symbol": "FLOTOBER",
       "name": "FlokiOctober",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe889D6411274dc1DfEd8d414789C827D7faCDf6A",
+      "symbol": "PLSAI",
+      "name": "PulseAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18453,
-    "minor": 18453,
+    "major": 18454,
+    "minor": 18454,
     "patch": 86
   }
 }
