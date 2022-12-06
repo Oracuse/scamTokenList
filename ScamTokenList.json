@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66c1c6556C420917A1e50C31A90Bc491Bd26A847",
-      "symbol": "JC",
-      "name": "JesusCrypt",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCBdb85A69f732187ECFa7DCD819427fbf2c6EB9e",
       "symbol": "ORDER",
       "name": "OrangeOrder",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9888dCbdF8c76A80c435AD0deC13421260f8F24A",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18486,
-    "minor": 18486,
+    "major": 18487,
+    "minor": 18487,
     "patch": 86
   }
 }
