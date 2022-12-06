@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8032d5643f76b420A43AAc2604fD56EF9764a145",
-      "symbol": "BRR",
-      "name": "MoneyPrinter",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1CEd4fb40cD04A29aA7F9B4F6FB8D207d43ddCdd",
       "symbol": "DKERBERUS",
       "name": "DogKerberus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16c1D508245e66e00D8Cb11872686BEdeA8368A7",
+      "symbol": "SM",
+      "name": "Smoke",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18562,
-    "minor": 18562,
+    "major": 18563,
+    "minor": 18563,
     "patch": 86
   }
 }
