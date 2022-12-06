@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAaa2D6fFC7EC62aBAC061A5da9d7ac9e54f1b66E",
-      "symbol": "MRANE",
-      "name": "ManchurianCrane",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22a0083D842b37e687C2dF34942BB8302Df2FC23",
       "symbol": "FLOKIZ",
       "name": "ZombieFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F91d218E18768619696d068002983fF27E4e8CA",
+      "symbol": "DEFI",
+      "name": "DeFiProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18523,
-    "minor": 18523,
+    "major": 18524,
+    "minor": 18524,
     "patch": 86
   }
 }
