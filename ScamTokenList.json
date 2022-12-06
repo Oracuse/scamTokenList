@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0b3893C2f62f8923c0206C31559Bd341627E93EA",
-      "symbol": "SECRET",
-      "name": "Confidential",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x205a86b2063869347879F8959556D4E29FcBa455",
       "symbol": "YORI",
       "name": "Yori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdb33d0Ffdc9452e9af50c9Ff37F05934338FD402",
+      "symbol": "DWAGON",
+      "name": "Dwagon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18569,
-    "minor": 18569,
+    "major": 18570,
+    "minor": 18570,
     "patch": 86
   }
 }
