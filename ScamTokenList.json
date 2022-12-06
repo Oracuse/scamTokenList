@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaC4af3A63754c5e06C60da9868aaf19d6AA6Bf00",
-      "symbol": "DOGEETH",
-      "name": "DogeETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA2d71Af4Bb78B83498e3e82f5e71120b4de450D7",
       "symbol": "REKTOBER",
       "name": "Rektober",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Ca201e5D5B0EA792d559F51087c09cE78671f24",
+      "symbol": "AID",
+      "name": "AIDeployer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18554,
-    "minor": 18554,
+    "major": 18555,
+    "minor": 18555,
     "patch": 86
   }
 }
