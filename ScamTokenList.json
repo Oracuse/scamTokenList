@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD2e2CcC078e26c040Cc366e08f78A3d93030A5Ee",
-      "symbol": "KATSUKI",
-      "name": "SpookyKatsuki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x782c4c3a436aA02DAd3536f16BD91EF2914Be313",
       "symbol": "TNGS",
       "name": "TheNextGemsSociety",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3637301C3Eb68d956E0A22Fb53727C7C258CA4A5",
+      "symbol": "BFS",
+      "name": "BlackFeilongSociety",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18504,
-    "minor": 18504,
+    "major": 18505,
+    "minor": 18505,
     "patch": 86
   }
 }
