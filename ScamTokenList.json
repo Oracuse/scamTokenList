@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x582217d85a75E1F0065D46CC28f4Daa12CBE724a",
-      "symbol": "TWHALE",
-      "name": "TsukaWhale",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7Bea5aE799E229150E30Ab20247cD14d2e6C948D",
       "symbol": "ROAR",
       "name": "RoaringDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x989D5bF4135d3027c2ee9379F869FE5b7bDE5512",
+      "symbol": "SEND",
+      "name": "SENDsational",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18567,
-    "minor": 18567,
+    "major": 18568,
+    "minor": 18568,
     "patch": 86
   }
 }
