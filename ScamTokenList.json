@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x88f5779500B6A5A0dD63017D2373c24D5144F3fb",
-      "symbol": "SYNQS",
-      "name": "QuantumSynthetic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0303ee39E60906e4FB0F0129DE85c4c4D0a74119",
       "symbol": "TBURN",
       "name": "Tsukaburn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD35dbbA502dd7722cd88Da11fD823c92baa81A3c",
+      "symbol": "WDS",
+      "name": "WhiteDragonSociety",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18491,
-    "minor": 18491,
+    "major": 18492,
+    "minor": 18492,
     "patch": 86
   }
 }
