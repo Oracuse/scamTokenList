@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6615115C30D764e6C81775a2A28a13eDaf7e6b14",
-      "symbol": "BLACKWHALE",
-      "name": "DarkContinent",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75eFe956666084674d3514e0584BBEf7B76c450B",
       "symbol": "CST",
       "name": "CreditSuisseTama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7a95Ba02F9505Cb0395252B60d1F1Ba9Dd513a1",
+      "symbol": "DWAGON",
+      "name": "Dwagon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18564,
-    "minor": 18564,
+    "major": 18565,
+    "minor": 18565,
     "patch": 86
   }
 }
