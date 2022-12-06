@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb8E697E0D3B5371Ca7CFdcbb11f2EBc18fFB0Bd0",
-      "symbol": "MIRROR",
-      "name": "TheMatsuyama",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8E359a985Af026EbDd4Cab82DB680Ab54dfd4EC2",
       "symbol": "KING",
       "name": "King",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98C80c44C4293cbBeAe2abccD15dE7C784cBbD12",
+      "symbol": "NOBUY",
+      "name": "DonotBuy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18552,
-    "minor": 18552,
+    "major": 18553,
+    "minor": 18553,
     "patch": 86
   }
 }
