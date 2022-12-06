@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD856a33875dDa31351E823EB2593dF23c9564E75",
-      "symbol": "DBI",
-      "name": "DeutscheBankInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8032d5643f76b420A43AAc2604fD56EF9764a145",
       "symbol": "BRR",
       "name": "MoneyPrinter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFb5CD1D15C1de70e66ae439AA300b08f95Bf54E0",
+      "symbol": "DRAGO",
+      "name": "AIDRAGON",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18561,
-    "minor": 18561,
+    "major": 18562,
+    "minor": 18562,
     "patch": 86
   }
 }
