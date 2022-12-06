@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe8191Bb872847D0Fd4edA4852a386F252652404e",
-      "symbol": "TCHAIN",
-      "name": "TsukaChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDCD17faa7BaFc67ff83983fF8824419Ef2B5fA65",
       "symbol": "BINO",
       "name": "BathingDino",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C0a3Ac5A1C05f8f6d82daF50dd49eFDE2569970",
+      "symbol": "BOTZ",
+      "name": "AIBOTZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18585,
-    "minor": 18585,
+    "major": 18586,
+    "minor": 18586,
     "patch": 86
   }
 }
