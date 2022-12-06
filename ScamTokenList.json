@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x90d1597c0ECBf4929A153f4DCb45A11FC1F33f5F",
-      "symbol": "MUNU",
-      "name": "MutinyInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x436003Da10b4796eef19efD42a3a26E9C5F475E0",
       "symbol": "FIRO",
       "name": "FIRO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA022Ca06410A21e7CEdE86F889b3c439e911618E",
+      "symbol": "FUTURES",
+      "name": "AIProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18546,
-    "minor": 18546,
+    "major": 18547,
+    "minor": 18547,
     "patch": 86
   }
 }
