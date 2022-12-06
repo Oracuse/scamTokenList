@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x83959709b32643Ed773baA7418f65Ae2c791D0Be",
-      "symbol": "GOT",
-      "name": "GameOfTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0804e3635543E663Ba274358dEa7af0405Ea52d2",
       "symbol": "CTOBER",
       "name": "Chadtober",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84c3575E37946b91B801f342B6bD48A6b69a6E88",
+      "symbol": "DOM",
+      "name": "DragonPredator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18596,
-    "minor": 18596,
+    "major": 18597,
+    "minor": 18597,
     "patch": 86
   }
 }
