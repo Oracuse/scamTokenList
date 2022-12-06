@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCBdb85A69f732187ECFa7DCD819427fbf2c6EB9e",
-      "symbol": "ORDER",
-      "name": "OrangeOrder",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x777d3c233beCf22b3b21CB8B5c2FE2E086c93415",
       "symbol": "OBSIDIAN",
       "name": "FromHeaven",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA40E2B60D01A2658a4916fff330AE8969cc3dC61",
+      "symbol": "DOGED",
+      "name": "DogeDay",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18487,
-    "minor": 18487,
+    "major": 18488,
+    "minor": 18488,
     "patch": 86
   }
 }
