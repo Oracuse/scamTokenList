@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD30c8D9Dfa24509ce671fb8949a5FA1a90c4320e",
-      "symbol": "KUMO",
-      "name": "TheCloud",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x054216b307637E43712373f91B0cD29705064167",
       "symbol": "TSHIB",
       "name": "TAMASHIB",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x568f14E6e9662e7C5b000665D7C954E9401606D3",
+      "symbol": "DRUGON",
+      "name": "Drugon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18599,
-    "minor": 18599,
+    "major": 18600,
+    "minor": 18600,
     "patch": 86
   }
 }
