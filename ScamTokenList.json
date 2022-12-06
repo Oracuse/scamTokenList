@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBC96ca56151Cbb9e9d14b1535C9E1521d4BE1618",
-      "symbol": "TSDG",
-      "name": "TSURUDRAGON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x854608b71b1DEf067f9E4f910858b06ace410dE5",
       "symbol": "TESTT",
       "name": "TESTT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5E45FD57Df954C46c7bB7Be6ce3dC34C7eaAc494",
+      "symbol": "SCATTER",
+      "name": "ScatterChat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18542,
-    "minor": 18542,
+    "major": 18543,
+    "minor": 18543,
     "patch": 86
   }
 }
