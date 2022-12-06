@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0c344e925D1C7490012Fa693392B6BF64763ceB8",
-      "symbol": "DBINU",
-      "name": "DeutscheBankInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3e427F32ad1f582629f5d5aa2Bf849E8a79Cbbc7",
       "symbol": "KILLINGSTONES",
       "name": "SesshoSeki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe870A4Bc6eEDfaC54eE332B12738e54E7dD23BAc",
+      "symbol": "WDS",
+      "name": "WhiteDragonSociety",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18577,
-    "minor": 18577,
+    "major": 18578,
+    "minor": 18578,
     "patch": 86
   }
 }
