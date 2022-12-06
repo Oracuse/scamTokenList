@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3703ef7a47Bd7925e4DbDbd087552D9cce5a7647",
-      "symbol": "PIGO",
-      "name": "PIGODZILLA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90d1597c0ECBf4929A153f4DCb45A11FC1F33f5F",
       "symbol": "MUNU",
       "name": "MutinyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E462A4611c3805afFf41Be49B7c4a16990B7258",
+      "symbol": "HUMANITY",
+      "name": "TheAtlantic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18545,
-    "minor": 18545,
+    "major": 18546,
+    "minor": 18546,
     "patch": 86
   }
 }
