@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe063709252Cdabde6f1b5D87B155c25Df46410A4",
-      "symbol": "LMO",
-      "name": "LMO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCE0404A20D77B3FEc8a4425A16EBe32439269e39",
       "symbol": "TSUKACHAIN",
       "name": "TsukaChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcdBb477f87fdf3003cf47A68F6808D95d067748A",
+      "symbol": "BDGS",
+      "name": "BlackDegenSociety",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18590,
-    "minor": 18590,
+    "major": 18591,
+    "minor": 18591,
     "patch": 86
   }
 }
