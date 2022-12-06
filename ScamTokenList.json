@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x40Efd3a95f5294A4EE0184e79Aa44D68D420Da63",
-      "symbol": "BAINU",
-      "name": "BankofAmericainu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0c344e925D1C7490012Fa693392B6BF64763ceB8",
       "symbol": "DBINU",
       "name": "DeutscheBankInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdf1A2f85F3af80E85d14DdAAB2933C8caA09294a",
+      "symbol": "DWAGON",
+      "name": "Dwagon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18576,
-    "minor": 18576,
+    "major": 18577,
+    "minor": 18577,
     "patch": 86
   }
 }
