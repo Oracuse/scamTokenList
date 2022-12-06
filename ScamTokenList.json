@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8Bc67f54A3681Edf1297e94B654037b0e0dB5195",
-      "symbol": "PLAY",
-      "name": "Playgroud",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x48477262964a5f1C8E3eC1da1C8342Fe02da3F30",
       "symbol": "SYC",
       "name": "SatoshiYachtClub",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x327ca4e3165e42E08E1Aa70f9AF5d01F1119Ca7d",
+      "symbol": "XSW",
+      "name": "CrossSwaperToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18482,
-    "minor": 18482,
+    "major": 18483,
+    "minor": 18483,
     "patch": 86
   }
 }
