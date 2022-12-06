@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1da43C145B573A1fdcEC9072b7AA4c618e18ED1a",
-      "symbol": "GME",
-      "name": "GamestopInuV2",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdC17c3637dBD1Da7ebb2eB39cD6a0D6244c90655",
       "symbol": "SUKO",
       "name": "MITSUKO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43121fe8264B7856cd0346d4bFcB94cF156Ec6E0",
+      "symbol": "BABY",
+      "name": "SantaBaby",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18550,
-    "minor": 18550,
+    "major": 18551,
+    "minor": 18551,
     "patch": 86
   }
 }
