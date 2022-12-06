@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdBE4848aC9e915f6A7a8673613f14a9F389E3a05",
-      "symbol": "SHINDO",
-      "name": "SHINDO",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAaa2D6fFC7EC62aBAC061A5da9d7ac9e54f1b66E",
       "symbol": "MRANE",
       "name": "ManchurianCrane",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c91BE793D3EFDfA763A37E3b6d2a3D6Bb421eDa",
+      "symbol": "SBF",
+      "name": "SamBankmanFRAUD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18522,
-    "minor": 18522,
+    "major": 18523,
+    "minor": 18523,
     "patch": 86
   }
 }
