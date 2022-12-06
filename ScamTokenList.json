@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB3CD8B97c0abB9AD0C740a53E8E07D18FaE8BAD5",
-      "symbol": "TRUTH",
-      "name": "TRUTH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9ba153288d5eA04977aF0C766F092B61882F1DdC",
       "symbol": "LAFOX",
       "name": "LaFox",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D016DEd81043192BD0cC91e9E59BD7b8C40bA3B",
+      "symbol": "WDS",
+      "name": "WhiteDragonSociety",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18559,
-    "minor": 18559,
+    "major": 18560,
+    "minor": 18560,
     "patch": 86
   }
 }
