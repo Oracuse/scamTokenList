@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc1E873bc120AD97C1B0bd3B842E5fbEB2EB927fd",
-      "symbol": "FLOKISTEIN",
-      "name": "FLOKISTEIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDa8b291108397Bac4C8D520a780c2c744F46c588",
       "symbol": "TEQUILA",
       "name": "Tequila",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a29BB7a640887053a117202EA1F58f3F641Eb0e",
+      "symbol": "CHAMPAGNE",
+      "name": "DogeandThreeBlondes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18459,
-    "minor": 18459,
+    "major": 18460,
+    "minor": 18460,
     "patch": 86
   }
 }
