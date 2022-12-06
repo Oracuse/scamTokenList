@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x74BFF2018687B8a1ff7132E13cD4FdC763725BcF",
-      "symbol": "CSI",
-      "name": "CreditSuisseInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3703ef7a47Bd7925e4DbDbd087552D9cce5a7647",
       "symbol": "PIGO",
       "name": "PIGODZILLA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8d90DCd9185e402bad45Ec68da23ea1F7d59730",
+      "symbol": "YOKAI",
+      "name": "BakemonoYokai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18544,
-    "minor": 18544,
+    "major": 18545,
+    "minor": 18545,
     "patch": 86
   }
 }
