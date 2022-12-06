@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x002f0233262aD652619d9bC26F132C4bb35ac7FC",
-      "symbol": "BOOST",
-      "name": "DayofRight",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7aD5A5539A5decd8E1d7064e71DEF6D1F04451f0",
       "symbol": "ADOG",
       "name": "AngelDog",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83C7c23b0997E2f249401da32e00F7C446654Dd5",
+      "symbol": "CZ",
+      "name": "ProofOfAsian",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18495,
-    "minor": 18495,
+    "major": 18496,
+    "minor": 18496,
     "patch": 86
   }
 }
