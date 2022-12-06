@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC3Fed00F0A7B6adBFE6F83a8936464eF082F6eFE",
-      "symbol": "COLLAPSE",
-      "name": "CreditSuisse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaB82336AcB54e7BbBA102cA3c23B6ae6f70BDFf7",
       "symbol": "WSI",
       "name": "WebSummitInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6Bc52219C2b78B359403bBb6a5D44b1168860aB3",
+      "symbol": "YASUKE",
+      "name": "YASUKE",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18502,
-    "minor": 18502,
+    "major": 18503,
+    "minor": 18503,
     "patch": 86
   }
 }
