@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1036788286e1aa0353Bed3Bc078894E6a98098a0",
-      "symbol": "BSI",
-      "name": "BabySuisseBank",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x91Db443a9bd72ED6B99F6FB41f4a41cbCa3474C2",
       "symbol": "YUKO",
       "name": "YukoIchihara",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBC80B951092479E690AC49C4174487891F1eF111",
+      "symbol": "SHBLFG",
+      "name": "ShibaLFG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18581,
-    "minor": 18581,
+    "major": 18582,
+    "minor": 18582,
     "patch": 86
   }
 }
