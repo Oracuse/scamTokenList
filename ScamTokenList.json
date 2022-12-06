@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDCD17faa7BaFc67ff83983fF8824419Ef2B5fA65",
-      "symbol": "BINO",
-      "name": "BathingDino",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA786158a85029B84e77159492ca0808841Ba2961",
       "symbol": "DENGDAI",
       "name": "Dengdai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2377298b12a603b308E225f0041ABfeb9Caa7F55",
+      "symbol": "SLH",
+      "name": "SantaLittleHelpers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18586,
-    "minor": 18586,
+    "major": 18587,
+    "minor": 18587,
     "patch": 86
   }
 }
