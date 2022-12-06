@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0557BA5A6138eaB0855F4E40b51f88a8d098480F",
-      "symbol": "BURNT",
-      "name": "Burnt",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88f5779500B6A5A0dD63017D2373c24D5144F3fb",
       "symbol": "SYNQS",
       "name": "QuantumSynthetic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3a092C10d92aDc14cD1E6290B9daa48005Fb45A",
+      "symbol": "WDS",
+      "name": "WhiteDragonSociety",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18490,
-    "minor": 18490,
+    "major": 18491,
+    "minor": 18491,
     "patch": 86
   }
 }
