@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x768CdADa8D19D4d477652124979B00456F66e098",
-      "symbol": "EYE",
-      "name": "EYE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB3CD8B97c0abB9AD0C740a53E8E07D18FaE8BAD5",
       "symbol": "TRUTH",
       "name": "TRUTH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB0735351d5DaD557bd48897D52083277682a3677",
+      "symbol": "PAIRS",
+      "name": "HOTPAIRS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18558,
-    "minor": 18558,
+    "major": 18559,
+    "minor": 18559,
     "patch": 86
   }
 }
