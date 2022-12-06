@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8a99C3dE5A6eC18E3A7982104108f8f0BA224027",
-      "symbol": "TYCOON",
-      "name": "CryptoTycoon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe063709252Cdabde6f1b5D87B155c25Df46410A4",
       "symbol": "LMO",
       "name": "LMO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2cA0cc2a715CB589590A6B3f197581CdDc2a080a",
+      "symbol": "THEDRAGONMASTER",
+      "name": "KAZUO",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18589,
-    "minor": 18589,
+    "major": 18590,
+    "minor": 18590,
     "patch": 86
   }
 }
