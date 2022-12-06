@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4855De8Dfee3a5Fb81dF01205fC86999eF03985E",
-      "symbol": "TSUKNIGHT",
-      "name": "TsukaKnight",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb4a87183484eAB6402D9b06B62DA0a475A4693d0",
       "symbol": "BS",
       "name": "SuisseBank",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD06660774954c9857cb797b051f7969C7F403723",
+      "symbol": "BIS",
+      "name": "BlackInuSociety",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18592,
-    "minor": 18592,
+    "major": 18593,
+    "minor": 18593,
     "patch": 86
   }
 }
