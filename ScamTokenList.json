@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x91Db443a9bd72ED6B99F6FB41f4a41cbCa3474C2",
-      "symbol": "YUKO",
-      "name": "YukoIchihara",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1003827b6B5e1f6cb03c46cE3eeFdf00DA9eDDC",
       "symbol": "NITO",
       "name": "Incognitoerc",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d95c732b095D383C0899b2f372F8b2Ccb580758",
+      "symbol": "TEST",
+      "name": "ErTest",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18582,
-    "minor": 18582,
+    "major": 18583,
+    "minor": 18583,
     "patch": 86
   }
 }
