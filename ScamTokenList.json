@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCE0404A20D77B3FEc8a4425A16EBe32439269e39",
-      "symbol": "TSUKACHAIN",
-      "name": "TsukaChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4855De8Dfee3a5Fb81dF01205fC86999eF03985E",
       "symbol": "TSUKNIGHT",
       "name": "TsukaKnight",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b20b2BE52bE0D21E8E03d5d76c2aB33A7CF8f90",
+      "symbol": "SHIKIMORI",
+      "name": "ShikimoriCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18591,
-    "minor": 18591,
+    "major": 18592,
+    "minor": 18592,
     "patch": 86
   }
 }
