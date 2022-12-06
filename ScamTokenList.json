@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6AC799A0d4Ed75A380b39F2E734fF5c69500f1a0",
-      "symbol": "NXTG",
-      "name": "NextGenerationSocie",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x625dD312C2ab0981A8C2db274ccf51043d76c868",
       "symbol": "BABYSECT",
       "name": "BabySect",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35975Cfa9706c619d291BC926cb83386034e6938",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18475,
-    "minor": 18475,
+    "major": 18476,
+    "minor": 18476,
     "patch": 86
   }
 }
