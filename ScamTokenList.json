@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE89f62dC34aBf493D8E5d31956e134FB27dAe9B5",
-      "symbol": "TSUKATAMA",
-      "name": "TSUKATAMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x321a0E5f343F852d7E28CFFB227E7Cc041101eC8",
       "symbol": "GOBETH",
       "name": "GoblinEth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65Af41Fbbb552F8b2107AC9c01D794E77B3A1B62",
+      "symbol": "RABBIT2023",
+      "name": "Rabbit2023",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18530,
-    "minor": 18530,
+    "major": 18531,
+    "minor": 18531,
     "patch": 86
   }
 }
