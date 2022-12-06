@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4ED3BCdE635bf3a4696E0F9b7FCDb921383F6404",
-      "symbol": "BALUGA",
-      "name": "BalugaToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc76bfD3E1710E2A0f7b5202e4786e1685603eAC7",
       "symbol": "SHIBKWON",
       "name": "ShibKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04512dDaf9f3293E5d6c8027c5dd367aBEcF9e79",
+      "symbol": "MAGUS",
+      "name": "FalseProfit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18461,
-    "minor": 18461,
+    "major": 18462,
+    "minor": 18462,
     "patch": 86
   }
 }
