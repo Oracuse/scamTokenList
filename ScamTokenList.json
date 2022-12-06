@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x95C5FE84F1fd0b6019BD68AEAb938d956eaa979A",
-      "symbol": "CHIKYU",
-      "name": "DejitaruChikyu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5dB3a90CA5FDEaed184EB8DE37dD2Fa31375fB51",
       "symbol": "KUKI",
       "name": "DejitaruKuki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98DC8333cbcD183aBa1B9b3f9b81Cf69FF4E2B64",
+      "symbol": "RI",
+      "name": "RealIntelligence",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18497,
-    "minor": 18497,
+    "major": 18498,
+    "minor": 18498,
     "patch": 86
   }
 }
