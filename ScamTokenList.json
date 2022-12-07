@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBcd1f36c4161687f5a4D764492e328bD1eF12AC9",
-      "symbol": "PEACH",
-      "name": "MomoTaro",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4f9bf13BBb8672b5903a8F022a2BcfB9707A8E1a",
       "symbol": "SPOOKYBULL",
       "name": "SPOOKYPITBULL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbBE2F3bBB57851d230Bb35d609b44A18a16B63E0",
+      "symbol": "OBI",
+      "name": "OnlyBuyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18704,
-    "minor": 18704,
+    "major": 18705,
+    "minor": 18705,
     "patch": 86
   }
 }
