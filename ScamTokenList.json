@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB4417be1a261d09B7Be7c3a268561a78c59a5840",
-      "symbol": "SYS11",
-      "name": "System11",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC3AFFC0AC2e353b7E28953487981935f2b84494D",
       "symbol": "TSUKAHARU",
       "name": "IkariTsukaHaru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14386526Edf7721A24Bbb0B04415CEbF9D647282",
+      "symbol": "DPRO",
+      "name": "DinoProtocol",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18674,
-    "minor": 18674,
+    "major": 18675,
+    "minor": 18675,
     "patch": 86
   }
 }
