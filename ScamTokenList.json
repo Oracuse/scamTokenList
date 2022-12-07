@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAC2e2B54e984C493EDD3E79D6C0d224f8b39449b",
-      "symbol": "CONTRACT",
-      "name": "TheContract",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x322df4411B005AE0fdF485AE112A6ce0CaA4557F",
       "symbol": "MEST69",
       "name": "Mesopotamia",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAe6E1691d9A3E81c31c2E3CcFA650C03118858D6",
+      "symbol": "BOILERPLATE",
+      "name": "Boilerplate",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18602,
-    "minor": 18602,
+    "major": 18603,
+    "minor": 18603,
     "patch": 86
   }
 }
