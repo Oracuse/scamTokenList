@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62e13a30865796687281Cc06Ea70f8CA4df9bE26",
-      "symbol": "BABY",
-      "name": "BabyMikoto",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x47Cb6DFAaBD20cB8e1728cA9EF59684A0a3a0Bd7",
       "symbol": "TSUKARAMI",
       "name": "Tsukarami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77C473C2e544c0afFeFBfCfF164767fc6490d86D",
+      "symbol": "GMEOW",
+      "name": "gmeow",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18607,
-    "minor": 18607,
+    "major": 18608,
+    "minor": 18608,
     "patch": 86
   }
 }
