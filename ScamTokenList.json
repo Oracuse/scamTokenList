@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x79795B70d93CFb7EeB89516f12c97A7bF07AD019",
-      "symbol": "TSUKANOMICS",
-      "name": "Tsukanomics",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4b02e523800f5bf71714e08B818CFF97752756Da",
       "symbol": "MCI",
       "name": "ManchesterCityInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeF2D388915Bcf7Fee2DBc2C54Bc25e4e2Aa85D1e",
+      "symbol": "SHINTOAI",
+      "name": "SHINTOAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18610,
-    "minor": 18610,
+    "major": 18611,
+    "minor": 18611,
     "patch": 86
   }
 }
