@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x512547DC9F047298d8b660253E3C6BCf34516CD5",
-      "symbol": "JORO",
-      "name": "JOROGUMO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2C80e18FD418c7A243E30008C9F250959CF049EB",
       "symbol": "ZIP",
       "name": "ZipFi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x500696b9E1B81c215f1d0189965d79FFb4FcB684",
+      "symbol": "BSWAN",
+      "name": "BlackSwan",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18625,
-    "minor": 18625,
+    "major": 18626,
+    "minor": 18626,
     "patch": 86
   }
 }
