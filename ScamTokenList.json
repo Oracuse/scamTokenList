@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x108c91Be148Dc22A6383DFb329D4eF9dfb817F11",
-      "symbol": "GAMET",
-      "name": "GameOfTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf7503C252a978c94c4f6F6364963aB513EB082e2",
       "symbol": "SAKUMOTO",
       "name": "SakuraKinomoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x545ddA67082b658001114e4063fFacD26cD699cE",
+      "symbol": "IKAMIOTO",
+      "name": "Ikamioto",
+      "decimals": 12,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18652,
-    "minor": 18652,
+    "major": 18653,
+    "minor": 18653,
     "patch": 86
   }
 }
