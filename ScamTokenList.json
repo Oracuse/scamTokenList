@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6817d6324923f7648E195dc2836982ca253f6106",
-      "symbol": "SOLOGY",
-      "name": "Sology",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x495623F00eda429657BA8deD5fB5Af0080FaE3aD",
       "symbol": "MCI",
       "name": "MarginCallInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd27A36Cbe3bFa943BB900404C594Aec26975F69f",
+      "symbol": "POB",
+      "name": "ProofOfBlack",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18669,
-    "minor": 18669,
+    "major": 18670,
+    "minor": 18670,
     "patch": 86
   }
 }
