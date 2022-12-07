@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23778AA7a27Ae149b51390748e3ffe66e2C3E198",
-      "symbol": "NKI",
-      "name": "NorthKoreaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x11707f1f3d9647A5C510718D06E45bC3598bA59e",
       "symbol": "FSOCIALS",
       "name": "FvckSocials",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x315a40B75F66fd938227c2B9d5A17B199DA614e0",
+      "symbol": "ETHFIRE",
+      "name": "ETHEREUMFIRE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18722,
-    "minor": 18722,
+    "major": 18723,
+    "minor": 18723,
     "patch": 86
   }
 }
