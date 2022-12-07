@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x123149983A641c57CAD6b3471dC6c62f41Aa0b37",
-      "symbol": "CSFR",
-      "name": "CreditSussin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB6885289a0D5A22EB818fBD2758E59cdA63d80B6",
       "symbol": "JPMI",
       "name": "JPMorganInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x910bB5F13544Babe946E9118869B211af0B428d0",
+      "symbol": "WINU",
+      "name": "WagieInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18643,
-    "minor": 18643,
+    "major": 18644,
+    "minor": 18644,
     "patch": 86
   }
 }
