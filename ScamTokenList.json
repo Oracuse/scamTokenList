@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x19E902BA8F01Dc8b803D3b88251b09ad1904ce06",
-      "symbol": "PRINT",
-      "name": "Moneyprinter",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90088bfC71e4c89a1939CE51bE4c8036f66a4362",
       "symbol": "U",
       "name": "Uranium",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1419dBC420eA2E3A4a4a17d55a8Fd0c1d891858C",
+      "symbol": "BCS",
+      "name": "BlackChadSociety",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18658,
-    "minor": 18658,
+    "major": 18659,
+    "minor": 18659,
     "patch": 86
   }
 }
