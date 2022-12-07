@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7877B03500453A95488E1626Dcc0fD935d8eE606",
-      "symbol": "MOMO",
-      "name": "Momotaro",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9758d54cB48D11dc5BBFD65dEb5a4Eb7B35aaB86",
       "symbol": "MPZ",
       "name": "MetaPrintz",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4006Bd4f2d2D63280DbbE9245176fa21F0Eb8ABB",
+      "symbol": "DVAULT",
+      "name": "Degenvault",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18694,
-    "minor": 18694,
+    "major": 18695,
+    "minor": 18695,
     "patch": 86
   }
 }
