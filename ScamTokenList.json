@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2d841288EBe584f61f12029c401Af1a75293340b",
-      "symbol": "SPRK",
-      "name": "Sprinkley",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x56dDDBcB05Cb598Ee9A8195fC78ba17459B59fe3",
       "symbol": "SATE",
       "name": "Satiate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1FEEF35F4080B1826AeD72Ad1eEfC8e67D8791BB",
+      "symbol": "APES",
+      "name": "ApeSociety",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18709,
-    "minor": 18709,
+    "major": 18710,
+    "minor": 18710,
     "patch": 86
   }
 }
