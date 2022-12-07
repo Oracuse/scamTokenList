@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC3AFFC0AC2e353b7E28953487981935f2b84494D",
-      "symbol": "TSUKAHARU",
-      "name": "IkariTsukaHaru",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x30206116577F5160AB1D05dF60A57A3506f6246E",
       "symbol": "TENSHIDAO",
       "name": "Tenshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92e410907FA86D000619900f7F331De643857094",
+      "symbol": "XBLOCK",
+      "name": "TheXBlock",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18675,
-    "minor": 18675,
+    "major": 18676,
+    "minor": 18676,
     "patch": 86
   }
 }
