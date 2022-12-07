@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23c4c19e39343fAFA6a391651733a5195e56A5c0",
-      "symbol": "TSUKADAO",
-      "name": "TsukaDaoProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaC45Fc3912e4e4FfF7830DC38037b4727F558b3a",
       "symbol": "OROBOROS",
       "name": "Oroboros",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCa6FcA1a9944f0C405571b566c8631D198a44836",
+      "symbol": "BWAGIE",
+      "name": "BABYWAGIE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18615,
-    "minor": 18615,
+    "major": 18616,
+    "minor": 18616,
     "patch": 86
   }
 }
