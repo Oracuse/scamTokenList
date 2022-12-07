@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB5C6e75085528E577fE6Fe125217120471593249",
-      "symbol": "SWISS",
-      "name": "SwissBankInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF783e3Ac9f02d39e0A4c49f8488Dad0661D0c9bB",
       "symbol": "TENSHIDAO",
       "name": "Tenshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9203E696AAeeeD281867AC2C3006121Ecf2E4C36",
+      "symbol": "OPTI",
+      "name": "OptifiFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18720,
-    "minor": 18720,
+    "major": 18721,
+    "minor": 18721,
     "patch": 86
   }
 }
