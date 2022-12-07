@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB6885289a0D5A22EB818fBD2758E59cdA63d80B6",
-      "symbol": "JPMI",
-      "name": "JPMorganInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15678476B7a1A2B753659CCEC07b0572829c5d60",
       "symbol": "CBI",
       "name": "CitiBankInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCBddD07787f5e7F4eb14B7934C4Df3b17AbAcc35",
+      "symbol": "SANTA",
+      "name": "SantaDetectorBot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18644,
-    "minor": 18644,
+    "major": 18645,
+    "minor": 18645,
     "patch": 86
   }
 }
