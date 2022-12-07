@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x232EcF51d12A2dAA9FFfaCC7C467d575fB4A49b2",
-      "symbol": "YORI",
-      "name": "YoriToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x72754BB9ad05DE64256F0AFdC7899C2A47989893",
       "symbol": "WOOF",
       "name": "AShibasDream",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdE8FD17B83C62b38667D9d6E78BfBC70872689e8",
+      "symbol": "SILVER",
+      "name": "AdventurerSilver",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18637,
-    "minor": 18637,
+    "major": 18638,
+    "minor": 18638,
     "patch": 86
   }
 }
