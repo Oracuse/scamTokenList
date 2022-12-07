@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBd5111f3Dc47b0435a29eB9fC329b83a02DfB11C",
-      "symbol": "D8",
-      "name": "D8RT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19E902BA8F01Dc8b803D3b88251b09ad1904ce06",
       "symbol": "PRINT",
       "name": "Moneyprinter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0fD413AaC745F137E7Ea08b236aAD902612BD4dA",
+      "symbol": "BCULT",
+      "name": "BlackCultDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18657,
-    "minor": 18657,
+    "major": 18658,
+    "minor": 18658,
     "patch": 86
   }
 }
