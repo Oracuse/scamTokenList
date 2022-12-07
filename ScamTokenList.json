@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7E11A673768d9671CF03c321734b6a8Ea62c9E88",
-      "symbol": "TSUKAG",
-      "name": "GameOfTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75510271C33A3d632428325E48E3E171A9420BD4",
       "symbol": "JPMI",
       "name": "JPMorganInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB0a27ee920d05b0b52F0b7e2969EE23cbf67D699",
+      "symbol": "BLACK",
+      "name": "BLACK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18731,
-    "minor": 18731,
+    "major": 18732,
+    "minor": 18732,
     "patch": 86
   }
 }
