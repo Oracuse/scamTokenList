@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15678476B7a1A2B753659CCEC07b0572829c5d60",
-      "symbol": "CBI",
-      "name": "CitiBankInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x510BA313C1e8b9AF686E64C95a85666Fe32bA805",
       "symbol": "RATS",
       "name": "PiedPiper",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBcc031eD992666Bc04931dE28d7744DE5C199Ea9",
+      "symbol": "BAGIE",
+      "name": "BlackWagie",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18645,
-    "minor": 18645,
+    "major": 18646,
+    "minor": 18646,
     "patch": 86
   }
 }
