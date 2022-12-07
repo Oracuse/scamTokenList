@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9DA14c90c2787d57DE43F9176222e4d25cD0190D",
-      "symbol": "SECX",
-      "name": "KimSECxTape",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8062566cE7839116f9AfeC02cBBaB5DF29387A7f",
       "symbol": "YASHASHI",
       "name": "Yashashi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEa72acFA4F220B358b34d7784E40c9B379094bD7",
+      "symbol": "TAI",
+      "name": "TheApesInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18711,
-    "minor": 18711,
+    "major": 18712,
+    "minor": 18712,
     "patch": 86
   }
 }
