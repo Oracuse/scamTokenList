@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD2CE436723f2AbfB0d115BfE0477B157615cCfD6",
-      "symbol": "RYOX",
-      "name": "RyoshiX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0863179860E95D8eF8783EBd441964A09C5484EA",
       "symbol": "REVU",
       "name": "RevolutionUnity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48a58Fdf91Ab56B5700D853733b860b4cDE08b26",
+      "symbol": "MMTKN",
+      "name": "MetaMerceToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18689,
-    "minor": 18689,
+    "major": 18690,
+    "minor": 18690,
     "patch": 86
   }
 }
