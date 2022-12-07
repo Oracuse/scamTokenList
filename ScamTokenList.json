@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x20cA0b59Bf957fB18E68Da72e2C7CfC798F4dc1D",
-      "symbol": "ZOMBDOGE",
-      "name": "UndeadDoge",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2CAAff40E19698Bf055C38F766f497a095E9F9a7",
       "symbol": "TAKERU",
       "name": "PrinceBraveofYamato",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFEDef2A1EB6609671257aC58DDda14E7F55584c7",
+      "symbol": "DDS",
+      "name": "DegenDragonSociety",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18605,
-    "minor": 18605,
+    "major": 18606,
+    "minor": 18606,
     "patch": 86
   }
 }
