@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF3FAaBefFC3ca1D453Aa497d912385ca59D252e2",
-      "symbol": "DTHRND",
-      "name": "Dethroned",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcECF326CE497383eaEdE48D93bdB87CF72E26736",
       "symbol": "EMBER",
       "name": "Ember",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55DEd0E1E8601BD9ED97a52bCF125644f1781Cbd",
+      "symbol": "METAMASK",
+      "name": "MetaMask",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18696,
-    "minor": 18696,
+    "major": 18697,
+    "minor": 18697,
     "patch": 86
   }
 }
