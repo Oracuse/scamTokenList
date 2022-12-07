@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x49395e7D9fdf2962Faee638F7ca0dBaFa25002b8",
-      "symbol": "AG",
-      "name": "SLIVER",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3Afd995EB478A6f077da3EB1dE8513E5Ef81d4f4",
       "symbol": "BRRR",
       "name": "MONEY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFa07e1e0618c102C963b2Fa5dacaf6013a4587CA",
+      "symbol": "ZELENSKYY",
+      "name": "VolodymyrZelenskyy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18660,
-    "minor": 18660,
+    "major": 18661,
+    "minor": 18661,
     "patch": 86
   }
 }
