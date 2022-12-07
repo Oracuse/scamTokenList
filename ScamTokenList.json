@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA7f33C8c064FF59e68Ea4200E91eF2a708a8102c",
-      "symbol": "555",
-      "name": "ERI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x77E5456f8841aD5627A8a1dc49Dea33DebBe28bF",
       "symbol": "TBS",
       "name": "TheBigShort",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7ffc38E4F9292790F04FDe8A068C45519B99D9aa",
+      "symbol": "100M",
+      "name": "100Millionaire",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18633,
-    "minor": 18633,
+    "major": 18634,
+    "minor": 18634,
     "patch": 86
   }
 }
