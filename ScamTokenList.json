@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7B03417f91A8ca83E47293C74a646CD8C2536c48",
-      "symbol": "DA",
-      "name": "DomoArigato",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x12Ec545E72058213d9191bCf1EbAd19e47BC723D",
       "symbol": "1590GE",
       "name": "BerenbergBank",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEac1e8b8c4F710B4a141dbaDD30eEf439959207e",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18619,
-    "minor": 18619,
+    "major": 18620,
+    "minor": 18620,
     "patch": 86
   }
 }
