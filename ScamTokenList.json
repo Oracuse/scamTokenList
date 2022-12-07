@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDDdD2857D947e084aEe0c781823272E207a3c10a",
-      "symbol": "KJI",
-      "name": "KimJongInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84aDF19E311B4d2dA9eDAc81A29b5F2A27B4Df72",
       "symbol": "ASTROMOON",
       "name": "ASTROMOON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8f1c0Ac707a83d41790A7Af3F243d56F462f0aa",
+      "symbol": "MAGENTA",
+      "name": "MAGENTA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18734,
-    "minor": 18734,
+    "major": 18735,
+    "minor": 18735,
     "patch": 86
   }
 }
