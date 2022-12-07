@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCE47412b7Bb0C75915a018A47dFE99945e2B15d4",
-      "symbol": "CYA",
-      "name": "CoverYourAssets",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x83e0ee35576728e175F9DdCDA2411FD9e52047Ae",
       "symbol": "LONESESHI",
       "name": "LONESESHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50c245B58F2437dA66690fe4783A8C8eeafD680E",
+      "symbol": "OI",
+      "name": "Owari",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18692,
-    "minor": 18692,
+    "major": 18693,
+    "minor": 18693,
     "patch": 86
   }
 }
