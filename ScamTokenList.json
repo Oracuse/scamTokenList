@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6a5498c9c757Fa1F4aD35cc0e2823277686C4637",
-      "symbol": "AEI",
-      "name": "AmericanExpressInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97be5B1B5045CeCdEa3a33cD5f07933dbeDAeD4D",
       "symbol": "KAMA",
       "name": "Kama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91dee90088fAeaF9A01f3D52D03bFd05cE5a2C5e",
+      "symbol": "AGINU",
+      "name": "ArtificialGeneralIn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18630,
-    "minor": 18630,
+    "major": 18631,
+    "minor": 18631,
     "patch": 86
   }
 }
