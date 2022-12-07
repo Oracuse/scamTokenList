@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x322df4411B005AE0fdF485AE112A6ce0CaA4557F",
-      "symbol": "MEST69",
-      "name": "Mesopotamia",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x404A28302D65a1774e8135Dd5F064ba1b4Aa3f38",
       "symbol": "TSUKOSHI",
       "name": "Tsukoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e53D22902F2ec7980274290D2623b23eD72142c",
+      "symbol": "DRAGAN",
+      "name": "TheOldMyth",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18603,
-    "minor": 18603,
+    "major": 18604,
+    "minor": 18604,
     "patch": 86
   }
 }
