@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x241B687D10c68Be1fCb47648DA4C27Dc6590b638",
-      "symbol": "KITARO",
-      "name": "Kitaro",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x232EcF51d12A2dAA9FFfaCC7C467d575fB4A49b2",
       "symbol": "YORI",
       "name": "YoriToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F760C33B2d5aC1Ce8F30376fE098F2010Aab744",
+      "symbol": "PEPSI",
+      "name": "PEPSI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18636,
-    "minor": 18636,
+    "major": 18637,
+    "minor": 18637,
     "patch": 86
   }
 }
