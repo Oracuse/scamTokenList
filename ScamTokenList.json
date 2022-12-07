@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2Baad056984C6C955c84738147177Acc6F25b077",
-      "symbol": "TSUKADAO",
-      "name": "TsukaDao",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf00e664b25EF2E7071d3EE4b1Ae8EA731Ad9Ad0e",
       "symbol": "MUNSHIN",
       "name": "TheGodOfDoor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd00a81F5A162e758552610719aEc7F34FBdfd7Fb",
+      "symbol": "FDR",
+      "name": "FlokiDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18716,
-    "minor": 18716,
+    "major": 18717,
+    "minor": 18717,
     "patch": 86
   }
 }
