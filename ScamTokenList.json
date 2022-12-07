@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x12Ec545E72058213d9191bCf1EbAd19e47BC723D",
-      "symbol": "1590GE",
-      "name": "BerenbergBank",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf3F0F543ff6A361815593f7987b6c26A20906b73",
       "symbol": "TSUKASWAP",
       "name": "TsukaSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbd502760D020D42e880d286AE56AD0d86786F4f4",
+      "symbol": "VDOGE",
+      "name": "VintageDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18620,
-    "minor": 18620,
+    "major": 18621,
+    "minor": 18621,
     "patch": 86
   }
 }
