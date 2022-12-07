@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56dDDBcB05Cb598Ee9A8195fC78ba17459B59fe3",
-      "symbol": "SATE",
-      "name": "Satiate",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9DA14c90c2787d57DE43F9176222e4d25cD0190D",
       "symbol": "SECX",
       "name": "KimSECxTape",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6d9eA92F9A43c5ee70De5D9f7126E208540e3833",
+      "symbol": "SAI",
+      "name": "SamurAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18710,
-    "minor": 18710,
+    "major": 18711,
+    "minor": 18711,
     "patch": 86
   }
 }
