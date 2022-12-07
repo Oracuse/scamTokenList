@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93fe8E86822Dd9f79849576d43fa07F7F81e4fFa",
-      "symbol": "GEMX",
-      "name": "GEMX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfee981894D5184E24bdb500F0967C2A043163581",
       "symbol": "MOON",
       "name": "MOON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44Bd7ABA4310A48c7C35f6A39B7eDe08529e9D4f",
+      "symbol": "BABYDWAGON",
+      "name": "BABYDWAGON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18682,
-    "minor": 18682,
+    "major": 18683,
+    "minor": 18683,
     "patch": 86
   }
 }
