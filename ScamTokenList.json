@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xed43a1D703CCcb56983f33919B5bdBeD1Ed015Ec",
-      "symbol": "FKEMAX20",
-      "name": "FKEmax20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB4417be1a261d09B7Be7c3a268561a78c59a5840",
       "symbol": "SYS11",
       "name": "System11",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa47Fb42D58187161d00Fef1A0B1fBf70E8c7f9B8",
+      "symbol": "AIRM",
+      "name": "AIRMORTGAGE",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18673,
-    "minor": 18673,
+    "major": 18674,
+    "minor": 18674,
     "patch": 86
   }
 }
