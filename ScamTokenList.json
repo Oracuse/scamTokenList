@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCFc3f831421d91642Df1c59CDE3eC10Ee901b24D",
-      "symbol": "DICE",
-      "name": "RollTheDice",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB3F3b6df042A5BDB62b2841C3e36a55dEC8067a1",
       "symbol": "SRPN",
       "name": "Scorpion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7590B736EaD7C82D91cBea1e306AbcE7E656e69A",
+      "symbol": "DAI",
+      "name": "DegenAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18707,
-    "minor": 18707,
+    "major": 18708,
+    "minor": 18708,
     "patch": 86
   }
 }
