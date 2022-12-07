@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x04c3728A83F6e496475aeC8964F4032741357f92",
-      "symbol": "TARGARYEN",
-      "name": "Targaryen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE78959fbeAA6C2e792828ccA5294DA65eded0BbA",
       "symbol": "EDGR",
       "name": "Edgerunner",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5BF71f88AED83dFb167B707B7596b88Eae83720b",
+      "symbol": "BDV",
+      "name": "BlackDogDevil",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18662,
-    "minor": 18662,
+    "major": 18663,
+    "minor": 18663,
     "patch": 86
   }
 }
