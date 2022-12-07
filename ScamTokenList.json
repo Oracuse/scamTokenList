@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Afd995EB478A6f077da3EB1dE8513E5Ef81d4f4",
-      "symbol": "BRRR",
-      "name": "MONEY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04c3728A83F6e496475aeC8964F4032741357f92",
       "symbol": "TARGARYEN",
       "name": "Targaryen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc30f206ce2d958E515B5d3e2D6173331D519d96b",
+      "symbol": "SHI",
+      "name": "Shimotoinu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18661,
-    "minor": 18661,
+    "major": 18662,
+    "minor": 18662,
     "patch": 86
   }
 }
