@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF783e3Ac9f02d39e0A4c49f8488Dad0661D0c9bB",
-      "symbol": "TENSHIDAO",
-      "name": "Tenshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x23778AA7a27Ae149b51390748e3ffe66e2C3E198",
       "symbol": "NKI",
       "name": "NorthKoreaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2Da39088f73Df4Af52cCD4c81640d752414E8C3",
+      "symbol": "GHIDORAH",
+      "name": "DragonKing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18721,
-    "minor": 18721,
+    "major": 18722,
+    "minor": 18722,
     "patch": 86
   }
 }
