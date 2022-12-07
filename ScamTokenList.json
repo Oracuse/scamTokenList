@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x142403c238a4e4463e1d1C9e50c8922F87b430B3",
-      "symbol": "FOMO",
-      "name": "ForeverFomoEth",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBd5111f3Dc47b0435a29eB9fC329b83a02DfB11C",
       "symbol": "D8",
       "name": "D8RT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x090A8334cf01920DF5F04300b8BB0439A7596ADc",
+      "symbol": "PET",
+      "name": "PuppetSociety",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18656,
-    "minor": 18656,
+    "major": 18657,
+    "minor": 18657,
     "patch": 86
   }
 }
