@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB4f8B344Ed8DD73754c940e573Afc911C07b98c4",
-      "symbol": "FELIX",
-      "name": "Felix",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFe009E71Bf8A24c36d56B14Ad82E41D77576cF88",
       "symbol": "UTKU",
       "name": "UTK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0eD192E913c87CA64CAd676243c645B1bdaa894b",
+      "symbol": "GROWER",
+      "name": "DegenJoe",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18699,
-    "minor": 18699,
+    "major": 18700,
+    "minor": 18700,
     "patch": 86
   }
 }
