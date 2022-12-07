@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf3F0F543ff6A361815593f7987b6c26A20906b73",
-      "symbol": "TSUKASWAP",
-      "name": "TsukaSwap",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2DcB103eEa36C37887A7B8c6bc29c9f964f14b47",
       "symbol": "TSUKATOSHI",
       "name": "Tsukatoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73Bb0f0EA0246a99Ac146f09eCD467AfF0224896",
+      "symbol": "COPYTRADERS",
+      "name": "REKTETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18621,
-    "minor": 18621,
+    "major": 18622,
+    "minor": 18622,
     "patch": 86
   }
 }
