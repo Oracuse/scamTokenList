@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7ed5c8137B83A3e90f5Ffb4320a35745e1690c96",
-      "symbol": "MOASS",
-      "name": "MotherOfAllShortSqu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfAe08DA8e74E7dfb8aAf1318ce9d4aAf11f81fFe",
       "symbol": "SGI",
       "name": "SocieteGeneraleInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDDFdd650f26f53e8b3Ba3024F795751F4C90d17f",
+      "symbol": "TWITTER20",
+      "name": "Twitter20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18641,
-    "minor": 18641,
+    "major": 18642,
+    "minor": 18642,
     "patch": 86
   }
 }
