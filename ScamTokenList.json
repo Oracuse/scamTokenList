@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f981186aB9f1B3491CE1148587F615e296cC568",
-      "symbol": "CSB",
-      "name": "CreditSuisseBank",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA20A2c9e1FB42b880734c3017aA9fC3EAa3ebE0D",
       "symbol": "DEMENTER",
       "name": "Dementer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7Be8042d3B6dDC9cb2ae3077bA24CEcc27B6a00",
+      "symbol": "WAGAI",
+      "name": "WagieAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18729,
-    "minor": 18729,
+    "major": 18730,
+    "minor": 18730,
     "patch": 86
   }
 }
