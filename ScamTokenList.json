@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3C552f60620276f27CFECd2e357E5032C12C3294",
-      "symbol": "TSUKAECONOMY",
-      "name": "TsukaEconomy",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFCF2c6CB309292727Ec718F31718e8fB980C95A1",
       "symbol": "TAIKAINU",
       "name": "TaikaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB214E04243f10688808F637587A22eBBcD17D36D",
+      "symbol": "RLAYC",
+      "name": "RareApes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18613,
-    "minor": 18613,
+    "major": 18614,
+    "minor": 18614,
     "patch": 86
   }
 }
