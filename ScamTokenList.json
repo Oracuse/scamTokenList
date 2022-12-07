@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa64e7Ee48959F650AA82EeD5f1D1989f6a7dc13e",
-      "symbol": "OPT",
-      "name": "OptimusMusk",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x74f921f6B10436De14BE8F5aA083681f805Ed644",
       "symbol": "GENBANK",
       "name": "BANKOFGENESIS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5699Ab20a8A0FC953A4137135a50266807D61Fe",
+      "symbol": "OBI",
+      "name": "OnlyBuyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18702,
-    "minor": 18702,
+    "major": 18703,
+    "minor": 18703,
     "patch": 86
   }
 }
