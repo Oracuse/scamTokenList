@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1E6b4Ad891906783Fe21F19c8Cf6EDc0EBE5FB51",
-      "symbol": "SSSHHHTTT",
-      "name": "Sht",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x03BbADa6b6e3e4e013C45ADA98D58F93B6B2543B",
       "symbol": "RZ3",
       "name": "RYZ3N",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F97B7861d8256B735eb756700A5bDAEC44a2299",
+      "symbol": "INUF",
+      "name": "Inufluence",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18650,
-    "minor": 18650,
+    "major": 18651,
+    "minor": 18651,
     "patch": 86
   }
 }
