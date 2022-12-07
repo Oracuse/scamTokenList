@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFc489c9a3baE8997b9e5D3B3785eE77BE6387f0c",
-      "symbol": "ZOMBIEDRAGON",
-      "name": "ZombieDragon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3C552f60620276f27CFECd2e357E5032C12C3294",
       "symbol": "TSUKAECONOMY",
       "name": "TsukaEconomy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40D8AAfa8e9d12Ea5C647D3b6e7451eb30c6ECb3",
+      "symbol": "XENP",
+      "name": "XENProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18612,
-    "minor": 18612,
+    "major": 18613,
+    "minor": 18613,
     "patch": 86
   }
 }
