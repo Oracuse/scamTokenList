@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x404A28302D65a1774e8135Dd5F064ba1b4Aa3f38",
-      "symbol": "TSUKOSHI",
-      "name": "Tsukoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x20cA0b59Bf957fB18E68Da72e2C7CfC798F4dc1D",
       "symbol": "ZOMBDOGE",
       "name": "UndeadDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6CC694760ca2B8fd4AF10619fC60aA75d3b72C8f",
+      "symbol": "C2077",
+      "name": "Cyberpunk2077",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18604,
-    "minor": 18604,
+    "major": 18605,
+    "minor": 18605,
     "patch": 86
   }
 }
