@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9758d54cB48D11dc5BBFD65dEb5a4Eb7B35aaB86",
-      "symbol": "MPZ",
-      "name": "MetaPrintz",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF3FAaBefFC3ca1D453Aa497d912385ca59D252e2",
       "symbol": "DTHRND",
       "name": "Dethroned",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdCe33E947be5e8620395ffbDE7a210300De0F559",
+      "symbol": "BOM",
+      "name": "BlackPredator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18695,
-    "minor": 18695,
+    "major": 18696,
+    "minor": 18696,
     "patch": 86
   }
 }
