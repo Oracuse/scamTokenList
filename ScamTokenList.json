@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2eff2eeaFA28140513CD780c1f254b3Df724a50f",
-      "symbol": "SBOND",
-      "name": "SHIBABOND",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59268b89505B48F658b95a87cdD0220C8a731728",
       "symbol": "RCI",
       "name": "RascalInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdF3780Ec4826BE5433A957c5db5f2C1F02Da5DaE",
+      "symbol": "ROKO",
+      "name": "RokosBasilisk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18679,
-    "minor": 18679,
+    "major": 18680,
+    "minor": 18680,
     "patch": 86
   }
 }
