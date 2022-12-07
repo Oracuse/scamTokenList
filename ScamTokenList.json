@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0eFDb2E0637f5868D29A1a67c584BFb2c3E1DA5b",
-      "symbol": "THEIMPERIALIST",
-      "name": "IMPERIAL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCFc3f831421d91642Df1c59CDE3eC10Ee901b24D",
       "symbol": "DICE",
       "name": "RollTheDice",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA2dC63707528837Fc601b84747ACA804D34BBC5e",
+      "symbol": "GOEMONBURO",
+      "name": "IshikawaGoemon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18706,
-    "minor": 18706,
+    "major": 18707,
+    "minor": 18707,
     "patch": 86
   }
 }
