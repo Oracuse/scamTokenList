@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2DcB103eEa36C37887A7B8c6bc29c9f964f14b47",
-      "symbol": "TSUKATOSHI",
-      "name": "Tsukatoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5CB8d1E73F8e46DFa124B0d56e262742EFf42bfA",
       "symbol": "INCOGNITO",
       "name": "Incognito",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f5b113A5141b2548C3E55488ea333dEa4D3aA8a",
+      "symbol": "GLABS",
+      "name": "GalaxyLabs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18622,
-    "minor": 18622,
+    "major": 18623,
+    "minor": 18623,
     "patch": 86
   }
 }
