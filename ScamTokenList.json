@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x110cd9B45332d71B5cb0d7Cf0d616f3FFBd6c1bC",
-      "symbol": "BRYOSHI",
-      "name": "Babyryoshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x856d78ea5e6fDdAb85BfD733B8FDb5B8149427a5",
       "symbol": "HAFUMI",
       "name": "Hafumi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5299aF60aAfe52258f7Ef2EF1911b73e512A42C8",
+      "symbol": "VOID",
+      "name": "TheCallOfTheVoid",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18811,
-    "minor": 18811,
+    "major": 18812,
+    "minor": 18812,
     "patch": 86
   }
 }
