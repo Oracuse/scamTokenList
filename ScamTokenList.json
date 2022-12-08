@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDd52ceD8EC5B549c7C411EB0CE7585Dab01644D2",
-      "symbol": "MOON",
-      "name": "LUNARGATEWAY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2F4155D63C2a9A176A10E4e28e917563d0882483",
       "symbol": "YORI",
       "name": "YoriToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdAB717136C28A36E4E5F07aF771CdE769B50E590",
+      "symbol": "AS",
+      "name": "AlphaSniper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18790,
-    "minor": 18790,
+    "major": 18791,
+    "minor": 18791,
     "patch": 86
   }
 }
