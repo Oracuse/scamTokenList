@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB7F0dF0F1EE08CeA902D4F8559d51FdDFFdFaA7c",
-      "symbol": "DTATSU",
-      "name": "DejitaruTatsu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD8b1b92160741140A6cD78993E9c47AdFea2c002",
       "symbol": "NEBLIO",
       "name": "Neblio",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1E1c70f1113D847Ede1239d4622782910C735BC1",
+      "symbol": "ANMT",
+      "name": "AnonMask",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18785,
-    "minor": 18785,
+    "major": 18786,
+    "minor": 18786,
     "patch": 86
   }
 }
