@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2d39b782EfA062d7350bE35e26D8D4a360aA1068",
-      "symbol": "LOWKEY",
-      "name": "Low",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x145c6343Cc0D0d42A1CEa6Aa035ed865b2A55433",
       "symbol": "KUMO",
       "name": "Kumo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ACe0e5945ff8bc1a3217fDDD0DF634fade423De",
+      "symbol": "TRADFI",
+      "name": "TradFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18764,
-    "minor": 18764,
+    "major": 18765,
+    "minor": 18765,
     "patch": 86
   }
 }
