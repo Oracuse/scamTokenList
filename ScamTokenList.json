@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF3C09Ae97445094F60ee95F96a35517E45527753",
-      "symbol": "GMA",
-      "name": "GoodMorningAmerica",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5e7cbC42AC52e9bbC27939b8eAFfb5CF8Bd31808",
       "symbol": "CABAL",
       "name": "TheCabal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcdEfc03B92E21A1949Adf0399b0bFa7AA44Cc599",
+      "symbol": "PT",
+      "name": "PORTUGAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18742,
-    "minor": 18742,
+    "major": 18743,
+    "minor": 18743,
     "patch": 86
   }
 }
