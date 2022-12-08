@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDe7aB92f952d5Fea779Df5e42F14297123853C01",
-      "symbol": "GOLDEN",
-      "name": "Goldencom",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x456066c4807f64f0c72CECeBCf39e3B0205880F3",
       "symbol": "EGM",
       "name": "Enigma",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x808b5c624f2D9D57aB3422Baa4880f93Ba914f3e",
+      "symbol": "OMX",
+      "name": "OnlyMEMEX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18814,
-    "minor": 18814,
+    "major": 18815,
+    "minor": 18815,
     "patch": 86
   }
 }
