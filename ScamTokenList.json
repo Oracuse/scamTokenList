@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb0064A3E81E774Cd9e83763c521224737b71c60f",
-      "symbol": "NKI",
-      "name": "NorthKoreaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5259b23e1b6e74fACfA0CB8999F358D77b5aDE3B",
       "symbol": "DGOD",
       "name": "DogegoD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x687DB24C00EF4BeD67C031f06745173Ba179fCDd",
+      "symbol": "MIRAI",
+      "name": "Mirai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18748,
-    "minor": 18748,
+    "major": 18749,
+    "minor": 18749,
     "patch": 86
   }
 }
