@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7a8656498863c2d04Bb46020F08fAbf5943B0E99",
-      "symbol": "TOSHI",
-      "name": "Toshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8546620F70cb104e06d327FB4a4d7637813cBbe0",
       "symbol": "DKWON",
       "name": "DOKWONINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xda112e910685D3311d808EA791f50CBdB9Bb3a63",
+      "symbol": "TIME",
+      "name": "FableofChronos",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18884,
-    "minor": 18884,
+    "major": 18885,
+    "minor": 18885,
     "patch": 86
   }
 }
