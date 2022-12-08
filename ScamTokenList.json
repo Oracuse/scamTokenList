@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xef3bD631e597418e122F10d153716046aAC81712",
-      "symbol": "STONKS",
-      "name": "ILikeTheStock",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x23b470Cd0bcD5C39320F0Af9c4524B59e67f6202",
       "symbol": "NAMI",
       "name": "TheWave",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2eA4907Aea9d67A8D626689dC1C4f667d7ef294d",
+      "symbol": "AFTERLIFE",
+      "name": "TheAfterlife",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18844,
-    "minor": 18844,
+    "major": 18845,
+    "minor": 18845,
     "patch": 86
   }
 }
