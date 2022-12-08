@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x11D16Bf202E00dF4384931df312cf0b8e5Ce5066",
-      "symbol": "BLVD",
-      "name": "Boulevard",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC7E0d94B70012cBD480fBaECA5Ec0e4C0d885880",
       "symbol": "YUKO",
       "name": "YukoIchihara",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Cf7548E0c3f3dAa9C44B9B1E0b552d18569c530",
+      "symbol": "PERAGON",
+      "name": "PERAGON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18818,
-    "minor": 18818,
+    "major": 18819,
+    "minor": 18819,
     "patch": 86
   }
 }
