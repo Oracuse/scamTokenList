@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1E249C799E5d416655e303350fd7c830f9ec8F24",
-      "symbol": "HOUSETSUKA",
-      "name": "HouseOfTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76695Fa621D8a785bdC4C6572A7735f1Cf214AFa",
       "symbol": "SAR",
       "name": "Saudi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4311931b16efcd6931f3305312001E237ee83f2b",
+      "symbol": "AI",
+      "name": "ARTIFICIAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18767,
-    "minor": 18767,
+    "major": 18768,
+    "minor": 18768,
     "patch": 86
   }
 }
