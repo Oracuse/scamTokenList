@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0E5d626B405Cde80924b2DF15722b4f6a5BEA005",
-      "symbol": "ZORI",
-      "name": "ZombieYori",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x63b81C244f3c8db72F87dAfe2F43AFd63f32b1b5",
       "symbol": "TKIM",
       "name": "TsukaKardashian",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8a0317605aD854CFB229ec29cc9bBD01C9b571B",
+      "symbol": "PT",
+      "name": "PureTuber",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18803,
-    "minor": 18803,
+    "major": 18804,
+    "minor": 18804,
     "patch": 86
   }
 }
