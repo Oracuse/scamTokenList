@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4CB9f9d1E780c25Df4bedf74463e0e62E88EAdec",
-      "symbol": "PKI",
-      "name": "PumpkinInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe44d9F88C84Af1765B48BAB1d09c0D9C39B01056",
       "symbol": "DEFUN",
       "name": "Defun",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9FcB5FD92aE5b210D86E0F90a5FC42C9BD3F8Df8",
+      "symbol": "SLAYER",
+      "name": "Ichneumon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18840,
-    "minor": 18840,
+    "major": 18841,
+    "minor": 18841,
     "patch": 86
   }
 }
