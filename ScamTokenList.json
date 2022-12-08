@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa5bb50e1CB82D53F35d468d6269ff94E54C01810",
-      "symbol": "DAR",
-      "name": "Dargaon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe167DD4e20a2F5c335c4501A0c3A4f53009445E3",
       "symbol": "VIDA",
       "name": "VIDAProject",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE30d8c26644c68FC9AdA2C46f101a497827f613B",
+      "symbol": "CLIQUE",
+      "name": "CLIQUEPLAY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18860,
-    "minor": 18860,
+    "major": 18861,
+    "minor": 18861,
     "patch": 86
   }
 }
