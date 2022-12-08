@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8BeADBB9a71Ac90B49eb70E9F7ceDae735faAc68",
-      "symbol": "AKAGUCHI",
-      "name": "YOKAI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x768Acf92B4eDBAeF83f83baA90D74C0D2Cb50E6E",
       "symbol": "YORI",
       "name": "YORI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45aF36D33E8a0948CA201423068eC29739a19D7A",
+      "symbol": "BYC",
+      "name": "BLUEYARDCAPITAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18858,
-    "minor": 18858,
+    "major": 18859,
+    "minor": 18859,
     "patch": 86
   }
 }
