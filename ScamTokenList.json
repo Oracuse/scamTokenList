@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x003244EC6cdd53880db369de32c4af290e552312",
-      "symbol": "TSUKAJR",
-      "name": "TsukaJunior",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xca90B648CC8D0C31B433e9B874c6cd41fb715eb0",
       "symbol": "ARAGORN",
       "name": "Aragorn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe54435641392cB07b65336A7cf88E6c23f48b0D4",
+      "symbol": "RDOGE",
+      "name": "REINDOGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18773,
-    "minor": 18773,
+    "major": 18774,
+    "minor": 18774,
     "patch": 86
   }
 }
