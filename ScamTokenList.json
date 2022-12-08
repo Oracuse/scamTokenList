@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x662Fd2819Ff459912138E8e9876731538f2eAC61",
-      "symbol": "RYUGEN",
-      "name": "RyugenTama",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69E48c7DbEAd40218A1853bA4CC41Bf0D5315c52",
       "symbol": "ABE",
       "name": "Abelone",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60A290D50786DfB661C4ad373bF1b53DbE1F64A7",
+      "symbol": "PGP",
+      "name": "PrettyGoodPrivacy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18783,
-    "minor": 18783,
+    "major": 18784,
+    "minor": 18784,
     "patch": 86
   }
 }
