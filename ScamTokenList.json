@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x46E771376B9cC4AF1995393013A22b9Eb392E12e",
-      "symbol": "THRONE",
-      "name": "PEPETHRONE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84a475d3433d9A52d3b458e5cA22fA3b0CF0Cc66",
       "symbol": "YORI",
       "name": "YoriToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5BDC32663Ec75E85ff4abc2CAe7ae8B606A2CFCa",
+      "symbol": "CP",
+      "name": "CookiesProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18826,
-    "minor": 18826,
+    "major": 18827,
+    "minor": 18827,
     "patch": 86
   }
 }
