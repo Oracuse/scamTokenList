@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x768Acf92B4eDBAeF83f83baA90D74C0D2Cb50E6E",
-      "symbol": "YORI",
-      "name": "YORI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa5bb50e1CB82D53F35d468d6269ff94E54C01810",
       "symbol": "DAR",
       "name": "Dargaon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xce81cf156dbd2D8F4E63eDc6065740AFFddE66e9",
+      "symbol": "RYU",
+      "name": "Ryukyu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18859,
-    "minor": 18859,
+    "major": 18860,
+    "minor": 18860,
     "patch": 86
   }
 }
