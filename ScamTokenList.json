@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa62800cBdC8417225459F6118F38eC1Ed2d7e573",
-      "symbol": "GAMETS",
-      "name": "GameOfTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00C6ced67d845a7Bf1e33ACe9832553E00Fd9999",
       "symbol": "KAKKAZAN",
       "name": "GaifuKaisei",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe566585e097dB50B38bC53164eaE2Be0D9e6ac0d",
+      "symbol": "SAI",
+      "name": "SantaAI",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18853,
-    "minor": 18853,
+    "major": 18854,
+    "minor": 18854,
     "patch": 86
   }
 }
