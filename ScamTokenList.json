@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6719c0342754B46482ffe1407f85Aa3832B399C0",
-      "symbol": "APE",
-      "name": "apromisedend",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF3C09Ae97445094F60ee95F96a35517E45527753",
       "symbol": "GMA",
       "name": "GoodMorningAmerica",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12e1bb2a29eD248de7818B49577EA1501C0693b9",
+      "symbol": "MEDEA",
+      "name": "DrakonesOfMEDEA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18741,
-    "minor": 18741,
+    "major": 18742,
+    "minor": 18742,
     "patch": 86
   }
 }
