@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xca90B648CC8D0C31B433e9B874c6cd41fb715eb0",
-      "symbol": "ARAGORN",
-      "name": "Aragorn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc9ff4387591DF04fD0eb5b8B621909De0B8D82f6",
       "symbol": "RYUTSUKA",
       "name": "RyuTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55514E966989b32e2b5c933F916426A00654F26D",
+      "symbol": "BSANTA",
+      "name": "BlackSanta",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18774,
-    "minor": 18774,
+    "major": 18775,
+    "minor": 18775,
     "patch": 86
   }
 }
