@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0F3C08153A24E6b64e80bbaB1435F68af9092d7d",
-      "symbol": "TAMATOBER",
-      "name": "TamaTober",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98df1b95478B6a3B13E37782fC6991331Ce52f52",
       "symbol": "UMBER",
       "name": "Umbrella",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaCA6A3Cb8944B679cc9A24Ea3F701C2a4A749E4e",
+      "symbol": "BYC",
+      "name": "BLUEYARD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18855,
-    "minor": 18855,
+    "major": 18856,
+    "minor": 18856,
     "patch": 86
   }
 }
