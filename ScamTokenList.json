@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2F4155D63C2a9A176A10E4e28e917563d0882483",
-      "symbol": "YORI",
-      "name": "YoriToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8f4C48fc5FFa7d8DE860C4F2d56a6238B7CE5906",
       "symbol": "BAI",
       "name": "BankOfAmericaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51A201942c0Aa7767934c2c760ac729B9624712A",
+      "symbol": "MRMOON",
+      "name": "MrMoon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18791,
-    "minor": 18791,
+    "major": 18792,
+    "minor": 18792,
     "patch": 86
   }
 }
