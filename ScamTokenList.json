@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7A44cb5feF229e0b08395E225cf26d56dceB882e",
-      "symbol": "MTTSUKA",
-      "name": "MountTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDd49fC4Bb9300e76B4D1187577D88160A32A929B",
       "symbol": "WHOAMI",
       "name": "WhoAmI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0194b2743BfC440f99654F84D50103991284a1dB",
+      "symbol": "KURAI",
+      "name": "Kurai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18776,
-    "minor": 18776,
+    "major": 18777,
+    "minor": 18777,
     "patch": 86
   }
 }
