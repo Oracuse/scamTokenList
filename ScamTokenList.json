@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x776A927238236df0E62Ccb675B1b620Bd19f7BBd",
-      "symbol": "TSUKAMIASHI",
-      "name": "TsukaMiashi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6719c0342754B46482ffe1407f85Aa3832B399C0",
       "symbol": "APE",
       "name": "apromisedend",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Be28300774C461b9d58f645E7a40A73054E8179",
+      "symbol": "YELLOW",
+      "name": "Yellow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18740,
-    "minor": 18740,
+    "major": 18741,
+    "minor": 18741,
     "patch": 86
   }
 }
