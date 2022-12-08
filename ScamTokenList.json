@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe1aa2265C6611Cf2b3C71af18a00D6dfC5bd6238",
-      "symbol": "1M",
-      "name": "Tsira",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x64945cB39C530f2531b1D6828f9F89C22A5fD50B",
       "symbol": "BOTAMOCHI",
       "name": "Botamochi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5D4ae3eC9A8442864682EF4151f10C2fc739F012",
+      "symbol": "BDS",
+      "name": "BAHAMUTDRAGONSOCIET",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18759,
-    "minor": 18759,
+    "major": 18760,
+    "minor": 18760,
     "patch": 86
   }
 }
