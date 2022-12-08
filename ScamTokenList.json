@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf33eBD02319AF2797CdC556e2DA146d41F36Af90",
-      "symbol": "YORI",
-      "name": "Yori",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98437508E8b31F244FC70bEB8A4F7C5Ba61c9706",
       "symbol": "CFY",
       "name": "Compoundify",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x519A32ae5676B086078b2214f9422935C4895862",
+      "symbol": "XDOGE",
+      "name": "XenDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18870,
-    "minor": 18870,
+    "major": 18871,
+    "minor": 18871,
     "patch": 86
   }
 }
