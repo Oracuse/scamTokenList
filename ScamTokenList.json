@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFF50356F982CBC9ec004d10713dCdbddE5286444",
-      "symbol": "BABYLEASH",
-      "name": "BLSH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF2B83A1C77A62430395ff19295F4899AD4407AaD",
       "symbol": "THEQUARTERMOON",
       "name": "TheQuarterMoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaF71581352A3Db4906F073f5bC020527a0108b33",
+      "symbol": "BEFI",
+      "name": "BlackDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18829,
-    "minor": 18829,
+    "major": 18830,
+    "minor": 18830,
     "patch": 86
   }
 }
