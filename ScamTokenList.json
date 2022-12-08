@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0E375230d5D6FD53d838d2000B88CA8cfb327E39",
-      "symbol": "TSUKATWO",
-      "name": "Tsuka20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6f34AA83Eda740B9fF263Ed00A11e4a4fcC48f29",
       "symbol": "XP",
       "name": "Windows",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75476B5DC52Eb44104B79E00c9C2C348Fa45deCB",
+      "symbol": "OAI",
+      "name": "OnlyApeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18761,
-    "minor": 18761,
+    "major": 18762,
+    "minor": 18762,
     "patch": 86
   }
 }
