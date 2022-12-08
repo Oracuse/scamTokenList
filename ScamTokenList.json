@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76695Fa621D8a785bdC4C6572A7735f1Cf214AFa",
-      "symbol": "SAR",
-      "name": "Saudi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5356a39b84F6F0D9aC1FEA973Ca034Ce0cfCBf40",
       "symbol": "BTAMA",
       "name": "BABYTAMADOGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36402674F7a0b2e8b4E07eCF21DAAf521AfE8f00",
+      "symbol": "SANTA",
+      "name": "SantaDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18768,
-    "minor": 18768,
+    "major": 18769,
+    "minor": 18769,
     "patch": 86
   }
 }
