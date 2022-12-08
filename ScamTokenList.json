@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA8313e9A6C13f815893487e5751CA261663dBb5A",
-      "symbol": "BSATOSHI",
-      "name": "BabySatoshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE5bc457E6c483b24bdF11ad3BE075a49E86117A4",
       "symbol": "KJUI",
       "name": "KIMJONGUNINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeA6db257BA9341f26BcFDA43a38B12128D4Ca308",
+      "symbol": "OAIS",
+      "name": "OpenAISociety",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18738,
-    "minor": 18738,
+    "major": 18739,
+    "minor": 18739,
     "patch": 86
   }
 }
