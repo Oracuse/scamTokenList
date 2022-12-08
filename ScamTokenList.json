@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF8fE8DA1d4DdC6aBdF6A5Eb3eE73b90b96f131D4",
-      "symbol": "TATSUMAKIRYOKA",
-      "name": "TatsumakiRyoka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDb30973AFc06b47D92E8693F7031B713227e69aA",
       "symbol": "SPN",
       "name": "SPACEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9094861969938fbb8a79CE9c196f197877712039",
+      "symbol": "OPENAI",
+      "name": "OpenAIGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18787,
-    "minor": 18787,
+    "major": 18788,
+    "minor": 18788,
     "patch": 86
   }
 }
