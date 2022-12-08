@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9D48C9d14CCA527b8D19b8B2D0E14B10791A74D1",
-      "symbol": "JPMI",
-      "name": "JPMorganInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x45A6fe2abb272a8f897A911C179fFeBeE76d6A3C",
       "symbol": "DREAM",
       "name": "DreamReveal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4cC2F21294E8696158B09A5Ee8ea1FeD9Ddff293",
+      "symbol": "PROMPT",
+      "name": "prompt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18794,
-    "minor": 18794,
+    "major": 18795,
+    "minor": 18795,
     "patch": 86
   }
 }
