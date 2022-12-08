@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD8b1b92160741140A6cD78993E9c47AdFea2c002",
-      "symbol": "NEBLIO",
-      "name": "Neblio",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF8fE8DA1d4DdC6aBdF6A5Eb3eE73b90b96f131D4",
       "symbol": "TATSUMAKIRYOKA",
       "name": "TatsumakiRyoka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B40B1699A2E1E10Dc841061DaC527703fc56733",
+      "symbol": "CHATGPT",
+      "name": "ChatGPT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18786,
-    "minor": 18786,
+    "major": 18787,
+    "minor": 18787,
     "patch": 86
   }
 }
