@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x799037549ED5170482B88B342061A12B7B3BAa5a",
-      "symbol": "EGM",
-      "name": "ENIGMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59684a1A3Bb96b817EfD58fab562c023c4EEaAB4",
       "symbol": "TSUMI",
       "name": "OyamatsumiNoMikoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5D9D578cb9BB724603ED4EbA4BDC15D9e54f5E43",
+      "symbol": "BYC",
+      "name": "BLUEYARDCAPITAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18864,
-    "minor": 18864,
+    "major": 18865,
+    "minor": 18865,
     "patch": 86
   }
 }
