@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x740da257fF7D3E1d134812Cf93331a039fCcf3b5",
-      "symbol": "BYORI",
-      "name": "Babyyori",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0E5d626B405Cde80924b2DF15722b4f6a5BEA005",
       "symbol": "ZORI",
       "name": "ZombieYori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2FFDFe146994670eE6668E2D8473C85D06A6C6ba",
+      "symbol": "KUSDC",
+      "name": "FatCatKiller",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18802,
-    "minor": 18802,
+    "major": 18803,
+    "minor": 18803,
     "patch": 86
   }
 }
