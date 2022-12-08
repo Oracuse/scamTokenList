@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0F15527083eF12Dc8B4E589442E7874652dB6D60",
-      "symbol": "NOTAX",
-      "name": "TaxFree",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf178f7b9608bc430161638C4779A87D64859eb7D",
       "symbol": "TBONE",
       "name": "Bonetama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32392A59d8548ae969D9Da5B38d795957eC9b116",
+      "symbol": "HVAI",
+      "name": "HumanVoiceAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18867,
-    "minor": 18867,
+    "major": 18868,
+    "minor": 18868,
     "patch": 86
   }
 }
