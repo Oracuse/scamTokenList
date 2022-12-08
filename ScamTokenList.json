@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6fB1a82E9a78A4d45cd887A34e55Af7C1827D2F3",
-      "symbol": "TOSHI",
-      "name": "TOYOTOMIHIDEYOSHI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe8E30607c162a5cc423e8354cc04C856f2e20309",
       "symbol": "SPIRIT",
       "name": "TheTsukaTama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x057Ed9Ed17a20aEa40f0FF581E9aAB49FF16CB53",
+      "symbol": "STORE",
+      "name": "ANONVAULT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18823,
-    "minor": 18823,
+    "major": 18824,
+    "minor": 18824,
     "patch": 86
   }
 }
