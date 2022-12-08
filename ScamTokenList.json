@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x00C6ced67d845a7Bf1e33ACe9832553E00Fd9999",
-      "symbol": "KAKKAZAN",
-      "name": "GaifuKaisei",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0F3C08153A24E6b64e80bbaB1435F68af9092d7d",
       "symbol": "TAMATOBER",
       "name": "TamaTober",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE2B857284bA64a806971797B8d5D67f462Fa7E12",
+      "symbol": "GSHIB",
+      "name": "GoldenShiba",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18854,
-    "minor": 18854,
+    "major": 18855,
+    "minor": 18855,
     "patch": 86
   }
 }
