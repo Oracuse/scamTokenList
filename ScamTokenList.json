@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8DB7C0d36A0a1E6d8D9fa4EE128A8bA03A009B40",
-      "symbol": "CHOCHIN",
-      "name": "ChochinObake",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x956C2797C6287C01A75Dea5Dfe8a4618a2343888",
       "symbol": "BUFF",
       "name": "BUFFALO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x634DBc9DcCd290FF232f01D3655ED2ccad2c9C4A",
+      "symbol": "BEFI",
+      "name": "BlackDeFi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18832,
-    "minor": 18832,
+    "major": 18833,
+    "minor": 18833,
     "patch": 86
   }
 }
