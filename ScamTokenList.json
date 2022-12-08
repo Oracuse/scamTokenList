@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x650541a2de63d706B97961eF101a4686ed27F161",
-      "symbol": "FLOTESLA",
-      "name": "FlokiTesla",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDd52ceD8EC5B549c7C411EB0CE7585Dab01644D2",
       "symbol": "MOON",
       "name": "LUNARGATEWAY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6D8347C99941Ab0FeA69Ee66f5d4d20D6c881BCa",
+      "symbol": "DAI",
+      "name": "DecentralizedAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18789,
-    "minor": 18789,
+    "major": 18790,
+    "minor": 18790,
     "patch": 86
   }
 }
