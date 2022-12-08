@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd75C4B15171A713FE0c16021765FFb668E73bF83",
-      "symbol": "GSXI",
-      "name": "GallupSiouxInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5490dF9222fBdB18fDa81b9308E8de47e16d8624",
       "symbol": "SECONDCHANCE",
       "name": "SecondChance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51CB237F29b79Ac0Cd342676b83f09c2Ce7B619f",
+      "symbol": "DAI",
+      "name": "DecentralizedAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18807,
-    "minor": 18807,
+    "major": 18808,
+    "minor": 18808,
     "patch": 86
   }
 }
