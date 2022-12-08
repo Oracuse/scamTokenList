@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7382f89801bde81eA29759ee664aDD3A856173a0",
-      "symbol": "GETH",
-      "name": "GalacticEth",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0F15527083eF12Dc8B4E589442E7874652dB6D60",
       "symbol": "NOTAX",
       "name": "TaxFree",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b9BF2D2CFde0dAc2a725040F0aA09815E5Afd8E",
+      "symbol": "CATS",
+      "name": "CATSOCIETY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18866,
-    "minor": 18866,
+    "major": 18867,
+    "minor": 18867,
     "patch": 86
   }
 }
