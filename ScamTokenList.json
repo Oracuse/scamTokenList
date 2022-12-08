@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3EF33801189691ed1162e05C3BB5223d49c7b98B",
-      "symbol": "GETBTC",
-      "name": "GetBTC",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x148F1116Aa39FE7e96FC7C62c1D8e1b708E58990",
       "symbol": "INFINITY",
       "name": "Infinity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f6148A61e2dc00c5cCcb01773480674EcC28E1a",
+      "symbol": "SHIBAI",
+      "name": "ShibAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18874,
-    "minor": 18874,
+    "major": 18875,
+    "minor": 18875,
     "patch": 86
   }
 }
