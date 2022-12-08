@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08957C2B0c8A30fB370DDd9a622Ec6617C7F0c4b",
-      "symbol": "HILL",
-      "name": "TheHill",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaefB21fBfcA842c9e9974fC5447Ad38C1e9d015A",
       "symbol": "DYNO",
       "name": "DynamicDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa72DF36b6BcF3A7f1af0484dE8e8Da6BE704deC1",
+      "symbol": "MP",
+      "name": "MatrixPill",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18862,
-    "minor": 18862,
+    "major": 18863,
+    "minor": 18863,
     "patch": 86
   }
 }
