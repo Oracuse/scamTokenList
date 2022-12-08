@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5858797DB0fDd8757f12DEf55041e61c2C99d09",
-      "symbol": "SPIRIT",
-      "name": "TheTsukaTama",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6d255AA0E9b47b8F68138454045f152ecC9a3077",
       "symbol": "NAAS",
       "name": "NodeService",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d922B880f22AD8b2538884402Aa606CA829a7E4",
+      "symbol": "LARP",
+      "name": "RYOSHISLARP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18754,
-    "minor": 18754,
+    "major": 18755,
+    "minor": 18755,
     "patch": 86
   }
 }
