@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x45A6fe2abb272a8f897A911C179fFeBeE76d6A3C",
-      "symbol": "DREAM",
-      "name": "DreamReveal",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8c40c09E36A0ab87697A19Cb9f95421Cf61c8B6f",
       "symbol": "SRDPT",
       "name": "SerendipityInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2A8914e1e7dc30a5E52f8d1849e41e7bF6eB7BE",
+      "symbol": "STEP",
+      "name": "StepbyStep",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18795,
-    "minor": 18795,
+    "major": 18796,
+    "minor": 18796,
     "patch": 86
   }
 }
