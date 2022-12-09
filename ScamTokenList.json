@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF52657Ae82b127D0eC6bF6f67aC109B224EBB96F",
-      "symbol": "LDRAG",
-      "name": "LightningDragon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F38E9e1A3f283FEE5Ae3432447dD2C00352F0ee",
       "symbol": "MESUKI",
       "name": "Mesuki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF6aB8F51d76dd6F23ED0CCbcfa8dEe01cD33414a",
+      "symbol": "MOSFET",
+      "name": "PRIVATEECONOMY",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18917,
-    "minor": 18917,
+    "major": 18918,
+    "minor": 18918,
     "patch": 86
   }
 }
