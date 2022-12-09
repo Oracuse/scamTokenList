@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0Cfa35146Eb57bD001751fC94C476431DCa5751f",
-      "symbol": "TWTR",
-      "name": "TwitterInu",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE64cDC1e05405D013B4B4E9ad28e143bAfaDd06E",
       "symbol": "VPRIME",
       "name": "VoltPrime",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x351D0328B493b05dF9aa3c77b3d7852b21eDd3eE",
+      "symbol": "ANONAI",
+      "name": "AnonymousAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18945,
-    "minor": 18945,
+    "major": 18946,
+    "minor": 18946,
     "patch": 86
   }
 }
