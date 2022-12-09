@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd2DfCcb802715E8188461d10385F8f232099c0ae",
-      "symbol": "TSUKADAO",
-      "name": "TsukaDaoProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x29ad2b3A85F2bef4031cA9e1E0Fb45eba1200bE9",
       "symbol": "HOBBIT",
       "name": "TheHobbit",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaCa60216E77249C0cc516a53552caC191CA24578",
+      "symbol": "HOLD",
+      "name": "HoldToEarn",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18960,
-    "minor": 18960,
+    "major": 18961,
+    "minor": 18961,
     "patch": 86
   }
 }
