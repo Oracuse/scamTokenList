@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x50083B13cae04Ae3aF65471c7eDdD859e39e3ea1",
-      "symbol": "WWBT",
-      "name": "THOUSANDAIRE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD149298bBeFD466CAcac1d0cDC9e33380aF4ca0A",
       "symbol": "BAN",
       "name": "BANDITTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEff28A9b835224D810F1CF62B965230aB7C748c3",
+      "symbol": "STONED",
+      "name": "420society",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18940,
-    "minor": 18940,
+    "major": 18941,
+    "minor": 18941,
     "patch": 86
   }
 }
