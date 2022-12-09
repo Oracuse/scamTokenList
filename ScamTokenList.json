@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC0DfF77A7FCbf285c19fdc0fE08A1062FBC601b2",
-      "symbol": "AMATIAS",
-      "name": "AMATIAS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x710DbED9B79fD80eb1F3f63303eab8dDF1252dC0",
       "symbol": "SHAOLIN",
       "name": "ShaolinTempleDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1975D7ce3c81b9C517951174f14Fa4FBCDd358c6",
+      "symbol": "PLS",
+      "name": "plsbuyme",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18972,
-    "minor": 18972,
+    "major": 18973,
+    "minor": 18973,
     "patch": 86
   }
 }
