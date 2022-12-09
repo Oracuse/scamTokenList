@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x02700daE33EAA4747f0B6b89a4DFE5c26d997e4C",
-      "symbol": "TAMAS",
-      "name": "TamaShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0d67D080c939fCAB6a955b715d858C6C5aFCc955",
       "symbol": "TREASURE",
       "name": "PiratesTreasure",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x663666fb092b9E4D54D47c58AE22A319A8999999",
+      "symbol": "ELONMUSK",
+      "name": "ElonMusk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18902,
-    "minor": 18902,
+    "major": 18903,
+    "minor": 18903,
     "patch": 86
   }
 }
