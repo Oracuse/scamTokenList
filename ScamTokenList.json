@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4b02bB5Ff3E9e514967829Cc0c7024967706aa4B",
-      "symbol": "NINU",
-      "name": "NinjaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50083B13cae04Ae3aF65471c7eDdD859e39e3ea1",
       "symbol": "WWBT",
       "name": "THOUSANDAIRE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDdFff9a9cc539Cb7B830Eb839f2fC9159E0FA7d9",
+      "symbol": "WTYRANT",
+      "name": "WokenTyrant",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18939,
-    "minor": 18939,
+    "major": 18940,
+    "minor": 18940,
     "patch": 86
   }
 }
