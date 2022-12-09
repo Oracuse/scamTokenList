@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x416947BdF03021781287b10efbedAA8dAE684e9D",
-      "symbol": "AMZN",
-      "name": "AmazonInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc8014a2E686f253f53D29AcD1c9279888Cc64905",
       "symbol": "FIFA",
       "name": "FIFAWouldCup",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19213023A2a79bfC7Aeaaaecde0370d889c06273",
+      "symbol": "AP",
+      "name": "AlienPredator",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18932,
-    "minor": 18932,
+    "major": 18933,
+    "minor": 18933,
     "patch": 86
   }
 }
