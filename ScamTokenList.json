@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc970be61362CF0B000246Ea961e542dF9Bf0b197",
-      "symbol": "TAMATSUKA",
-      "name": "Tamatsuka",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1d803160308b1181CD4293A80C20D5bE9A0a82dE",
       "symbol": "ACC",
       "name": "AnonymousCryptoholi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01dF8d33cD3FbDEA303A89aC5DB5287B50529784",
+      "symbol": "50C",
+      "name": "50CENT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18910,
-    "minor": 18910,
+    "major": 18911,
+    "minor": 18911,
     "patch": 86
   }
 }
