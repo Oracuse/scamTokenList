@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4e953382612974F30dA9d2fE330Bcb21182bf7B0",
-      "symbol": "HETH",
-      "name": "HalloweETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x946207AA32e3902FFD50b1380B731A9d70a2B854",
       "symbol": "PRIME",
       "name": "Optimusk",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45FE5EF164af3aD315b5BC767370eF60dEF5a339",
+      "symbol": "AID",
+      "name": "AIDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18887,
-    "minor": 18887,
+    "major": 18888,
+    "minor": 18888,
     "patch": 86
   }
 }
