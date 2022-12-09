@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x946207AA32e3902FFD50b1380B731A9d70a2B854",
-      "symbol": "PRIME",
-      "name": "Optimusk",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc0269c2F421A15D6583CaA9b0eFDE4D7137aF3e7",
       "symbol": "TACO",
       "name": "TacoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeDfA9Fb2592bBabCFf32610fE1Ac62e24ac2a4a3",
+      "symbol": "BTCAI",
+      "name": "BitcoinAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18888,
-    "minor": 18888,
+    "major": 18889,
+    "minor": 18889,
     "patch": 86
   }
 }
