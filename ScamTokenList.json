@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA18574c40b21344D70e0F9ec39064e319174cB00",
-      "symbol": "ZAP",
-      "name": "Zip",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x63122aCeA9f0D135c5A624c30c6736575AB17204",
       "symbol": "EX",
       "name": "EverythingX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe6540CC10a48107C6C0134d2Ee5E7930541b373F",
+      "symbol": "KYUREM",
+      "name": "Kyurem",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18955,
-    "minor": 18955,
+    "major": 18956,
+    "minor": 18956,
     "patch": 86
   }
 }
