@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x55ca6B309686C2c452418AE33B48d12B58431CD3",
-      "symbol": "BOUNTY",
-      "name": "Bounty",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0DafB9F676A62930aCb325bbf284bC80a4d857a2",
       "symbol": "BOND",
       "name": "Consol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A9DeC6c31048557eDE33E32C9825EFed140B7B6",
+      "symbol": "ARG",
+      "name": "ARGENTINAKAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18900,
-    "minor": 18900,
+    "major": 18901,
+    "minor": 18901,
     "patch": 86
   }
 }
