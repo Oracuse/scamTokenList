@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x506Bd93FAc2039CbC8B9B837c4369daC128b3721",
-      "symbol": "X",
-      "name": "XTOKEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb4F22013883bD051074CbDA3F2a2ac06f91D2d6B",
       "symbol": "DELVE",
       "name": "Excavation",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6F20994080c4d80d16609cA5c0B8B65A3Df589b3",
+      "symbol": "CROATIA",
+      "name": "CROATIAINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18949,
-    "minor": 18949,
+    "major": 18950,
+    "minor": 18950,
     "patch": 86
   }
 }
