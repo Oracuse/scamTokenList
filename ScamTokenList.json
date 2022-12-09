@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC36fCe80c8d815fFd87fd9c4319827187d425987",
-      "symbol": "REFLECT",
-      "name": "Reflect",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd859E15d048A484C45681fB0dE1d6777aA551A4C",
       "symbol": "MANTRA",
       "name": "Jambhala",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17b8F1a8E0cdC4d84BA00405e55da6823b238CeE",
+      "symbol": "FILES",
+      "name": "TheTwitterFiles",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18896,
-    "minor": 18896,
+    "major": 18897,
+    "minor": 18897,
     "patch": 86
   }
 }
