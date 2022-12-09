@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x727963b9617B6B980330F9afFbc75Ce6B285C776",
-      "symbol": "KAI",
-      "name": "Hokkaido",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x07c9733a794A5f79fe998812f1A8695AEeD39069",
       "symbol": "INUZULA",
       "name": "InuzulaToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05c35038Bd55aFaCB4BFDf36754F75f723851AFD",
+      "symbol": "AGP",
+      "name": "AiGodfatherProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18914,
-    "minor": 18914,
+    "major": 18915,
+    "minor": 18915,
     "patch": 86
   }
 }
