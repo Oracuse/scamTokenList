@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x168d454202C87c27e91E51165723ca69aeaF2065",
-      "symbol": "PALLADIUM",
-      "name": "Palladium",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1Ab052Db3216835182926A6d516762B0f1634661",
       "symbol": "YORI",
       "name": "ThePathOfLight",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCdFB47DD149027eBF32F654D7CCad89a402225B6",
+      "symbol": "AIWEB3",
+      "name": "AIWeb3",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18925,
-    "minor": 18925,
+    "major": 18926,
+    "minor": 18926,
     "patch": 86
   }
 }
