@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0DafB9F676A62930aCb325bbf284bC80a4d857a2",
-      "symbol": "BOND",
-      "name": "Consol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x02700daE33EAA4747f0B6b89a4DFE5c26d997e4C",
       "symbol": "TAMAS",
       "name": "TamaShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c29b95F7C9209cFE410E2Eb33B74C416930C2eE",
+      "symbol": "NEUV",
+      "name": "NeuralVerse",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18901,
-    "minor": 18901,
+    "major": 18902,
+    "minor": 18902,
     "patch": 86
   }
 }
