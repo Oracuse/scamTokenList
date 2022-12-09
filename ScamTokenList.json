@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb4F22013883bD051074CbDA3F2a2ac06f91D2d6B",
-      "symbol": "DELVE",
-      "name": "Excavation",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8F79f39919810aFAf20902AE3b69aA8bB96d4c94",
       "symbol": "SHIBX",
       "name": "ShibaX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDB8F9Cb348B7E66A65CfadC120a0A1981863dC9D",
+      "symbol": "PRINT",
+      "name": "Printing",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18950,
-    "minor": 18950,
+    "major": 18951,
+    "minor": 18951,
     "patch": 86
   }
 }
