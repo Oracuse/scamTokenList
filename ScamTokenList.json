@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x70F4C5D89CF0b806f6dD9B733A34bF56e9aE5300",
-      "symbol": "DB",
-      "name": "dontBuy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59a63E3bc9bC1CE9Abfd7b928D13d02d98b818d6",
       "symbol": "GDS",
       "name": "GolddogeSachs",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70bbE876545DE5C636FB96E9eC5e4f15831e061c",
+      "symbol": "NEO",
+      "name": "NEOFormerlyAntShare",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18920,
-    "minor": 18920,
+    "major": 18921,
+    "minor": 18921,
     "patch": 86
   }
 }
