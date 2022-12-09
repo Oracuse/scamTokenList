@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x30e3AA78E70e2958040666C6B778222140fd8cd0",
-      "symbol": "NUM",
-      "name": "NUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA18574c40b21344D70e0F9ec39064e319174cB00",
       "symbol": "ZAP",
       "name": "Zip",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA8B5c202BBaEd28903543d4661433b74C3A6C1fB",
+      "symbol": "NXC",
+      "name": "NexentaCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18954,
-    "minor": 18954,
+    "major": 18955,
+    "minor": 18955,
     "patch": 86
   }
 }
