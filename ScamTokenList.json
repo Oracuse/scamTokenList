@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe1C6CDB7E807eC77B1Fc4a2b9838Ff2b583d41B9",
-      "symbol": "AURAOFETH",
-      "name": "AuraOfETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA8617F13511E2f5f8CF52B71A620A1cf6964Ec6B",
       "symbol": "DEGENS",
       "name": "TheOctoberDejitaru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40D611A49fc84B879597eA52FE4f1179cf4bb02e",
+      "symbol": "PLENOJI",
+      "name": "Plenoji",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18912,
-    "minor": 18912,
+    "major": 18913,
+    "minor": 18913,
     "patch": 86
   }
 }
