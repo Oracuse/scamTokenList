@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd26006087d5c8de59dEaddDCe995a699FF38798E",
-      "symbol": "KNOTSE",
-      "name": "KnotseChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfd854e4557296Bd16246f2C8A4E914143ECf7846",
       "symbol": "AIFI",
       "name": "AxieInfinityInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0302ed91632D3fD25bc6889D8215Fb943F02A19C",
+      "symbol": "ETHONE",
+      "name": "EthernalOnes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18890,
-    "minor": 18890,
+    "major": 18891,
+    "minor": 18891,
     "patch": 86
   }
 }
