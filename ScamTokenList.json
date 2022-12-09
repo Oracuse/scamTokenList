@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x00Cb4A4eD4F3eDDf657d13F10CFab055D1f871dA",
-      "symbol": "TSUTOSHI",
-      "name": "Tsukanatoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x506Bd93FAc2039CbC8B9B837c4369daC128b3721",
       "symbol": "X",
       "name": "XTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0007cE73001973d01758BA8A5E00665F5c659A5",
+      "symbol": "BLOCKAI",
+      "name": "BlockAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18948,
-    "minor": 18948,
+    "major": 18949,
+    "minor": 18949,
     "patch": 86
   }
 }
