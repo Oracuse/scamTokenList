@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62968Bc00c50a5D363b629D4FEC5B3954F6a27c1",
-      "symbol": "YACHI",
-      "name": "Omiyachi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x70F4C5D89CF0b806f6dD9B733A34bF56e9aE5300",
       "symbol": "DB",
       "name": "dontBuy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x632646838FAd0380a83209da1A35b5aDB3C9f207",
+      "symbol": "PESOS",
+      "name": "TenPesosMillionaire",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18919,
-    "minor": 18919,
+    "major": 18920,
+    "minor": 18920,
     "patch": 86
   }
 }
