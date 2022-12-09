@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd9be10C755cdd88Af133CFB9903c51af0475B7F5",
-      "symbol": "NINDOG",
-      "name": "NinjutsuDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1B83e204e94b10f481de0765CEc02647B14B4f1a",
       "symbol": "SAI",
       "name": "sAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42E41DD69A7C871E287c8F0e03dD7EE8212ee811",
+      "symbol": "XAI",
+      "name": "XMASAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18898,
-    "minor": 18898,
+    "major": 18899,
+    "minor": 18899,
     "patch": 86
   }
 }
