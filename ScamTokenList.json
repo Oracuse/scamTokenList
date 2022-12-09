@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4A3409042B9Be975aF69dE49F84d866Fece766fD",
-      "symbol": "MURASAKI",
-      "name": "MurasakiShikibu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF52657Ae82b127D0eC6bF6f67aC109B224EBB96F",
       "symbol": "LDRAG",
       "name": "LightningDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE68163Dd6E9bDa81ccE7E070253E39906FE99519",
+      "symbol": "RING",
+      "name": "EldenRing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18916,
-    "minor": 18916,
+    "major": 18917,
+    "minor": 18917,
     "patch": 86
   }
 }
