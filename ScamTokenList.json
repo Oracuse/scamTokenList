@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x831338246350e5d029765c6C1f8B7E90E2414fEa",
-      "symbol": "ASI",
-      "name": "AtasiaShibInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB8836D4788A533C8B56AE80a571b6A1c1d8AFeD9",
       "symbol": "ZER0",
       "name": "Protocol0",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1A2F63179e79486079B6a595c610164eC10792c",
+      "symbol": "VITAS",
+      "name": "VitalikSanta",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18975,
-    "minor": 18975,
+    "major": 18976,
+    "minor": 18976,
     "patch": 86
   }
 }
