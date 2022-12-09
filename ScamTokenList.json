@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1B83e204e94b10f481de0765CEc02647B14B4f1a",
-      "symbol": "SAI",
-      "name": "sAI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x55ca6B309686C2c452418AE33B48d12B58431CD3",
       "symbol": "BOUNTY",
       "name": "Bounty",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B4363d3F17D87efE61629546b7669067071610B",
+      "symbol": "BELLS",
+      "name": "JINGLE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18899,
-    "minor": 18899,
+    "major": 18900,
+    "minor": 18900,
     "patch": 86
   }
 }
