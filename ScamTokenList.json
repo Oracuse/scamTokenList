@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD0F3b85E848AEF9a5Ac77fED947371812499c3a5",
-      "symbol": "CSCDS",
-      "name": "CreditSuisseCreditD",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC0DfF77A7FCbf285c19fdc0fE08A1062FBC601b2",
       "symbol": "AMATIAS",
       "name": "AMATIAS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6A23F6d1C8da610D9085AbE92A64868A64201c3E",
+      "symbol": "VITAI",
+      "name": "VitalikAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18971,
-    "minor": 18971,
+    "major": 18972,
+    "minor": 18972,
     "patch": 86
   }
 }
