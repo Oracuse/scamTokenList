@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x06F11f559D64621b432fBcA764E38C7b4eb7C18a",
-      "symbol": "MOONED",
-      "name": "MoonorDust",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3e9b449ebb2d897EF8D83FCcBf602d3f2cd23dc7",
       "symbol": "CARDANO",
       "name": "CardanoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35b247389E82205D9e314548E8E1Ed08AB679e85",
+      "symbol": "LOAI",
+      "name": "LifeofAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 18963,
-    "minor": 18963,
+    "major": 18964,
+    "minor": 18964,
     "patch": 86
   }
 }
