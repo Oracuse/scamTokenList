@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f63517d8212369B961aB1FC7603287C95054a15",
-      "symbol": "SAZ",
-      "name": "Sazuno",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1342EF0063fD3e075324B471C0A2FA948756903B",
       "symbol": "SHITAMA",
       "name": "Shitama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1e0E22176Ffc829561075Ba3e172eb9a83CB5014",
+      "symbol": "AIDAO",
+      "name": "ArtificialIntellige",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19062,
-    "minor": 19062,
+    "major": 19063,
+    "minor": 19063,
     "patch": 86
   }
 }
