@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcfbB7533fACD8b4981E3e5FC36e6a0914b765B18",
-      "symbol": "SORA",
-      "name": "YosugaNoSora",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa77133E5C8EEcc3Bf9a3C62Ba26100E8b3417bc8",
       "symbol": "PHARAONIA",
       "name": "PHARAONIA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe6F85C8627Ea2150bf22916ED702C0d3C53F26A8",
+      "symbol": "MOROCCO",
+      "name": "MOROCCOINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19033,
-    "minor": 19033,
+    "major": 19034,
+    "minor": 19034,
     "patch": 86
   }
 }
