@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF3F1ab10970CA28f2F9204FA8a702f924b5beD31",
-      "symbol": "RDS",
-      "name": "RadojoSPA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x32b9F5b53De341335766d36f7b131c3E4F08C502",
       "symbol": "CFIVE",
       "name": "Crew5",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xACe3630d464e5E3469CA3BDa39f1FfC965A1082f",
+      "symbol": "MOONBOY",
+      "name": "Moonboy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19081,
-    "minor": 19081,
+    "major": 19082,
+    "minor": 19082,
     "patch": 86
   }
 }
