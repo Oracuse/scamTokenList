@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x315ed73F5d92E9d40fEE19466c8069b03c7944ba",
-      "symbol": "MTD",
-      "name": "MiniTamaDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x421334a5eB3261C8F5af13A563D498C6b3B8820a",
       "symbol": "SPIRETH",
       "name": "Spireth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC69DfBF7436c5904d893E3c137d9c52d6ce3ecf8",
+      "symbol": "BONO",
+      "name": "BonoFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19053,
-    "minor": 19053,
+    "major": 19054,
+    "minor": 19054,
     "patch": 86
   }
 }
