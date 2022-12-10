@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08D63714CEa313c7C855cD221cFD2bf6dC9D1107",
-      "symbol": "SEKIRO",
-      "name": "TsukiSekiro",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xad16c81F4565ea4b7a488f4343802DDF20C5a9A4",
       "symbol": "THECHEMISTS",
       "name": "Chemister",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x138664C386bDe6069a3E51cF859a8bAaf458e715",
+      "symbol": "DGK",
+      "name": "DragonKing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19019,
-    "minor": 19019,
+    "major": 19020,
+    "minor": 19020,
     "patch": 86
   }
 }
