@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcbC434703A90c731223dca5e9f5CC685662F61c8",
-      "symbol": "NA",
-      "name": "SodiumFinance",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xda8A3B45e275064111CFBcCCf764070E99111069",
       "symbol": "A51",
       "name": "Area51",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x23164fa085b9E3300448CB74F6603567e644EB50",
+      "symbol": "VIVAM",
+      "name": "VivaMagenta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19008,
-    "minor": 19008,
+    "major": 19009,
+    "minor": 19009,
     "patch": 86
   }
 }
