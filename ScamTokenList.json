@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2C0DB1Ea8C0aa4eEEf0D33c0b90D6EC65d28A050",
-      "symbol": "KAWS",
-      "name": "KawsInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA47B3ef0F8dE4A797083c86B636129a14f5b14c9",
       "symbol": "ASCND",
       "name": "Nimbo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88EF9012fFb368effcc8e5e52D20422A4377a1cA",
+      "symbol": "EMODUS",
+      "name": "Emodus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18982,
-    "minor": 18982,
+    "major": 18983,
+    "minor": 18983,
     "patch": 86
   }
 }
