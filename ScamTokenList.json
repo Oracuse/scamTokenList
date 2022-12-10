@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6145aC835C9b1E99857EB067264395d7c78fa2DB",
-      "symbol": "HISAKUSHIB",
-      "name": "HisakuShibDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2Bac8034a5EEFD7809bf11036902313F88b683B0",
       "symbol": "FUKUJIN",
       "name": "SevenLuckyGods",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35A9d6481ED7e8036a679316904204F94B92aC1e",
+      "symbol": "FLY",
+      "name": "ZeroGravity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19056,
-    "minor": 19056,
+    "major": 19057,
+    "minor": 19057,
     "patch": 86
   }
 }
