@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9598F270643A12ECD3611bEfd383a8eb42E32a1a",
-      "symbol": "NGL",
-      "name": "ngl",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8F0E74AE4c0BD412c161DC655a22Cb31aee9fE52",
       "symbol": "GODA",
       "name": "GODA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF7202b0F95359a17Ef7ea132e93112Aa6b1e551A",
+      "symbol": "MOONBOY",
+      "name": "Moonboy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19084,
-    "minor": 19084,
+    "major": 19085,
+    "minor": 19085,
     "patch": 86
   }
 }
