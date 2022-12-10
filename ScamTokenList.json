@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x32b9F5b53De341335766d36f7b131c3E4F08C502",
-      "symbol": "CFIVE",
-      "name": "Crew5",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80cB89337c91f0f2E08D494E8869F65d16ce14e3",
       "symbol": "KEEN",
       "name": "KEEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeedaf3AeD56fa7e14C04A0f3df8EbeeaAAD2405E",
+      "symbol": "AINET",
+      "name": "AINetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19082,
-    "minor": 19082,
+    "major": 19083,
+    "minor": 19083,
     "patch": 86
   }
 }
