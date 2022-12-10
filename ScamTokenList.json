@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA55283906B0D757528E3bB7365c6a613Af468652",
-      "symbol": "TJJ",
-      "name": "TojjiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5EB96920Fe6752e2B46cBDd76E9720ec709d09f8",
       "symbol": "GARFIELD",
       "name": "GarfieldCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCe13A7c5f0d790B1e41DA38D42E085e1f34620bF",
+      "symbol": "TCS",
+      "name": "TwitterCrimeScene",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19065,
-    "minor": 19065,
+    "major": 19066,
+    "minor": 19066,
     "patch": 86
   }
 }
