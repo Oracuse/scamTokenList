@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa43d2C03CFFDc4b376233AB2ee781667Ec602cB3",
-      "symbol": "NPC",
-      "name": "npc",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38988AFc4c692Db8fa28EF0d38723E2a5929ED7e",
       "symbol": "YORI",
       "name": "Yori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9A14Cbd77A83F6DCa70f83320E87f43a4cD8dB9b",
+      "symbol": "FROGMASTER",
+      "name": "FROGMASTER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19076,
-    "minor": 19076,
+    "major": 19077,
+    "minor": 19077,
     "patch": 86
   }
 }
