@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA47B3ef0F8dE4A797083c86B636129a14f5b14c9",
-      "symbol": "ASCND",
-      "name": "Nimbo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8462909EF87aBAA2Ad15E39CB3f20De569256879",
       "symbol": "MINU",
       "name": "MonsterInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x887119C409804f31Bfeb527fddD26B5c885cafc1",
+      "symbol": "MFI",
+      "name": "MiltonFriedmanInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18983,
-    "minor": 18983,
+    "major": 18984,
+    "minor": 18984,
     "patch": 86
   }
 }
