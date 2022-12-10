@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5b80f5ECa755e08fc0A7d353075bF121373cA0DE",
-      "symbol": "SUKIYU",
-      "name": "SukiyuInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x315ed73F5d92E9d40fEE19466c8069b03c7944ba",
       "symbol": "MTD",
       "name": "MiniTamaDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86F8579B193D57C990e4F97f7cEE981b266D829B",
+      "symbol": "ALCHEMISTAI",
+      "name": "AlchemistAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19052,
-    "minor": 19052,
+    "major": 19053,
+    "minor": 19053,
     "patch": 86
   }
 }
