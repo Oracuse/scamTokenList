@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x16a5Cd2EDE059Aa2F770B0Ccb791368Ef6c6820a",
-      "symbol": "BACKS",
-      "name": "BackToWork",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5b18944fcc8B59866BD81b5fB1b5c23Ad5Dda193",
       "symbol": "CATSUKA",
       "name": "Catsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcb9922cb9AE445a55dF0BC910311DD767F1Aae5F",
+      "symbol": "PINKBOY",
+      "name": "BITSHOPPERS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19042,
-    "minor": 19042,
+    "major": 19043,
+    "minor": 19043,
     "patch": 86
   }
 }
