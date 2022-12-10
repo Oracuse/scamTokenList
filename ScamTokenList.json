@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdf8932fEA9a8F766E8F634b56129ccC18aE9924f",
-      "symbol": "OSAMU",
-      "name": "OsamuDazai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x775991E49175F5acB0f1f452C4B421194dc9A9a0",
       "symbol": "CHORDS",
       "name": "Cadence",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f7a4F5C2CD3323fd1C4C7afF0FdF91aC520BFc5",
+      "symbol": "OAI",
+      "name": "OpenAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18980,
-    "minor": 18980,
+    "major": 18981,
+    "minor": 18981,
     "patch": 86
   }
 }
