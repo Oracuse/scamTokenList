@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd5Cd07A0FAA707A8C755FeBb0964f1E18E5fffF9",
-      "symbol": "YORI",
-      "name": "YoriToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCccb13E6ddcf12130c4CEb53dF8a1fD264Cb1B20",
       "symbol": "TSTEIN",
       "name": "Tsukastein",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F60363eD7EB838806c08AA5231fb7A32503c386",
+      "symbol": "TRH",
+      "name": "TorahFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18993,
-    "minor": 18993,
+    "major": 18994,
+    "minor": 18994,
     "patch": 86
   }
 }
