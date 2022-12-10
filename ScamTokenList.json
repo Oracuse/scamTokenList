@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5C5F6d0C3B0c70b71A6b219d4c7d91aE2D4fb0B1",
-      "symbol": "CHZC",
-      "name": "ChillizC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe4f0991B24908cb20cf095DcdaFc947F2A73d343",
       "symbol": "BOOMSTICK",
       "name": "DogesOfDarkness",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe6e368a744C5CfAdFD9bC788aA4830A35D7cBda2",
+      "symbol": "SCROOGE",
+      "name": "ChristmasCarol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19000,
-    "minor": 19000,
+    "major": 19001,
+    "minor": 19001,
     "patch": 86
   }
 }
