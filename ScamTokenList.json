@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4D3F113476B2b36C8d3ECe55A6c1Ca6822b2961d",
-      "symbol": "SORA",
-      "name": "YosugaNoSora",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x796f65b08E23048eE4FB6070a5192EDe4eA3C534",
       "symbol": "SXC",
       "name": "SocialClub",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe848dbEF5F1b84d99dD305287AB18059820D15B9",
+      "symbol": "QNTM",
+      "name": "Quantumania",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19035,
-    "minor": 19035,
+    "major": 19036,
+    "minor": 19036,
     "patch": 86
   }
 }
