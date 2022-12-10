@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x424885505259306312f146D530d425414aF0ca18",
-      "symbol": "ETH",
-      "name": "teslaEtherum20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5b80f5ECa755e08fc0A7d353075bF121373cA0DE",
       "symbol": "SUKIYU",
       "name": "SukiyuInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEcC0A6F66740Af6A8A8fC7FDeaB32971DBEDEd6f",
+      "symbol": "TR",
+      "name": "TheReplicants",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19051,
-    "minor": 19051,
+    "major": 19052,
+    "minor": 19052,
     "patch": 86
   }
 }
