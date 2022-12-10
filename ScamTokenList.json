@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5a5A0b33B960d86830E2Cb2754cFE006F88729C9",
-      "symbol": "LTAMA",
-      "name": "LordTamadoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCF2a48e5e4D65F34A185E30611CA135C98C71536",
       "symbol": "BARCELONA",
       "name": "Barcelona",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeB53cfd3ee1C86C985E2Fc26bFa0d033Bcc0054D",
+      "symbol": "T0DX",
+      "name": "T0dxToken",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19004,
-    "minor": 19004,
+    "major": 19005,
+    "minor": 19005,
     "patch": 86
   }
 }
