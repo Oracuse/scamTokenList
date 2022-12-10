@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x03597089915f28ee5c3410A316387850DF719A06",
-      "symbol": "HNST",
-      "name": "Honestly",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEdE26A88A7208f59595bF473f1B450635D75a1Af",
       "symbol": "TIAMAT",
       "name": "Tiamat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3D36f954a63B717BB209d9e7fE81D8568246D0E9",
+      "symbol": "AMP",
+      "name": "AiMatrixProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18987,
-    "minor": 18987,
+    "major": 18988,
+    "minor": 18988,
     "patch": 86
   }
 }
