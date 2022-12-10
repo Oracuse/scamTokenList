@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x775991E49175F5acB0f1f452C4B421194dc9A9a0",
-      "symbol": "CHORDS",
-      "name": "Cadence",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2C0DB1Ea8C0aa4eEEf0D33c0b90D6EC65d28A050",
       "symbol": "KAWS",
       "name": "KawsInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Df74D1C6D9dB1EA14FE63070E7352191A67149b",
+      "symbol": "EPIPHANY",
+      "name": "EpiphanyProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18981,
-    "minor": 18981,
+    "major": 18982,
+    "minor": 18982,
     "patch": 86
   }
 }
