@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe4ac888c2AC18c63c37a6ED090E864E692c83B64",
-      "symbol": "ARCADE",
-      "name": "ArcadeGames",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8193711b2763Bc7DfD67Da0d6C8c26642eafDAF3",
       "symbol": "INSTAR",
       "name": "INSTAR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a753c5290806Da1948Ca7f0875bC678d9b5F053",
+      "symbol": "ASTRA",
+      "name": "AstraInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19049,
-    "minor": 19049,
+    "major": 19050,
+    "minor": 19050,
     "patch": 86
   }
 }
