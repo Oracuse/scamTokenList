@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7579328005Ed812f4A3AbCb75588B2814098cC92",
-      "symbol": "RDS",
-      "name": "RadojoSPA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF3F1ab10970CA28f2F9204FA8a702f924b5beD31",
       "symbol": "RDS",
       "name": "RadojoSPA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B8F8DB820CcE1c1dd0a4E0108dEBEe5a8c5bfD9",
+      "symbol": "RT",
+      "name": "RyoshisTreat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19080,
-    "minor": 19080,
+    "major": 19081,
+    "minor": 19081,
     "patch": 86
   }
 }
