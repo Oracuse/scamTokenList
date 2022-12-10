@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0F23F71321e3b35f8A7D7Eb3751B88C1ceDf6eDB",
-      "symbol": "DD",
-      "name": "DejitaruDracula",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdf8932fEA9a8F766E8F634b56129ccC18aE9924f",
       "symbol": "OSAMU",
       "name": "OsamuDazai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCec071Fa20ce406AE03Fb3647f37D736898B9881",
+      "symbol": "TRIAL",
+      "name": "TrialbyFire",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 18979,
-    "minor": 18979,
+    "major": 18980,
+    "minor": 18980,
     "patch": 86
   }
 }
