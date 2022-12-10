@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4a87A678e2DD682ca7a74B5A85Bcf7EaE7adB0E6",
-      "symbol": "RAB",
-      "name": "SpookyRabbit",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBEF80A4EB5e0FA1df93A56D71296dd075990b3da",
       "symbol": "TFI",
       "name": "TamaFlokiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF9de75B8080b1016fB940cC6333894eBE512Ad7b",
+      "symbol": "BAG",
+      "name": "BAG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19022,
-    "minor": 19022,
+    "major": 19023,
+    "minor": 19023,
     "patch": 86
   }
 }
