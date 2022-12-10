@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA3C2c6BEb8896bBfE4eDdf3db3eeceA862795F2D",
-      "symbol": "FATE",
-      "name": "FATE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe4ac888c2AC18c63c37a6ED090E864E692c83B64",
       "symbol": "ARCADE",
       "name": "ArcadeGames",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c7222409C5579E82c6682E9Dd96DA419946ADD1",
+      "symbol": "EXI",
+      "name": "ExodusInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19048,
-    "minor": 19048,
+    "major": 19049,
+    "minor": 19049,
     "patch": 86
   }
 }
