@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5EB96920Fe6752e2B46cBDd76E9720ec709d09f8",
-      "symbol": "GARFIELD",
-      "name": "GarfieldCoin",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeeF304B0E81749FC5155488FC1f71F5BC499D681",
       "symbol": "TAZKI",
       "name": "TamaTsuzuki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC77fbc1FBd5B0fFf3A374460fa1bF5b08388A4cb",
+      "symbol": "SPI",
+      "name": "SouthParkInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19066,
-    "minor": 19066,
+    "major": 19067,
+    "minor": 19067,
     "patch": 86
   }
 }
