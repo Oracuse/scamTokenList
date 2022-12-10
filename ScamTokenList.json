@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8C62A2f81D9cF4db77c2fA71afFA54AD8beE7E5E",
-      "symbol": "NUTSUKA",
-      "name": "TsukaDeezNuts",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4282329a4B84335298df01Ac938389C657400f43",
       "symbol": "BTBURN",
       "name": "BabyTamaDogeBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52265D458ACe7F1Bde40f23F78f834671662EE61",
+      "symbol": "MINE",
+      "name": "DigiMiners",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19013,
-    "minor": 19013,
+    "major": 19014,
+    "minor": 19014,
     "patch": 86
   }
 }
