@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa6Eb8411901233845009e88958B2A402520F24Ba",
-      "symbol": "SEIBA",
-      "name": "SEIBA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4a87A678e2DD682ca7a74B5A85Bcf7EaE7adB0E6",
       "symbol": "RAB",
       "name": "SpookyRabbit",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5863526957750621232c089A43D09A044F492d4c",
+      "symbol": "GAME",
+      "name": "GamePools",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19021,
-    "minor": 19021,
+    "major": 19022,
+    "minor": 19022,
     "patch": 86
   }
 }
