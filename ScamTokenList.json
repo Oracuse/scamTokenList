@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe250a3587efB5e8e39824a7834e7c343d3B5e7a0",
-      "symbol": "DCHAIN",
-      "name": "TsukaChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x026D48966a6405ff0CEd5Ed8F03042aEBBbb9eF0",
       "symbol": "TAMASAKI",
       "name": "Tamasaki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3FBD1fcF60057047fD3b24452e1dE166a8aaAC7C",
+      "symbol": "ROLLS",
+      "name": "RobotsandTtrollsInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19156,
-    "minor": 19156,
+    "major": 19157,
+    "minor": 19157,
     "patch": 86
   }
 }
