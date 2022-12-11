@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcdb615edcA89eBEd8B894c21CED3E6a50eD194f9",
-      "symbol": "BONEOFSHIB",
-      "name": "BONEOfSHIB",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6DcD3937A477E84d8ccec4a7774258d84AE45F00",
       "symbol": "STAKE",
       "name": "STAKING",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1898E74efD380b5B70500bB8CaBE0eB7e0D4AF07",
+      "symbol": "AVAI",
+      "name": "AVAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19164,
-    "minor": 19164,
+    "major": 19165,
+    "minor": 19165,
     "patch": 86
   }
 }
