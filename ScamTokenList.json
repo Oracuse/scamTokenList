@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5602a2066Ee376589A47f4C3Fe9858C869FCbcBb",
-      "symbol": "HEXBLOK",
-      "name": "TheHexicanBlock",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDaB77476FF1A14B1f1B948C9CD35966f07A2093b",
       "symbol": "KARA",
       "name": "Karasu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x529aDc08Fc27683F778bd300E9383dbCF88Ff4Da",
+      "symbol": "KGI",
+      "name": "KoreanGenshiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19126,
-    "minor": 19126,
+    "major": 19127,
+    "minor": 19127,
     "patch": 86
   }
 }
