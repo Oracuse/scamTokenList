@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfBdf0258391cD717926E76A9754c69E50c7c492a",
-      "symbol": "COSAFU",
-      "name": "Cosafu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xef403c932979fEa2b253E5a73A04d8a90fb14ed2",
       "symbol": "DIGI",
       "name": "DigitalInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD47c9C4adD81B4dD9EDDE7D60be2dcFac409b5Ea",
+      "symbol": "ARKA",
+      "name": "ARKA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19109,
-    "minor": 19109,
+    "major": 19110,
+    "minor": 19110,
     "patch": 86
   }
 }
