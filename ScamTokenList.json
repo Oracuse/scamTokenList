@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCAb9e16882a5FaC0060e8D74823bB3C318b0ca3E",
-      "symbol": "VOID",
-      "name": "TheVoid",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5602a2066Ee376589A47f4C3Fe9858C869FCbcBb",
       "symbol": "HEXBLOK",
       "name": "TheHexicanBlock",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6Cb1f5D0D5f931BFc15647a523552683c521F9c",
+      "symbol": "ECHO",
+      "name": "Whisper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19125,
-    "minor": 19125,
+    "major": 19126,
+    "minor": 19126,
     "patch": 86
   }
 }
