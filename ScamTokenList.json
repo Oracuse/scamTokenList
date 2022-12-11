@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAaE5e76CC225f6Aef0898809b22182C17Ce65117",
-      "symbol": "DIP",
-      "name": "Guacamole",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84F2858A97AF05616d2BdaEdC5B589062B5da679",
       "symbol": "CALIPH",
       "name": "Caliph",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0D08d2958AE69F178BD8A39AC92Dd28317C93907",
+      "symbol": "SZILLA",
+      "name": "SantaZilla",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19172,
-    "minor": 19172,
+    "major": 19173,
+    "minor": 19173,
     "patch": 86
   }
 }
