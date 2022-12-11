@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA88F4E1CC0cC5e9D5210ff76952546eB27e69426",
-      "symbol": "ALPHAMOON",
-      "name": "ALPHA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2DF93CA9246f56D2366E28C22963187D49883ff9",
       "symbol": "BABYHOCHI",
       "name": "BHOCHI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe74a6841189Ea64c20b5EcA1E5f678A40f798D94",
+      "symbol": "AAI",
+      "name": "ArtAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19095,
-    "minor": 19095,
+    "major": 19096,
+    "minor": 19096,
     "patch": 86
   }
 }
