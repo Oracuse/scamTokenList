@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x650Bf8A0dB76a72ddC3e4F9D32cc9a0fA5f0abd7",
-      "symbol": "FIEVRE",
-      "name": "Fievre",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7cdFA245694DA1747D40D6Be2051B3a319712a58",
       "symbol": "SUSHIS",
       "name": "SushiSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28053CA892bd7D28C2Df21267a5afE59D3Db790B",
+      "symbol": "ANTIRUGAI",
+      "name": "AntiRugAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19169,
-    "minor": 19169,
+    "major": 19170,
+    "minor": 19170,
     "patch": 86
   }
 }
