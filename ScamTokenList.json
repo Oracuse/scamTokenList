@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2D4b7c5585Cb5248DBf0c40EE725902625A5339b",
-      "symbol": "ANGELS",
-      "name": "GuardianAngels",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x770ED96F453400c6A3aa881ef0f2f0453d3cF823",
       "symbol": "SAKURAI",
       "name": "HayatoSakurai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x092379A2C386054EEB795499a14b72D40297Da16",
+      "symbol": "THUNDER",
+      "name": "Thunder",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19103,
-    "minor": 19103,
+    "major": 19104,
+    "minor": 19104,
     "patch": 86
   }
 }
