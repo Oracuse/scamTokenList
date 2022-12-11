@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x43907f1B44Ee99F66Cc9B602BE74aBbbce08D3f6",
-      "symbol": "AKAIYO",
-      "name": "AkaiyoShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd62552a6FC25B8f08b1b2e1c9173a2208682aA0C",
       "symbol": "SUSHO",
       "name": "Susho",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0601898F311AB521ed0aC9792706e2750ed89Eb9",
+      "symbol": "TGAI",
+      "name": "TelegramAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19145,
-    "minor": 19145,
+    "major": 19146,
+    "minor": 19146,
     "patch": 86
   }
 }
