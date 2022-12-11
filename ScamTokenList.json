@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf0355a668a5bDb28594D03D591773dD062A3891D",
-      "symbol": "SCAPITAL",
-      "name": "StealthCapital",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd7959b065cA265eAb3915e4803BA3cA381465087",
       "symbol": "7FIGURES",
       "name": "SevenFigures",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c899920770B3BF2afF435f3FE1f965C14B3bc0A",
+      "symbol": "SDC",
+      "name": "StableDiffusionCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19092,
-    "minor": 19092,
+    "major": 19093,
+    "minor": 19093,
     "patch": 86
   }
 }
