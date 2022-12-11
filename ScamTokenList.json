@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD79932dd606aD026AfD37189F66764055aCE9019",
-      "symbol": "DB",
-      "name": "DontBuy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC831c8eddA8c0aBA302F831B8Eea1066d3907607",
       "symbol": "JEET",
       "name": "Jeetober",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97BA0bE1e6fF0135D31E3ED7a17004F3493EB709",
+      "symbol": "SHADOWS",
+      "name": "Shadows",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19151,
-    "minor": 19151,
+    "major": 19152,
+    "minor": 19152,
     "patch": 86
   }
 }
