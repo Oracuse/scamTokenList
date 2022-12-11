@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xef403c932979fEa2b253E5a73A04d8a90fb14ed2",
-      "symbol": "DIGI",
-      "name": "DigitalInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0BbD9b0dBFd70529c81c71BC550EC6B6CEb98E61",
       "symbol": "BOLT",
       "name": "BoltInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33D590Fae44AC36715F90B924A6A75697796d9fF",
+      "symbol": "TTF",
+      "name": "TheTwitterFiles",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19110,
-    "minor": 19110,
+    "major": 19111,
+    "minor": 19111,
     "patch": 86
   }
 }
