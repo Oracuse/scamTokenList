@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2498162b9D4706ef12eDCb7a3aDC55bEBCd9f639",
-      "symbol": "UNREST",
-      "name": "Unrestcon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA88F4E1CC0cC5e9D5210ff76952546eB27e69426",
       "symbol": "ALPHAMOON",
       "name": "ALPHA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Ad6AC0eea64e468Db60E2E03e03cD1BEc1C2562",
+      "symbol": "ATI",
+      "name": "AtomicInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19094,
-    "minor": 19094,
+    "major": 19095,
+    "minor": 19095,
     "patch": 86
   }
 }
