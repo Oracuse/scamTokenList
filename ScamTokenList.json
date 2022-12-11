@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfd606855fAe7DB8EC950143400f1Beb66FF96C85",
-      "symbol": "CONTRAIR",
-      "name": "Against",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbe800304AD01F3E948Dd14fAFBA05CC5f72E6AD5",
       "symbol": "KAKKAZAN",
       "name": "GaifuKaisei",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B105987B7bF6C0d4113D96DE6a2d57165448688",
+      "symbol": "TGAI",
+      "name": "TelegramAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19148,
-    "minor": 19148,
+    "major": 19149,
+    "minor": 19149,
     "patch": 86
   }
 }
