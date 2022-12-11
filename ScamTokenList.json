@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6DcD3937A477E84d8ccec4a7774258d84AE45F00",
-      "symbol": "STAKE",
-      "name": "STAKING",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA5ca06c97f84f36e0D562e237A83d421eA24BCAE",
       "symbol": "GOLDENBALL",
       "name": "GoldenBall",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x100D6E82F4efDa905F19f5EC0Ea3D79a1A4a233a",
+      "symbol": "MEVAI",
+      "name": "MEVAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19165,
-    "minor": 19165,
+    "major": 19166,
+    "minor": 19166,
     "patch": 86
   }
 }
