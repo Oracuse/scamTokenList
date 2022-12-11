@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7CEbF056E701F19332ec1DE04A854B3D4c0Fab2b",
-      "symbol": "QATARINU",
-      "name": "QatarInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAaE5e76CC225f6Aef0898809b22182C17Ce65117",
       "symbol": "DIP",
       "name": "Guacamole",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x806eF0391ad2A0b66019ab9DF1ee3F1Be1a0c078",
+      "symbol": "METH",
+      "name": "BLACKOUT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19171,
-    "minor": 19171,
+    "major": 19172,
+    "minor": 19172,
     "patch": 86
   }
 }
