@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBD98A80FEB9c8607708e01474A978D12090b4b1d",
-      "symbol": "EYE",
-      "name": "Eye",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90Ba495b281697636A32CbB1dd788404c8822Df9",
       "symbol": "PUMPIT",
       "name": "PumpIt",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e4Fd3a6A409C0D6f278588FDeb9012368aCffae",
+      "symbol": "HAI",
+      "name": "HumanAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19134,
-    "minor": 19134,
+    "major": 19135,
+    "minor": 19135,
     "patch": 86
   }
 }
