@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe3d18e62585A34eCff8Df0d5B0f38E9c3b7dF285",
-      "symbol": "OC",
-      "name": "OnlyChads",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71b43C13c5c2a3D8cd19A2BBB1B8138b40f897b3",
       "symbol": "SMILE",
       "name": "TheSmileCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF45663921C4478f9F88d333D169E17481Ddf2CFB",
+      "symbol": "AIO",
+      "name": "AllInOne",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19112,
-    "minor": 19112,
+    "major": 19113,
+    "minor": 19113,
     "patch": 86
   }
 }
