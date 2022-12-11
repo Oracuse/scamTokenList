@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x50B8DBb45c68517115B0141355898E817Fd92818",
-      "symbol": "SNAB",
-      "name": "CrabMarket",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcdb615edcA89eBEd8B894c21CED3E6a50eD194f9",
       "symbol": "BONEOFSHIB",
       "name": "BONEOfSHIB",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21a7e185DA8598B8991b1e0BC342105F72376D09",
+      "symbol": "QAI",
+      "name": "QUANTUMAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19163,
-    "minor": 19163,
+    "major": 19164,
+    "minor": 19164,
     "patch": 86
   }
 }
