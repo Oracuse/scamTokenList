@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC48f72f6235b71EFf956A0AF3ddA5F0b82F09C18",
-      "symbol": "POOR",
-      "name": "NoVolumeStayPoor",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3BAFDBB4DC45A86828dcDABe014f73c2fD05984D",
       "symbol": "KABUKI",
       "name": "KabukiInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb60AEfB049432d004394bdaB5914EaFabE2aA0cA",
+      "symbol": "LENSAAI",
+      "name": "MagicAvatars",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19101,
-    "minor": 19101,
+    "major": 19102,
+    "minor": 19102,
     "patch": 86
   }
 }
