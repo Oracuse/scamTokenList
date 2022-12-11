@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7cdFA245694DA1747D40D6Be2051B3a319712a58",
-      "symbol": "SUSHIS",
-      "name": "SushiSwap",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7CEbF056E701F19332ec1DE04A854B3D4c0Fab2b",
       "symbol": "QATARINU",
       "name": "QatarInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3E85Fe77eF8D0068047f226BD1eE27E217CA508",
+      "symbol": "SZILLA",
+      "name": "SantaZilla",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19170,
-    "minor": 19170,
+    "major": 19171,
+    "minor": 19171,
     "patch": 86
   }
 }
