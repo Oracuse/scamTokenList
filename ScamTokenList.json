@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x934e8098e3dA7294D30e19044B189508529cCBf5",
-      "symbol": "SANEMI",
-      "name": "AkkiMessatsu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x766F9DE84C455Fb341261583418e79Eb86D59B87",
       "symbol": "BANKOFTAMA",
       "name": "BankOfTAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69cD0D490F8EB20F3A96AC7cca9176f55D991A98",
+      "symbol": "DGPT",
+      "name": "DogeGPT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19153,
-    "minor": 19153,
+    "major": 19154,
+    "minor": 19154,
     "patch": 86
   }
 }
