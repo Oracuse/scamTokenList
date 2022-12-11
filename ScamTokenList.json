@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCd25B3c9337EDfB80811f50BEec7e2F55b87a816",
-      "symbol": "ANY",
-      "name": "Anything",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe6330740dD27e0718d6202083D09d0cA4d8097D4",
       "symbol": "CHIBA",
       "name": "AThousandleaves",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1fE6926De6c9D205EBF166Aa7d889a059cfa58C0",
+      "symbol": "SZILLA",
+      "name": "SantaZilla",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19161,
-    "minor": 19161,
+    "major": 19162,
+    "minor": 19162,
     "patch": 86
   }
 }
