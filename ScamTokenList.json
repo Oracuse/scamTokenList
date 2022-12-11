@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA5ca06c97f84f36e0D562e237A83d421eA24BCAE",
-      "symbol": "GOLDENBALL",
-      "name": "GoldenBall",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd39eA122c2f7C82E6787141CdbE49fF9f0Af480F",
       "symbol": "DAMN",
       "name": "DAMN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0A598C44b70c913c9E9C9884726Ff433E1361E9",
+      "symbol": "HYDRADRAGON",
+      "name": "HydraDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19166,
-    "minor": 19166,
+    "major": 19167,
+    "minor": 19167,
     "patch": 86
   }
 }
