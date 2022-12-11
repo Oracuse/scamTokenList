@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb2DF4961c5FA5f230731e6Df17b464e8783315a7",
-      "symbol": "TSS",
-      "name": "TheSecretSociety",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0dd5424D55AE686e75CDFc1d50C46B8aC7c80989",
       "symbol": "TSUKATAMA",
       "name": "TSUKATAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xce3f80342499f0C0A41564118f145Cf8059f1cAF",
+      "symbol": "MAFIA",
+      "name": "MafiaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19087,
-    "minor": 19087,
+    "major": 19088,
+    "minor": 19088,
     "patch": 86
   }
 }
