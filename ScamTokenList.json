@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x766F9DE84C455Fb341261583418e79Eb86D59B87",
-      "symbol": "BANKOFTAMA",
-      "name": "BankOfTAMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10D0E90413137Da827f6AFdEEeE378c57EABC0d5",
       "symbol": "MCD",
       "name": "AdultHappyMeal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99096EeBd7A89a1B124fb5982Fa4095b1a3FFAa8",
+      "symbol": "SHICHIFUKUJIN",
+      "name": "SevenLuckyGods",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19154,
-    "minor": 19154,
+    "major": 19155,
+    "minor": 19155,
     "patch": 86
   }
 }
