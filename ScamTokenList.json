@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4af02F88D1bd683f53201BF3D542F8923E949995",
-      "symbol": "OKAJIMAKANZAN",
-      "name": "OkajimaKanzan",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4aE544e8AeE1f0Ff4C6b694c20C67cd190c3B098",
       "symbol": "TT",
       "name": "TAMATSUKA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCFF5d3Cc0b7DaB166A63f3d0ce1F44B43d4Bfdef",
+      "symbol": "SHADOWS",
+      "name": "Shadows",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19143,
-    "minor": 19143,
+    "major": 19144,
+    "minor": 19144,
     "patch": 86
   }
 }
