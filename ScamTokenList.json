@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x34C102BF47Be641D7a6C92F5C1cEEa028FF31399",
-      "symbol": "STEALTH",
-      "name": "StealtChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCAb9e16882a5FaC0060e8D74823bB3C318b0ca3E",
       "symbol": "VOID",
       "name": "TheVoid",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43dC0fA8b1D8af281fCa4aA3D9F2836E508652B7",
+      "symbol": "ETHM",
+      "name": "ETHMystery",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19124,
-    "minor": 19124,
+    "major": 19125,
+    "minor": 19125,
     "patch": 86
   }
 }
