@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x71b43C13c5c2a3D8cd19A2BBB1B8138b40f897b3",
-      "symbol": "SMILE",
-      "name": "TheSmileCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x680B46A533870EE53457887543EE99E862d99695",
       "symbol": "ISAMU",
       "name": "Isamu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6700520d851b324510E8fCa951dFD78b0161aC86",
+      "symbol": "AICC",
+      "name": "ArtificialIntellige",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19113,
-    "minor": 19113,
+    "major": 19114,
+    "minor": 19114,
     "patch": 86
   }
 }
