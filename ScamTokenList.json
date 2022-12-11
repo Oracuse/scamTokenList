@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2152A477e1B464e6b8c8e738b8eB4f7C9B5b0cC9",
-      "symbol": "CDAO",
-      "name": "ChimpsDao",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBD98A80FEB9c8607708e01474A978D12090b4b1d",
       "symbol": "EYE",
       "name": "Eye",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x788bd8f323C9F6285bBF5799aE12f4546d0EC516",
+      "symbol": "SECRET",
+      "name": "SecretFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19133,
-    "minor": 19133,
+    "major": 19134,
+    "minor": 19134,
     "patch": 86
   }
 }
