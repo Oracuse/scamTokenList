@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xec6Ff36EeADFe067CD4D2B27edb0994903f68939",
-      "symbol": "FIEVRE",
-      "name": "Fievre",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0C9384aDC00f9472b0e36d0914198779881cCf6E",
       "symbol": "FIRE",
       "name": "Karyu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x096c51a9ad904eaD12c546816A01c06DAd21860B",
+      "symbol": "GPTC",
+      "name": "GPTCHATBOT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19184,
-    "minor": 19184,
+    "major": 19185,
+    "minor": 19185,
     "patch": 86
   }
 }
