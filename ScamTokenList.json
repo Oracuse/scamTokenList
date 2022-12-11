@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x39832e9B4851C76160D754267D4a169617C27d88",
-      "symbol": "THAND",
-      "name": "TheHand",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6fa5c283f1C41BCa39cbf51CA9fa3Dd520772482",
       "symbol": "HARUKAMI",
       "name": "HarukiMurakami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x631365F61409Ca9086166B298a2FB4CF3657c777",
+      "symbol": "BMUZZLE",
+      "name": "BabyJidokaMuzzle",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19137,
-    "minor": 19137,
+    "major": 19138,
+    "minor": 19138,
     "patch": 86
   }
 }
