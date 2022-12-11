@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x673e9d84cc3980c50171D93A9017238a0A2a0C31",
-      "symbol": "0DD1",
-      "name": "Oddity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfBdf0258391cD717926E76A9754c69E50c7c492a",
       "symbol": "COSAFU",
       "name": "Cosafu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37d20Fd6AbbC95A0FD4C2EC2EB55004Fed85fDB8",
+      "symbol": "BORDAI",
+      "name": "BoredAi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19108,
-    "minor": 19108,
+    "major": 19109,
+    "minor": 19109,
     "patch": 86
   }
 }
