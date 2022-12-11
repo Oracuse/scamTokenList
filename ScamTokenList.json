@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE1A2aB54ab002a69E9ccBAB7AA4be5E59D44993A",
-      "symbol": "SHIBA",
-      "name": "Shiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB46971Ff8A9A2B1d7B833fA60fd04e5Ca67dA140",
       "symbol": "CHIASA",
       "name": "Chiasa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fCa8FB783C0Fa5AEcC3113B0Bafd2387C490d8B",
+      "symbol": "HAPPY",
+      "name": "HappyBear",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19121,
-    "minor": 19121,
+    "major": 19122,
+    "minor": 19122,
     "patch": 86
   }
 }
