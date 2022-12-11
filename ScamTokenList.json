@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3BAFDBB4DC45A86828dcDABe014f73c2fD05984D",
-      "symbol": "KABUKI",
-      "name": "KabukiInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2D4b7c5585Cb5248DBf0c40EE725902625A5339b",
       "symbol": "ANGELS",
       "name": "GuardianAngels",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x16685BEdccB3A2a42F80fE94fD828fC222dA231E",
+      "symbol": "GABIJA",
+      "name": "SpiritOfTheFire",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19102,
-    "minor": 19102,
+    "major": 19103,
+    "minor": 19103,
     "patch": 86
   }
 }
