@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x259065a1F316D2959CfF86b9240fD7902Fd51b98",
-      "symbol": "YORI",
-      "name": "babyYORI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x125B40EC1D50d281a4499662929159F5B950689B",
       "symbol": "OCFI",
       "name": "OCTOFI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f64a0eB8741585a4764278E617B13bbebC7BaeE",
+      "symbol": "GAI",
+      "name": "GoodAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19199,
-    "minor": 19199,
+    "major": 19200,
+    "minor": 19200,
     "patch": 86
   }
 }
