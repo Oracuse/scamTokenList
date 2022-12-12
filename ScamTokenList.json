@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x522C10D60B1c0F751700C44DceAf58058078D3D9",
-      "symbol": "SHUGART",
-      "name": "TheShugart",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x775AF804A5365C4D4B755C6b6028300fFE95a53e",
       "symbol": "BHEX",
       "name": "BabyHex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xda16d9DA7de188aFD5992d3Cd705Ae8AB216Cfcd",
+      "symbol": "PEN",
+      "name": "Penguin",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19366,
-    "minor": 19366,
+    "major": 19367,
+    "minor": 19367,
     "patch": 86
   }
 }
