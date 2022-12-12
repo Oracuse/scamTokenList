@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7Aead1514C4C85bAD122DaF634e936B410e244B8",
-      "symbol": "IKIOMA",
-      "name": "IkigaiOma",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE287D4a7C7c0bF09dce121159482D9b87c0005bA",
       "symbol": "MCC",
       "name": "MemeCoinClub",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33F72814A0f0de3f78dcca2a9E80955D532eF3f2",
+      "symbol": "APEST",
+      "name": "Apest",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19288,
-    "minor": 19288,
+    "major": 19289,
+    "minor": 19289,
     "patch": 86
   }
 }
