@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x201805a2A565A3B367A8705940BA1831a228fa3C",
-      "symbol": "ANI",
-      "name": "AnimeLabs",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb8ac9dE1D4a871133907c4e8B8303D17826c9bfA",
       "symbol": "EL",
       "name": "EnhancedLiquidity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFD87dFFc36cedCdfa55b1574f159bC43F0b27D6a",
+      "symbol": "SAI",
+      "name": "ShitcoinAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19270,
-    "minor": 19270,
+    "major": 19271,
+    "minor": 19271,
     "patch": 86
   }
 }
