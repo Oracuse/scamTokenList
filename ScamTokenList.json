@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5D7A3CF5CB7C4cA5F384AD1DaFbd0E58bB4d8A6B",
-      "symbol": "HOTCH",
-      "name": "Hotch",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x18D1cDfa94BAF7D0684b16492A56F9d6a86A55a5",
       "symbol": "TEH",
       "name": "teh",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4465A1C860bE63101200f46825c4BAC66D6D6533",
+      "symbol": "DOGUSAGI",
+      "name": "DogeUsagi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19253,
-    "minor": 19253,
+    "major": 19254,
+    "minor": 19254,
     "patch": 86
   }
 }
