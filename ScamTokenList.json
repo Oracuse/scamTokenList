@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14c8ed38689627eF8F27986064Ab17292F30d098",
-      "symbol": "PUMP",
-      "name": "PUMPQUEEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdfDc7a807f1346908D3398c933d75E18b89EbF42",
       "symbol": "SHIBARMY",
       "name": "SHIBArmy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6FcC80896132aDf1A9aB8912617d7D23B4FcdC16",
+      "symbol": "MAI",
+      "name": "MirrorAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19322,
-    "minor": 19322,
+    "major": 19323,
+    "minor": 19323,
     "patch": 86
   }
 }
