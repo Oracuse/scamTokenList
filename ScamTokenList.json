@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x02BfeD0E1b1186e80Ea3c74b43b22ffde8F8238a",
-      "symbol": "PENGUIN",
-      "name": "PEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3B0C77Eefc5CAdFaf2bDafF7a9717462b398017d",
       "symbol": "BABYGLDN",
       "name": "BabyGoldRetriever",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7E69c6B7d4C25b5B680Cb7e88b72680FeeC209B",
+      "symbol": "REALITY",
+      "name": "CONSPIRACY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19374,
-    "minor": 19374,
+    "major": 19375,
+    "minor": 19375,
     "patch": 86
   }
 }
