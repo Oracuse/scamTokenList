@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x70515dfA4d2D54e524117700e70F0E5A86122209",
-      "symbol": "MADAPE",
-      "name": "MadApeInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38c4687b5a58bDC3F4f7ea6B5305d681Fa29030c",
       "symbol": "AUTH",
       "name": "Authenticator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05f55b5E1B3b033D8e2CEF856040cAd592a43ebC",
+      "symbol": "JTE",
+      "name": "JeetToEarn",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19263,
-    "minor": 19263,
+    "major": 19264,
+    "minor": 19264,
     "patch": 86
   }
 }
