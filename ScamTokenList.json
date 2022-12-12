@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x05A192fb5D9589541975f7945ecC2fA2a7e0e154",
-      "symbol": "ROK",
-      "name": "RelicofKatana",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD9856e37eF03C0C402A15bBab526c752b0BE77e0",
       "symbol": "JUSTONE",
       "name": "JustOne",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90183bf80E37Ab4ceEaDcA33f139dFEE6e8f82d8",
+      "symbol": "CTCH",
+      "name": "CTCHBot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19325,
-    "minor": 19325,
+    "major": 19326,
+    "minor": 19326,
     "patch": 86
   }
 }
