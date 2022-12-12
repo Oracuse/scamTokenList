@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD05917E94d7Db4B9aE055d946f1F15Eabf0A493D",
-      "symbol": "BTSUKA",
-      "name": "BoneTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfA8Ee0C56fE973f367FC75833D9BeC780789F1D5",
       "symbol": "REALMADRID",
       "name": "realMadrid",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e65A7246318204f791bd31b0f95d5f226C0c2CA",
+      "symbol": "BBB",
+      "name": "ByeByeBinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19329,
-    "minor": 19329,
+    "major": 19330,
+    "minor": 19330,
     "patch": 86
   }
 }
