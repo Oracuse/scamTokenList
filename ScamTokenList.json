@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x49F2ecB880c31cCd4514F3ef7AAa69492c974a72",
-      "symbol": "TIKITAKA",
-      "name": "PepeGuardiola",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1cCDA93f7aA6a1532Eea7Aa7cFd8436D1214eF25",
       "symbol": "NAMELESS",
       "name": "Nameless",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5231a240359c6C4A049ADEF47295cA2F408E94E1",
+      "symbol": "USDDC",
+      "name": "USDDClassis",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19240,
-    "minor": 19240,
+    "major": 19241,
+    "minor": 19241,
     "patch": 86
   }
 }
