@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76dF4cd096A6C610c766433b01E9E36AAcdCd9cE",
-      "symbol": "HOULONG",
-      "name": "RyuTreasure",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x89fb029fBF57dda4fd3786750cE8cfbaFdEeFb12",
       "symbol": "GN",
       "name": "GoodNight",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6507f87a106Eb08b4779B0C66E245828DD076b19",
+      "symbol": "BOTS",
+      "name": "RIPBOTS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19307,
-    "minor": 19307,
+    "major": 19308,
+    "minor": 19308,
     "patch": 86
   }
 }
