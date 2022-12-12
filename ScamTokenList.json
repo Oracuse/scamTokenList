@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE5c08aeE5006Af574D36c9F6568bb132a2ae3D32",
-      "symbol": "FINU",
-      "name": "FinoInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc5fB36dd2fb59d3B98dEfF88425a3F425Ee469eD",
       "symbol": "TSUKA",
       "name": "DejitaruTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b8DCAd97160c0947bDe9B9D1169F93DbAc30E37",
+      "symbol": "ALCHEMIST",
+      "name": "ReturnoftheAlchemis",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19274,
-    "minor": 19274,
+    "major": 19275,
+    "minor": 19275,
     "patch": 86
   }
 }
