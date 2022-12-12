@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3a24AbaFfA329Aab2ad90AB20e3045623852caF2",
-      "symbol": "GRITH",
-      "name": "Sanctuary",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE21B4BF93fC9392b4E5Bf79841e4D8f59526D437",
       "symbol": "VOL",
       "name": "VolkioInfinity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB7d4454dC397D27D654a48E50E5625C46a788b56",
+      "symbol": "UPLAND",
+      "name": "FIFAWorldCup2022in",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19202,
-    "minor": 19202,
+    "major": 19203,
+    "minor": 19203,
     "patch": 86
   }
 }
