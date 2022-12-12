@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6AFAB725f8e7BC7a204219C31BCf74852ea0137B",
-      "symbol": "BNB",
-      "name": "ProofOfCZ",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9b69C6B5bd295A1f050d0821cB8aFBefB734559E",
       "symbol": "CZBNB",
       "name": "CZBNB",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x039DDaF7847A0C0f86C6ecdb862563fffd97d28e",
+      "symbol": "SURE",
+      "name": "Sure",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19340,
-    "minor": 19340,
+    "major": 19341,
+    "minor": 19341,
     "patch": 86
   }
 }
