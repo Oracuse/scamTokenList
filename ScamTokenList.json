@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAF073c245FAB2A8C62b52cbc460cF674EF195560",
-      "symbol": "WSBW",
-      "name": "WSB",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8ACFD6B20bdc820a8E45145E66FA27Fe6aC41231",
       "symbol": "BNB20",
       "name": "ProofofCZ",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5dCe85292eb42CB81A661c00A7C7782C8ab1312c",
+      "symbol": "MARUTSO",
+      "name": "HikodoMarutso",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19357,
-    "minor": 19357,
+    "major": 19358,
+    "minor": 19358,
     "patch": 86
   }
 }
