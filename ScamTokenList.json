@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA12c1E7B92E323516798F7435AeB3613f620C8dc",
-      "symbol": "HEKATE",
-      "name": "HekateStathmos",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4D785f07c4601771acA8e0736F9Ea8AcC49E2359",
       "symbol": "TENSHIDAO",
       "name": "Tenshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26F85C27285a200c1CABc7123fdb38c749444e0a",
+      "symbol": "LP",
+      "name": "LPLOCKER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19389,
-    "minor": 19389,
+    "major": 19390,
+    "minor": 19390,
     "patch": 86
   }
 }
