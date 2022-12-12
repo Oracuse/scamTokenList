@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE21B4BF93fC9392b4E5Bf79841e4D8f59526D437",
-      "symbol": "VOL",
-      "name": "VolkioInfinity",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xacffD7c798cB746c4452459B9d561272D020C218",
       "symbol": "POMCHIP",
       "name": "POMCHIPROTECTOR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56a8A7a58C6c93Feb3e695ec777657D6623674F7",
+      "symbol": "DEGENAI",
+      "name": "DegenAI",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19203,
-    "minor": 19203,
+    "major": 19204,
+    "minor": 19204,
     "patch": 86
   }
 }
