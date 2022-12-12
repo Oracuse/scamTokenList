@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x18D1cDfa94BAF7D0684b16492A56F9d6a86A55a5",
-      "symbol": "TEH",
-      "name": "teh",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf39C0F019bC320d3890f0f513e8CB940A944D029",
       "symbol": "KIKEN",
       "name": "ADangerousJourney",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF8F8Df35dE6B7D9c538618C0164c6e7F5c300bA1",
+      "symbol": "SUSHIBA",
+      "name": "SushiShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19254,
-    "minor": 19254,
+    "major": 19255,
+    "minor": 19255,
     "patch": 86
   }
 }
