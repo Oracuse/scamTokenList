@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb8ac9dE1D4a871133907c4e8B8303D17826c9bfA",
-      "symbol": "EL",
-      "name": "EnhancedLiquidity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5FD00a1Fa5EA18b683E97F803305043DaB686462",
       "symbol": "SHIRYU",
       "name": "DragonShiryu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15fC5446DD80395472758584718df194a0713053",
+      "symbol": "ALPHAI",
+      "name": "AlphaAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19271,
-    "minor": 19271,
+    "major": 19272,
+    "minor": 19272,
     "patch": 86
   }
 }
