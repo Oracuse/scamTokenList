@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0D3C88aAfAC06BfC6C1AA3F450951f14D5d8051D",
-      "symbol": "SPADE",
-      "name": "TheSpade",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0edA6C7be1fEe554F44E19a1eCc99521392E738b",
       "symbol": "GTI",
       "name": "GOLDENTREEINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCDEEef6A03ABeCdfE342243dA633cDf7eFC1005F",
+      "symbol": "WATERRABBIT",
+      "name": "WaterRabbit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19268,
-    "minor": 19268,
+    "major": 19269,
+    "minor": 19269,
     "patch": 86
   }
 }
