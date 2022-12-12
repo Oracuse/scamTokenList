@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x65593E4be47e451B6cd7c6002ab75613c015FE59",
-      "symbol": "BNB30",
-      "name": "ProofofJeeting",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe2C7b7d002b52CC71604c9a718cdb0b5abD90CA6",
       "symbol": "BNBTWO",
       "name": "BNB20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83110EC638E7024bFcb354a38D0E3d6c5863a9d6",
+      "symbol": "STZ",
+      "name": "Starz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19348,
-    "minor": 19348,
+    "major": 19349,
+    "minor": 19349,
     "patch": 86
   }
 }
