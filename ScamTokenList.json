@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4B18f580c7ED5DD3887E7731359211028e951D9a",
-      "symbol": "SHIBGADO",
-      "name": "ShibsamaProtector",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75E2601577486B9b574588CD5814Ef5951E77Cc6",
       "symbol": "FLAMESCAPE",
       "name": "FlameScape",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCffa2E27E4cE149130c27e3aAFDfA1A445f7C874",
+      "symbol": "JAIL",
+      "name": "SamBankmanFriedJAIL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19398,
-    "minor": 19398,
+    "major": 19399,
+    "minor": 19399,
     "patch": 86
   }
 }
