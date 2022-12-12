@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFbb852a02770A27683E00Aeacf03305fFb3ffdF7",
-      "symbol": "DORAGONERC",
-      "name": "DoragonERC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfdEb510CfDdE7d5b48fFb6D59f4DeDa28C3133EB",
       "symbol": "TWITTER",
       "name": "Twitter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26e0120F796C3Dab2Ab2C911Ae662E177D3b72F6",
+      "symbol": "RABBITAI",
+      "name": "RabbitAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19226,
-    "minor": 19226,
+    "major": 19227,
+    "minor": 19227,
     "patch": 86
   }
 }
