@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1916d39867E2E552738174990a0958E5B46557Be",
-      "symbol": "THESMILE",
-      "name": "TheSmile",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE5c08aeE5006Af574D36c9F6568bb132a2ae3D32",
       "symbol": "FINU",
       "name": "FinoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb75E9BCD2A326F1A97caf24a2ccFf37F5E9CB35A",
+      "symbol": "WOD",
+      "name": "WarOfDegens",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19273,
-    "minor": 19273,
+    "major": 19274,
+    "minor": 19274,
     "patch": 86
   }
 }
