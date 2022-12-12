@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x422f47D9e50971FC9742943Bfa0F804e1638BA88",
-      "symbol": "HOLY",
-      "name": "HolyCrystal",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0D3C88aAfAC06BfC6C1AA3F450951f14D5d8051D",
       "symbol": "SPADE",
       "name": "TheSpade",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbF241F6ed2E7C2639B8FBa80Bd4189F332324eC3",
+      "symbol": "HITMAN",
+      "name": "TheHitman",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19267,
-    "minor": 19267,
+    "major": 19268,
+    "minor": 19268,
     "patch": 86
   }
 }
