@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1A187FB036928A20501d966D1d2f6818A4bad166",
-      "symbol": "NICE",
-      "name": "SixtyNine",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x96F3D57dd05bdbB120D79278eD5dA13361109ecC",
       "symbol": "FED",
       "name": "FED",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E81Be7aDcF2E40B504433031C40ce835770B45a",
+      "symbol": "INUDEX",
+      "name": "Inudex",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19197,
-    "minor": 19197,
+    "major": 19198,
+    "minor": 19198,
     "patch": 86
   }
 }
