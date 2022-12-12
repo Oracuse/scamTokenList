@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x91494aFAEda41b693c56Ee1102B84E9b4647F70F",
-      "symbol": "MC",
-      "name": "ManaClinic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBE5d4beFC05d3298b9Eae8663647BF41281C2f63",
       "symbol": "SNIP",
       "name": "CrabMarket",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A951FeD4caa6B71ce8Bb63864F21AdBa114F657",
+      "symbol": "DN",
+      "name": "DefiNewsAgency",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19218,
-    "minor": 19218,
+    "major": 19219,
+    "minor": 19219,
     "patch": 86
   }
 }
