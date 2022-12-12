@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8ce2f6C97008B4b8e21dFc9dC6f532C38d0447E3",
-      "symbol": "BSHEP",
-      "name": "BabyGermanShepherd",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7Aead1514C4C85bAD122DaF634e936B410e244B8",
       "symbol": "IKIOMA",
       "name": "IkigaiOma",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e56939801b8918d944FF3a25ee43ea75C6fE78B",
+      "symbol": "GM",
+      "name": "TheEndlessGM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19287,
-    "minor": 19287,
+    "major": 19288,
+    "minor": 19288,
     "patch": 86
   }
 }
