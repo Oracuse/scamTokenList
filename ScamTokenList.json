@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x760Cf712fb58F291A5666e899F3345Ca2f7d13BA",
-      "symbol": "AZUMA",
-      "name": "Azuma",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA223e8a8d445B5B9a2F477c00AE79267A8f94225",
       "symbol": "MEME",
       "name": "MemeProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3446Bd61630dbcB76b330460d275A4a02F4F1F2",
+      "symbol": "FTR",
+      "name": "FUTURA",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19190,
-    "minor": 19190,
+    "major": 19191,
+    "minor": 19191,
     "patch": 86
   }
 }
