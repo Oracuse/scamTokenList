@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFFD3f551E189Cf01f5Fdc36EDA30a093b40BFE6a",
-      "symbol": "SHINJI",
-      "name": "ShinjiHirakoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8ED1ADb35870066867c78118a23df3392dA2a664",
       "symbol": "FLOKINAMI",
       "name": "Flokinami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1866b1e3068BAee9212358612446b2E030e38422",
+      "symbol": "SECRET",
+      "name": "SecretFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19215,
-    "minor": 19215,
+    "major": 19216,
+    "minor": 19216,
     "patch": 86
   }
 }
