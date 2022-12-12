@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x794D256E933695D082005eEB33ab79c953e81632",
-      "symbol": "WUKONG",
-      "name": "SunWukong",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xab62E4EdE0a95Be8a7f2CA06b29b6A3fe43499c7",
       "symbol": "ZKONG",
       "name": "ZombieKong",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x933334F5C535997990b8fA5c98Cb2F19AB24ed31",
+      "symbol": "RIP",
+      "name": "RIPBots",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19311,
-    "minor": 19311,
+    "major": 19312,
+    "minor": 19312,
     "patch": 86
   }
 }
