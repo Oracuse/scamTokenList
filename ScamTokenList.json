@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2FEEBDA44e0BB12957Dd4f9056319E86f089E34f",
-      "symbol": "SAZ",
-      "name": "SAZUNOINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6383D9b55cA9b068deE98E02c5251F39c813E7F9",
       "symbol": "MASUKU",
       "name": "Masuku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA10a3FA35Fc42305b5894B3DeF489F4E286144B1",
+      "symbol": "BOTS",
+      "name": "BOTS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19304,
-    "minor": 19304,
+    "major": 19305,
+    "minor": 19305,
     "patch": 86
   }
 }
