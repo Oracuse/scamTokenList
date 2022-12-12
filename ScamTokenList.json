@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8ACFD6B20bdc820a8E45145E66FA27Fe6aC41231",
-      "symbol": "BNB20",
-      "name": "ProofofCZ",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x120224bd972957731f1B99B164B26EE311528C54",
       "symbol": "WETH",
       "name": "WrappedBNBERC20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51Dee4Efb2c9B2bAc7ae0104A6Fd604959BBD289",
+      "symbol": "SETH",
+      "name": "Snowereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19358,
-    "minor": 19358,
+    "major": 19359,
+    "minor": 19359,
     "patch": 86
   }
 }
