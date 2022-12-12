@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x90775626d26e44bd43d63E8d712Db24738197019",
-      "symbol": "NESHIBA",
-      "name": "NemeaShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAedF14D57E9Ed1B7FFCa062e245BAe1CDFCADCD8",
       "symbol": "BELIAL",
       "name": "TheCircle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40F23808dCe0D5739b298eE6d8B68811d3976031",
+      "symbol": "SHHH",
+      "name": "Secret",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19293,
-    "minor": 19293,
+    "major": 19294,
+    "minor": 19294,
     "patch": 86
   }
 }
