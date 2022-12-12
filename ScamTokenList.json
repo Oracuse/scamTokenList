@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc2e66082a96f303D3D20d1e402d30f4839dEcB49",
-      "symbol": "MCKINLEY",
-      "name": "MCKINLEY",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76f3165642C063Fee088dafDAf4f978Bad61aa88",
       "symbol": "RYOSHI",
       "name": "MicroRyoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDcc74856510791EE0E201251952131104b924c6a",
+      "symbol": "NEM",
+      "name": "NothingElseMatters",
+      "decimals": 10,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19393,
-    "minor": 19393,
+    "major": 19394,
+    "minor": 19394,
     "patch": 86
   }
 }
