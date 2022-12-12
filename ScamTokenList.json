@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF9a6Ef3ec627C17dB265A8871BA60bcF907754e7",
-      "symbol": "COMOSITY",
-      "name": "ComosityBank",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25E28540A4EFB73053a42070767c138C8e5b0fac",
       "symbol": "MOXT",
       "name": "MOXT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09355E7fb4998D1fDEDa27e3AE18137f419C24AF",
+      "symbol": "LEGION",
+      "name": "THELEGIONISHERE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19246,
-    "minor": 19246,
+    "major": 19247,
+    "minor": 19247,
     "patch": 86
   }
 }
