@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE42610c1a7A7D7e4Ed8E30957172e64B5Cb2759B",
-      "symbol": "BB",
-      "name": "BINANCEBANK",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0e8B8Dbe2FC2BdF55fFE3315509D1fdDd5e05B27",
       "symbol": "BNBSHIBA",
       "name": "BNBSHIBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0D1A548947549eD5235477D7EDDDF3849BEf529E",
+      "symbol": "SPR",
+      "name": "SpectreProtocol",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19364,
-    "minor": 19364,
+    "major": 19365,
+    "minor": 19365,
     "patch": 86
   }
 }
