@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8E44A12ffB0dE475B36d64A68026e248A0769d02",
-      "symbol": "TTP",
-      "name": "TehTsukaPlay",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2FEEBDA44e0BB12957Dd4f9056319E86f089E34f",
       "symbol": "SAZ",
       "name": "SAZUNOINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA43c7eef6EbE7C26A9150c7028C687d50D1e02E9",
+      "symbol": "DN",
+      "name": "DefiNewsAgency",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19303,
-    "minor": 19303,
+    "major": 19304,
+    "minor": 19304,
     "patch": 86
   }
 }
