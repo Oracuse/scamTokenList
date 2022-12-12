@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x29fAa567b2f3765E7aC85f9dFA9A7aFD954465B0",
-      "symbol": "NARCO",
-      "name": "NARCOTIC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE42610c1a7A7D7e4Ed8E30957172e64B5Cb2759B",
       "symbol": "BB",
       "name": "BINANCEBANK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90eD81109af4E78194Cdcac6b2057ebccBaA1D58",
+      "symbol": "HAI",
+      "name": "HALFAI",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19363,
-    "minor": 19363,
+    "major": 19364,
+    "minor": 19364,
     "patch": 86
   }
 }
