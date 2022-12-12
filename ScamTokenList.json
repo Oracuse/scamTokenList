@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x122D311773650D3A548c45D6C44307CC6E579161",
-      "symbol": "BFLOKI",
-      "name": "BnbFloki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa89EC565519Ca6758048a55C5bB1e554Eb1AC9c6",
       "symbol": "BABYBNB",
       "name": "BabyBNB",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9dE62cEcFf26eB184b57569225C561e17624aC20",
+      "symbol": "SAFECEX",
+      "name": "SAFECEX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19361,
-    "minor": 19361,
+    "major": 19362,
+    "minor": 19362,
     "patch": 86
   }
 }
