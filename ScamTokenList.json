@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa692bb2313a8168cCF8DC5F5638e9949b6f68444",
-      "symbol": "MIRAGE",
-      "name": "MIRAGE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC913fEDB073ABFe35Dc341D03C6aF404f0844Ce4",
       "symbol": "BNB",
       "name": "FallOfBNB",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4E75B872e79a0085CD900e58557997be4fDa681",
+      "symbol": "JOBAI",
+      "name": "JobAi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19352,
-    "minor": 19352,
+    "major": 19353,
+    "minor": 19353,
     "patch": 86
   }
 }
