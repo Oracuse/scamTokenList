@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD97FD51acD073558bA6d01208b7Fc64bB7A06962",
-      "symbol": "PUMP",
-      "name": "PUMPKING",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2970e9707016b57e504C901024cBFd7140491711",
       "symbol": "KIMETSU",
       "name": "StoryOfKinu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7A93e7D9B99C1a25FFD01ffbc86729131c0075A",
+      "symbol": "GOLD",
+      "name": "GoldenCheck",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19315,
-    "minor": 19315,
+    "major": 19316,
+    "minor": 19316,
     "patch": 86
   }
 }
