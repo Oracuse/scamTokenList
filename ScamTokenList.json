@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x71982d4E8bfbd5aafbfd432E1C012e1b8F0856C5",
-      "symbol": "WUKONG",
-      "name": "SunWukong",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD97FD51acD073558bA6d01208b7Fc64bB7A06962",
       "symbol": "PUMP",
       "name": "PUMPKING",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD34Cc5071624728628cc9034D60A09dAB49F6b6A",
+      "symbol": "AV",
+      "name": "AlphaVitalik",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19314,
-    "minor": 19314,
+    "major": 19315,
+    "minor": 19315,
     "patch": 86
   }
 }
