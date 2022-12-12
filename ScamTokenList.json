@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAd58EF173A00Ea74Bb8f24656A30eA587D2A11BD",
-      "symbol": "OCTO",
-      "name": "OctoMad",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc36b4b92EC7c3450aF262b5cD05589F69318480f",
       "symbol": "BRANDON",
       "name": "DarkBrandon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7dEe0A76E7c9D14c29A499e0E31917c3A2fb5709",
+      "symbol": "LEAF",
+      "name": "LeafProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19249,
-    "minor": 19249,
+    "major": 19250,
+    "minor": 19250,
     "patch": 86
   }
 }
