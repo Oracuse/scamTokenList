@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0B178fe2B6C747aEdc47EbAff13182eb2dE781a9",
-      "symbol": "BABYORIGIN",
-      "name": "BabyORIGIN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD99F01dcd426Bb60D253F22eb92c4DA2B907D7e2",
       "symbol": "ISOGASHI",
       "name": "Isogashi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c0D8Bdd842A8feFc3Ff2764f21A9469be650dD6",
+      "symbol": "PODS",
+      "name": "PodProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19371,
-    "minor": 19371,
+    "major": 19372,
+    "minor": 19372,
     "patch": 86
   }
 }
