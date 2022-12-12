@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDfc25Ed03000526534419E80220c48fE177f9719",
-      "symbol": "MANIFESTO",
-      "name": "MANIFESTO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCD2e49dBDDCa0aFaEf3525910240Ff1fC3ec296B",
       "symbol": "SNAB",
       "name": "CrabMarket",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF871139e7a04D89376F88e2F28f5912091722FF7",
+      "symbol": "MP",
+      "name": "MuzzleProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19233,
-    "minor": 19233,
+    "major": 19234,
+    "minor": 19234,
     "patch": 86
   }
 }
