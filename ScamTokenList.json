@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8ED1ADb35870066867c78118a23df3392dA2a664",
-      "symbol": "FLOKINAMI",
-      "name": "Flokinami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8580877aF79429E4fbE3e7103c7d2E1Ed5b907E5",
       "symbol": "POSHI",
       "name": "POMSHIB",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5E83e32B63bfaCDCc812DFEebeDD139698dd05B8",
+      "symbol": "OS",
+      "name": "OnlyStables",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19216,
-    "minor": 19216,
+    "major": 19217,
+    "minor": 19217,
     "patch": 86
   }
 }
