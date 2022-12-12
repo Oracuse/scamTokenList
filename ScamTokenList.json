@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBdc9A1453eD211Ceb324935dE6D82dE670Cf2068",
-      "symbol": "SIGAMI",
-      "name": "SigamiClub",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x802238a1125F1342964a1a31627987808834C7C9",
       "symbol": "BNB20",
       "name": "BNB20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2532C8b7054C4879b9D04bed62DDfc2639b83d90",
+      "symbol": "WEF",
+      "name": "Authoritarian",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19379,
-    "minor": 19379,
+    "major": 19380,
+    "minor": 19380,
     "patch": 86
   }
 }
