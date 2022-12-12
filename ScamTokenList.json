@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x38c4687b5a58bDC3F4f7ea6B5305d681Fa29030c",
-      "symbol": "AUTH",
-      "name": "Authenticator",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe99129390c13106FC0Ef502Eb8b26ED030BCEc76",
       "symbol": "EXO",
       "name": "Exorcist",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97102a1Fa78fEa9f2D1A16F540dac7214f613b22",
+      "symbol": "BURGER",
+      "name": "Burger",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19264,
-    "minor": 19264,
+    "major": 19265,
+    "minor": 19265,
     "patch": 86
   }
 }
