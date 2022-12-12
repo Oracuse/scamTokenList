@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4717140941ABbC9028c305AD09d263cFeDc8535e",
-      "symbol": "BHC",
-      "name": "BinanceHackedChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3DC182CfbB2c836e3b8ac90407Fec0d3e98D620B",
       "symbol": "ILLUSION",
       "name": "Maya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cdF3c5a52c41508218fC583d6Ba480ab8fdf0D4",
+      "symbol": "WIREFRAUD",
+      "name": "WIREFRAUD",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19355,
-    "minor": 19355,
+    "major": 19356,
+    "minor": 19356,
     "patch": 86
   }
 }
