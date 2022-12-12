@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB6f5AD2eFaA5BE740A77fC9945021bB617b33FfB",
-      "symbol": "FMOON",
-      "name": "FullMoon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD261d95461A965BD5fb99C40CC237fbABC0D94Ed",
       "symbol": "ONICHAN",
       "name": "Onichan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAE1B33Ba12ce2647Ccd0a642D6CB749DCd303c41",
+      "symbol": "RBF",
+      "name": "RebucksFinance",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19235,
-    "minor": 19235,
+    "major": 19236,
+    "minor": 19236,
     "patch": 86
   }
 }
