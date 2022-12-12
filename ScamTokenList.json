@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28457A1b6E4633B7d47490aC8F1df7ccD78a7549",
-      "symbol": "STN",
-      "name": "StareumNetwork",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7E3410ED4E95dbf0057BfF149EBE9ca6a588Bf6D",
       "symbol": "WNXMS",
       "name": "NexusnMutual",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5Da9b04322c3a13622F13fc3245ADC167a50b0a",
+      "symbol": "SBJ",
+      "name": "SamBankmanJailed",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19404,
-    "minor": 19404,
+    "major": 19405,
+    "minor": 19405,
     "patch": 86
   }
 }
