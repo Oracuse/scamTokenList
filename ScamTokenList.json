@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x802238a1125F1342964a1a31627987808834C7C9",
-      "symbol": "BNB20",
-      "name": "BNB20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x92f5F7aBF38119AfB41F06D198880e08Af0C8085",
       "symbol": "PIKA",
       "name": "PikachuInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdaAaa73ff88EC4D8eFcA69fD295d11cE1D5796c8",
+      "symbol": "KAMAL",
+      "name": "Kamal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19380,
-    "minor": 19380,
+    "major": 19381,
+    "minor": 19381,
     "patch": 86
   }
 }
