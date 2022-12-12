@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC913fEDB073ABFe35Dc341D03C6aF404f0844Ce4",
-      "symbol": "BNB",
-      "name": "FallOfBNB",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7E2B8e7fa0b6fD9590B2D92bcD1c0a9c532048F5",
       "symbol": "FUNDUSAFU",
       "name": "FundsAreSafe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x258E7875Bbb75FbCfA6aD58C79e1A907ede7e916",
+      "symbol": "COCO",
+      "name": "CoCoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19353,
-    "minor": 19353,
+    "major": 19354,
+    "minor": 19354,
     "patch": 86
   }
 }
