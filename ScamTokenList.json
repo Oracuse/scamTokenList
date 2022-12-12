@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x16c62719Dfe1e3259832b26b7DFC1b692C5AFfd6",
-      "symbol": "SHIELD",
-      "name": "ShieldInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x76dF4cd096A6C610c766433b01E9E36AAcdCd9cE",
       "symbol": "HOULONG",
       "name": "RyuTreasure",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53258498F844CBcf2aFa416d2ea5E51ACadF2121",
+      "symbol": "YFU",
+      "name": "yfu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19306,
-    "minor": 19306,
+    "major": 19307,
+    "minor": 19307,
     "patch": 86
   }
 }
