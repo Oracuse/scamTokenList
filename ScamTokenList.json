@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25E28540A4EFB73053a42070767c138C8e5b0fac",
-      "symbol": "MOXT",
-      "name": "MOXT",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5efe2e894c4af56D769B46CA8154713F2CA99f71",
       "symbol": "SWORD",
       "name": "HeavenlySword",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3832F7bA1F58dABE5aC579B1F5a92486c19B30e",
+      "symbol": "LFI",
+      "name": "LoopFinanceERC20Tok",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19247,
-    "minor": 19247,
+    "major": 19248,
+    "minor": 19248,
     "patch": 86
   }
 }
