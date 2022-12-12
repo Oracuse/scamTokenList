@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD5F6f16543565c68CE4f32e8F86eb56EB11916f8",
-      "symbol": "MIB",
-      "name": "ETProtector",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3a24AbaFfA329Aab2ad90AB20e3045623852caF2",
       "symbol": "GRITH",
       "name": "Sanctuary",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27d1A6F4e5FAa8356C419825e84B09b3AA1a3918",
+      "symbol": "DAI",
+      "name": "DARKAI",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19201,
-    "minor": 19201,
+    "major": 19202,
+    "minor": 19202,
     "patch": 86
   }
 }
