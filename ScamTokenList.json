@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2E63EAd30aE303c329D6EFE1b24B5e3866C09ed2",
-      "symbol": "THREEPILLARSOFGODS",
-      "name": "Threepillarsofgods",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x55Cb1ad49A152503fe2203dae91E29CCc45Faa34",
       "symbol": "REFINU",
       "name": "ReferendumInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x494732470F1443e3228C9F4d720edB1A2bc7457E",
+      "symbol": "RG10",
+      "name": "RG10",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19230,
-    "minor": 19230,
+    "major": 19231,
+    "minor": 19231,
     "patch": 86
   }
 }
