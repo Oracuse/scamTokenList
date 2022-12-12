@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x836cC466C6ea63Ed2c75bE7428689590F45fE727",
-      "symbol": "PARADOX",
-      "name": "PowerParadox",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8ce2f6C97008B4b8e21dFc9dC6f532C38d0447E3",
       "symbol": "BSHEP",
       "name": "BabyGermanShepherd",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2Ac5b2632DcF2BD4bc006698223F1973B40De1f",
+      "symbol": "GOLD",
+      "name": "GoldVerification",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19286,
-    "minor": 19286,
+    "major": 19287,
+    "minor": 19287,
     "patch": 86
   }
 }
