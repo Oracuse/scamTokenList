@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60Ab548fFd2161BacDC94744D75E34999A0D280e",
-      "symbol": "ANCIENT",
-      "name": "ResurrectionAncient",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8213f10Bbc1BfdFBcBFb15184268a8883CF5d7c4",
       "symbol": "CHIHUAHUA",
       "name": "Chihuahua",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd54A1662348CA7A36ee624e82bb9B88dbF721438",
+      "symbol": "LFI",
+      "name": "LoopFinanceERC20Tok",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19251,
-    "minor": 19251,
+    "major": 19252,
+    "minor": 19252,
     "patch": 86
   }
 }
