@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8bbed8977D9Dd9d0b03461Eb85234469Ddc827e0",
-      "symbol": "LAMA",
-      "name": "Lamadoge",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xde0fa8515c9088b4338C19060AE13e4d39BD1fF8",
       "symbol": "POMOXER",
       "name": "PomchiKiller",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdc9CFfeD3cD74e826D0a8F274aCfbBA3646dec7b",
+      "symbol": "BNBC",
+      "name": "BNBClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19209,
-    "minor": 19209,
+    "major": 19210,
+    "minor": 19210,
     "patch": 86
   }
 }
