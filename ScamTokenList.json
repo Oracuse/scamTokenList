@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x54992853DC100832921E2D6f37f188f8bCf71Ce8",
-      "symbol": "AKASHICINU",
-      "name": "AkashicInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA12c1E7B92E323516798F7435AeB3613f620C8dc",
       "symbol": "HEKATE",
       "name": "HekateStathmos",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1c6342Fa5F866bffE2a6522b90d4937ad768E89",
+      "symbol": "SAI",
+      "name": "SocietasAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19388,
-    "minor": 19388,
+    "major": 19389,
+    "minor": 19389,
     "patch": 86
   }
 }
