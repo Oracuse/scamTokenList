@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x48f2E522Da42e35Dd18a7911B5D74a2dD5b3AebE",
-      "symbol": "BNB20",
-      "name": "BNB20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6AFAB725f8e7BC7a204219C31BCf74852ea0137B",
       "symbol": "BNB",
       "name": "ProofOfCZ",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Bc1556129e5DEa47636e9eb918b0444eA0986C7",
+      "symbol": "CHRISTMASERC",
+      "name": "CHRISTMASERC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19339,
-    "minor": 19339,
+    "major": 19340,
+    "minor": 19340,
     "patch": 86
   }
 }
