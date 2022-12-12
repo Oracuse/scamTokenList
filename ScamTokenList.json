@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe5ffD337213d7f565721bB3abbf539eFB8756031",
-      "symbol": "CSI",
-      "name": "CreditSuisseInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBb9BF849ac1135ee2bfc8cfc8069A70BCf124d77",
       "symbol": "SHIPOMCHI",
       "name": "Shipomchi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xef51e8694D404d95c9C500F293B9671fE2b12F14",
+      "symbol": "METH",
+      "name": "Blackout",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19220,
-    "minor": 19220,
+    "major": 19221,
+    "minor": 19221,
     "patch": 86
   }
 }
