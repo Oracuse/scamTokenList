@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x96F3D57dd05bdbB120D79278eD5dA13361109ecC",
-      "symbol": "FED",
-      "name": "FED",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x259065a1F316D2959CfF86b9240fD7902Fd51b98",
       "symbol": "YORI",
       "name": "babyYORI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB9a9Aa86CB5A5F7813842aB5530609eAe0ef02a7",
+      "symbol": "TRADEX",
+      "name": "TRADEX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19198,
-    "minor": 19198,
+    "major": 19199,
+    "minor": 19199,
     "patch": 86
   }
 }
