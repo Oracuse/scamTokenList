@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6ef7225d447B4Bfe19c25981E2A83cBF71f40304",
-      "symbol": "LUNA20",
-      "name": "ProofofKwon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBd2904011cDB6024f9FdA2e74224C8E97322CfC5",
       "symbol": "POBR",
       "name": "ProofOfBear",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D7989eBA53ce7a8B12Cb1B2CF22fD340A4EDf3E",
+      "symbol": "TIFI",
+      "name": "TitanFi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19582,
-    "minor": 19582,
+    "major": 19583,
+    "minor": 19583,
     "patch": 86
   }
 }
