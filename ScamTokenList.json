@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdfbE760E0452aBC0660729a57874832602c04ea5",
-      "symbol": "WERFLOKI",
-      "name": "ProtectorsofFloki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82F2Bc8845FEAF983143e7bEbd18348e4758D185",
       "symbol": "POS",
       "name": "ProofofSomething",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBF9334B55328141C852a85002aB13F83E7a76d98",
+      "symbol": "X",
+      "name": "XProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19648,
-    "minor": 19648,
+    "major": 19649,
+    "minor": 19649,
     "patch": 86
   }
 }
