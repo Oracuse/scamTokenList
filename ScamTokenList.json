@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc06714025eC6E625CaeaB5182fc4bB647d48df97",
-      "symbol": "C2DR",
-      "name": "C2DRToken",
-      "decimals": 12,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x24358973e014218C9daf8726feDbeE0e477be070",
       "symbol": "WER120",
       "name": "WeR120",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x417519607b55b9C09A1eeE43BB27aE2F30622c4F",
+      "symbol": "AVATAR",
+      "name": "TheWayofWater",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19624,
-    "minor": 19624,
+    "major": 19625,
+    "minor": 19625,
     "patch": 86
   }
 }
