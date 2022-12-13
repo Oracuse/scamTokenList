@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x697d4e5B388ef7d5a8122C9FA02c9C1f784A193B",
-      "symbol": "TSUKA20",
-      "name": "ProofOfDragon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeD1fa0FB4602E61F9FD207a378b38d195c3257ad",
       "symbol": "PUTIN20",
       "name": "ProofOfNUKE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1a5c712F5DF3C4E879E690149Ecca269F600377E",
+      "symbol": "BUFFETT",
+      "name": "WarrenBuffett",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19554,
-    "minor": 19554,
+    "major": 19555,
+    "minor": 19555,
     "patch": 86
   }
 }
