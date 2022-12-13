@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9B4767aB9e9aC1007B46A292F197A6e87eE1fd32",
-      "symbol": "DP",
-      "name": "DegenProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3073b6384e32E103ea4AC09B4b14AED01275BC8f",
       "symbol": "MNBASE",
       "name": "Moonbase",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xECe3BD9faAd6273a3239758E4f8C2AF9d5952B1f",
+      "symbol": "CPI",
+      "name": "CrazyPumpInfinity",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19574,
-    "minor": 19574,
+    "major": 19575,
+    "minor": 19575,
     "patch": 86
   }
 }
