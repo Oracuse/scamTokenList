@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9f0Ec181733CA55d3Ec15aB696DC7F68BFfBEa33",
-      "symbol": "KWON",
-      "name": "DogeKwon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2d482f3820e9Cfe426739C986e50eE5851c2B8E4",
       "symbol": "B121",
       "name": "Bureau121",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc3B20CF63B36909cd43A91C2786C373bc7D708Ab",
+      "symbol": "HAL",
+      "name": "HalcyonToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19492,
-    "minor": 19492,
+    "major": 19493,
+    "minor": 19493,
     "patch": 86
   }
 }
