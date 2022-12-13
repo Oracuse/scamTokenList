@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4B8435A130EF251620a2b8cFE416A5f2890196b0",
-      "symbol": "TGME",
-      "name": "TsukaGameStop",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xec673109C0571946c2f300abC45dB3cfce03b8f8",
       "symbol": "SHINTAMA",
       "name": "SHINTAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x993D3634F5Ad3F5471088D3c0Ca949431b82ade6",
+      "symbol": "RAURIX",
+      "name": "GoldDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19437,
-    "minor": 19437,
+    "major": 19438,
+    "minor": 19438,
     "patch": 86
   }
 }
