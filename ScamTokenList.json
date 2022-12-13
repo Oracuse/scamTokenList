@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2B80D58d8E6e3d06CbedD2B833a3DCD565F79e80",
-      "symbol": "V35",
-      "name": "Vestige",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc030c41E3AC18a177a1baDb91453F3a982Fa8f0C",
       "symbol": "7KINGDOMS",
       "name": "SevenKingdoms",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36c86a1c23f4D17f3B3F28B7266cD7DB1D74A0B4",
+      "symbol": "N",
+      "name": "NProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19643,
-    "minor": 19643,
+    "major": 19644,
+    "minor": 19644,
     "patch": 86
   }
 }
