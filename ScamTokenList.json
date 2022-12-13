@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81F72C0e73E9341Fd14832813d24C4B67C2c3e09",
-      "symbol": "POL",
-      "name": "ProofofLife",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x090c65b424Ce5B5417d67f4E6193BDEa6B13A5B7",
       "symbol": "ONNA",
       "name": "Futakuchi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B6925c3d8a61C3803C5f8D8EC36b5742a9c13B9",
+      "symbol": "CPI",
+      "name": "CPIPUMP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19568,
-    "minor": 19568,
+    "major": 19569,
+    "minor": 19569,
     "patch": 86
   }
 }
