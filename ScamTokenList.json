@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x38397401B1b9642c6529EA485Cdd3ED2eD45C439",
-      "symbol": "KAMIYO",
-      "name": "TheAgeoftheGods",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x85227BEae70bd3833d8A8a71DdC9104251430B18",
       "symbol": "OSFE",
       "name": "OSFEditions",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x68aA0f87326b20D364F922D6A459c361829d36a3",
+      "symbol": "TSUMO",
+      "name": "TSUMO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19426,
-    "minor": 19426,
+    "major": 19427,
+    "minor": 19427,
     "patch": 86
   }
 }
