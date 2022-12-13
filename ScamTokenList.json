@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEb3c64FF9954aA1a0880088cA91E5A049c4dA42d",
-      "symbol": "DAO20",
-      "name": "ProofofDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcF7B9D9Cc5E82917cC4e27A05ACf7f23F85864e5",
       "symbol": "NUN",
       "name": "NUNCOIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8493FDAe513A818eD5bAB493c879ef6F9316fE36",
+      "symbol": "NOTORI",
+      "name": "Murasaki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19580,
-    "minor": 19580,
+    "major": 19581,
+    "minor": 19581,
     "patch": 86
   }
 }
