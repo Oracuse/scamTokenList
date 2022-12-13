@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x090c65b424Ce5B5417d67f4E6193BDEa6B13A5B7",
-      "symbol": "ONNA",
-      "name": "Futakuchi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc12C6A089E0F1114377ceB5Ee1425E2a146fb33F",
       "symbol": "HWT",
       "name": "HalloTweETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC31FE95a927970F818431DdE21A637f9c85f80d4",
+      "symbol": "SAMGON",
+      "name": "TheSamuraiDragon",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19569,
-    "minor": 19569,
+    "major": 19570,
+    "minor": 19570,
     "patch": 86
   }
 }
