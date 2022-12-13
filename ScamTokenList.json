@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD7b95564Ed9E1e5712EC2A9498C94fa1564c11B1",
-      "symbol": "APED",
-      "name": "Apeology",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x421BA9f3595ACe43A75CF8A740D94667E1a883af",
       "symbol": "APED",
       "name": "Apeology",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45fC0988bd7d753A03Cf58B3293870416a5B7318",
+      "symbol": "SBF",
+      "name": "SamBankmanFRAUD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19457,
-    "minor": 19457,
+    "major": 19458,
+    "minor": 19458,
     "patch": 86
   }
 }
