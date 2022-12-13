@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x20C4eFbDc8EfdE54D592eA779535c089d0feBBff",
-      "symbol": "CAWTAMA",
-      "name": "CAWTAMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1Bbc587e9a6C2156E18B3f6b59659943E7b199e0",
       "symbol": "JOB",
       "name": "Job",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x946275028B8920F96BF063C687d5E8b0a0d09CA0",
+      "symbol": "RBI",
+      "name": "Rabbitinu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19445,
-    "minor": 19445,
+    "major": 19446,
+    "minor": 19446,
     "patch": 86
   }
 }
