@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFB56632eb65c3c0D7C8b5bb3E571b36143cC130E",
-      "symbol": "AMAN",
-      "name": "AmanToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90792B54DfFaBc3E29284df5427aa404f9E6AFd5",
       "symbol": "PHORIA",
       "name": "Euphoria",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7070C6FF2470403CDC7Bc8d7c64654A433f4611c",
+      "symbol": "UI",
+      "name": "UnemployedInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19586,
-    "minor": 19586,
+    "major": 19587,
+    "minor": 19587,
     "patch": 86
   }
 }
