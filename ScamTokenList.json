@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2105F65f4CA4a9a54F1B427EC338977F2eaaBdaF",
-      "symbol": "PETH",
-      "name": "PETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x60481629BA183A25b25E758AB3FEe49d71abB44a",
       "symbol": "TWTR",
       "name": "Twitter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd0E6714E7a632355fDbA75ce87d21349fBd7EB77",
+      "symbol": "AIKIDO",
+      "name": "ShinbuDojo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19637,
-    "minor": 19637,
+    "major": 19638,
+    "minor": 19638,
     "patch": 86
   }
 }
