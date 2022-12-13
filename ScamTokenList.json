@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x884d6e132B39991108DE02Ed0AbBF95aBA09b170",
-      "symbol": "ATURA",
-      "name": "AturaToken",
-      "decimals": 11,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1047F48651b53A71C3D5dCc8dBaE1b5Ee9e9aCF",
       "symbol": "KYOSHI",
       "name": "Kyoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xED318361437a308Be38267d0690eF5290377C50F",
+      "symbol": "EXODIUS",
+      "name": "TheRealWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19618,
-    "minor": 19618,
+    "major": 19619,
+    "minor": 19619,
     "patch": 86
   }
 }
