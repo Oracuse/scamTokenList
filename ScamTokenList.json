@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08737D7A7396DA28bb3B30d9f56fA8DB1f53b9AA",
-      "symbol": "TAMAT",
-      "name": "Tamadoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3eeb174ab6bB1FF5681192916a677e9984760c94",
       "symbol": "MOHE5",
       "name": "MoneyHeist",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5787F175C0E9614C7680Cb0dcbF003D55841C3FC",
+      "symbol": "WTAMA",
+      "name": "WrappedSaitama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19608,
-    "minor": 19608,
+    "major": 19609,
+    "minor": 19609,
     "patch": 86
   }
 }
