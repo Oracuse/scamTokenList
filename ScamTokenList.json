@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4C930bE49F325f2a339F75E3390288C7D1941bf6",
-      "symbol": "EUROPA",
-      "name": "EUROPA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8eDd7a65FCDCd32b472Ef55bA2Ed2EF5E030A36C",
       "symbol": "EOE",
       "name": "ElegyOfExistence",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFa6bA1F43C521Ea1Df91dEA2ca5323BBBc50a4A7",
+      "symbol": "MINE",
+      "name": "MinerToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19517,
-    "minor": 19517,
+    "major": 19518,
+    "minor": 19518,
     "patch": 86
   }
 }
