@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x90032E17B74E5089E6425BaDF24fCcd9DFe1170a",
-      "symbol": "SKULL",
-      "name": "SkullFinance",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7D5a0b2220D39F222f3C873b5A3DFC2907c7126D",
       "symbol": "RUBI",
       "name": "RubiCube",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47d4ACdF3b7C32a5329B256Ce42424DeFc1d0fa9",
+      "symbol": "JSBF",
+      "name": "JAILSBF",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19411,
-    "minor": 19411,
+    "major": 19412,
+    "minor": 19412,
     "patch": 86
   }
 }
