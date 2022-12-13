@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3B61359541c543C203C9a02A462d500C215c837d",
-      "symbol": "GOLD",
-      "name": "TheGoldenEgg",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49fF8058e8DC176cAE01c672E4B2175858C4aa45",
       "symbol": "ETHTAS",
       "name": "Danzayemon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9255CEfbAe5B66430A622bc249Bd287dAA66FE58",
+      "symbol": "EIP",
+      "name": "EverythingisPonzi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19475,
-    "minor": 19475,
+    "major": 19476,
+    "minor": 19476,
     "patch": 86
   }
 }
