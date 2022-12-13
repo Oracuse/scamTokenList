@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC786f3281A3A364d6B51EB41eA9d1d3DD46D9CE7",
-      "symbol": "OS",
-      "name": "OnlyStables",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9F61931Db0EB5535491635BB04Ea373751030408",
       "symbol": "LUNA20",
       "name": "ProofofKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCA86d50A54BbBbB8D46474B6D784927639f92235",
+      "symbol": "AIFARM",
+      "name": "AIFARM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19578,
-    "minor": 19578,
+    "major": 19579,
+    "minor": 19579,
     "patch": 86
   }
 }
