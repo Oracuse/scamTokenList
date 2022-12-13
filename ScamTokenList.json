@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x090FC4D5436D98E13473c4d6109De6A18BCfB0d4",
-      "symbol": "SKY",
-      "name": "TheSkyToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa3E8411A0FF3F9453FFd6D9F51b879385A0e2E23",
       "symbol": "AI",
       "name": "ApeIntelligence",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30B699bD712eE85908B888Cef930516bFCbEdEAa",
+      "symbol": "DORIAN",
+      "name": "Dorian",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19514,
-    "minor": 19514,
+    "major": 19515,
+    "minor": 19515,
     "patch": 86
   }
 }
