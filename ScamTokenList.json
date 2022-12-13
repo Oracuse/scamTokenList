@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA97a126b28C883Bf1dBCA24E800Cbb82139545D1",
-      "symbol": "DB",
-      "name": "Smiling",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2105F65f4CA4a9a54F1B427EC338977F2eaaBdaF",
       "symbol": "PETH",
       "name": "PETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51C6d7d67992EACEf94227a29b84e6e0e62bE5a0",
+      "symbol": "FIFA20",
+      "name": "FIFAWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19636,
-    "minor": 19636,
+    "major": 19637,
+    "minor": 19637,
     "patch": 86
   }
 }
