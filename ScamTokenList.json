@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf2CE6D8381A6a5b77F4fB0396A6F5386E143aDCd",
-      "symbol": "KRUZE",
-      "name": "KruzeToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAaa3B1abF50C30128Bf4AB09FEc7015D610A5884",
       "symbol": "GLXY",
       "name": "Galaxy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39AD1AA1f898bA5681D40d0d6AF123596519b712",
+      "symbol": "SBF",
+      "name": "SamBankmanFucked",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19408,
-    "minor": 19408,
+    "major": 19409,
+    "minor": 19409,
     "patch": 86
   }
 }
