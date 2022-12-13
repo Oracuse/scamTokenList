@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x19d858478B255Af2516e19F9536D39b065a9626c",
-      "symbol": "RENA",
-      "name": "DerivedRena",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x484046b1035ba40aFa84edCf4560f8a2039e2AfD",
       "symbol": "OC759",
       "name": "ProofofOccult",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Dee0666a26e0CfFbc6e9d57e5DC506Ee308ff93",
+      "symbol": "FOMO",
+      "name": "FOMOInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19602,
-    "minor": 19602,
+    "major": 19603,
+    "minor": 19603,
     "patch": 86
   }
 }
