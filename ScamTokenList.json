@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e87240BdDde587dD724ad305AE7c119Ad47e25B",
-      "symbol": "7TH",
-      "name": "TheSeventh",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22dA4fF61e0be9d7c4280D62cECED759413507B1",
       "symbol": "DOGERING",
       "name": "DogeRing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8072D3248fDb921a0102bea03955F38749bE79f6",
+      "symbol": "GLX",
+      "name": "Galaxio",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19429,
-    "minor": 19429,
+    "major": 19430,
+    "minor": 19430,
     "patch": 86
   }
 }
