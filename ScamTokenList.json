@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3eeb174ab6bB1FF5681192916a677e9984760c94",
-      "symbol": "MOHE5",
-      "name": "MoneyHeist",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeBd8Ac0263d824B449C764021d4189D783006cA0",
       "symbol": "INODE",
       "name": "iNode512",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB49386C68282F946CBe8B27a301eB94F017d00e",
+      "symbol": "TINDERAI",
+      "name": "TinderAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19609,
-    "minor": 19609,
+    "major": 19610,
+    "minor": 19610,
     "patch": 86
   }
 }
