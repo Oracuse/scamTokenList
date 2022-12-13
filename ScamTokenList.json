@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfe50b5D2982D167B81dA4431c6cd8388944c88d4",
-      "symbol": "FIFA",
-      "name": "FIFAWouldCup",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaD5a4244dfCB49f9D4dB5eE5Ad05C3dc23147cC8",
       "symbol": "DS9",
       "name": "TerekNor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x171e47915753d00Eb0B3bb358AEB57596B7e754C",
+      "symbol": "RECOVER",
+      "name": "Recovery",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19510,
-    "minor": 19510,
+    "major": 19511,
+    "minor": 19511,
     "patch": 86
   }
 }
