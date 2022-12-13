@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb469bdc3099412FDfb9f4AF7bA6c388EBA9F4f45",
-      "symbol": "SARTO",
-      "name": "SARTOToken",
-      "decimals": 13,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x781866A0367A478Df559F050dA69983C198AB8F6",
       "symbol": "TEON",
       "name": "TwoEyesOneNose",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4811c687173F6e3A9efbe96FeBaD3ecC14e8098b",
+      "symbol": "SVI",
+      "name": "SatoshiVision",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19657,
-    "minor": 19657,
+    "major": 19658,
+    "minor": 19658,
     "patch": 86
   }
 }
