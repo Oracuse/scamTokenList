@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7e28aF30f2187EfDBB81FD08aCC209A2b637c14F",
-      "symbol": "LUNA20",
-      "name": "ProofofCommunity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8cB6D4567E9533b861AecFDf9e0cd8dF4DE0e56a",
       "symbol": "JIDAI",
       "name": "AHuntersEra",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5b108171da576B8Ae4e9e67CE0c991C09957Dab",
+      "symbol": "WDOGE",
+      "name": "WrappeDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19539,
-    "minor": 19539,
+    "major": 19540,
+    "minor": 19540,
     "patch": 86
   }
 }
