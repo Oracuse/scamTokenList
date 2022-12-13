@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF3E7eFe9334F6B6d4c73DBA1F679358238B712d6",
-      "symbol": "H",
-      "name": "HYDROGEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x12F05E6D55dAB18DaB85E6Dd6a6390Fef6575870",
       "symbol": "KINGS20",
       "name": "KINGSCOIN20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x865D186C72cA10E3494e31140514F743cAaA7f1f",
+      "symbol": "WHITE",
+      "name": "WhiteProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19512,
-    "minor": 19512,
+    "major": 19513,
+    "minor": 19513,
     "patch": 86
   }
 }
