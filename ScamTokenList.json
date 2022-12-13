@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4D31C8DBb632f1aaf9ec2368C2Fc8A670C197Be1",
-      "symbol": "POP",
-      "name": "ProofOfPEPE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8eaf6a9E22bADc6B1dB456a35b45f128dD6A92E1",
       "symbol": "MOR",
       "name": "Moriarty",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7AC64dB9A104A381830111C30f1cA60C3913F14",
+      "symbol": "BULLRUN",
+      "name": "BULLRUN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19564,
-    "minor": 19564,
+    "major": 19565,
+    "minor": 19565,
     "patch": 86
   }
 }
