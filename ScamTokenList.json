@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36329F707eAA75C286305889B6960eBc28F91A87",
-      "symbol": "BNBREVAMP",
-      "name": "ProofofPause",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf2CE6D8381A6a5b77F4fB0396A6F5386E143aDCd",
       "symbol": "KRUZE",
       "name": "KruzeToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFFA6103A3ffA6e7aDBFD1895bBc0D80236f99F59",
+      "symbol": "ARRESTED",
+      "name": "SBF",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19407,
-    "minor": 19407,
+    "major": 19408,
+    "minor": 19408,
     "patch": 86
   }
 }
