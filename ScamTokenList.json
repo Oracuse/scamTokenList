@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x719C696d6F257eab5eA9060D39102FF3Ba5730b8",
-      "symbol": "PUMP20",
-      "name": "ProofOfPump",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x20EDcCA544C260AA99ea7ae927606E079f62dF5d",
       "symbol": "SUNWU",
       "name": "SunWukong",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65d405C39494F355F3a8cBa33D85520c2Cd7a9D3",
+      "symbol": "DEFY",
+      "name": "Defy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19559,
-    "minor": 19559,
+    "major": 19560,
+    "minor": 19560,
     "patch": 86
   }
 }
