@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x72A7889CA108D644E5C1C8dAf6667D8D2d2777D4",
-      "symbol": "BNBRUGGED",
-      "name": "BnBRugged",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF7cb792936B181a4f9bD3Eba6763F7eB473E2C05",
       "symbol": "RIVER",
       "name": "TheRiver",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC53E8324B218735F992979fb5D65bc53c4EedA1F",
+      "symbol": "DGC",
+      "name": "DogeGamblingCenter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19421,
-    "minor": 19421,
+    "major": 19422,
+    "minor": 19422,
     "patch": 86
   }
 }
