@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28390B1aFa57C0adce8433613c87275bBb5771eD",
-      "symbol": "UOUU",
-      "name": "UNKNOWN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x45153B8f9d79797Ab41fd8aD170226e3EA9D9318",
       "symbol": "FOUDRE",
       "name": "Foudre",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72d7460d177C974f951854c04B10F61B7FB5Ad1F",
+      "symbol": "SHIBDEN",
+      "name": "ShibaShinden",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19480,
-    "minor": 19480,
+    "major": 19481,
+    "minor": 19481,
     "patch": 86
   }
 }
