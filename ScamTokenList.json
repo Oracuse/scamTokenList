@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf4E8E62cbb7E3B1Ed002DC8630FfDe9A271eb270",
-      "symbol": "PENNYWISE",
-      "name": "KILLERCLOWN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4B8435A130EF251620a2b8cFE416A5f2890196b0",
       "symbol": "TGME",
       "name": "TsukaGameStop",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB3F7Bc16C74de7AC9cBD18bcB95ED2D535291C69",
+      "symbol": "JIRON",
+      "name": "JironToken",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19436,
-    "minor": 19436,
+    "major": 19437,
+    "minor": 19437,
     "patch": 86
   }
 }
