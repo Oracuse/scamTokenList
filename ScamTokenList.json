@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3C61D7b971203DFEC03894578fbB6b610179c8F2",
-      "symbol": "MEMES",
-      "name": "MemeStonks",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81F72C0e73E9341Fd14832813d24C4B67C2c3e09",
       "symbol": "POL",
       "name": "ProofofLife",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE829c1Ae79234eF09794a66bDF5C75C0812AC5d7",
+      "symbol": "CURRENT",
+      "name": "TheCurrentThing",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19567,
-    "minor": 19567,
+    "major": 19568,
+    "minor": 19568,
     "patch": 86
   }
 }
