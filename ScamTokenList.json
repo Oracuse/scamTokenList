@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFD8e45ff1eBf0cD09F48ca3134d65CB0FEd245Fa",
-      "symbol": "ERNC",
-      "name": "EthernityChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xae68097720547f5DFE375EDA3850f0B7Cd8cD34B",
       "symbol": "BABYETH20",
       "name": "BabyEth20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4BC5f3831948d799bFdC5AF4443cc1429946f674",
+      "symbol": "CAMDEN",
+      "name": "Camden",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19632,
-    "minor": 19632,
+    "major": 19633,
+    "minor": 19633,
     "patch": 86
   }
 }
