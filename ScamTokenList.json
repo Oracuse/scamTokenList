@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x205bC9Bc78706F532A5Ef66d147f014D9B0D58DB",
-      "symbol": "NAIXIN",
-      "name": "NAIXIN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbbAFB9914DaAAD389253A8Dd27baECa67EfeFDd1",
       "symbol": "HAYATE",
       "name": "HayateNakajima",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF039f3AC59B51833dF9817AD6d53EC36D8888F87",
+      "symbol": "COLLATERAL",
+      "name": "CollateralCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19534,
-    "minor": 19534,
+    "major": 19535,
+    "minor": 19535,
     "patch": 86
   }
 }
