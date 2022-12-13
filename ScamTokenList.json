@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1514023a7600f4D3F1E7AC81cC6e5F009fE80D4B",
-      "symbol": "PEPE20",
-      "name": "ProofOfMemes",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04e188d8FDCe9eaA8f6b57a066777156D1DeF2B2",
       "symbol": "POE",
       "name": "ProofOfEther",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA68f575bd87D6F56c9B244699a6F79587145E260",
+      "symbol": "EXAMPLE",
+      "name": "AnExapmle",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19556,
-    "minor": 19556,
+    "major": 19557,
+    "minor": 19557,
     "patch": 86
   }
 }
