@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x63A250889041383FA0e04C27980C884fD5A309E6",
-      "symbol": "AVEN",
-      "name": "Aven",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9fd53875cd8cb2307B4CD53C424525539c9Ee69D",
       "symbol": "HANZO",
       "name": "Hattori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D589d0ece482c719fCAAA228Ac2d8625B46008c",
+      "symbol": "AZURE",
+      "name": "AzureMoon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19487,
-    "minor": 19487,
+    "major": 19488,
+    "minor": 19488,
     "patch": 86
   }
 }
