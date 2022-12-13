@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5Ce51583932322fd72B1DDBdF8aBC19e79396EA",
-      "symbol": "XDOGE",
-      "name": "XDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC7Afb85B85eBfD273d1E4e5617Eb92725090c18A",
       "symbol": "CUP",
       "name": "FIFAWORLDCUP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7094C5b7B4C8Ddcd712e6560260f4Fe6BDF5f4cF",
+      "symbol": "SFC",
+      "name": "SamFriedChicken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19432,
-    "minor": 19432,
+    "major": 19433,
+    "minor": 19433,
     "patch": 86
   }
 }
