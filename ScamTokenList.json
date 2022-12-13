@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5df334fc75B1459993607D169C4A27ef2843B0A0",
-      "symbol": "HELP",
-      "name": "ProofOfHelp",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBef81543c47f2bfAd05013FD1f1f8a99f86a86Eb",
       "symbol": "BHNC",
       "name": "BigHatNoCattle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf4A118EB640e47F19d55824F08EA6f6aE318248",
+      "symbol": "CREEPY",
+      "name": "CREEPYDOUGH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19645,
-    "minor": 19645,
+    "major": 19646,
+    "minor": 19646,
     "patch": 86
   }
 }
