@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xae68097720547f5DFE375EDA3850f0B7Cd8cD34B",
-      "symbol": "BABYETH20",
-      "name": "BabyEth20",
-      "decimals": 5,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x691b957B82e7ccf9B89602988C00830889b7c046",
       "symbol": "WERINU",
       "name": "ProtectorofInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91f2D05Aa26020E6eE04D19e9903e776B3cB4e35",
+      "symbol": "ISZN",
+      "name": "InuSeason",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19633,
-    "minor": 19633,
+    "major": 19634,
+    "minor": 19634,
     "patch": 86
   }
 }
