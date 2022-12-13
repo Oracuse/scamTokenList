@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB454B935D119051dbd45D45a7b306c7C33Bb320c",
-      "symbol": "ADA20",
-      "name": "ProofofCardano",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x53DA29FEE455C398f73166c89EA9C0d586139D94",
       "symbol": "POA",
       "name": "ProofOfApes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F695b53B2A119E03c758B2E30e56105483b3AF6",
+      "symbol": "LEROUX",
+      "name": "SolotshiCalderLeRou",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19668,
-    "minor": 19668,
+    "major": 19669,
+    "minor": 19669,
     "patch": 86
   }
 }
