@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5FDd93A2EeaFb6359EeAcC08B927923c64552d1",
-      "symbol": "ETH21",
-      "name": "MemeOrigin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4D31C8DBb632f1aaf9ec2368C2Fc8A670C197Be1",
       "symbol": "POP",
       "name": "ProofOfPEPE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb70A22812A2cF8eb1f83dAe8CB9C7FBC96B5B40E",
+      "symbol": "NIFTY",
+      "name": "Niftyradar",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19563,
-    "minor": 19563,
+    "major": 19564,
+    "minor": 19564,
     "patch": 86
   }
 }
