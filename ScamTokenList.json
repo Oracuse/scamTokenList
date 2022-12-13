@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaBAEBC1581Ff27c825Fc78cC9953088C8821C29a",
-      "symbol": "JACKMA",
-      "name": "JackMa",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x702B3D69Ea04733ebD939f80ED0ac633668122eF",
       "symbol": "PROOFOFETH",
       "name": "ProofOfETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15EB1bFe400fBe3eB3707fe7b856FD239464035e",
+      "symbol": "314",
+      "name": "314",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19543,
-    "minor": 19543,
+    "major": 19544,
+    "minor": 19544,
     "patch": 86
   }
 }
