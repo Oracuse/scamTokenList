@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x13592B4B32f78259051A6d8013C3E6f8ddeFcFC7",
-      "symbol": "WER1POM",
-      "name": "WeR1POM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71f6E75e6eca147351D3d344Ec27253a4a38A15D",
       "symbol": "WER1000",
       "name": "ProtectorsoftheWorl",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38ef6D4DB9B070b1ad424Fb818902E2711879B7B",
+      "symbol": "SATOSHI",
+      "name": "Bitcointalk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19629,
-    "minor": 19629,
+    "major": 19630,
+    "minor": 19630,
     "patch": 86
   }
 }
