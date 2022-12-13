@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd9b201D337Cb0c8C17DcE8E51a27D90266A357c3",
-      "symbol": "BITFARM",
-      "name": "BitFarmUniverse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9B4767aB9e9aC1007B46A292F197A6e87eE1fd32",
       "symbol": "DP",
       "name": "DegenProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59020A961E10feFA23911f8d43b9919037c1589D",
+      "symbol": "WAPE",
+      "name": "WrappedApe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19573,
-    "minor": 19573,
+    "major": 19574,
+    "minor": 19574,
     "patch": 86
   }
 }
