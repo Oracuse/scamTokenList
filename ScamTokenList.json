@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x82F2Bc8845FEAF983143e7bEbd18348e4758D185",
-      "symbol": "POS",
-      "name": "ProofofSomething",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3F4820bbC79A956db13dAb8645fA1Ca7e83bB2a7",
       "symbol": "PUNCH",
       "name": "PROOFOFSAITAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3C76d4f619669f23902C8e1bB8664978661B55B",
+      "symbol": "MONOX",
+      "name": "MonopolyX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19649,
-    "minor": 19649,
+    "major": 19650,
+    "minor": 19650,
     "patch": 86
   }
 }
