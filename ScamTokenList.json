@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5fd8f669e57D9ef6dD090c6a43fD22ee27d10E2f",
-      "symbol": "FLAMESCAPE",
-      "name": "FlameScape",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2bF6c3a41CcF9880be74F5B90e5ae3db7F509927",
       "symbol": "KURWA",
       "name": "KURWA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x828683430585FaF98abba3972a7ECdB41d8E0A71",
+      "symbol": "POE",
+      "name": "ProofofETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19495,
-    "minor": 19495,
+    "major": 19496,
+    "minor": 19496,
     "patch": 86
   }
 }
