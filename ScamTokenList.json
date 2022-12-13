@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf4F6f42dc1467Cf618aeaB91a579158C052B5Ea8",
-      "symbol": "DROGE",
-      "name": "Droge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB98ED79Fc1F43c336DDf61F84d58650bacD97322",
       "symbol": "KIMETSU",
       "name": "Kimetsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd929eE587b6d8B6d41C9D5917de12e4ff14BdD7d",
+      "symbol": "WDOGE",
+      "name": "WrappedDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19472,
-    "minor": 19472,
+    "major": 19473,
+    "minor": 19473,
     "patch": 86
   }
 }
