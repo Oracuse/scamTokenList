@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE58381ab765D3B45408c333D6A614014617A3c73",
-      "symbol": "KIMETSU",
-      "name": "Kimetsu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0d0d6B54Db3B2b0F3Bb49965a0fE1571FF65A3c",
       "symbol": "KIMETSU",
       "name": "Kimetsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0FCF6E8438282F5658Ab01d290fB28A24A741700",
+      "symbol": "WSHIB",
+      "name": "WrappedShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19469,
-    "minor": 19469,
+    "major": 19470,
+    "minor": 19470,
     "patch": 86
   }
 }
