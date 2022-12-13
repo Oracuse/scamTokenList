@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc12C6A089E0F1114377ceB5Ee1425E2a146fb33F",
-      "symbol": "HWT",
-      "name": "HalloTweETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB0227351954d9D93890647dA316a90E0Dc778f3a",
       "symbol": "POS",
       "name": "ProofOfShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7D6271020f8FE8635D778528E0b73B6B22ea00D",
+      "symbol": "CPI",
+      "name": "CoinPumpImmediately",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19570,
-    "minor": 19570,
+    "major": 19571,
+    "minor": 19571,
     "patch": 86
   }
 }
