@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x484046b1035ba40aFa84edCf4560f8a2039e2AfD",
-      "symbol": "OC759",
-      "name": "ProofofOccult",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5EFf6a66bD1D1268ca3607E3501b5776ec2CCCdF",
       "symbol": "TCMEME",
       "name": "THECLASSICMEME",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5b4e9f3B130Cd3e5C1e003B29C00d146DEC3688",
+      "symbol": "WVITALIK",
+      "name": "WrappedVitalik",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19603,
-    "minor": 19603,
+    "major": 19604,
+    "minor": 19604,
     "patch": 86
   }
 }
