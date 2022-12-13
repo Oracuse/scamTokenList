@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x20EDcCA544C260AA99ea7ae927606E079f62dF5d",
-      "symbol": "SUNWU",
-      "name": "SunWukong",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbB9a92AF4f37D933671EBae75b9Fdd653bf1e776",
       "symbol": "POA",
       "name": "ProofOfApes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42000440272a92121493BE7Fe70565E2a056b8Cd",
+      "symbol": "MDDR",
+      "name": "MederaDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19560,
-    "minor": 19560,
+    "major": 19561,
+    "minor": 19561,
     "patch": 86
   }
 }
