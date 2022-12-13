@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc09b8b4B8be327D99E475b0A594c0791d1A901df",
-      "symbol": "MITSUBAI",
-      "name": "Mitsubai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x58d109d288419900B8CFf363976B8a1758Bb77F6",
       "symbol": "PLEDGED",
       "name": "BloodMoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3df24f3DaD9f7a9F403daABe674418a85908556F",
+      "symbol": "P1",
+      "name": "Phase1",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19460,
-    "minor": 19460,
+    "major": 19461,
+    "minor": 19461,
     "patch": 86
   }
 }
