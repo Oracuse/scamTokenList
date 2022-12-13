@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x294c8d59A3C932C6F4Eef5B9bCf6805b03EB49B7",
-      "symbol": "ELEV",
-      "name": "Elevate",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7fefE36c7E727681c50E9bd025C1b603fF04428d",
       "symbol": "APED",
       "name": "Apeology",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E5B32904e83c15e25379Cc92D18C866f912c9fb",
+      "symbol": "ROGER",
+      "name": "RogerRabbit",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19467,
-    "minor": 19467,
+    "major": 19468,
+    "minor": 19468,
     "patch": 86
   }
 }
