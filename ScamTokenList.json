@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x77edc6a2b1271A4f90A790d03f7E7D8b5DbD247c",
-      "symbol": "0X51",
-      "name": "0x51",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBf1e189d3f8Ef79e1a1817c22075A4A314DeCf81",
       "symbol": "STAMA",
       "name": "ShibTAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7ab3eDb73A1cA959018B068eec423ED95D2eEC09",
+      "symbol": "SFC",
+      "name": "SamFriedChicken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19442,
-    "minor": 19442,
+    "major": 19443,
+    "minor": 19443,
     "patch": 86
   }
 }
