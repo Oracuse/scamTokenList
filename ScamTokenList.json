@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa59321c105bB96D822B17e5f5cdcd04fa91B4139",
-      "symbol": "BLACKHOLE",
-      "name": "TheEventHorizon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22c0fE29a1D705de5AeA2d6Cd24499461b55a922",
       "symbol": "ORIGIN20",
       "name": "ProofOfOrigin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDb2eDb74B2b0d5DaA62EE5f50eA4Ad69CeC991a2",
+      "symbol": "ARGENTINA",
+      "name": "ArgentinaCommunity",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19674,
-    "minor": 19674,
+    "major": 19675,
+    "minor": 19675,
     "patch": 86
   }
 }
