@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x223F406b9CFBb5D16e811FF2D0013284E1b49c2F",
-      "symbol": "BABY1",
-      "name": "baby1",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8b785097CFA6e54f32777ee04B07703a7d68f828",
       "symbol": "WERBURN",
       "name": "ProtectorsOfLight",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x391Ca7141A24A97C5C3E9A0E59c945e5fb2697E5",
+      "symbol": "N",
+      "name": "NProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19652,
-    "minor": 19652,
+    "major": 19653,
+    "minor": 19653,
     "patch": 86
   }
 }
