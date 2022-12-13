@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAaa3B1abF50C30128Bf4AB09FEc7015D610A5884",
-      "symbol": "GLXY",
-      "name": "Galaxy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf386CA04FC3f757B32F0Ed13f36Aaa63A930489b",
       "symbol": "KRATOS",
       "name": "GodOfWar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAb65f2902eC41aE89e1f4012aa44B6738bF82148",
+      "symbol": "SPELLCASTER",
+      "name": "WizardKing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19409,
-    "minor": 19409,
+    "major": 19410,
+    "minor": 19410,
     "patch": 86
   }
 }
