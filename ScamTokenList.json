@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCC80CfBd120BaBe3530828F38Ae1990fC7aA3860",
-      "symbol": "YDFN",
-      "name": "YieldificationNFT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7Eb200e16f48719503Df58b27199322031575209",
       "symbol": "TEST",
       "name": "CoinTest",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5a59DC87A4029074A3521E9b08f69F52F2D7136",
+      "symbol": "ZHAO",
+      "name": "ChangpumpZhaoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19549,
-    "minor": 19549,
+    "major": 19550,
+    "minor": 19550,
     "patch": 86
   }
 }
