@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0C88CaC187e52819DbB02AEEbE50bA8922ac4770",
-      "symbol": "INFI",
-      "name": "InfinityFinance",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x969d0E3D48F4fB0C138683218aE4B6dD9CFb960D",
       "symbol": "FWCM",
       "name": "FINEWINDCLEARMORNIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4EBC0c61c4Da59b2af53e5f71c6F75e4D8cB2d51",
+      "symbol": "WDOGE",
+      "name": "WrappedDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19485,
-    "minor": 19485,
+    "major": 19486,
+    "minor": 19486,
     "patch": 86
   }
 }
