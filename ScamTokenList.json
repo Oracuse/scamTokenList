@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5EFf6a66bD1D1268ca3607E3501b5776ec2CCCdF",
-      "symbol": "TCMEME",
-      "name": "THECLASSICMEME",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0f8C3fE08C1b41213b74a5DCabf6B3614C298Ba",
       "symbol": "RYUU",
       "name": "Ryuu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9bbd6aD080dD7493927f3Aa84B1ccEc749A40f13",
+      "symbol": "TEF",
+      "name": "ThetaFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19604,
-    "minor": 19604,
+    "major": 19605,
+    "minor": 19605,
     "patch": 86
   }
 }
