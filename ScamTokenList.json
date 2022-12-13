@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd37dDfd3a9eF6703a51fbfD519c60Cf5838f450B",
-      "symbol": "KENSHIN",
-      "name": "HimuraKenshin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD0056925540Eb816fF61cBd9dbf7c0BE525680D1",
       "symbol": "ZANKOKU",
       "name": "Zankoku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B77f7B9005D156e7408a80086aAfdd83a806DFD",
+      "symbol": "ORIGIN",
+      "name": "MotherofAllTokens",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19576,
-    "minor": 19576,
+    "major": 19577,
+    "minor": 19577,
     "patch": 86
   }
 }
