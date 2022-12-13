@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x12F05E6D55dAB18DaB85E6Dd6a6390Fef6575870",
-      "symbol": "KINGS20",
-      "name": "KINGSCOIN20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x090FC4D5436D98E13473c4d6109De6A18BCfB0d4",
       "symbol": "SKY",
       "name": "TheSkyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11871E66a6b2365d4e68BCD0C3B86a13FBb3c32e",
+      "symbol": "WHITE",
+      "name": "WhiteProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19513,
-    "minor": 19513,
+    "major": 19514,
+    "minor": 19514,
     "patch": 86
   }
 }
