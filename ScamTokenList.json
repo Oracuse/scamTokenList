@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf1a42e0e407AB092e6C467835ffBD1df8313Af85",
-      "symbol": "MATRIX",
-      "name": "BlueOrRed",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49D85D64D3EeB2aA39C6dba6D38882D5C60B08C2",
       "symbol": "CC",
       "name": "CarbonCopy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62fa43FD87545C5C0D3236fb25e165aFb296DC6F",
+      "symbol": "PN",
+      "name": "PixelNetwork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19447,
-    "minor": 19447,
+    "major": 19448,
+    "minor": 19448,
     "patch": 86
   }
 }
