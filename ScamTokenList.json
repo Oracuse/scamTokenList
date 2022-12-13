@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1a511D10d9B409538160016a9A3a05e3ec1954cB",
-      "symbol": "SUSHIRO",
-      "name": "SushiroFinance",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x23191Cb95E1e4823907De1f056D3aE288feE0965",
       "symbol": "ELONEXPERIMENT",
       "name": "ElonExperiment",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBB5b401815FDc562DCd815C513E67cb5fF5e6157",
+      "symbol": "SBJ",
+      "name": "ScamBankmanJailed",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19413,
-    "minor": 19413,
+    "major": 19414,
+    "minor": 19414,
     "patch": 86
   }
 }
