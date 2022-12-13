@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1A922cc67Cc0FCd6F3F5B1EdaC6Df46eee251A2d",
-      "symbol": "GCT",
-      "name": "GreenChartToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB454B935D119051dbd45D45a7b306c7C33Bb320c",
       "symbol": "ADA20",
       "name": "ProofofCardano",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5FcDEDAeCA7a9CDaDc483588A1EA059178E5A703",
+      "symbol": "STONKS",
+      "name": "SatoshiMcChonklord",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19667,
-    "minor": 19667,
+    "major": 19668,
+    "minor": 19668,
     "patch": 86
   }
 }
