@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5812D31CCeDD574DbF01f0fB64F33F5F8fAb257d",
-      "symbol": "BABYDOGE20",
-      "name": "BabyDoge20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1A922cc67Cc0FCd6F3F5B1EdaC6Df46eee251A2d",
       "symbol": "GCT",
       "name": "GreenChartToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc1609F2300b046cD85D211Db6f95328DA933Fb00",
+      "symbol": "ROUX",
+      "name": "SolotshiCalderLeRou",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19666,
-    "minor": 19666,
+    "major": 19667,
+    "minor": 19667,
     "patch": 86
   }
 }
