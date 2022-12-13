@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x324a27259A2379BA4f1c3Ad50E9eC6E9E55a7D66",
-      "symbol": "FOXXY",
-      "name": "FoxxytheFisher",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x74339A6fFc3a5A89E25dC6F5a9c4C2DD106fa0D5",
       "symbol": "MICRO",
       "name": "MACRO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E649DaEfaD22B91c9BC2A73a58076bA9C6748D4",
+      "symbol": "FACO",
+      "name": "FaCoToken",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19522,
-    "minor": 19522,
+    "major": 19523,
+    "minor": 19523,
     "patch": 86
   }
 }
