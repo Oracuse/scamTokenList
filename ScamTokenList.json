@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBd2904011cDB6024f9FdA2e74224C8E97322CfC5",
-      "symbol": "POBR",
-      "name": "ProofOfBear",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xca75495B6f2Df285A8aa83A0c625F5cbB5E2D212",
       "symbol": "LUNC20",
       "name": "DogKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF1255f46332cC21e7217718d3D61928924993Ea2",
+      "symbol": "CPI",
+      "name": "CryptoPumpInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19583,
-    "minor": 19583,
+    "major": 19584,
+    "minor": 19584,
     "patch": 86
   }
 }
