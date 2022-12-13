@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9F61931Db0EB5535491635BB04Ea373751030408",
-      "symbol": "LUNA20",
-      "name": "ProofofKwon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEb3c64FF9954aA1a0880088cA91E5A049c4dA42d",
       "symbol": "DAO20",
       "name": "ProofofDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe194a298b36f9925F3225a8c3f4CcE22b829CB86",
+      "symbol": "0000",
+      "name": "Midnight",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19579,
-    "minor": 19579,
+    "major": 19580,
+    "minor": 19580,
     "patch": 86
   }
 }
