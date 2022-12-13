@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x935D6D777c99c4734A4A21c4006c992c5F6E0C02",
-      "symbol": "LAMA",
-      "name": "Lamadoge",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc06714025eC6E625CaeaB5182fc4bB647d48df97",
       "symbol": "C2DR",
       "name": "C2DRToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2EAB9d29d1Bc2D4b3bf0662775388c35B6bea890",
+      "symbol": "KIJI",
+      "name": "FableofKijimuna",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19623,
-    "minor": 19623,
+    "major": 19624,
+    "minor": 19624,
     "patch": 86
   }
 }
