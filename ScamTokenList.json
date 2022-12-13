@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x04e188d8FDCe9eaA8f6b57a066777156D1DeF2B2",
-      "symbol": "POE",
-      "name": "ProofOfEther",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdC682ce19A0f99EB371E701D264FA872Ada4fCBD",
       "symbol": "BANKOFETH",
       "name": "BankOfETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2F9d58cE68B15Bd97ba6FE0e0e138Ac5C8f4C0De",
+      "symbol": "KEVIN",
+      "name": "HomeAlone",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19557,
-    "minor": 19557,
+    "major": 19558,
+    "minor": 19558,
     "patch": 86
   }
 }
