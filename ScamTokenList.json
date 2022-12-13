@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdC682ce19A0f99EB371E701D264FA872Ada4fCBD",
-      "symbol": "BANKOFETH",
-      "name": "BankOfETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x719C696d6F257eab5eA9060D39102FF3Ba5730b8",
       "symbol": "PUMP20",
       "name": "ProofOfPump",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A9B5d4f4DFf20ce98014b0b2C775cB7954Ec67F",
+      "symbol": "SIGNAL",
+      "name": "THELONESIGNAL",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19558,
-    "minor": 19558,
+    "major": 19559,
+    "minor": 19559,
     "patch": 86
   }
 }
