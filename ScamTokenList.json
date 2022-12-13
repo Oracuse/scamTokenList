@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE21224ebc10218d2267574201e512c1732B502Db",
-      "symbol": "INODE",
-      "name": "iNode512",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9Ce667b61F4740b0E81b396aAa82B0F1F0757dCA",
       "symbol": "FSCAPE",
       "name": "FlameScape",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1bd6A412796C2601e8F9Ab017D4197b22bc7084c",
+      "symbol": "APED",
+      "name": "ApedBuyBot",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19501,
-    "minor": 19501,
+    "major": 19502,
+    "minor": 19502,
     "patch": 86
   }
 }
