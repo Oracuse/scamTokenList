@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xab6E6f9F531F070Eed0b9794df0e0384FccC8Dcd",
-      "symbol": "WER1DOGE",
-      "name": "WeR1Doge",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x13592B4B32f78259051A6d8013C3E6f8ddeFcFC7",
       "symbol": "WER1POM",
       "name": "WeR1POM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe79d5C30cA7E5227bd424B474aA076d7BC2E1B95",
+      "symbol": "QTOOLS",
+      "name": "QUASARTOOLS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19628,
-    "minor": 19628,
+    "major": 19629,
+    "minor": 19629,
     "patch": 86
   }
 }
