@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe6697533ee96567e4282eD3BF327Fb0509b55C18",
-      "symbol": "RGDL",
-      "name": "RagDoll",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCC80CfBd120BaBe3530828F38Ae1990fC7aA3860",
       "symbol": "YDFN",
       "name": "YieldificationNFT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA5C503d86281312c4154d1b05083d8c74F952d4A",
+      "symbol": "MINU",
+      "name": "MiyamotoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19548,
-    "minor": 19548,
+    "major": 19549,
+    "minor": 19549,
     "patch": 86
   }
 }
