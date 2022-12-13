@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd3Da13720d4B8E255854cCEAAE1A04d56adedFb7",
-      "symbol": "TKI",
-      "name": "TakuriInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc09b8b4B8be327D99E475b0A594c0791d1A901df",
       "symbol": "MITSUBAI",
       "name": "Mitsubai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F3bd4f130ECB33A1bC1DFAEb800d3797b9F9E79",
+      "symbol": "AI",
+      "name": "AIMan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19459,
-    "minor": 19459,
+    "major": 19460,
+    "minor": 19460,
     "patch": 86
   }
 }
