@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBf1e189d3f8Ef79e1a1817c22075A4A314DeCf81",
-      "symbol": "STAMA",
-      "name": "ShibTAMA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x050b712cc698705E88EDcd8138db3DEba53F68ae",
       "symbol": "CAWTAMA",
       "name": "CAWTAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58F00b177A9a17B1b3757d21b5aaBEf7C2f2a98d",
+      "symbol": "F",
+      "name": "Follow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19443,
-    "minor": 19443,
+    "major": 19444,
+    "minor": 19444,
     "patch": 86
   }
 }
