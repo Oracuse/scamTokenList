@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x225883C75AA5298Cc6D4F8D40766bf4bb748f318",
-      "symbol": "GIGA",
-      "name": "Gigaplay",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5a22753F5773D4bB59B8E9ab07004B6ec3Bd1E83",
       "symbol": "XEN",
       "name": "XENCrypto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x225b9970F333fFE868F6Eff4cd6ADf3943Dc6c4D",
+      "symbol": "GAMI",
+      "name": "Inugami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19670,
-    "minor": 19670,
+    "major": 19671,
+    "minor": 19671,
     "patch": 86
   }
 }
