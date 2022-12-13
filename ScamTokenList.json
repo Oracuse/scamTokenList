@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x95704C0669328d94c36518123848Cb8206F352C3",
-      "symbol": "DAISUKE",
-      "name": "DAISUKE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x43263456ecb98F6aB47888736dBdEd6498eF32f4",
       "symbol": "MONONOKE20",
       "name": "ProofofMononoke",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94F8E2027401b7fF0fAdD7123Eac0aE3CaD518DD",
+      "symbol": "ENCRYPT",
+      "name": "EncryptToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19598,
-    "minor": 19598,
+    "major": 19599,
+    "minor": 19599,
     "patch": 86
   }
 }
