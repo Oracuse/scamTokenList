@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7D5a0b2220D39F222f3C873b5A3DFC2907c7126D",
-      "symbol": "RUBI",
-      "name": "RubiCube",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1a511D10d9B409538160016a9A3a05e3ec1954cB",
       "symbol": "SUSHIRO",
       "name": "SushiroFinance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7B81Ad0fbe06449934c94B8379A2f97c0b99557b",
+      "symbol": "JAIL",
+      "name": "SBFARRESTED",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19412,
-    "minor": 19412,
+    "major": 19413,
+    "minor": 19413,
     "patch": 86
   }
 }
