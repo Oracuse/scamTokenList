@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x11715b460e44DF275e47793E72D3Bc2d2bF1A01e",
-      "symbol": "ETHKING",
-      "name": "ETHKING",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFD8e45ff1eBf0cD09F48ca3134d65CB0FEd245Fa",
       "symbol": "ERNC",
       "name": "EthernityChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdaC2948603cB42848Fca1DeFb52C591c4D776115",
+      "symbol": "SATOSHI",
+      "name": "SatoshiTheCreator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19631,
-    "minor": 19631,
+    "major": 19632,
+    "minor": 19632,
     "patch": 86
   }
 }
