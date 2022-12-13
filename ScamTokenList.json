@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x433140F237DDFf4531c7a6F6A8B6a2DF3D30155D",
-      "symbol": "FIDUS",
-      "name": "FIDUSFINANCE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19d858478B255Af2516e19F9536D39b065a9626c",
       "symbol": "RENA",
       "name": "DerivedRena",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35327eC136d6c988cF0c9eaafED55fe945f2C619",
+      "symbol": "SNAKES",
+      "name": "GardenofSnakes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19601,
-    "minor": 19601,
+    "major": 19602,
+    "minor": 19602,
     "patch": 86
   }
 }
