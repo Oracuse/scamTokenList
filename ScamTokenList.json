@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf9bDBB823886155Ac4b7c7EE9aDE3968Dc7e86b1",
-      "symbol": "GLANCE",
-      "name": "GlanceFinance",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xab6E6f9F531F070Eed0b9794df0e0384FccC8Dcd",
       "symbol": "WER1DOGE",
       "name": "WeR1Doge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD448675f4E0a0Eef965E7cdC3C313e3a9088623f",
+      "symbol": "ENCRYPT",
+      "name": "EncryptToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19627,
-    "minor": 19627,
+    "major": 19628,
+    "minor": 19628,
     "patch": 86
   }
 }
