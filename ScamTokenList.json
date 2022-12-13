@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x49fF8058e8DC176cAE01c672E4B2175858C4aa45",
-      "symbol": "ETHTAS",
-      "name": "Danzayemon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb108f91A698D0A5dae851aBF1164579895af4290",
       "symbol": "GOKTAMA",
       "name": "GoktamaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33DD37C602CDa87d5C57521138F3B6C8B5F76F3C",
+      "symbol": "WTSUKA",
+      "name": "WrappedTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19476,
-    "minor": 19476,
+    "major": 19477,
+    "minor": 19477,
     "patch": 86
   }
 }
