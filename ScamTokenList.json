@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB95fc6fD16b74eC28D525f483c8168C7826cCfFD",
-      "symbol": "FUCKWER",
-      "name": "FuckWeR",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb469bdc3099412FDfb9f4AF7bA6c388EBA9F4f45",
       "symbol": "SARTO",
       "name": "SARTOToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe36D37d4E7545C6F0288126a4A1CfF02fB577D50",
+      "symbol": "KYTAI",
+      "name": "KnowYourTokenAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19656,
-    "minor": 19656,
+    "major": 19657,
+    "minor": 19657,
     "patch": 86
   }
 }
