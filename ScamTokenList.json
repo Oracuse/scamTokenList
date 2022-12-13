@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8eDd7a65FCDCd32b472Ef55bA2Ed2EF5E030A36C",
-      "symbol": "EOE",
-      "name": "ElegyOfExistence",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD9427D6f77F3DBF42bFF8Eb3FbF762e5d41469fd",
       "symbol": "FREE",
       "name": "FREEDOM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88479F6dBA3354cB635f994659a53771C4Ee8617",
+      "symbol": "BFI",
+      "name": "BinanceFUDInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19518,
-    "minor": 19518,
+    "major": 19519,
+    "minor": 19519,
     "patch": 86
   }
 }
