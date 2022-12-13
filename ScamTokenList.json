@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x54917032e939F79C83b73b01c7772BFc4871D0FB",
-      "symbol": "DKAIDA",
-      "name": "DejitaruKaida",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA1184110ac30bc7954D00298cd4E646E4075E50E",
       "symbol": "POL",
       "name": "ProofOfLife",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfaB573bf7f9916B81F39c502F0Ae314A815963Fc",
+      "symbol": "HNY",
+      "name": "HappyNewYear23",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19593,
-    "minor": 19593,
+    "major": 19594,
+    "minor": 19594,
     "patch": 86
   }
 }
