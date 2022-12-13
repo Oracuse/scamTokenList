@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcF7B9D9Cc5E82917cC4e27A05ACf7f23F85864e5",
-      "symbol": "NUN",
-      "name": "NUNCOIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6ef7225d447B4Bfe19c25981E2A83cBF71f40304",
       "symbol": "LUNA20",
       "name": "ProofofKwon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a4990b54a27f3ed0c4C29bB3522969482BC5424",
+      "symbol": "IYKYK",
+      "name": "IFYOUKNOWYOUKNOW",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19581,
-    "minor": 19581,
+    "major": 19582,
+    "minor": 19582,
     "patch": 86
   }
 }
