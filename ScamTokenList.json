@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0EB97ADc64Fb0De08D2C852188403BeC533abCC8",
-      "symbol": "POW20",
-      "name": "ProofofWealth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5812D31CCeDD574DbF01f0fB64F33F5F8fAb257d",
       "symbol": "BABYDOGE20",
       "name": "BabyDoge20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1EaC2809f973396EDD4DD714738fEb6D349922f6",
+      "symbol": "GAMI",
+      "name": "Inugami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19665,
-    "minor": 19665,
+    "major": 19666,
+    "minor": 19666,
     "patch": 86
   }
 }
