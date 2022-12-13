@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbbAFB9914DaAAD389253A8Dd27baECa67EfeFDd1",
-      "symbol": "HAYATE",
-      "name": "HayateNakajima",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x387525dFAf4b96941eCE110BbCf7C18a82524200",
       "symbol": "NEJU",
       "name": "Neju",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76b84739d9149188F641a1053cc458710281EC03",
+      "symbol": "CASH",
+      "name": "HashCash",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19535,
-    "minor": 19535,
+    "major": 19536,
+    "minor": 19536,
     "patch": 86
   }
 }
