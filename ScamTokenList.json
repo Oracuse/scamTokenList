@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x57B05201EB10e9b9Aa0E611d1Bba76ba4003F8B5",
-      "symbol": "SUKINA",
-      "name": "SUKINA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x433140F237DDFf4531c7a6F6A8B6a2DF3D30155D",
       "symbol": "FIDUS",
       "name": "FIDUSFINANCE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55a2fE970d50f38ed93c07b75DCb33776611A8Ca",
+      "symbol": "FELI",
+      "name": "Felicette",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19600,
-    "minor": 19600,
+    "major": 19601,
+    "minor": 19601,
     "patch": 86
   }
 }
