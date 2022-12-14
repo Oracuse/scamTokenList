@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBE916AAD2D4b814703B374E562f107BCCB2Aa90f",
-      "symbol": "BITFARM",
-      "name": "BitFarmUniverse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3234D4fB2Dcb266E2Caf7Df1A26d0028954b76ca",
       "symbol": "DMEME",
       "name": "MEMEDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4dCF404320E9d9772b8a16eaE5dA690e7B459f5f",
+      "symbol": "WYD",
+      "name": "YouUp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19742,
-    "minor": 19742,
+    "major": 19743,
+    "minor": 19743,
     "patch": 86
   }
 }
