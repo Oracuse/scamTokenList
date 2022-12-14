@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2A39f2c40DD1dB40459b577770a8AE906675feA6",
-      "symbol": "PING",
-      "name": "LarPING",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD120B2dc63D4E8BaaA9441d10a4820d09364D71f",
       "symbol": "ZKONG",
       "name": "ZombieKong",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA948fb66f2299313759EF04932836A59ab24A69A",
+      "symbol": "WCDC",
+      "name": "WrappedCreepyDoughC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19684,
-    "minor": 19684,
+    "major": 19685,
+    "minor": 19685,
     "patch": 86
   }
 }
