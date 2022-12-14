@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8585e21cb6D5BBB1a5d0dF700748763FA3cf91cf",
-      "symbol": "PODRACO",
-      "name": "ProofofDraco",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x471828ee06d631bfC2f43F9684D43BD9986302f4",
       "symbol": "IZANAGI",
       "name": "IzanaginoMikoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c662d929A373F1b86192EA6FF1c84014c448081",
+      "symbol": "GTC",
+      "name": "GrandTheftCrypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19789,
-    "minor": 19789,
+    "major": 19790,
+    "minor": 19790,
     "patch": 86
   }
 }
