@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x328B77030FfAE991f531201A5A3B92FEB6CF0516",
-      "symbol": "MMH",
-      "name": "MensMentalHealth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc3CaB0d0918c39E29088c495a077EcD022758798",
       "symbol": "KMASK",
       "name": "KMask",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67F23A42Fcb57BAf490541Acf09E7A612A5A670B",
+      "symbol": "WCF",
+      "name": "WORLDCUPFINAL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19799,
-    "minor": 19799,
+    "major": 19800,
+    "minor": 19800,
     "patch": 86
   }
 }
