@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8721527AacDAd2585230cFC4448e40ae3e25D94A",
-      "symbol": "PROTECTOROFKAGUYA",
-      "name": "ProtectorofKaguya",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDA0ad66216d2444C2EAB0E0BF0fB995961eeEDE7",
       "symbol": "DRAGONET",
       "name": "BabyDejitaruTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F135f8873EFf93Ece4a32D26e96034fE35D1c2F",
+      "symbol": "SGIFT",
+      "name": "ShibaGift",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19680,
-    "minor": 19680,
+    "major": 19681,
+    "minor": 19681,
     "patch": 86
   }
 }
