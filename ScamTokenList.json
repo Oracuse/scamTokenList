@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23D269a4587f068B14E06a006238236CEb6463eD",
-      "symbol": "BITFARM",
-      "name": "BitFarmUniverse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBE916AAD2D4b814703B374E562f107BCCB2Aa90f",
       "symbol": "BITFARM",
       "name": "BitFarmUniverse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A153Ebe5C3Ef3FDEd6FcC1Cf5D871c265ABD7C8",
+      "symbol": "AIPROTOCOL",
+      "name": "AiProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19741,
-    "minor": 19741,
+    "major": 19742,
+    "minor": 19742,
     "patch": 86
   }
 }
