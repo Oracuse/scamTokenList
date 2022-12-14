@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe997D551F4a9E4EA7915c553A849dA78BA3660B7",
-      "symbol": "BTB",
-      "name": "BringTrumpBack",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3012cd7a565b34dae38A22187405FCf41F121e86",
       "symbol": "SMOKE",
       "name": "420Token",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x280B5C5531d31f937a9334213329aF100d7010d1",
+      "symbol": "KOMA",
+      "name": "KomaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19756,
-    "minor": 19756,
+    "major": 19757,
+    "minor": 19757,
     "patch": 86
   }
 }
