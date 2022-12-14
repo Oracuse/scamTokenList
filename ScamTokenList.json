@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD120B2dc63D4E8BaaA9441d10a4820d09364D71f",
-      "symbol": "ZKONG",
-      "name": "ZombieKong",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD179003c9b2e4dA578015fBB6e405463d54B755b",
       "symbol": "POS",
       "name": "ProofofSatoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77EcF19d5cc333E73977877a02bcBE1eAeA7b8a1",
+      "symbol": "SHENGWEIHU",
+      "name": "ShengweihuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19685,
-    "minor": 19685,
+    "major": 19686,
+    "minor": 19686,
     "patch": 86
   }
 }
