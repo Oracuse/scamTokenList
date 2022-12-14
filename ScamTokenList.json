@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9fE14543a42dd8D07C53359A493f7E4ad71E6e96",
-      "symbol": "LTI",
-      "name": "LottoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x340c4e6621CC7B9CE9d4Bb5A0d2ADd795198CAF6",
       "symbol": "LOTTO",
       "name": "LottoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69833b9e14edc116C6e8B036365b68f3E95174d6",
+      "symbol": "APEBOT",
+      "name": "DEXApeBot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19754,
-    "minor": 19754,
+    "major": 19755,
+    "minor": 19755,
     "patch": 86
   }
 }
