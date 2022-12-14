@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0C005988cdf79A294ade6f18278F03d32E0dB066",
-      "symbol": "MINIINU",
-      "name": "MiniInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCF74457C2cCE74344515EaE291EbE039b69960Fc",
       "symbol": "CSHIB",
       "name": "CoolShibaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD7d1c962A92DE1FE60d740e055C413031182c13a",
+      "symbol": "EXPLOIT",
+      "name": "EXPLOITINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19752,
-    "minor": 19752,
+    "major": 19753,
+    "minor": 19753,
     "patch": 86
   }
 }
