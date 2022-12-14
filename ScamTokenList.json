@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2e8C72A2C0Df62cc2dC6c2CCB7F04502C45DD472",
-      "symbol": "TALOS",
-      "name": "TALOS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6ecd39A82783F19F5F76194B2156a7946b793a55",
       "symbol": "REINCARNATE",
       "name": "REINCARNATE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA92800081B7C0598a631465066966466d5f87a16",
+      "symbol": "FTX20",
+      "name": "FTX20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19767,
-    "minor": 19767,
+    "major": 19768,
+    "minor": 19768,
     "patch": 86
   }
 }
