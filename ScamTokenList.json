@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaE66d3B78045Ed7524Ce10437618626B23D7afA3",
-      "symbol": "DPR",
-      "name": "DegenProtectorate",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb91B1B71C09aa0e05370bbd0B3F942c434d003D6",
       "symbol": "POP",
       "name": "ProofOfPumping",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7f8cE14CfeD41d8B098ca31449D487774BBC235",
+      "symbol": "DN",
+      "name": "DefiNewsAgency",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19701,
-    "minor": 19701,
+    "major": 19702,
+    "minor": 19702,
     "patch": 86
   }
 }
