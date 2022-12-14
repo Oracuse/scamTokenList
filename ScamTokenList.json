@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA867D7663b27B939DE31BBA1b3bD77d5E92Be9D4",
-      "symbol": "DOGEX",
-      "name": "XENDOGE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7c1Cce32AcE21440114B313F4AD77E3F88C9D2e7",
       "symbol": "L",
       "name": "LiShizhen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCd70BC2EaDB23e4d48df4D7Fdb08f20D9ece044d",
+      "symbol": "DROKI",
+      "name": "DrokiETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19739,
-    "minor": 19739,
+    "major": 19740,
+    "minor": 19740,
     "patch": 86
   }
 }
