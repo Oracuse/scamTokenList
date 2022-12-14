@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5e141FAD813A52CB5838b9fb7176537e4Ab36239",
-      "symbol": "ETHKING",
-      "name": "EthereumKing",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8c805Ee1e0388782D9259D5a038d349732f21B18",
       "symbol": "XEN20",
       "name": "XENCrypto20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0D83b0B8F38784a4c72E39f2ebb24ABc892f277B",
+      "symbol": "SILK",
+      "name": "SILK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19714,
-    "minor": 19714,
+    "major": 19715,
+    "minor": 19715,
     "patch": 86
   }
 }
