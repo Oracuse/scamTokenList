@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4859f1D2AbF7759EfDa69198ebd53a32Eb26aF5f",
-      "symbol": "KARU",
-      "name": "HIKARU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8721527AacDAd2585230cFC4448e40ae3e25D94A",
       "symbol": "PROTECTOROFKAGUYA",
       "name": "ProtectorofKaguya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9b6e516D0332Fd4d56cD921121F98D5Ca3f32cC",
+      "symbol": "SAND",
+      "name": "Sunagakure",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19679,
-    "minor": 19679,
+    "major": 19680,
+    "minor": 19680,
     "patch": 86
   }
 }
