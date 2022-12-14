@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc3CaB0d0918c39E29088c495a077EcD022758798",
-      "symbol": "KMASK",
-      "name": "KMask",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA5c9e67b7213d69f3501deb917B209Cb180FBc59",
       "symbol": "ET",
       "name": "et",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA4b19Aac4eF0C3e32a8b4c635B21b18cb4673fb6",
+      "symbol": "TICKER",
+      "name": "NAME",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19800,
-    "minor": 19800,
+    "major": 19801,
+    "minor": 19801,
     "patch": 86
   }
 }
