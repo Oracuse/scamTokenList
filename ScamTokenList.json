@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22c0fE29a1D705de5AeA2d6Cd24499461b55a922",
-      "symbol": "ORIGIN20",
-      "name": "ProofOfOrigin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0B034063c12b7289111dB7cAdf53AD483c4FF823",
       "symbol": "DNADAO",
       "name": "DnaCoinDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d34e646576A8baFfCe320a352553166c2098F10",
+      "symbol": "LEROUX",
+      "name": "ProofOfCreator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19675,
-    "minor": 19675,
+    "major": 19676,
+    "minor": 19676,
     "patch": 86
   }
 }
