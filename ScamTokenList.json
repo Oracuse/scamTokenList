@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x728cE3CcE0Ae2bFE942d04d222f18FE96c03d98f",
-      "symbol": "BITFARM",
-      "name": "BitFarm",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08077aacb217ee14A52EAD86f802641d464cb3C3",
       "symbol": "APHANTOMSDREAM",
       "name": "ProofofGhosts",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3C4C2E758F0C698E5dd4CAA0ae267eab2F8813C",
+      "symbol": "UNWPD",
+      "name": "Unwrapped",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19769,
-    "minor": 19769,
+    "major": 19770,
+    "minor": 19770,
     "patch": 86
   }
 }
