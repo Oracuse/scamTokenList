@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6DaA4B05411730B08B7eB964d8149A273c603C39",
-      "symbol": "ZEBRA",
-      "name": "ZebraInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1a45649dbc36B8a208926674D84c7578f0E37B8",
       "symbol": "UKIYO",
       "name": "UkiyoDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10A2fAE3975F42808B28175272474a099f264cE2",
+      "symbol": "DOGEHERO",
+      "name": "DogeHeroes",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19687,
-    "minor": 19687,
+    "major": 19688,
+    "minor": 19688,
     "patch": 86
   }
 }
