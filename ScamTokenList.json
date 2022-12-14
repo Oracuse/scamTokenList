@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCF74457C2cCE74344515EaE291EbE039b69960Fc",
-      "symbol": "CSHIB",
-      "name": "CoolShibaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9fE14543a42dd8D07C53359A493f7E4ad71E6e96",
       "symbol": "LTI",
       "name": "LottoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2bB2803f1A9B208CFB20E2BfB5E6ea9d079F5CE4",
+      "symbol": "SUBA",
+      "name": "SUBARASHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19753,
-    "minor": 19753,
+    "major": 19754,
+    "minor": 19754,
     "patch": 86
   }
 }
