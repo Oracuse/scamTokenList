@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x82B13F268C16bc9DeF609b05ad49eC12cF92438c",
-      "symbol": "500BC",
-      "name": "Only500",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x02E96148BA6Bd87d09Be088487B0b643d1270290",
       "symbol": "TENOME",
       "name": "TheTenome",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b10532a8E7FE275c99cfc8f8B3f67745c798A14",
+      "symbol": "SNAIL",
+      "name": "SnailCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19735,
-    "minor": 19735,
+    "major": 19736,
+    "minor": 19736,
     "patch": 86
   }
 }
