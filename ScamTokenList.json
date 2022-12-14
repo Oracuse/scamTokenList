@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e63befD5d1E1b95ED19e86eA136B2b968F71d65",
-      "symbol": "KH101",
-      "name": "Kyiv",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd2033a7D9A1F0Ea98C5dbc658Ba92A2d049F2c3d",
       "symbol": "KIKU",
       "name": "ichimonji",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d5995248fdF34bF57E0AF0fF473Aa5e4A73258E",
+      "symbol": "JAIL",
+      "name": "SBFARRESTED",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19782,
-    "minor": 19782,
+    "major": 19783,
+    "minor": 19783,
     "patch": 86
   }
 }
