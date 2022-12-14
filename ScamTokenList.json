@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53028e7f4c53eA34c15CD424600AB392b67ed22F",
-      "symbol": "POSDC",
-      "name": "ProofofStables",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04c92d4Ff54e51536b08FC544e388dcD366FA532",
       "symbol": "KYODAI",
       "name": "KYO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5486d306C7dc0146aB5CbC17a86967B563DC68A8",
+      "symbol": "CATEDRAL",
+      "name": "LaCatedral",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19731,
-    "minor": 19731,
+    "major": 19732,
+    "minor": 19732,
     "patch": 86
   }
 }
