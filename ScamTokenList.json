@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8767E2947ef54f65cDFdB88C7f7786770782AF6D",
-      "symbol": "SHUCK",
-      "name": "BlackShuck",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC10091e76f78023628fA4Ea44AA7DDD174685755",
       "symbol": "IZANAGI",
       "name": "IzanaginoMikoto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC5Ff69E620329Ca0cdA3E5D634EBf7e9c2B177e1",
+      "symbol": "SHINKANSEN",
+      "name": "Shinkansen",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19787,
-    "minor": 19787,
+    "major": 19788,
+    "minor": 19788,
     "patch": 86
   }
 }
