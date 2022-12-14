@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf5E729312Bc9c490dbD1304DC78Aa3450c1d544E",
-      "symbol": "XEN",
-      "name": "Xen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7b86b3f3eD0B5eafa6d847d1Ce028D94D17D03d4",
       "symbol": "XENSHIB",
       "name": "XENSHIBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x619EBE7f47D9418f9c2536afAF61CB12708C1DC2",
+      "symbol": "SILK",
+      "name": "SPIDERSILK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19712,
-    "minor": 19712,
+    "major": 19713,
+    "minor": 19713,
     "patch": 86
   }
 }
