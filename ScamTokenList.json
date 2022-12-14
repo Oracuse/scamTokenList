@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc5A3d81f151eC550750D58D12cDDDA07F66D5681",
-      "symbol": "ACHERNAR",
-      "name": "ACHERNAR",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x764D682be0e0Ef06268678bb20C524841C73A573",
       "symbol": "TGOLDS",
       "name": "TehGoldenTsuka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA29005798187a4793534f2d4d1B82fdc504C7C20",
+      "symbol": "CELLS",
+      "name": "DeadCells",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19758,
-    "minor": 19758,
+    "major": 19759,
+    "minor": 19759,
     "patch": 86
   }
 }
