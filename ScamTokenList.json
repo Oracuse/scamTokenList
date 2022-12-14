@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd3a909699B686DDf8cbF79B4c42A6ccD46330a1d",
-      "symbol": "CYNTAX",
-      "name": "CyntaxWallet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0814DcA5170Be9D1e9C2D5756f2995054D5D7F16",
       "symbol": "BITFARM",
       "name": "BitFarmUniverse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaE8054705eeEb8346f253F702935c409C0A371f2",
+      "symbol": "KUJI",
+      "name": "KujiraNoTamashi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19775,
-    "minor": 19775,
+    "major": 19776,
+    "minor": 19776,
     "patch": 86
   }
 }
