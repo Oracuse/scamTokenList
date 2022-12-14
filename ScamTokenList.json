@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5030d661C43122a2B52afE4BEa223078c2e7B88B",
-      "symbol": "DMEME",
-      "name": "MEMEDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1afbd13a55142f632b8a88227D9B8d74aF1853a3",
       "symbol": "BEP20",
       "name": "ProofofDecentraliza",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb827c4033cd6b1426f11322c6D939716a5550614",
+      "symbol": "TWAI",
+      "name": "TrackWalletAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19748,
-    "minor": 19748,
+    "major": 19749,
+    "minor": 19749,
     "patch": 86
   }
 }
