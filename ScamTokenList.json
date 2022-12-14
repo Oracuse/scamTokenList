@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x579aA9419741eb4842A4Bc2439176A34260A259f",
-      "symbol": "COBRASHI",
-      "name": "CobrashiToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0C005988cdf79A294ade6f18278F03d32E0dB066",
       "symbol": "MINIINU",
       "name": "MiniInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3cab61e5e6dF1103128D6C485c0D0442d5353673",
+      "symbol": "FORUM",
+      "name": "TheCryptoForum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19751,
-    "minor": 19751,
+    "major": 19752,
+    "minor": 19752,
     "patch": 86
   }
 }
