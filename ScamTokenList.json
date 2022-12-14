@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF81af66994Fba6A736D03C74E9c4bC9C40Ddf0C5",
-      "symbol": "CAISH",
-      "name": "Caishen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf3fAA99b36763765A48673a4ff95eDfA6132944d",
       "symbol": "XENOGE",
       "name": "XenDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x123b634702fd6794867B15c0EC4025cd83aDe740",
+      "symbol": "ZMI",
+      "name": "ZackMorrisInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19779,
-    "minor": 19779,
+    "major": 19780,
+    "minor": 19780,
     "patch": 86
   }
 }
