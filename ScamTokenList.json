@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x781b758197d4089F7d784745e81eA224a17748EF",
-      "symbol": "YE",
-      "name": "KanyeWestCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6a213D33360AC039e406dF88A7Ec893B9A4CC3C0",
       "symbol": "BINGO",
       "name": "BingoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C14e302bA103106f01c708a77CEbDA142f79512",
+      "symbol": "MOON",
+      "name": "MoonProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19762,
-    "minor": 19762,
+    "major": 19763,
+    "minor": 19763,
     "patch": 86
   }
 }
