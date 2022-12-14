@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4Db5f41241bEF21884Bf7F865d3fb823715781C9",
-      "symbol": "FREE",
-      "name": "FREEDOM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB9730Fa3bCc9656C255B1001e218fc8f115Fc6D0",
       "symbol": "POD",
       "name": "ProofOfDejavu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdF499d91717B514F41909eCB0d3380D18a306856",
+      "symbol": "WAI",
+      "name": "WrappedAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19677,
-    "minor": 19677,
+    "major": 19678,
+    "minor": 19678,
     "patch": 86
   }
 }
