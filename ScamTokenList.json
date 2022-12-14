@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2E7bD538C342c787617e87960dA9fdfd384c02F1",
-      "symbol": "POG",
-      "name": "ProofOfGem",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4da1ec86DD5f6DEe37e2110D6F91fa78D56Ea836",
       "symbol": "PETH",
       "name": "PETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1CCc810EbB6fc60F4D89a66324C9F180B0Cd2913",
+      "symbol": "M",
+      "name": "MProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19691,
-    "minor": 19691,
+    "major": 19692,
+    "minor": 19692,
     "patch": 86
   }
 }
