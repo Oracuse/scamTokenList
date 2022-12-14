@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a4aC1Baebe4796027C797dB4cEA5E89679bB24B",
-      "symbol": "POD",
-      "name": "ProtectorofDEFI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x37D63f8ca743C44372DA02702976794F7494d1F1",
       "symbol": "GETH",
       "name": "GIGAETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3B045458235C419a785156f68A72Daa0181cf44",
+      "symbol": "404",
+      "name": "Error",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19697,
-    "minor": 19697,
+    "major": 19698,
+    "minor": 19698,
     "patch": 86
   }
 }
