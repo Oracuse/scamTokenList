@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf950b34c116AcF1bb9E395677FEbD9f9cDfD7Ba3",
-      "symbol": "CYBORG",
-      "name": "Zone1",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1f9518D1e48BAc4Ba6DCdacA667F6b960633359",
       "symbol": "GM20",
       "name": "GMWagmi20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A93B5715dbE17522821B2d7d653E372817F2fd3",
+      "symbol": "BBP",
+      "name": "BigBangProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19760,
-    "minor": 19760,
+    "major": 19761,
+    "minor": 19761,
     "patch": 86
   }
 }
