@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4299c2a17d776F7fD2c0bAf0025A135ED30cf15C",
-      "symbol": "SALCAT",
-      "name": "SaladCat",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Bf4Ae5463F4325DbCA9F231938DA13e24eBff53",
       "symbol": "XEN",
       "name": "XENCrypto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAC405807dA6f10A0Ba1660A8cf141D33980209dB",
+      "symbol": "YUME",
+      "name": "YumeinaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19728,
-    "minor": 19728,
+    "major": 19729,
+    "minor": 19729,
     "patch": 86
   }
 }
