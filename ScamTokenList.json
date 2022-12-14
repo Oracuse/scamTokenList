@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x850FB2F58556C6433e056A61A58Ba452197d6420",
-      "symbol": "XDOGE",
-      "name": "XENDOGE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1013FAB5DEde0a5fe11c469148D92626AF40b451",
       "symbol": "FROGE",
       "name": "FrankenDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04Ec7A7F1CAA41bE026b598D4dde30231a30c5Ac",
+      "symbol": "NORIX",
+      "name": "NorixToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19746,
-    "minor": 19746,
+    "major": 19747,
+    "minor": 19747,
     "patch": 86
   }
 }
