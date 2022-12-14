@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7c1Cce32AcE21440114B313F4AD77E3F88C9D2e7",
-      "symbol": "L",
-      "name": "LiShizhen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x23D269a4587f068B14E06a006238236CEb6463eD",
       "symbol": "BITFARM",
       "name": "BitFarmUniverse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F531dA586822E0B6bD385944a4957F95c72F105",
+      "symbol": "WCD",
+      "name": "WrappedCreepyDough",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19740,
-    "minor": 19740,
+    "major": 19741,
+    "minor": 19741,
     "patch": 86
   }
 }
