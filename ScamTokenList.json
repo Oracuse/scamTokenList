@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0e90b59e6b1f28d89a647F3224e24Af44e824BAF",
-      "symbol": "USHIONI",
-      "name": "UshiOni",
-      "decimals": 4,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdaC2Ae92cFd3f32a557F7974BCe63734912128da",
       "symbol": "BELLY",
       "name": "PigBelly",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2109C3054227649e98160dc2e393b3BD44834A9D",
+      "symbol": "LOADING",
+      "name": "Loading",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19726,
-    "minor": 19726,
+    "major": 19727,
+    "minor": 19727,
     "patch": 86
   }
 }
