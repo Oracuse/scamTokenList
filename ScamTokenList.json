@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf4713e61501589D99844691F3d5154BaE6A5b95c",
-      "symbol": "SIGMA",
-      "name": "SigmaProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB849928A2Fb364B40FA454aCC62fc7D10e1fB1CF",
       "symbol": "BITFARM",
       "name": "BitFarmUniverse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4aa7F4a26fD3d228e4532cCE86E65c160039Fff4",
+      "symbol": "SHIRO",
+      "name": "ShiroInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19795,
-    "minor": 19795,
+    "major": 19796,
+    "minor": 19796,
     "patch": 86
   }
 }
