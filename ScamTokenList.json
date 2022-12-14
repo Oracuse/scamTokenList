@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3012cd7a565b34dae38A22187405FCf41F121e86",
-      "symbol": "SMOKE",
-      "name": "420Token",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc5A3d81f151eC550750D58D12cDDDA07F66D5681",
       "symbol": "ACHERNAR",
       "name": "ACHERNAR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E389F6149Cc26F297908D29c18568cbC56195ba",
+      "symbol": "SILK",
+      "name": "SILK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19757,
-    "minor": 19757,
+    "major": 19758,
+    "minor": 19758,
     "patch": 86
   }
 }
