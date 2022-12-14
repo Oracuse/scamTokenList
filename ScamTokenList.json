@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4da1ec86DD5f6DEe37e2110D6F91fa78D56Ea836",
-      "symbol": "PETH",
-      "name": "PETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5F4B66Adf601A7e4BAf07E622f06b8F39d23AB74",
       "symbol": "POM",
       "name": "ProofOfMoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x961401B0bC0cafE2cEd0f147BB604119BAd6962b",
+      "symbol": "SHIZEN",
+      "name": "SHIZEN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19692,
-    "minor": 19692,
+    "major": 19693,
+    "minor": 19693,
     "patch": 86
   }
 }
