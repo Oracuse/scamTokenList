@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9bc2686D168Adde5c999A0b505356358DB365f2D",
-      "symbol": "DMEME",
-      "name": "MEMEDAO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x850FB2F58556C6433e056A61A58Ba452197d6420",
       "symbol": "XDOGE",
       "name": "XENDOGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF09Be999c002DB5c85C4c1c274C2Dc8D4e08CAd8",
+      "symbol": "DEXFY",
+      "name": "DEXIFY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19745,
-    "minor": 19745,
+    "major": 19746,
+    "minor": 19746,
     "patch": 86
   }
 }
