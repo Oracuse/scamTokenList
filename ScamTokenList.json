@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x55A4294a2D16BE8C91287230AE8B23BdCc85c24a",
-      "symbol": "MEME20",
-      "name": "ProofofFortune",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x171244672D917e08ed08f23f365dF0bb8B5B0c58",
       "symbol": "SAGA",
       "name": "ApeSaga",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f53F959B99a1d681E439BaE11f7c8da947E9796",
+      "symbol": "CYBERPUNK",
+      "name": "Cyberpunk",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19699,
-    "minor": 19699,
+    "major": 19700,
+    "minor": 19700,
     "patch": 86
   }
 }
