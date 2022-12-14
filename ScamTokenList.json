@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x85f0a3E540628cfC8C48171aABc727Cd68997f06",
-      "symbol": "XAPE",
-      "name": "XENAPE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9e63befD5d1E1b95ED19e86eA136B2b968F71d65",
       "symbol": "KH101",
       "name": "Kyiv",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65BdB5782565DeD33C0Fb19F9088C80E1Ac72A24",
+      "symbol": "FOG",
+      "name": "FableofGoblin",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19781,
-    "minor": 19781,
+    "major": 19782,
+    "minor": 19782,
     "patch": 86
   }
 }
