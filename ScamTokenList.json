@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdbA39dDFA52A8Fdd074960e4e367223bdec22D45",
-      "symbol": "XEN10",
-      "name": "XEN10",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6b719B41C017e8F332211acB7c9FcFFBCf998719",
       "symbol": "X",
       "name": "XenProject",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3c02950968dB9d41c9A0056205b3B44be8380ef",
+      "symbol": "POS",
+      "name": "ProofofSanta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19737,
-    "minor": 19737,
+    "major": 19738,
+    "minor": 19738,
     "patch": 86
   }
 }
