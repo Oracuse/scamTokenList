@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1781CBc7DeFbc3BdDaE50e540FD169fcA5Cf80A9",
-      "symbol": "IZANAGI",
-      "name": "IzanaginoMikoto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8f62e3633A6B3899bB1D19487596FEb202A66AeD",
       "symbol": "XEN20",
       "name": "ProofofXen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE4B6f4FC6be891C7A23E605d592beCD69549bB9F",
+      "symbol": "CHI",
+      "name": "ChihuahuaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19805,
-    "minor": 19805,
+    "major": 19806,
+    "minor": 19806,
     "patch": 86
   }
 }
