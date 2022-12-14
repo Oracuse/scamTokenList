@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8c805Ee1e0388782D9259D5a038d349732f21B18",
-      "symbol": "XEN20",
-      "name": "XENCrypto20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9b89E43E41aCE5e9fBb8D8702f8A7B2527ccF7Eb",
       "symbol": "CATSUNE",
       "name": "Catsune",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6476d0c1180a9535134Da253Ad66Df6e2f3d74bA",
+      "symbol": "BOT",
+      "name": "WhaleDetectorBot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19715,
-    "minor": 19715,
+    "major": 19716,
+    "minor": 19716,
     "patch": 86
   }
 }
