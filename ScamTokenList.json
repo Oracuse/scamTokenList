@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x171244672D917e08ed08f23f365dF0bb8B5B0c58",
-      "symbol": "SAGA",
-      "name": "ApeSaga",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaE66d3B78045Ed7524Ce10437618626B23D7afA3",
       "symbol": "DPR",
       "name": "DegenProtectorate",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9977E7800FAdc15D5348C9411B8Ec982307448C7",
+      "symbol": "IVW",
+      "name": "InVisibleWorld",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19700,
-    "minor": 19700,
+    "major": 19701,
+    "minor": 19701,
     "patch": 86
   }
 }
