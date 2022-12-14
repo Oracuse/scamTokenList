@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8A70987d6Db36B72E3d8e72dd2dE7dECC9c24805",
-      "symbol": "XEN",
-      "name": "XENCrypto",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2A39f2c40DD1dB40459b577770a8AE906675feA6",
       "symbol": "PING",
       "name": "LarPING",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe6c29F7BB984E9B6f4E921E44a94811623f9c4B4",
+      "symbol": "FAI",
+      "name": "FadedAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19683,
-    "minor": 19683,
+    "major": 19684,
+    "minor": 19684,
     "patch": 86
   }
 }
