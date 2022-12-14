@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x471828ee06d631bfC2f43F9684D43BD9986302f4",
-      "symbol": "IZANAGI",
-      "name": "IzanaginoMikoto",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x41444cb8fd723C25D362f6F7F109B7Df0c5d5575",
       "symbol": "GUMO",
       "name": "Tsuchigumo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a9AB601A34A82F3Cd064C6b0Fa54c27C7CCFA0B",
+      "symbol": "SHIRO",
+      "name": "ShiroInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19790,
-    "minor": 19790,
+    "major": 19791,
+    "minor": 19791,
     "patch": 86
   }
 }
