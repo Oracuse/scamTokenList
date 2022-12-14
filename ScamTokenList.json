@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x298F81f5Bc906e38c97a554814370A1343b7048B",
-      "symbol": "XEN",
-      "name": "XENCrypto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe5A0F66767C1E447B36aeD7000238120780827ac",
       "symbol": "POMCHAIN",
       "name": "PoMChainToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDC9b227C4B574Ec6955216233A9EF0b0eE808B7c",
+      "symbol": "WAO",
+      "name": "WeAreOne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19704,
-    "minor": 19704,
+    "major": 19705,
+    "minor": 19705,
     "patch": 86
   }
 }
