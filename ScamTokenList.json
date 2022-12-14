@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0814DcA5170Be9D1e9C2D5756f2995054D5D7F16",
-      "symbol": "BITFARM",
-      "name": "BitFarmUniverse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x11471092d861F853686c3BAb20a63Dc7d527cdE5",
       "symbol": "POR",
       "name": "ProofOfRevert",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcA7DcE1aFEbBeC7AF059303BA00A331ab9bA786F",
+      "symbol": "FOOL",
+      "name": "FoolMeTwiceShameOnM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19776,
-    "minor": 19776,
+    "major": 19777,
+    "minor": 19777,
     "patch": 86
   }
 }
