@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x751b8bE96912D9A05310D89926feE70dde1ade9d",
-      "symbol": "TSUKABABY",
-      "name": "TsukaBaby",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf5E729312Bc9c490dbD1304DC78Aa3450c1d544E",
       "symbol": "XEN",
       "name": "Xen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD89B827aAB3F719070a6Efc8a4CE4e15268Ce20B",
+      "symbol": "Q",
+      "name": "KillBotProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19711,
-    "minor": 19711,
+    "major": 19712,
+    "minor": 19712,
     "patch": 86
   }
 }
