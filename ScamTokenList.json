@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe5A0F66767C1E447B36aeD7000238120780827ac",
-      "symbol": "POMCHAIN",
-      "name": "PoMChainToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB7f0F8FE4eddc86a1f650c024dB58b3F8CcD3076",
       "symbol": "MS",
       "name": "MemeStreet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d675681b0d484e357B891564a8E1CDBBbe7C372",
+      "symbol": "RBTC",
+      "name": "RabbitCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19705,
-    "minor": 19705,
+    "major": 19706,
+    "minor": 19706,
     "patch": 86
   }
 }
