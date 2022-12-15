@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE2f7eF3Ba3fCf569575ae060C821660044eFcfB6",
-      "symbol": "XMEMES",
-      "name": "XENMEMES",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA7b2C9DdbA83e18D16D27F51b4332af6Bf1b8bC0",
       "symbol": "TRUST",
       "name": "Trust",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Df84C4451A14A61De92f7f351ed4918494951eC",
+      "symbol": "WRB",
+      "name": "WhiteRabbit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19876,
-    "minor": 19876,
+    "major": 19877,
+    "minor": 19877,
     "patch": 86
   }
 }
