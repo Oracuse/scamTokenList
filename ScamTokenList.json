@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6f6D42BAb1A25973017e55cB1aFDB5824b6Eb46a",
-      "symbol": "MTUM",
-      "name": "Mementum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd60007Cb9B176b2aa1340352A73beC903E9f73C2",
       "symbol": "OYA",
       "name": "Oyamada",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3bE044691AD1AaD6d6eCc3A70a9Cb99B506cfc11",
+      "symbol": "HAND",
+      "name": "TheInvisibleHand",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19836,
-    "minor": 19836,
+    "major": 19837,
+    "minor": 19837,
     "patch": 86
   }
 }
