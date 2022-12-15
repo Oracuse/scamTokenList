@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x31FCCF7d55aE360a5bf9c2C262Ec6bb9a75BBF92",
-      "symbol": "FGUARD",
-      "name": "FlokiGuard",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80064A7B15bCc005c3c3eE3ce933A723aeE0E37B",
       "symbol": "KWC",
       "name": "KanyeWestCup",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8668c0645C8B2A0bed9811D88AD1B563E4cc84C",
+      "symbol": "KITMASK",
+      "name": "KitsuneMask",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19878,
-    "minor": 19878,
+    "major": 19879,
+    "minor": 19879,
     "patch": 86
   }
 }
