@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x37a62Ebb15ccBeC56E9d81f9E02B9905375A2Cf7",
-      "symbol": "CREEPER",
-      "name": "CryptKeeper",
-      "decimals": 12,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6f6D42BAb1A25973017e55cB1aFDB5824b6Eb46a",
       "symbol": "MTUM",
       "name": "Mementum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaa82DB12beA5D6252A12ba04Ecf7A5E2e0144712",
+      "symbol": "WLAPE",
+      "name": "WholeLottaAPE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19835,
-    "minor": 19835,
+    "major": 19836,
+    "minor": 19836,
     "patch": 86
   }
 }
