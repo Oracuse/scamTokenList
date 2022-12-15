@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66bcD0C22Bb15cD1bA7199C7a383DC89528f4427",
-      "symbol": "BUH",
-      "name": "BUHUND",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x37a62Ebb15ccBeC56E9d81f9E02B9905375A2Cf7",
       "symbol": "CREEPER",
       "name": "CryptKeeper",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaCE513aAb9b5173B148e514dE6fed101ea731C69",
+      "symbol": "HD",
+      "name": "HydraDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19834,
-    "minor": 19834,
+    "major": 19835,
+    "minor": 19835,
     "patch": 86
   }
 }
