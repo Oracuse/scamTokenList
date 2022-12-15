@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE4724853db88FeAD02c08EA627232FcF4dDf6e55",
-      "symbol": "MITAMA",
-      "name": "MITAMA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xec1d9632AEc21f5DBB1C65d3eCF25CC8bAF10Ad7",
       "symbol": "XENSHIB",
       "name": "XenShib",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8F7CF56B993200BaA1709d74Bd00275ebAc2e0e",
+      "symbol": "BS",
+      "name": "Bullshit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19887,
-    "minor": 19887,
+    "major": 19888,
+    "minor": 19888,
     "patch": 86
   }
 }
