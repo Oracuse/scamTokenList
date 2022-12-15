@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x900e3123F142B67BA0e0BBb202F6d86EF2a38d48",
-      "symbol": "CYNTAX",
-      "name": "CyntaxWallet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb2B408fd0EA0FF671b33DC8255e22283e9EbcBcD",
       "symbol": "PEWDIEPIE",
       "name": "PewDiePieFanToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70Dc757f4338fabe819D4aEf018FB748A69cC592",
+      "symbol": "WLN",
+      "name": "Wealthation",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19821,
-    "minor": 19821,
+    "major": 19822,
+    "minor": 19822,
     "patch": 86
   }
 }
