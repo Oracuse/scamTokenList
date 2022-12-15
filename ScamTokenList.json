@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE000Dd696cF34a3445cd7b57F1B644A731FE1903",
-      "symbol": "HORSHE",
-      "name": "SushiHorse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19F3BB1F0507b27091B81D1271d36F27f374fF4a",
       "symbol": "HORSHI",
       "name": "SushiHorse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9A16d08BaC7e8F9991289F131Bb0440821d3dB56",
+      "symbol": "KUJIRAI",
+      "name": "Kujirai",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19855,
-    "minor": 19855,
+    "major": 19856,
+    "minor": 19856,
     "patch": 86
   }
 }
