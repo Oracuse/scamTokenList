@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbB2Cde4fFCFa6066798F423026a73b29Ff0dc5Ec",
-      "symbol": "PEWDIEPIE",
-      "name": "PewDiePieFanToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6383e5bca07F4baAc4E11f78439C4d16a72d44f1",
       "symbol": "POB",
       "name": "ProofOfBuhund",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfA0d39720e335D45c9Ab47E6885196aCf4ACE311",
+      "symbol": "INJD",
+      "name": "INJDao",
+      "decimals": 12,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19883,
-    "minor": 19883,
+    "major": 19884,
+    "minor": 19884,
     "patch": 86
   }
 }
