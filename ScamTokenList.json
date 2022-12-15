@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2229E2DA4406Fbe856cA9414035Eb97D739808B2",
-      "symbol": "KICHONA",
-      "name": "Kichona",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3F288162cB625f0B92902099F3aE18d2f30Da599",
       "symbol": "FLORA",
       "name": "FLORA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE145EeDcA7149a02B2f3CF4B62A49A8FAF637C11",
+      "symbol": "CT",
+      "name": "CryptoTools",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19872,
-    "minor": 19872,
+    "major": 19873,
+    "minor": 19873,
     "patch": 86
   }
 }
