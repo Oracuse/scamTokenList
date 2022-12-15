@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5E57C528EF9126200D76620e7b843600635E74Ca",
-      "symbol": "IR",
-      "name": "SIRToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x389913C96B0F46212d5E25CdD91946d71556F777",
       "symbol": "VENUSAUR",
       "name": "Venusaur",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76b2C92b27CA3893c4D0cCBaa60194eC4653FA48",
+      "symbol": "CUNNINGHAM",
+      "name": "CunninghamsLaw",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19880,
-    "minor": 19880,
+    "major": 19881,
+    "minor": 19881,
     "patch": 86
   }
 }
