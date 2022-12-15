@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x333c3666924370999Dd3Ba3B24277095157a862c",
-      "symbol": "ROR",
-      "name": "RiseofRonin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD3e475a8Bcc87Cc8337BC1E4d7d4eC14cefCC09c",
       "symbol": "SDAO",
       "name": "SanctuaryDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9bA6CA7F2168bB0aD70a775D8b2f383748D8eAA8",
+      "symbol": "C19",
+      "name": "VirusOfTheseus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19853,
-    "minor": 19853,
+    "major": 19854,
+    "minor": 19854,
     "patch": 86
   }
 }
