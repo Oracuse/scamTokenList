@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA9aC83e06331EF8E9cDCaA5A9C826480D145c49E",
-      "symbol": "POE0",
-      "name": "ProofofEat0",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE4724853db88FeAD02c08EA627232FcF4dDf6e55",
       "symbol": "MITAMA",
       "name": "MITAMA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70545fecf85c809Ec5d2719c89dE379E474474eA",
+      "symbol": "TRUMP",
+      "name": "TrumpCards",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19886,
-    "minor": 19886,
+    "major": 19887,
+    "minor": 19887,
     "patch": 86
   }
 }
