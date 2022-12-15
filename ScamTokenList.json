@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA7b2C9DdbA83e18D16D27F51b4332af6Bf1b8bC0",
-      "symbol": "TRUST",
-      "name": "Trust",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x31FCCF7d55aE360a5bf9c2C262Ec6bb9a75BBF92",
       "symbol": "FGUARD",
       "name": "FlokiGuard",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27947F9191A28EACf2f79868A3008Bea2ce3356b",
+      "symbol": "STRUMP",
+      "name": "SuperTrump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19877,
-    "minor": 19877,
+    "major": 19878,
+    "minor": 19878,
     "patch": 86
   }
 }
