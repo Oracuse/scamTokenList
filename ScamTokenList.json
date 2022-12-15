@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaa219BE8CbB15FB66D5430CC3189EfA84bd56cf5",
-      "symbol": "GENWEB",
-      "name": "GenesisWeb",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x89EaCB4B20367DD90C5f52A628478F4ecD8EAde8",
       "symbol": "GENFLOKI",
       "name": "GenesisFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1DB223b2aB6c113922D07b3F5c3430d70d039B3",
+      "symbol": "MIDJOURNEY",
+      "name": "MidjourneyAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19867,
-    "minor": 19867,
+    "major": 19868,
+    "minor": 19868,
     "patch": 86
   }
 }
