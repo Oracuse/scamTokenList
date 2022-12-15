@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd43C68a733919658aDdb93804f1251bE7680B93b",
-      "symbol": "BITFARM",
-      "name": "BitFarmUniverse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd1be3E16E5790b955104311ED0AF5204b92967CD",
       "symbol": "POX",
       "name": "ProofofXen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8874fab41e7f1b9163B38A6AC710c2745824C58",
+      "symbol": "CANDLE",
+      "name": "GreenCandleFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19826,
-    "minor": 19826,
+    "major": 19827,
+    "minor": 19827,
     "patch": 86
   }
 }
