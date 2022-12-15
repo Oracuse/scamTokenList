@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa95861830C1ACdA4a0F78A2B39418456fF6bf89b",
-      "symbol": "BRUH",
-      "name": "bruh",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1ADf5F7aB66c50670D73F0BBFEBDFe262cf06B16",
       "symbol": "HB",
       "name": "HoichiBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9EB47723AEa434F61789A0ECAbBd8021099bA9A",
+      "symbol": "AASC",
+      "name": "AASC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19869,
-    "minor": 19869,
+    "major": 19870,
+    "minor": 19870,
     "patch": 86
   }
 }
