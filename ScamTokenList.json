@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1ADf5F7aB66c50670D73F0BBFEBDFe262cf06B16",
-      "symbol": "HB",
-      "name": "HoichiBurn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15534edf84a9EEf29084B3BFf2fA94bA1636d32A",
       "symbol": "CYNTAX",
       "name": "CyntaxWallet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2822262944B68cB8904b95B9F08A100b84734c39",
+      "symbol": "NBA",
+      "name": "NeverBrokeAgain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19870,
-    "minor": 19870,
+    "major": 19871,
+    "minor": 19871,
     "patch": 86
   }
 }
