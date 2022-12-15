@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25bee24c090edEd4EF9bAc7d0749B4c3B283845d",
-      "symbol": "YZY",
-      "name": "YeezyToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe87315E581ae8661A48bB1A7F5D11cFed0D07795",
       "symbol": "LAKEKAWAGUCHI",
       "name": "LakeKawaguchi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5bE18E9b2Fe8607DB09De7EBF74FaF5FDE8A7e3",
+      "symbol": "KUSANAGI",
+      "name": "KusanaginoTsurugi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19844,
-    "minor": 19844,
+    "major": 19845,
+    "minor": 19845,
     "patch": 86
   }
 }
