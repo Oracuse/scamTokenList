@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x80064A7B15bCc005c3c3eE3ce933A723aeE0E37B",
-      "symbol": "KWC",
-      "name": "KanyeWestCup",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5E57C528EF9126200D76620e7b843600635E74Ca",
       "symbol": "IR",
       "name": "SIRToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDdAB88B5c50aa66970b4ffa8D18D19fDf0EDFe6d",
+      "symbol": "SU",
+      "name": "ScaleUP",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19879,
-    "minor": 19879,
+    "major": 19880,
+    "minor": 19880,
     "patch": 86
   }
 }
