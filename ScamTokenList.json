@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8d3627A5Da02Ed1855FE4e63Ec140ce85978f0C4",
-      "symbol": "SNOOG",
-      "name": "SnoopDogg",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDC3d43b944dB3846B011e5D09e8215363b99EF3F",
       "symbol": "BULLETH",
       "name": "BULLETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b8E591ED680EF95eACbcEB4f510042D61D87902",
+      "symbol": "SNAKES",
+      "name": "GardenofSnakes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19839,
-    "minor": 19839,
+    "major": 19840,
+    "minor": 19840,
     "patch": 86
   }
 }
