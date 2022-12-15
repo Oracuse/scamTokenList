@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15534edf84a9EEf29084B3BFf2fA94bA1636d32A",
-      "symbol": "CYNTAX",
-      "name": "CyntaxWallet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2229E2DA4406Fbe856cA9414035Eb97D739808B2",
       "symbol": "KICHONA",
       "name": "Kichona",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1d84e6F3C03c869b951d017a852f8464174b3FF4",
+      "symbol": "HOLE",
+      "name": "BlackHole",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19871,
-    "minor": 19871,
+    "major": 19872,
+    "minor": 19872,
     "patch": 86
   }
 }
