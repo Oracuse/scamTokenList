@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd01918e670037d65FdD513c31c96CFF6C6f4b1AB",
-      "symbol": "IWAO",
-      "name": "Iwao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01d032aABc84b3b26eCc5125eA654D3cf2f976AF",
       "symbol": "GCAT",
       "name": "GhostCat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcC84C56E9819cBAb7088378c25065AFd5e977621",
+      "symbol": "OKX",
+      "name": "OKXClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19954,
-    "minor": 19954,
+    "major": 19955,
+    "minor": 19955,
     "patch": 86
   }
 }
