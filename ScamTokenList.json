@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x30deA0196be32bd8Df5D686e22D4aBDf377ae35a",
-      "symbol": "KENSAKU",
-      "name": "KensakunoTatari",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x13050f4C5012AEa15894049d70f878a2827aFd30",
       "symbol": "GSHIBA",
       "name": "GrimShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c4899B1523e5C4414142cd3dE416C4af53cEE3A",
+      "symbol": "WCM",
+      "name": "WorldCupMeme",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19986,
-    "minor": 19986,
+    "major": 19987,
+    "minor": 19987,
     "patch": 86
   }
 }
