@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x016B767871A6B95DdEf681C15354792caF01d9fa",
-      "symbol": "XENF",
-      "name": "XenFlow",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF140053c8527F72a116674ddd90B0000b9a40e78",
       "symbol": "LAPAN",
       "name": "LAPAN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7ECE4f4280f09396C4502ADc9aeF2c8765824C71",
+      "symbol": "MURASAKI",
+      "name": "MURASAKI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19910,
-    "minor": 19910,
+    "major": 19911,
+    "minor": 19911,
     "patch": 86
   }
 }
