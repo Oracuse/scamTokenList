@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x828971D62b6FF1Cb8523749062f097fE6050E074",
-      "symbol": "BUH20",
-      "name": "BUHUND",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x96C94FC5e8276746a0D0bC21B77a87C6ED44B524",
       "symbol": "BLX",
       "name": "Bolix",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89934c7b5e7E60d39A91131B65c14a951F43E399",
+      "symbol": "OSUUSHI",
+      "name": "TsuyokinoKisetsu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20027,
-    "minor": 20027,
+    "major": 20028,
+    "minor": 20028,
     "patch": 86
   }
 }
