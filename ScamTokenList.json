@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x541049e711dB463D79592DEB2b816882103930Ab",
-      "symbol": "TEST",
-      "name": "TEST",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB1c1418d311dfe45ecfcDBDDB06c7Aa6DBe206E0",
       "symbol": "ACHERON",
       "name": "AcheronGene",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f6E4e149f3D0766Ec5f6452E39f1DabDB74E92c",
+      "symbol": "ETOPIA",
+      "name": "EthereumUtopia",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19982,
-    "minor": 19982,
+    "major": 19983,
+    "minor": 19983,
     "patch": 86
   }
 }
