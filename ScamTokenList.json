@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc37668d96Fb2cB8435278ddA4fD9fE53C07e03D0",
-      "symbol": "PLSBUY",
-      "name": "PleaseBuyINeedMoney",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0CccbbA6E6D081Eb64c3883206108da2A8Ec304B",
       "symbol": "POD",
       "name": "ProofofDeFi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0627d4565Dd1e79DD0382793b380890a1590fad6",
+      "symbol": "FIFA20",
+      "name": "FIFAWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20014,
-    "minor": 20014,
+    "major": 20015,
+    "minor": 20015,
     "patch": 86
   }
 }
