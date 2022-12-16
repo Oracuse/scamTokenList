@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4a217C26297B4C8D7d5955d90ff290486278C573",
-      "symbol": "INUCEPTION",
-      "name": "Inuception",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5dD6B16aa39d7D4286E2d33fa35f1C8F1cDe8138",
       "symbol": "BABYLEASH",
       "name": "BLSH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFA0D08aA90DBEd6903D3cFe5F071707F2F535C89",
+      "symbol": "TIER",
+      "name": "TheTier",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19988,
-    "minor": 19988,
+    "major": 19989,
+    "minor": 19989,
     "patch": 86
   }
 }
