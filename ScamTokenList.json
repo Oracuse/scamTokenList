@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x085f0b69B85a1B47EbCeb7Ee0FE9b556c92020f1",
-      "symbol": "FORTUNA",
-      "name": "Fortuna",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6a8d87284D80e25E354128b148A962425d105ea9",
       "symbol": "SDS",
       "name": "SevenDeadlySins",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xafF787AF822e391f2BCBAc2348Fda3f711DAe91F",
+      "symbol": "CCGDS",
+      "name": "CCGDS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19895,
-    "minor": 19895,
+    "major": 19896,
+    "minor": 19896,
     "patch": 86
   }
 }
