@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x211e89380679783A662A6A0875DC8a7334d037DF",
-      "symbol": "TEST",
-      "name": "TEST",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb7aC44272f9B71713fEe11e4934609194CDB20aC",
       "symbol": "ROSE",
       "name": "EverRose",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6Bef286E102F2C5342acb48a5b61370Da4793072",
+      "symbol": "DIGO",
+      "name": "CoinDigo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19972,
-    "minor": 19972,
+    "major": 19973,
+    "minor": 19973,
     "patch": 86
   }
 }
