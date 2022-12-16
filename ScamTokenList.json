@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5259f0FE09F4D0002A46C8468a85AbbdEAA46Df2",
-      "symbol": "MAPES",
-      "name": "MOONAPES",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x53c69BB221BFF88e21AEd2CBFa41EEbF16bb9412",
       "symbol": "POC",
       "name": "ProofofCapitalism",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d5B55d18d22D26d1E87e9cA34101f07D48E71c2",
+      "symbol": "0X00000",
+      "name": "0x000000000000",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19929,
-    "minor": 19929,
+    "major": 19930,
+    "minor": 19930,
     "patch": 86
   }
 }
