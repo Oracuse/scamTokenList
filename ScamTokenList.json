@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x90734a326CA0BeDF057CD7FDA3BbA66230A0bcAb",
-      "symbol": "BABYSER",
-      "name": "BabySer",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0A1EdcB87411F6470C243a3d0eED9645772b637",
       "symbol": "CHENSO",
       "name": "ChainsawMan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d125433AC3353c421c7EaB9149aB09b51520ae8",
+      "symbol": "TSUKU",
+      "name": "Tsukumogami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20006,
-    "minor": 20006,
+    "major": 20007,
+    "minor": 20007,
     "patch": 86
   }
 }
