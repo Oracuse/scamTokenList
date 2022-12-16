@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x21a07a4Fb4f1b8b46B83dbdFe8acC0907476ffdD",
-      "symbol": "LZK",
-      "name": "Lazarkosis",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD055dfAA305EdD18fb7AD0820329D3d7cAA1b000",
       "symbol": "HANUMAN",
       "name": "TariKecak",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7A57e732cD5F6AA0966Fb67696b1F0190B2823b9",
+      "symbol": "VEGMEAL",
+      "name": "VeganMeal",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19980,
-    "minor": 19980,
+    "major": 19981,
+    "minor": 19981,
     "patch": 86
   }
 }
