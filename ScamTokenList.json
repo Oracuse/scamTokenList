@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x219A7c6681eF81C2779940E97771aDC40a400F3A",
-      "symbol": "WASH",
-      "name": "WashEthereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7d0A160844AD537e515C3530569b4b7f2cF7D4Be",
       "symbol": "BBXEN",
       "name": "BABYXEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe1C0a5d0f6fAffE0c2A6e4F8A21bF0bA27443Efb",
+      "symbol": "GSWAP",
+      "name": "GrinchSwap",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19902,
-    "minor": 19902,
+    "major": 19903,
+    "minor": 19903,
     "patch": 86
   }
 }
