@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x220Eb50970bAc7B5F9b24f62621C198d0F734634",
-      "symbol": "DOGI",
-      "name": "ProofOfINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x30deA0196be32bd8Df5D686e22D4aBDf377ae35a",
       "symbol": "KENSAKU",
       "name": "KensakunoTatari",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6760CA254EB8D0a1c4C801821BabeA2b44247bcD",
+      "symbol": "NOTHING",
+      "name": "ItsNothing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19985,
-    "minor": 19985,
+    "major": 19986,
+    "minor": 19986,
     "patch": 86
   }
 }
