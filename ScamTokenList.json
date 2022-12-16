@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE8EBA7CCddC4c557d41f48B2Da616F326aD6ceC7",
-      "symbol": "POE",
-      "name": "ProofOfElon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5E7bEABb88B2A1E2D17652037a6731f4354dc592",
       "symbol": "LADDER",
       "name": "TheAwakening",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x129A23a949922c50e09A8D9158472AdC9fEC816a",
+      "symbol": "FIVE",
+      "name": "FiveFortunes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19899,
-    "minor": 19899,
+    "major": 19900,
+    "minor": 19900,
     "patch": 86
   }
 }
