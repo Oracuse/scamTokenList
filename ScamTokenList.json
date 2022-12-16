@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB726f59133d9C95e73812Da7f567F2D608363816",
-      "symbol": "KAIDA",
-      "name": "DejitaruKaida",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF8D8CecC11a7E07d0955Cf469376841CE704a2F7",
       "symbol": "SHIPPO",
       "name": "Shippo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6efCfd8523799fcDBa47C8B028C64ec6131121Ca",
+      "symbol": "KINK",
+      "name": "KinkyDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20030,
-    "minor": 20030,
+    "major": 20031,
+    "minor": 20031,
     "patch": 86
   }
 }
