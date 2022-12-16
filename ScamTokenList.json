@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2240bf253F31D44E74AcFaECB0aB5119c0F6AB3a",
-      "symbol": "KYD",
-      "name": "KanyeDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE8EBA7CCddC4c557d41f48B2Da616F326aD6ceC7",
       "symbol": "POE",
       "name": "ProofOfElon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8A330b178Add9aCf4415A08580884FD940679A6",
+      "symbol": "TTCG",
+      "name": "TrumpsTradingCardGa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19898,
-    "minor": 19898,
+    "major": 19899,
+    "minor": 19899,
     "patch": 86
   }
 }
