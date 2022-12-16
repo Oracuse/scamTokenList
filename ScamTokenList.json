@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB7E9B27C2B316fc6d073AdF9A31af10C0dC6064d",
-      "symbol": "KAIDA",
-      "name": "DejitaruKaida",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3BC4E151775a7b0E89dA2946FF04a10457Cb82eB",
       "symbol": "XENOMORPH",
       "name": "XENOMORPH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb3c7922CeFE8008d85424eEe3e0F9C3aCa177800",
+      "symbol": "CULL",
+      "name": "TheCulling",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19891,
-    "minor": 19891,
+    "major": 19892,
+    "minor": 19892,
     "patch": 86
   }
 }
