@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1F3a846f067DF5d10Ebd164a54E5CD87a1C16b66",
-      "symbol": "FND",
-      "name": "Foundation",
-      "decimals": 7,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x655D31158911509B0E3f3ADE42b2868e644229B5",
       "symbol": "SERUM",
       "name": "TheFinalTruth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa58100e7CD055A6D2D0fC87a4F2b5D3acF24b2e8",
+      "symbol": "HOO",
+      "name": "HOUOU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19998,
-    "minor": 19998,
+    "major": 19999,
+    "minor": 19999,
     "patch": 86
   }
 }
