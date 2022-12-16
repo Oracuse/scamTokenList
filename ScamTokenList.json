@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb2a9916608Bd2c4138B9892984237929e58d29E0",
-      "symbol": "CHAINYBLOK",
-      "name": "TheChainyBlock",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x220Eb50970bAc7B5F9b24f62621C198d0F734634",
       "symbol": "DOGI",
       "name": "ProofOfINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27DF07F01441C3BeEca1BF5FD21aA00cba7D57C0",
+      "symbol": "CATE",
+      "name": "Catereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19984,
-    "minor": 19984,
+    "major": 19985,
+    "minor": 19985,
     "patch": 86
   }
 }
