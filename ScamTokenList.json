@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7d0A160844AD537e515C3530569b4b7f2cF7D4Be",
-      "symbol": "BBXEN",
-      "name": "BABYXEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42d87e63646bc11Eaf8DC5004669D11758B9FF1e",
       "symbol": "WHALE",
       "name": "WhaleEth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9764Fc265c40D3F37294b04250Ea468f32453d41",
+      "symbol": "TAKAMAGAHARA",
+      "name": "TAKAMAGAHARA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19903,
-    "minor": 19903,
+    "major": 19904,
+    "minor": 19904,
     "patch": 86
   }
 }
