@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x96C94FC5e8276746a0D0bC21B77a87C6ED44B524",
-      "symbol": "BLX",
-      "name": "Bolix",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1cfc9db77808cA11ef87dB9389E561c38B540Bba",
       "symbol": "OS",
       "name": "OnlyStables",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD8B157137fe93c38432961D3d84b2257A05cD164",
+      "symbol": "APA",
+      "name": "Apache",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20028,
-    "minor": 20028,
+    "major": 20029,
+    "minor": 20029,
     "patch": 86
   }
 }
