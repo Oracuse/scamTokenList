@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87d4983698F2B148A0a0D8aB6f9db8f8e79f4726",
-      "symbol": "ODON",
-      "name": "Odon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x712b011b6b1a684Fdb688C8483492E1c46Bc0712",
       "symbol": "BABYJOJO",
       "name": "BOJO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBFeC05f3e03099bB40837a1F1ccc711D83B570F9",
+      "symbol": "FEE",
+      "name": "FeedINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19925,
-    "minor": 19925,
+    "major": 19926,
+    "minor": 19926,
     "patch": 86
   }
 }
