@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7F934FA4a815E3A3e5F5207BCee1478e838a5F73",
-      "symbol": "QWA",
-      "name": "Qwaser",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEeA10FA33Ff2d32C37e7Ea0727Ff384Fdba924A2",
       "symbol": "ALBA",
       "name": "Alba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcab0d379a96e35F8Da7204621f7Df310edB570ac",
+      "symbol": "MATIC20",
+      "name": "MATIC20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19905,
-    "minor": 19905,
+    "major": 19906,
+    "minor": 19906,
     "patch": 86
   }
 }
