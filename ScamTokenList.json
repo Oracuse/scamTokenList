@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD6EB72A4B73ffDDd8A06384E6EE13A7FBC1c2975",
-      "symbol": "NWO",
-      "name": "NewEra",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF8Bf5Dc950C618BCeAb0BC90ad191D9eeb92Bef6",
       "symbol": "JKWON",
       "name": "JAILKWON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA4940B2603C6bb6bdFd9e3b9060EE421aEa2BFD5",
+      "symbol": "BINU",
+      "name": "BullInu",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19967,
-    "minor": 19967,
+    "major": 19968,
+    "minor": 19968,
     "patch": 86
   }
 }
