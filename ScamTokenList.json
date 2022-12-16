@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF3aBafcDC8dAB847c291B2741e88c8ec1DDa503d",
-      "symbol": "HALLOWEEN",
-      "name": "HalloweenInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x054184CcBcE02e0f8b28CBa5B12F7Ab64dcA6f06",
       "symbol": "NEKO",
       "name": "ManekiNeko",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06Dc8cc801b8f71E3ea6e68a18C87A7Ba005BFb4",
+      "symbol": "BK",
+      "name": "BURNERKING",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19914,
-    "minor": 19914,
+    "major": 19915,
+    "minor": 19915,
     "patch": 86
   }
 }
