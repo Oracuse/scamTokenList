@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08FE5E20854736884FC25E8EAF5dE74B7BF4a0D3",
-      "symbol": "BSER",
-      "name": "BabySerum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0e54BCE085114137B148482215F33Ade807cF354",
       "symbol": "IBIC",
       "name": "InstaBuyInstaCry",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4a687599698692D1ebFf54B65870b3f633e83830",
+      "symbol": "DONDA",
+      "name": "DondaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20012,
-    "minor": 20012,
+    "major": 20013,
+    "minor": 20013,
     "patch": 86
   }
 }
