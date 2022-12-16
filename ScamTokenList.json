@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3DF2Cc015d8E7ddA3a0A455a852a171379E51EA5",
-      "symbol": "SFLOKI",
-      "name": "SpookyFloki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x016B767871A6B95DdEf681C15354792caF01d9fa",
       "symbol": "XENF",
       "name": "XenFlow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDD3C8b261868Df8d9b324C593acDF25e0D2A115c",
+      "symbol": "SHIBAWPROTOCOL",
+      "name": "ShibaWalletProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19909,
-    "minor": 19909,
+    "major": 19910,
+    "minor": 19910,
     "patch": 86
   }
 }
