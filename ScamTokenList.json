@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd19fBcaF53b09B1AddE96877F65eBafc4854D623",
-      "symbol": "MKRM",
-      "name": "MKRM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA2638699D22c616a4898A92ee595704af457d387",
       "symbol": "POMPAD",
       "name": "POMPAD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAcFEd9fF98CD70F846B496af37903E9F4CDc4e2A",
+      "symbol": "ARK",
+      "name": "ArkofSpace",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19934,
-    "minor": 19934,
+    "major": 19935,
+    "minor": 19935,
     "patch": 86
   }
 }
