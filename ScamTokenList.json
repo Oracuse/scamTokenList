@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x35809a1e61baAdaEF638aA2f863957DdF3A2432b",
-      "symbol": "AURI",
-      "name": "AureumIcoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x500084C775E9C5f3bCE615299D82547DCc97e81A",
       "symbol": "PROCESS",
       "name": "TheProcess",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0dA5E42FC6341FE239cB1599c29C3060c3720341",
+      "symbol": "SHIBET",
+      "name": "Shibet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19994,
-    "minor": 19994,
+    "major": 19995,
+    "minor": 19995,
     "patch": 86
   }
 }
