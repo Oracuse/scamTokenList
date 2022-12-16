@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x835cD5f31EAd84e26d237526Ae79DB732cFf70e4",
-      "symbol": "KXEN",
-      "name": "KanyeXEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3DF2Cc015d8E7ddA3a0A455a852a171379E51EA5",
       "symbol": "SFLOKI",
       "name": "SpookyFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e55DD54B0Dc0188F6994F17Ac8D8cE1E0ebFCF2",
+      "symbol": "AUDIOAI",
+      "name": "AudioAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19908,
-    "minor": 19908,
+    "major": 19909,
+    "minor": 19909,
     "patch": 86
   }
 }
