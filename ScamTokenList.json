@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd74328eA915a3c3ab5C17616F056a82E9DB33398",
-      "symbol": "KMEME",
-      "name": "MemeKiller",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x835cD5f31EAd84e26d237526Ae79DB732cFf70e4",
       "symbol": "KXEN",
       "name": "KanyeXEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1656e2f0688da7EAA75a4dE4B1aec63677E1446b",
+      "symbol": "TEST",
+      "name": "justTest",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19907,
-    "minor": 19907,
+    "major": 19908,
+    "minor": 19908,
     "patch": 86
   }
 }
