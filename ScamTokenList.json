@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4e0DDbD2a4517fc8c1A9850A07D19e94fefFc7af",
-      "symbol": "SENSEX",
-      "name": "SENSEX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90647737C4b8F6F65452Fdb17c2424c4A97dAdD5",
       "symbol": "POUNCE",
       "name": "PounceETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c126BaDb87D5998699A66F4a30c3614B3dAfDe2",
+      "symbol": "BEAR",
+      "name": "FABLEOFTHEBEAR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19939,
-    "minor": 19939,
+    "major": 19940,
+    "minor": 19940,
     "patch": 86
   }
 }
