@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36D7356921Aef3305FACCe28cD79a3B2D624dAeA",
-      "symbol": "JACK",
-      "name": "JackLevin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1110f5e8371BaBdbdC41315Eb12F2b0fc84702e4",
       "symbol": "KANG",
       "name": "Kangal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFA6f003755680350C4FF9DdE15AA8cA71685E2cC",
+      "symbol": "NYAN",
+      "name": "NyanCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20021,
-    "minor": 20021,
+    "major": 20022,
+    "minor": 20022,
     "patch": 86
   }
 }
