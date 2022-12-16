@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x86D499143225676eFc6905046425F46D92f789Cc",
-      "symbol": "TOAO",
-      "name": "TheOneAndOnly",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5FC2fC41a57F9FF132C3B7a16CB78d8D4438375E",
       "symbol": "SERP",
       "name": "SerProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFb56fFcF55C37F5cC8Ad3B77ce4B92Adf04C55F6",
+      "symbol": "MIRACLE",
+      "name": "KisekuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20010,
-    "minor": 20010,
+    "major": 20011,
+    "minor": 20011,
     "patch": 86
   }
 }
