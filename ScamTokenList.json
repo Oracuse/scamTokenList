@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x847d9EcfbbeEe30bB7cEbcA39C5e4D6c44CC9AFe",
-      "symbol": "PONZO",
-      "name": "Illusion",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x192E8A22C30B49Fa690a157D54c08Ea49Dc7cd7e",
       "symbol": "FURIMESON",
       "name": "Freemason",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF9e1983811270714C40539CDE37b1105e03e7a7E",
+      "symbol": "SOT",
+      "name": "ShadeofTrees",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19921,
-    "minor": 19921,
+    "major": 19922,
+    "minor": 19922,
     "patch": 86
   }
 }
