@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcc74b47Ba36670EE8d3042eEa8e8d470Fda6E10F",
-      "symbol": "SERUMINU",
-      "name": "SerumInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEaf135E78f42aFd930AE79b3dfAF5188a0070DDF",
       "symbol": "V",
       "name": "V",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2C2E7F0d47cE34F50bEba5dAA4acB376F65F12D",
+      "symbol": "PROP",
+      "name": "Propland",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20008,
-    "minor": 20008,
+    "major": 20009,
+    "minor": 20009,
     "patch": 86
   }
 }
