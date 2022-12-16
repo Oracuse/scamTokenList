@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF140053c8527F72a116674ddd90B0000b9a40e78",
-      "symbol": "LAPAN",
-      "name": "LAPAN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4129bdee598D365d60689D0764e9771f7eD341F1",
       "symbol": "TEH1",
       "name": "TEHONE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6A924DFa28918EB7561eF2178B804cA8c09B6009",
+      "symbol": "CHOOKY",
+      "name": "ChookyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19911,
-    "minor": 19911,
+    "major": 19912,
+    "minor": 19912,
     "patch": 86
   }
 }
