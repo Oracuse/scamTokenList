@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5E7bEABb88B2A1E2D17652037a6731f4354dc592",
-      "symbol": "LADDER",
-      "name": "TheAwakening",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2B875E3a18c538Ded5d1b356B7eAF7721eB77A75",
       "symbol": "SKUNK",
       "name": "SkunkInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61B40C2F7Ed1d9F1EF07D86Ffc10C9c9fa5060B3",
+      "symbol": "AZTEC",
+      "name": "Aztec",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19900,
-    "minor": 19900,
+    "major": 19901,
+    "minor": 19901,
     "patch": 86
   }
 }
