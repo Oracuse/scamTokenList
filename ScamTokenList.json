@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA2638699D22c616a4898A92ee595704af457d387",
-      "symbol": "POMPAD",
-      "name": "POMPAD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1020900830A3643E24b38F8cDEb96Cc548EA1bdf",
       "symbol": "QEYE",
       "name": "QuickEye",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E19F87D8606E6Fa25dAF710411892C58bfB2710",
+      "symbol": "HINU",
+      "name": "HanukkahInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19935,
-    "minor": 19935,
+    "major": 19936,
+    "minor": 19936,
     "patch": 86
   }
 }
