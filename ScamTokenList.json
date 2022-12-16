@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8A04a90921a907B9705Dc89A04bDE8C2C2908eBB",
-      "symbol": "DEFI",
-      "name": "Thedegenfinance",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x36D7356921Aef3305FACCe28cD79a3B2D624dAeA",
       "symbol": "JACK",
       "name": "JackLevin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9af363239Ae65c8495689a34DC82C973Bd276A07",
+      "symbol": "BLACKD",
+      "name": "BlackDiamond",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20020,
-    "minor": 20020,
+    "major": 20021,
+    "minor": 20021,
     "patch": 86
   }
 }
