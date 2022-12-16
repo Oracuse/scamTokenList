@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB1c1418d311dfe45ecfcDBDDB06c7Aa6DBe206E0",
-      "symbol": "ACHERON",
-      "name": "AcheronGene",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb2a9916608Bd2c4138B9892984237929e58d29E0",
       "symbol": "CHAINYBLOK",
       "name": "TheChainyBlock",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc724F230f855B3e01C95C5F144819D02D135df37",
+      "symbol": "KUCHI",
+      "name": "FUTAKUCHIONNA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19983,
-    "minor": 19983,
+    "major": 19984,
+    "minor": 19984,
     "patch": 86
   }
 }
