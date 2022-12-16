@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42d87e63646bc11Eaf8DC5004669D11758B9FF1e",
-      "symbol": "WHALE",
-      "name": "WhaleEth",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7F934FA4a815E3A3e5F5207BCee1478e838a5F73",
       "symbol": "QWA",
       "name": "Qwaser",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52Ada28F70BC8EBe5dd4381120d3CD76863919A8",
+      "symbol": "PLD",
+      "name": "Pulsedoge",
+      "decimals": 0,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19904,
-    "minor": 19904,
+    "major": 19905,
+    "minor": 19905,
     "patch": 86
   }
 }
