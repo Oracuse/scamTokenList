@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB024F5B35648F93B093Ae351a6fcFE462ec75DFA",
-      "symbol": "RYUJIN",
-      "name": "RyujinOnryo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa5f4a2E6F1CB5a2f88A6Eed1D9e49408CE3700E5",
       "symbol": "BASED",
       "name": "ChadsUnited",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDFD43F37c5dd791fF1dd63EEF148eB337B59E653",
+      "symbol": "CINT",
+      "name": "CINUTest",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19918,
-    "minor": 19918,
+    "major": 19919,
+    "minor": 19919,
     "patch": 86
   }
 }
