@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2bc617F3c51a8950DE16BEECc1de42C6Cf7ad165",
-      "symbol": "POS",
-      "name": "ProofOfSatoshi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0467056304895D8020fEDbf98929F1907644D502",
       "symbol": "SAFU",
       "name": "SafuInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAB8F447FbBCa82FcCC05B8eee6882395d1a87407",
+      "symbol": "SMART",
+      "name": "SmartTools",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19958,
-    "minor": 19958,
+    "major": 19959,
+    "minor": 19959,
     "patch": 86
   }
 }
