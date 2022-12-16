@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2B875E3a18c538Ded5d1b356B7eAF7721eB77A75",
-      "symbol": "SKUNK",
-      "name": "SkunkInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x219A7c6681eF81C2779940E97771aDC40a400F3A",
       "symbol": "WASH",
       "name": "WashEthereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2B574A899f92f000BE55bEc469e2d87be6cb0A99",
+      "symbol": "CCGDS",
+      "name": "CCGDS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19901,
-    "minor": 19901,
+    "major": 19902,
+    "minor": 19902,
     "patch": 86
   }
 }
