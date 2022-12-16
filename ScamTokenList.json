@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36683a5Bfc96402ce22435dD51bddBa70259f910",
-      "symbol": "OG",
-      "name": "OriginalGangster",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x45c0D70fc47d79c494deFE2A322A1d7e09185437",
       "symbol": "SASHIMI",
       "name": "JapaneseFood",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x692F00845cD177199Cb8ADa8cdA5bEb00C03d5c4",
+      "symbol": "LS",
+      "name": "LotusFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19956,
-    "minor": 19956,
+    "major": 19957,
+    "minor": 19957,
     "patch": 86
   }
 }
