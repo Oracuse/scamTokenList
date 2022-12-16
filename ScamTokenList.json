@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x655D31158911509B0E3f3ADE42b2868e644229B5",
-      "symbol": "SERUM",
-      "name": "TheFinalTruth",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9558B66b2c7EB0c7Af5a3c1598E5a79F16D81F89",
       "symbol": "ZENNYO",
       "name": "ZennyoRyuo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9a483691B5d8Bd1827109Ae6ABCE02C7A1f9A7B",
+      "symbol": "VITALINK",
+      "name": "Vitalink",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19999,
-    "minor": 19999,
+    "major": 20000,
+    "minor": 20000,
     "patch": 86
   }
 }
