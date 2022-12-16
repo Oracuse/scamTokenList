@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x166bD9a23Fe39b8cFB535f03A0F335cb34DEDbba",
-      "symbol": "YOSHI",
-      "name": "Yoshinoya",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x35809a1e61baAdaEF638aA2f863957DdF3A2432b",
       "symbol": "AURI",
       "name": "AureumIcoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA29F21AfeF4B6046D42037D1DF6527DdC9249080",
+      "symbol": "PINGU",
+      "name": "PINGU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19993,
-    "minor": 19993,
+    "major": 19994,
+    "minor": 19994,
     "patch": 86
   }
 }
