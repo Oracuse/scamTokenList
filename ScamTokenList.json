@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf46Bf038A1777e3101195Bc6031F7D686A29FEB0",
-      "symbol": "POSHIB",
-      "name": "ProofofShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21a07a4Fb4f1b8b46B83dbdFe8acC0907476ffdD",
       "symbol": "LZK",
       "name": "Lazarkosis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44539b906c375f13429215fE9f1FfE34862B39a4",
+      "symbol": "BIC",
+      "name": "BipolarCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 19979,
-    "minor": 19979,
+    "major": 19980,
+    "minor": 19980,
     "patch": 86
   }
 }
