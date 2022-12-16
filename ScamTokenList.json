@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0467056304895D8020fEDbf98929F1907644D502",
-      "symbol": "SAFU",
-      "name": "SafuInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10A73d4532077DA8B93A65bb78b5B813b18B16F6",
       "symbol": "MINU",
       "name": "MindfulnessInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3685af4E3CA22A263336883262FD4B944351c813",
+      "symbol": "GRABBIT",
+      "name": "GoldenRabbit",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19959,
-    "minor": 19959,
+    "major": 19960,
+    "minor": 19960,
     "patch": 86
   }
 }
