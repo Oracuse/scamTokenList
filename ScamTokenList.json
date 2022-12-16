@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6DaBc2c6235DD60Abfb600b75c230AF397B63717",
-      "symbol": "MM",
-      "name": "MangoMango",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD83d0D921111395Ff8311458459eDFd5ae1cF8c2",
       "symbol": "CTD",
       "name": "CopyTraderDeluxe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB8cD4673C653705d74778b9B23C852c7ffb3931a",
+      "symbol": "SHIBET",
+      "name": "Shibet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 19990,
-    "minor": 19990,
+    "major": 19991,
+    "minor": 19991,
     "patch": 86
   }
 }
