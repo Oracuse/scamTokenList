@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0b7025fBf10044886a5Fc54D9739B43C6A605B82",
-      "symbol": "BUGGY",
-      "name": "BUGGY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1EE816Dc5d0B6C9c8d4123a2CAdC0688D3783df1",
       "symbol": "DARKNESS",
       "name": "LURKERS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0441429bbe613ceD447881B1BCe1e073Fe300B23",
+      "symbol": "VITALIK",
+      "name": "DejitaruVitalik",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20091,
-    "minor": 20091,
+    "major": 20092,
+    "minor": 20092,
     "patch": 86
   }
 }
