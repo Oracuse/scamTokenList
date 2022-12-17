@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8EacB963a39bfd7a526578dCdEb3b54C9446ca00",
-      "symbol": "FUDBOT",
-      "name": "FUDbot",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x721a50d8aD3b86e00E49F476C7A674EBd595De5e",
       "symbol": "POS",
       "name": "ProofOfSerum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71131BaF006D50E5B32de0F9939465d9BF8b0661",
+      "symbol": "BABYSHIELD",
+      "name": "BabyDejitaruShirudo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20077,
-    "minor": 20077,
+    "major": 20078,
+    "minor": 20078,
     "patch": 86
   }
 }
