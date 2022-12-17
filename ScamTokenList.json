@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6e54d1e598e90e0Dd3Dd9B75feECD53b63668C61",
-      "symbol": "BEPE",
-      "name": "BabyMemeProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5a6248d260272d6a83C6B212C022d9BAD42948Ab",
       "symbol": "FOIL",
       "name": "Foil",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x048306A273b6EABf34fc2b82C7b2d6a49BCB6fd9",
+      "symbol": "GRIM",
+      "name": "Grim",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20088,
-    "minor": 20088,
+    "major": 20089,
+    "minor": 20089,
     "patch": 86
   }
 }
