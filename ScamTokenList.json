@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x38CeC016d81c0E2BD9A0BE52DC9b7dC85E62c0f9",
-      "symbol": "BLUE",
-      "name": "BLUEINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4b3F2Eb4f7829E3085Eca5356A2068A365278e0A",
       "symbol": "TAMAT",
       "name": "Tamadoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46AA352F931C8b8f8f01a46bc3381538Da66c000",
+      "symbol": "HYDRA",
+      "name": "HydraDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20054,
-    "minor": 20054,
+    "major": 20055,
+    "minor": 20055,
     "patch": 86
   }
 }
