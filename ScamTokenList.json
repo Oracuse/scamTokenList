@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA796f2CfF2F11C4092B57053601CA0D46D1Ae31A",
-      "symbol": "BLUESHIBA",
-      "name": "BLUESHIBA",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69A13B9Ca171B1736953192316641BDad3921dC2",
       "symbol": "POWOFMAGIC",
       "name": "ProofOfMagic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9541dbD4ed6bB80adB1f5B206260fC0CEce1b806",
+      "symbol": "X",
+      "name": "x",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20052,
-    "minor": 20052,
+    "major": 20053,
+    "minor": 20053,
     "patch": 86
   }
 }
