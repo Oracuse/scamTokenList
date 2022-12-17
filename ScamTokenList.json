@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x69A13B9Ca171B1736953192316641BDad3921dC2",
-      "symbol": "POWOFMAGIC",
-      "name": "ProofOfMagic",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38CeC016d81c0E2BD9A0BE52DC9b7dC85E62c0f9",
       "symbol": "BLUE",
       "name": "BLUEINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4a4F44815db2BF97C986F8d5bd3f93A592842a1",
+      "symbol": "KITSU",
+      "name": "KitsunenoUsagi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20053,
-    "minor": 20053,
+    "major": 20054,
+    "minor": 20054,
     "patch": 86
   }
 }
