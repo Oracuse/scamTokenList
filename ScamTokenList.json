@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1334359b7e21A4d3907C9CcB851CAC0e0D22e715",
-      "symbol": "CHUUBEI",
-      "name": "CHUUBEIINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc83c607D76db41e9EDBF91d4CD566fd26845ceE1",
       "symbol": "ONE",
       "name": "JUSTONETOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA49C5903Db7Abf019457d5553Af04204187f0F92",
+      "symbol": "ALONE",
+      "name": "ChristmasLonely",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20093,
-    "minor": 20093,
+    "major": 20094,
+    "minor": 20094,
     "patch": 86
   }
 }
