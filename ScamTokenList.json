@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x970bda3CCEb01BC43015bF2Bc76e627B01f0F23c",
-      "symbol": "ROIDS",
-      "name": "LIGHTWEIGHT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEF420a03C7a31C1cCCb29cadbf06CEe2EA4D947C",
       "symbol": "OPTIMUS",
       "name": "OptimusNetwork",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2AeC62F1111433827F0201238f4f821ADf118047",
+      "symbol": "YATAGARASU",
+      "name": "ThreeLeggedCrow",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20040,
-    "minor": 20040,
+    "major": 20041,
+    "minor": 20041,
     "patch": 86
   }
 }
