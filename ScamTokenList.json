@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x653d75d0c63427b3D4e348fF4EA49aE3D1411d43",
-      "symbol": "FP",
-      "name": "FlokiProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC7E2DC01222c273E3807C88DD2Fb9F14eAd47335",
       "symbol": "KDA",
       "name": "DejitaruKaida",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeB3450Af34Dc94eb590c290abE016672196aE1cE",
+      "symbol": "SHIWA",
+      "name": "ShikokuWagmi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20066,
-    "minor": 20066,
+    "major": 20067,
+    "minor": 20067,
     "patch": 86
   }
 }
