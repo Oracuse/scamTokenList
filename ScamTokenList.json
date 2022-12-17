@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEF9100a0275dF6609faeCe79c3f5c37864508e0A",
-      "symbol": "BORED",
-      "name": "BoredDAOProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8EacB963a39bfd7a526578dCdEb3b54C9446ca00",
       "symbol": "FUDBOT",
       "name": "FUDbot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe80003018Eaa70cb6253f1c095302E6B3BfB6c58",
+      "symbol": "SINJA",
+      "name": "SATOSHINJA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20076,
-    "minor": 20076,
+    "major": 20077,
+    "minor": 20077,
     "patch": 86
   }
 }
