@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76653A566A957a83328fb272e4C6f2650090202F",
-      "symbol": "XDAO",
-      "name": "XenDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6e54d1e598e90e0Dd3Dd9B75feECD53b63668C61",
       "symbol": "BEPE",
       "name": "BabyMemeProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEE7147950670a1e73D85FF2f31Fe19515ee76973",
+      "symbol": "INUSAGI",
+      "name": "Inusagi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20087,
-    "minor": 20087,
+    "major": 20088,
+    "minor": 20088,
     "patch": 86
   }
 }
