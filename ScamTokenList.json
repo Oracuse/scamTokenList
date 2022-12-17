@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7F985f2914b683C9A2d5E2D3A3A7E007b5566E44",
-      "symbol": "POOR",
-      "name": "InflationInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC7417c37ff8c1700aEE110164A0832A533569B8d",
       "symbol": "GARDEN",
       "name": "TerrestrialParadise",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f6FDB49f99fDB8dBD36537729dCc92eE8175fC1",
+      "symbol": "FOTX",
+      "name": "FableOfTheFox",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20047,
-    "minor": 20047,
+    "major": 20048,
+    "minor": 20048,
     "patch": 86
   }
 }
