@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x823870a7c79e78A11fbD11B82eFBc3a25337D094",
-      "symbol": "888POKER",
-      "name": "888Poker",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2a451239473FaDe5706909B351f308FEf8ba760C",
       "symbol": "TOGASU",
       "name": "TokugawaLeyasu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a0d2F4513401F8A098324Bd3d48A4a9687c0F49",
+      "symbol": "R2E",
+      "name": "REDUCETOEARN",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20044,
-    "minor": 20044,
+    "major": 20045,
+    "minor": 20045,
     "patch": 86
   }
 }
