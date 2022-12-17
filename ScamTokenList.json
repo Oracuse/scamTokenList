@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x41eB8c6a8f51F339231f2576CBF9F23fbA2AE5Db",
-      "symbol": "SHITVERSE",
-      "name": "PieceofShit",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x79f2f45d6cF176939314551a545D465fC031daF3",
       "symbol": "DIU",
       "name": "Diusiu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x874585B368D23aa61BCF48af7FD5Ca08a5095a7b",
+      "symbol": "DOGENS",
+      "name": "Dogens",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20059,
-    "minor": 20059,
+    "major": 20060,
+    "minor": 20060,
     "patch": 86
   }
 }
