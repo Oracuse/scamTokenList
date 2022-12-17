@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7262Da11df045264d86C5B1685Ab0C9D5C4B72AB",
-      "symbol": "BL0CKS",
-      "name": "TheBl0cks",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA9C101B444f477C8e6759f66914D250F04D2ad18",
       "symbol": "MMXXII",
       "name": "MMXXII",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4bc72631a630304E1EA2a4F9aB21B79f6b9a5904",
+      "symbol": "TERRACOTTA",
+      "name": "Terracotta",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20071,
-    "minor": 20071,
+    "major": 20072,
+    "minor": 20072,
     "patch": 86
   }
 }
