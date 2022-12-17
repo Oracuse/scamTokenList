@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4b3F2Eb4f7829E3085Eca5356A2068A365278e0A",
-      "symbol": "TAMAT",
-      "name": "Tamadoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x396927224A5964e22Fdc2fa33EF8148DB1739b21",
       "symbol": "HANNYA",
       "name": "Hannya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6998a9AFb891879521E318A5bD958BbD67203991",
+      "symbol": "KYBI",
+      "name": "KyubinoInu",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20055,
-    "minor": 20055,
+    "major": 20056,
+    "minor": 20056,
     "patch": 86
   }
 }
