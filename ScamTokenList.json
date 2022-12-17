@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x95C7e62Ed5Aa8a78666ca8917A15066952bFedec",
-      "symbol": "BBLUE",
-      "name": "BabyBlue",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFb8F14A6dED5e20f8f943BA101714e55F245C869",
       "symbol": "WAGMI",
       "name": "WAGMIDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x184180d0a4A02FBe98834B528a97CCA59df4306F",
+      "symbol": "TTCF",
+      "name": "TrumpTradingCardFun",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20096,
-    "minor": 20096,
+    "major": 20097,
+    "minor": 20097,
     "patch": 86
   }
 }
