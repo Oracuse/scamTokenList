@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x118B05F91037AA1ec8301Ecd033Fba0CDF30C8b3",
-      "symbol": "TSUKA2",
-      "name": "Tsuka20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBa3e312337b80998DcCde4a01b14A859887F8271",
       "symbol": "CHELONE",
       "name": "Aspidochelone",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87278D0b264c6Bb715F30C40d9fc760C7A011fe8",
+      "symbol": "GALAXY",
+      "name": "GalaxyDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20081,
-    "minor": 20081,
+    "major": 20082,
+    "minor": 20082,
     "patch": 86
   }
 }
