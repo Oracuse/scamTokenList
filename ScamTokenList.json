@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x58e856E0dCC8212f8Be0Ee3A0c9ca32960c4eB06",
-      "symbol": "WIZZ",
-      "name": "Wizzakosis",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4bB373C6B37e919ACB40509bfFA1dA6A13D3fbaa",
       "symbol": "CHEMX",
       "name": "ChemicalX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3884AC3E0d475fb6AF278094b2B7D428ac19990",
+      "symbol": "O",
+      "name": "MickeyMouse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20036,
-    "minor": 20036,
+    "major": 20037,
+    "minor": 20037,
     "patch": 86
   }
 }
