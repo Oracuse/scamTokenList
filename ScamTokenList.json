@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x07e82D89Db9Dd4Af7bfF51780483Ca21b6980000",
-      "symbol": "KANG",
-      "name": "Kangal",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5f97FB852E94Ac6639eF2cd54a3cC41384afC1D3",
       "symbol": "CHUCKY",
       "name": "ChuckyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3d8F6deCa040430e42Ea280bD87496B44d41b1a",
+      "symbol": "BNBC",
+      "name": "BinanceClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20038,
-    "minor": 20038,
+    "major": 20039,
+    "minor": 20039,
     "patch": 86
   }
 }
