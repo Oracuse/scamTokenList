@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC7E2DC01222c273E3807C88DD2Fb9F14eAd47335",
-      "symbol": "KDA",
-      "name": "DejitaruKaida",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbC3913173Cc35ffc613706905de7de717BEA34F9",
       "symbol": "NOTHING",
       "name": "ForTheDream",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13eE0099F47A84bb4aB4CcE741326b2976edA776",
+      "symbol": "USAEX",
+      "name": "AmericanExpress",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20067,
-    "minor": 20067,
+    "major": 20068,
+    "minor": 20068,
     "patch": 86
   }
 }
