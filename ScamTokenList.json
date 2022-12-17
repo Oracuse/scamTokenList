@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC7417c37ff8c1700aEE110164A0832A533569B8d",
-      "symbol": "GARDEN",
-      "name": "TerrestrialParadise",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2f69072B858cb6A714bF929fA6f0ceA7f7228EB3",
       "symbol": "GENSHIB",
       "name": "TheGenesisShib",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28DdA55e5F2bb4CF61C26f447AF52ce0fFd2D005",
+      "symbol": "QUON",
+      "name": "Quontral",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20048,
-    "minor": 20048,
+    "major": 20049,
+    "minor": 20049,
     "patch": 86
   }
 }
