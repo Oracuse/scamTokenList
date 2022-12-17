@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x296f8f8d7cCf1e8C5092334c9Db9F9967A007c7f",
-      "symbol": "PXEN",
-      "name": "ProofofXEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6F065f5f50FcF006C862084c1A5590f135370f3B",
       "symbol": "OPTIMUS",
       "name": "OptimusNetwork",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4709B1F7CD28C939c1CaBeBDEc0eDB8EAc8bCA28",
+      "symbol": "PY",
+      "name": "POPYeti",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20042,
-    "minor": 20042,
+    "major": 20043,
+    "minor": 20043,
     "patch": 86
   }
 }
