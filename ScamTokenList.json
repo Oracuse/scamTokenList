@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x137Ab19C41078b16d6A93Fa123bC23A7e9C0d6B9",
-      "symbol": "GOOGLE20",
-      "name": "ProofOfGoogle",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8753dbc51498cc7fe8f45c91F4D112c42314Ca71",
       "symbol": "KOINU",
       "name": "Koinu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D4d926430C92c375aC7247DC36096Beb911215b",
+      "symbol": "DOGENS",
+      "name": "Dogens",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20061,
-    "minor": 20061,
+    "major": 20062,
+    "minor": 20062,
     "patch": 86
   }
 }
