@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF0BB8D40195D99358D9296634CaddbAeEe3a761A",
-      "symbol": "FLOKCHAIN",
-      "name": "Flokchain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28F071430992a5fed7176EEfD79c735a1E38761d",
       "symbol": "KSHIB",
       "name": "KingofMemes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bD07A97c57e145edAf96e663B906B788946C26c",
+      "symbol": "ZCASH",
+      "name": "Zcash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20069,
-    "minor": 20069,
+    "major": 20070,
+    "minor": 20070,
     "patch": 86
   }
 }
