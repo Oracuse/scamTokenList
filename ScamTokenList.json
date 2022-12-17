@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5f97FB852E94Ac6639eF2cd54a3cC41384afC1D3",
-      "symbol": "CHUCKY",
-      "name": "ChuckyInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x970bda3CCEb01BC43015bF2Bc76e627B01f0F23c",
       "symbol": "ROIDS",
       "name": "LIGHTWEIGHT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1EB1Af0BA1790cA9449c58A70bc196B6e5D901aE",
+      "symbol": "TRUMPCOIN",
+      "name": "TrumpDigitalTrading",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20039,
-    "minor": 20039,
+    "major": 20040,
+    "minor": 20040,
     "patch": 86
   }
 }
