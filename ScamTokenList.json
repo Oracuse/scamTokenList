@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF8D8CecC11a7E07d0955Cf469376841CE704a2F7",
-      "symbol": "SHIPPO",
-      "name": "Shippo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3eE0bDe143B3cb3d8E57b315C2Eb7e7ED2b06bDd",
       "symbol": "MONA",
       "name": "MONA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51c3471a06C30263e4ad76457a27BA8693B3e387",
+      "symbol": "MERCY",
+      "name": "GuanyinInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20031,
-    "minor": 20031,
+    "major": 20032,
+    "minor": 20032,
     "patch": 86
   }
 }
