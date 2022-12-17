@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56D1534Fa94E8DB9e2173A82998118495A4b7664",
-      "symbol": "CE",
-      "name": "CommonEra",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7fd49757E9c4390dcA9735913Bc11566a46e6901",
       "symbol": "SOCCER",
       "name": "ProofOfSoccer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F67da4D11168A977BA0788e7FD14CC5DA388810",
+      "symbol": "8BALL",
+      "name": "Magic8Ball",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20098,
-    "minor": 20098,
+    "major": 20099,
+    "minor": 20099,
     "patch": 86
   }
 }
