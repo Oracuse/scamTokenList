@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4885e6219Bbf8dA97eff76912120e54ec6Cd1678",
-      "symbol": "FLOKCHAIN",
-      "name": "Flokchain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5C06ee518a3A8086D67b06782780F119f1e2480D",
       "symbol": "BLUEDINU",
       "name": "BLUEDegenINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB31D782e84f01Bac1Dee52047c060CC0Fbf3b5a",
+      "symbol": "SZK",
+      "name": "Shizukesa",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20064,
-    "minor": 20064,
+    "major": 20065,
+    "minor": 20065,
     "patch": 86
   }
 }
