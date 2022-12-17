@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA9C101B444f477C8e6759f66914D250F04D2ad18",
-      "symbol": "MMXXII",
-      "name": "MMXXII",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7D4Dc4a1A7d636AB808c26e34D5E457360BedEaC",
       "symbol": "BAYCINU",
       "name": "BAYCINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8744E7785EBC84d98F5093DeDDD75C42784d3a66",
+      "symbol": "GHOST",
+      "name": "Yurei",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20072,
-    "minor": 20072,
+    "major": 20073,
+    "minor": 20073,
     "patch": 86
   }
 }
