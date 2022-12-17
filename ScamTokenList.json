@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x79f2f45d6cF176939314551a545D465fC031daF3",
-      "symbol": "DIU",
-      "name": "Diusiu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x137Ab19C41078b16d6A93Fa123bC23A7e9C0d6B9",
       "symbol": "GOOGLE20",
       "name": "ProofOfGoogle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C3A1A81b1c4CCCeDEdf2c8BbF575c6DB411E30B",
+      "symbol": "CHUSHINGURA",
+      "name": "CHUSHINGURA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20060,
-    "minor": 20060,
+    "major": 20061,
+    "minor": 20061,
     "patch": 86
   }
 }
