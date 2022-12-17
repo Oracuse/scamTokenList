@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0c2C6791AD2fa8F681c05876b27186d7CE77Df9d",
-      "symbol": "BXEN",
-      "name": "XENCrypto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x33fC12633B6ea0F64f1F9662463D4f195A9bc8f1",
       "symbol": "DHL",
       "name": "DecentralizedHybrid",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c269F6210E73Cac07E64882cAA29dcc05cd3CcE",
+      "symbol": "FIFA",
+      "name": "FIFAWorldCup",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20034,
-    "minor": 20034,
+    "major": 20035,
+    "minor": 20035,
     "patch": 86
   }
 }
