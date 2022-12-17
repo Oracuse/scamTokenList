@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB5049574b216Cf0a6707e4cDaB7De4EcBe3FA2bf",
-      "symbol": "ARIES",
-      "name": "AriesSwap",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4885e6219Bbf8dA97eff76912120e54ec6Cd1678",
       "symbol": "FLOKCHAIN",
       "name": "Flokchain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Bc9E3812C996B24D68233d79f141ce78321e9F5",
+      "symbol": "PI",
+      "name": "314",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20063,
-    "minor": 20063,
+    "major": 20064,
+    "minor": 20064,
     "patch": 86
   }
 }
