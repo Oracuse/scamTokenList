@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x33fC12633B6ea0F64f1F9662463D4f195A9bc8f1",
-      "symbol": "DHL",
-      "name": "DecentralizedHybrid",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x58e856E0dCC8212f8Be0Ee3A0c9ca32960c4eB06",
       "symbol": "WIZZ",
       "name": "Wizzakosis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0BA1C5796B5F59A719bd012c639541A32A07156f",
+      "symbol": "ZINU",
+      "name": "ZukiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20035,
-    "minor": 20035,
+    "major": 20036,
+    "minor": 20036,
     "patch": 86
   }
 }
