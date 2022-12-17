@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd40792f75a4C695A8fcd497327B9f83d77406Ac1",
-      "symbol": "GREEN",
-      "name": "GREEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17B8E80F607521fAC56Be397794b354a3b82F5da",
       "symbol": "PURPLE",
       "name": "Purple",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4440C1033b082a7253967271Cf5f4909B7e04802",
+      "symbol": "BHKBY",
+      "name": "BabyHuckleberry",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20050,
-    "minor": 20050,
+    "major": 20051,
+    "minor": 20051,
     "patch": 86
   }
 }
