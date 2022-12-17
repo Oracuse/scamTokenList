@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3eE0bDe143B3cb3d8E57b315C2Eb7e7ED2b06bDd",
-      "symbol": "MONA",
-      "name": "MONA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x387D34A48D63b734314006330ab529738e15619b",
       "symbol": "HLW",
       "name": "HALLOWEENINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43Ce9330BE733e87CC7bf034a78dB7061709Bf0c",
+      "symbol": "OG",
+      "name": "OGHODLER",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20032,
-    "minor": 20032,
+    "major": 20033,
+    "minor": 20033,
     "patch": 86
   }
 }
