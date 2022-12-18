@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7fd49757E9c4390dcA9735913Bc11566a46e6901",
-      "symbol": "SOCCER",
-      "name": "ProofOfSoccer",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF221E64fF4bDB698029090Af21e755bEC54727A7",
       "symbol": "ROBLOX",
       "name": "ROBLOX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22bF7427feFC69a7891f8E8a18Cadd3914099456",
+      "symbol": "TNFT",
+      "name": "TrumpNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20099,
-    "minor": 20099,
+    "major": 20100,
+    "minor": 20100,
     "patch": 86
   }
 }
