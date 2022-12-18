@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc892f5113683b3d965989Fd9FEA3650BE4c12573",
-      "symbol": "PERFUME",
-      "name": "EauDeParfum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF52BDe35eBFBBc007900c9eCb0d9C62497d23DdF",
       "symbol": "ORIGI",
       "name": "Origi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e6295b1484a3913D1Db0d2CC0Bb9B56b23B5Cc2",
+      "symbol": "ETHER",
+      "name": "ETHER",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20154,
-    "minor": 20154,
+    "major": 20155,
+    "minor": 20155,
     "patch": 86
   }
 }
