@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0258F5a0Defc0771F9203aE1c8721ACaaE7Fcbc2",
-      "symbol": "MANGO",
-      "name": "Mango",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x961A8a35b480826199c15BC974EaC4c56933bD27",
       "symbol": "REDPILL",
       "name": "RedPillToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x543fF691E4F4131B1A0c00935f14ADD3cC3FA1Ab",
+      "symbol": "PARAGON",
+      "name": "Paragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20170,
-    "minor": 20170,
+    "major": 20171,
+    "minor": 20171,
     "patch": 86
   }
 }
