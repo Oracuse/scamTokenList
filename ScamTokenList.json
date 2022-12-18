@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa3a1485d34931Db0a3988F5AE20106db66d19156",
-      "symbol": "FK",
-      "name": "Fukushima",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8a8918d1c5eb13605a20025Aa351Fd2936D9Fc6F",
       "symbol": "EXCITED",
       "name": "ExcitedDAOProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBcA73bd945813Af3Da2c68D9016b0449B8DB813e",
+      "symbol": "GOJIRA",
+      "name": "GojiranoSeishinshi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20137,
-    "minor": 20137,
+    "major": 20138,
+    "minor": 20138,
     "patch": 86
   }
 }
