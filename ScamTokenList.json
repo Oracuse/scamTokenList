@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x13b110591Ae044447d54cF8D73f1add9efecE58A",
-      "symbol": "BV",
-      "name": "BlueVentures",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8b5031600895094325ce54C7Bf19090c8B57Ca01",
       "symbol": "ODT",
       "name": "OnlyDevs",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15721ec1f697940025001A2D5028fF8E54593791",
+      "symbol": "MONO",
+      "name": "Monogatari",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20112,
-    "minor": 20112,
+    "major": 20113,
+    "minor": 20113,
     "patch": 86
   }
 }
