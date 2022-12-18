@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB3480889D356E8B29c5927dbF2f5e806B2612306",
-      "symbol": "FLOKINAMI",
-      "name": "Flokinami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x60ec27fEC29e9F11bb0040d5a786c27c6A44a3cd",
       "symbol": "ETX",
       "name": "Ethyx",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDd16CBa36Ad5cF938b3Ad3B318998736de62FED7",
+      "symbol": "CANIS",
+      "name": "CanisInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20164,
-    "minor": 20164,
+    "major": 20165,
+    "minor": 20165,
     "patch": 86
   }
 }
