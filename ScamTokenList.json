@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2BeA2b1F0b0131FEeCEC161C21c2d9234Ce90F46",
-      "symbol": "DOMINATUS",
-      "name": "Sovereignty",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0258F5a0Defc0771F9203aE1c8721ACaaE7Fcbc2",
       "symbol": "MANGO",
       "name": "Mango",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x367f12f584632fFe2073e18A4AF5Bc2364eC46E5",
+      "symbol": "DQOM",
+      "name": "DejitaruPredator",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20169,
-    "minor": 20169,
+    "major": 20170,
+    "minor": 20170,
     "patch": 86
   }
 }
