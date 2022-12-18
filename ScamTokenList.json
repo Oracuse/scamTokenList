@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC323bD95967Cb9E42e611f1E0f377cAfDEF52Af6",
-      "symbol": "MTSUKA",
-      "name": "MiniTsuka",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe731Fe5bb56499c8864fA452f00aC5F59e5C5583",
       "symbol": "RP",
       "name": "RedPill",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82b1392B19a8f80Cb38b140b265B3C2256763B44",
+      "symbol": "REPAULED",
+      "name": "RestoredPaul",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20190,
-    "minor": 20190,
+    "major": 20191,
+    "minor": 20191,
     "patch": 86
   }
 }
