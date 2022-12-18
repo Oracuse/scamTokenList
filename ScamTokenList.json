@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x34A8351CA1716345DC1602DB31Cc1377A6C57667",
-      "symbol": "BABYCOIL",
-      "name": "BabyCoil",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD065e6F129109330D746E0eE9a05638E9cE5768c",
       "symbol": "REI",
       "name": "Rei",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBA51664DE3B1A1b1a1F402895eb8477b135Bbbd2",
+      "symbol": "FRANCE",
+      "name": "FranceInu",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20151,
-    "minor": 20151,
+    "major": 20152,
+    "minor": 20152,
     "patch": 86
   }
 }
