@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15246C110Eb072cC7712B4D26f9AD8A8C95A6dd5",
-      "symbol": "ETHCOGNITO",
-      "name": "EthCognito",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75674F2faBc20820b83AE6bC7d1B93CE991C76e5",
       "symbol": "DANCHOU",
       "name": "MeliodasCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDB9F6Daf4b54Ef7be80236723A2a452F8Df845a1",
+      "symbol": "UNVT",
+      "name": "Univaults",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20145,
-    "minor": 20145,
+    "major": 20146,
+    "minor": 20146,
     "patch": 86
   }
 }
