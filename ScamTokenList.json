@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x040461368764F7F8C651AD0599BbaafE4BaB01ee",
-      "symbol": "REDPILL",
-      "name": "RedPill",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6D9aE7F67613958a576C1313f23C7A6A45148BAb",
       "symbol": "TZURU",
       "name": "Tancho",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf73CCFBF5F40E41b630738DC231A3100765dfa43",
+      "symbol": "GREEDY",
+      "name": "GreedyInu",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20129,
-    "minor": 20129,
+    "major": 20130,
+    "minor": 20130,
     "patch": 86
   }
 }
