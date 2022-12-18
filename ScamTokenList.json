@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e86655a197bfFf8E44A37026714b76B8B3438E2",
-      "symbol": "HEBI",
-      "name": "HebiDoku",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x477A1aCE1e498cd0d05Af13e322A5e06eF65da1c",
       "symbol": "OIL",
       "name": "MBS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC9B1B40c59B63628CEd6b212692D92E7ABD74B29",
+      "symbol": "HINU",
+      "name": "HikaruInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20117,
-    "minor": 20117,
+    "major": 20118,
+    "minor": 20118,
     "patch": 86
   }
 }
