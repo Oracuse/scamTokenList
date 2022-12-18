@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2C591f39f1A0Edf2CE78aa1d6de6b330D0346Fcb",
-      "symbol": "ONE",
-      "name": "JUSTONETOKEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x223B5d7b8550b21e5eD16f9eB780F590c305aFB8",
       "symbol": "ONE",
       "name": "JUSTONETOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd733A7A32E6B30BFD2548f59652057eD404ce172",
+      "symbol": "KEY",
+      "name": "PrivateKeyProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20105,
-    "minor": 20105,
+    "major": 20106,
+    "minor": 20106,
     "patch": 86
   }
 }
