@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8AD6807f32A509Fa8DafAFe35EFd580CAa5301Ad",
-      "symbol": "HEI",
-      "name": "Hei",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaEc7F6b0b3B64Ad65Dd8527F83390b2B8744DaD6",
       "symbol": "BYTC",
       "name": "BoredYugaTrollClub",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21D3Da0F452AFd39332db964b7070B38da4F8356",
+      "symbol": "MONOPOLIO",
+      "name": "Monopolio",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20140,
-    "minor": 20140,
+    "major": 20141,
+    "minor": 20141,
     "patch": 86
   }
 }
