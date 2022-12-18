@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB94b650c3c8E7f2F352A71919E59aC2375CAc400",
-      "symbol": "FLAG",
-      "name": "Flag",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa25F720c0b5aE2410Af8Aa8932d59a32C5E13aa5",
       "symbol": "BCULT",
       "name": "BabyCultDao",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFefc89c97E6D53B9345Ee900b3ec6fd54C2aCB14",
+      "symbol": "TOKISHU",
+      "name": "TALEOFKISHU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20127,
-    "minor": 20127,
+    "major": 20128,
+    "minor": 20128,
     "patch": 86
   }
 }
