@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x267aAB6A3ed2895f7C6Aa2ff92676A6b9164C152",
-      "symbol": "SCORE",
-      "name": "THESHIBACORE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa7b76E3B2d37208969deB9f099EF1edC339Ba113",
       "symbol": "APESER",
       "name": "ApeSerum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x503aDce2b6b2F1293ba542F3cDdA35B65aa4124b",
+      "symbol": "KUBIWA",
+      "name": "InunoKubiwa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20174,
-    "minor": 20174,
+    "major": 20175,
+    "minor": 20175,
     "patch": 86
   }
 }
