@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA867e8516bb398E7C324B935d3038e66BeD73e21",
-      "symbol": "CRUST",
-      "name": "Encore",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa4D02dC8C1493DB3D09F639D21F8c08bcDB477c9",
       "symbol": "BITS",
       "name": "Kibble",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb26448dC53eaFe4DeAD72c86F91E55eA36724C57",
+      "symbol": "DAK",
+      "name": "DejitaruAkuma",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20172,
-    "minor": 20172,
+    "major": 20173,
+    "minor": 20173,
     "patch": 86
   }
 }
