@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x477A1aCE1e498cd0d05Af13e322A5e06eF65da1c",
-      "symbol": "OIL",
-      "name": "MBS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x96F6b903b09744438FC1aEA3027224abE87EA8C8",
       "symbol": "AOIRO",
       "name": "Aoiro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDB00dee012CBC7f9CDb28860a254432a55ad2fAA",
+      "symbol": "MIZU",
+      "name": "MizuchiUsagi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20118,
-    "minor": 20118,
+    "major": 20119,
+    "minor": 20119,
     "patch": 86
   }
 }
