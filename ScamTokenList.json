@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF221E64fF4bDB698029090Af21e755bEC54727A7",
-      "symbol": "ROBLOX",
-      "name": "ROBLOX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf1B2a6f28355d283705Aaf04d9BAe6B6BcF86FEb",
       "symbol": "CE",
       "name": "CommonEra",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6fd76f80B43741a0F6b17d326F4b0cb713f0426C",
+      "symbol": "KYU",
+      "name": "Sukiyaki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20100,
-    "minor": 20100,
+    "major": 20101,
+    "minor": 20101,
     "patch": 86
   }
 }
