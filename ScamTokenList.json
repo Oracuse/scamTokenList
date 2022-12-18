@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60ec27fEC29e9F11bb0040d5a786c27c6A44a3cd",
-      "symbol": "ETX",
-      "name": "Ethyx",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2C504e8dF43bA6672081CdFBe3AfaD4dD3c7b956",
       "symbol": "TREX",
       "name": "Dino",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a138F85B73Ae0d0e1FD2140F345902cF3603C97",
+      "symbol": "XMAS",
+      "name": "XMas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20165,
-    "minor": 20165,
+    "major": 20166,
+    "minor": 20166,
     "patch": 86
   }
 }
