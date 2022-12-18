@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaa3308CabF0a39B432e310303e7f388B8eb41B9C",
-      "symbol": "LUCID",
-      "name": "LucidTech",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04104f3AbF9917640d5aC5ebdd6472b69BdD9029",
       "symbol": "LUCID",
       "name": "LucidTech",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30462663839b14eE59ACA6dbEE66eeCb70AB8Aa8",
+      "symbol": "SBN",
+      "name": "ShibaBurnNation",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20121,
-    "minor": 20121,
+    "major": 20122,
+    "minor": 20122,
     "patch": 86
   }
 }
