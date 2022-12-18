@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCC5ae86F569A106469CB517299da63d0d4B56E4a",
-      "symbol": "SAPE",
-      "name": "SoccerApe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x60F467f9A2BeF508aaC1548Ee642D52F51632111",
       "symbol": "BABYCOIL",
       "name": "BabyCoil",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF93dC4d8b8221eff3A47648dE7EbbCEB139a2529",
+      "symbol": "LEGION",
+      "name": "BlackLegion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20159,
-    "minor": 20159,
+    "major": 20160,
+    "minor": 20160,
     "patch": 86
   }
 }
