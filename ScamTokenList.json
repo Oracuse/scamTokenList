@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2B709E97b7ac884eB62A7904c2c6077ea7cc6AEf",
-      "symbol": "DOOR3",
-      "name": "Door3Network",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb2b205A635C322575bb7338389fD71Ff782e7530",
       "symbol": "20000",
       "name": "TwentyThousandInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35EEf5865531e4887d517C24afe4b5B1f4F186cd",
+      "symbol": "DAK",
+      "name": "DejitaruAkuma",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20184,
-    "minor": 20184,
+    "major": 20185,
+    "minor": 20185,
     "patch": 86
   }
 }
