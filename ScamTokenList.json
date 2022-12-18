@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA83081ef24686099876865761157b9a89815713F",
-      "symbol": "SERB",
-      "name": "BLUESERUM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4e59548BD0d0A0df3661AFEC041b167FAa8C15BE",
       "symbol": "PAPER",
       "name": "Paper",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Bce4d432B998289f97e9408E9faDE836Fb1309e",
+      "symbol": "STREISAAND",
+      "name": "BarbraStreisaand",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20107,
-    "minor": 20107,
+    "major": 20108,
+    "minor": 20108,
     "patch": 86
   }
 }
