@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCFc1121A161B1bdBB9FC861b9aE19CDb6f9D7D28",
-      "symbol": "CHEMIST",
-      "name": "Chemicals",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x13b110591Ae044447d54cF8D73f1add9efecE58A",
       "symbol": "BV",
       "name": "BlueVentures",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7d77d28b6d183dceF66202b74a6d8aC16aD21D3",
+      "symbol": "TESTAR",
+      "name": "TestAr",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20111,
-    "minor": 20111,
+    "major": 20112,
+    "minor": 20112,
     "patch": 86
   }
 }
