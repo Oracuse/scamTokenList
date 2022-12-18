@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x223B5d7b8550b21e5eD16f9eB780F590c305aFB8",
-      "symbol": "ONE",
-      "name": "JUSTONETOKEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA83081ef24686099876865761157b9a89815713F",
       "symbol": "SERB",
       "name": "BLUESERUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8e364dbD158a7C5fCBbbEf4D66624cEBe6a8cC05",
+      "symbol": "TRINU",
+      "name": "DonaldTrumpInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20106,
-    "minor": 20106,
+    "major": 20107,
+    "minor": 20107,
     "patch": 86
   }
 }
