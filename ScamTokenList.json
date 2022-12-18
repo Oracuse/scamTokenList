@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x833D42a8242E307d256B2F3eaaAc14d946a91F3f",
-      "symbol": "HCHEEMS",
-      "name": "HalloweenCheems",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38bb241dA52583fee9A03bB170959f7002cbC18d",
       "symbol": "KAIYO",
       "name": "ArashinoUmi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5373ceBe357686F36A9Da8f93B4FeF96e8319017",
+      "symbol": "XDS",
+      "name": "Exodus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20176,
-    "minor": 20176,
+    "major": 20177,
+    "minor": 20177,
     "patch": 86
   }
 }
