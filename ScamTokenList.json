@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbC8DafD5e9B8b38A172aBa3CDEb8E3606f07Bf75",
-      "symbol": "HORIZON",
-      "name": "BLUEHORIZON",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9e86655a197bfFf8E44A37026714b76B8B3438E2",
       "symbol": "HEBI",
       "name": "HebiDoku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA99EB2A099df2aBaf9E081529961eAC95467Fc27",
+      "symbol": "UELTSCHI",
+      "name": "Ueltschi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20116,
-    "minor": 20116,
+    "major": 20117,
+    "minor": 20117,
     "patch": 86
   }
 }
