@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x759D88527Adf8DcadDdF6b554Ae4D8d3dA89D11f",
-      "symbol": "VITALIKHANDS",
-      "name": "TheHandofVitalik",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd689dCB9976c0b41bb7e80037E3121C7365C8B9c",
       "symbol": "REDPILL",
       "name": "Redpill",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7d0a75660A1b06B6D1910781Fe167643bCCB1d5",
+      "symbol": "ARGENTINA",
+      "name": "VamosArgentina",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20114,
-    "minor": 20114,
+    "major": 20115,
+    "minor": 20115,
     "patch": 86
   }
 }
