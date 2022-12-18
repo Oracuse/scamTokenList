@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC4a7026a85d31cc0b560E561BD3ca00Ddf852951",
-      "symbol": "TETSUO",
-      "name": "TETSUO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC88B7d9655FD53E7B5b1652294CE37fBA7b51E80",
       "symbol": "MEMESWAP",
       "name": "ProofOfSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x210BA68E560b297332153D135EFFEf46493DA22f",
+      "symbol": "MESSI",
+      "name": "TaleOfALegend",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20147,
-    "minor": 20147,
+    "major": 20148,
+    "minor": 20148,
     "patch": 86
   }
 }
