@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x29d141F66D5f72f6D738E7b20E361255F345b9f7",
-      "symbol": "AVEN",
-      "name": "Aven",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb5f25c6f7c531594b489E9A11ECdEA39885d0Dd0",
       "symbol": "MIKABOSHI20",
       "name": "Mikaboshi20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x986695F25aE313c71b646e8FFa88A3f7b37e05bb",
+      "symbol": "SBFLX",
+      "name": "Shibflix",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20142,
-    "minor": 20142,
+    "major": 20143,
+    "minor": 20143,
     "patch": 86
   }
 }
