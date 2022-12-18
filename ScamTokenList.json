@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCA8c72007aec89Cb15106Aba0C7ab54d7F5214ee",
-      "symbol": "BOK",
-      "name": "BankofKanye",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCC5ae86F569A106469CB517299da63d0d4B56E4a",
       "symbol": "SAPE",
       "name": "SoccerApe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d886570A0dA04885bfD6eb48eD8b8ff01A0eb7e",
+      "symbol": "BCB",
+      "name": "BlockchainBets",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20158,
-    "minor": 20158,
+    "major": 20159,
+    "minor": 20159,
     "patch": 86
   }
 }
