@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa815d56045d86f588a7ed1BAE2367C088eb16988",
-      "symbol": "PURPLE",
-      "name": "RedAndBlue",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66dAFe408a06119D186232Cc6678444779577282",
       "symbol": "HOAX",
       "name": "AlexJones",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x511BEf911322AaE4BF4E169b9b677eBA73b26f3c",
+      "symbol": "BAKO",
+      "name": "Tamatebako",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20132,
-    "minor": 20132,
+    "major": 20133,
+    "minor": 20133,
     "patch": 86
   }
 }
