@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC88B7d9655FD53E7B5b1652294CE37fBA7b51E80",
-      "symbol": "MEMESWAP",
-      "name": "ProofOfSwap",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb16dCc2C98fb46B709cf377E9fA7a31CC84BAD5d",
       "symbol": "FLOOZ",
       "name": "FLOOZ",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b90867D4e579cf652bfDEF4F7633C4Db9dbF60f",
+      "symbol": "TRUMP",
+      "name": "TRUMPToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20148,
-    "minor": 20148,
+    "major": 20149,
+    "minor": 20149,
     "patch": 86
   }
 }
