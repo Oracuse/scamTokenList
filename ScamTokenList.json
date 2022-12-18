@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3ecD3bb7F7015401Dfd55968c6c702563194a179",
-      "symbol": "ICE",
-      "name": "IceDoge",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xad99cACe0331D555ba07369642aE122f66b271Ea",
       "symbol": "FLASH",
       "name": "HERO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA72c57C319303564Cf42a47296C8f29E95507D51",
+      "symbol": "PAULG",
+      "name": "PAULGRAHAM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20188,
-    "minor": 20188,
+    "major": 20189,
+    "minor": 20189,
     "patch": 86
   }
 }
