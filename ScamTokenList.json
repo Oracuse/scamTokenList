@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf1B2a6f28355d283705Aaf04d9BAe6B6BcF86FEb",
-      "symbol": "CE",
-      "name": "CommonEra",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6cB46E4840de75Dd641eC6500c9B3E7a573E0A71",
       "symbol": "BUSSIN",
       "name": "Bussin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32627151fD4AEFDde777AF40b1E7525541f077c7",
+      "symbol": "FULLSEND",
+      "name": "Arsenal",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20101,
-    "minor": 20101,
+    "major": 20102,
+    "minor": 20102,
     "patch": 86
   }
 }
