@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5f25c6f7c531594b489E9A11ECdEA39885d0Dd0",
-      "symbol": "MIKABOSHI20",
-      "name": "Mikaboshi20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x67D6D2C0432c81d4493fe213af67e7002CE0ed67",
       "symbol": "EMB",
       "name": "Embryo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf9613367ed74098927d4c3B9fd7Bb984D9217CBc",
+      "symbol": "WCD",
+      "name": "WorldCupDejitaru",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20143,
-    "minor": 20143,
+    "major": 20144,
+    "minor": 20144,
     "patch": 86
   }
 }
