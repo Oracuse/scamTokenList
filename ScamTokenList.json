@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x39d16074e090C499eF3e574b646E35E21A513615",
-      "symbol": "BITS",
-      "name": "Kibble",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x95F64742280c3fB5f8cb939a3d8Ca5b15D8A8C32",
       "symbol": "20K",
       "name": "20000",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95C300dd4564a4744Da4db04D15Bfdf8261EF746",
+      "symbol": "PAUL",
+      "name": "PaulGraham",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20186,
-    "minor": 20186,
+    "major": 20187,
+    "minor": 20187,
     "patch": 86
   }
 }
