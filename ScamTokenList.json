@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0f9B5A041C4172d29aDbb4C125074C523f6B5Fbc",
-      "symbol": "RGNRK",
-      "name": "RAGNAROK",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBF08542d62cD09a4d0AA310e00f998410647A15b",
       "symbol": "SHISHOU",
       "name": "FourSymbols",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x52732596eA5d5260C12728606F1000ac7DDA6B2d",
+      "symbol": "SANTA",
+      "name": "SantaFloki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20135,
-    "minor": 20135,
+    "major": 20136,
+    "minor": 20136,
     "patch": 86
   }
 }
