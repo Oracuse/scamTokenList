@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA2776A25B6b518975c9f64B8d1Cd0f6f7EFdE996",
-      "symbol": "DOGE20",
-      "name": "ProofofDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaa3308CabF0a39B432e310303e7f388B8eb41B9C",
       "symbol": "LUCID",
       "name": "LucidTech",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2f414a1a980Be531271A60CFc32004e065E9d01",
+      "symbol": "QATAR",
+      "name": "FIFAWorldCupQatar20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20120,
-    "minor": 20120,
+    "major": 20121,
+    "minor": 20121,
     "patch": 86
   }
 }
