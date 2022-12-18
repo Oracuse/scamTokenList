@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc78bC7C1820006F3F28BEaFd1121528934A79c54",
-      "symbol": "YAMAINU",
-      "name": "PrincessMononokeWol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0f9B5A041C4172d29aDbb4C125074C523f6B5Fbc",
       "symbol": "RGNRK",
       "name": "RAGNAROK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x562B20745AeEab436916e3B3E469651AA3FD8C71",
+      "symbol": "DCHADS",
+      "name": "DejitaruChads",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20134,
-    "minor": 20134,
+    "major": 20135,
+    "minor": 20135,
     "patch": 86
   }
 }
