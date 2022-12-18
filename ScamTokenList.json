@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51583744064734aA2F342DA0b82F59c608Cb8aBE",
-      "symbol": "TAKEDA",
-      "name": "Takeda",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCFc1121A161B1bdBB9FC861b9aE19CDb6f9D7D28",
       "symbol": "CHEMIST",
       "name": "Chemicals",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB10a1F20AcC355693F3adcf1AFF939DfaA276006",
+      "symbol": "SHIWAGMI",
+      "name": "SHIWAGMI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20110,
-    "minor": 20110,
+    "major": 20111,
+    "minor": 20111,
     "patch": 86
   }
 }
