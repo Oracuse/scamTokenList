@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBF08542d62cD09a4d0AA310e00f998410647A15b",
-      "symbol": "SHISHOU",
-      "name": "FourSymbols",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa3a1485d34931Db0a3988F5AE20106db66d19156",
       "symbol": "FK",
       "name": "Fukushima",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Fd90310E11358c67530BcB7655262a470965986",
+      "symbol": "OG",
+      "name": "OriginalInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20136,
-    "minor": 20136,
+    "major": 20137,
+    "minor": 20137,
     "patch": 86
   }
 }
