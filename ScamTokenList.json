@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd689dCB9976c0b41bb7e80037E3121C7365C8B9c",
-      "symbol": "REDPILL",
-      "name": "Redpill",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbC8DafD5e9B8b38A172aBa3CDEb8E3606f07Bf75",
       "symbol": "HORIZON",
       "name": "BLUEHORIZON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3687fB34a819E651d3a4414B5E65dcA324482d7a",
+      "symbol": "HALLELUJAH",
+      "name": "Hallelujah",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20115,
-    "minor": 20115,
+    "major": 20116,
+    "minor": 20116,
     "patch": 86
   }
 }
