@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x118C7272c53b6bD6763fF393B33AA30344f4F537",
-      "symbol": "AWOLF",
-      "name": "ArmouredWolf",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfF4B291126bb95ED3BAB2ecE724043428Ef712b4",
       "symbol": "ONE",
       "name": "JustOneToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6DF36370b14FC1c73c03E07a16FCB34F7Bfe3121",
+      "symbol": "NFTRUMP",
+      "name": "NFTRUMP",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20103,
-    "minor": 20103,
+    "major": 20104,
+    "minor": 20104,
     "patch": 86
   }
 }
