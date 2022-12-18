@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67D6D2C0432c81d4493fe213af67e7002CE0ed67",
-      "symbol": "EMB",
-      "name": "Embryo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15246C110Eb072cC7712B4D26f9AD8A8C95A6dd5",
       "symbol": "ETHCOGNITO",
       "name": "EthCognito",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d129Eb56b24f3101400B538C12D1A7298F462Ab",
+      "symbol": "METH",
+      "name": "Mountereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20144,
-    "minor": 20144,
+    "major": 20145,
+    "minor": 20145,
     "patch": 86
   }
 }
