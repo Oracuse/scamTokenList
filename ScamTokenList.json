@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x168a9E6595323F7eC41e51da3acCf62D86eE61Ff",
-      "symbol": "YNO",
-      "name": "YamataNoOrochi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3bA80eA4f950F785E94A248827aE43dA2622FE16",
       "symbol": "MOONSHOT",
       "name": "Moonshot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc8e26a1A9669fc9d015a5A4DE2387420d8e35dd5",
+      "symbol": "DOTA",
+      "name": "TheDragonsBlood",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20261,
-    "minor": 20261,
+    "major": 20262,
+    "minor": 20262,
     "patch": 86
   }
 }
