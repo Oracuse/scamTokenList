@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7572Bbf1dF240d20C49F5e5e7fA3F426c5d40755",
-      "symbol": "OS",
-      "name": "OnlyStables",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb94C4A6ed9910fE574583b5e1Ae49c07EBc83011",
       "symbol": "COKE",
       "name": "LosPepe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x769089188c6258Ec0b3a5fD9aB4f47EB2501598A",
+      "symbol": "FREN",
+      "name": "FrenCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20201,
-    "minor": 20201,
+    "major": 20202,
+    "minor": 20202,
     "patch": 86
   }
 }
