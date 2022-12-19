@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0147945b43EbE31eAC2C228bB87fa537fE05de9F",
-      "symbol": "BIWA",
-      "name": "Biwa",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDe72b67F67D1cB31BB1c37101C245375453B8873",
       "symbol": "CASPER",
       "name": "Casper",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04Df0506A7A77d3e800B980Bc8A2Bc8Db0175cd0",
+      "symbol": "USAGI",
+      "name": "DejitaruUsagi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20224,
-    "minor": 20224,
+    "major": 20225,
+    "minor": 20225,
     "patch": 86
   }
 }
