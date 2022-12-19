@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEA2fd4E1334088FE24b4Bcc319F67FE2A7CaFeFf",
-      "symbol": "OCC",
-      "name": "OCC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5ca409398cde68D48884C001B8FDFDDE2320cf55",
       "symbol": "HOSHIKA",
       "name": "HoshiKatachi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b044Facd0e930b262ef2eF8d395423650480002",
+      "symbol": "NYAN",
+      "name": "NyanCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20216,
-    "minor": 20216,
+    "major": 20217,
+    "minor": 20217,
     "patch": 86
   }
 }
