@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFCE712Aa936e29F735F4Cc286828F38874dC8e49",
-      "symbol": "SAVE",
-      "name": "CtrlS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x318C210626d49f20C4899dBE33d33ca20Cfb93dD",
       "symbol": "CDV",
       "name": "CruellaDeVil",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x042D81FEA461200D7FdefFF7e9A09f8dBe22b366",
+      "symbol": "TINU",
+      "name": "TakitoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20241,
-    "minor": 20241,
+    "major": 20242,
+    "minor": 20242,
     "patch": 86
   }
 }
