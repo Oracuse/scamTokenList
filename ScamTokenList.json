@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe3C4f548f3D51A1ACE5F5F7bCe7Ed808F6c2f09c",
-      "symbol": "POU",
-      "name": "Proofofuniverse",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0147945b43EbE31eAC2C228bB87fa537fE05de9F",
       "symbol": "BIWA",
       "name": "Biwa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46be62D1Fc217063c1bF1f35D788690ceC7a60cA",
+      "symbol": "SUKO",
+      "name": "Retsuko",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20223,
-    "minor": 20223,
+    "major": 20224,
+    "minor": 20224,
     "patch": 86
   }
 }
