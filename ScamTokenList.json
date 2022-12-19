@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08100e469389917Fe6058e46e2DD9940bd805384",
-      "symbol": "OGSHIB",
-      "name": "ShibOrigin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC05CE3682459643B4074Fa987D1006110406013E",
       "symbol": "CPI75",
       "name": "CPI75",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5eDf9960fFe50441a9292431d8e0477bC87161E",
+      "symbol": "SBFIX",
+      "name": "Shibflix",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20212,
-    "minor": 20212,
+    "major": 20213,
+    "minor": 20213,
     "patch": 86
   }
 }
