@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6c3e3A5aB7EB35c49Cd954bF254BBbCE41E2c53f",
-      "symbol": "SHG",
-      "name": "Shoganai",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x64AC32119E8A5a2904ca802a0B41E1EFE537ae85",
       "symbol": "EKERMIT",
       "name": "EvilKermit",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15416B4F337E8aC8e5f4A11cF8c4b09E3f291500",
+      "symbol": "MOON",
+      "name": "MoonBoy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20263,
-    "minor": 20263,
+    "major": 20264,
+    "minor": 20264,
     "patch": 86
   }
 }
