@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaaa1FaEB5017679E6C7b84a1752E906B53e4D96B",
-      "symbol": "JASMINE",
-      "name": "JASMINE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08100e469389917Fe6058e46e2DD9940bd805384",
       "symbol": "OGSHIB",
       "name": "ShibOrigin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D699140Cfda24eaB811439FdC3D6510E611506D",
+      "symbol": "BIRD",
+      "name": "DejitaruTori",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20211,
-    "minor": 20211,
+    "major": 20212,
+    "minor": 20212,
     "patch": 86
   }
 }
