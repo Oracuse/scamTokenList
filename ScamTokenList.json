@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE3Ad3c4E16b4b576A247Ec493Eb84055C3f54bDF",
-      "symbol": "MACHINE",
-      "name": "Machine",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7c821e70F9e93c5D4Cca80DBEACc7A29aA0f9485",
       "symbol": "KAIDA",
       "name": "DejitaruKaida",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6dFfaf0cb5F2ba38b30bD8E2bbd4e7C30590015C",
+      "symbol": "CHARON",
+      "name": "Conqueror",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20226,
-    "minor": 20226,
+    "major": 20227,
+    "minor": 20227,
     "patch": 86
   }
 }
