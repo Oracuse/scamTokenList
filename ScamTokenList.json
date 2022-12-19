@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1e4ECAA11608f8622b12076B94F9B03EF3100D04",
-      "symbol": "POW",
-      "name": "FederalReserveInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF7bbbbED72e388EDa885b6c114741f972a30358D",
       "symbol": "ABA",
       "name": "Abacus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd52726F3b970da03642fE91B9aD0864BAb1a50C5",
+      "symbol": "MILAREPA",
+      "name": "DejitaruTsangnyon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20248,
-    "minor": 20248,
+    "major": 20249,
+    "minor": 20249,
     "patch": 86
   }
 }
