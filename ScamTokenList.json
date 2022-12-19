@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36eCf67664FcD8409dD5968b4dE24285A51109E0",
-      "symbol": "RYO",
-      "name": "SpookyRyo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17002b81d2407d6Ea974a36a1741BB677C1dB4dB",
       "symbol": "TUMI",
       "name": "Tumikaya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa15741F25D9CFb79a6b3E70f4b3D1ED4707027C8",
+      "symbol": "WTRDGN",
+      "name": "WinterDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20206,
-    "minor": 20206,
+    "major": 20207,
+    "minor": 20207,
     "patch": 86
   }
 }
