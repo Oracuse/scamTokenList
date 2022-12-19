@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBeB79F425a794098a6fbf5f32c81AEFc6493D2bF",
-      "symbol": "IHYPE",
-      "name": "Hyperinflation",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88e2289d75c74fAB6a3a6F321f1E22E61288B387",
       "symbol": "CHAOS",
       "name": "TehLadder",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x836A9CE62192B073AEE929EC1Cab18d483Bb7AC5",
+      "symbol": "CZINU",
+      "name": "ChangpengZhaoInu",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20228,
-    "minor": 20228,
+    "major": 20229,
+    "minor": 20229,
     "patch": 86
   }
 }
