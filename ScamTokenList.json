@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x360d26fe5542dA50EF8Fb151d99cB3C9400dfbBd",
-      "symbol": "NEXTLEG",
-      "name": "Nextlegup",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf54Ee74c2A9b2b80DDEC174590b28C1d590C1eA8",
       "symbol": "WILL",
       "name": "Willows",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0ab53C6840D4A3A582471bDB1F7d9A4560B3C14C",
+      "symbol": "CANIS",
+      "name": "CanisInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20257,
-    "minor": 20257,
+    "major": 20258,
+    "minor": 20258,
     "patch": 86
   }
 }
