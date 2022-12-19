@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x564cF2D7eE71c9cd1839E382931785f8230F84dc",
-      "symbol": "REDPILL",
-      "name": "RedPill",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2Fd088949af022a7C8EcC7BCeC18cBC596f35360",
       "symbol": "PEPER",
       "name": "Pepereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x332a2dA4071d3A1d8f2b5B00B0Cb6Fe7E687Ae8f",
+      "symbol": "TSUHAKA",
+      "name": "TsunaguHakamada",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20203,
-    "minor": 20203,
+    "major": 20204,
+    "minor": 20204,
     "patch": 86
   }
 }
