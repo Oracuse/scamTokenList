@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x47f3573A071990cd6B20389131930D036b86D353",
-      "symbol": "ROSHI",
-      "name": "RoninShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x640c3769Cd1A93dBe5dbad1DB1453Bb5BbFCFDFE",
       "symbol": "RYOBI",
       "name": "RyobiKagura",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF266d2d583cDAcc5471c98E01B05a15F9336b4a8",
+      "symbol": "WEI",
+      "name": "WeInvincibles",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20246,
-    "minor": 20246,
+    "major": 20247,
+    "minor": 20247,
     "patch": 86
   }
 }
