@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDe72b67F67D1cB31BB1c37101C245375453B8873",
-      "symbol": "CASPER",
-      "name": "Casper",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE3Ad3c4E16b4b576A247Ec493Eb84055C3f54bDF",
       "symbol": "MACHINE",
       "name": "Machine",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca78d0217174936Ec1ac4f2c32DC9e62aEb9eF85",
+      "symbol": "SBFLX",
+      "name": "Shibflix",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20225,
-    "minor": 20225,
+    "major": 20226,
+    "minor": 20226,
     "patch": 86
   }
 }
