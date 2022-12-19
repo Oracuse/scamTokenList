@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD5b7a300AA4c5F7b6637E1ec5446d425b4A24f82",
-      "symbol": "HOMELESS",
-      "name": "HOMELESS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x360d26fe5542dA50EF8Fb151d99cB3C9400dfbBd",
       "symbol": "NEXTLEG",
       "name": "Nextlegup",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa4Ca9dBA1006705a44e606D27f3ae9274bB52a61",
+      "symbol": "SLD",
+      "name": "SantasLittleDwagon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20256,
-    "minor": 20256,
+    "major": 20257,
+    "minor": 20257,
     "patch": 86
   }
 }
