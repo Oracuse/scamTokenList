@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4C16834Fa53d2a391B813c5b7F51aaeDcaEF48fa",
-      "symbol": "SHIGAWA",
-      "name": "SHINAGAWA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1700f960a29d2dc10107de333B9635CD90aBD708",
       "symbol": "10000X",
       "name": "AApesDream",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6801e294e8648009554aC417858F048ab29Cfb88",
+      "symbol": "1000X",
+      "name": "1000X",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20221,
-    "minor": 20221,
+    "major": 20222,
+    "minor": 20222,
     "patch": 86
   }
 }
