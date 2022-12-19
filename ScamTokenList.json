@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1768b4bBC86011a79765D7d8B2E4A9068Abf69DC",
-      "symbol": "POI",
-      "name": "ProofOfInflation",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB8D52574c6511934A1e72Ba434a88835B76D65Ef",
       "symbol": "BLT",
       "name": "BaconLettuceTomato",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c02EF55a98f73Ef2fB684394D0cf2f86D256241",
+      "symbol": "TSUNK",
+      "name": "DragonPunk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20214,
-    "minor": 20214,
+    "major": 20215,
+    "minor": 20215,
     "patch": 86
   }
 }
