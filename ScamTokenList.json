@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2Ee3D5b2a433e1424290Df270343a99AA3FeD8de",
-      "symbol": "APESER",
-      "name": "ApeSerum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5e57EA71848Ed42092CF5B75C0200E9b0356d11a",
       "symbol": "KINGOFEGYPT",
       "name": "Monarchical",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8fcFb09cF36C9F1469b03127f6BAd379e8D613BC",
+      "symbol": "KARUTO",
+      "name": "HimitsunoKaruto",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20232,
-    "minor": 20232,
+    "major": 20233,
+    "minor": 20233,
     "patch": 86
   }
 }
