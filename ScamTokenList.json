@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x65D48e0B759d9EC3DCDe1d8AbC920BF8307D24E3",
-      "symbol": "EUR",
-      "name": "EuroInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x30937b8c9e23368bCaf9cCa88be3857B872fE509",
       "symbol": "WIENER",
       "name": "SausageDog",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62C088e6286F5Be5aC2919C93db880bF6e3cf421",
+      "symbol": "BAD",
+      "name": "VeryBadToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20254,
-    "minor": 20254,
+    "major": 20255,
+    "minor": 20255,
     "patch": 86
   }
 }
