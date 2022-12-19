@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB8D52574c6511934A1e72Ba434a88835B76D65Ef",
-      "symbol": "BLT",
-      "name": "BaconLettuceTomato",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEA2fd4E1334088FE24b4Bcc319F67FE2A7CaFeFf",
       "symbol": "OCC",
       "name": "OCC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5aad066451fA2318d5F51FF21f2878cd1e42132",
+      "symbol": "CAT",
+      "name": "DejitaruNeko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20215,
-    "minor": 20215,
+    "major": 20216,
+    "minor": 20216,
     "patch": 86
   }
 }
