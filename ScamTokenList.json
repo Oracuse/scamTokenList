@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3a3B0586835A24DE2138B35B9C9023464ccd7AF2",
-      "symbol": "MERCY",
-      "name": "Dumptober",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD69C8685A4aCc4afc8fd856a6770b3a85A672A03",
       "symbol": "HARVEY",
       "name": "HarveyCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90A1Dd7f8dAD69FD1000A2d185D29BfddCe970F6",
+      "symbol": "FUNICULAR",
+      "name": "FunicularToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20230,
-    "minor": 20230,
+    "major": 20231,
+    "minor": 20231,
     "patch": 86
   }
 }
