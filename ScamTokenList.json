@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD69C8685A4aCc4afc8fd856a6770b3a85A672A03",
-      "symbol": "HARVEY",
-      "name": "HarveyCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2Ee3D5b2a433e1424290Df270343a99AA3FeD8de",
       "symbol": "APESER",
       "name": "ApeSerum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F2165cB57b8a57a127F978314cdAa5Bdc3CE012",
+      "symbol": "SANTOGE",
+      "name": "SANTADOGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20231,
-    "minor": 20231,
+    "major": 20232,
+    "minor": 20232,
     "patch": 86
   }
 }
