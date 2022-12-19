@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x274A6723556B8682B55dd52A942dCC56ab60a214",
-      "symbol": "AORUN",
-      "name": "DragonKing",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x65D48e0B759d9EC3DCDe1d8AbC920BF8307D24E3",
       "symbol": "EUR",
       "name": "EuroInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97fa209A22e15ECd93b0647De4187f18CF58D81B",
+      "symbol": "HANUKKAH",
+      "name": "HanukkahInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20253,
-    "minor": 20253,
+    "major": 20254,
+    "minor": 20254,
     "patch": 86
   }
 }
