@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17002b81d2407d6Ea974a36a1741BB677C1dB4dB",
-      "symbol": "TUMI",
-      "name": "Tumikaya",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x878333C148a026Ce23DECD689D79787d228a5CA9",
       "symbol": "CODA",
       "name": "Centralism",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x818A9D27A555f3606288058C0d69a544cf573487",
+      "symbol": "SR",
+      "name": "SantaRabbit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20207,
-    "minor": 20207,
+    "major": 20208,
+    "minor": 20208,
     "patch": 86
   }
 }
