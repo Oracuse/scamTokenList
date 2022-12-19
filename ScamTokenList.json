@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1A6710f18E7936B1F59B88331F3389b68f63da82",
-      "symbol": "CPI",
-      "name": "CreamPiesInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2bE9dc71cCc7c9AE1144Eb631b47D1E55049EF26",
       "symbol": "SOCCER",
       "name": "SoccerInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b0d432aB9DF93adc1F9eDc02496fc9a7e3e0660",
+      "symbol": "MOONSHIP",
+      "name": "Moonship",
+      "decimals": 16,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20259,
-    "minor": 20259,
+    "major": 20260,
+    "minor": 20260,
     "patch": 86
   }
 }
