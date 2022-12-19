@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC05CE3682459643B4074Fa987D1006110406013E",
-      "symbol": "CPI75",
-      "name": "CPI75",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1768b4bBC86011a79765D7d8B2E4A9068Abf69DC",
       "symbol": "POI",
       "name": "ProofOfInflation",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3b9a8063788d1E6007Df926219e2C91A9e9259aD",
+      "symbol": "LILINU",
+      "name": "SantasLittleInus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20213,
-    "minor": 20213,
+    "major": 20214,
+    "minor": 20214,
     "patch": 86
   }
 }
