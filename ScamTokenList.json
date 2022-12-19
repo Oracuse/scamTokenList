@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2Fd088949af022a7C8EcC7BCeC18cBC596f35360",
-      "symbol": "PEPER",
-      "name": "Pepereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE27E1b260a6f5816a98b0Ef28990A2D79684fa3e",
       "symbol": "KODAK",
       "name": "KodakInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC61aBD1C538515f705E8092b811B91E241b3577C",
+      "symbol": "PPL",
+      "name": "PurePotential",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20204,
-    "minor": 20204,
+    "major": 20205,
+    "minor": 20205,
     "patch": 86
   }
 }
