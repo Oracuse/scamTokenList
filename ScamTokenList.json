@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1700f960a29d2dc10107de333B9635CD90aBD708",
-      "symbol": "10000X",
-      "name": "AApesDream",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe3C4f548f3D51A1ACE5F5F7bCe7Ed808F6c2f09c",
       "symbol": "POU",
       "name": "Proofofuniverse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0e0b588C3A0434E3CDc99b0A94a9dcEB62B356Bc",
+      "symbol": "RYUU",
+      "name": "HouseofDragons",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20222,
-    "minor": 20222,
+    "major": 20223,
+    "minor": 20223,
     "patch": 86
   }
 }
