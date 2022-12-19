@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd0792f0033482F3b66fF832d3A1f18f1f0fF75Ad",
-      "symbol": "POV",
-      "name": "ProofOfVitalik",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x05607Cbe4c032508aeBf0e7287123f51743AC45C",
       "symbol": "NAFOD",
       "name": "NoApparentFearofDea",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81e4346Abc77E41FCE4fa34e04726decE2a843fF",
+      "symbol": "X",
+      "name": "XProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20234,
-    "minor": 20234,
+    "major": 20235,
+    "minor": 20235,
     "patch": 86
   }
 }
