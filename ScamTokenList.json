@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE27E1b260a6f5816a98b0Ef28990A2D79684fa3e",
-      "symbol": "KODAK",
-      "name": "KodakInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x36eCf67664FcD8409dD5968b4dE24285A51109E0",
       "symbol": "RYO",
       "name": "SpookyRyo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97dE1B3D1b747426964fbfc73D3ec6CB32B817D6",
+      "symbol": "ITERO",
+      "name": "ITERO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20205,
-    "minor": 20205,
+    "major": 20206,
+    "minor": 20206,
     "patch": 86
   }
 }
