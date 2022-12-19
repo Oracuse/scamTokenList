@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x05607Cbe4c032508aeBf0e7287123f51743AC45C",
-      "symbol": "NAFOD",
-      "name": "NoApparentFearofDea",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6976eaB9a9347A1eFC3DB74bE441b957D14A42bf",
       "symbol": "RZR",
       "name": "Rizer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43c0368e495552bD0841DC4dBDE81FD15b095549",
+      "symbol": "BXV",
+      "name": "BinanceXVoyager",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20235,
-    "minor": 20235,
+    "major": 20236,
+    "minor": 20236,
     "patch": 86
   }
 }
