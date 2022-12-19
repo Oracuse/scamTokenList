@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x602F0551D577CDadaAb614e8552a02a7Af1a6B1E",
-      "symbol": "INODE",
-      "name": "iNode512",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6a8d54FE3B7e48ed44f868B902B07C0cD39c615c",
       "symbol": "CYPHER",
       "name": "Cypher",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe93cA95b317A529eB0823BC930ED525B1f66FAd7",
+      "symbol": "MIZUCHI",
+      "name": "DejitaruMizuchi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20219,
-    "minor": 20219,
+    "major": 20220,
+    "minor": 20220,
     "patch": 86
   }
 }
