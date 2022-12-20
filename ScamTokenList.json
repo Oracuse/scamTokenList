@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa7Eb5E76Ee2710cDf9fBd0FC8C863C125C062977",
-      "symbol": "POWC",
-      "name": "ProofofWorldCup",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1CC61A2b97183be24Ff307BdEAd57Fc11C41e5EB",
       "symbol": "BORING",
       "name": "BoringToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC5B2b7954F0b8D26fF0F9e26A52d056Da854Ec20",
+      "symbol": "KIYO",
+      "name": "KiyoWarrior",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20268,
-    "minor": 20268,
+    "major": 20269,
+    "minor": 20269,
     "patch": 86
   }
 }
