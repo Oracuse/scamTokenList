@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb719750AC2d6185B85Ae9aD91710295b22cc412b",
-      "symbol": "PAIN",
-      "name": "aether",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa61685D736D696C96CC22a3021Db329999400C6B",
       "symbol": "SAYONARA",
       "name": "Sayonara",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7FC48b063f412f542Dda800538073d547A82FB54",
+      "symbol": "AID",
+      "name": "Aidoge",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20308,
-    "minor": 20308,
+    "major": 20309,
+    "minor": 20309,
     "patch": 86
   }
 }
