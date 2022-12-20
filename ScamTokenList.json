@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x55fdb5B29236966c07E273b88CB0a629B721FDbF",
-      "symbol": "KAZE",
-      "name": "kaza",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2af9df8a7d76B0AE95e7549271C109aE8848Ea47",
       "symbol": "MOM",
       "name": "MonthofMemes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28F927bbfa34863145b1DF34b1d9FBdf917734eB",
+      "symbol": "ECHO",
+      "name": "Echo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20310,
-    "minor": 20310,
+    "major": 20311,
+    "minor": 20311,
     "patch": 86
   }
 }
