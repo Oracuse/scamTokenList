@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1EcC236d55879282C9E8321af7bA764E41D9C378",
-      "symbol": "KAIDA",
-      "name": "DejitaruKaida",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbE18b1ad70975af153Da73a12F03BEE15a90ddE2",
       "symbol": "THE",
       "name": "THEProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2eF54Dc0703d425710852870764FB66bc5A12E2",
+      "symbol": "SSANTA",
+      "name": "StableSanta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20403,
-    "minor": 20403,
+    "major": 20404,
+    "minor": 20404,
     "patch": 86
   }
 }
