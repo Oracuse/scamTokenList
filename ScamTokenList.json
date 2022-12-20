@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA705b4D03933dfB3532597A2B0Bbf23D47Ae6944",
-      "symbol": "ATTITUDE",
-      "name": "ADegensMind",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88767445a898096BA8054118d88100a4742f026C",
       "symbol": "SANDS",
       "name": "SAND",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf23E95FA6fCED1488D9A7F38e3a11Ad0B9B30166",
+      "symbol": "SSN",
+      "name": "ShibaSocialNetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20322,
-    "minor": 20322,
+    "major": 20323,
+    "minor": 20323,
     "patch": 86
   }
 }
