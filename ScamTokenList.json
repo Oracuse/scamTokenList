@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x64AC32119E8A5a2904ca802a0B41E1EFE537ae85",
-      "symbol": "EKERMIT",
-      "name": "EvilKermit",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFC8d4035b3c74605b89b18c6f34387025D62D51b",
       "symbol": "POH",
       "name": "ProofOfHalloween",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x944e8C9DAf1AF5De2c5e430f1c2028d447A76699",
+      "symbol": "SETHER",
+      "name": "Santareum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20264,
-    "minor": 20264,
+    "major": 20265,
+    "minor": 20265,
     "patch": 86
   }
 }
