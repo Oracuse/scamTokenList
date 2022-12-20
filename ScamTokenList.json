@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE823C7807f2A7EE8cE83B662c38849D0893c2837",
-      "symbol": "HODL",
-      "name": "HODL",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4c992895649915dA0E110a314Cd5073B1C1F89B0",
       "symbol": "FCCINU",
       "name": "FuckClimateChangeIn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x54C840eC6a068276b33F4ffeabBaa5C3D24508e2",
+      "symbol": "TWEETN",
+      "name": "TweetN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20342,
-    "minor": 20342,
+    "major": 20343,
+    "minor": 20343,
     "patch": 86
   }
 }
