@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC5FDf3569af74f3B3e97E46A187a626352D2d508",
-      "symbol": "ZINU",
-      "name": "ZINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf81c0fd05345bC258F31cBB12Cf771EB4d2271cd",
       "symbol": "THEVOID",
       "name": "TheVoidProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x324b0f2Fd9BA0464DEAbD17cDd5bB740A401b4e6",
+      "symbol": "KIYO",
+      "name": "AnchinKiyohime",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20415,
-    "minor": 20415,
+    "major": 20416,
+    "minor": 20416,
     "patch": 86
   }
 }
