@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf81c0fd05345bC258F31cBB12Cf771EB4d2271cd",
-      "symbol": "THEVOID",
-      "name": "TheVoidProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xebb57891684C49a1770350c74ea753C0925DA7C3",
       "symbol": "SYCN",
       "name": "Synchronize",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x849CDAC3b2c645AF71aa463F8da6a3686D562425",
+      "symbol": "CLOUD9",
+      "name": "Cloud9",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20416,
-    "minor": 20416,
+    "major": 20417,
+    "minor": 20417,
     "patch": 86
   }
 }
