@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x85a0F47AAb805e208435820b6C242b38021FA9e6",
-      "symbol": "KAIDA",
-      "name": "DejitaruKaida",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x889E918C7B5BD573564157Ca66A12473380c3985",
       "symbol": "M",
       "name": "Majestic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3bf41100F7A9d1A042e915F6E25cc81f1E7bdc0",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20396,
-    "minor": 20396,
+    "major": 20397,
+    "minor": 20397,
     "patch": 86
   }
 }
