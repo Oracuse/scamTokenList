@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE5715AF144EE0bb201169B7c00D4E5b1f0ce8F29",
-      "symbol": "DIU",
-      "name": "DIU",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDe81548A89AeE02FC41780be155f36842Fb425D9",
       "symbol": "BTC1M",
       "name": "AChadsDream",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBFc4c673De00d95D6373862c953E61E6D8170424",
+      "symbol": "AITL",
+      "name": "AITools",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20353,
-    "minor": 20353,
+    "major": 20354,
+    "minor": 20354,
     "patch": 86
   }
 }
