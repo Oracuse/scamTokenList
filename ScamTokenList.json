@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x769362997d369ed313C4AF4a867900326fc98FB5",
-      "symbol": "BANSHO",
-      "name": "Shinra",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00a424A58096855a4c18A378D99874aC8cDE279D",
       "symbol": "BRIS",
       "name": "BridgeSplit",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f3EE4f7aECb18C76046586CD1810D04bB44ACf6",
+      "symbol": "MAI",
+      "name": "MetaAIToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20358,
-    "minor": 20358,
+    "major": 20359,
+    "minor": 20359,
     "patch": 86
   }
 }
