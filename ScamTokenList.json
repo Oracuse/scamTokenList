@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5ba819F6560b60A020e1a2412d4eA89c3e2FC576",
-      "symbol": "TPRO",
-      "name": "TheProtocolPro",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x07219EacA26Fd6f480bfcfD3c3d26295E5469270",
       "symbol": "OPUS",
       "name": "MagnumOpus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6cA14a8277c356DFB31CE91e2FBc47803B291eF6",
+      "symbol": "YUKINKO",
+      "name": "TheSnowChild",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20408,
-    "minor": 20408,
+    "major": 20409,
+    "minor": 20409,
     "patch": 86
   }
 }
