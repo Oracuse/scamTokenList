@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC38560Bf9652b408e60452A775961b72C0ec43c5",
-      "symbol": "TAKARA",
-      "name": "TakaraKuji",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1b8Ef8Dc6Ed184EAc8e4c78a255A5768d5C74368",
       "symbol": "MONO",
       "name": "Mona",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfFBAe176C9260242c30f6e6292C18E7B6e08c84a",
+      "symbol": "IMO",
+      "name": "InMyOpinion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20347,
-    "minor": 20347,
+    "major": 20348,
+    "minor": 20348,
     "patch": 86
   }
 }
