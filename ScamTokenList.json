@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x572A9f1723f4D1094f49d31d953F3c922B81208c",
-      "symbol": "DEGFROG",
-      "name": "Froginami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51718927D5556148a010feff7E9c531DA7D14847",
       "symbol": "AZA",
       "name": "AZAWAKH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB496b847F193E9795aB491aEe8CbEB4d0B56a4a",
+      "symbol": "DROPZ",
+      "name": "DROPZ",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20280,
-    "minor": 20280,
+    "major": 20281,
+    "minor": 20281,
     "patch": 86
   }
 }
