@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9b775A8BB4b45cc12D928294Be5a355e8e2296cc",
-      "symbol": "BOO",
-      "name": "BooInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF72C5fb37c9Ed2C8E25855782F46b1E73a0187e5",
       "symbol": "BLK0",
       "name": "Block0",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Ea46EA9B583297EAb8e4fBa5CAd9EB7FaCb2C07",
+      "symbol": "777",
+      "name": "TheLuckyNumber",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20275,
-    "minor": 20275,
+    "major": 20276,
+    "minor": 20276,
     "patch": 86
   }
 }
