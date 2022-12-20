@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfd9184FDa87E17973634f8328c55E0558795f45a",
-      "symbol": "WEI",
-      "name": "weis",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10467A4E864F993F95948081c9D4B6aD54B4c16b",
       "symbol": "URUS",
       "name": "Urusinu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x241AbDC224c8DBe5aC59420E0938166DC6E26F31",
+      "symbol": "SANTADOGE",
+      "name": "SantaDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20334,
-    "minor": 20334,
+    "major": 20335,
+    "minor": 20335,
     "patch": 86
   }
 }
