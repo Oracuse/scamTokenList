@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2B8468e2EaCe29516f9f277d5FeA223cB56aEdc1",
-      "symbol": "V",
-      "name": "VeniVidiVici",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD95f441A49eD4665Cae6FF3b01662D115dC5ca05",
       "symbol": "KDA",
       "name": "DejitaruKaida",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C042Be4Bc2d2074AAD8f0EEC8EEF4dE8414A320",
+      "symbol": "BLACK",
+      "name": "BLACKNETWORK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20381,
-    "minor": 20381,
+    "major": 20382,
+    "minor": 20382,
     "patch": 86
   }
 }
