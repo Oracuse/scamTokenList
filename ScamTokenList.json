@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC9F572df6f0cD62dBD85A31945e1205973369988",
-      "symbol": "MAYUSUKI",
-      "name": "Mayusuki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6aC1Ed22d7eC0290805Faa9cE7832fd2E9141b77",
       "symbol": "ETHEREUM20",
       "name": "ETHEREUM2",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf765A0D5a142E410D1049eC785e6b97760cc4C63",
+      "symbol": "JEETALIK",
+      "name": "Jeetalikinu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20422,
-    "minor": 20422,
+    "major": 20423,
+    "minor": 20423,
     "patch": 86
   }
 }
