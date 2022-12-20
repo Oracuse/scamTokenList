@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8F924f5b90b0673dF4FafBEFB1e5e8dD114E15C2",
-      "symbol": "HANTARO",
-      "name": "Hantaro",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1EcC236d55879282C9E8321af7bA764E41D9C378",
       "symbol": "KAIDA",
       "name": "DejitaruKaida",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x072Cd9c1D60a49CE705cAA70837DB73770D5846d",
+      "symbol": "CHARTAI",
+      "name": "ChartAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20402,
-    "minor": 20402,
+    "major": 20403,
+    "minor": 20403,
     "patch": 86
   }
 }
