@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2911af16F957C1F2ab6e8e0caF5420f4003AF3f0",
-      "symbol": "CPI82",
-      "name": "CPI82",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xea15CfD3241ac6FcF323E54bBCCd2731bd7Ba734",
       "symbol": "FLYINGPIG",
       "name": "ADegensStrive",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2b5aeD99041943831Ef81230Bb1F3EfAE3Ed6bCB",
+      "symbol": "KAIDO",
+      "name": "DjitaruKaido",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20314,
-    "minor": 20314,
+    "major": 20315,
+    "minor": 20315,
     "patch": 86
   }
 }
