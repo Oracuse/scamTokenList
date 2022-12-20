@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe385b812859a4C0CCBBE2fadB46fbCFF60D354fc",
-      "symbol": "VBOYZ",
-      "name": "VitalikBoz",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0A8f8dAcB11a7d0986853099FF4509A17ffaC85a",
       "symbol": "FFLOKI",
       "name": "FutureFloki",
@@ -110000,11 +109989,33 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x982c9997a80B953bD06CE26932E235ED512f12CE",
+      "symbol": "KASA",
+      "name": "Kasaobake",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57dBE308354777c18D419E1d29c6AE2a17C75696",
+      "symbol": "OUSHI",
+      "name": "Oushi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20355,
-    "minor": 20355,
+    "major": 20357,
+    "minor": 20357,
     "patch": 86
   }
 }
