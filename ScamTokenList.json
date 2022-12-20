@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8dc296C11dfedE3220A0e26E56810C8977Cb3895",
-      "symbol": "ALC",
-      "name": "TheAlchemist",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6dc5d006F91FE397661fc302A286D2E4d3746083",
       "symbol": "NOMO",
       "name": "Nomocracy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe11003D35f0d2F38Bc57464a2CCaE15C85B6c177",
+      "symbol": "RABBIT",
+      "name": "ADogsDream",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20385,
-    "minor": 20385,
+    "major": 20386,
+    "minor": 20386,
     "patch": 86
   }
 }
