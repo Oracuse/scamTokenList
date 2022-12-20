@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x04d4411e9c0403eC0Da3B7a75364618b61A99a6d",
-      "symbol": "ESC",
-      "name": "Escape",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3B572eB31A5a13Bc067bA936a1D22088DfAA1Ad2",
       "symbol": "PND",
       "name": "ADegensNightmare",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb6FD38ba1078b52d476c6d9a73A03470C9a09403",
+      "symbol": "AAG",
+      "name": "ArabianApeGrow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20370,
-    "minor": 20370,
+    "major": 20371,
+    "minor": 20371,
     "patch": 86
   }
 }
