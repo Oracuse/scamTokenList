@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x00a424A58096855a4c18A378D99874aC8cDE279D",
-      "symbol": "BRIS",
-      "name": "BridgeSplit",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x445582147ADE122a4845E2BA11863d991236be05",
       "symbol": "H420",
       "name": "Halloweed",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B1CBA0b329E2F077e2B3096E55Fbb8C6E4bac69",
+      "symbol": "NGL",
+      "name": "NGL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20359,
-    "minor": 20359,
+    "major": 20360,
+    "minor": 20360,
     "patch": 86
   }
 }
