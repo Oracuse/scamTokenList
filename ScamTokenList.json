@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9D63FE41aB6FACCC473898d3Ee153A73c93b6227",
-      "symbol": "KINTSUGI",
-      "name": "BloomofSeasons",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8dc296C11dfedE3220A0e26E56810C8977Cb3895",
       "symbol": "ALC",
       "name": "TheAlchemist",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xedC46449AbB3c38A5dF5Efa355c067a9FB01D993",
+      "symbol": "KARMA",
+      "name": "KarmaDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20384,
-    "minor": 20384,
+    "major": 20385,
+    "minor": 20385,
     "patch": 86
   }
 }
