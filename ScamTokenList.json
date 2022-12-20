@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFaA0150Bb305bfF091dfF7358d2659D810d36201",
-      "symbol": "BLOOD",
-      "name": "BloodyHalloween",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2911af16F957C1F2ab6e8e0caF5420f4003AF3f0",
       "symbol": "CPI82",
       "name": "CPI82",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbB6558A2e774a1a2f985582aB1C6DFB8638Fe90d",
+      "symbol": "KTA",
+      "name": "KeepTwitterAlive",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20313,
-    "minor": 20313,
+    "major": 20314,
+    "minor": 20314,
     "patch": 86
   }
 }
