@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4bae57AfC500284A239D20BF533491a6BBCb26a3",
-      "symbol": "KAIDA",
-      "name": "DejitaruKaida",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x43866965A4f383e9Bd904908617AF98f960791af",
       "symbol": "ALCHEMY",
       "name": "Alchemy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8579607362918Dd533498c496080eB83ae612214",
+      "symbol": "DEJITARU",
+      "name": "DejitaruERC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20388,
-    "minor": 20388,
+    "major": 20389,
+    "minor": 20389,
     "patch": 86
   }
 }
