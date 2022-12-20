@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0de49A09652879aa7F05adc7B6D4a136945aB1BC",
-      "symbol": "POETH",
-      "name": "ProofofETH",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0E777B92da1aB10301352A858e5E04f9eAC05f71",
       "symbol": "GOD",
       "name": "Anunnaki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfAE1430D9ec3C278Ee41F12080302D079422F194",
+      "symbol": "TREAT",
+      "name": "Treat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20324,
-    "minor": 20324,
+    "major": 20325,
+    "minor": 20325,
     "patch": 86
   }
 }
