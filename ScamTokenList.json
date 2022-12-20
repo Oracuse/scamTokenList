@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x518cA7Ae65b73aC372Fe18D684E56ECDFCE61c16",
-      "symbol": "PRP",
-      "name": "Purple",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4772173F0B742C9914bCcF7a1CbD7236Fc4a53ae",
       "symbol": "THEPEPE",
       "name": "ThePepe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB353E3379B22c4Bb83Ba0522c5495f660842CF27",
+      "symbol": "TEMPLEDAO",
+      "name": "TempleDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20431,
-    "minor": 20431,
+    "major": 20432,
+    "minor": 20432,
     "patch": 86
   }
 }
