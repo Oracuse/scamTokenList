@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE04Ab82D0D6f52A2E415aC286898e56CcB4F8FcE",
-      "symbol": "JAMESWEB",
-      "name": "1000LightYears",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x77d6F87F7F83C9c9fda4D29566a29eDA0c7eB99C",
       "symbol": "LAUNCH",
       "name": "OperationMoonshot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE9c5eE7894415f1a8D1FE75f5F10B3A5Fc7Bb770",
+      "symbol": "GUMMY",
+      "name": "GummyBears",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20329,
-    "minor": 20329,
+    "major": 20330,
+    "minor": 20330,
     "patch": 86
   }
 }
