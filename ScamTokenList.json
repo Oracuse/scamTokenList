@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdC3A8D621B8893397C392DAb59aB44dda3fAC363",
-      "symbol": "ACHE",
-      "name": "AlchemyPay",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8F924f5b90b0673dF4FafBEFB1e5e8dD114E15C2",
       "symbol": "HANTARO",
       "name": "Hantaro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x160254D7087C2769a87b4c43eE1F0CE6bd4d15E5",
+      "symbol": "SHIN",
+      "name": "DejitaruShin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20401,
-    "minor": 20401,
+    "major": 20402,
+    "minor": 20402,
     "patch": 86
   }
 }
