@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5fd37e1b5A61a21D021B087D287176Db5D75bD10",
-      "symbol": "CLOSE",
-      "name": "AltF4",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04d4411e9c0403eC0Da3B7a75364618b61A99a6d",
       "symbol": "ESC",
       "name": "Escape",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e2E5343e3aB0965FD79841FFdfe2D77A81E7aF2",
+      "symbol": "TIME",
+      "name": "DontWasteMy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20369,
-    "minor": 20369,
+    "major": 20370,
+    "minor": 20370,
     "patch": 86
   }
 }
