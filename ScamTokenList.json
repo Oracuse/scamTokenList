@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x58460cf25e0882bcE63BD302Da6547865A09c200",
-      "symbol": "FSK",
-      "name": "Forsaken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x104829FC93b110D3b14115eE2CA42B47a6C9d96c",
       "symbol": "ETHERIAN",
       "name": "ETHERIAN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B4A34DF7922a628c6B5A05439A92281ea361B59",
+      "symbol": "SHIBY",
+      "name": "Shibiyaki",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20282,
-    "minor": 20282,
+    "major": 20283,
+    "minor": 20283,
     "patch": 86
   }
 }
