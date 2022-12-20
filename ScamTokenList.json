@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1CC61A2b97183be24Ff307BdEAd57Fc11C41e5EB",
-      "symbol": "BORING",
-      "name": "BoringToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9a7B31dB66D16afe6e88658A69e16dc79778A660",
       "symbol": "NOCAP",
       "name": "StopCappin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B58E709edC5CA63FF1DAbb436Da262a9579a2e5",
+      "symbol": "TREAT",
+      "name": "TREATSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20269,
-    "minor": 20269,
+    "major": 20270,
+    "minor": 20270,
     "patch": 86
   }
 }
