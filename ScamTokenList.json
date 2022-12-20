@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1387eB111F273c7578B745b6cA28c4c9c49e0f1D",
-      "symbol": "SAFEWAVE",
-      "name": "SafeWave",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf59000CF363daD5bf63A10bea4df8D2d956e637b",
       "symbol": "TKAIDA",
       "name": "DejitaruKaida",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf37b2caF62CEB47251be64CBE4a8efD0f0A3DD89",
+      "symbol": "RICHDOGE",
+      "name": "RichDogeInu",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20392,
-    "minor": 20392,
+    "major": 20393,
+    "minor": 20393,
     "patch": 86
   }
 }
