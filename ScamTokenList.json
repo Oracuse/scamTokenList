@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD35B45E47984F3c4B3D49097a0A24920f9085e0E",
-      "symbol": "HOTH",
-      "name": "HatsOffToHagrid",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFE5dBa53bed205064e934975a625cA1A1FF95C3C",
       "symbol": "BASED",
       "name": "NothingButBased",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B44471D651f947D676B44cE889d50c0e2aB3447",
+      "symbol": "STELLAR",
+      "name": "StellarInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20412,
-    "minor": 20412,
+    "major": 20413,
+    "minor": 20413,
     "patch": 86
   }
 }
