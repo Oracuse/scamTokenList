@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB184c2aaf4c74e8A6bf288a2E76932fE636dF3aD",
-      "symbol": "THUG",
-      "name": "degenGang",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x518cA7Ae65b73aC372Fe18D684E56ECDFCE61c16",
       "symbol": "PRP",
       "name": "Purple",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1704C9961F0bd515AB17a8cA67aEA1C7Fc02fBC2",
+      "symbol": "CAI",
+      "name": "CopytradeAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20430,
-    "minor": 20430,
+    "major": 20431,
+    "minor": 20431,
     "patch": 86
   }
 }
