@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x27ff88f5054eFFa045159c94529b57031e46ca1E",
-      "symbol": "UKIYO",
-      "name": "LightinDarkness",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBA4C1c4AeD5d664588557546F5090e45aae99394",
       "symbol": "MACHINA",
       "name": "MeiMachina",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0055146a6b91c36DEC89a5c4b96D8d7543F92975",
+      "symbol": "2X",
+      "name": "VitalikJeeterin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20420,
-    "minor": 20420,
+    "major": 20421,
+    "minor": 20421,
     "patch": 86
   }
 }
