@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9a7B31dB66D16afe6e88658A69e16dc79778A660",
-      "symbol": "NOCAP",
-      "name": "StopCappin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9361ea95563Debe1ffF0B0dEB429ed4c984E29d6",
       "symbol": "INFERNO20",
       "name": "Inferno20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF8dC317016CB695FE1d6322042fcD78c94695655",
+      "symbol": "SBFLX",
+      "name": "Shibflix",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20270,
-    "minor": 20270,
+    "major": 20271,
+    "minor": 20271,
     "patch": 86
   }
 }
