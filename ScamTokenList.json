@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDf96dE88663875091b0Ec129D697e64291F226D6",
-      "symbol": "XXX",
-      "name": "3000X",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x43B05e2D9e3dC864AC634f0273B48174618bA874",
       "symbol": "PERC",
       "name": "Perrclitatus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEa4Fb65ded5884c89d463Cf90340F385126AfB93",
+      "symbol": "KAI",
+      "name": "Kaizen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20304,
-    "minor": 20304,
+    "major": 20305,
+    "minor": 20305,
     "patch": 86
   }
 }
