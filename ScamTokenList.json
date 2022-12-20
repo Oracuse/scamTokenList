@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD95f441A49eD4665Cae6FF3b01662D115dC5ca05",
-      "symbol": "KDA",
-      "name": "DejitaruKaida",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x30da93d9A7BB4349D96ACB6DE1e1BE3ED5E28FeB",
       "symbol": "PFZ",
       "name": "PfizerInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEE23C2622fE0B39B58f37C84900b6eFDE9C149aB",
+      "symbol": "SPROTOCOL",
+      "name": "SantaProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20382,
-    "minor": 20382,
+    "major": 20383,
+    "minor": 20383,
     "patch": 86
   }
 }
