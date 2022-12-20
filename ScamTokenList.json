@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdC42E32938e6FD20967cF5Cf147Fe67Bb5af6928",
-      "symbol": "THE",
-      "name": "THEProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdC3A8D621B8893397C392DAb59aB44dda3fAC363",
       "symbol": "ACHE",
       "name": "AlchemyPay",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d39465657C477c372c0cac5555bC6E9a7C7bE68",
+      "symbol": "BUDGE",
+      "name": "BudgeFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20400,
-    "minor": 20400,
+    "major": 20401,
+    "minor": 20401,
     "patch": 86
   }
 }
