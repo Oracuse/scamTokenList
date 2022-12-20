@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x59ea1b565B633045eBf5f4F2B237d5c6f34260Df",
-      "symbol": "COM",
-      "name": "CommunityOfMemes",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x65c500A4ED2Ff17edfE7cf48D4D3553495630d43",
       "symbol": "REKON",
       "name": "TheSoul",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40c4A159476bBB470E489e568F9bd00118550756",
+      "symbol": "STONE",
+      "name": "YellowStone",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20363,
-    "minor": 20363,
+    "major": 20364,
+    "minor": 20364,
     "patch": 86
   }
 }
