@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfe2EFf7f75D333c2234f85370195f0191969182d",
-      "symbol": "MBUNNY",
-      "name": "MetaBunny",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1387eB111F273c7578B745b6cA28c4c9c49e0f1D",
       "symbol": "SAFEWAVE",
       "name": "SafeWave",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E23251291CE7e4aBFC403A0c1F2Ff4735960804",
+      "symbol": "GOD",
+      "name": "DejitaruShin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20391,
-    "minor": 20391,
+    "major": 20392,
+    "minor": 20392,
     "patch": 86
   }
 }
