@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2733f41e69290a0eFA80DDaA09e8eadE4d696c88",
-      "symbol": "YUFUKUNARU",
-      "name": "YufukuNaru",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfd9184FDa87E17973634f8328c55E0558795f45a",
       "symbol": "WEI",
       "name": "weis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x989d2f40Cca1EE4e88e8cE8ceB8150025B29DCA0",
+      "symbol": "XMASU",
+      "name": "MeriiKurisumasu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20333,
-    "minor": 20333,
+    "major": 20334,
+    "minor": 20334,
     "patch": 86
   }
 }
