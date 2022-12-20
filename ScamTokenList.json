@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEc296c8e4d8910497d1c88c811851DD417c96e5B",
-      "symbol": "KAMIKO",
-      "name": "WindsOfFortune",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0FcD0700fa1598B1454402EaFC91F7209B2fbb10",
       "symbol": "STARFALL",
       "name": "STARFALL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14C91268d1C4941ce1D1C177Faf71Ec0E33E6d76",
+      "symbol": "BUY",
+      "name": "dont",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20290,
-    "minor": 20290,
+    "major": 20291,
+    "minor": 20291,
     "patch": 86
   }
 }
