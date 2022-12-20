@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4F9e822Cc86887Ede663827437545925Fcaf6016",
-      "symbol": "FCI",
-      "name": "FlokiCupInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAc3f60f344c9A5647EF4b306EF209e575BfA572B",
       "symbol": "THE20",
       "name": "TheProtocol2ZERO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17c32AD69C1D558F466a52F479E6682451356829",
+      "symbol": "KAPPA",
+      "name": "KappaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20406,
-    "minor": 20406,
+    "major": 20407,
+    "minor": 20407,
     "patch": 86
   }
 }
