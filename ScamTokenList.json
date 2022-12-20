@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14A6853ABEb0Fe9B6D5e770cc9C6bc0F500614B3",
-      "symbol": "WHALEDAO",
-      "name": "WhaleDao",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdC42E32938e6FD20967cF5Cf147Fe67Bb5af6928",
       "symbol": "THE",
       "name": "THEProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x013D0bd09252E7362f7f8Bf5B2A51b0b61148fc0",
+      "symbol": "GODDES",
+      "name": "YisunShin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20399,
-    "minor": 20399,
+    "major": 20400,
+    "minor": 20400,
     "patch": 86
   }
 }
