@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBEBD5152b0CC56EC58915f51d4097129d9c44934",
-      "symbol": "SRSLY",
-      "name": "Seriously",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc2DD7a72f16Cfa5DD8f9f5B49d251b2fd2163FF6",
       "symbol": "SXC",
       "name": "SocialClub",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5393ccBc322D1b9C02B496FBf6A44fD2C57a87D",
+      "symbol": "UDC",
+      "name": "UnstableDollarCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20367,
-    "minor": 20367,
+    "major": 20368,
+    "minor": 20368,
     "patch": 86
   }
 }
