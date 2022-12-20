@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7517467Bd6db37db4E5c12799255bec71BeFB36c",
-      "symbol": "APOR",
-      "name": "ADegensLife",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2B8468e2EaCe29516f9f277d5FeA223cB56aEdc1",
       "symbol": "V",
       "name": "VeniVidiVici",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdf3479D9651958Db42e8c42498c34424F26D25Ac",
+      "symbol": "SLAUGHT",
+      "name": "TheSealedBeast",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20380,
-    "minor": 20380,
+    "major": 20381,
+    "minor": 20381,
     "patch": 86
   }
 }
