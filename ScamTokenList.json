@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9899Dc5B45072Eb12562fd32cd27F9D706606f67",
-      "symbol": "KAIDA",
-      "name": "DejitaruKaida",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2733f41e69290a0eFA80DDaA09e8eadE4d696c88",
       "symbol": "YUFUKUNARU",
       "name": "YufukuNaru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAeC43f021C94145AA3425974216f5817deF0EA7d",
+      "symbol": "123",
+      "name": "The123Law",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20332,
-    "minor": 20332,
+    "major": 20333,
+    "minor": 20333,
     "patch": 86
   }
 }
