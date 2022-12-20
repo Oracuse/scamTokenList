@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x844fb7ffF3348Bc74cC308aD8E8BC980D2603335",
-      "symbol": "IZUMO",
-      "name": "TheRedGatekeeper",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA4918D2580Abb27A08011E9aC26eBaC237AB1101",
       "symbol": "TRICKORTREAT",
       "name": "JACKOLANTERN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b420dB8b9a833Fb2cE1C4016AD95293a616cfdD",
+      "symbol": "HRU",
+      "name": "HowAreYou",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20376,
-    "minor": 20376,
+    "major": 20377,
+    "minor": 20377,
     "patch": 86
   }
 }
