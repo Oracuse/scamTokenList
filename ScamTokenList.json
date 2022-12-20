@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc2DD7a72f16Cfa5DD8f9f5B49d251b2fd2163FF6",
-      "symbol": "SXC",
-      "name": "SocialClub",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5fd37e1b5A61a21D021B087D287176Db5D75bD10",
       "symbol": "CLOSE",
       "name": "AltF4",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB59033d68579dE909422B6cF40515A0Fe6ca28bf",
+      "symbol": "ETHW",
+      "name": "EthereumWrapped",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20368,
-    "minor": 20368,
+    "major": 20369,
+    "minor": 20369,
     "patch": 86
   }
 }
