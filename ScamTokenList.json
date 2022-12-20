@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x77d6F87F7F83C9c9fda4D29566a29eDA0c7eB99C",
-      "symbol": "LAUNCH",
-      "name": "OperationMoonshot",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf3F965f6726A06885e101240e287a02Dc863c80e",
       "symbol": "BMDA",
       "name": "Bermuda",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28b63Add0f98DA7F0CE5faA0b721e144e2dA4Bf3",
+      "symbol": "TYPHON",
+      "name": "DEJITARUTYPHON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20330,
-    "minor": 20330,
+    "major": 20331,
+    "minor": 20331,
     "patch": 86
   }
 }
