@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1b8Ef8Dc6Ed184EAc8e4c78a255A5768d5C74368",
-      "symbol": "MONO",
-      "name": "Mona",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75E4407A7040CB0420C0cE1B2BC573C610D2157B",
       "symbol": "HODL",
       "name": "HoldOnForDearLife",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15FE1BDEB9D45Df504a2084672064973DD39511c",
+      "symbol": "XMASAPE",
+      "name": "XmasApe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20348,
-    "minor": 20348,
+    "major": 20349,
+    "minor": 20349,
     "patch": 86
   }
 }
