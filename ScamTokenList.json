@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0E777B92da1aB10301352A858e5E04f9eAC05f71",
-      "symbol": "GOD",
-      "name": "Anunnaki",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF80C32970ED4A5c4B4526a2340021217B3b932EC",
       "symbol": "EXITUSD",
       "name": "ChasetheMoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6893c228F0fC6fF89A53bcbcECbf16571Df0b3e",
+      "symbol": "DRACARYS",
+      "name": "DracarysERC",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20325,
-    "minor": 20325,
+    "major": 20326,
+    "minor": 20326,
     "patch": 86
   }
 }
