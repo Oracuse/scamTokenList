@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2e82EBF01f8811e30C23ecB137Bac74f8dCf92a0",
-      "symbol": "MBUNNY",
-      "name": "MetaBunny",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7517467Bd6db37db4E5c12799255bec71BeFB36c",
       "symbol": "APOR",
       "name": "ADegensLife",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x959596F9B5E554497bA64A29CCB4dC7C64C337B8",
+      "symbol": "ORIGININU",
+      "name": "OriginInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20379,
-    "minor": 20379,
+    "major": 20380,
+    "minor": 20380,
     "patch": 86
   }
 }
