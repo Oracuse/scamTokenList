@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23a06f3CDBA78626E05A2bd9bd248438130BdA63",
-      "symbol": "NOCAP",
-      "name": "StopCappin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCEF853E5EcDA6b9F8aEDfb0DF15239dbA07e6d40",
       "symbol": "1000X",
       "name": "FinancialFreedom",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB77db75106BC97A4C4418c78E62033F9F5417f7e",
+      "symbol": "SHIBTAR",
+      "name": "SHIBTAR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20272,
-    "minor": 20272,
+    "major": 20273,
+    "minor": 20273,
     "patch": 86
   }
 }
