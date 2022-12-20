@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFC8d4035b3c74605b89b18c6f34387025D62D51b",
-      "symbol": "POH",
-      "name": "ProofOfHalloween",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3E3bec3d6Ebaf79E396e4a78475F995e9E77745C",
       "symbol": "SENDOR",
       "name": "SENDIT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26aA0Df830DEbe6e3317ce9846e93996bFe3F675",
+      "symbol": "SNOW",
+      "name": "SnowToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20265,
-    "minor": 20265,
+    "major": 20266,
+    "minor": 20266,
     "patch": 86
   }
 }
