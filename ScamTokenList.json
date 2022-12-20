@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbE18b1ad70975af153Da73a12F03BEE15a90ddE2",
-      "symbol": "THE",
-      "name": "THEProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCF1B45d6E07Eb252961dE8D6a0208960c286E49B",
       "symbol": "THE",
       "name": "THEProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF1B3FF34fFE7BB268726109D703A192fBa6c55D1",
+      "symbol": "VITA",
+      "name": "VerySpecialInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20404,
-    "minor": 20404,
+    "major": 20405,
+    "minor": 20405,
     "patch": 86
   }
 }
