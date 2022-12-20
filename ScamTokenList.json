@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa004963aEa075601536f27380E7A184fe85A0f35",
-      "symbol": "KAIDA",
-      "name": "DejitaruKaida",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6fE84727Cb8408CEc85cd34F115008bb6fBf6471",
       "symbol": "ETHCOGNITO",
       "name": "ETHCOGNITO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32c5DE7aCC62f9E98356D936f7b9225DD2eE6B62",
+      "symbol": "HIRA",
+      "name": "Hiragana",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20427,
-    "minor": 20427,
+    "major": 20428,
+    "minor": 20428,
     "patch": 86
   }
 }
