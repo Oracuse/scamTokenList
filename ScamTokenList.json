@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9F73983258b02F4aF187907D65db33ad76953109",
-      "symbol": "POT",
-      "name": "ProofOfTrend",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x138C4b9ca6F20E9eeB9B9B8A11bCb46D5Bba5187",
       "symbol": "TH",
       "name": "TheHeist",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc7A633d2a15e82B21eAa0B0bf18d7F16Ac1FbA24",
+      "symbol": "SBFLX",
+      "name": "Shibflix",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20284,
-    "minor": 20284,
+    "major": 20285,
+    "minor": 20285,
     "patch": 86
   }
 }
