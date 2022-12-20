@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x07219EacA26Fd6f480bfcfD3c3d26295E5469270",
-      "symbol": "OPUS",
-      "name": "MagnumOpus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x848b88380f57aE95C367C87568A238bF3afE6740",
       "symbol": "SPACE",
       "name": "Spaciens",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6303E340130d7d6c40DD6a88c391780A436a18BF",
+      "symbol": "DOSE",
+      "name": "Dosage",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20409,
-    "minor": 20409,
+    "major": 20410,
+    "minor": 20410,
     "patch": 86
   }
 }
