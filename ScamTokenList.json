@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB1f8628B297C3AfC03230742C60498ec6386959A",
-      "symbol": "X999",
-      "name": "Fortune",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC44a67A5ec3404926244Fc2991E791EeF19A0C54",
       "symbol": "SIR",
       "name": "Sirius",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F7c6aF1c0c1Ef8060706125C9dD8b727A51A6f4",
+      "symbol": "M13",
+      "name": "Guerrilla",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20339,
-    "minor": 20339,
+    "major": 20340,
+    "minor": 20340,
     "patch": 86
   }
 }
