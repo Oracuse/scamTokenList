@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x30da93d9A7BB4349D96ACB6DE1e1BE3ED5E28FeB",
-      "symbol": "PFZ",
-      "name": "PfizerInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9D63FE41aB6FACCC473898d3Ee153A73c93b6227",
       "symbol": "KINTSUGI",
       "name": "BloomofSeasons",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1916AfeCF647589277f0EaCA8Cc1c19611C76D4F",
+      "symbol": "TWITTER20",
+      "name": "Twitter20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20383,
-    "minor": 20383,
+    "major": 20384,
+    "minor": 20384,
     "patch": 86
   }
 }
