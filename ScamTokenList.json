@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x88767445a898096BA8054118d88100a4742f026C",
-      "symbol": "SANDS",
-      "name": "SAND",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0de49A09652879aa7F05adc7B6D4a136945aB1BC",
       "symbol": "POETH",
       "name": "ProofofETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1620c74bdf9C47c3A10a30c69f4c29C64E0Cc696",
+      "symbol": "BSUKO",
+      "name": "BabyRetsuko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20323,
-    "minor": 20323,
+    "major": 20324,
+    "minor": 20324,
     "patch": 86
   }
 }
