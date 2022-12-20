@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf3F965f6726A06885e101240e287a02Dc863c80e",
-      "symbol": "BMDA",
-      "name": "Bermuda",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9899Dc5B45072Eb12562fd32cd27F9D706606f67",
       "symbol": "KAIDA",
       "name": "DejitaruKaida",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64fda0A0d1dbf651CAd9f065E45aFf7Bc483121F",
+      "symbol": "AXE",
+      "name": "Ono",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20331,
-    "minor": 20331,
+    "major": 20332,
+    "minor": 20332,
     "patch": 86
   }
 }
