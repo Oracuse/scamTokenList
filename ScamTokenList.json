@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6aC1Ed22d7eC0290805Faa9cE7832fd2E9141b77",
-      "symbol": "ETHEREUM20",
-      "name": "ETHEREUM2",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x453660Ec2b63F0453d42f72C808350c1E2C70153",
       "symbol": "ID",
       "name": "IdenDEFI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA09d1B0Cd8e685E722E3675B4c31A758b564FCc1",
+      "symbol": "NOZAKI",
+      "name": "NozakiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20423,
-    "minor": 20423,
+    "major": 20424,
+    "minor": 20424,
     "patch": 86
   }
 }
