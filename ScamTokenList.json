@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7902C324243e2d5876Ace04408D7960A7908B53c",
-      "symbol": "HF",
-      "name": "HalloweenFloki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEc296c8e4d8910497d1c88c811851DD417c96e5B",
       "symbol": "KAMIKO",
       "name": "WindsOfFortune",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCfB62DbF53169E67C972EA3A4e8969381452045e",
+      "symbol": "FIRED",
+      "name": "ElonResigns",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20289,
-    "minor": 20289,
+    "major": 20290,
+    "minor": 20290,
     "patch": 86
   }
 }
