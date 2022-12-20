@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x932D016EC116353c90CD041D724585B261996641",
-      "symbol": "BTCPROTOCOL",
-      "name": "BTCProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84c552ee5748a6C652b5F3B4dC10e80F85d509ab",
       "symbol": "APECHAIN",
       "name": "ProofofApe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeeaB8BebA9DC607aa1a038cAb961b03dD9AffaBc",
+      "symbol": "ENDO",
+      "name": "Endoplasm",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20306,
-    "minor": 20306,
+    "major": 20307,
+    "minor": 20307,
     "patch": 86
   }
 }
