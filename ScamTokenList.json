@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA5441AF390e130C87bF81CAdE2E58CF273220fA0",
-      "symbol": "BTC1M",
-      "name": "AChadsDream",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x37963721E6eD517eF800D7b9C85449017E37b250",
       "symbol": "AEON",
       "name": "AEON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Ae305D510064e349F4A5411fF6506bEc77FE72e",
+      "symbol": "NODELESS",
+      "name": "NodelessSniper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20455,
-    "minor": 20455,
+    "major": 20456,
+    "minor": 20456,
     "patch": 86
   }
 }
