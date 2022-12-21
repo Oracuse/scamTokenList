@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD283EC9db7B3094ED5a2c87Eb48D54f5FA96e96D",
-      "symbol": "FMON",
-      "name": "FMONEYTOKEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB9b884E6839c1A283f93Ff8AC9c33b8F5E2B2a90",
       "symbol": "WANJIKU",
       "name": "NoniWanjiku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA51acd1989Dc0378f4ed2a2C0894e015f5B3a7a7",
+      "symbol": "HOLYDILLO",
+      "name": "HolidayArmadillo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20441,
-    "minor": 20441,
+    "major": 20442,
+    "minor": 20442,
     "patch": 86
   }
 }
