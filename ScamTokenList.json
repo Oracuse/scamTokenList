@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf8b3778D7193E40e8288088C1D3BDb0eEEaB144f",
-      "symbol": "E7EN",
-      "name": "7DeadlySins",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x166eE162a448A7612e963395091D7cf5846E3f4F",
       "symbol": "VTR",
       "name": "Vayter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBFB0f4b0306bA9b7347FBdA1892229D7925f0fC3",
+      "symbol": "FLUB",
+      "name": "Flub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20517,
-    "minor": 20517,
+    "major": 20518,
+    "minor": 20518,
     "patch": 86
   }
 }
