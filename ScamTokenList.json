@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x37963721E6eD517eF800D7b9C85449017E37b250",
-      "symbol": "AEON",
-      "name": "AEON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD8FC17CAA8aBA3720D830DBFf5c274ffbe0e979c",
       "symbol": "SERIOUS",
       "name": "Seriously",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC826f20Eb667A7a872288FfF952665D1D45Ac6C1",
+      "symbol": "HAZA",
+      "name": "HazaToken",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20456,
-    "minor": 20456,
+    "major": 20457,
+    "minor": 20457,
     "patch": 86
   }
 }
