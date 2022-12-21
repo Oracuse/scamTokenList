@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb830a551758bE1824d1609f5F098D21fFfD79362",
-      "symbol": "ICHI",
-      "name": "ICHI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB58B769b18168308eF70E1Aa4a6289C9841598B0",
       "symbol": "POECLAN",
       "name": "ThePoeClan",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6b4334cB8cE16E28AC4C6eBd546ceb20A08cbdc5",
+      "symbol": "FTX20",
+      "name": "FTX20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20506,
-    "minor": 20506,
+    "major": 20507,
+    "minor": 20507,
     "patch": 86
   }
 }
