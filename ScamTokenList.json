@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4ACEEbfb28313263c960804B768B46f0B186aD32",
-      "symbol": "CEP",
-      "name": "CyberETHProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x46128E47fcC73e00E9CF440bd6f467250416d771",
       "symbol": "CYCLE",
       "name": "CycleVerse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x155BB404C8f888D12847AB53d491624194058240",
+      "symbol": "ARC",
+      "name": "TheAiArchives",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20452,
-    "minor": 20452,
+    "major": 20453,
+    "minor": 20453,
     "patch": 86
   }
 }
