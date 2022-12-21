@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbA49Ad7059952bd423257708f8B81C29b7a0f54a",
-      "symbol": "SWING",
-      "name": "SwingDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x39EA6aBC9b3fAAEA59eB9302b7BdB56FC5978D64",
       "symbol": "DOSTH",
       "name": "DoSomething",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x390E30be963291f1d09ba23c24ba377C729dFFB5",
+      "symbol": "MICE",
+      "name": "TheCircleOfMice",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20501,
-    "minor": 20501,
+    "major": 20502,
+    "minor": 20502,
     "patch": 86
   }
 }
