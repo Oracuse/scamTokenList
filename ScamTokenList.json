@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE39722865aa9Ecef59Df37dB06476B5e5A0e220E",
-      "symbol": "THE",
-      "name": "THEProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3FAB2bDE98f33a380adeCA144D72977604C1019d",
       "symbol": "SHINDER",
       "name": "ShitcoinTinder",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb24d1a9e79061166c2D8e62Fd7f4425992C1DB2B",
+      "symbol": "AEG",
+      "name": "Aegilops",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20443,
-    "minor": 20443,
+    "major": 20444,
+    "minor": 20444,
     "patch": 86
   }
 }
