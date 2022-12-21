@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC9a35e3B24EAe4eE47f2F896338c4422506631e4",
-      "symbol": "MEMEDOGE",
-      "name": "MemeDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb2070A420D5f7f73471367e06F2Df1245e4d22Fb",
       "symbol": "YAMA",
       "name": "Sugiyama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3685BAc00522a5b3Ea055139aA6B8c00C1D16d43",
+      "symbol": "INUI",
+      "name": "InuiAggretsuko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20461,
-    "minor": 20461,
+    "major": 20462,
+    "minor": 20462,
     "patch": 86
   }
 }
