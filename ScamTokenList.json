@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x519dC14516F11D73E55385AbAbEc9994450927FE",
-      "symbol": "SIL",
-      "name": "Silentium",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1FCebAca40bfE3A1B2c7b66584BBDc636a6E1506",
       "symbol": "STARFALL",
       "name": "Starfall",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F6734e0A6c9cc9f9DEd33661B73020b485b2660",
+      "symbol": "DREPO",
+      "name": "DejitaruRepo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20465,
-    "minor": 20465,
+    "major": 20466,
+    "minor": 20466,
     "patch": 86
   }
 }
