@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD2146bcbBFE1e11e561DfC69a4c534dfE64260Cd",
-      "symbol": "NOCAP",
-      "name": "StopCappin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x27834D6d0E0A77D07676CB2C0D193105FdDc5D0e",
       "symbol": "MOONS",
       "name": "MoonSmoke",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdF1C53D843B262AFC40A880a8aB7E36ADd117A90",
+      "symbol": "TANG",
+      "name": "TangTzu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20438,
-    "minor": 20438,
+    "major": 20439,
+    "minor": 20439,
     "patch": 86
   }
 }
