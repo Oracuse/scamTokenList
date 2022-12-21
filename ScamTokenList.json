@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1FCebAca40bfE3A1B2c7b66584BBDc636a6E1506",
-      "symbol": "STARFALL",
-      "name": "Starfall",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD95CEc0fb4974AF720721713A695b0682e8da2d9",
       "symbol": "BWCI",
       "name": "BabyWorldCupInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x462D787eB45379A00F16ed10E45dE3Eb711CC9dc",
+      "symbol": "PLANKTON",
+      "name": "PLANKTONINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20466,
-    "minor": 20466,
+    "major": 20467,
+    "minor": 20467,
     "patch": 86
   }
 }
