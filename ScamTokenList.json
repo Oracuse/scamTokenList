@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB9b884E6839c1A283f93Ff8AC9c33b8F5E2B2a90",
-      "symbol": "WANJIKU",
-      "name": "NoniWanjiku",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE39722865aa9Ecef59Df37dB06476B5e5A0e220E",
       "symbol": "THE",
       "name": "THEProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD736B30a1A47C8b2Ac9F7daBa4Fb35054903454F",
+      "symbol": "NQD",
+      "name": "Nuqud",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20442,
-    "minor": 20442,
+    "major": 20443,
+    "minor": 20443,
     "patch": 86
   }
 }
