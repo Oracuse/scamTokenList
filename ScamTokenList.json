@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x90f29E5e309cB93B107B26a3f68083BDbB841289",
-      "symbol": "PHAP",
-      "name": "PhalaNetwork",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5F53A83C23cC349F5DAb4679c1288073F8b94883",
       "symbol": "RDAO",
       "name": "RecessionDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a8034ccb9b644D2B312A2732988624B5527D6b6",
+      "symbol": "NAME",
+      "name": "NAME",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20469,
-    "minor": 20469,
+    "major": 20470,
+    "minor": 20470,
     "patch": 86
   }
 }
