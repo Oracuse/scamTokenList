@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6C7a93A205af39b7Ca56E67ebE237197cC7e895B",
-      "symbol": "NOBURU",
-      "name": "Noburu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaAaD93dDef0aCFAA17082c00B1544b93DbEbc2D4",
       "symbol": "MEWN",
       "name": "PepewillMEWN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92212b1573AbD297efE23AB8f60366EA47D1ea59",
+      "symbol": "ONLY1",
+      "name": "TehOnlyOne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20480,
-    "minor": 20480,
+    "major": 20481,
+    "minor": 20481,
     "patch": 86
   }
 }
