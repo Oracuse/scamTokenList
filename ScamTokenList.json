@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9458E9cd2E55254bf5F4Cfe0099aB2a5B652617a",
-      "symbol": "FEG20",
-      "name": "ProofOfFEG",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x12Bc58b356b30338f7b6055Cb0F3fb4E65432388",
       "symbol": "TOUTETSU",
       "name": "MythicalBeast",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71b31C87455274acE0bC9b0F3cEddE1036A593D3",
+      "symbol": "IMI",
+      "name": "Otsukimi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20436,
-    "minor": 20436,
+    "major": 20437,
+    "minor": 20437,
     "patch": 86
   }
 }
