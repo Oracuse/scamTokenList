@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x24BA360694e25F946f1702DE16777c4a5794449d",
-      "symbol": "BBDOG",
-      "name": "BritishBulldog",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x11B7f392E8802F1295028Bd46257767e3B6EDe7c",
       "symbol": "THIS",
       "name": "THISPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0DAfA9206a65d5B83b163191973eb2c82b091435",
+      "symbol": "CLIFF",
+      "name": "RedClifford",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20547,
-    "minor": 20547,
+    "major": 20548,
+    "minor": 20548,
     "patch": 86
   }
 }
