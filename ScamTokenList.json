@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7E5492419cF9325DED07743eC3dceadd708800ea",
-      "symbol": "SOCCERINU",
-      "name": "SoccerInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9CFE63dE89E32d2BF54A756AF331d4716CE889b9",
       "symbol": "PI",
       "name": "Pi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD7339D24a527C33646B0FaaEa7120B0742952016",
+      "symbol": "DFIRE",
+      "name": "DogeFire",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20484,
-    "minor": 20484,
+    "major": 20485,
+    "minor": 20485,
     "patch": 86
   }
 }
