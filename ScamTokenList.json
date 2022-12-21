@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x591D1835eF8E73A831d10cF1CE9daE3C9947a835",
-      "symbol": "HUDDLN",
-      "name": "HuddlnToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6485c2878Fff7D66356FA441d4cD4fcDCC639120",
       "symbol": "XEN",
       "name": "XENCrypto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1122D16dd2D6072AA3bc1fa272D122E87F18F29A",
+      "symbol": "FTC",
+      "name": "FuckTheCallers",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20512,
-    "minor": 20512,
+    "major": 20513,
+    "minor": 20513,
     "patch": 86
   }
 }
