@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98C67ad41aF5e41A54e225FE0304e205F66F8362",
-      "symbol": "GUSA",
-      "name": "Tonoigusa",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc8D9390bA4166104fbC6d5B67eF66155af51De2d",
       "symbol": "CHRONICLE",
       "name": "Chronicle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74bfb9dAEde405Db18BF600412C9Aff852C76C8e",
+      "symbol": "FTC",
+      "name": "FuckTheCallers",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20488,
-    "minor": 20488,
+    "major": 20489,
+    "minor": 20489,
     "patch": 86
   }
 }
