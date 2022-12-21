@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDb828B4A22B4119a833CD3A3FdB75B5b465aa5DB",
-      "symbol": "XMA",
-      "name": "XMAS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA696071DB2f76842d5BA3c43a4f30231BF8Ee3ce",
       "symbol": "RECESSIONDAO",
       "name": "RDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3248D17420C70Cb524044b67C6281c9Fc2184b9",
+      "symbol": "SUI",
+      "name": "SUI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20526,
-    "minor": 20526,
+    "major": 20527,
+    "minor": 20527,
     "patch": 86
   }
 }
