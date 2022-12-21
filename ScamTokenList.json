@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x802F257B637DeEa8B9C257dfdbd34E999b7c4331",
-      "symbol": "YATOMI",
-      "name": "YatonoKami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x883A40D781e687dAfF62ED165451DC69608d7e8B",
       "symbol": "KIJI",
       "name": "Kijimuna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x625b95c098F1e1A8941Af4c18fD9ff206960138e",
+      "symbol": "CORZC",
+      "name": "CoreScientificClass",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20458,
-    "minor": 20458,
+    "major": 20459,
+    "minor": 20459,
     "patch": 86
   }
 }
