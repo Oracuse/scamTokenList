@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdF42916EdcA6f11051A9A975C7B55F51ECCECA7e",
-      "symbol": "THEREALITY",
-      "name": "ProofOfSimulation",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7D04B2f20d08b81DA0DeAA08Fac99809c2b5D0F9",
       "symbol": "REKT",
       "name": "DegensNightmare",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27015E5dF08a390565259195781d5217E65f3654",
+      "symbol": "CAKE",
+      "name": "Pieceof",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20543,
-    "minor": 20543,
+    "major": 20544,
+    "minor": 20544,
     "patch": 86
   }
 }
