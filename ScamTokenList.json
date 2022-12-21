@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0C6A77c4bBf4E9A0B0435A77F16794139648BA03",
-      "symbol": "BELLAMY",
-      "name": "BellamyToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88D3A903ae9c336fBac1fa38B9C618d496D9dC3e",
       "symbol": "BELLAMY",
       "name": "BellamyToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0b88a9E757e0d68d28d7D2Ca406c77a01fedC4b",
+      "symbol": "BAKC",
+      "name": "BAKCNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20535,
-    "minor": 20535,
+    "major": 20536,
+    "minor": 20536,
     "patch": 86
   }
 }
