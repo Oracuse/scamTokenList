@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x287E5479E2B3969fc8ed302aB02afcd0aA1C07a9",
-      "symbol": "SFT",
-      "name": "SoccerfanToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x32A8b8753404985a06647DF0F516371e970970Fc",
       "symbol": "THEX",
       "name": "TheMatrix",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf1AC198507c6F9708c4121E28c3D6e99BC4F5154",
+      "symbol": "ELONJ",
+      "name": "ElonJet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20523,
-    "minor": 20523,
+    "major": 20524,
+    "minor": 20524,
     "patch": 86
   }
 }
