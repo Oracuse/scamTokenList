@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x309707E2522674E464723546519EBD34670ae18b",
-      "symbol": "BFLOKI",
-      "name": "BitcoinFloki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcab96D6d1881f60eBC58c21877bcc5186Fc252D0",
       "symbol": "GOSSIP",
       "name": "GOSSIP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Bfc18f97FBaE932418e8e2dF71e393a26De5BC1",
+      "symbol": "SHIBARISTA",
+      "name": "ShibaBaristaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20491,
-    "minor": 20491,
+    "major": 20492,
+    "minor": 20492,
     "patch": 86
   }
 }
