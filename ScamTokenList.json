@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x32A8b8753404985a06647DF0F516371e970970Fc",
-      "symbol": "THEX",
-      "name": "TheMatrix",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEEC6658fBAcbf95372FE03046B368623250BF416",
       "symbol": "MURD",
       "name": "MURIBUNDIS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7321eC1dD039E971E8A18edDE71c571Cd3004E2A",
+      "symbol": "HAKU",
+      "name": "Hakujya",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20524,
-    "minor": 20524,
+    "major": 20525,
+    "minor": 20525,
     "patch": 86
   }
 }
