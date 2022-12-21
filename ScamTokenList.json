@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x16d767fAbdAbc662CdeE8c30f6CCC9C9BB5981c5",
-      "symbol": "HEIST",
-      "name": "MoneyHeist",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7E5492419cF9325DED07743eC3dceadd708800ea",
       "symbol": "SOCCERINU",
       "name": "SoccerInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2A4A5c94e62C8cd05c1D73EF0c10A6f8a7c9FBb",
+      "symbol": "PL24",
+      "name": "PL24",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20483,
-    "minor": 20483,
+    "major": 20484,
+    "minor": 20484,
     "patch": 86
   }
 }
