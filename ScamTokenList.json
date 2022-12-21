@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1ADCce71A3DEdf1eb2712C9d7bfE5e560Be88c8f",
-      "symbol": "USHI20",
-      "name": "Ushi20",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98C67ad41aF5e41A54e225FE0304e205F66F8362",
       "symbol": "GUSA",
       "name": "Tonoigusa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1A6981C7a64b2aE526716a7140DBFDdf0034D44",
+      "symbol": "CORZC",
+      "name": "CORZClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20487,
-    "minor": 20487,
+    "major": 20488,
+    "minor": 20488,
     "patch": 86
   }
 }
