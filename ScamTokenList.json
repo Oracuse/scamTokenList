@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51fA4FC02c541D756F94248F81dc2b6d0ec12eB3",
-      "symbol": "CT",
-      "name": "CryptoTwitter",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa50503D4F1B9Bda7fBaadA54dFc364B820d690D2",
       "symbol": "SPIRIT",
       "name": "Tsukumogami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa8c2813417a0dF1823B0c549ABE54c80756bF20A",
+      "symbol": "JMAS",
+      "name": "Jeetmas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20495,
-    "minor": 20495,
+    "major": 20496,
+    "minor": 20496,
     "patch": 86
   }
 }
