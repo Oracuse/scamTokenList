@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcD5205AA3Bb83B300c5fc0B2E613cE460226C64A",
-      "symbol": "O",
-      "name": "EMPTINESS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x761d961204d0a929a77815561132E3257f4e0E9F",
       "symbol": "XYST",
       "name": "XystToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8078F81f0FB234301bFf7cBeBA6c94e664d04587",
+      "symbol": "ETH",
+      "name": "EthPlus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20498,
-    "minor": 20498,
+    "major": 20499,
+    "minor": 20499,
     "patch": 86
   }
 }
