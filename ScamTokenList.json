@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb2070A420D5f7f73471367e06F2Df1245e4d22Fb",
-      "symbol": "YAMA",
-      "name": "Sugiyama",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8C6D2351321B0800508551Fe2f2a38a45eE35F3b",
       "symbol": "SHIBASQUAD",
       "name": "ShibaSquad",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b869ef6e5B6C21a6dbE7091C90089203eB6aAbA",
+      "symbol": "TAPES",
+      "name": "RetroTapes",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20462,
-    "minor": 20462,
+    "major": 20463,
+    "minor": 20463,
     "patch": 86
   }
 }
