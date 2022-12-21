@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5304b779E0bEaC16ad5B5f1dC110b261441f4E24",
-      "symbol": "THEPROTOCOL",
-      "name": "TheProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x573E53B75C0079281EA464b44E07d20c75BE353E",
       "symbol": "BTHE",
       "name": "BabyTheProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29ebb9Ad16FdD7a1E462DdD598ADAfceC600A850",
+      "symbol": "AGARISAGARI",
+      "name": "BullvsBear",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20520,
-    "minor": 20520,
+    "major": 20521,
+    "minor": 20521,
     "patch": 86
   }
 }
