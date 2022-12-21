@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6e930DB2275aa72BC5FEBEd57D0F8DBfCeD58529",
-      "symbol": "THEINU",
-      "name": "THEInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0ea3d3F8F26BbE22D9D34d096e4Ad9B346bBFb89",
       "symbol": "GHOST",
       "name": "GhostOfShibuya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB0CE8F19c4e6066e7FA52e2A5ce01B198B25E72f",
+      "symbol": "DONRYU",
+      "name": "StormDragon",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20510,
-    "minor": 20510,
+    "major": 20511,
+    "minor": 20511,
     "patch": 86
   }
 }
