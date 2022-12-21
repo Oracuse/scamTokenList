@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb2aCe01FCb8C8d3389319F57f79952f95f29Ca87",
-      "symbol": "NOCAP",
-      "name": "StopCappin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE199EF5d2433b5d6c4617372370CeAC93D78d77d",
       "symbol": "PND",
       "name": "PepeNeedsDrugs",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe6a64451727188d04e85473095209C32970D7B9E",
+      "symbol": "SOFI",
+      "name": "SorceryFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20433,
-    "minor": 20433,
+    "major": 20434,
+    "minor": 20434,
     "patch": 86
   }
 }
