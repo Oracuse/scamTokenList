@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE199EF5d2433b5d6c4617372370CeAC93D78d77d",
-      "symbol": "PND",
-      "name": "PepeNeedsDrugs",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x23dE8f5C4B65598ED58687Cc76197c625E8b2AA5",
       "symbol": "BTB",
       "name": "BurnTehBears",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd9B3C182dC65c74C00D5F5675306030C9a2fcBfd",
+      "symbol": "SCOOB",
+      "name": "ScoobyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20434,
-    "minor": 20434,
+    "major": 20435,
+    "minor": 20435,
     "patch": 86
   }
 }
