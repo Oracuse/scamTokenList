@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x30275fa177866fEcc1Ab7E0430a38664e191F316",
-      "symbol": "BABYTHE",
-      "name": "BabyTHEProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA5441AF390e130C87bF81CAdE2E58CF273220fA0",
       "symbol": "BTC1M",
       "name": "AChadsDream",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1D2B8B64c9e9DbE4dECd9d73b0b71D83c94ce071",
+      "symbol": "TAKEKO",
+      "name": "TAKEKO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20454,
-    "minor": 20454,
+    "major": 20455,
+    "minor": 20455,
     "patch": 86
   }
 }
