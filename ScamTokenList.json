@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x746B98807d2FEB17DfC4b060A81AE890AB61d26d",
-      "symbol": "FLOKI",
-      "name": "Flokinomics",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE2b85c8AAd00518A42ECc3808aaaAc8Bb3e62E1C",
       "symbol": "BABYTHE",
       "name": "BabyTHEProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97AEBf818A51a4F210D502179C28aa824AA60c4D",
+      "symbol": "COMFY",
+      "name": "RelaXmas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20539,
-    "minor": 20539,
+    "major": 20540,
+    "minor": 20540,
     "patch": 86
   }
 }
