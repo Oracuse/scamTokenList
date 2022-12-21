@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8C6D2351321B0800508551Fe2f2a38a45eE35F3b",
-      "symbol": "SHIBASQUAD",
-      "name": "ShibaSquad",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21301846Ed27D441230c31B3DDC2A99d70140388",
       "symbol": "KI",
       "name": "Ikigai",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf0aa5A677625F3Eda6D0757b61b0d83Ac57055A6",
+      "symbol": "AAI",
+      "name": "AnimeAi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20463,
-    "minor": 20463,
+    "major": 20464,
+    "minor": 20464,
     "patch": 86
   }
 }
