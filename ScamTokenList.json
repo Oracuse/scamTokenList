@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x39EA6aBC9b3fAAEA59eB9302b7BdB56FC5978D64",
-      "symbol": "DOSTH",
-      "name": "DoSomething",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA5f165C5999Ab17ffE16caf6FAe6fA9a7242Da10",
       "symbol": "PAPILLON",
       "name": "PapillonInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD245Bb11a4A9092d4c6E9670162bF356aE2840d1",
+      "symbol": "FTC",
+      "name": "FuckTheCallers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20502,
-    "minor": 20502,
+    "major": 20503,
+    "minor": 20503,
     "patch": 86
   }
 }
