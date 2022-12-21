@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa50503D4F1B9Bda7fBaadA54dFc364B820d690D2",
-      "symbol": "SPIRIT",
-      "name": "Tsukumogami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdf3f9B6837f1e7dd9fF028Ead36C8007c0b4c68d",
       "symbol": "IZU",
       "name": "Izu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4716ed74AF4b9A01b9a76D189a33c5d77f079447",
+      "symbol": "ENS",
+      "name": "EthereumNameShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20496,
-    "minor": 20496,
+    "major": 20497,
+    "minor": 20497,
     "patch": 86
   }
 }
