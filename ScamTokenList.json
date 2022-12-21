@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA5f165C5999Ab17ffE16caf6FAe6fA9a7242Da10",
-      "symbol": "PAPILLON",
-      "name": "PapillonInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x453578589C18C1EB7f43D275dca26D4e168D65aB",
       "symbol": "BABYTHE",
       "name": "BabyTheProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62f56228E4502Cd299460E1E88e9d949A2ce948E",
+      "symbol": "NTTH",
+      "name": "NtityNetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20503,
-    "minor": 20503,
+    "major": 20504,
+    "minor": 20504,
     "patch": 86
   }
 }
