@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2CE127f5D7A94a2AE8fB02406591e583771682CB",
-      "symbol": "LAEEBINU",
-      "name": "WorldCupMascot",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1ADCce71A3DEdf1eb2712C9d7bfE5e560Be88c8f",
       "symbol": "USHI20",
       "name": "Ushi20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F053A67F429322fA28CdCc275E4C69783AbF463",
+      "symbol": "DASH",
+      "name": "DashMe",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20486,
-    "minor": 20486,
+    "major": 20487,
+    "minor": 20487,
     "patch": 86
   }
 }
