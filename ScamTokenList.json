@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x554307c01B98c02C097a4D1C54Ee92246051De73",
-      "symbol": "SHIBACUP",
-      "name": "SUPERSHIBAWORLDCUP",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5304b779E0bEaC16ad5B5f1dC110b261441f4E24",
       "symbol": "THEPROTOCOL",
       "name": "TheProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E61392Ed89517B00DF5fC2bDDdd48F981fdA77a",
+      "symbol": "ATH",
+      "name": "Bequeath",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20519,
-    "minor": 20519,
+    "major": 20520,
+    "minor": 20520,
     "patch": 86
   }
 }
