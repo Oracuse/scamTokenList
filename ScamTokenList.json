@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x573E53B75C0079281EA464b44E07d20c75BE353E",
-      "symbol": "BTHE",
-      "name": "BabyTheProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF1666e1074552E491448DE0EC09301CA0E977dA1",
       "symbol": "SPKY",
       "name": "SpookyFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7a2b49d9E4183C63eBdFfa3f450DDE2E5Cf314B6",
+      "symbol": "DFI",
+      "name": "DontFadeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20521,
-    "minor": 20521,
+    "major": 20522,
+    "minor": 20522,
     "patch": 86
   }
 }
