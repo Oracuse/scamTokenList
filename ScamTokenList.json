@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbEC72d504A5e4059c3d88CB4Df10237b452B792c",
-      "symbol": "BUSHI",
-      "name": "BabyUshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a9D694Edf3036b7BaEF435164F5D52B550c3Ce8",
       "symbol": "RDAO",
       "name": "RecessionDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xef43b0B71E78326e8F4cB2d73a14C03cc3cC2D4F",
+      "symbol": "SAZAE",
+      "name": "SazaeOni",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20530,
-    "minor": 20530,
+    "major": 20531,
+    "minor": 20531,
     "patch": 86
   }
 }
