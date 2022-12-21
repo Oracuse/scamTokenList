@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7Ae489c6abB2aF187DaF7ebFB223E064FF1fC30A",
-      "symbol": "FUJINUSHI",
-      "name": "FujinUshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbEC72d504A5e4059c3d88CB4Df10237b452B792c",
       "symbol": "BUSHI",
       "name": "BabyUshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf88238f2c7A5799fed30170732998CbA64d9eeC5",
+      "symbol": "NEELA",
+      "name": "Neelakurinji",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20529,
-    "minor": 20529,
+    "major": 20530,
+    "minor": 20530,
     "patch": 86
   }
 }
