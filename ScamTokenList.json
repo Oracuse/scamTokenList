@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBE89c535b300FeA97Ab51371A50034156647b3d2",
-      "symbol": "CREED",
-      "name": "Ancientcreed",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0d61aBd2F344f72d326EaAF23823d7832573ec97",
       "symbol": "MEWN",
       "name": "PepewillMEWN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE96b8fa4b62D0c95fd36dAD1A5fAb5F90e41Ed79",
+      "symbol": "GM",
+      "name": "GM",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20446,
-    "minor": 20446,
+    "major": 20447,
+    "minor": 20447,
     "patch": 86
   }
 }
