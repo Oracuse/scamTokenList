@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb6C823B27D9ddA90050de85821158061299491A8",
-      "symbol": "ZD951",
-      "name": "ZeroDawn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6796359CE5f355389195DF2767261ADc853e09bb",
       "symbol": "SWC",
       "name": "ShibaWorldCup",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc24AF12ebfd8384D5C4DDa846DD18c07C92869D5",
+      "symbol": "FTC",
+      "name": "FuckTheCallers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20493,
-    "minor": 20493,
+    "major": 20494,
+    "minor": 20494,
     "patch": 86
   }
 }
