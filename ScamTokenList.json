@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd545Ed620a47E60c36F650d5DDcF3Efb58be54f4",
-      "symbol": "ALEX",
-      "name": "AlexJones",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90f29E5e309cB93B107B26a3f68083BDbB841289",
       "symbol": "PHAP",
       "name": "PhalaNetwork",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b2fB51f4713f08Ab72173BC83aB3bBa71B537Cd",
+      "symbol": "BTB",
+      "name": "BuildtheBear",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20468,
-    "minor": 20468,
+    "major": 20469,
+    "minor": 20469,
     "patch": 86
   }
 }
