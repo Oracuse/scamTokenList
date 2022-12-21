@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFDbCaF2873A451b766a15516014A6A41D74Eb617",
-      "symbol": "FEEDBOBBY",
-      "name": "FEEDBOBBY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7Ae489c6abB2aF187DaF7ebFB223E064FF1fC30A",
       "symbol": "FUJINUSHI",
       "name": "FujinUshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd33Ec8DF2B8578eaaedb57d4454cda884f65486a",
+      "symbol": "SAM",
+      "name": "Samurai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20528,
-    "minor": 20528,
+    "major": 20529,
+    "minor": 20529,
     "patch": 86
   }
 }
