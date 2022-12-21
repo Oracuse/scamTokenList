@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x88D3A903ae9c336fBac1fa38B9C618d496D9dC3e",
-      "symbol": "BELLAMY",
-      "name": "BellamyToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x192f95F5775192fC9fAA87a02aee8435e4338588",
       "symbol": "REVOLUTION",
       "name": "Revolution",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47BD6Dd5A514B63698e5dEfA803616FA84BCf059",
+      "symbol": "SHIBENS",
+      "name": "SHIBENS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20536,
-    "minor": 20536,
+    "major": 20537,
+    "minor": 20537,
     "patch": 86
   }
 }
