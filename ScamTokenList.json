@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa12D3dfee5169ff2fa7ac513829d98a886Aa8132",
-      "symbol": "SB",
-      "name": "newsb",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0e328E64C0DBaD1B76B237d007B4Bc765Df91dA0",
       "symbol": "BWCI",
       "name": "BabyWorldCupInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x502Dd0D3f54E5F4AE62fE2156C4Eba08778Cd49b",
+      "symbol": "TSLAC",
+      "name": "TeslaClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20471,
-    "minor": 20471,
+    "major": 20472,
+    "minor": 20472,
     "patch": 86
   }
 }
