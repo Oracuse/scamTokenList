@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x27834D6d0E0A77D07676CB2C0D193105FdDc5D0e",
-      "symbol": "MOONS",
-      "name": "MoonSmoke",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdFb3a69A8Cb8cD7EE7B5FDfdEc3Db59ab7658186",
       "symbol": "CREATION",
       "name": "Poiesis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEe3f2A905d545B1C60cDd11b1df843168562451e",
+      "symbol": "CHIEF",
+      "name": "CHIEFTWIT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20439,
-    "minor": 20439,
+    "major": 20440,
+    "minor": 20440,
     "patch": 86
   }
 }
