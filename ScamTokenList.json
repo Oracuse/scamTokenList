@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3FAB2bDE98f33a380adeCA144D72977604C1019d",
-      "symbol": "SHINDER",
-      "name": "ShitcoinTinder",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6bcDb07C2E0104038DABC6D75E62F20101Ff8Ae0",
       "symbol": "SOTD",
       "name": "SeekersoftheDarknes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2431693Fb9D59949d95bce0d3C8e410Aef9eE8b1",
+      "symbol": "APE",
+      "name": "APEofGreatness",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20444,
-    "minor": 20444,
+    "major": 20445,
+    "minor": 20445,
     "patch": 86
   }
 }
