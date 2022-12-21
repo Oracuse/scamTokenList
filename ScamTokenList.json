@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7D04B2f20d08b81DA0DeAA08Fac99809c2b5D0F9",
-      "symbol": "REKT",
-      "name": "DegensNightmare",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEA82d2717815C0039A44B9f63830d0984E216379",
       "symbol": "SLAMM",
       "name": "SLAMM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60De2937FD9a190cC0274E6B3e9d37a2ee5B246d",
+      "symbol": "CNY",
+      "name": "ChungusYear",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20544,
-    "minor": 20544,
+    "major": 20545,
+    "minor": 20545,
     "patch": 86
   }
 }
