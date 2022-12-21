@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x552dcb76AD69B1a779c4A50f1443D5e03c3b097D",
-      "symbol": "H04X",
-      "name": "Retxed",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x94236f3a7b8c7135C581E660cC7b46ab6fB9645B",
       "symbol": "PINU",
       "name": "ProtocolInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4c0bA3247dd20F3Dd08E50CfB60E4F9433000c7",
+      "symbol": "ANP",
+      "name": "AshnPika",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20448,
-    "minor": 20448,
+    "major": 20449,
+    "minor": 20449,
     "patch": 86
   }
 }
