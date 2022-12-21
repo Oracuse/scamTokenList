@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x761d961204d0a929a77815561132E3257f4e0E9F",
-      "symbol": "XYST",
-      "name": "XystToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDaD9731D7dF2506727C1BD18b3384390e1fC7Ebd",
       "symbol": "TAZR",
       "name": "TazorDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6EB07e957Ba1c063121e08b59a837775fd880C00",
+      "symbol": "KAIKEN",
+      "name": "KaiKenInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20499,
-    "minor": 20499,
+    "major": 20500,
+    "minor": 20500,
     "patch": 86
   }
 }
