@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE638e1a6F571C802a79bb23F04b5AcB34810910C",
-      "symbol": "RDAO",
-      "name": "RecessionDAO",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x23Cd0f12E788a89Fd747f9474411712a8cAfE3D6",
       "symbol": "OS",
       "name": "OnlyStables",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8DF9280989218026060e4f5d387E979e56ed04bB",
+      "symbol": "GRINCH",
+      "name": "TheGrinch",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20473,
-    "minor": 20473,
+    "major": 20474,
+    "minor": 20474,
     "patch": 86
   }
 }
