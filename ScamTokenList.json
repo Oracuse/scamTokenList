@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7384f5d3dcD0149B9346c453c6441569c874dFea",
-      "symbol": "NIGHT",
-      "name": "Midnight",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x519aE1e028c2eB86772974387F3bdb65B8bc2b41",
       "symbol": "THEBURN",
       "name": "THEburn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC05C096622afe9335fefABAf076BC9ca264C5600",
+      "symbol": "SP",
+      "name": "SpaceProtocol",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20559,
-    "minor": 20559,
+    "major": 20560,
+    "minor": 20560,
     "patch": 86
   }
 }
