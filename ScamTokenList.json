@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x677E76B10E8c2Aa8a6D0e3f4CCa86B27fb05151a",
-      "symbol": "RAISE",
-      "name": "EtherRaise",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0E995B0B49059A8e54b574135735C8d1f5b2E1C8",
       "symbol": "TIA",
       "name": "ThisIsAlpha",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B099190fE32f78155125f3aC924A9afE9f657eA",
+      "symbol": "CLIFF",
+      "name": "GreenClifford",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20570,
-    "minor": 20570,
+    "major": 20571,
+    "minor": 20571,
     "patch": 86
   }
 }
