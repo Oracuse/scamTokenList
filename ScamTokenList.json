@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x411340C8BE722BEceC59133817F2eA47E90DD76E",
-      "symbol": "IINU",
-      "name": "InsidorsInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0fbf6232CF6DDA8B8ec16027e90f0aE98fdf27F6",
       "symbol": "REN",
       "name": "Renascence",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2B6b83DeAf37fB80976F9EEc12fA0b14C6e30b6",
+      "symbol": "KORI",
+      "name": "Kori",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20574,
-    "minor": 20574,
+    "major": 20575,
+    "minor": 20575,
     "patch": 86
   }
 }
