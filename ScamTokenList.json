@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1Bc88CB80A6640D532571c5C4a3dcD1D2b79c98C",
-      "symbol": "HOU",
-      "name": "HOU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x24b80D37bEB3960bb1685CA23aeE2c221913eD4c",
       "symbol": "BTHE",
       "name": "TheProtocolBurn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18C777bA8907fFB4b93083A3fd506dF380538573",
+      "symbol": "TFIRE",
+      "name": "TsukaFire",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20564,
-    "minor": 20564,
+    "major": 20565,
+    "minor": 20565,
     "patch": 86
   }
 }
