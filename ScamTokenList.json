@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x11B7f392E8802F1295028Bd46257767e3B6EDe7c",
-      "symbol": "THIS",
-      "name": "THISPROTOCOL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6B83aC391c59FEA54e48517FD5b5B1084f81c50B",
       "symbol": "BITDIV",
       "name": "BitDividend",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36eB9638414B289DD444C06eC5Fb787266caf606",
+      "symbol": "LTU",
+      "name": "LongTu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20548,
-    "minor": 20548,
+    "major": 20549,
+    "minor": 20549,
     "patch": 86
   }
 }
