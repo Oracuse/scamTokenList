@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6B83aC391c59FEA54e48517FD5b5B1084f81c50B",
-      "symbol": "BITDIV",
-      "name": "BitDividend",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0D96CcEa237f30aA451F96796994055D78202463",
       "symbol": "DUBZ",
       "name": "DubzGaming",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEA67E4f0FC90cA1F834d94e823Ce14ab7B95397A",
+      "symbol": "BFG",
+      "name": "TheBFG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20549,
-    "minor": 20549,
+    "major": 20550,
+    "minor": 20550,
     "patch": 86
   }
 }
