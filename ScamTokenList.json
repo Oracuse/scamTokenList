@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2012035D0BC9F11062B5ECa71b7E4d3F54828b75",
-      "symbol": "NOTHINGNESS",
-      "name": "Nothingness",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaD2e1Badc03Ef0CF98B75A6e0050B9AF73D9E217",
       "symbol": "FLI",
       "name": "FateLovesIrony",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEAdb30111b2b9613dd81523eeC1fDf22574BdeCE",
+      "symbol": "COOKIE",
+      "name": "Gingerbread",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20561,
-    "minor": 20561,
+    "major": 20562,
+    "minor": 20562,
     "patch": 86
   }
 }
