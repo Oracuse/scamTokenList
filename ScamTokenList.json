@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0D20389869469C738CB5b48f5d3D32cd2ad62a4F",
-      "symbol": "GRIN",
-      "name": "KuchisakeOnna",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7384f5d3dcD0149B9346c453c6441569c874dFea",
       "symbol": "NIGHT",
       "name": "Midnight",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29119Ae6c6a85984026cC5A135Ce05d5453b7b53",
+      "symbol": "TU",
+      "name": "TU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20558,
-    "minor": 20558,
+    "major": 20559,
+    "minor": 20559,
     "patch": 86
   }
 }
