@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd06B4DBfEdcc0637d677F6cBB982b6900dd9DF33",
-      "symbol": "THE",
-      "name": "TheCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4b306007e64c6D1d5095122743238A9930208f0e",
       "symbol": "WXEN",
       "name": "Xen20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDCae4c7Cf7D3d9E516Be1F116d0038454b68A78A",
+      "symbol": "HYDRA",
+      "name": "HydraDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20627,
-    "minor": 20627,
+    "major": 20628,
+    "minor": 20628,
     "patch": 86
   }
 }
