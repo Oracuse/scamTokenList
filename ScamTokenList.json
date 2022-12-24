@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x59962beb304983F4422198984f8DE2d8B0D68C2b",
-      "symbol": "KITSUNEMASK",
-      "name": "KitsuneMask",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8013eA0231F5dce6655Ade4b3Ad83db6e8bB774d",
       "symbol": "KCH",
       "name": "KingChiku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4AfD3841D4f8a01Aa9fA3A3C236f4E2Fb3C91DBD",
+      "symbol": "DE5",
+      "name": "DejitaruETH5",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20682,
-    "minor": 20682,
+    "major": 20683,
+    "minor": 20683,
     "patch": 86
   }
 }
