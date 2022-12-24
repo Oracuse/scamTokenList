@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE982FC3df8c0A98Df1FA638ead1CAdFa023d0912",
-      "symbol": "GOLEM",
-      "name": "Golem",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75f723348DCaBCa845071450e4944c44Ea68e529",
       "symbol": "DASBABY",
       "name": "DasBaby",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8432a46B3cbD6B84333477cC979f121D5c0780d8",
+      "symbol": "WAD",
+      "name": "Swivel4D",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20612,
-    "minor": 20612,
+    "major": 20613,
+    "minor": 20613,
     "patch": 86
   }
 }
