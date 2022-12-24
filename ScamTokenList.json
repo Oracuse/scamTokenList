@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x07c6F43A1E0D13D2f94aA1E51C8F555f29650783",
-      "symbol": "TTS",
-      "name": "TheTennisShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcA1168A0fcfa01b94923a27Cc94EBdb5142c01DC",
       "symbol": "TSUTENNIS",
       "name": "TSUKATENNIS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4AF2d6527706CC6e1D051F89CF88E5204231FDd",
+      "symbol": "LIBRA",
+      "name": "LibraDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20646,
-    "minor": 20646,
+    "major": 20647,
+    "minor": 20647,
     "patch": 86
   }
 }
