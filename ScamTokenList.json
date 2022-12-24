@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD4bF0ABa9086BFd3cbE575CE8234E048DeD137D0",
-      "symbol": "TWC",
-      "name": "TheWorldCult",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x755Ad96c4dC15bE003D368321AE72bAF310580F6",
       "symbol": "CINU",
       "name": "CultofInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeE1f3eDaEe1a328b168CC1B250265CE13E67F4De",
+      "symbol": "404",
+      "name": "ERROR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20706,
-    "minor": 20706,
+    "major": 20707,
+    "minor": 20707,
     "patch": 86
   }
 }
