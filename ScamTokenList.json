@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6146F1Eeca0CE4a76B1aE2A0bEEabA3B2458924c",
-      "symbol": "DASBABY",
-      "name": "DasBaby",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9b7Dc4E6F50dAbE17a6CA11b6DCB0EBf32788dAd",
       "symbol": "DASBABY",
       "name": "DASBABY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c72a60F8Be05C21655724B1321F6a00814bB1bC",
+      "symbol": "BAD",
+      "name": "Santa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20607,
-    "minor": 20607,
+    "major": 20608,
+    "minor": 20608,
     "patch": 86
   }
 }
