@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6f1E504F0274baAD9F7f497c4A0A99fEf95f7CB0",
-      "symbol": "TRTDONTBUY",
-      "name": "TestDeployment",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x414A0Cb36F9Acabf118D90d6BfFc4CB742E5d63d",
       "symbol": "WCI20",
       "name": "PROOFOFWORLDCUPINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81FcD4Ed222817C607717B9bF95DF31023b260B3",
+      "symbol": "HNYE",
+      "name": "HappyNewYearElon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20620,
-    "minor": 20620,
+    "major": 20621,
+    "minor": 20621,
     "patch": 86
   }
 }
