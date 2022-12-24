@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC07C4E7A709011803552bA6E3482da6bBbB71Ce2",
-      "symbol": "KTM390",
-      "name": "THEKTMProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x94310Abf8553096BBEC9C42fB62d8De40C775F0D",
       "symbol": "THE",
       "name": "TheProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36fb5dA24C0C3Abb881214eD13D15Eb97e9ee8Df",
+      "symbol": "JINZO",
+      "name": "Jinzo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20595,
-    "minor": 20595,
+    "major": 20596,
+    "minor": 20596,
     "patch": 86
   }
 }
