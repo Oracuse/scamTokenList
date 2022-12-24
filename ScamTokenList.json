@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4dDb4bda82A7BCCa654C836BA2AaD3b7cA6B38BA",
-      "symbol": "BWCI",
-      "name": "BURNWORLDCUPINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE982FC3df8c0A98Df1FA638ead1CAdFa023d0912",
       "symbol": "GOLEM",
       "name": "Golem",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34F7f735aF834B6bE230508BaeD83A1e138A2057",
+      "symbol": "TOR",
+      "name": "TALEOFRABBIT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20611,
-    "minor": 20611,
+    "major": 20612,
+    "minor": 20612,
     "patch": 86
   }
 }
