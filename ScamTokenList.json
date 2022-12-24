@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x843d28FeFC639ad66E063D2c0F27d8B7054FC17f",
-      "symbol": "BTP",
-      "name": "BabyTennisProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98e51624819240c58E2c856E93c4A61FC08d3B59",
       "symbol": "TIBETANMASTIFF",
       "name": "TibetanMastiff",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4496e477bc23321d5dEA0DA4Ca8A7864Aa4Ed07D",
+      "symbol": "BS",
+      "name": "BIZSHIBA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20655,
-    "minor": 20655,
+    "major": 20656,
+    "minor": 20656,
     "patch": 86
   }
 }
