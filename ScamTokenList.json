@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcCA10e365A5bCE07A4C20156e667Fd9aE54F13ec",
-      "symbol": "KITSUNEMASK",
-      "name": "KitsuneMask",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x612c6aB3c55B897BFf8cdFFc9e71143fd01f7f2A",
       "symbol": "IR",
       "name": "SIRToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33033dAC78B2a462e977a8941754004588da1d35",
+      "symbol": "UKIYOAPE",
+      "name": "UkiyoAPE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20674,
-    "minor": 20674,
+    "major": 20675,
+    "minor": 20675,
     "patch": 86
   }
 }
