@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x77eA2798142b7322Ee2683AA8eE642b8161Db1E6",
-      "symbol": "GAMBLE",
-      "name": "DegensDestiny",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7964b3bD18655a0CCc3F5e319320DfE3A7E71e6b",
       "symbol": "BCI",
       "name": "BasketballCupInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3c8b71aCB2C1AfdD23374fa1419803808a9177f7",
+      "symbol": "YF",
+      "name": "YieldForest",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20599,
-    "minor": 20599,
+    "major": 20600,
+    "minor": 20600,
     "patch": 86
   }
 }
