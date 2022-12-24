@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBB97375b3EaCf1eba80803569C0A48597e2e41D1",
-      "symbol": "PEPEBET",
-      "name": "PEPEbet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5cce4b6c0369749651527CfC87a434553da48EdD",
       "symbol": "OUSHI",
       "name": "DejitaruOushi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8691e0711Ca2FB494535eB4f32Bae7Cc502581F9",
+      "symbol": "SUMERI",
+      "name": "KitaSuneSumeri",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20700,
-    "minor": 20700,
+    "major": 20701,
+    "minor": 20701,
     "patch": 86
   }
 }
