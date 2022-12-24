@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa0f1eF7f084C4c1240b885B63cdb558de1DbE886",
-      "symbol": "THEREUM",
-      "name": "TheReum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x74E5379A74E3FEaCB9483656d80af4c705054342",
       "symbol": "POM",
       "name": "ProofofMatrix",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBB3051Fd070Bbb7DE47374783615Ecc487cCc97F",
+      "symbol": "SRU",
+      "name": "Seiryu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20578,
-    "minor": 20578,
+    "major": 20579,
+    "minor": 20579,
     "patch": 86
   }
 }
