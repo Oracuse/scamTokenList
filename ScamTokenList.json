@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0d6b638626d0381C9415eD5F11FaAE5af8491494",
-      "symbol": "APESSEMBLE",
-      "name": "Apevengers",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x67b9C376D7C608e5eb7fdB6eB8487dAdBc597512",
       "symbol": "SPHINX",
       "name": "ProtectorofPyramids",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf20058Bfed97c0e2a0377b3BaeA461EB1eEee8d8",
+      "symbol": "TSUKIYO",
+      "name": "WayOfTheDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20630,
-    "minor": 20630,
+    "major": 20631,
+    "minor": 20631,
     "patch": 86
   }
 }
