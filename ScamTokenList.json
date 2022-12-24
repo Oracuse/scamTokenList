@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe70304149d7c7E6AD83AC07cFac8A1177caaC58C",
-      "symbol": "ROCK",
-      "name": "TheRockCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfEDbd7d2dd27faaB8bB8BfeAAeeb4adf025a4b05",
       "symbol": "G5L",
       "name": "G5L",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x195d6252662cf9145E70b65FC092Bd07ab0Aeb41",
+      "symbol": "NIWATORI",
+      "name": "Niwatori",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20581,
-    "minor": 20581,
+    "major": 20582,
+    "minor": 20582,
     "patch": 86
   }
 }
