@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x41BfDa21e28eEb2998f1e00F92180701A6a17886",
-      "symbol": "CTHE",
-      "name": "TheChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0c2eE6C0Bf05311175Cc5A53b51c9dd7dD4596CF",
       "symbol": "BABYWCI",
       "name": "BabyWorldCupInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x252925683F64e2bC98D8f9F04F4aEDd3836D1C15",
+      "symbol": "ICHUMA",
+      "name": "HirishamaIchuma",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20635,
-    "minor": 20635,
+    "major": 20636,
+    "minor": 20636,
     "patch": 86
   }
 }
