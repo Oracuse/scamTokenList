@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1AEa7e93A0409c7F049DBF5b7a6bBB78BACDF89f",
-      "symbol": "CORONA",
-      "name": "CoronaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x927CBE58dBF965C1DB32Ae671fd7ec052B40582a",
       "symbol": "SHIBOSHI",
       "name": "ShibaEternity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b4Fc9d3a1296573ced7Fc381C42979C954BB99C",
+      "symbol": "AMCAPE",
+      "name": "AMCApe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20583,
-    "minor": 20583,
+    "major": 20584,
+    "minor": 20584,
     "patch": 86
   }
 }
