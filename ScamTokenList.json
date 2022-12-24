@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0885d5Ad6d46106C935A068Cd09b7D8a22abA6D7",
-      "symbol": "THEGHOST",
-      "name": "TheGhostProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x944dAEe66a8B1408a52271D10092434da37e20eC",
       "symbol": "TETH",
       "name": "THEETHEREUMPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4DDfCc4EB08992b80FbDc8702DC8B8ef7dc87C17",
+      "symbol": "BAD",
+      "name": "BadSanta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20641,
-    "minor": 20641,
+    "major": 20642,
+    "minor": 20642,
     "patch": 86
   }
 }
