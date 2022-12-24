@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x013F0733da802b747259066E9367A0168B1fA642",
-      "symbol": "THECHAIN",
-      "name": "THECHAIN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd988Bd6d9E34E934cbbac9Cfd25c56D28B2A55ca",
       "symbol": "TFLOKI",
       "name": "THEFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Dc3b06Cb45806B61116DCfcAD0D852ec3C7d146",
+      "symbol": "SHIBBIT",
+      "name": "SHIBBITINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20585,
-    "minor": 20585,
+    "major": 20586,
+    "minor": 20586,
     "patch": 86
   }
 }
