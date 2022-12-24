@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0771aab6C6b23fCcFd52D202C1e2D00029b18045",
-      "symbol": "HALP",
-      "name": "HalloweenProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x315195691D0FF73CD1a6D0Dba8294E0E4370fE10",
       "symbol": "LION100X",
       "name": "LIONDOGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00b7c4bE067CeA723df8F541AaCBEfB42C30AA33",
+      "symbol": "KIRA",
+      "name": "DoragonKira",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20692,
-    "minor": 20692,
+    "major": 20693,
+    "minor": 20693,
     "patch": 86
   }
 }
