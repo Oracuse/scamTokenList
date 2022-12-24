@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0c2eE6C0Bf05311175Cc5A53b51c9dd7dD4596CF",
-      "symbol": "BABYWCI",
-      "name": "BabyWorldCupInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x79335a5B26A21effB16fcE566C91d32952feC6F8",
       "symbol": "TIP",
       "name": "TheInuProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb37a31b53889E9B137Bb87d524929c8364Da6d32",
+      "symbol": "BS",
+      "name": "BadSanta",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20636,
-    "minor": 20636,
+    "major": 20637,
+    "minor": 20637,
     "patch": 86
   }
 }
