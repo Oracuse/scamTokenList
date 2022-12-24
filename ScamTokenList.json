@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x612c6aB3c55B897BFf8cdFFc9e71143fd01f7f2A",
-      "symbol": "IR",
-      "name": "SIRToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC626D48C2f6E01115Ae08051BCF7a1C7BA9cB050",
       "symbol": "DOGEZILLA2O",
       "name": "ProofOfZilla",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4dB1352Ae5a74bA6EE7893BB059aD87562f7A905",
+      "symbol": "NUTAK",
+      "name": "Nutak",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20675,
-    "minor": 20675,
+    "major": 20676,
+    "minor": 20676,
     "patch": 86
   }
 }
