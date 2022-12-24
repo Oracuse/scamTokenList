@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD29D3d3AeCD7De4414AC5b91DB0f8b0B65Fcb88c",
-      "symbol": "PRIMALS",
-      "name": "LiverKingCoin",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51A426327Cf9BCc3ba5b213011c8A31079f70FF1",
       "symbol": "ETP",
       "name": "ETP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b330ba41fe8D9ec08DBa6040B103648dc854166",
+      "symbol": "SHIMA",
+      "name": "Okunoshima",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20686,
-    "minor": 20686,
+    "major": 20687,
+    "minor": 20687,
     "patch": 86
   }
 }
