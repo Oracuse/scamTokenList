@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x27d6f0734b6e17C64886dd4B51c241a43A6b9DC1",
-      "symbol": "SWINU",
-      "name": "sweatinu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9C50714b19C04b3394B6460656d79e0BBa02BF1a",
       "symbol": "ROCK",
       "name": "TheRockCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5BA223CF62450A5a50e47339Da20248961CdE327",
+      "symbol": "SHIBUKI",
+      "name": "ShibKabuki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20591,
-    "minor": 20591,
+    "major": 20592,
+    "minor": 20592,
     "patch": 86
   }
 }
