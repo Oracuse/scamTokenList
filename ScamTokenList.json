@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9F5523A697981D97b8bEa62E568CDfdEce960388",
-      "symbol": "UNITY",
-      "name": "OneWorld",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2A9e32b8ac4e90c6476C0eD1C80c90aA67e14fBb",
       "symbol": "UNIK",
       "name": "UnikNetwork",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d12f5116B6c131cfc513940960C88992494988f",
+      "symbol": "PUGE",
+      "name": "PugeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20644,
-    "minor": 20644,
+    "major": 20645,
+    "minor": 20645,
     "patch": 86
   }
 }
