@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x466e5209aBFD8AC928bFDFd80b34dBAc3A811F1A",
-      "symbol": "MWCI",
-      "name": "MINIWORLDCUPINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2e71B0d856F1E9e9a841D08586552F1CB13c8EbA",
       "symbol": "ARTSER",
       "name": "ArtemisSerum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x690333178f147B3Ab205B5CBbeFF13619DEF266b",
+      "symbol": "PHANTOM",
+      "name": "PhantomExchange",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20602,
-    "minor": 20602,
+    "major": 20603,
+    "minor": 20603,
     "patch": 86
   }
 }
