@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51A426327Cf9BCc3ba5b213011c8A31079f70FF1",
-      "symbol": "ETP",
-      "name": "ETP",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbFD3548C4A5D904164c1344aD18e577B10830A47",
       "symbol": "SHOGUN",
       "name": "SHOGUN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63A9686e474Fbf3E0976b65199D8677679fbd224",
+      "symbol": "AMDE",
+      "name": "AmazonDefi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20687,
-    "minor": 20687,
+    "major": 20688,
+    "minor": 20688,
     "patch": 86
   }
 }
