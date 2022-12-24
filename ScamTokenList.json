@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8E1C69864F3b9501a02FD79b128DB643e02aD3a6",
-      "symbol": "BASESEVENS",
-      "name": "Septenary",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdc64384d18f808cD93dfe7303f37C502aaBb307A",
       "symbol": "GOOSE",
       "name": "GooseToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30e3f80a2dd08021e42c2Bb243B634250DdDb6dD",
+      "symbol": "THIEF",
+      "name": "CarolineInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20648,
-    "minor": 20648,
+    "major": 20649,
+    "minor": 20649,
     "patch": 86
   }
 }
