@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x46cE776bca835D4F704072c28ab1d9A54f4b7B46",
-      "symbol": "DGROW",
-      "name": "DegenGrow",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15c1108C0D1D79dE03a4378785109e8E17e5FEdA",
       "symbol": "CAIMR",
       "name": "Caimr",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3fdD02460c5515Eda40BF353AEef56348989D6C1",
+      "symbol": "GAY",
+      "name": "Whyareyougay",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20660,
-    "minor": 20660,
+    "major": 20661,
+    "minor": 20661,
     "patch": 86
   }
 }
