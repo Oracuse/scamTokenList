@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15c1108C0D1D79dE03a4378785109e8E17e5FEdA",
-      "symbol": "CAIMR",
-      "name": "Caimr",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2FFd0fD94C5F64CaCFA35527Af621cb031a3D0B2",
       "symbol": "TT",
       "name": "TsukaTennis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x884289ff4d6FF217890673525AF93fbC34152ec2",
+      "symbol": "MEGURINELUKA",
+      "name": "MegurineLuka",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20661,
-    "minor": 20661,
+    "major": 20662,
+    "minor": 20662,
     "patch": 86
   }
 }
