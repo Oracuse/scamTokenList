@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x073bE5B9f6bc8cc42E74e592ae9B03c573FcbA4d",
-      "symbol": "APHA",
-      "name": "aPhalaNetwork",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd9630A248bB16464C0e414e9aB5012c5A04a1f92",
       "symbol": "TSUKAPROTOCOL",
       "name": "TheTsukaProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9173dB22533bD3E1A5f0D7dE8497e78Ad4F9eDa9",
+      "symbol": "SONI",
+      "name": "SazaeOni",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20710,
-    "minor": 20710,
+    "major": 20711,
+    "minor": 20711,
     "patch": 86
   }
 }
