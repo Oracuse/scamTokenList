@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3BabfD68a4c1778B23953b9e865A8B4Dc102c6dF",
-      "symbol": "OFID",
-      "name": "OurFounderIsDead",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9ECae7E7515c3eDc5576d0CEdf5eDC9F3029190c",
       "symbol": "FTY",
       "name": "Futurity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDfCa22fD2A213dB99acD12bC9e96B6456e6dcA3e",
+      "symbol": "SHAZAM",
+      "name": "FuryofTheGods",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20622,
-    "minor": 20622,
+    "major": 20623,
+    "minor": 20623,
     "patch": 86
   }
 }
