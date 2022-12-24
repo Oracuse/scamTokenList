@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x79335a5B26A21effB16fcE566C91d32952feC6F8",
-      "symbol": "TIP",
-      "name": "TheInuProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5cfca4F0acBFb5027c39F365A23406aA297C7d30",
       "symbol": "INCOGNITO",
       "name": "ETHCOGNITO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d3466131931F59Db6A8855C42985406a29580D8",
+      "symbol": "XMAS",
+      "name": "Xmas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20637,
-    "minor": 20637,
+    "major": 20638,
+    "minor": 20638,
     "patch": 86
   }
 }
