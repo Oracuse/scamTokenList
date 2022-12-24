@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbFD3548C4A5D904164c1344aD18e577B10830A47",
-      "symbol": "SHOGUN",
-      "name": "SHOGUN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x57E36202e79baE112203655C22F1b9bCCBec7fED",
       "symbol": "RHO",
       "name": "RhoAias",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5923859C3a0C1B01ffa48fdC0101a6F937500852",
+      "symbol": "FRACTAL",
+      "name": "RubeGoldbergmachine",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20688,
-    "minor": 20688,
+    "major": 20689,
+    "minor": 20689,
     "patch": 86
   }
 }
