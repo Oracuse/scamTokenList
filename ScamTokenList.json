@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3F303Aef49C6D6ADd0BD9843d2b4caE4242509B3",
-      "symbol": "WTC",
-      "name": "WorldTennisCup",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x46cE776bca835D4F704072c28ab1d9A54f4b7B46",
       "symbol": "DGROW",
       "name": "DegenGrow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCB68f7eD388832906244B359E42d1E7184116327",
+      "symbol": "FIRE",
+      "name": "ChickChickBoom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20659,
-    "minor": 20659,
+    "major": 20660,
+    "minor": 20660,
     "patch": 86
   }
 }
