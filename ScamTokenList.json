@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x54Cec21C23e272CDce486A9DbA5Fa7dE07b1ab89",
-      "symbol": "SYMBOL",
-      "name": "NAME",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3A975DF009C6F6A9692B0e2284F9893089d50521",
       "symbol": "WCD",
       "name": "WORLDCUPDOGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Ee76e98Ea77c51d4e52b11B8051c70D090Da2Bf",
+      "symbol": "KOZO",
+      "name": "KarakasaKozo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20670,
-    "minor": 20670,
+    "major": 20671,
+    "minor": 20671,
     "patch": 86
   }
 }
