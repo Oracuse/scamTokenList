@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF73F13A67a6125D1483579637a838271a20d38e1",
-      "symbol": "ZODIAC",
-      "name": "zodiac",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x41BfDa21e28eEb2998f1e00F92180701A6a17886",
       "symbol": "CTHE",
       "name": "TheChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEA0aa19a86CbA6aeA5087d45615f5B7e2C85e972",
+      "symbol": "ONLYDER",
+      "name": "OnlyfansDejitaru",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20634,
-    "minor": 20634,
+    "major": 20635,
+    "minor": 20635,
     "patch": 86
   }
 }
