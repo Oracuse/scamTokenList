@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xca2e9fcF05B33c083b8a8046951ddFFBeBE3A34D",
-      "symbol": "CVPV",
-      "name": "CVPV",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x940353FB9027aCb64D039DB57D1a53B5fE588A5C",
       "symbol": "PEPEBET",
       "name": "PEPEbet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcA0e4538Aa8b5635B8eD2EE2b916E026a82e7c97",
+      "symbol": "UKIYODRAGON",
+      "name": "UkiyoDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20663,
-    "minor": 20663,
+    "major": 20664,
+    "minor": 20664,
     "patch": 86
   }
 }
