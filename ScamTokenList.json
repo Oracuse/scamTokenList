@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22b7D309bB5b22F1AC5443Be29E645a984946B8B",
-      "symbol": "POC",
-      "name": "ProofofChampion",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD29D3d3AeCD7De4414AC5b91DB0f8b0B65Fcb88c",
       "symbol": "PRIMALS",
       "name": "LiverKingCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70B2d11C6033f266F80d1BF59661152D38150Cc0",
+      "symbol": "TYRANTERC",
+      "name": "TailTyrant",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20685,
-    "minor": 20685,
+    "major": 20686,
+    "minor": 20686,
     "patch": 86
   }
 }
