@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7964b3bD18655a0CCc3F5e319320DfE3A7E71e6b",
-      "symbol": "BCI",
-      "name": "BasketballCupInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15e40ff9e72696789D8F94a54f8EC6b4b791e342",
       "symbol": "DM",
       "name": "Dream",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF78Fb533dD9E204Dd6433B080a0258609D28E499",
+      "symbol": "DMR",
+      "name": "Delomiro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20600,
-    "minor": 20600,
+    "major": 20601,
+    "minor": 20601,
     "patch": 86
   }
 }
