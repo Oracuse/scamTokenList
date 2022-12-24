@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5cce4b6c0369749651527CfC87a434553da48EdD",
-      "symbol": "OUSHI",
-      "name": "DejitaruOushi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc1A8469cc1765E481A0726C3611a7ADda24eCBBB",
       "symbol": "SHOJO",
       "name": "Nakayoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA84e70321BA6E153a4950c53B4B3E9777132c475",
+      "symbol": "GLAUR",
+      "name": "DejitaruGlaurung",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20701,
-    "minor": 20701,
+    "major": 20702,
+    "minor": 20702,
     "patch": 86
   }
 }
