@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x78C0e7875A1C04fff563e4Bc51a717f22F667979",
-      "symbol": "SEMONIA",
-      "name": "SemoniaBattle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAA2DEd323944b25C0B6f1F891Bc96F010b65622C",
       "symbol": "THERADIO",
       "name": "Radioreum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed7f179D666c87E28f8238CdC0Ddc61669F673D9",
+      "symbol": "PUI",
+      "name": "PUIINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20617,
-    "minor": 20617,
+    "major": 20618,
+    "minor": 20618,
     "patch": 86
   }
 }
