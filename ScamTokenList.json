@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8c33cfF4ef2Ff1095FEbef3A26927fE8669006a7",
-      "symbol": "WCD",
-      "name": "WorldCupDoge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28D847E9B9089f598Da8678FFF8Af554b65C8200",
       "symbol": "GCI",
       "name": "GolfCapInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42D9d10e07149Ec3080e967BEb71991AA5E95828",
+      "symbol": "ZODIAC",
+      "name": "DejitaruZodiac",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20605,
-    "minor": 20605,
+    "major": 20606,
+    "minor": 20606,
     "patch": 86
   }
 }
