@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x918CE41c04509d60592665A8c7715a8e862FB437",
-      "symbol": "VAMP",
-      "name": "Carti",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe70304149d7c7E6AD83AC07cFac8A1177caaC58C",
       "symbol": "ROCK",
       "name": "TheRockCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAa3687b9ed4e477FAc79C50eD7AB8E63e6CEcC60",
+      "symbol": "SCOOBYDOO",
+      "name": "BrownScoobyDoo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20580,
-    "minor": 20580,
+    "major": 20581,
+    "minor": 20581,
     "patch": 86
   }
 }
