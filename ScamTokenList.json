@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe26ab32975D80F8376FA107812D1a055d4F84fe1",
-      "symbol": "REDPILL",
-      "name": "RedPill",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22b7D309bB5b22F1AC5443Be29E645a984946B8B",
       "symbol": "POC",
       "name": "ProofofChampion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC61e4e702A16B073e66E6eda7a8d29B51078D37b",
+      "symbol": "RABRANT",
+      "name": "FableOfTheRabbit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20684,
-    "minor": 20684,
+    "major": 20685,
+    "minor": 20685,
     "patch": 86
   }
 }
