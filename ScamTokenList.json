@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28D847E9B9089f598Da8678FFF8Af554b65C8200",
-      "symbol": "GCI",
-      "name": "GolfCapInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6146F1Eeca0CE4a76B1aE2A0bEEabA3B2458924c",
       "symbol": "DASBABY",
       "name": "DasBaby",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4295F10BA9Df7F5fEb414360B54bfF8F50855145",
+      "symbol": "MANCOSHI",
+      "name": "Mancoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20606,
-    "minor": 20606,
+    "major": 20607,
+    "minor": 20607,
     "patch": 86
   }
 }
