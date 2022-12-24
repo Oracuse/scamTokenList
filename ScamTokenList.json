@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x77F384Ba63A06bC2eF652018cb33C3937A0CB87F",
-      "symbol": "DASBOOT",
-      "name": "DasBoot",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1A7e4C5E640789b7D36dC9C8564cbF08aa38DD48",
       "symbol": "BSER",
       "name": "BABYSERUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c9B7cA0b62330Df66fD9BE6F29F94e0B40E0020",
+      "symbol": "INARI",
+      "name": "Kitsune",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20609,
-    "minor": 20609,
+    "major": 20610,
+    "minor": 20610,
     "patch": 86
   }
 }
