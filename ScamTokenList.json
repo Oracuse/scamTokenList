@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2A9e32b8ac4e90c6476C0eD1C80c90aA67e14fBb",
-      "symbol": "UNIK",
-      "name": "UnikNetwork",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x07c6F43A1E0D13D2f94aA1E51C8F555f29650783",
       "symbol": "TTS",
       "name": "TheTennisShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70708d6d75027790059779B2c018011731540Fe5",
+      "symbol": "UKIYOSHIBA",
+      "name": "UkiyoShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20645,
-    "minor": 20645,
+    "major": 20646,
+    "minor": 20646,
     "patch": 86
   }
 }
