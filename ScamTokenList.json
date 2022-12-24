@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0677A9e7c8Fb98bD1EDA2B68Ad0669197a60Eb88",
-      "symbol": "MEMETENNIS",
-      "name": "GameofMemeTennis",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6f1E504F0274baAD9F7f497c4A0A99fEf95f7CB0",
       "symbol": "TRTDONTBUY",
       "name": "TestDeployment",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ff4c1555060F2900142D4Bf7787D945D7057085",
+      "symbol": "TFW",
+      "name": "TheFramework",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20619,
-    "minor": 20619,
+    "major": 20620,
+    "minor": 20620,
     "patch": 86
   }
 }
