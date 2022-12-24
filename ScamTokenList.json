@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4b306007e64c6D1d5095122743238A9930208f0e",
-      "symbol": "WXEN",
-      "name": "Xen20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEa107C670378f08f6adfacF7a43f35506700583E",
       "symbol": "TLL",
       "name": "TheLaziestLarp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x322884286ADdE1bf63e0F21aD5De4A2f7A32E83a",
+      "symbol": "RSHIB",
+      "name": "REDSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20628,
-    "minor": 20628,
+    "major": 20629,
+    "minor": 20629,
     "patch": 86
   }
 }
