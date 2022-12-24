@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0fbf6232CF6DDA8B8ec16027e90f0aE98fdf27F6",
-      "symbol": "REN",
-      "name": "Renascence",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5f05F6119D59539e883C12715730cD6Ba41D0121",
       "symbol": "SUNFYRE",
       "name": "SunfyreTheGolden",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x469077E33eA204f80344cc6e0445E2C90FCAA32D",
+      "symbol": "SHINRAI",
+      "name": "Trust",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20575,
-    "minor": 20575,
+    "major": 20576,
+    "minor": 20576,
     "patch": 86
   }
 }
