@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4CdE420Fc84B14414c124dAFD6BeFE574840aC62",
-      "symbol": "DIGITAL",
-      "name": "TheDejitaruProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa0f1eF7f084C4c1240b885B63cdb558de1DbE886",
       "symbol": "THEREUM",
       "name": "TheReum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xae88d29D47Ba3F212f034a82BF084eB5D167e6ab",
+      "symbol": "FIXED",
+      "name": "FixedFacility",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20577,
-    "minor": 20577,
+    "major": 20578,
+    "minor": 20578,
     "patch": 86
   }
 }
