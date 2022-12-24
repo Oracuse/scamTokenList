@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe46f6F6fE70fc503961416D9ebF25631Fc57fC34",
-      "symbol": "TAYOR",
-      "name": "TradeAtYourOwnRisk",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x073bE5B9f6bc8cc42E74e592ae9B03c573FcbA4d",
       "symbol": "APHA",
       "name": "aPhalaNetwork",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbEF86bf1bEaf463fE54cCa06F40E21695FAd348F",
+      "symbol": "XMAS",
+      "name": "Christmas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20709,
-    "minor": 20709,
+    "major": 20710,
+    "minor": 20710,
     "patch": 86
   }
 }
