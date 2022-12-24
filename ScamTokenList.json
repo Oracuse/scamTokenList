@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x57E36202e79baE112203655C22F1b9bCCBec7fED",
-      "symbol": "RHO",
-      "name": "RhoAias",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0Cf65Bc2D05C60EF0055027Fc7e5603FA33D4551",
       "symbol": "MISSILE",
       "name": "Missile",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60481b08060e56d0Bfb37f6CC3b2A6201441aFAE",
+      "symbol": "GOLDBERG",
+      "name": "RubeGoldberg",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20689,
-    "minor": 20689,
+    "major": 20690,
+    "minor": 20690,
     "patch": 86
   }
 }
