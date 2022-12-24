@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x74E5379A74E3FEaCB9483656d80af4c705054342",
-      "symbol": "POM",
-      "name": "ProofofMatrix",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x918CE41c04509d60592665A8c7715a8e862FB437",
       "symbol": "VAMP",
       "name": "Carti",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09C3e01E320C78e9bEfd4e58784A528698a0d2A9",
+      "symbol": "CLIFF",
+      "name": "XmasClifford",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20579,
-    "minor": 20579,
+    "major": 20580,
+    "minor": 20580,
     "patch": 86
   }
 }
