@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb066547c6914e0558F4F40766A92b042E6476ad1",
-      "symbol": "CHANCELLOR",
-      "name": "TheChancellor",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x78C0e7875A1C04fff563e4Bc51a717f22F667979",
       "symbol": "SEMONIA",
       "name": "SemoniaBattle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b03f1BdF9EC33D389fEF9e54AE48F6908e63419",
+      "symbol": "WMEME",
+      "name": "WrappedMemes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20616,
-    "minor": 20616,
+    "major": 20617,
+    "minor": 20617,
     "patch": 86
   }
 }
