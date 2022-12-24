@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x940353FB9027aCb64D039DB57D1a53B5fE588A5C",
-      "symbol": "PEPEBET",
-      "name": "PEPEbet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x92feB35e21fa2729b3abBc975ceA8DECe4cE156F",
       "symbol": "LICCAKAYAMA",
       "name": "LiccaKayama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19d5FaF731fd4bd4F03c476697A86c5770Cb9c29",
+      "symbol": "DROOPY",
+      "name": "DroopyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20664,
-    "minor": 20664,
+    "major": 20665,
+    "minor": 20665,
     "patch": 86
   }
 }
