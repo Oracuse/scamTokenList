@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9ECae7E7515c3eDc5576d0CEdf5eDC9F3029190c",
-      "symbol": "FTY",
-      "name": "Futurity",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5cE704574985a353021F955ACA312C3C96e672F6",
       "symbol": "XETAX",
       "name": "XETA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfFdfa6D2717335EbAd76e7634D5A889D31042E7F",
+      "symbol": "FFTC",
+      "name": "FTTClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20623,
-    "minor": 20623,
+    "major": 20624,
+    "minor": 20624,
     "patch": 86
   }
 }
