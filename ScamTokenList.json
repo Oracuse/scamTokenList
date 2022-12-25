@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDD09dE078d48aBAa31809380fedfa4870Ba11f42",
-      "symbol": "VOID",
-      "name": "TheMatrix",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x32B786787fCc29d7aF785f46d032B38F592529Db",
       "symbol": "DXM",
       "name": "DeusXMachina",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa198228B8744272518a4227991ea9712D33494E1",
+      "symbol": "KEK",
+      "name": "Kekinu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20769,
-    "minor": 20769,
+    "major": 20770,
+    "minor": 20770,
     "patch": 86
   }
 }
