@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x277Df2da7DF23B6f5f7896e5F188615962Ad2c95",
-      "symbol": "THEB",
-      "name": "TheBabyProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa33a9144FE6eAed271cf0aA8b217Afe2cdE689AF",
       "symbol": "FGOLD",
       "name": "FGOLDTOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5945FF6CBB55e08236f9ab03404bfCA7a886405",
+      "symbol": "SOUL",
+      "name": "Soulflake",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20717,
-    "minor": 20717,
+    "major": 20718,
+    "minor": 20718,
     "patch": 86
   }
 }
