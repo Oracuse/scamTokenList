@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8AB106AB92Bca4F64cbf4302a82D6d9Df130237e",
-      "symbol": "THEME",
-      "name": "TheTheme",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB9B9798ba0858E34F41E5FF922c7EEFEb1fcdeC5",
       "symbol": "POS",
       "name": "ProofofSER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x67889929B478817f39a668964361aC1d6fEC5D26",
+      "symbol": "CHRISTMAS",
+      "name": "Christmas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20720,
-    "minor": 20720,
+    "major": 20721,
+    "minor": 20721,
     "patch": 86
   }
 }
