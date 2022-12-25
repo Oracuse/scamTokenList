@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93b8efbDBdc4Be3001036Cb947e0dc365F553da6",
-      "symbol": "BFMON",
-      "name": "BABYFMON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDd1E59B35599Cc34f6f31EB931477Bd06CBF2a52",
       "symbol": "RIP",
       "name": "DegensEnd",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd695E3aaCfF5cA44A4849D569F56C96f7447094a",
+      "symbol": "DEGENS",
+      "name": "SantaDegen",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20722,
-    "minor": 20722,
+    "major": 20723,
+    "minor": 20723,
     "patch": 86
   }
 }
