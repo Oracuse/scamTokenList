@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa33a9144FE6eAed271cf0aA8b217Afe2cdE689AF",
-      "symbol": "FGOLD",
-      "name": "FGOLDTOKEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8192A299cD90AE1Fd6d1CAE01dAC24bA331F0A29",
       "symbol": "BASED",
       "name": "BASED",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x173c2924cb1Ae01b2993105BE3D54bdCC7B7a6D9",
+      "symbol": "YOISHO",
+      "name": "Yoisho",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20718,
-    "minor": 20718,
+    "major": 20719,
+    "minor": 20719,
     "patch": 86
   }
 }
