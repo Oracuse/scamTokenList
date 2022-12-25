@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xED71Fc879fA17ACe4ee31530a42b044F711bd588",
-      "symbol": "MANIFEST",
-      "name": "Manifest",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x05336c7c3fE147e9d231dD061d11305Ed4D9AeFf",
       "symbol": "SHERPA",
       "name": "SHERPATOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb275d346F87Ff624C8A239a19889E3cEe357a523",
+      "symbol": "NYF",
+      "name": "NewYearFloki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20729,
-    "minor": 20729,
+    "major": 20730,
+    "minor": 20730,
     "patch": 86
   }
 }
