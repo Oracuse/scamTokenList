@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1403508E339A32aaCea7B1FFf883721072184445",
-      "symbol": "DXM",
-      "name": "DeusXMachina",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x14513E7A1f393b01A21E668e9Fc6d5eE55F4973D",
       "symbol": "DRACO",
       "name": "DRACO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3B2d45cC33aF2F64097EA7e2274F586565f071d",
+      "symbol": "SFLOKI",
+      "name": "SantaFloki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20750,
-    "minor": 20750,
+    "major": 20751,
+    "minor": 20751,
     "patch": 86
   }
 }
