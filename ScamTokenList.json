@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x483d4d5DFD9d4305e43B45970E68DC7831C08e1c",
-      "symbol": "LOL",
-      "name": "LackofLuck",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1222df8c2B525fE6c089d742F584f4E59C187a0C",
       "symbol": "SHERPA",
       "name": "SHERPATOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf74c52fd3d5ba347Dd8872dFafF8F7923cB24cc7",
+      "symbol": "BNT",
+      "name": "BoldNFTToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20727,
-    "minor": 20727,
+    "major": 20728,
+    "minor": 20728,
     "patch": 86
   }
 }
