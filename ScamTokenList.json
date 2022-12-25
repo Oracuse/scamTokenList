@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbE5E8dD983487D204126113087Bf62A76791162d",
-      "symbol": "WCP",
-      "name": "WorldCupProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x523aEEA8f5dc0522Aeb4107cFff4D3aF0294e5ec",
       "symbol": "DXM",
       "name": "DeusXMachina",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32D9160C86da4CB76A9cf04cbb4836814A6E5de7",
+      "symbol": "ETD",
+      "name": "ElonsThreeDoges",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20757,
-    "minor": 20757,
+    "major": 20758,
+    "minor": 20758,
     "patch": 86
   }
 }
