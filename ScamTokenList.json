@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6Da89311c0CA71a4Fca7c5c4932691B1Ba091DBd",
-      "symbol": "SLEEPYDEV",
-      "name": "SleepyDev",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x585d1922AA2Dd8e04a187b8DccBdf5Ec093b79c4",
       "symbol": "HAKU",
       "name": "HAKUTAKU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x110D0C39229d63fa83A0A4835aD32eDb90744eba",
+      "symbol": "ZEDDOSHI",
+      "name": "ZCity",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20759,
-    "minor": 20759,
+    "major": 20760,
+    "minor": 20760,
     "patch": 86
   }
 }
