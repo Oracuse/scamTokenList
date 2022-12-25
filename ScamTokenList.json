@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5BC254acBAf94FF7390FC93A42287b63978ab102",
-      "symbol": "CIKO",
-      "name": "CIKO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4327b9DBC3215Bf0aA7A596880c346691137bAe7",
       "symbol": "GRRRRRRRR",
       "name": "AngryVitalik",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11bF0c765cB970AAF0Ad02F9c599148d36DF8589",
+      "symbol": "BNT",
+      "name": "BoldNFTToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20739,
-    "minor": 20739,
+    "major": 20740,
+    "minor": 20740,
     "patch": 86
   }
 }
