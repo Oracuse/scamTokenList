@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x113E24c857330792b83669C173E40336a6F55f69",
-      "symbol": "MWCI",
-      "name": "MINIWORLDCUPINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4CFed0Fd80D2668c0c1288148F213956549A7B2F",
       "symbol": "VINTAGE",
       "name": "OLDSTYLE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4613174E60cC24b5380eC5d71262594DFd6D0C48",
+      "symbol": "OCS",
+      "name": "OnChainSniper",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20734,
-    "minor": 20734,
+    "major": 20735,
+    "minor": 20735,
     "patch": 86
   }
 }
