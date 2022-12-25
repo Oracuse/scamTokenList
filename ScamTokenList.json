@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE67Db79af2F8da6341CCEBAbc523b93780Bf5573",
-      "symbol": "MM",
-      "name": "MiyamotoETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x37be9fBbf7206884cBf226Ae0B52c3FB811aacFC",
       "symbol": "WNI",
       "name": "WorldNewsInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9d75D36c7dac2008de15aD835f46c8d4CE1129d0",
+      "symbol": "SHIB23",
+      "name": "Shiba2023",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20761,
-    "minor": 20761,
+    "major": 20762,
+    "minor": 20762,
     "patch": 86
   }
 }
