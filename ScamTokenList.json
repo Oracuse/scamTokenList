@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x50bB696f80009272484c22d6AA461421A6cc63Fc",
-      "symbol": "RCI",
-      "name": "RiotCupInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x861A3F37711481E42e65Bf67Eb165c6f1614E97C",
       "symbol": "DESHI",
       "name": "DejitaruShiroi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x990ee5238Ae1513cA98cAc88821307AE81e23e2c",
+      "symbol": "FUZAN",
+      "name": "ArcOfTheDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20737,
-    "minor": 20737,
+    "major": 20738,
+    "minor": 20738,
     "patch": 86
   }
 }
