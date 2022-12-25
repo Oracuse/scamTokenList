@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x59bD7A0e227D7Bd4903300518059b4bE8a80B9DB",
-      "symbol": "HAOHMARU",
-      "name": "Haohmaru",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x33Cf519030235F75A13F29aFcFF5D6ff4Fd10350",
       "symbol": "PEPEBET",
       "name": "PEPEbetToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70C367F1B6fDf34076b22f1d43F0025AEd915BCD",
+      "symbol": "METAMASK",
+      "name": "MetaMask",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20724,
-    "minor": 20724,
+    "major": 20725,
+    "minor": 20725,
     "patch": 86
   }
 }
