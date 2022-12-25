@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB9B9798ba0858E34F41E5FF922c7EEFEb1fcdeC5",
-      "symbol": "POS",
-      "name": "ProofofSER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93b8efbDBdc4Be3001036Cb947e0dc365F553da6",
       "symbol": "BFMON",
       "name": "BABYFMON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB897f786b849D5d3c6e979d6391670DD57c81D4c",
+      "symbol": "BOMBOCLAT",
+      "name": "BomboClat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20721,
-    "minor": 20721,
+    "major": 20722,
+    "minor": 20722,
     "patch": 86
   }
 }
