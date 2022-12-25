@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x06CA1A46C49cF58E82246e696692eb7C707A924a",
-      "symbol": "DXMI",
-      "name": "DeusXMachinaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98c22F0006C2E73D25f35e82d3F4Ce4c7d640E4c",
       "symbol": "DAIMYO",
       "name": "Daimyojin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb7303b5A0f5CAC2411faAAba7aEF2A6a42486Dc5",
+      "symbol": "XINU",
+      "name": "ChristmasInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20752,
-    "minor": 20752,
+    "major": 20753,
+    "minor": 20753,
     "patch": 86
   }
 }
