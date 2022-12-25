@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x05336c7c3fE147e9d231dD061d11305Ed4D9AeFf",
-      "symbol": "SHERPA",
-      "name": "SHERPATOKEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe1cff66dCdDa23477f609fc0c78aee038fb3E803",
       "symbol": "KRK",
       "name": "KURKANU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xca60040A6e6B2bBf32ab127Dd1B9C2b98a6d31e6",
+      "symbol": "XMAS",
+      "name": "EndChristmas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20730,
-    "minor": 20730,
+    "major": 20731,
+    "minor": 20731,
     "patch": 86
   }
 }
