@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe1cff66dCdDa23477f609fc0c78aee038fb3E803",
-      "symbol": "KRK",
-      "name": "KURKANU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8a62c18e84AEC8DA388757E100a81A8023Aae12B",
       "symbol": "KYC",
       "name": "KnowyourCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51a169D32DBbD917016241D007FbF0AC9ae67E92",
+      "symbol": "2023RESO",
+      "name": "2023Resolution",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20731,
-    "minor": 20731,
+    "major": 20732,
+    "minor": 20732,
     "patch": 86
   }
 }
