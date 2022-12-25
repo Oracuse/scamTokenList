@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2C4e1C5b9B7584Ba931516aa5b670348205379DC",
-      "symbol": "SHID",
-      "name": "ShiroiDejitaru",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd55231b619Ec464347d7b6eB12Cc7AE19fBbf37D",
       "symbol": "YANTRA",
       "name": "YANTRA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x502bb9d4a2Aae5c4d1898bfB204b3c3Df59D8Eea",
+      "symbol": "X",
+      "name": "X",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20744,
-    "minor": 20744,
+    "major": 20745,
+    "minor": 20745,
     "patch": 86
   }
 }
