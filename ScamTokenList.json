@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDd1E59B35599Cc34f6f31EB931477Bd06CBF2a52",
-      "symbol": "RIP",
-      "name": "DegensEnd",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x59bD7A0e227D7Bd4903300518059b4bE8a80B9DB",
       "symbol": "HAOHMARU",
       "name": "Haohmaru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFc20f5FfCc126ed9C44c43D2e4f41C7227e1461B",
+      "symbol": "TEST",
+      "name": "0xtest",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20723,
-    "minor": 20723,
+    "major": 20724,
+    "minor": 20724,
     "patch": 86
   }
 }
