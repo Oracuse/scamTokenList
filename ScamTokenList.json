@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4CFed0Fd80D2668c0c1288148F213956549A7B2F",
-      "symbol": "VINTAGE",
-      "name": "OLDSTYLE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1a3ba7b4c530D57910966E5FAF51c510B5f403C8",
       "symbol": "BLI",
       "name": "BabyLarpInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC3c1D0fe551281E9000a8d2a5CF43a39C0047E2C",
+      "symbol": "SLIMER",
+      "name": "SlimerNetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20735,
-    "minor": 20735,
+    "major": 20736,
+    "minor": 20736,
     "patch": 86
   }
 }
