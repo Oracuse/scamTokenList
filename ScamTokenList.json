@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaa89405A1329014a69C9f89989D8a586060D97A2",
-      "symbol": "HODL",
-      "name": "HoldOnForDearLife",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x277Df2da7DF23B6f5f7896e5F188615962Ad2c95",
       "symbol": "THEB",
       "name": "TheBabyProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18126Bb90fdC1841DC521b1DE5CE93a1B2487136",
+      "symbol": "2023",
+      "name": "2023",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20716,
-    "minor": 20716,
+    "major": 20717,
+    "minor": 20717,
     "patch": 86
   }
 }
