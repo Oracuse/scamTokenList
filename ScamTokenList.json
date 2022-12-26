@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9fcD71f14C52ED5d22888E5527f1a292769e6918",
-      "symbol": "NBAI",
-      "name": "NBAINU",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9E21f2706BcB3815e84A80b19d702759D457C570",
       "symbol": "BDGAF",
       "name": "BoredApesDGAF",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E499BeeF0AC044FBCefF28382677694A113ad75",
+      "symbol": "RIGGED",
+      "name": "ItsallRigged",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20811,
-    "minor": 20811,
+    "major": 20812,
+    "minor": 20812,
     "patch": 86
   }
 }
