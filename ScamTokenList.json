@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8B0E516bbE8e3A3c4Ab713480816682A6C6D9c31",
-      "symbol": "KYO",
-      "name": "Heiankyo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x98A96b50bB56AB76dfd0240d1fe3A6389CC33749",
       "symbol": "KINESWAP",
       "name": "Kineswap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x72F86919fd8209992f9369296167b93D30CF4685",
+      "symbol": "BJI",
+      "name": "BabyJesusInu",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20827,
-    "minor": 20827,
+    "major": 20828,
+    "minor": 20828,
     "patch": 86
   }
 }
