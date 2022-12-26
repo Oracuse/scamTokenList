@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67f10579C2752fAdE1b8C711605913D17c57D239",
-      "symbol": "NULL",
-      "name": "NULLHYPOTHESIS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAFc5a70D603C3356115967999e93fd07574716d5",
       "symbol": "WNI",
       "name": "WorldNewsInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC93F49072F2F2c5eBBf9902241051D3EE458db67",
+      "symbol": "BNNADRP1",
+      "name": "BananaDropsSeason1",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20781,
-    "minor": 20781,
+    "major": 20782,
+    "minor": 20782,
     "patch": 86
   }
 }
