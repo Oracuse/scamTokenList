@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbF63c1C4461f17e4CA8fa3Cb9a1881cA30AF90aB",
-      "symbol": "MWCI",
-      "name": "MiniWCI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2d6d0d4da47e7780Be94681146dE9d24D50B9f5F",
       "symbol": "WDI",
       "name": "WorldDegenInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45ddCaA09148cCdaC386E898d261C7c342a742d5",
+      "symbol": "AMBROS",
+      "name": "AmbrosNetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20784,
-    "minor": 20784,
+    "major": 20785,
+    "minor": 20785,
     "patch": 86
   }
 }
