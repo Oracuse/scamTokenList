@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbF02D8b3d5dc091353F65596b4857f94f7FF7d1A",
-      "symbol": "BINKS",
-      "name": "BinksInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE307A22e25dc4316f86BCA2BCC4DCbAfF1E0820c",
       "symbol": "RDAO",
       "name": "RecessionDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x07E5580AB895022E004B039941B9e775Ea631D95",
+      "symbol": "TELEGRAM",
+      "name": "TelegramDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20799,
-    "minor": 20799,
+    "major": 20800,
+    "minor": 20800,
     "patch": 86
   }
 }
