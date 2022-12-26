@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x91428dC56d5a66c0B5318DaeE41B491706A4bafF",
-      "symbol": "DC",
-      "name": "DogeCup",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x44cd9C514d029aBD6739B0fCd18464b445E029Ad",
       "symbol": "FWC",
       "name": "FlokiWorldCup",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa827CcD40C4D80A58f3E2343E79aFeFCb27aBe72",
+      "symbol": "WEI",
+      "name": "ThisistheWei",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20817,
-    "minor": 20817,
+    "major": 20818,
+    "minor": 20818,
     "patch": 86
   }
 }
