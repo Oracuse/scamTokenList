@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x266C58531719Dc066432EA826E8a05f34456a6C5",
-      "symbol": "MA",
-      "name": "MaYize",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x596d1e7Cb9720Cd3283D742c5eeAeC6E5F0Caf4a",
       "symbol": "TLP",
       "name": "THELaikaProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaB71eFfc4C58284d672bC5091454EF0BF07D6e55",
+      "symbol": "BAKEMO",
+      "name": "BakemonoInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20809,
-    "minor": 20809,
+    "major": 20810,
+    "minor": 20810,
     "patch": 86
   }
 }
