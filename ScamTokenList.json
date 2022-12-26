@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1dEef1928a5661bfE1EFd069580007A5976afdf5",
-      "symbol": "SS",
-      "name": "SticksAndStones",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeC3c9A48752B5cc407689C9cc405f401bE9A59b9",
       "symbol": "ORIGIN",
       "name": "TsukaGenesis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x78A72c1588e4e9efd419DF9fc33A1DacF208B5e4",
+      "symbol": "THEGUARDIAN",
+      "name": "TheGuardian",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20831,
-    "minor": 20831,
+    "major": 20832,
+    "minor": 20832,
     "patch": 86
   }
 }
