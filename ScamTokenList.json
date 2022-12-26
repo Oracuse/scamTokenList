@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeC3c9A48752B5cc407689C9cc405f401bE9A59b9",
-      "symbol": "ORIGIN",
-      "name": "TsukaGenesis",
-      "decimals": 3,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2e2f2687Bc2372896B59D413d14Cc5b60FB3F648",
       "symbol": "PUMP",
       "name": "JeetsKiller",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf04886728f407e195Ac708bda2eC3194BD5dEF16",
+      "symbol": "SIGMA",
+      "name": "Sigma",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20832,
-    "minor": 20832,
+    "major": 20833,
+    "minor": 20833,
     "patch": 86
   }
 }
