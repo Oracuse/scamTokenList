@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2dD260F5eEDAFD1D54C751E170c7FF9b86cE1692",
-      "symbol": "SUC",
-      "name": "SUC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9aF7488D13313b77EF179272D0d3CD8F370C571e",
       "symbol": "PNO1",
       "name": "ProtocolNumberOne",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDa04f8C859f31fb9966cd4182C7E0532006745B4",
+      "symbol": "UDEV",
+      "name": "UnderratedDeveloper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20793,
-    "minor": 20793,
+    "major": 20794,
+    "minor": 20794,
     "patch": 86
   }
 }
