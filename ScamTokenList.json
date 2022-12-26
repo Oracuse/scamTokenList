@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7Bd70D174ffeF6d671da0cc4104D368B2807ca8A",
-      "symbol": "ATV",
-      "name": "ATV",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbF02D8b3d5dc091353F65596b4857f94f7FF7d1A",
       "symbol": "BINKS",
       "name": "BinksInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c8aD9BfCceba0cfeEad39173EF2946098ff6277",
+      "symbol": "ETHFI",
+      "name": "Ethfinity",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20798,
-    "minor": 20798,
+    "major": 20799,
+    "minor": 20799,
     "patch": 86
   }
 }
