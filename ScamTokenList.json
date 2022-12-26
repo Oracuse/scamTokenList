@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x44cd9C514d029aBD6739B0fCd18464b445E029Ad",
-      "symbol": "FWC",
-      "name": "FlokiWorldCup",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x63CfF68fd0C8aCB85e8336AC94cA5D44b8dF8CEc",
       "symbol": "WIC",
       "name": "WorldInuCup",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x48A859ba6Db14fce995307b75B59E04cD8D60F62",
+      "symbol": "DOJO",
+      "name": "DOJO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20818,
-    "minor": 20818,
+    "major": 20819,
+    "minor": 20819,
     "patch": 86
   }
 }
