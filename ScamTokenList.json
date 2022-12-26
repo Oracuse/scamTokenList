@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDb656EAD32481aEBafB13355F5056Efa64b43cc0",
-      "symbol": "OSRS",
-      "name": "ObeliskofFire",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA376eA54e362c0e406245b6Bd804c60d65C50bc0",
       "symbol": "WACMI",
       "name": "WorldAllCupMakeInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6f0c9425d3880732De13aCa49cBf7261207DEe9",
+      "symbol": "UEC",
+      "name": "UnstableEuroCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20803,
-    "minor": 20803,
+    "major": 20804,
+    "minor": 20804,
     "patch": 86
   }
 }
