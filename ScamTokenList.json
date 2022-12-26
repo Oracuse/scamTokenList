@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbeA1FF1eF63090D0711A6efBF3BC039a50912ab0",
-      "symbol": "Y",
-      "name": "Y",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB2701354F258BE04A8380752690c74E2F66D3d83",
       "symbol": "BB",
       "name": "BetBoom",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4D3126BAe99C6FAe1da5e4d4fBF56d8A9318c502",
+      "symbol": "AROR",
+      "name": "AroraTokens",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20791,
-    "minor": 20791,
+    "major": 20792,
+    "minor": 20792,
     "patch": 86
   }
 }
