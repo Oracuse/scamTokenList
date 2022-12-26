@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9aF7488D13313b77EF179272D0d3CD8F370C571e",
-      "symbol": "PNO1",
-      "name": "ProtocolNumberOne",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7A1C55443203a4c9BD277cA546c796B7Ab706B9E",
       "symbol": "NEMO",
       "name": "NEMO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7ceD9336cB32A11983590F3FA8B79196fE10bdB7",
+      "symbol": "KIRAWARETA",
+      "name": "TehHatedOne",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20794,
-    "minor": 20794,
+    "major": 20795,
+    "minor": 20795,
     "patch": 86
   }
 }
