@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3aFeDB22892fe654ECe7501E187aE9Ebd6B9D352",
-      "symbol": "FISTDAO",
-      "name": "FISTCoinDAO",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x210DFC498BEAe0ae889744dA0ED66Adb9D541f61",
       "symbol": "SCI",
       "name": "STANLEYCUPINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8391547D12589b5BBa5096b89Ef9759dE962A9DE",
+      "symbol": "ASTRO",
+      "name": "Nostradamus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20822,
-    "minor": 20822,
+    "major": 20823,
+    "minor": 20823,
     "patch": 86
   }
 }
