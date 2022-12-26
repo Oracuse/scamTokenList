@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcaaf8aE14303F1a995472F9657291dBc6F15eA26",
-      "symbol": "SUS",
-      "name": "Supersus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1dEef1928a5661bfE1EFd069580007A5976afdf5",
       "symbol": "SS",
       "name": "SticksAndStones",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA04211a4D98E3B1c59f555d9936387f8731B4166",
+      "symbol": "INFL",
+      "name": "InsiderFloki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20830,
-    "minor": 20830,
+    "major": 20831,
+    "minor": 20831,
     "patch": 86
   }
 }
