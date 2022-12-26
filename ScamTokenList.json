@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb5A12c4C2DC4b7a24cFC20F39A28797A491cF38c",
-      "symbol": "BLI",
-      "name": "BundesligaLeagueInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcaaf8aE14303F1a995472F9657291dBc6F15eA26",
       "symbol": "SUS",
       "name": "Supersus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEe7d00A1227A4694622d5078f5684Af7Bad91311",
+      "symbol": "TSAMI",
+      "name": "TSUNAMI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20829,
-    "minor": 20829,
+    "major": 20830,
+    "minor": 20830,
     "patch": 86
   }
 }
