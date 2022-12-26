@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd9675b8D67d07B67337481b9903cF76698B830A9",
-      "symbol": "BANGTAN",
-      "name": "Bangtan",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00D88c7Fa736c851943EFE15ED2da47fe7030aEe",
       "symbol": "BL",
       "name": "BlackLotus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf65049265a7bffc742A0494712c3F040c545EA19",
+      "symbol": "RINU",
+      "name": "RufusInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20836,
-    "minor": 20836,
+    "major": 20837,
+    "minor": 20837,
     "patch": 86
   }
 }
