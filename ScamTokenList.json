@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x73d1588Cc9165d7A4dD2C256e1E1Bcd9379c3Af7",
-      "symbol": "ETI",
-      "name": "EtherINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEfc3255A890aea8E020b2319C0C40c66366DE538",
       "symbol": "NBA",
       "name": "NBAINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1c0554E021d27140E37daE0530E723fcB7210c6",
+      "symbol": "BEAN",
+      "name": "BustedBean",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20789,
-    "minor": 20789,
+    "major": 20790,
+    "minor": 20790,
     "patch": 86
   }
 }
