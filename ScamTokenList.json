@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xECC456B74B61938F08f9118fd38a3CC5054104b0",
-      "symbol": "HYPER",
-      "name": "HyperChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3aFeDB22892fe654ECe7501E187aE9Ebd6B9D352",
       "symbol": "FISTDAO",
       "name": "FISTCoinDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4eb0eAdB533332D3a281cC611964fdDf4E088F2a",
+      "symbol": "KITA",
+      "name": "Shikita",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20821,
-    "minor": 20821,
+    "major": 20822,
+    "minor": 20822,
     "patch": 86
   }
 }
