@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe129995FF17c8816B7565dAd7dB2eB0c6bD171dc",
-      "symbol": "YIM",
-      "name": "YIELDMACHINEYIM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x73d1588Cc9165d7A4dD2C256e1E1Bcd9379c3Af7",
       "symbol": "ETI",
       "name": "EtherINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x42532Eb49d66d1A48e82115b6E44Ed4FF451C6da",
+      "symbol": "SHIBARMY",
+      "name": "ShibArmy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20788,
-    "minor": 20788,
+    "major": 20789,
+    "minor": 20789,
     "patch": 86
   }
 }
