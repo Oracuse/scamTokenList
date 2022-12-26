@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF71FC797c64F56b8FD8e0b54518115a06a910fC0",
-      "symbol": "LUNCP",
-      "name": "LUNCPenguins",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe129995FF17c8816B7565dAd7dB2eB0c6bD171dc",
       "symbol": "YIM",
       "name": "YIELDMACHINEYIM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x30Ca480afd4B53EBB86Aa07359444Dd8523e53Fc",
+      "symbol": "GENZ",
+      "name": "Genesiz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20787,
-    "minor": 20787,
+    "major": 20788,
+    "minor": 20788,
     "patch": 86
   }
 }
