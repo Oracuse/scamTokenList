@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x63CfF68fd0C8aCB85e8336AC94cA5D44b8dF8CEc",
-      "symbol": "WIC",
-      "name": "WorldInuCup",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9984eD61a56944fF7E022dfbdB87F27F2BA97afD",
       "symbol": "REDPILL",
       "name": "RedPillToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb0418A6517b2f3f09955FE7e822DDc24FCE51c5f",
+      "symbol": "TIT",
+      "name": "TosaInuToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20819,
-    "minor": 20819,
+    "major": 20820,
+    "minor": 20820,
     "patch": 86
   }
 }
