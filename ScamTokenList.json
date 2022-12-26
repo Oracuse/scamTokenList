@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2816e5091c52aB42Fd38fec9008CaEF7fB984722",
-      "symbol": "PAIX",
-      "name": "PAIX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x935bE7C3bB984Fe7FcAD6f972B46c3a0E61A78F4",
       "symbol": "RECOIL",
       "name": "RECOIL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfdE3B255e51aF909de62a9E49afb5743a9510A9D",
+      "symbol": "TYRANTB",
+      "name": "TheDragonBreath",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20778,
-    "minor": 20778,
+    "major": 20779,
+    "minor": 20779,
     "patch": 86
   }
 }
