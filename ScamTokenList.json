@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98A96b50bB56AB76dfd0240d1fe3A6389CC33749",
-      "symbol": "KINESWAP",
-      "name": "Kineswap",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb5A12c4C2DC4b7a24cFC20F39A28797A491cF38c",
       "symbol": "BLI",
       "name": "BundesligaLeagueInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd65e5e17674D4aE45caaEB35C937e40A8C7818c6",
+      "symbol": "WEYD",
+      "name": "WhiteEyedDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20828,
-    "minor": 20828,
+    "major": 20829,
+    "minor": 20829,
     "patch": 86
   }
 }
