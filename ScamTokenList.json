@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x12624D83B3B2578016B156c65AF9D513E59A9370",
-      "symbol": "LELAM",
-      "name": "Lelam",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x720374EE0Fea32ed4Eb4938c6a4E60576d980657",
       "symbol": "PANDINUS",
       "name": "PANDINUS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd45BEbd0F471d22E634c71E3FE64e29D1aF81AA6",
+      "symbol": "CONTROL",
+      "name": "CONTROL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20776,
-    "minor": 20776,
+    "major": 20777,
+    "minor": 20777,
     "patch": 86
   }
 }
