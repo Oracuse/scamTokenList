@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEfc3255A890aea8E020b2319C0C40c66366DE538",
-      "symbol": "NBA",
-      "name": "NBAINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbeA1FF1eF63090D0711A6efBF3BC039a50912ab0",
       "symbol": "Y",
       "name": "Y",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88c2887b66384c7764E0FB2081F32F867e047182",
+      "symbol": "BEAR",
+      "name": "BearMarket",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20790,
-    "minor": 20790,
+    "major": 20791,
+    "minor": 20791,
     "patch": 86
   }
 }
