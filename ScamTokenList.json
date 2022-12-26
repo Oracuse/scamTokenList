@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x00D88c7Fa736c851943EFE15ED2da47fe7030aEe",
-      "symbol": "BL",
-      "name": "BlackLotus",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9971cFC0b289e5c0fD23078f45A3636eC0b5EA47",
       "symbol": "META",
       "name": "Meta",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCdAe68a561f37857B183f18C71Cb7a62Cf892Ef4",
+      "symbol": "CARAXES",
+      "name": "Caraxes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20837,
-    "minor": 20837,
+    "major": 20838,
+    "minor": 20838,
     "patch": 86
   }
 }
