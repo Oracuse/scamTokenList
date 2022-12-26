@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x596d1e7Cb9720Cd3283D742c5eeAeC6E5F0Caf4a",
-      "symbol": "TLP",
-      "name": "THELaikaProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9fcD71f14C52ED5d22888E5527f1a292769e6918",
       "symbol": "NBAI",
       "name": "NBAINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1cD5BDE139822a9329C33756f983C2Cd14de260F",
+      "symbol": "TSHM",
+      "name": "TsukaNoHime",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20810,
-    "minor": 20810,
+    "major": 20811,
+    "minor": 20811,
     "patch": 86
   }
 }
