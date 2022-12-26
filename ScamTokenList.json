@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa8A60BC6b45CB889bfF552a43ae96A5d8621f1C3",
-      "symbol": "SOULS",
-      "name": "CLIODHNA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3c11B3186246291a1AA8dE25b07fa6843184506f",
       "symbol": "WCIC",
       "name": "WCIC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2085e24C9DF24367b493f1f7AC07786b41e31FD3",
+      "symbol": "CURRY",
+      "name": "CurryNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20824,
-    "minor": 20824,
+    "major": 20825,
+    "minor": 20825,
     "patch": 86
   }
 }
