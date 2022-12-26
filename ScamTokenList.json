@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3384654eFb4D3a7304629aeC32Fe4e5efab15093",
-      "symbol": "BACK",
-      "name": "BackToWork",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE18B46fc3a2857a770c20dab19F056d2C73b2764",
       "symbol": "DOGEZILLA2O",
       "name": "ProofOfZilla",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37808031a5643F96a2df8c434066260E6a46c8B9",
+      "symbol": "TRUMPNFT",
+      "name": "TrumpNFT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20815,
-    "minor": 20815,
+    "major": 20816,
+    "minor": 20816,
     "patch": 86
   }
 }
