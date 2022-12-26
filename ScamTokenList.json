@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfe6e63A1797ffeEAC276fe42C3BC5b7a7ADB07cd",
-      "symbol": "QATAR2022",
-      "name": "LaeebInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbF63c1C4461f17e4CA8fa3Cb9a1881cA30AF90aB",
       "symbol": "MWCI",
       "name": "MiniWCI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9535411CE555D6545685ad72f06F9b3adB162b5c",
+      "symbol": "MCS",
+      "name": "MCSync",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20783,
-    "minor": 20783,
+    "major": 20784,
+    "minor": 20784,
     "patch": 86
   }
 }
