@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9984eD61a56944fF7E022dfbdB87F27F2BA97afD",
-      "symbol": "REDPILL",
-      "name": "RedPillToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xECC456B74B61938F08f9118fd38a3CC5054104b0",
       "symbol": "HYPER",
       "name": "HyperChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2103646E73cc4372368Ade902F47F1cf3A22b658",
+      "symbol": "FREETH",
+      "name": "Freezereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20820,
-    "minor": 20820,
+    "major": 20821,
+    "minor": 20821,
     "patch": 86
   }
 }
