@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3E7ae21105BA0cD6056109D6C7B80628E6653666",
-      "symbol": "SC",
-      "name": "ShibaCup",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3384654eFb4D3a7304629aeC32Fe4e5efab15093",
       "symbol": "BACK",
       "name": "BackToWork",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x582004331C9959dCbF92491210FAafb871381293",
+      "symbol": "POC",
+      "name": "ProofOfChristmas",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20814,
-    "minor": 20814,
+    "major": 20815,
+    "minor": 20815,
     "patch": 86
   }
 }
