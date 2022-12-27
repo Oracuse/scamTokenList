@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x729613690E7aA1EE343766641BB5Ec1603Ac5d07",
-      "symbol": "SHENNONG",
-      "name": "SlashandBurn",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe8D19C8a78e0481B5bB3f850Af2F0C76D6d3418D",
       "symbol": "WMI",
       "name": "WorldMemeInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0AB08bCfE412A609CD350C7436868566F38Da35d",
+      "symbol": "KEK",
+      "name": "kek",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20884,
-    "minor": 20884,
+    "major": 20885,
+    "minor": 20885,
     "patch": 86
   }
 }
