@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb2a20Dd86A8DdF8a92a426067f4B24BF1A6C7435",
-      "symbol": "WWW",
-      "name": "WorldWideWeb",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50A818aE32311b62751364e29107faAe718fDF87",
       "symbol": "MAHAYANA",
       "name": "Bodhisattva",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd47f204849c291C7E3d0E3c29EcA31Efd51ED441",
+      "symbol": "GA",
+      "name": "ga",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20924,
-    "minor": 20924,
+    "major": 20925,
+    "minor": 20925,
     "patch": 86
   }
 }
