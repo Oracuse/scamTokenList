@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf82fE0F452a6CBE33EB7aD683dB0C9373e205ddC",
-      "symbol": "RPILL",
-      "name": "RedPill",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9d164a607eec3659B3dCAe938e92B3C2Eb974D9f",
       "symbol": "SKULL",
       "name": "SKULLCOIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF6b9868E1fa7261B05054D16DfD1004D086444E9",
+      "symbol": "METAMASK",
+      "name": "Metamask",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20926,
-    "minor": 20926,
+    "major": 20927,
+    "minor": 20927,
     "patch": 86
   }
 }
