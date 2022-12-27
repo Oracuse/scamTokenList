@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcB1a33539a3e3D29a2f4290900859AEC0cc70Db5",
-      "symbol": "QUANTCUPINU",
-      "name": "QNTCINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8Df337F1396b2bBFD55693db4E5AF6837c1Eeb3b",
       "symbol": "TEH",
       "name": "TehProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA5B81B28ed740F7Ef3B7F9547E5aAB419692944d",
+      "symbol": "SAFX",
+      "name": "SAFXFINANCE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20859,
-    "minor": 20859,
+    "major": 20860,
+    "minor": 20860,
     "patch": 86
   }
 }
