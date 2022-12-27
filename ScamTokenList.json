@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x40F98748d8C72F6B910879fD7d8282B004D7AD48",
-      "symbol": "MNVE",
-      "name": "MoonVerse",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF0F5254097964257703626202a93F31893eDeBaf",
       "symbol": "TESTD",
       "name": "TESTDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e3A83E15731213c81d167F8cbfEC38b91d30df6",
+      "symbol": "XMAS",
+      "name": "ChristmasCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20850,
-    "minor": 20850,
+    "major": 20851,
+    "minor": 20851,
     "patch": 86
   }
 }
