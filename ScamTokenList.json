@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3d69548f746a800D21D8b75445af6011F0eC52B9",
-      "symbol": "BABYWCI",
-      "name": "BabyWorldCupInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x220031946ba3b98A3f29D5C116a2F705bd0f4ba0",
       "symbol": "MONONOKE",
       "name": "Mononoke",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD89634739B27DBd12F982ba21586BCe04BfCc24a",
+      "symbol": "HACHIMAN",
+      "name": "HACHIMAN",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20901,
-    "minor": 20901,
+    "major": 20902,
+    "minor": 20902,
     "patch": 86
   }
 }
