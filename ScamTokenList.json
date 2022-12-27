@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8e1e7b463862bf0E6BF1c503685b8290Ebe76106",
-      "symbol": "G",
-      "name": "GInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71cFbEF3beA4Bc36B012eD7eCc7ff61CF3FE0198",
       "symbol": "NTH",
       "name": "Nothing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xedaCbFeEbDce93ABe9Dd07681cD7709C1693bD3f",
+      "symbol": "CHEGG",
+      "name": "CHEGG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20909,
-    "minor": 20909,
+    "major": 20910,
+    "minor": 20910,
     "patch": 86
   }
 }
