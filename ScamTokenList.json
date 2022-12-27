@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBdF75C56c183F99bb4858D8d3C5032F717Cb2396",
-      "symbol": "CODE",
-      "name": "TheCode",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1A5c308dcB19759baDc66D7AF11446fa2Dd3dC8",
       "symbol": "PFX",
       "name": "PuffX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD2a270A628786CC67cc705bB32a0f951a36CCA9E",
+      "symbol": "LIBRA",
+      "name": "LibraDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20893,
-    "minor": 20893,
+    "major": 20894,
+    "minor": 20894,
     "patch": 86
   }
 }
