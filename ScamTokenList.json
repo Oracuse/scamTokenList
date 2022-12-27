@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6819d60b89c175F991bd6D89E4fC91550A14F9b2",
-      "symbol": "WARPCOIN",
-      "name": "WarpCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x57640D5C5C5b24035c5D8D95D6631f4ec50AfeA6",
       "symbol": "MIKASA",
       "name": "MikasaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x210AA9Cd85316aeb97B48F090f1A6cafBB226Db7",
+      "symbol": "NABEZO",
+      "name": "NABEZO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20907,
-    "minor": 20907,
+    "major": 20908,
+    "minor": 20908,
     "patch": 86
   }
 }
