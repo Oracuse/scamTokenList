@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2d046C47BeB908092D2A6F90Bfe14bC7E63DfdcC",
-      "symbol": "WBI",
-      "name": "WorldBankInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa4D54b08e677F86B7e29E3Ecc4815b27BfC191e7",
       "symbol": "HDGNS",
       "name": "Hadogenes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A01F6b53aa45B3653f90C134716B250261cEc5C",
+      "symbol": "GMAIL",
+      "name": "GmailDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20876,
-    "minor": 20876,
+    "major": 20877,
+    "minor": 20877,
     "patch": 86
   }
 }
