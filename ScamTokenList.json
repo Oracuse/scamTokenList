@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2397a772D8b6c1951d7f30470C83a89A5807F10C",
-      "symbol": "ART",
-      "name": "MoonMaidenNFT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x40F98748d8C72F6B910879fD7d8282B004D7AD48",
       "symbol": "MNVE",
       "name": "MoonVerse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE22ed1Bc24a35A72f635af25430Ea8C0d858384c",
+      "symbol": "ATARASHI",
+      "name": "AtarashiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20849,
-    "minor": 20849,
+    "major": 20850,
+    "minor": 20850,
     "patch": 86
   }
 }
