@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBf91A4e46E806bB42ebFd8A313439Cb6B2b3EaB3",
-      "symbol": "UCI",
-      "name": "UEFACupInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2a7b77ef43f48B1c033AF353FCfe7bCBc7D294A6",
       "symbol": "NYI",
       "name": "NewYearInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x55B9809122528DDd19D6005D47EE08eAB6173745",
+      "symbol": "ASSASSIN",
+      "name": "Assassin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20896,
-    "minor": 20896,
+    "major": 20897,
+    "minor": 20897,
     "patch": 86
   }
 }
