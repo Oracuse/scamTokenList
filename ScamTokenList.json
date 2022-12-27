@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2f7377e4C543B297b4a250E2CEF640f349920eb9",
-      "symbol": "META",
-      "name": "Meta",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa961b042C3f8352FB9BA852E81C5FF4F65B9DF5B",
       "symbol": "FUD",
       "name": "FUD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6eFf863c742C59130e21C46cC203354eA40314Af",
+      "symbol": "DECEIVER",
+      "name": "Arnaqueur",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20841,
-    "minor": 20841,
+    "major": 20842,
+    "minor": 20842,
     "patch": 86
   }
 }
