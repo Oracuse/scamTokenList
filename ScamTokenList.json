@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x220031946ba3b98A3f29D5C116a2F705bd0f4ba0",
-      "symbol": "MONONOKE",
-      "name": "Mononoke",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9006638a162F71E3ea88253BAF1A0fa63A2EcFcf",
       "symbol": "CAI",
       "name": "CopaAmericaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x28473669146376FE25c08136756a86902458b557",
+      "symbol": "BIXI",
+      "name": "Bixi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20902,
-    "minor": 20902,
+    "major": 20903,
+    "minor": 20903,
     "patch": 86
   }
 }
