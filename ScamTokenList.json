@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0ccA4751E189f9529606b1Bcd12608a2Cd7509E0",
-      "symbol": "MAM",
-      "name": "SergarMomma",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xacAb90D6F2E176E3B7A1FCa1f34BE3dfA7E444DC",
       "symbol": "BUSA",
       "name": "HAYABUSA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44Dc810a59ae257DEF00f047D1CFF343f95fAABc",
+      "symbol": "ORACLE",
+      "name": "OracleDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20921,
-    "minor": 20921,
+    "major": 20922,
+    "minor": 20922,
     "patch": 86
   }
 }
