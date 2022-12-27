@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE4dA3489E63070251C4244BE168C7954FE8fa779",
-      "symbol": "DEJITARURUIJIN",
-      "name": "DigitalApe",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71da58C8212F2986521744Df3299f8fB738F983e",
       "symbol": "BINU",
       "name": "BrazilInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2436037a7F6B4a9Ba946fc41FFD4fc2856583Cc3",
+      "symbol": "MATAC",
+      "name": "MetaCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20856,
-    "minor": 20856,
+    "major": 20857,
+    "minor": 20857,
     "patch": 86
   }
 }
