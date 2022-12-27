@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8Df337F1396b2bBFD55693db4E5AF6837c1Eeb3b",
-      "symbol": "TEH",
-      "name": "TehProtocol",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBd9b21E30BB7D3A3b2352ab78C4c838E7234044c",
       "symbol": "UKIYOE",
       "name": "Ukiyoe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74d487A15Fe763FE50B2792817314f38Bdae229d",
+      "symbol": "KRAKEN",
+      "name": "Kraken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20860,
-    "minor": 20860,
+    "major": 20861,
+    "minor": 20861,
     "patch": 86
   }
 }
