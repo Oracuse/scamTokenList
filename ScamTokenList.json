@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4F38F55F75E07b45c100e6E67d255298Bb2A0E0e",
-      "symbol": "SAURON",
-      "name": "SauronScan",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x07Ada6C8AC12B372ac61Fa4640A82D625C3e8aC0",
       "symbol": "WCRI",
       "name": "WorldCupRugbyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x527ec668c588edC8FDa30C84Cf55BA5064Ab801B",
+      "symbol": "TSUS",
+      "name": "Tsushima",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20886,
-    "minor": 20886,
+    "major": 20887,
+    "minor": 20887,
     "patch": 86
   }
 }
