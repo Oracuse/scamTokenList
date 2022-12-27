@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x71cFbEF3beA4Bc36B012eD7eCc7ff61CF3FE0198",
-      "symbol": "NTH",
-      "name": "Nothing",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0E3CD3d973Be7A5Fe2425ad391d9E9d5E2ab9eC9",
       "symbol": "SCSER",
       "name": "SoccerSerum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5fF1977734a1D94f3550f9e58Dc74f957cf5a45",
+      "symbol": "STEAK",
+      "name": "steak",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20910,
-    "minor": 20910,
+    "major": 20911,
+    "minor": 20911,
     "patch": 86
   }
 }
