@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xACce5CACd3aB47451f66E1DA565c1896E90005b7",
-      "symbol": "LIANGXI",
-      "name": "LiangXi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5d0dc69Ac41dB8425c61F6f1C3D52B6fb09A4Ed7",
       "symbol": "WIN",
       "name": "WorldOfINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2715ae13302b720F0c321363c0158e3068937e90",
+      "symbol": "GARLICC",
+      "name": "garlicc",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20915,
-    "minor": 20915,
+    "major": 20916,
+    "minor": 20916,
     "patch": 86
   }
 }
