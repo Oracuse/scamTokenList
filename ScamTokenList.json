@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x96939020e626B31d9888D7f9c26A767802E6047A",
-      "symbol": "PEPITA",
-      "name": "PEPITA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeD7BC0D182Ecf72E19Fd87dA68A0bbc31edb1a8C",
       "symbol": "SPKC",
       "name": "SpookyCat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F63617c40662ed396dDec846106c713a38C00AD",
+      "symbol": "SEC",
+      "name": "SaturnEcosystem",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20953,
-    "minor": 20953,
+    "major": 20954,
+    "minor": 20954,
     "patch": 86
   }
 }
