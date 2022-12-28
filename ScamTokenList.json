@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAF73924ed1aac20549dd84650572ceF4562EB0b2",
-      "symbol": "THES",
-      "name": "TheProtocols",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB9622668c04A1BC61FD66D62c8f53dec8E4D7c78",
       "symbol": "RPILL",
       "name": "RedPillToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2d5c8Bd4D0e2eF52B93CAD7D5bF5a6CcD433D4f9",
+      "symbol": "TARO",
+      "name": "RoboteraGovernance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 20956,
-    "minor": 20956,
+    "major": 20957,
+    "minor": 20957,
     "patch": 86
   }
 }
