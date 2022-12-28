@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x116C2Cb0C24dd0CFAaE545d5Ab2820c35ebdfB52",
-      "symbol": "SHIP",
-      "name": "ShibaProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x15DF21D759C163247Af608bC775D67Ba423BC46A",
       "symbol": "WTI",
       "name": "WorldTsukaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0FEC50166039d7f22034c9C6326f1e5E1dc002A6",
+      "symbol": "HOO",
+      "name": "TheHoo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20980,
-    "minor": 20980,
+    "major": 20981,
+    "minor": 20981,
     "patch": 86
   }
 }
