@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x57372F22423CcfEc4C89EAF08596391f67f9Fd8A",
-      "symbol": "WTP",
-      "name": "WhatTheProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x116C2Cb0C24dd0CFAaE545d5Ab2820c35ebdfB52",
       "symbol": "SHIP",
       "name": "ShibaProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B23FcA36F8b0B623320F71513f772E9E7e2676E",
+      "symbol": "OWNER",
+      "name": "ShibaGuardian",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20979,
-    "minor": 20979,
+    "major": 20980,
+    "minor": 20980,
     "patch": 86
   }
 }
