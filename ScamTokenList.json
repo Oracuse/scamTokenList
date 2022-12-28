@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x21A1082881950958e655f8F2f4aa779b42e3ac09",
-      "symbol": "WSI",
-      "name": "WorldSoldierInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd6FB5149b2a0196E04CA04cB4093ECD298a90090",
       "symbol": "WDI",
       "name": "WhalesDogeInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8DC39F98A26329e0C53768AF3b7734CD7D53b51f",
+      "symbol": "H",
+      "name": "H",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20946,
-    "minor": 20946,
+    "major": 20947,
+    "minor": 20947,
     "patch": 86
   }
 }
