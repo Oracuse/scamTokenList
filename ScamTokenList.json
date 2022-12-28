@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbD687743c1285Fd2baFEe297d1867E62eBa8b5a9",
-      "symbol": "HUOBI",
-      "name": "HUOBI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2BFc5F8ecFCeB111a6987D5aAed5Fe6567c5232d",
       "symbol": "WBANK",
       "name": "WORLDBANKPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB2fE7Fd12cEB95C5994A3Cd9f06a652aEb2051C2",
+      "symbol": "TSUKI",
+      "name": "USAGITSUKI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20989,
-    "minor": 20989,
+    "major": 20990,
+    "minor": 20990,
     "patch": 86
   }
 }
