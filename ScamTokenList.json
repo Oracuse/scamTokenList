@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x277D2d954297A16eE9A1479a76dd154F39b594E6",
-      "symbol": "FACELESS",
-      "name": "WeThePeople",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x95ec358eAfe2C6d0409a0DD9aB39a967Ba4875Ac",
       "symbol": "THE20",
       "name": "ProofOfProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92a6819F24dD07ccE0c0850f098403Fec8C0cD12",
+      "symbol": "OIC",
+      "name": "OurIsland",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20982,
-    "minor": 20982,
+    "major": 20983,
+    "minor": 20983,
     "patch": 86
   }
 }
