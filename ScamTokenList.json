@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x457A0677d206970A20212f95f35378Cfc68eaA0C",
-      "symbol": "KYUDO",
-      "name": "TheArt",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb8d313068891137952E7dfF19d8AFaa64DBc6FcB",
       "symbol": "RPILL",
       "name": "REDPILL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c392F35bD3C728970E9A73c2515F44883Daee76",
+      "symbol": "SHUFFLER",
+      "name": "ShuffleRelief",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20992,
-    "minor": 20992,
+    "major": 20993,
+    "minor": 20993,
     "patch": 86
   }
 }
