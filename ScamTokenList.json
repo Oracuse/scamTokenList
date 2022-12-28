@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc768142e3BF132fdff1968C87d79AE7E989435e1",
-      "symbol": "THROAT",
-      "name": "Throat",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb7f64F27437C568a5a942d634A497717929eC889",
       "symbol": "WOC",
       "name": "WorldOceanCleanupIn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD67EF2b92aA8eE47EdF86Ac1962CaeE2Ca7F70ef",
+      "symbol": "PP",
+      "name": "PocketPets",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20936,
-    "minor": 20936,
+    "major": 20937,
+    "minor": 20937,
     "patch": 86
   }
 }
