@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x980411E34EC3d5cf6157A6A1fb8C6e8f56f61368",
-      "symbol": "A",
-      "name": "AProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x86Eda6FD1682681f7C3cEDC33b920EDBDe7F05a9",
       "symbol": "THEM",
       "name": "ThemProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x118Def8FCCfb55719865dCcb266E0822cc76182A",
+      "symbol": "KISARAGI",
+      "name": "KisaragiStation",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20965,
-    "minor": 20965,
+    "major": 20966,
+    "minor": 20966,
     "patch": 86
   }
 }
