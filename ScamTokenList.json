@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd87932Fb84A5d6E58797417c2bed1F4d4A6B2b7f",
-      "symbol": "VP",
-      "name": "ETHProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6C0e4dE293878279564234d2a97322B978626084",
       "symbol": "NAME",
       "name": "NAME",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8039E19c899dea4e4D56897e083ec554D772Ae85",
+      "symbol": "TWITTER20DAO",
+      "name": "Twitter20Dao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20963,
-    "minor": 20963,
+    "major": 20964,
+    "minor": 20964,
     "patch": 86
   }
 }
