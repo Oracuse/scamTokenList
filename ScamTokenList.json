@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x45eEcf4BBf141950Fb3E03590cB94F1D57c7d758",
-      "symbol": "BWI",
-      "name": "BabyWorldInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49cDef539aA81E9B6501268ec4F6509E69574444",
       "symbol": "AINU",
       "name": "ArgentinaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0633418369C5E51F81422C64f83Dd10Fe3f043dc",
+      "symbol": "DAIKO",
+      "name": "Daikokuten",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20943,
-    "minor": 20943,
+    "major": 20944,
+    "minor": 20944,
     "patch": 86
   }
 }
