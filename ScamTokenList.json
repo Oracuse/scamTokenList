@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15DF21D759C163247Af608bC775D67Ba423BC46A",
-      "symbol": "WTI",
-      "name": "WorldTsukaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x277D2d954297A16eE9A1479a76dd154F39b594E6",
       "symbol": "FACELESS",
       "name": "WeThePeople",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x982Fc20F11172Be80e0B7f28924100bBE903d5a3",
+      "symbol": "TOOKA",
+      "name": "TookaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20981,
-    "minor": 20981,
+    "major": 20982,
+    "minor": 20982,
     "patch": 86
   }
 }
