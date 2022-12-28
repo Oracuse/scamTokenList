@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeD7BC0D182Ecf72E19Fd87dA68A0bbc31edb1a8C",
-      "symbol": "SPKC",
-      "name": "SpookyCat",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9d6D1011d371fd4b4CE48f418668EAD416362E5d",
       "symbol": "TIP",
       "name": "TheINUProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x526075531b571f3Cc44673Be3AC8C5F7d572d681",
+      "symbol": "KICHI",
+      "name": "Kichijoten",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20954,
-    "minor": 20954,
+    "major": 20955,
+    "minor": 20955,
     "patch": 86
   }
 }
