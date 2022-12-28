@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x16CD0CA2F06BeB44C0F3cbaB4B33c70d79501F44",
-      "symbol": "FLINU",
-      "name": "FlappyInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x399574B658ABE4BF06ADC81bAFCe12E80315d5Fe",
       "symbol": "YELON",
       "name": "YelonInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09260579B24528B0a5FD19888232548651421AD1",
+      "symbol": "GEM",
+      "name": "BuyThisGem",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20976,
-    "minor": 20976,
+    "major": 20977,
+    "minor": 20977,
     "patch": 86
   }
 }
