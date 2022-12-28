@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9d6D1011d371fd4b4CE48f418668EAD416362E5d",
-      "symbol": "TIP",
-      "name": "TheINUProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAF73924ed1aac20549dd84650572ceF4562EB0b2",
       "symbol": "THES",
       "name": "TheProtocols",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc75EdC5a488899a846Df804d0b9aD55fCee52249",
+      "symbol": "WEYD",
+      "name": "WhiteEyedDragon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20955,
-    "minor": 20955,
+    "major": 20956,
+    "minor": 20956,
     "patch": 86
   }
 }
