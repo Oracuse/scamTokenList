@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9941aeb7D8aeFb486Bf0a48F24A3B29fB5Cd1cF9",
-      "symbol": "KB9",
-      "name": "BenzemaInu",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19f39467b6A68Cdc554623fb59be7bbc5d8Dbbe6",
       "symbol": "BANE",
       "name": "BanelingInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x163496AE425C09fbba24fE1B482Ad8357C9C061a",
+      "symbol": "ATM",
+      "name": "Artemide",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20958,
-    "minor": 20958,
+    "major": 20959,
+    "minor": 20959,
     "patch": 86
   }
 }
