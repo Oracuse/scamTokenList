@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2631F7B702f0FEA94C2B89ccd319985117aaA7D1",
-      "symbol": "OW",
-      "name": "OnlyWhales",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA696f9B707A2F4B4052B668879F518455AC58D26",
       "symbol": "OK",
       "name": "OK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46F583fcEc7c2D186dC53c106b051b7DcCEAc3d0",
+      "symbol": "KOCHI",
+      "name": "KosukeKindaichi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20960,
-    "minor": 20960,
+    "major": 20961,
+    "minor": 20961,
     "patch": 86
   }
 }
