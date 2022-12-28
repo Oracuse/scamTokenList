@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf6d6f4723F1b6510dC16cB128023169eDFAD7a17",
-      "symbol": "BTHE",
-      "name": "TheBabyProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd87932Fb84A5d6E58797417c2bed1F4d4A6B2b7f",
       "symbol": "VP",
       "name": "ETHProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD701C6d6702412C9254B6EF0236810aD1893CbB1",
+      "symbol": "SINGULARITY",
+      "name": "TheCryptoSingularit",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20962,
-    "minor": 20962,
+    "major": 20963,
+    "minor": 20963,
     "patch": 86
   }
 }
