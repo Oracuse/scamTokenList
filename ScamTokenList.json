@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB9622668c04A1BC61FD66D62c8f53dec8E4D7c78",
-      "symbol": "RPILL",
-      "name": "RedPillToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9941aeb7D8aeFb486Bf0a48F24A3B29fB5Cd1cF9",
       "symbol": "KB9",
       "name": "BenzemaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E57e01a3039db2F48F42F9B95e9c6BB677AF3A0",
+      "symbol": "TRADEGOG",
+      "name": "TradeGog",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20957,
-    "minor": 20957,
+    "major": 20958,
+    "minor": 20958,
     "patch": 86
   }
 }
