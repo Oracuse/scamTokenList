@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0dedA9055B3E286399b778f4904Ab21994834e14",
-      "symbol": "DOGGO",
-      "name": "Doggo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc768142e3BF132fdff1968C87d79AE7E989435e1",
       "symbol": "THROAT",
       "name": "Throat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81546c754b6Ff399fEe6CE31bBA4318466B05bcB",
+      "symbol": "TSLAI",
+      "name": "TeslaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20935,
-    "minor": 20935,
+    "major": 20936,
+    "minor": 20936,
     "patch": 86
   }
 }
