@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeb8472B5E875dBBcf3bf88E2b134246B1DF5B48b",
-      "symbol": "OGI",
-      "name": "OlympicGamesInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa463a1eF5Ba7944186cE1FDf795707E21D5D44eE",
       "symbol": "WEI",
       "name": "WorldEndingInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x020D12E8b2d0866db59f6e5b2B12837453f376B7",
+      "symbol": "EXGO",
+      "name": "ExgoNetwork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20998,
-    "minor": 20998,
+    "major": 20999,
+    "minor": 20999,
     "patch": 86
   }
 }
