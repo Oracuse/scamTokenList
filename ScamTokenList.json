@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3907b5136d84285E78b9DcedCC8B6B262fC148Cf",
-      "symbol": "WCT",
-      "name": "WorldCupTrophy",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9228E9B55F96f435fbDfCFfdf064E9B9e651391C",
       "symbol": "WII",
       "name": "WORLDINFLATIONINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2ca377901B003E7bd87397fFF0f2EA46afFf695f",
+      "symbol": "TENGU",
+      "name": "DejitaruTengu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21002,
-    "minor": 21002,
+    "major": 21003,
+    "minor": 21003,
     "patch": 86
   }
 }
