@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa463a1eF5Ba7944186cE1FDf795707E21D5D44eE",
-      "symbol": "WEI",
-      "name": "WorldEndingInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x610265e92Cc038DdF83629d7Ca32Ae8564DDa7E7",
       "symbol": "MUCK",
       "name": "Muck",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x179dCf1C0790f46C5AF2fB26e6b6f098E1D912a8",
+      "symbol": "SATORA",
+      "name": "SaTORA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 20999,
-    "minor": 20999,
+    "major": 21000,
+    "minor": 21000,
     "patch": 86
   }
 }
