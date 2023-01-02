@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x610265e92Cc038DdF83629d7Ca32Ae8564DDa7E7",
-      "symbol": "MUCK",
-      "name": "Muck",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4c69798BC8Ec1D3ec56038aCd47d271dC31aa432",
       "symbol": "BLKPILL",
       "name": "BlackPill",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0b191f0F202033E22467d967d970048aa22AcB2a",
+      "symbol": "BUB",
+      "name": "Bubble",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21000,
-    "minor": 21000,
+    "major": 21001,
+    "minor": 21001,
     "patch": 86
   }
 }
