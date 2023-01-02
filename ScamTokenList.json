@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x395A52C46b41B4ee04F08A3F94CacdD4b8096afC",
-      "symbol": "THESIMP",
-      "name": "ProofOfSubmission",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBb44638F54e49826D2DE4b782e5A0C77c9dFE181",
       "symbol": "BRPILL",
       "name": "BabyRedPill",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x51c5e60EF6e096E632aab9fE069a2177E884Dbe9",
+      "symbol": "DRABBIT",
+      "name": "DragonRabbit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21004,
-    "minor": 21004,
+    "major": 21005,
+    "minor": 21005,
     "patch": 86
   }
 }
