@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBb44638F54e49826D2DE4b782e5A0C77c9dFE181",
-      "symbol": "BRPILL",
-      "name": "BabyRedPill",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB23A6a2258913a68E44c3806F2e5a48B551db530",
       "symbol": "MCI",
       "name": "WorldPill",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8477287c13ba31279E0cb41f16b88d8E45440431",
+      "symbol": "SAFU",
+      "name": "Safu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21005,
-    "minor": 21005,
+    "major": 21006,
+    "minor": 21006,
     "patch": 86
   }
 }
