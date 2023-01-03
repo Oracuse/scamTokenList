@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBC584F269859a417a5324Dc732C4B80Fcb992B9f",
-      "symbol": "BIZ",
-      "name": "BizTrust",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC8C2195B08b966E7CFdE5cdB4B68c8cD138BAaa2",
       "symbol": "PEPE20",
       "name": "PepeMeetsWojak",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03baF92E32E799DdcB748C9A87F6d34Cb505fa13",
+      "symbol": "BCC",
+      "name": "BitcoinCash",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21168,
-    "minor": 21168,
+    "major": 21169,
+    "minor": 21169,
     "patch": 86
   }
 }
