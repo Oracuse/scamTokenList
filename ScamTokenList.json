@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a31c775D0236f5614E81b8c07818Cd3D6F23027",
-      "symbol": "NASCAR",
-      "name": "NascarInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09bF839C39AA47c30f3718972AAD4d874F4B42c2",
       "symbol": "COPE",
       "name": "COPIUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCD21BEEbC0f570ffaae66727FA167B6a0be5313B",
+      "symbol": "SC",
+      "name": "Shitcoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21210,
-    "minor": 21210,
+    "major": 21211,
+    "minor": 21211,
     "patch": 86
   }
 }
