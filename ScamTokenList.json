@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x22A707B453e5D83bF6d037EA201953308C3775Cf",
-      "symbol": "CODEX",
-      "name": "TheCodexInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Cc9889B435Ba9069A42F6c5ef4A3c18ac358cC8",
       "symbol": "T",
       "name": "TInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A6e437856a2366cADC1c27a1fa358f2c3E0A5f6",
+      "symbol": "BUTC",
+      "name": "ButtCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21113,
-    "minor": 21113,
+    "major": 21114,
+    "minor": 21114,
     "patch": 86
   }
 }
