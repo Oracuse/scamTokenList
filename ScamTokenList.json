@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1b8994b3E4581d79Ca07Cf6b58C63Ea7fF22d4A6",
-      "symbol": "THECOMPOUND",
-      "name": "THECompoundProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE66a26EaAfBd6b900368Df6a24a9083e1d1E3734",
       "symbol": "0P",
       "name": "0TaxProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4e5CEFd2B504a8AB548bDd9F903313A155cd4dB",
+      "symbol": "BMONEY",
+      "name": "bmoney",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21368,
-    "minor": 21368,
+    "major": 21369,
+    "minor": 21369,
     "patch": 86
   }
 }
