@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x301D5e7992406D0e59759777Bd091Ba13Ccd26B5",
-      "symbol": "APTOSMOON",
-      "name": "AptosMoon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd51A07620986515AEcEC2C88a15Ac693E02Cb6b1",
       "symbol": "BFOLD",
       "name": "BabyManifold",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBE47b9898D035CE201205a0558E4579cA226659c",
+      "symbol": "OB",
+      "name": "OLDBNB",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21283,
-    "minor": 21283,
+    "major": 21284,
+    "minor": 21284,
     "patch": 86
   }
 }
