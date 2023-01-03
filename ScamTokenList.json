@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf7B3A608c26Cb0103179EdD6F876C746DE7708E3",
-      "symbol": "INUFLATION",
-      "name": "WorldInflationInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA6ADe5249bfcf312a5744876f00574b5a4b1BCe7",
       "symbol": "APT",
       "name": "Aptos",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf336BfD99a50Cb73d509182E8563aE41BCa217E7",
+      "symbol": "USAGI",
+      "name": "DejitaruUsagi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21094,
-    "minor": 21094,
+    "major": 21095,
+    "minor": 21095,
     "patch": 86
   }
 }
