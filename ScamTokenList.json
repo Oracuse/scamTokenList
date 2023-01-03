@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x978657C2418a3C71C37d40A015F27F38D078D329",
-      "symbol": "LURUS",
-      "name": "LURUS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9c55e7E8367Decd18110fb9f15288BcB550eb301",
       "symbol": "GPILL",
       "name": "GREENPILL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Ba4803683C204FC42D7331533Da8F6BA839DFB3",
+      "symbol": "BS",
+      "name": "BUSD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21016,
-    "minor": 21016,
+    "major": 21017,
+    "minor": 21017,
     "patch": 86
   }
 }
