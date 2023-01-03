@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF939cAB4d92E220c3285EC99FdFCeBBcD23B7fb9",
-      "symbol": "BWCI",
-      "name": "WorldRecessionInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAA4fc819a025ee050deEBD9787e8D3abf3799b49",
       "symbol": "EPRTCL",
       "name": "EthereumProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7bc3b60A6297Ca5DAa7Fc162992c07B2094bF4E7",
+      "symbol": "BCX",
+      "name": "BitcoinX",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21060,
-    "minor": 21060,
+    "major": 21061,
+    "minor": 21061,
     "patch": 86
   }
 }
