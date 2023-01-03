@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4a35260F69A965555D60CA8db1Cbe2Db01a95E3B",
-      "symbol": "TAI",
-      "name": "THEAPTOSINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4d06671D82F5DA42bF1bC3548222d903bf6CA7e4",
       "symbol": "DP",
       "name": "DejitaruProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC0d57E6D8b6Bf05Fd7915204Ac24A7C26613c601",
+      "symbol": "FOX",
+      "name": "Fox",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21048,
-    "minor": 21048,
+    "major": 21049,
+    "minor": 21049,
     "patch": 86
   }
 }
