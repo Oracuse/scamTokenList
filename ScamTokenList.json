@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81756340F8d6f375f7276c3cc11346B659Ad9D14",
-      "symbol": "THEMOON",
-      "name": "THEMoonProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB637316eF3fE5B2bF6B2333dF2f82a0075A41897",
       "symbol": "MERDEKA",
       "name": "Merdeka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xae8D59097DcEA8DA2c2638B65b6D80288BdC648A",
+      "symbol": "ALPHA",
+      "name": "OldAlpha",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21248,
-    "minor": 21248,
+    "major": 21249,
+    "minor": 21249,
     "patch": 86
   }
 }
