@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF9615604535D5F8Cd97bA2BF2A41B8F6d6F1C86F",
-      "symbol": "RONALDO",
-      "name": "Ronaldo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdF7E2422799959079D9Ef690817D66Cc4Fc0A621",
       "symbol": "NFL",
       "name": "NFLInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x19616393e27B48c9dbF6e3BdACCA7Ad04734D0e5",
+      "symbol": "DJI",
+      "name": "DontJeetInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21201,
-    "minor": 21201,
+    "major": 21202,
+    "minor": 21202,
     "patch": 86
   }
 }
