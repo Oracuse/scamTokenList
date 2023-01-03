@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x26736c08feb3a961Db29A70bcE9cE7b36c2567c8",
-      "symbol": "QUASAR",
-      "name": "QUASAR",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x134a7a48524334aa2fd709cE89cEDB7756346D7B",
       "symbol": "HOW",
       "name": "HowProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFE2A90080a424908610dF5C601Ca4bceb750377F",
+      "symbol": "RABBITCOIN",
+      "name": "RabbitCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21190,
-    "minor": 21190,
+    "major": 21191,
+    "minor": 21191,
     "patch": 86
   }
 }
