@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x789379b63B822f453539985131d3fc9f9f479cf0",
-      "symbol": "WOA",
-      "name": "WorldofApes",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2652b38d63CA2C29d2062a8851341b1B7311D90d",
       "symbol": "IFC",
       "name": "InuFootballClub",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b93F517ac267811Eb51926b333d2DCC5F001dE5",
+      "symbol": "NEXT",
+      "name": "NextCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21394,
-    "minor": 21394,
+    "major": 21395,
+    "minor": 21395,
     "patch": 86
   }
 }
