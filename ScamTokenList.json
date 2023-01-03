@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x766e444E9d6Ab6DF426aD95Ed99A0DbB3Bd571A8",
-      "symbol": "TLP",
-      "name": "THELASTPROTOCOL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28463b647A3D025Fb02A8D4df4F17Cda08979109",
       "symbol": "MSZ",
       "name": "MoonlightSeeingZun",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59ADda382Ee0C8D8f8a21F11e4CbD4CE10b3dA70",
+      "symbol": "TC",
+      "name": "TrumpCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21087,
-    "minor": 21087,
+    "major": 21088,
+    "minor": 21088,
     "patch": 86
   }
 }
