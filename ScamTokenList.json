@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb0ae8fE7A0935f1584d394Eb88aa3A51F41384eD",
-      "symbol": "P",
-      "name": "Plasma",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x912745fA6521Bb72B4d9fDaA8AE801220A520001",
       "symbol": "HAYYA",
       "name": "Hayya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12a544A56F043f8b3F1337e4D0690351688798B8",
+      "symbol": "BBC",
+      "name": "BabyBitcoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21062,
-    "minor": 21062,
+    "major": 21063,
+    "minor": 21063,
     "patch": 86
   }
 }
