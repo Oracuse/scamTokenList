@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x165f4Cade935d53816c9E6929d1726133d00d572",
-      "symbol": "BONGO",
-      "name": "BONGOCAT",
-      "decimals": 14,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4149c799C0dDe91DB6614E3cfb96D3061c00b117",
       "symbol": "VBP",
       "name": "TheVitalikProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08AD6E157d7712352f1408B95b3a8705D5ECbb8C",
+      "symbol": "GR",
+      "name": "GoldenRabbit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21182,
-    "minor": 21182,
+    "major": 21183,
+    "minor": 21183,
     "patch": 86
   }
 }
