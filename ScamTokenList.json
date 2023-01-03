@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4149c799C0dDe91DB6614E3cfb96D3061c00b117",
-      "symbol": "VBP",
-      "name": "TheVitalikProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x23A3180c62F2192453a3322071d9F0CA8EBA6627",
       "symbol": "R0G",
       "name": "r0gp0ll",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x729759b428c98DaAe9C5Ff8c5eF55aEb5a137c9f",
+      "symbol": "XIV",
+      "name": "XIV",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21183,
-    "minor": 21183,
+    "major": 21184,
+    "minor": 21184,
     "patch": 86
   }
 }
