@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd5C5f737E7BdF6c526499b7a1FA84f470fcb0720",
-      "symbol": "THP",
-      "name": "TransHookProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x45213bD1C0a8d80508892aa29AF0c8634e3a6C4F",
       "symbol": "SWORD",
       "name": "ScabBard",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAF66c7C446Eb08bB96261F3D769f06D90E727e8F",
+      "symbol": "SLAYER",
+      "name": "ZenitsuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21359,
-    "minor": 21359,
+    "major": 21360,
+    "minor": 21360,
     "patch": 86
   }
 }
