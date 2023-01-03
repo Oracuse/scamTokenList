@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x361Ad02ee9E729198efA6069a0Cc1e7b07AfF6dc",
-      "symbol": "WRI",
-      "name": "WorldRedemptionInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x604E3e39C11D042E7b591CD6b2696929758A4C43",
       "symbol": "DEBUNK",
       "name": "DebunkProtocal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd2e02db99D9C5acf5039A82D1920f1Aa205d97b6",
+      "symbol": "MISSOR",
+      "name": "Missor2023",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21036,
-    "minor": 21036,
+    "major": 21037,
+    "minor": 21037,
     "patch": 86
   }
 }
