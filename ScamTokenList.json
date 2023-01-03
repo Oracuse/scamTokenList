@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9c55e7E8367Decd18110fb9f15288BcB550eb301",
-      "symbol": "GPILL",
-      "name": "GREENPILL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x87f2a34c6C5cd1a431aDc1E674a29725cfE3D190",
       "symbol": "SHILONA",
       "name": "SHIBARCELONA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCeAAdC9096640b429E17D1E4A3A5adFC0FdE556d",
+      "symbol": "DUBBZ",
+      "name": "DubbzGaming",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21017,
-    "minor": 21017,
+    "major": 21018,
+    "minor": 21018,
     "patch": 86
   }
 }
