@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE8A798eB21846F8bae11F1D7152899aF3d173813",
-      "symbol": "ETHER",
-      "name": "TheEthereumProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb9a268b927F89Bc301972204b51e1a7DCe7310Ed",
       "symbol": "TOLKIEN",
       "name": "Istari",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x36c37d20D86bad0c417363dB7113369d4656Ac61",
+      "symbol": "NBI",
+      "name": "NewBearInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21083,
-    "minor": 21083,
+    "major": 21084,
+    "minor": 21084,
     "patch": 86
   }
 }
