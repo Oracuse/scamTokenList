@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3c302e18D126A7F1271F2793e5749109A2028Ff0",
-      "symbol": "ULT",
-      "name": "Ultima",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x760746E5483eA6aC47CeD2a848F8A5003c6cDb19",
       "symbol": "CIPHER",
       "name": "THECode",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF1D53F71257EcE14B816FA8CbeEd92229d626888",
+      "symbol": "ETTY",
+      "name": "EthCoinTryToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21187,
-    "minor": 21187,
+    "major": 21188,
+    "minor": 21188,
     "patch": 86
   }
 }
