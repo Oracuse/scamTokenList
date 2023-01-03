@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2F06602dEC40F17a2455413B9697468d1d1e14D6",
-      "symbol": "FORTE",
-      "name": "ForteProtocol",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0bbF991B8b3593dC622C9e6436839094b4C1a0A3",
       "symbol": "TOUTETSU",
       "name": "TheMythicalBeast",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2002694a50283f9e481003E7AC58fBf7Df1abfc4",
+      "symbol": "YUSAGI",
+      "name": "YukiUsagi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21080,
-    "minor": 21080,
+    "major": 21081,
+    "minor": 21081,
     "patch": 86
   }
 }
