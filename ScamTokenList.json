@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD333952e55f515A7612C23aC582eDDfdF12951bC",
-      "symbol": "ATI",
-      "name": "AlThumamaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4cFEA16e1e340DCc9de91ed0c60313C004a12E66",
       "symbol": "POA",
       "name": "ProofofVitalik",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD3B2A397edC466b08647968E60A0e283466047E8",
+      "symbol": "OLDHOGE",
+      "name": "OldHogeFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21240,
-    "minor": 21240,
+    "major": 21241,
+    "minor": 21241,
     "patch": 86
   }
 }
