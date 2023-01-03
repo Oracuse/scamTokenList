@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5F872b7b83867A68bdDCc13bc1ee22a237cbe742",
-      "symbol": "PES",
-      "name": "ProEvolutionSoccer",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCdC4c58dA99426Bea63408785243fd8AFcF75A11",
       "symbol": "MLB",
       "name": "MLBInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6483328696761dB68170B62052443b025Ce08aCB",
+      "symbol": "EN",
+      "name": "EthereumNew",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21222,
-    "minor": 21222,
+    "major": 21223,
+    "minor": 21223,
     "patch": 86
   }
 }
