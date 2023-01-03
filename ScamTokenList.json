@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCdBa11AcD38Ec32Bb6e73591080D615452ff7786",
-      "symbol": "AMO",
-      "name": "HarutoAmo",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6eD37916a5eeEF85Ce3F784fBaaa88A3c99A5767",
       "symbol": "SKYTREE",
       "name": "SkyTree",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBe5598DaE1180D2ba3302154299F9750Fb55b08c",
+      "symbol": "PC",
+      "name": "PulseCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21353,
-    "minor": 21353,
+    "major": 21354,
+    "minor": 21354,
     "patch": 86
   }
 }
