@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3697b89cf74c3Be7d9CE3935fa94f1b33d715cC2",
-      "symbol": "WEN",
-      "name": "LAMBO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEbfEdCD94d294C5b0D9962e144BaE8AAC9798a78",
       "symbol": "THE",
       "name": "TheBabyProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x225b3B63a63C6D52bEe6E6688BAAd9cdd1682812",
+      "symbol": "SHIBAMATE",
+      "name": "ShibaInuMate",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21299,
-    "minor": 21299,
+    "major": 21300,
+    "minor": 21300,
     "patch": 86
   }
 }
