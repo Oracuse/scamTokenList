@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB2B8B289629398932BdAEd12587eeF1cf107Ee30",
-      "symbol": "THOT",
-      "name": "THOTPROTOCOL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb62a429d2Fa885B71f2C5c87c35E5B76d7eDE2c6",
       "symbol": "NBAI",
       "name": "NBAINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4499068d9567b74a905327e2e41d713010beF94",
+      "symbol": "DUB",
+      "name": "Dub",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21067,
-    "minor": 21067,
+    "major": 21068,
+    "minor": 21068,
     "patch": 86
   }
 }
