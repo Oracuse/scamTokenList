@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7BF5ea63c78b15C78563749Ef019171ED51420e5",
-      "symbol": "TETH",
-      "name": "THEETH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x766e444E9d6Ab6DF426aD95Ed99A0DbB3Bd571A8",
       "symbol": "TLP",
       "name": "THELASTPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92a8D9341e12f9629aF85bD49752B465360117d0",
+      "symbol": "JUNNI",
+      "name": "JunniMonozukuri",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21086,
-    "minor": 21086,
+    "major": 21087,
+    "minor": 21087,
     "patch": 86
   }
 }
