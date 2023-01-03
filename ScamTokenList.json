@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0B47b83cf136e6EE96340eBBc2bcb328Edf862Fc",
-      "symbol": "THIS",
-      "name": "ThisProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xff734E2A7bbF0C666cd8135a8c28F832782b58bE",
       "symbol": "WHY",
       "name": "PAMP",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC56e2deE2cEBb3584374E4407fAbC3cB1f5b6041",
+      "symbol": "BONKERS",
+      "name": "BONKERS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21070,
-    "minor": 21070,
+    "major": 21071,
+    "minor": 21071,
     "patch": 86
   }
 }
