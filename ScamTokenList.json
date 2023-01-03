@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4df634a6E2b2d79FaA790c99fAe2B80448fb4Df5",
-      "symbol": "BUTERINU",
-      "name": "ButerinInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x065e0a3CF48E85E5bD9fffd0638cB93a7a89bB83",
       "symbol": "PORTAL",
       "name": "ThePortal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95990eb5eF4b58F3e436a00BDaAf26D818DF6aA0",
+      "symbol": "OSHIK",
+      "name": "OldShikokuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21365,
-    "minor": 21365,
+    "major": 21366,
+    "minor": 21366,
     "patch": 86
   }
 }
