@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4a3Ab47829D5f4074ccaE811bB1931Fb0b137fa8",
-      "symbol": "KI",
-      "name": "IkigaiProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x827A74674CA48eEc09E91D56D95D8133EC8F0B43",
       "symbol": "DPROTOCOL",
       "name": "DogeProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7599F81ed64AAA6d3c1f7088aE3EA8C382b058D5",
+      "symbol": "200BTC",
+      "name": "200BTC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21038,
-    "minor": 21038,
+    "major": 21039,
+    "minor": 21039,
     "patch": 86
   }
 }
