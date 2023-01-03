@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa6Af3747c78D8E34Bd46fE5f501cE1b400A61EFF",
-      "symbol": "MLI",
-      "name": "MajorLeagueInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD496eDc778B211Ecd30D261395c9ADB79b81fB11",
       "symbol": "UEFAINU",
       "name": "UEFAINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfA0373c7080042fd54B134864c710D557791240c",
+      "symbol": "TAMA",
+      "name": "OldTama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21288,
-    "minor": 21288,
+    "major": 21289,
+    "minor": 21289,
     "patch": 86
   }
 }
