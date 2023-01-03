@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA556229dEB648D79bB103b87407E23091BeA06Eb",
-      "symbol": "BGI",
-      "name": "BillGatesInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbBb1A3d59838F5e4F53603F2A4aea1880fEE0f7e",
       "symbol": "FI",
       "name": "Formula1Inu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58A9b500374D9530642381A849b2AeF8bd1A8CDf",
+      "symbol": "OU",
+      "name": "OldUSDT",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21297,
-    "minor": 21297,
+    "major": 21298,
+    "minor": 21298,
     "patch": 86
   }
 }
