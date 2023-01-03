@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x01fB105415059f0F8eCF45adD8c8d04E8Fcb925a",
-      "symbol": "WCI",
-      "name": "WorldCristianoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50b3023F34C73f604bEab8CF665ef3D0872cAfEa",
       "symbol": "WENPROTOCOL",
       "name": "Wen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88A379D1B731dBfA995D172411a893674afbF469",
+      "symbol": "SC",
+      "name": "Safecoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21050,
-    "minor": 21050,
+    "major": 21051,
+    "minor": 21051,
     "patch": 86
   }
 }
