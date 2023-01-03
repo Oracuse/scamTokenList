@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4cFEA16e1e340DCc9de91ed0c60313C004a12E66",
-      "symbol": "POA",
-      "name": "ProofofVitalik",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdeadAce0B7d8aEce99AF43EcA8df455032EA0158",
       "symbol": "ACE",
       "name": "Dead",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5F7393296726B6200C8D4c3311B2B1faDA130650",
+      "symbol": "ETHTWR",
+      "name": "EthereumTowers",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21241,
-    "minor": 21241,
+    "major": 21242,
+    "minor": 21242,
     "patch": 86
   }
 }
