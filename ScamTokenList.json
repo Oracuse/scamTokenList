@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB48E5200faE81DF0C08B0B4dF91dc924dcE1B1Ad",
-      "symbol": "THET",
-      "name": "TheProtocolToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbA6c2839a46cd2e4D40192F1A83004eA63512645",
       "symbol": "LISTEN",
       "name": "Silent",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8289C4Afd97fa0E1178dAd2Af054F05983430D1",
+      "symbol": "KRAKEN",
+      "name": "Kraken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21110,
-    "minor": 21110,
+    "major": 21111,
+    "minor": 21111,
     "patch": 86
   }
 }
