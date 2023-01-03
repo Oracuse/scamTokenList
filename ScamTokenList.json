@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE7662195F71525257d819Bafc0C224e0FE0C631B",
-      "symbol": "FAPTOS",
-      "name": "FUCKAPTOS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7BF5ea63c78b15C78563749Ef019171ED51420e5",
       "symbol": "TETH",
       "name": "THEETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9df76A386407EFB3272d9031BC4d8E7a85AeD986",
+      "symbol": "AC",
+      "name": "AiCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21085,
-    "minor": 21085,
+    "major": 21086,
+    "minor": 21086,
     "patch": 86
   }
 }
