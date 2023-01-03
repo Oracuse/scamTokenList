@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2d7ae34F0CfE214E8E9B4039bF9D2AfD59748736",
-      "symbol": "LBJ",
-      "name": "LebronJeet",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93CD275e990295d757Cb879b85FD1C394C134ee7",
       "symbol": "DEATH",
       "name": "Shinigami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7004eCB3b121C8086f5689BaeE884b3642e2694d",
+      "symbol": "ETCC",
+      "name": "EthereumClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21333,
-    "minor": 21333,
+    "major": 21334,
+    "minor": 21334,
     "patch": 86
   }
 }
