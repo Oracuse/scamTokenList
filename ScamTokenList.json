@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4b63cBD821FFB8CE42ec12D821D8a9C04EdA509e",
-      "symbol": "UP",
-      "name": "OnlywayisUP",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5D7DD90Dce466042F44447C8661a21492AfDe703",
       "symbol": "MEMEZ",
       "name": "MEMEcorp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd98656682bE5dAb00D79c92752d8F939132BA20F",
+      "symbol": "SHIBEREUM",
+      "name": "ShibereumToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21139,
-    "minor": 21139,
+    "major": 21140,
+    "minor": 21140,
     "patch": 86
   }
 }
