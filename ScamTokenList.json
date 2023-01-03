@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3129FF65225D9f90176913d006d53D7740e90259",
-      "symbol": "THEPAW",
-      "name": "ThePawtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF67C2b70FD4E21aAcef37f40bf7798c8A43e8a5D",
       "symbol": "MSZN",
       "name": "MemeSeason",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf779e0DD946f8074b62E1d3a1c0da72d5239dbe2",
+      "symbol": "JFC",
+      "name": "JesussFavoriteCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21257,
-    "minor": 21257,
+    "major": 21258,
+    "minor": 21258,
     "patch": 86
   }
 }
