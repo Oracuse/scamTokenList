@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x238683D96E069B54C98b79F5e9Bac7C25440Fc63",
-      "symbol": "OSFE",
-      "name": "OSFEdition",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbc9e426F77FFa3d1D558f8e6D7d092E7804AE7E8",
       "symbol": "QTR",
       "name": "Qatar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8421C86719Cd1Ff75E49aD81bf7DA09c19deb6a8",
+      "symbol": "OMC",
+      "name": "OldMemeCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21346,
-    "minor": 21346,
+    "major": 21347,
+    "minor": 21347,
     "patch": 86
   }
 }
