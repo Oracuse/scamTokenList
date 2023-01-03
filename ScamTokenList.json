@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7d24512f4e3e9CbD81C7AFCAfcAF1Ab4a50a07b4",
-      "symbol": "DAO2",
-      "name": "DAOMAKERV2DAO2",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x03F9A0C5091988Ea7F3C50068e358a7BfCc7846A",
       "symbol": "FIFAINU",
       "name": "FIFA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6f6D28fD1Cf1791380FE28ea32675D6C99490607",
+      "symbol": "NC",
+      "name": "Newcoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21022,
-    "minor": 21022,
+    "major": 21023,
+    "minor": 21023,
     "patch": 86
   }
 }
