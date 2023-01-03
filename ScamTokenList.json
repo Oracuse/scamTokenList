@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3420Ff729BDB55AC52DD5Bbb509534E59d52E2b6",
-      "symbol": "DEN",
-      "name": "Mushi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb83a8C37B740546b0aD3A186759A4fc66032C136",
       "symbol": "SBF",
       "name": "CopySBF",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9FF26201F29630F3742c01630be8bBF100546fC0",
+      "symbol": "OHMS",
+      "name": "ONEHUNDREDMILLIONSH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21243,
-    "minor": 21243,
+    "major": 21244,
+    "minor": 21244,
     "patch": 86
   }
 }
