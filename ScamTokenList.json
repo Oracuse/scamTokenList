@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0b3f3FBd542F21A28615D5840f36ce2062A71189",
-      "symbol": "OCC",
-      "name": "OCC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x301D5e7992406D0e59759777Bd091Ba13Ccd26B5",
       "symbol": "APTOSMOON",
       "name": "AptosMoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x984d77Da28dD37B451fA07914DBCfFdA3c459Ec5",
+      "symbol": "WC",
+      "name": "WowCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21282,
-    "minor": 21282,
+    "major": 21283,
+    "minor": 21283,
     "patch": 86
   }
 }
