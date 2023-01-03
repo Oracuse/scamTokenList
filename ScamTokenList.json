@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4d06671D82F5DA42bF1bC3548222d903bf6CA7e4",
-      "symbol": "DP",
-      "name": "DejitaruProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01fB105415059f0F8eCF45adD8c8d04E8Fcb925a",
       "symbol": "WCI",
       "name": "WorldCristianoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34b74D12c1D035Bfc5Da321Eb36a7910F0295010",
+      "symbol": "CC",
+      "name": "TheChadsCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21049,
-    "minor": 21049,
+    "major": 21050,
+    "minor": 21050,
     "patch": 86
   }
 }
