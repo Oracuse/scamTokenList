@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB58A20951feb8c94EEa397546FF161A38325a9Ee",
-      "symbol": "A",
-      "name": "APROTOCOL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7b3965982766Ce4765A5C3dE55B69091aCfcd5A9",
       "symbol": "BALLONDOR",
       "name": "Ballondor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB79e1F6dC64B4DB880b3f4a704a9E38d02D1D007",
+      "symbol": "BCN",
+      "name": "BitcoinNews",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21126,
-    "minor": 21126,
+    "major": 21127,
+    "minor": 21127,
     "patch": 86
   }
 }
