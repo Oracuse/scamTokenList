@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa82Cf6D0C680966417a1D181bb3B885395c9db3c",
-      "symbol": "SEVENS",
-      "name": "7s",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4c76bDD14eA7EbC12F38B1c0a787Cff58f6Dc22B",
       "symbol": "SMS",
       "name": "Submilliseconds",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF836311D86bd9cB16047Aa614A2c2ea20aecBdf4",
+      "symbol": "OS",
+      "name": "OLDSHIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21270,
-    "minor": 21270,
+    "major": 21271,
+    "minor": 21271,
     "patch": 86
   }
 }
