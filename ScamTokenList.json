@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1b022998BdBC77daeA364E0c2E13EAc2Da7Db664",
-      "symbol": "IWRLD",
-      "name": "InuWorld",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0984EC887678736Be253Db8B95307c64abB999c4",
       "symbol": "BPP",
       "name": "BabyPepeProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37f75908a0BA35fc2C76c84b36BbD5042d78130D",
+      "symbol": "TRI",
+      "name": "TimeRugInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21133,
-    "minor": 21133,
+    "major": 21134,
+    "minor": 21134,
     "patch": 86
   }
 }
