@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7b6EF30a8b9e45795344Df07Ca2D9Ede71c67625",
-      "symbol": "XMRX",
-      "name": "XMR",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB2Aee74c3d5D7d871F20B5eA0656C79340f603d7",
       "symbol": "REDCARD",
       "name": "FIFAREDCARD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5948174fd09f66af5a7a5456215370E1EA603eb",
+      "symbol": "DAI",
+      "name": "OLDDAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21340,
-    "minor": 21340,
+    "major": 21341,
+    "minor": 21341,
     "patch": 86
   }
 }
