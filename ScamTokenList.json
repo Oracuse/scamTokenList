@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4e416BC7505EB55068CD707A6B565d41227EBfC1",
-      "symbol": "BTHE",
-      "name": "TheBabyProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x89c3ec5908d1364A821D7C03081dA7C42cec492a",
       "symbol": "DAITAN",
       "name": "DaitanFuteki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd11D06bF1571294e09C955C82C4BB91F27d21b3A",
+      "symbol": "TC",
+      "name": "TsukaCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21053,
-    "minor": 21053,
+    "major": 21054,
+    "minor": 21054,
     "patch": 86
   }
 }
