@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd8C8aDF5e2A7e72Dd119a2B530Ba13036d1ebd9e",
-      "symbol": "VBP",
-      "name": "VitalikBlockProtoco",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb5aFeE17cB9884809aafB20eC949cb17379134c6",
       "symbol": "SHEN",
       "name": "ShibaEnjin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x785476b5179A062bdB41947726eAc85D42D1Aa48",
+      "symbol": "OV",
+      "name": "OLDVITALIK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21370,
-    "minor": 21370,
+    "major": 21371,
+    "minor": 21371,
     "patch": 86
   }
 }
