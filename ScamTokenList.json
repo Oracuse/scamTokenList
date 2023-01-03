@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd3B9B1b68Ef0369B805B773C6c66217984f12Cd9",
-      "symbol": "HINUA",
-      "name": "HIA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3647894ea1a84210eB1D661B2A49A182982dE513",
       "symbol": "THISDOGE",
       "name": "THISDOGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd17bD1BBF1f06D703E83E738D4a6489B5bFeB118",
+      "symbol": "OTSUKA",
+      "name": "OldTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21331,
-    "minor": 21331,
+    "major": 21332,
+    "minor": 21332,
     "patch": 86
   }
 }
