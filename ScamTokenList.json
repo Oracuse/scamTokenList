@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd0bC6278b6BBD02c657f91964CC79a7161c5B221",
-      "symbol": "TRIPLETOADINU",
-      "name": "TTI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf906C1C7cce035Ba08E3912C09BE0CFC456fD2df",
       "symbol": "SHIBAPPE",
       "name": "Shibappe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x000DD2543601367bC42Fe1C4a3b1043D81893a2e",
+      "symbol": "DC",
+      "name": "DAICoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21099,
-    "minor": 21099,
+    "major": 21100,
+    "minor": 21100,
     "patch": 86
   }
 }
