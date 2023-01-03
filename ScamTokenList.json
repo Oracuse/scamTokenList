@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEf74ea95129Dc95f36765192427BB83954F87989",
-      "symbol": "SUI",
-      "name": "MYSTENLABS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCD61cfDb7A39e2271D231fa87Ca042abC78F5ad7",
       "symbol": "1337",
       "name": "1000XINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F92a4FC4B072e1CA82fE4aba1DDcfea20CA4aAD",
+      "symbol": "WAFFLE",
+      "name": "ChickennWaffles",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21376,
-    "minor": 21376,
+    "major": 21377,
+    "minor": 21377,
     "patch": 86
   }
 }
