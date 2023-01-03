@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc286E8eBf88D0D59CFF89d2dD36FbeF9d342B8bE",
-      "symbol": "FED",
-      "name": "AIScN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0f6c757Dd577a696Fb4C950BeFbd82d966F4D9EB",
       "symbol": "HOW",
       "name": "HOWisTHAT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34A7ec5Af4cbFE202B75678871D753C4Ee77A152",
+      "symbol": "ELONTC",
+      "name": "ElonTweetCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21337,
-    "minor": 21337,
+    "major": 21338,
+    "minor": 21338,
     "patch": 86
   }
 }
