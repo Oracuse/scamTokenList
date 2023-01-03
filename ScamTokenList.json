@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x65E705E7B722FFf12285BE5dd47781c29E53E5CF",
-      "symbol": "WHI",
-      "name": "WorldHungerInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x45BB7759de15E9a45A83BBdBc21D62FF13434b40",
       "symbol": "BLAEEB",
       "name": "BabyLaeebInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04C09276EAa9da14dc0cFe4C1F1Fe828F58d47b5",
+      "symbol": "EH",
+      "name": "OldEthereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21145,
-    "minor": 21145,
+    "major": 21146,
+    "minor": 21146,
     "patch": 86
   }
 }
