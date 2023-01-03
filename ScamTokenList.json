@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7df90a3922EFc1090A53E386801a84d252D38eE2",
-      "symbol": "FRINU",
-      "name": "FrankensteinInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3129FF65225D9f90176913d006d53D7740e90259",
       "symbol": "THEPAW",
       "name": "ThePawtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22479c5F14D0719396B5A42066Af0b8E3585a7a0",
+      "symbol": "AC",
+      "name": "ApeCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21256,
-    "minor": 21256,
+    "major": 21257,
+    "minor": 21257,
     "patch": 86
   }
 }
