@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCdC4c58dA99426Bea63408785243fd8AFcF75A11",
-      "symbol": "MLB",
-      "name": "MLBInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3E781383124fb34d2DfcCcdc84E892f42dda5162",
       "symbol": "MBAPPETHEREUM",
       "name": "Mbappethereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD51B21fab36ebebBD51ECceCAf1E83Addbe7dE73",
+      "symbol": "BEC",
+      "name": "BithereumCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21223,
-    "minor": 21223,
+    "major": 21224,
+    "minor": 21224,
     "patch": 86
   }
 }
