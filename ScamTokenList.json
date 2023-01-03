@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc291D9Fa50325D4197B22eaf4feA117DbF805eae",
-      "symbol": "A",
-      "name": "AProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x23BdbF7Cfe491e85e1c5bca5647B2E831823aA0E",
       "symbol": "DRIBBLE",
       "name": "dribble",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf301c840C0Bf56767072af196377521832D361BF",
+      "symbol": "OTSUKA",
+      "name": "OldDejitaruTsuka",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21307,
-    "minor": 21307,
+    "major": 21308,
+    "minor": 21308,
     "patch": 86
   }
 }
