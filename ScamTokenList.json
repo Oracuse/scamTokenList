@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD8B23069f6Dcf67ad227a80817e104624448F4a3",
-      "symbol": "TRF",
-      "name": "TRIFEFINANCETRF",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfECE1a4da55b7f7488cE12703F682101c4B626e5",
       "symbol": "ASTRA",
       "name": "AdAstra",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49F5baE6ECfA0Cd3c52bEd8D2334BEdD6eAbD02f",
+      "symbol": "BINU",
+      "name": "BrianInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21014,
-    "minor": 21014,
+    "major": 21015,
+    "minor": 21015,
     "patch": 86
   }
 }
