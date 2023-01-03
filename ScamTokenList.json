@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb57a702f65281E74d048a52FA6ca749aF66682f2",
-      "symbol": "HNTRSS",
-      "name": "TheIdleHuntress",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x906D6a12068d1824e35984565f843c9E1a98B608",
       "symbol": "THEY",
       "name": "They",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80FE7f635b8F6Ac71507bbFCBe90e6bdF8B0FC92",
+      "symbol": "PEEL",
+      "name": "ApeelingProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21310,
-    "minor": 21310,
+    "major": 21311,
+    "minor": 21311,
     "patch": 86
   }
 }
