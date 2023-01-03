@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x411575C8f1E2E70c6b960eBa6aB1976f17141aF9",
-      "symbol": "MEMEZ",
-      "name": "MEMEcorp",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1742Fe8bA06922234fB3219502f9e1A79EE9a3b",
       "symbol": "TEH",
       "name": "TehProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAE2833902C50Af328d49a00129E4d7b7Bb6A2725",
+      "symbol": "DSHIB",
+      "name": "DiamondShiba",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21019,
-    "minor": 21019,
+    "major": 21020,
+    "minor": 21020,
     "patch": 86
   }
 }
