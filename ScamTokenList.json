@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xabeEEfB40a20612F855641737Ed39E99295dA550",
-      "symbol": "MIZUCHI",
-      "name": "Mizuchi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe647d1490Abc5E4851c6F24696Ba33573a0377D7",
       "symbol": "MU",
       "name": "ManUnitedInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e436bacB59b491946E3A32248A832648f01d6bb",
+      "symbol": "BONK",
+      "name": "Bonk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21122,
-    "minor": 21122,
+    "major": 21123,
+    "minor": 21123,
     "patch": 86
   }
 }
