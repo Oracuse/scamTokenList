@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB21cb33ACbaA905D0894f9eCd729453fF0FACD69",
-      "symbol": "FYP",
-      "name": "ForyourProtocal",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9E994f24a838c6fC51BC7d360e855aAd399AFbaA",
       "symbol": "SCI",
       "name": "SOCCERINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x125CEA99e19c9dc7f05c1157911654bFB2E4E368",
+      "symbol": "OL",
+      "name": "TheOldSolana",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21379,
-    "minor": 21379,
+    "major": 21380,
+    "minor": 21380,
     "patch": 86
   }
 }
