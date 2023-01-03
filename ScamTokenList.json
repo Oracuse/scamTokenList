@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF6aE3B0E92Ee61D477793405B10B2B783dF7162a",
-      "symbol": "RUSH",
-      "name": "THERUSH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x89c00ad27EF05E4126c41ec784Ba383338E4d707",
       "symbol": "HIYAKU",
       "name": "Hiyaku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f990776D86f2D71db68F2BAAE0E23B43AB1394A",
+      "symbol": "ALPHA",
+      "name": "TheAlpha",
+      "decimals": 2,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21162,
-    "minor": 21162,
+    "major": 21163,
+    "minor": 21163,
     "patch": 86
   }
 }
