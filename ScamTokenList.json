@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe1f8dC238C8aD2Cf676C33E92604652e45f36d9E",
-      "symbol": "BTHIS",
-      "name": "BABYTHIS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFa7B543f2ab2F91820905FAF10e20499Bc8Af6b9",
       "symbol": "WCP",
       "name": "WorldCupProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69861dE3ca93fe083921d7ad50FeB9D9F45FCD45",
+      "symbol": "OC",
+      "name": "Chain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21322,
-    "minor": 21322,
+    "major": 21323,
+    "minor": 21323,
     "patch": 86
   }
 }
