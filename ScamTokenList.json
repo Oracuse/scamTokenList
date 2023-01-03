@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0FE4113a27464C78D91d7c4f00D4E2Fc25832d5B",
-      "symbol": "REDCARD",
-      "name": "FIFAREDCARD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7b6EF30a8b9e45795344Df07Ca2D9Ede71c67625",
       "symbol": "XMRX",
       "name": "XMR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x284Be2eE9c47B292aA96dfec26451ED394220C66",
+      "symbol": "CBC",
+      "name": "ClassicBitcoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21339,
-    "minor": 21339,
+    "major": 21340,
+    "minor": 21340,
     "patch": 86
   }
 }
