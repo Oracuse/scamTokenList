@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x57C70D6147B004c0dDCd7Feb02Ed772884cFda55",
-      "symbol": "SAGE",
-      "name": "WhiteSage",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9d12eE328b5559F87d726D7268bD36A5565011FA",
       "symbol": "DPROTOCOL",
       "name": "DragonProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6D9609d9a012FB04DAff27BcdadDAadcD4aC84aA",
+      "symbol": "DTC",
+      "name": "DejitarutsukaCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21042,
-    "minor": 21042,
+    "major": 21043,
+    "minor": 21043,
     "patch": 86
   }
 }
