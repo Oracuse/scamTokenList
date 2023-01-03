@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb62a429d2Fa885B71f2C5c87c35E5B76d7eDE2c6",
-      "symbol": "NBAI",
-      "name": "NBAINU",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf2d83e56bc8184Aba2B04df70c95139BA016D998",
       "symbol": "KANEKI",
       "name": "KanekiKen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDfedE4094a69440e99d656Ba741DC4BB4A588381",
+      "symbol": "WTF",
+      "name": "Wutdafuk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21068,
-    "minor": 21068,
+    "major": 21069,
+    "minor": 21069,
     "patch": 86
   }
 }
