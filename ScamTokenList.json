@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7e6606A0758D15CC03fdA3A1c19c67b20432534A",
-      "symbol": "CN",
-      "name": "Convexnatalism",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD88141296709640cD0Ff3D13A7C5fbe819616Dad",
       "symbol": "LAEEB20",
       "name": "ProofofLaeeb",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B5B97c65367E443623E247cBE8435D103F40F4d",
+      "symbol": "B4BC",
+      "name": "BforBitcoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21151,
-    "minor": 21151,
+    "major": 21152,
+    "minor": 21152,
     "patch": 86
   }
 }
