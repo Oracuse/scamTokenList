@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x16d2880E0747C7021369590b6A9059cE04B1Cb16",
-      "symbol": "HIM",
-      "name": "HIM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9fC102b939DDa588f567bB7f6Bd02AceAFA15FbC",
       "symbol": "MANAKO",
       "name": "TheEye",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCcCFD527b7A13e97FCA890C43bfB938eee161Da3",
+      "symbol": "ANC",
+      "name": "ANCToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21315,
-    "minor": 21315,
+    "major": 21316,
+    "minor": 21316,
     "patch": 86
   }
 }
