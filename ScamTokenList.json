@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0f6c757Dd577a696Fb4C950BeFbd82d966F4D9EB",
-      "symbol": "HOW",
-      "name": "HOWisTHAT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0FE4113a27464C78D91d7c4f00D4E2Fc25832d5B",
       "symbol": "REDCARD",
       "name": "FIFAREDCARD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x154Ce1f7Ec8e5b3e47372BF0DFf0859e46883baE",
+      "symbol": "UETH",
+      "name": "UNWRAPPEDETH",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21338,
-    "minor": 21338,
+    "major": 21339,
+    "minor": 21339,
     "patch": 86
   }
 }
