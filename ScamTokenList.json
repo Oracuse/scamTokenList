@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x09bF839C39AA47c30f3718972AAD4d874F4B42c2",
-      "symbol": "COPE",
-      "name": "COPIUM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2db22Ff8C22AA7FfB9970448B3A68c6C5B2c90eE",
       "symbol": "TCI",
       "name": "TheCupInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC03ada484d09Cd041ebE6979d5504f0846A610B0",
+      "symbol": "NA",
+      "name": "NewAlpha",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21211,
-    "minor": 21211,
+    "major": 21212,
+    "minor": 21212,
     "patch": 86
   }
 }
