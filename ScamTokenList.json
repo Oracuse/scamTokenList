@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x065e0a3CF48E85E5bD9fffd0638cB93a7a89bB83",
-      "symbol": "PORTAL",
-      "name": "ThePortal",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4961F78d0287Ec69A91237F932C4bCc1e58b4A95",
       "symbol": "AP",
       "name": "ApesProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B0441aCcaAD03572c3A135a16bd741fccD8F73C",
+      "symbol": "OG",
+      "name": "OldGem",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21366,
-    "minor": 21366,
+    "major": 21367,
+    "minor": 21367,
     "patch": 86
   }
 }
