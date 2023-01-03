@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDd09030C4da25F2c1071E24518e146d0C38457CD",
-      "symbol": "BARNABY",
-      "name": "BarnabyInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5094c016E82221768B8ceA3D8e3A2B372c16104C",
       "symbol": "BULLS",
       "name": "ProofOfBull",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x883f535d37813d73078CB936aa02CA70279a02DF",
+      "symbol": "MISSOR",
+      "name": "Missor2023",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21237,
-    "minor": 21237,
+    "major": 21238,
+    "minor": 21238,
     "patch": 86
   }
 }
