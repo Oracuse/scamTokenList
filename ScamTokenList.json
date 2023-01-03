@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE40F7A0333EC9d868C0D6246a06f02f493E059C0",
-      "symbol": "FEAR",
-      "name": "RasniaFEAR",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22A707B453e5D83bF6d037EA201953308C3775Cf",
       "symbol": "CODEX",
       "name": "TheCodexInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71aA7a6465e26F41F6cEc56cFfDE4fAa6e1be06B",
+      "symbol": "BC",
+      "name": "BitCorn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21112,
-    "minor": 21112,
+    "major": 21113,
+    "minor": 21113,
     "patch": 86
   }
 }
