@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3bcdFF04C7DC3683303B5f5feEBDbcfAaE2917dE",
-      "symbol": "7SDAO",
-      "name": "7sDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50C3Ab5077Fd8DB7164CB68DaC1f14289360D890",
       "symbol": "THESE",
       "name": "These",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d2F58f573B3aCb9326ace62263B0a4b2CAf8d3f",
+      "symbol": "SHIKO",
+      "name": "Shikosu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21386,
-    "minor": 21386,
+    "major": 21387,
+    "minor": 21387,
     "patch": 86
   }
 }
