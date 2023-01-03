@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb253314Ad894ac3A5BC611e6E06a1e5c838d0B65",
-      "symbol": "V",
-      "name": "Voices",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x257E2063268faaEA8953Ce5b3b75183e9d5A482c",
       "symbol": "EMIR",
       "name": "EMIRINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDBF159f0803273D439b423A1071B8Ed56C721504",
+      "symbol": "AOTORI",
+      "name": "Blackbird",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21170,
-    "minor": 21170,
+    "major": 21171,
+    "minor": 21171,
     "patch": 86
   }
 }
