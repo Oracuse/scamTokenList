@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Bed168A881A276dc401ab28F7ab13e3BAB82AC6",
-      "symbol": "FACT",
-      "name": "Fact",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09519d0482138a985FB4aaf8f362Df467ACfc1fa",
       "symbol": "ESLINU",
       "name": "SuperLeagueInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9C5c0c9c1bA990916eb77680679E684fDEcf4E12",
+      "symbol": "BDEV",
+      "name": "BscDev",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21273,
-    "minor": 21273,
+    "major": 21274,
+    "minor": 21274,
     "patch": 86
   }
 }
