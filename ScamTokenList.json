@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8bB4E4D5cD6E5CAE053a80616E649f2992883169",
-      "symbol": "CCV",
-      "name": "Concavenatalism",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7fe54B67c8b4ed316E925B364F6c4752f038C2B7",
       "symbol": "TAPT101",
       "name": "TheAptos",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45A64f9FcDA1F4D0F839c4DFCC50d5e5Be50f893",
+      "symbol": "OC",
+      "name": "OldCoin",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21149,
-    "minor": 21149,
+    "major": 21150,
+    "minor": 21150,
     "patch": 86
   }
 }
