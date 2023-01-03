@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x65B04D4443Fa4d0ac14D1a438b287E744A614949",
-      "symbol": "HRI",
-      "name": "HumanRightsInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0e0D8a48f0B65256051448BC4A47067638Bf6E0C",
       "symbol": "EAND",
       "name": "EANDProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x376e099Aa2c3a79A5461AD743636E0db692A9216",
+      "symbol": "PETO",
+      "name": "Pepetoshi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21141,
-    "minor": 21141,
+    "major": 21142,
+    "minor": 21142,
     "patch": 86
   }
 }
