@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x56E04A17FeECB43DEe96Ef4B2E9cbd3143824576",
-      "symbol": "FORESEE",
-      "name": "TheThirdEye",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd3B9B1b68Ef0369B805B773C6c66217984f12Cd9",
       "symbol": "HINUA",
       "name": "HIA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b08f1c21aD1b9478E89D838b576F6f85D2c3672",
+      "symbol": "BGB",
+      "name": "BitcoinGenesisBlock",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21330,
-    "minor": 21330,
+    "major": 21331,
+    "minor": 21331,
     "patch": 86
   }
 }
