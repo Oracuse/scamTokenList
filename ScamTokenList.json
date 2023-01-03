@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7D5440BC80C9177A4252955c27184CeeE41F11E2",
-      "symbol": "IT",
-      "name": "PennyWiseInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA556229dEB648D79bB103b87407E23091BeA06Eb",
       "symbol": "BGI",
       "name": "BillGatesInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95B2186DbCf505781f5209534FCf87Da5d4ADABB",
+      "symbol": "NB",
+      "name": "NewBitcoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21296,
-    "minor": 21296,
+    "major": 21297,
+    "minor": 21297,
     "patch": 86
   }
 }
