@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1B051b36d4055fa45b5AF7817d7C7C29d264ccb2",
-      "symbol": "THEPAW",
-      "name": "ThePawtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9aD3FA29c3a3d4aD0106668e9aC28268B7e193a2",
       "symbol": "CRAPTOSLABS",
       "name": "CraptosLabs",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6dd13860E69e259B3e3019e4da659aF776A3a317",
+      "symbol": "OKIKU",
+      "name": "TaleOfOkiku",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21280,
-    "minor": 21280,
+    "major": 21281,
+    "minor": 21281,
     "patch": 86
   }
 }
