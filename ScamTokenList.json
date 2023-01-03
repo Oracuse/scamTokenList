@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x871d03440D959a21a473391EfbF5927Ff108B71F",
-      "symbol": "WDI",
-      "name": "WorldDebtInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2F06602dEC40F17a2455413B9697468d1d1e14D6",
       "symbol": "FORTE",
       "name": "ForteProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C3f4af9e1F63B0AaA790Cbc75586B1fd3449674",
+      "symbol": "OS",
+      "name": "OldSaitama",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21079,
-    "minor": 21079,
+    "major": 21080,
+    "minor": 21080,
     "patch": 86
   }
 }
