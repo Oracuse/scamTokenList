@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6AE33451163b9f3faeA3D85D0A51c4BfbA423Ed7",
-      "symbol": "BITFINEX20",
-      "name": "bitfinex20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDaFBb3eA5476a20A837895a0FA4261e778c32342",
       "symbol": "WTHEN",
       "name": "THENCHAIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84B2FABc88cC41D308461c456685E1d74412b5c4",
+      "symbol": "TEST",
+      "name": "TEST",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21374,
-    "minor": 21374,
+    "major": 21375,
+    "minor": 21375,
     "patch": 86
   }
 }
