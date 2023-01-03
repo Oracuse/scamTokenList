@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x716Fb136e9B688657888E0569040131FBbf0e201",
-      "symbol": "THE",
-      "name": "TheProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x521f5103B17162C23e2BC2DDd71F046B9881f94e",
       "symbol": "CRS",
       "name": "CristianoRonaldoSoc",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8aC2e45b83F2D0b82F57E3f721700e1544066197",
+      "symbol": "LUNC",
+      "name": "Lunacoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21072,
-    "minor": 21072,
+    "major": 21073,
+    "minor": 21073,
     "patch": 86
   }
 }
