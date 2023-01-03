@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f1983336A06F3bDA44A2dBce301bB773EaDD0E1",
-      "symbol": "YAKATA",
-      "name": "SHIRONOYAKATA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0Ed3458E611d1e15618456bcd0710BdB1ab5Db03",
       "symbol": "E",
       "name": "Enzyme",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeA720c5353Ce297d73cDc21E7c6064a0c47650BB",
+      "symbol": "MC",
+      "name": "Memecoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21009,
-    "minor": 21009,
+    "major": 21010,
+    "minor": 21010,
     "patch": 86
   }
 }
