@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4E0DF4560cEDfda5d793F607CeFa30383BDa7327",
-      "symbol": "QATAR",
-      "name": "QatarInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE8A798eB21846F8bae11F1D7152899aF3d173813",
       "symbol": "ETHER",
       "name": "TheEthereumProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d3d4BF0d70591621974be0FDccC9511c6260218",
+      "symbol": "IMT",
+      "name": "IceMachineToken",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21082,
-    "minor": 21082,
+    "major": 21083,
+    "minor": 21083,
     "patch": 86
   }
 }
