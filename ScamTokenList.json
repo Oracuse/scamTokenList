@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3ac33580bFef9db7B1b20Fc3Be94CEAC17f80714",
-      "symbol": "8S",
-      "name": "8s",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf87C4D1Cb2e1d9D4Df58978f4Ca0C2ced0ea74Fc",
       "symbol": "7APES",
       "name": "THESevenApes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF675062891D03e91623Ae294FA9a3a721191dd67",
+      "symbol": "YEOLDBTC",
+      "name": "YeOldeBTC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21392,
-    "minor": 21392,
+    "major": 21393,
+    "minor": 21393,
     "patch": 86
   }
 }
