@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28d19299e02e92D686Db0b3C0F98372c2dbc7aFf",
-      "symbol": "APT",
-      "name": "Aptos",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28bc9Aeb825d8fDCC6C9961AbAC40De47C52E343",
       "symbol": "NEON",
       "name": "NEO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x96ed9738a1017d1725d23d2465F38662F87F1FC2",
+      "symbol": "PC",
+      "name": "Pepecoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21064,
-    "minor": 21064,
+    "major": 21065,
+    "minor": 21065,
     "patch": 86
   }
 }
