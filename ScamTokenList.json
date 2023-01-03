@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC6C3D95b38900Db659CCB23E753a3E5f43ab0eF3",
-      "symbol": "KANEKIKEN",
-      "name": "KanekiKen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x800B7D328B95D417d33477312D2D1c16F9c287F6",
       "symbol": "FYC",
       "name": "FuckofCulture",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD95c3F71714a0880De75c00dC5ba7fE4026a2277",
+      "symbol": "OG",
+      "name": "OldGenesisBlock",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21327,
-    "minor": 21327,
+    "major": 21328,
+    "minor": 21328,
     "patch": 86
   }
 }
