@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdAc7dB7A75074f3B073d404d4e43ee16E39893df",
-      "symbol": "LEVP",
-      "name": "LEVERAGEPROTOCOL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcB023BEf0A827eff528a4Bc4d234Cb933960D8F0",
       "symbol": "TRANS",
       "name": "MbappeInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x347562676c0FfE94197be93C92Fc339498dEd960",
+      "symbol": "MAWEM",
+      "name": "MaWem",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21128,
-    "minor": 21128,
+    "major": 21129,
+    "minor": 21129,
     "patch": 86
   }
 }
