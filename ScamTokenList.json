@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfDB37a165e70F7292f301A8cC4629Da22Cd21a08",
-      "symbol": "OKAMI",
-      "name": "Kuraokami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x871d03440D959a21a473391EfbF5927Ff108B71F",
       "symbol": "WDI",
       "name": "WorldDebtInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89DCaDF530d19AE142A4Ac0Cf3d3F53B6BB4E9c1",
+      "symbol": "FTT",
+      "name": "NEWFTX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21078,
-    "minor": 21078,
+    "major": 21079,
+    "minor": 21079,
     "patch": 86
   }
 }
