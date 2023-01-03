@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28bc9Aeb825d8fDCC6C9961AbAC40De47C52E343",
-      "symbol": "NEON",
-      "name": "NEO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfd35f72eC09e6A97fd0e3a290E919b5B855654DA",
       "symbol": "TO",
       "name": "ToTheMoon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x391ABb3c1229ab1285C9933EAc133848BE518f3F",
+      "symbol": "VB",
+      "name": "VitalikButerin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21065,
-    "minor": 21065,
+    "major": 21066,
+    "minor": 21066,
     "patch": 86
   }
 }
