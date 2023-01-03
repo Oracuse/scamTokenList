@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0A3c3A741e732142f7F023186A137B5B7caD9F40",
-      "symbol": "SWI",
-      "name": "StarWarInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x33E72E2ED832e3822e8832062f4e9CA1Ee54228a",
       "symbol": "EWI",
       "name": "EnergyWarInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7F155E0527c50b8C534b2A0F62815ac076bb852",
+      "symbol": "C",
+      "name": "CRYPTO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21153,
-    "minor": 21153,
+    "major": 21154,
+    "minor": 21154,
     "patch": 86
   }
 }
