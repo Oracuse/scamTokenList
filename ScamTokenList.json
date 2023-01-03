@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7b3965982766Ce4765A5C3dE55B69091aCfcd5A9",
-      "symbol": "BALLONDOR",
-      "name": "Ballondor",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdAc7dB7A75074f3B073d404d4e43ee16E39893df",
       "symbol": "LEVP",
       "name": "LEVERAGEPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x009B4D540cD374372b1fF1B6485Bf781dc5391b5",
+      "symbol": "FC",
+      "name": "FutureCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21127,
-    "minor": 21127,
+    "major": 21128,
+    "minor": 21128,
     "patch": 86
   }
 }
