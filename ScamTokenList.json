@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7681C3417dD0Af33539273BF2eB1e0836daF7762",
-      "symbol": "KESSEN",
-      "name": "KESSEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8A439912b12b2F33ff7E911aEdaA0d4017ec7553",
       "symbol": "666",
       "name": "666",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x357a16211e9805Ae9cB8f66A43351292293BC91f",
+      "symbol": "NGC",
+      "name": "NextGenCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21032,
-    "minor": 21032,
+    "major": 21033,
+    "minor": 21033,
     "patch": 86
   }
 }
