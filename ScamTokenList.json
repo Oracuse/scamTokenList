@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x78F3CdC603Af693d2fabbe03cEaF5EF22448ED96",
-      "symbol": "CII",
-      "name": "CarlIcahnInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8482f24006dd57A82639fE289ADf6c3FfFf73a2A",
       "symbol": "TSP",
       "name": "TheStarkProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe23d6d42ffc05a43A55bcbc2b60637cb262b603a",
+      "symbol": "OL",
+      "name": "OLDLUNA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21160,
-    "minor": 21160,
+    "major": 21161,
+    "minor": 21161,
     "patch": 86
   }
 }
