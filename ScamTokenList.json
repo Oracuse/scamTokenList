@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd56eFc0d844802d7CE36Df03a338D92820Ed5d78",
-      "symbol": "POLONIEX",
-      "name": "Poloniex",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x712c6e26B2f0fd4121Dd4cFFa38b9BB810094E79",
       "symbol": "HIYAKU",
       "name": "Hiyaku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7A9916a67a7A3704c896522245067Ed40141efDa",
+      "symbol": "UB",
+      "name": "UBoot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21044,
-    "minor": 21044,
+    "major": 21045,
+    "minor": 21045,
     "patch": 86
   }
 }
