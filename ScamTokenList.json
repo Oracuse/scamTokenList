@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4961F78d0287Ec69A91237F932C4bCc1e58b4A95",
-      "symbol": "AP",
-      "name": "ApesProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1b8994b3E4581d79Ca07Cf6b58C63Ea7fF22d4A6",
       "symbol": "THECOMPOUND",
       "name": "THECompoundProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDBDAdDD6B03006397ef929D63032a46c99371C06",
+      "symbol": "1930",
+      "name": "1930",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21367,
-    "minor": 21367,
+    "major": 21368,
+    "minor": 21368,
     "patch": 86
   }
 }
