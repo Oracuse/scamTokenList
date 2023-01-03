@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC796220BeF5Fdd6BA27b8a9Aa6fd293507430350",
-      "symbol": "THEPP",
-      "name": "THEPonziverseProtoc",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc291D9Fa50325D4197B22eaf4feA117DbF805eae",
       "symbol": "A",
       "name": "AProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x210b3FEf220c02Af5Aefddd33A608850102A2c09",
+      "symbol": "IC",
+      "name": "InuCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21306,
-    "minor": 21306,
+    "major": 21307,
+    "minor": 21307,
     "patch": 86
   }
 }
