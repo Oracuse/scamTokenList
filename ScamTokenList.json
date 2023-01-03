@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf87C4D1Cb2e1d9D4Df58978f4Ca0C2ced0ea74Fc",
-      "symbol": "7APES",
-      "name": "THESevenApes",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x789379b63B822f453539985131d3fc9f9f479cf0",
       "symbol": "WOA",
       "name": "WorldofApes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0dc30206bB418B2280E46a07c4aE4d7b5e503ADE",
+      "symbol": "PUNKSC",
+      "name": "PunksComic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21393,
-    "minor": 21393,
+    "major": 21394,
+    "minor": 21394,
     "patch": 86
   }
 }
