@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf774d4e207fe29c8B6E4818F5Db6D9C84f817a2f",
-      "symbol": "FLY",
-      "name": "NOW",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa083197A02926567E636b1b2421082396224532f",
       "symbol": "ICAHN",
       "name": "CarlIcahn",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeCA16A6005f295447181EEb790D0Bb5558a16879",
+      "symbol": "BTCN",
+      "name": "BitcoinYoung",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21102,
-    "minor": 21102,
+    "major": 21103,
+    "minor": 21103,
     "patch": 86
   }
 }
