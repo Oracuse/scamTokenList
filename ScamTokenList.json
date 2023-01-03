@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a62C26c52DEeEdC84e2f38E461a4fdecDAAd420",
-      "symbol": "APT",
-      "name": "Aptos",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x16Cf6b8777b69e4ba8efC7cdeD2a780e36e7B25B",
       "symbol": "THECOMPOUND",
       "name": "THECompound",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x015c0e7d58ef9b93Ee2644D59eA0bFc1d4C1909B",
+      "symbol": "PN",
+      "name": "PiNetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21135,
-    "minor": 21135,
+    "major": 21136,
+    "minor": 21136,
     "patch": 86
   }
 }
