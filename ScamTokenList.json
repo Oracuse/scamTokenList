@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD5Ab246b15F5572e19818f8ffEF5cB40a2D5181d",
-      "symbol": "CRAPTOS",
-      "name": "Craptos",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x57C70D6147B004c0dDCd7Feb02Ed772884cFda55",
       "symbol": "SAGE",
       "name": "WhiteSage",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Dc9bC39a96423eAb900b2D64291f441bf10d47E",
+      "symbol": "BERA",
+      "name": "BitcoinEra",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21041,
-    "minor": 21041,
+    "major": 21042,
+    "minor": 21042,
     "patch": 86
   }
 }
