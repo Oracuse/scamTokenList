@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x760746E5483eA6aC47CeD2a848F8A5003c6cDb19",
-      "symbol": "CIPHER",
-      "name": "THECode",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD9672B0683089b4987b99e17Ab3B254Bf24FD9d7",
       "symbol": "MLS",
       "name": "MLSInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1DD17a5FA45fd9bDc3Bfb294c590f0eA0f34E41e",
+      "symbol": "OP",
+      "name": "OldPresident",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21188,
-    "minor": 21188,
+    "major": 21189,
+    "minor": 21189,
     "patch": 86
   }
 }
