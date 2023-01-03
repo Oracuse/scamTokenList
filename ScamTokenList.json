@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDf1b847582745ba5AF7c3DD63410C0E5d7108e44",
-      "symbol": "UP",
-      "name": "OnlyUp",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x37F133Fbc5e2c62eD62AD7385ca24799Ebd88D59",
       "symbol": "JD",
       "name": "JeetDefeat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbA3817D5905D86b92E742d1d36E77bf64FF59A80",
+      "symbol": "BAO",
+      "name": "TheBaoSociety",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21116,
-    "minor": 21116,
+    "major": 21117,
+    "minor": 21117,
     "patch": 86
   }
 }
