@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2a17AE9eA57b4A83F13100B09452930f8D44fa69",
-      "symbol": "MIRROROFMATSUYAMA",
-      "name": "MirrorOfMatsuyama",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1B051b36d4055fa45b5AF7817d7C7C29d264ccb2",
       "symbol": "THEPAW",
       "name": "ThePawtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEF261cBFcA1FC663E1634F1AD0Df56A0E11914a1",
+      "symbol": "NE",
+      "name": "NEWETHEREUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21279,
-    "minor": 21279,
+    "major": 21280,
+    "minor": 21280,
     "patch": 86
   }
 }
