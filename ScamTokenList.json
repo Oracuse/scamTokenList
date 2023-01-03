@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x45faCe30f187892CF7edd30dE42E13Fc12BBB783",
-      "symbol": "TAZUNI",
-      "name": "TazuniInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9a04b57eC3100afB8baCB92773C8f21E7970a8c9",
       "symbol": "APT",
       "name": "Aptos",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3139059D0b23e88c5BA7E17cDC21cd6A860CB8bE",
+      "symbol": "ELONTC",
+      "name": "ElonTweetCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21335,
-    "minor": 21335,
+    "major": 21336,
+    "minor": 21336,
     "patch": 86
   }
 }
