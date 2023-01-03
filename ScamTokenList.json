@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEc557d69063344529bbf563b9F3167A3a4478B25",
-      "symbol": "REASONS",
-      "name": "PumpingForNoReason",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1b022998BdBC77daeA364E0c2E13EAc2Da7Db664",
       "symbol": "IWRLD",
       "name": "InuWorld",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27C738Ee9bFf17da1E70b17C3de78FF4c7Cb923f",
+      "symbol": "SOLC",
+      "name": "SOLANACOIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21132,
-    "minor": 21132,
+    "major": 21133,
+    "minor": 21133,
     "patch": 86
   }
 }
