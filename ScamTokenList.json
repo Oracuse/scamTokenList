@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFb3b27f0ec0b3d8b32509eea6DC22EBC0A615B75",
-      "symbol": "VB",
-      "name": "0xAb5801a7D398351b8",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0db85C2a4C599AFF83699946dD0404a4D7BA698c",
       "symbol": "THEP",
       "name": "THEProtocolPredator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xecb21f5573982f541B92E9B4aB9860bd12A80e96",
+      "symbol": "LUNC",
+      "name": "LunaClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21130,
-    "minor": 21130,
+    "major": 21131,
+    "minor": 21131,
     "patch": 86
   }
 }
