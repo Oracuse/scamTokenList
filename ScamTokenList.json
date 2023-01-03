@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93CD275e990295d757Cb879b85FD1C394C134ee7",
-      "symbol": "DEATH",
-      "name": "Shinigami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x45faCe30f187892CF7edd30dE42E13Fc12BBB783",
       "symbol": "TAZUNI",
       "name": "TazuniInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49E6eb1Bb903079D650A715FdDb254fFD51c9036",
+      "symbol": "O8B",
+      "name": "Old8Billion",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21334,
-    "minor": 21334,
+    "major": 21335,
+    "minor": 21335,
     "patch": 86
   }
 }
