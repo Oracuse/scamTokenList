@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCdf4918C4B2269f875D1d9C2064806Bf12AE67b6",
-      "symbol": "THOU",
-      "name": "THOU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE94110B7910A42A91F9e09aE7Dce0Ef847a0F365",
       "symbol": "QOGE",
       "name": "QatariDoge",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15D11D8271294E35f8e6C8083ff51D2F1fB6e874",
+      "symbol": "PEG",
+      "name": "PegasusChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21312,
-    "minor": 21312,
+    "major": 21313,
+    "minor": 21313,
     "patch": 86
   }
 }
