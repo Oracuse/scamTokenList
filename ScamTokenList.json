@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x50b3023F34C73f604bEab8CF665ef3D0872cAfEa",
-      "symbol": "WENPROTOCOL",
-      "name": "Wen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcCcA3C5Ced8D2a6070ecD772D246F587F92c03f0",
       "symbol": "WESTIE",
       "name": "WestieInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC064C4E0bb58398A460b070147107df3E3593d3a",
+      "symbol": "TB",
+      "name": "TRADINGBITCOIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21051,
-    "minor": 21051,
+    "major": 21052,
+    "minor": 21052,
     "patch": 86
   }
 }
