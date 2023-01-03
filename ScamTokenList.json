@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9B3C202EAe8e7763445096105fEDaB3888914307",
-      "symbol": "ATHWART",
-      "name": "AthWART",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDf1b847582745ba5AF7c3DD63410C0E5d7108e44",
       "symbol": "UP",
       "name": "OnlyUp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x426ea9D666066C9e12d4dc5a5AeEe21CE038269f",
+      "symbol": "BSCDEV",
+      "name": "BscDev",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21115,
-    "minor": 21115,
+    "major": 21116,
+    "minor": 21116,
     "patch": 86
   }
 }
