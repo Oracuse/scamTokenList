@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8A439912b12b2F33ff7E911aEdaA0d4017ec7553",
-      "symbol": "666",
-      "name": "666",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x760d23Bdd90BB59f72E27e77D72218f3344195c2",
       "symbol": "ETH",
       "name": "ETHProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Bd484d72FBC5C79fb6779bD22A03e9bE4C3d035",
+      "symbol": "TRIPPZ",
+      "name": "Trippz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21033,
-    "minor": 21033,
+    "major": 21034,
+    "minor": 21034,
     "patch": 86
   }
 }
