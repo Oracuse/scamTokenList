@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9678235E84223Cf0cEA077e6379a21871137Ab32",
-      "symbol": "POP",
-      "name": "ProofofPonzi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x639016780453b87421d34169B27d02416A0218e7",
       "symbol": "DEGENS",
       "name": "Degenaut",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcF5c202c8111033Bf647562AA42c581E3dd0fbd7",
+      "symbol": "DGXXIII",
+      "name": "DEGENUARY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21245,
-    "minor": 21245,
+    "major": 21246,
+    "minor": 21246,
     "patch": 86
   }
 }
