@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDaFBb3eA5476a20A837895a0FA4261e778c32342",
-      "symbol": "WTHEN",
-      "name": "THENCHAIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEf74ea95129Dc95f36765192427BB83954F87989",
       "symbol": "SUI",
       "name": "MYSTENLABS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01d0FcdAaA3092457b02DA822a46C79b86a9B7c5",
+      "symbol": "OSBF",
+      "name": "OldSBF",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21375,
-    "minor": 21375,
+    "major": 21376,
+    "minor": 21376,
     "patch": 86
   }
 }
