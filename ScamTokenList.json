@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcfEf24C26263bb71fB5f7847E4dA44EFb7D3eDFE",
-      "symbol": "THEWCI",
-      "name": "THEWorldCupInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x83082078f74A6F36f46d598A7e46d89271B34e3a",
       "symbol": "THECOMPOUND",
       "name": "THECompoundProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91757d8AC5fEEA52a3E9353E66067BafD5dff38C",
+      "symbol": "CHIPS",
+      "name": "CHIPSINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21173,
-    "minor": 21173,
+    "major": 21174,
+    "minor": 21174,
     "patch": 86
   }
 }
