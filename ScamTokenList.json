@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBAa83bFA02Ea7276102922a52575143E4C3709d8",
-      "symbol": "THEDEGENS",
-      "name": "TheDegensProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81756340F8d6f375f7276c3cc11346B659Ad9D14",
       "symbol": "THEMOON",
       "name": "THEMoonProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE96e481c4d1a2e4C0758D998816760d39981E1EB",
+      "symbol": "WGMI",
+      "name": "WAGMIInu",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21247,
-    "minor": 21247,
+    "major": 21248,
+    "minor": 21248,
     "patch": 86
   }
 }
