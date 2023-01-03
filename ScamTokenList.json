@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7e0E5f4DfeD77F37C43E38da31DE9459D989631d",
-      "symbol": "MORINO",
-      "name": "DreamOfMorino",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3Bed168A881A276dc401ab28F7ab13e3BAB82AC6",
       "symbol": "FACT",
       "name": "Fact",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A1fBE4bE1D45E8707B3D821d880a83fb185cCc2",
+      "symbol": "NE",
+      "name": "NEWETHEREUM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21272,
-    "minor": 21272,
+    "major": 21273,
+    "minor": 21273,
     "patch": 86
   }
 }
