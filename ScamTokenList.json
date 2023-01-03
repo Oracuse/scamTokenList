@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCD61cfDb7A39e2271D231fa87Ca042abC78F5ad7",
-      "symbol": "1337",
-      "name": "1000XINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6E74f2593191c78e3cab8680766fcbE36F5ab749",
       "symbol": "TONSIL",
       "name": "Holocene",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29f40b74320F0Fe67f042e5cC5aFc3fBa52e25C4",
+      "symbol": "ANIME",
+      "name": "OLDMETA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21377,
-    "minor": 21377,
+    "major": 21378,
+    "minor": 21378,
     "patch": 86
   }
 }
