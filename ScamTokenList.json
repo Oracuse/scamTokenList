@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd00821836c8e6609E98720D633aDfE287aadbB3F",
-      "symbol": "NFLINU",
-      "name": "NFLINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28F0717E0B5935b86891632C4bfD5940C89747bb",
       "symbol": "THEINU",
       "name": "THEINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8385197e293947D355a443F03950853F5A946e6a",
+      "symbol": "MIND",
+      "name": "Ascend",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21290,
-    "minor": 21290,
+    "major": 21291,
+    "minor": 21291,
     "patch": 86
   }
 }
