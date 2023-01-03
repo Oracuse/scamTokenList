@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x89c00ad27EF05E4126c41ec784Ba383338E4d707",
-      "symbol": "HIYAKU",
-      "name": "Hiyaku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x45784a49a6b1405d385b9A20E81e8C0d101501B5",
       "symbol": "TOTH",
       "name": "ThrilloftheHunt",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x12204A62a49CCad8870Ba56c6193123BBC60E50f",
+      "symbol": "CT",
+      "name": "CryptoToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21163,
-    "minor": 21163,
+    "major": 21164,
+    "minor": 21164,
     "patch": 86
   }
 }
