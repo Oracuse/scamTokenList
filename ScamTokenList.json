@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcCcA3C5Ced8D2a6070ecD772D246F587F92c03f0",
-      "symbol": "WESTIE",
-      "name": "WestieInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4e416BC7505EB55068CD707A6B565d41227EBfC1",
       "symbol": "BTHE",
       "name": "TheBabyProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbED19C9bbDB3f195450e7e0BFCa38e45C824F8f3",
+      "symbol": "BCC",
+      "name": "BitcoinClassic",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21052,
-    "minor": 21052,
+    "major": 21053,
+    "minor": 21053,
     "patch": 86
   }
 }
