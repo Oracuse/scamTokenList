@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7BeBbeE9EA605e7A519EdC2A22178a2B9Bc23656",
-      "symbol": "MEMETICS",
-      "name": "MEMETICS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC796220BeF5Fdd6BA27b8a9Aa6fd293507430350",
       "symbol": "THEPP",
       "name": "THEPonziverseProtoc",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4b7447eDC2FfC633fa65719C0209c645dfbF21eE",
+      "symbol": "PEG",
+      "name": "PegasusChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21305,
-    "minor": 21305,
+    "major": 21306,
+    "minor": 21306,
     "patch": 86
   }
 }
