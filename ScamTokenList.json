@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x65755C354fc8d5f601d192Eb3585E76D453ed0FD",
-      "symbol": "SCORE",
-      "name": "Score",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7dAf7dd18A66F1c2979bbB0e9A27F7072a74094a",
       "symbol": "DEV",
       "name": "Where",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C6aC0aA40f108497bF525B56A14b7a9A346d1Ef",
+      "symbol": "BD",
+      "name": "BSCDEV",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21320,
-    "minor": 21320,
+    "major": 21321,
+    "minor": 21321,
     "patch": 86
   }
 }
