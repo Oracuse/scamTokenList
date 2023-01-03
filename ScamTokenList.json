@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9a04b57eC3100afB8baCB92773C8f21E7970a8c9",
-      "symbol": "APT",
-      "name": "Aptos",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc286E8eBf88D0D59CFF89d2dD36FbeF9d342B8bE",
       "symbol": "FED",
       "name": "AIScN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x840423b7f8222d5870Aa410335588c4c6ac0D048",
+      "symbol": "OI",
+      "name": "OldInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21336,
-    "minor": 21336,
+    "major": 21337,
+    "minor": 21337,
     "patch": 86
   }
 }
