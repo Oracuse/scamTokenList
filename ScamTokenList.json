@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x913e051EeE6F8224A89413baF11C8ddC79e52310",
-      "symbol": "JUZUKI",
-      "name": "JUZUKIProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x165f4Cade935d53816c9E6929d1726133d00d572",
       "symbol": "BONGO",
       "name": "BONGOCAT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF37fdEcCbe9498E2C6E8EaBF5164A5998eA7A867",
+      "symbol": "HOWINU",
+      "name": "HowellsInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21181,
-    "minor": 21181,
+    "major": 21182,
+    "minor": 21182,
     "patch": 86
   }
 }
