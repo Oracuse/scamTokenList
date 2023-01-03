@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xebc575c0f4c788546795E7eBeC7b93A40789BF35",
-      "symbol": "THAT20",
-      "name": "ProofofThat",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC2e6acb965c95E6e633e581d0279cb6c24a75929",
       "symbol": "KANEKI",
       "name": "KanekiKen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6ef4984D8d78Cdc929e1F1c16C4cFA23164Fa71d",
+      "symbol": "MEDICI",
+      "name": "HouseofMedici",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21324,
-    "minor": 21324,
+    "major": 21325,
+    "minor": 21325,
     "patch": 86
   }
 }
