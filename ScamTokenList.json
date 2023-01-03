@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xed94665cBB6D72C77Fd4023E7d511Ac568671Fb5",
-      "symbol": "THE7S",
-      "name": "The7sProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a31c775D0236f5614E81b8c07818Cd3D6F23027",
       "symbol": "NASCAR",
       "name": "NascarInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5425e84E2dD450854ddF869E3f157B3De0d466f2",
+      "symbol": "VC",
+      "name": "VitalikCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21209,
-    "minor": 21209,
+    "major": 21210,
+    "minor": 21210,
     "patch": 86
   }
 }
