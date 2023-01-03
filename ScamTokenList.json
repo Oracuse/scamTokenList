@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7292cF735CCfA6b27ef71c2501bF4132C7D98F7F",
-      "symbol": "INU7S",
-      "name": "INU7S",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x913e051EeE6F8224A89413baF11C8ddC79e52310",
       "symbol": "JUZUKI",
       "name": "JUZUKIProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7BD4274548d491Ca35D9F6E44397FEB61A68A75",
+      "symbol": "TPC",
+      "name": "THEPROTOCOLCOIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21180,
-    "minor": 21180,
+    "major": 21181,
+    "minor": 21181,
     "patch": 86
   }
 }
