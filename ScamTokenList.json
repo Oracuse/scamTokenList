@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE7A0e5E300220f7610e9F619aC55aC15c209a59C",
-      "symbol": "TA",
-      "name": "TheAptos",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x324391047644b58159c6439a8cEb0d0195B08D10",
       "symbol": "THAN",
       "name": "TheThanToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x841F0315FBd5b69c55bF8930C5245A4c50d72D4e",
+      "symbol": "OFLOKI",
+      "name": "OldFlokiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21382,
-    "minor": 21382,
+    "major": 21383,
+    "minor": 21383,
     "patch": 86
   }
 }
