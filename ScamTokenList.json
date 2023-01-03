@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x424F13EC11FD912B4987f9F75a86CD676f007A26",
-      "symbol": "CAL",
-      "name": "Callisto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01CbDf866b2154e1d65fC24dBf0509aeB1c3f502",
       "symbol": "BONGO",
       "name": "BONGOCAT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd172740283a7D2045eBBFFb0Bc9920266d0C7F00",
+      "symbol": "BDUBBZ",
+      "name": "BabyDubbz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21230,
-    "minor": 21230,
+    "major": 21231,
+    "minor": 21231,
     "patch": 86
   }
 }
