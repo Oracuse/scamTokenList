@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC652B23434bA589690121De756ff356bD21F792C",
-      "symbol": "SOA",
-      "name": "SerofApes",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7df90a3922EFc1090A53E386801a84d252D38eE2",
       "symbol": "FRINU",
       "name": "FrankensteinInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9efF76E988b4281658ad2F0c8D53999eba82ac81",
+      "symbol": "CDOG",
+      "name": "CornDog",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21255,
-    "minor": 21255,
+    "major": 21256,
+    "minor": 21256,
     "patch": 86
   }
 }
