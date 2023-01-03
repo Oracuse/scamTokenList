@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7fe54B67c8b4ed316E925B364F6c4752f038C2B7",
-      "symbol": "TAPT101",
-      "name": "TheAptos",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7e6606A0758D15CC03fdA3A1c19c67b20432534A",
       "symbol": "CN",
       "name": "Convexnatalism",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0A2D07c77dA5863DB03a988550eEE6ea928720de",
+      "symbol": "FMAX",
+      "name": "FlokiMax",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21150,
-    "minor": 21150,
+    "major": 21151,
+    "minor": 21151,
     "patch": 86
   }
 }
