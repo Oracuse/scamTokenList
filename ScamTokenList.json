@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x99756F399b990cbD00F75ed0c1A58e497383E9B1",
-      "symbol": "TED",
-      "name": "Teddies",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x61d444deC3c228a42dCd904a9FD5d090200A21b9",
       "symbol": "SEEK",
       "name": "TheSeekers",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A7841DB2E3603Db6A97EbE4bDB69836613D8B67",
+      "symbol": "TL",
+      "name": "TerraLuna",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21076,
-    "minor": 21076,
+    "major": 21077,
+    "minor": 21077,
     "patch": 86
   }
 }
