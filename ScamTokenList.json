@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6eA6F111F868B64D7f57e636699AC92E048dDC3b",
-      "symbol": "DIMMY",
-      "name": "DimmyYoKai",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9690728d4feF86dadFc9AdCD077e44Bcc7db5aFC",
       "symbol": "WCI20",
       "name": "WorldCupInu20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x254A99f0B93e328D2DF8A108Dae2E5ce43da2100",
+      "symbol": "BCI",
+      "name": "BitcoinInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21092,
-    "minor": 21092,
+    "major": 21093,
+    "minor": 21093,
     "patch": 86
   }
 }
