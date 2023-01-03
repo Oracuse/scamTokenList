@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x712c6e26B2f0fd4121Dd4cFFa38b9BB810094E79",
-      "symbol": "HIYAKU",
-      "name": "Hiyaku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc03F81Cd18266eb7A4781B6A0F2a2A05401e840e",
       "symbol": "SHIBOSHI",
       "name": "ShibaEternity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x86E6935f8A52945b812e06096F7EE0C5eB68d782",
+      "symbol": "RC",
+      "name": "RugCoin",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21045,
-    "minor": 21045,
+    "major": 21046,
+    "minor": 21046,
     "patch": 86
   }
 }
