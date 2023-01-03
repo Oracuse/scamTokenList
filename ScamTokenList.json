@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9900A93dB7c0b37Df537795823F082F72870Ca60",
-      "symbol": "DITTO",
-      "name": "DittoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3bcdFF04C7DC3683303B5f5feEBDbcfAaE2917dE",
       "symbol": "7SDAO",
       "name": "7sDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD7452CDB3D3c94C8E2b4f43a406a326d8673416E",
+      "symbol": "POSHIK",
+      "name": "ProofofShikoku",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21385,
-    "minor": 21385,
+    "major": 21386,
+    "minor": 21386,
     "patch": 86
   }
 }
