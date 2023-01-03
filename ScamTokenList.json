@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA6ADe5249bfcf312a5744876f00574b5a4b1BCe7",
-      "symbol": "APT",
-      "name": "Aptos",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x39bC8E3af13569c5F5eAa59239a728718ed5F194",
       "symbol": "THECRYPTO",
       "name": "THECrypto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4805C1c1a9EAEf6b806F0F84d98d81922ce26065",
+      "symbol": "NYRINU",
+      "name": "NewYearsResolutionI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21095,
-    "minor": 21095,
+    "major": 21096,
+    "minor": 21096,
     "patch": 86
   }
 }
