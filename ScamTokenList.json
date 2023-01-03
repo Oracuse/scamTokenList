@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x11622CC0fCf3A6159e2C52E1D9229036a159AcC0",
-      "symbol": "WRI",
-      "name": "WorldRecoveryInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7d24512f4e3e9CbD81C7AFCAfcAF1Ab4a50a07b4",
       "symbol": "DAO2",
       "name": "DAOMAKERV2DAO2",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb90D56c210044e1201817365952Df37444a19758",
+      "symbol": "BBC",
+      "name": "BabyBitcoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21021,
-    "minor": 21021,
+    "major": 21022,
+    "minor": 21022,
     "patch": 86
   }
 }
