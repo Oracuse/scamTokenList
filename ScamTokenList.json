@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2368AD212c70F355691dfae2fADa333FC968A72D",
-      "symbol": "METRICATOR",
-      "name": "MetricatorProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x84C2b53f0444d6954704172c40d09F50a5a42AFA",
       "symbol": "THAN",
       "name": "TheThanToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38e3b07D607dEF629b4f3f46a0082006fdd6CDa2",
+      "symbol": "SHIBO",
+      "name": "Shibosu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21372,
-    "minor": 21372,
+    "major": 21373,
+    "minor": 21373,
     "patch": 86
   }
 }
