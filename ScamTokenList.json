@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3f22a794E32455A0CBC551CA25d777874A521D66",
-      "symbol": "PRINT",
-      "name": "ProofOfPrinter",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe0465C7bE55591BD66b2a0142F5C159223890fd5",
       "symbol": "EARTH",
       "name": "Earth",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3418Cf8a6C28d0628549c2FD2a9184EABF1040d5",
+      "symbol": "RUGGY",
+      "name": "RuggyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21343,
-    "minor": 21343,
+    "major": 21344,
+    "minor": 21344,
     "patch": 86
   }
 }
