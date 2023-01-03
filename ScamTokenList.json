@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62C0569BA8E2097fB874710F18D17fF7Eed434C9",
-      "symbol": "OSF",
-      "name": "OSFEditions",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x041f6CC413F0A6Aa123F837EB99cD6e5f02af566",
       "symbol": "KAORI",
       "name": "KaoriKaoruzaki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9092e48D927E7b78347D3Fd2a8F1eF8fE6cEda3B",
+      "symbol": "MBC",
+      "name": "MiniBitcoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21119,
-    "minor": 21119,
+    "major": 21120,
+    "minor": 21120,
     "patch": 86
   }
 }
