@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23BdbF7Cfe491e85e1c5bca5647B2E831823aA0E",
-      "symbol": "DRIBBLE",
-      "name": "dribble",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5154776B0421247b6A273261982C3be1fC9711ac",
       "symbol": "WHO",
       "name": "WHO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfCC4BA46A2902270B9F41BeBa23A32B42dddF473",
+      "symbol": "SATOSHI",
+      "name": "NAKAMOTOSATOSHI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21308,
-    "minor": 21308,
+    "major": 21309,
+    "minor": 21309,
     "patch": 86
   }
 }
