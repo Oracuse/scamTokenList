@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x11cbc7a5D0f35Df7Ce0474CF290de7bdaBe8E3d9",
-      "symbol": "GTP",
-      "name": "GatsbyToolsPass",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBC584F269859a417a5324Dc732C4B80Fcb992B9f",
       "symbol": "BIZ",
       "name": "BizTrust",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc670E23451e8788E4eafcC61d8260d556A59e928",
+      "symbol": "YC",
+      "name": "YOLOCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21167,
-    "minor": 21167,
+    "major": 21168,
+    "minor": 21168,
     "patch": 86
   }
 }
