@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x843ba27B7C960d60e4C62Fcc992646Bb1400023c",
-      "symbol": "DESPORTS",
-      "name": "DeSports",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62F033145fF2dc693733c2f3D9302B9852b25418",
       "symbol": "WJI",
       "name": "WorldJeetInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0452E04F13615b6DEF0a2C2dc3d375e2ba329E6a",
+      "symbol": "SOL2POINT0",
+      "name": "Solana20",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21207,
-    "minor": 21207,
+    "major": 21208,
+    "minor": 21208,
     "patch": 86
   }
 }
