@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x61d444deC3c228a42dCd904a9FD5d090200A21b9",
-      "symbol": "SEEK",
-      "name": "TheSeekers",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfDB37a165e70F7292f301A8cC4629Da22Cd21a08",
       "symbol": "OKAMI",
       "name": "Kuraokami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x289E3bA8235BF29943bf238b4C89057bA54565B7",
+      "symbol": "MEW",
+      "name": "MysticCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21077,
-    "minor": 21077,
+    "major": 21078,
+    "minor": 21078,
     "patch": 86
   }
 }
