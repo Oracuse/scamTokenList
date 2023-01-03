@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe647d1490Abc5E4851c6F24696Ba33573a0377D7",
-      "symbol": "MU",
-      "name": "ManUnitedInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA5E4e662B1e12B4f31F646410521db792bE585D7",
       "symbol": "RAIJIN",
       "name": "Raijin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E875Ee4b6b6BE94DdC49E37634cba2d43bdF239",
+      "symbol": "WALL",
+      "name": "WallFinance",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21123,
-    "minor": 21123,
+    "major": 21124,
+    "minor": 21124,
     "patch": 86
   }
 }
