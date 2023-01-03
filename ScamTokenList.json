@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBA72B68F4a0dF6752e140DaCF109321aB20197d0",
-      "symbol": "WARUDOKAPPUINU",
-      "name": "WarudokappuInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x276d2ed5e4902439D432798dae1Ca16cA46905f4",
       "symbol": "THAT",
       "name": "THAT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3bDB0D91D6bDf3c8D4Dd2bBE79C3B7407CFcfB52",
+      "symbol": "QAQO",
+      "name": "QaQoToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21104,
-    "minor": 21104,
+    "major": 21105,
+    "minor": 21105,
     "patch": 86
   }
 }
