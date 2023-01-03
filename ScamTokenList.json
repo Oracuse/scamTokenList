@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8bc2028C026E7eDA72af52537A60190c8069F0Bf",
-      "symbol": "PLI",
-      "name": "PremierLeagueInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3f22a794E32455A0CBC551CA25d777874A521D66",
       "symbol": "PRINT",
       "name": "ProofOfPrinter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc5514c408D11B909d2F9C90038BEAF398b99BB6C",
+      "symbol": "SILAH",
+      "name": "Silah",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21342,
-    "minor": 21342,
+    "major": 21343,
+    "minor": 21343,
     "patch": 86
   }
 }
