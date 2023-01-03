@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0b030EDE570E89CB565c3A1CFFc150983331fc34",
-      "symbol": "PROTOCOL",
-      "name": "Protocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc6CfCeaC4369d423F22bEa3Bf694405fe77Aa4CF",
       "symbol": "TIKI",
       "name": "Totem",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0C0F48e6f713e343BfE48E6f94400BA2a8554DeC",
+      "symbol": "DBZ",
+      "name": "Dubbz",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21234,
-    "minor": 21234,
+    "major": 21235,
+    "minor": 21235,
     "patch": 86
   }
 }
