@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2db22Ff8C22AA7FfB9970448B3A68c6C5B2c90eE",
-      "symbol": "TCI",
-      "name": "TheCupInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3E6707057A6dc064F0A2a860DDEfCab08611f0A8",
       "symbol": "F1",
       "name": "Formula1Inu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFBD7e39E3299FDa183dC56ADeC43453072C1b769",
+      "symbol": "BC",
+      "name": "BitcoinGames",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21212,
-    "minor": 21212,
+    "major": 21213,
+    "minor": 21213,
     "patch": 86
   }
 }
