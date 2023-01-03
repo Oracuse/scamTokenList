@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x760d23Bdd90BB59f72E27e77D72218f3344195c2",
-      "symbol": "ETH",
-      "name": "ETHProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4E70Ee58847947081B3573b30822e009FF53AbEF",
       "symbol": "GB",
       "name": "GhostBusters",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3369B3a175CbdAf529Cae59FE54e800BaD4c61f",
+      "symbol": "1",
+      "name": "TheOneCrypto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21034,
-    "minor": 21034,
+    "major": 21035,
+    "minor": 21035,
     "patch": 86
   }
 }
