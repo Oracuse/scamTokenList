@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x79776d7B84c948638989aD34bde748ED7780C977",
-      "symbol": "APP",
-      "name": "Appearance",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x180D6C062B29bb2F4614A609BA0EB30ff1278B6b",
       "symbol": "TRUST",
       "name": "TrustAI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE3203B7554502844A3761800877Dc848eF67dA0C",
+      "symbol": "XMRC",
+      "name": "Monero",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21193,
-    "minor": 21193,
+    "major": 21194,
+    "minor": 21194,
     "patch": 86
   }
 }
