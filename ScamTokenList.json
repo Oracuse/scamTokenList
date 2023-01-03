@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5890b5D4d252910d52f56B73a61da5df3ba0Df2e",
-      "symbol": "SUCHI",
-      "name": "Kagutsuchi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7681C3417dD0Af33539273BF2eB1e0836daF7762",
       "symbol": "KESSEN",
       "name": "KESSEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8712ffdE3d7cB3297aD58B247Ae358251c536842",
+      "symbol": "POINTER",
+      "name": "PointerPointer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21031,
-    "minor": 21031,
+    "major": 21032,
+    "minor": 21032,
     "patch": 86
   }
 }
