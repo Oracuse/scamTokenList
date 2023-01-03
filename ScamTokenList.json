@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x768a57A5f9825D1d666bA967d17175D3816f437E",
-      "symbol": "TWC",
-      "name": "TheWorldCup",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1d9A844889d6AA4Ef7Ff96F29c66617700304C41",
       "symbol": "BYE",
       "name": "bye",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B8daFBB5A43f612C48efc58372b6a0E7199115E",
+      "symbol": "NEWAI",
+      "name": "NewAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21292,
-    "minor": 21292,
+    "major": 21293,
+    "minor": 21293,
     "patch": 86
   }
 }
