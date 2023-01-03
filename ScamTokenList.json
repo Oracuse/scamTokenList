@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8482f24006dd57A82639fE289ADf6c3FfFf73a2A",
-      "symbol": "TSP",
-      "name": "TheStarkProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF6aE3B0E92Ee61D477793405B10B2B783dF7162a",
       "symbol": "RUSH",
       "name": "THERUSH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdC98bC7C479C4f4bDE7Ab8269B82893d50339142",
+      "symbol": "OHTI",
+      "name": "ONEHUNDREDTHOUSANDI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21161,
-    "minor": 21161,
+    "major": 21162,
+    "minor": 21162,
     "patch": 86
   }
 }
