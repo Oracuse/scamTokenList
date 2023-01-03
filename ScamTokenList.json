@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd51A07620986515AEcEC2C88a15Ac693E02Cb6b1",
-      "symbol": "BFOLD",
-      "name": "BabyManifold",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x657791C40e9213351e786bdF8D8Dfd938A099fc4",
       "symbol": "WSI",
       "name": "WorldSeriesInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf099102b90F636157ae7F0a8A126feEa9209187C",
+      "symbol": "OM",
+      "name": "OldMeme",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21284,
-    "minor": 21284,
+    "major": 21285,
+    "minor": 21285,
     "patch": 86
   }
 }
