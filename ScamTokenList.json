@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0CEdEc4517f8A9fA1ed0fC5b4Fb3b84A2A7286ff",
-      "symbol": "POF",
-      "name": "ProofOfFifa",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9C2Ec4666aCCe6bF0d2C197A1E540E2FF421585e",
       "symbol": "V",
       "name": "Violence",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88CBa3A02B8B8C05aCd3a8a32EbDa47AA9F62996",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21055,
-    "minor": 21055,
+    "major": 21056,
+    "minor": 21056,
     "patch": 86
   }
 }
