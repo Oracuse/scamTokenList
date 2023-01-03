@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8Cd3387e2E358f14ecf84cA78D8C11Ae6B4330fe",
-      "symbol": "ABYYS",
-      "name": "MadeinAbbys",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9dCaCed23E3B1321abC4F99cFC56e268ef2ebDF3",
       "symbol": "DEAL",
       "name": "DealWithIt",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90C8EcA0308b21BcB28756E987fb48c37f3d2D3E",
+      "symbol": "EC",
+      "name": "EthereumCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21024,
-    "minor": 21024,
+    "major": 21025,
+    "minor": 21025,
     "patch": 86
   }
 }
