@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0e0D8a48f0B65256051448BC4A47067638Bf6E0C",
-      "symbol": "EAND",
-      "name": "EANDProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x107E57091A0c6d9801E2595968c2c7149DDFa92A",
       "symbol": "WHERE",
       "name": "WhereToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbf66F4aED01AE6436026772f2D5D7554D1Fb7FDb",
+      "symbol": "KC",
+      "name": "KureCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21142,
-    "minor": 21142,
+    "major": 21143,
+    "minor": 21143,
     "patch": 86
   }
 }
