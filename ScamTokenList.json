@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe6Cb53caB30F176c8fbfbE8b85C9cb4680D81f8A",
-      "symbol": "WEN",
-      "name": "BULL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x57acd057eD022021978ecf104734F48B24a8abd4",
       "symbol": "THEQATARFIFA7SINU20",
       "name": "THEQATARFIFA7SINU20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24808959f85817683406282E3583c95d13A59566",
+      "symbol": "T",
+      "name": "Token",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21361,
-    "minor": 21361,
+    "major": 21362,
+    "minor": 21362,
     "patch": 86
   }
 }
