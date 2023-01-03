@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcB023BEf0A827eff528a4Bc4d234Cb933960D8F0",
-      "symbol": "TRANS",
-      "name": "MbappeInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFb3b27f0ec0b3d8b32509eea6DC22EBC0A615B75",
       "symbol": "VB",
       "name": "0xAb5801a7D398351b8",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5924a84071221E10b310997ae99243E2d11A9Af2",
+      "symbol": "DC",
+      "name": "Dogucoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21129,
-    "minor": 21129,
+    "major": 21130,
+    "minor": 21130,
     "patch": 86
   }
 }
