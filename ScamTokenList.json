@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb690e0121291286c55413b1c7f509a85Cc301E76",
-      "symbol": "SER",
-      "name": "SerRoom",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1ACE6F7bBDb703D9D2afC9EE201a5D2822Bfa2b9",
       "symbol": "CANNIBAL",
       "name": "JeffreyDahmer",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d3F61e2220797c10D7Fa2e8BFB74d104Fa67c5b",
+      "symbol": "ETC",
+      "name": "EthereumClassic",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21228,
-    "minor": 21228,
+    "major": 21229,
+    "minor": 21229,
     "patch": 86
   }
 }
