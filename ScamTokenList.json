@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCbB4Ee065b1DefcC2a47c5377925Cd4258D0FAbe",
-      "symbol": "AWI",
-      "name": "ArabWorldInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3AE7d9611D3a9aD05e1dF6650009E68113cA2904",
       "symbol": "ABI",
       "name": "AlBaytInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82d2CD3C8761974a6a39FaB03206A39F7c922034",
+      "symbol": "ANON",
+      "name": "Anonereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21196,
-    "minor": 21196,
+    "major": 21197,
+    "minor": 21197,
     "patch": 86
   }
 }
