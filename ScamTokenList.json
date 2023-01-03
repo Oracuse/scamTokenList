@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAA4fc819a025ee050deEBD9787e8D3abf3799b49",
-      "symbol": "EPRTCL",
-      "name": "EthereumProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0ae8fE7A0935f1584d394Eb88aa3A51F41384eD",
       "symbol": "P",
       "name": "Plasma",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c8b392A05e4904cD8f4B08E1b3F511F925dEa64",
+      "symbol": "PRICE",
+      "name": "ERCPriceBot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21061,
-    "minor": 21061,
+    "major": 21062,
+    "minor": 21062,
     "patch": 86
   }
 }
