@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbc9e426F77FFa3d1D558f8e6D7d092E7804AE7E8",
-      "symbol": "QTR",
-      "name": "Qatar",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x60CAA5260a9b61FAa6f1e0142a66aF8cd8F0AFEa",
       "symbol": "POLONIEX",
       "name": "Poloniex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2DA7Eca042003599798031896E57D3F96B2E39A6",
+      "symbol": "UDOGE",
+      "name": "UnwrappedDoge",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21347,
-    "minor": 21347,
+    "major": 21348,
+    "minor": 21348,
     "patch": 86
   }
 }
