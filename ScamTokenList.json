@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe3C30d99F97191BD1d61F76AB0F64619154FCac0",
-      "symbol": "POD",
-      "name": "ProofofDegen",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd51D35bE5bEFddCd3b375139b20955E9d3002798",
       "symbol": "THEACT",
       "name": "TheActuary",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2Ff067a74c9025e294C634395f1a127Fa15FF939",
+      "symbol": "SC",
+      "name": "ShillComp",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21277,
-    "minor": 21277,
+    "major": 21278,
+    "minor": 21278,
     "patch": 86
   }
 }
