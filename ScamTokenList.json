@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x87f2a34c6C5cd1a431aDc1E674a29725cfE3D190",
-      "symbol": "SHILONA",
-      "name": "SHIBARCELONA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x411575C8f1E2E70c6b960eBa6aB1976f17141aF9",
       "symbol": "MEMEZ",
       "name": "MEMEcorp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE1221443512a770dBF51D31E9247115Fa5449D71",
+      "symbol": "BCH",
+      "name": "BitcoinCash",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21018,
-    "minor": 21018,
+    "major": 21019,
+    "minor": 21019,
     "patch": 86
   }
 }
