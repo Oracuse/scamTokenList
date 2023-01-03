@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdF7E2422799959079D9Ef690817D66Cc4Fc0A621",
-      "symbol": "NFL",
-      "name": "NFLInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x002c72064e3a9EB097d4FfaF873739006C12aDf6",
       "symbol": "NFLINU",
       "name": "NFL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8910FeBee2556851824d476414bb4688d17f4D28",
+      "symbol": "MUON",
+      "name": "MuonNetwork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21202,
-    "minor": 21202,
+    "major": 21203,
+    "minor": 21203,
     "patch": 86
   }
 }
