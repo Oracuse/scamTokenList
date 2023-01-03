@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5094c016E82221768B8ceA3D8e3A2B372c16104C",
-      "symbol": "BULLS",
-      "name": "ProofOfBull",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD83435817FE9FBfDACf4C7cF1427F53DD884C7a0",
       "symbol": "WTCI",
       "name": "WTCINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF6bB2536082e16210c9E6B762367Dc1611fBA94f",
+      "symbol": "KAIJU",
+      "name": "DejitaruKaiju",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21238,
-    "minor": 21238,
+    "major": 21239,
+    "minor": 21239,
     "patch": 86
   }
 }
