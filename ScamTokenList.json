@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2652b38d63CA2C29d2062a8851341b1B7311D90d",
-      "symbol": "IFC",
-      "name": "InuFootballClub",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb0150e0672F2891793DBF6bE60CdEdd9bD0ba959",
       "symbol": "PO7S",
       "name": "Proofof7s",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0CF7D560e67fc3cED7a4736b55b8a958607e5771",
+      "symbol": "XSHIB",
+      "name": "NotShibaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21395,
-    "minor": 21395,
+    "major": 21396,
+    "minor": 21396,
     "patch": 86
   }
 }
