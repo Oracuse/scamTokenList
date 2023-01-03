@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9690728d4feF86dadFc9AdCD077e44Bcc7db5aFC",
-      "symbol": "WCI20",
-      "name": "WorldCupInu20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf7B3A608c26Cb0103179EdD6F876C746DE7708E3",
       "symbol": "INUFLATION",
       "name": "WorldInflationInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61D07dfc5CaECfA66FB2FC6b0E174D2677De17D2",
+      "symbol": "AC",
+      "name": "AxieCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21093,
-    "minor": 21093,
+    "major": 21094,
+    "minor": 21094,
     "patch": 86
   }
 }
