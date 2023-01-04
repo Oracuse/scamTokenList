@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfF60D0d6fEA049f3359A663e54f33CF03A8D1068",
-      "symbol": "GOLAZO",
-      "name": "Golazo",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3284015908Ec1c0A38C580bE0342f867B5d2ecE6",
       "symbol": "HP",
       "name": "SetFees",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95080B48d91818b137006F55f3979c3CE5200851",
+      "symbol": "HOT",
+      "name": "CryptoHotSpot",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21519,
-    "minor": 21519,
+    "major": 21520,
+    "minor": 21520,
     "patch": 86
   }
 }
