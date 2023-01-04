@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x44C66332cfe31aC6ED862a3Ec0F98BCfe96B0aE0",
-      "symbol": "EXODUS",
-      "name": "ExodusProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaa6AA719d83eEBFe287d093e55a80596429EDDbA",
       "symbol": "WOW",
       "name": "AWow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69d4Aa0B4f79533A718Babd22E1716163BfDDBe2",
+      "symbol": "SHIKBONK",
+      "name": "ShikokuBonk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21473,
-    "minor": 21473,
+    "major": 21474,
+    "minor": 21474,
     "patch": 86
   }
 }
