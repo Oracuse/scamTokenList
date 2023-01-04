@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17e04bA4BDa4C105C6bae704b94F5B8e0c6F94C4",
-      "symbol": "S",
-      "name": "S",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81DcE51AB5670874281EaD358eeB79b4788b67F3",
       "symbol": "SHILL",
       "name": "Ryoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbA8671303717793d5E0232F28cC4A03836CD30CF",
+      "symbol": "STARL",
+      "name": "OldStarlink",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21555,
-    "minor": 21555,
+    "major": 21556,
+    "minor": 21556,
     "patch": 86
   }
 }
