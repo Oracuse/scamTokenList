@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8f41c893f595F526d5BEdD97D611e935045a6140",
-      "symbol": "BTYRANT",
-      "name": "BABYTYRANT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66E83E436d3899B5ACA2C9Cdd90fe06585e0F990",
       "symbol": "SST",
       "name": "SwissShieldToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA147F39A0e7E4eEa64e188a61935dd283B1655Fd",
+      "symbol": "SHIKU",
+      "name": "Bonkshiku",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21561,
-    "minor": 21561,
+    "major": 21562,
+    "minor": 21562,
     "patch": 86
   }
 }
