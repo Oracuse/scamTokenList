@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEb6F83748dF59e9Aab593AC9ea678C45F1B52092",
-      "symbol": "TBP",
-      "name": "THEBURNPROTOCOL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa2f73E7BF121aFe3FAE24a653D23CE0d14a06bf4",
       "symbol": "CC",
       "name": "CryptoCreepers",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B2CD89De6369Ba58667a0D9469A1Cf9AD16dA60",
+      "symbol": "SHIBONK",
+      "name": "ShibaBonk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21434,
-    "minor": 21434,
+    "major": 21435,
+    "minor": 21435,
     "patch": 86
   }
 }
