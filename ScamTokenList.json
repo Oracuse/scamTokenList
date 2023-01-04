@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8b8Be8A6269Faec4e2d93B6bC78133dbC49aF8C6",
-      "symbol": "CHAD",
-      "name": "ChadCoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3635E7690A8d6CAFE665FEb7C8B2B9DcE37F09f1",
       "symbol": "BENZINU",
       "name": "BENZINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x490B1f865a065177499ebdE44C7331dC81D5E52A",
+      "symbol": "SHIKAGE",
+      "name": "ShikageInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21428,
-    "minor": 21428,
+    "major": 21429,
+    "minor": 21429,
     "patch": 86
   }
 }
