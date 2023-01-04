@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf010DE4518653A8e330ED1823026401EaE86DAb0",
-      "symbol": "NAME",
-      "name": "NAME",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9aa24066D46125A60e0454Db7c8DD621819cC1Fc",
       "symbol": "MAGIC",
       "name": "MemeMagic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4381AAaC3e3CB447DBBB99eE64a93571E7E5be48",
+      "symbol": "SHIM",
+      "name": "ShimotoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21534,
-    "minor": 21534,
+    "major": 21535,
+    "minor": 21535,
     "patch": 86
   }
 }
