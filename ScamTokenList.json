@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7e9f4e9EDEA00d1453491cfdC46b8299f4fD4ea5",
-      "symbol": "X",
-      "name": "X",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x315b7bE85d37D226b69990b82Eb8E4c75af536C6",
       "symbol": "IDEAL",
       "name": "IdealProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB94b140960aaF2b6ad3739AD16ebE749B81a8686",
+      "symbol": "BKABOSU",
+      "name": "BABYKABOSUINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21479,
-    "minor": 21479,
+    "major": 21480,
+    "minor": 21480,
     "patch": 86
   }
 }
