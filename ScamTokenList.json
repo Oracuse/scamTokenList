@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6139f159f506cd69f19b3fcF0EAdf68B00a02f23",
-      "symbol": "BABY7S",
-      "name": "BabySeven",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7E0E96D241567047f8df34Ddd0234aD3f9Af479c",
       "symbol": "III",
       "name": "Pain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B94303c87C3f7e7D7912508d3172C0A76bfE627",
+      "symbol": "GMC",
+      "name": "GMCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21412,
-    "minor": 21412,
+    "major": 21413,
+    "minor": 21413,
     "patch": 86
   }
 }
