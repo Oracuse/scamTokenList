@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBA58F94a83293D0A2d5fe28712bDeE087d230281",
-      "symbol": "VESTG",
-      "name": "veSTG",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x287045cFf51Af11D47b738fC1506d42Bdc66b1a1",
       "symbol": "GO",
       "name": "Cryptogram",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F13fC8E270b9ebBD1ABE5A686Ea13348e9f7F94",
+      "symbol": "BTCM",
+      "name": "MoonBTC",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21564,
-    "minor": 21564,
+    "major": 21565,
+    "minor": 21565,
     "patch": 86
   }
 }
