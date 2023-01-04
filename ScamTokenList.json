@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1979a5beE5aD8ebBd2bef7D079b24da30C64e192",
-      "symbol": "SENPAI",
-      "name": "DegenSparatan",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC08E123d8c416086A770782f40e95A8F5aA4C04c",
       "symbol": "GEOUS",
       "name": "Augeous",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEAca15a0874dA38fD863C5C9860DB2525e8d1F93",
+      "symbol": "OMCC",
+      "name": "OldMultiChainCapita",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21540,
-    "minor": 21540,
+    "major": 21541,
+    "minor": 21541,
     "patch": 86
   }
 }
