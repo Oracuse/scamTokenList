@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3C9Bd7D6f436147634Ef317993d37955b63C763f",
-      "symbol": "FUD",
-      "name": "Fudisannoying",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6b87BE6737f5d0516c9b45094C920666C75C6C37",
       "symbol": "THEEVIDENCEPROTOCOL",
       "name": "Evidence",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8DD79D477ffAbCf97d8C2d7a644Ef802d22D0243",
+      "symbol": "1FT",
+      "name": "OneFungibleToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21569,
-    "minor": 21569,
+    "major": 21570,
+    "minor": 21570,
     "patch": 86
   }
 }
