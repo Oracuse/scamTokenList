@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3f1A1a1CD4dc2CbBF57273990b5c66C7D1771e35",
-      "symbol": "WRASSE",
-      "name": "FishDocuseries",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2C3021605E9AaFA8F566C8466Acc636Aa0b7C7Bc",
       "symbol": "AGAIN",
       "name": "AGAIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7F1cD35afF3F84119ad26D033839277d7a084014",
+      "symbol": "1ETH",
+      "name": "OneEthereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21507,
-    "minor": 21507,
+    "major": 21508,
+    "minor": 21508,
     "patch": 86
   }
 }
