@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2BC707E0c2726a983Aac40c577b431709Ff8D6aA",
-      "symbol": "SOLUTION",
-      "name": "SolutionProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97B3fd8ca048C91B792f61C5146cE5e15492a584",
       "symbol": "EG",
       "name": "ExempliGratia",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf8F97F14A585Cc212c749C4859f70eFa4A472374",
+      "symbol": "BTCA",
+      "name": "BTCANNIVERSARY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21482,
-    "minor": 21482,
+    "major": 21483,
+    "minor": 21483,
     "patch": 86
   }
 }
