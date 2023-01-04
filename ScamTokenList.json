@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbe95351bDdFd2c4260957F3571cA367E0824bb8B",
-      "symbol": "MEVREFUND",
-      "name": "MEVrefund",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x912950A0eB847F34e3bA9BFe50779e6B0a58cb8e",
       "symbol": "IDEAL",
       "name": "IdealProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60c4a360A8ACc5381B54CB7AEF90BC2742A296BC",
+      "symbol": "TEST",
+      "name": "Test",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21477,
-    "minor": 21477,
+    "major": 21478,
+    "minor": 21478,
     "patch": 86
   }
 }
