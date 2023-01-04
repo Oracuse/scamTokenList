@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb3C30a88de76669053f2b27cA55EE62Ae1951f65",
-      "symbol": "WABI",
-      "name": "WarrenBuffetInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6139f159f506cd69f19b3fcF0EAdf68B00a02f23",
       "symbol": "BABY7S",
       "name": "BabySeven",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAd30Ddd3f3c5AF8AD652DB59d35A9cc51E9A5b10",
+      "symbol": "OR",
+      "name": "OldRipple",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21411,
-    "minor": 21411,
+    "major": 21412,
+    "minor": 21412,
     "patch": 86
   }
 }
