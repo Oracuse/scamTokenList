@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x21078A292B5F41d8D636A438E2c01A936018c703",
-      "symbol": "BALLS",
-      "name": "TheBallsProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4E42bdBa37D978e1986e5eB7b7dE36291FcAEb2F",
       "symbol": "POP",
       "name": "ProofofPig",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x361C87d292f700631DcdA4add6AA966A038E06E1",
+      "symbol": "OU",
+      "name": "OldUniswap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21401,
-    "minor": 21401,
+    "major": 21402,
+    "minor": 21402,
     "patch": 86
   }
 }
