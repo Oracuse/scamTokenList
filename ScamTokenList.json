@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5e1cD85211859BB4b71C8Eb2cA465e42E3378c63",
-      "symbol": "POI",
-      "name": "ProofofIncinerator",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA648fa7626CB670C43a1ca3Fda1b717bfE1deB2d",
       "symbol": "LINK",
       "name": "Link",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E3c85852E08C5Fe2856723B5117eAa712AC4E96",
+      "symbol": "BR",
+      "name": "BlackRabbit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21488,
-    "minor": 21488,
+    "major": 21489,
+    "minor": 21489,
     "patch": 86
   }
 }
