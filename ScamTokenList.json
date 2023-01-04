@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5e0812B1a3A8d5b7198A726D1D6F03EFA3aE2Bf4",
-      "symbol": "IYKYK",
-      "name": "IYKYK",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38C15f59f2f14ADB24672Ea25DA111C3f81637A0",
       "symbol": "MICE",
       "name": "Micecoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA7e1FA99C19A29Cc6e7054c5efddABd43fF41481",
+      "symbol": "CHUB",
+      "name": "ChubbyInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21457,
-    "minor": 21457,
+    "major": 21458,
+    "minor": 21458,
     "patch": 86
   }
 }
