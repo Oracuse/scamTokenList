@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4147Fc0A617231E08A2208fD5bBf35c6084B7605",
-      "symbol": "MP",
-      "name": "MetaPlayer",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19272bEA8b27a67ef939f6893Efb1E2B9166B9d6",
       "symbol": "HIYAKU",
       "name": "Hiyaku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e53328349dc5326BbFC256Af9a0A8142832a15a",
+      "symbol": "GINO",
+      "name": "GINO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21417,
-    "minor": 21417,
+    "major": 21418,
+    "minor": 21418,
     "patch": 86
   }
 }
