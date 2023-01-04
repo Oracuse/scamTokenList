@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD4b2E61c4B82Fe89EAEc4F25D0cC84EdcFFA4D44",
-      "symbol": "THOSE",
-      "name": "Those",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd36481086713f8bd6Fe1a738819b6baeF96248BA",
       "symbol": "TESSERACT",
       "name": "Tesseract",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB45Adf9d4e2B034DEB5fe285dDe1Dc4f937CBE10",
+      "symbol": "OT",
+      "name": "OldTrx",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21504,
-    "minor": 21504,
+    "major": 21505,
+    "minor": 21505,
     "patch": 86
   }
 }
