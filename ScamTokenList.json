@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x19272bEA8b27a67ef939f6893Efb1E2B9166B9d6",
-      "symbol": "HIYAKU",
-      "name": "Hiyaku",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0E55c93D22E7aC27C22A7aB38553c643da96319E",
       "symbol": "VINU",
       "name": "VitalikInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0c2ac69e86dC24cCf301D02d074f1f7e61639052",
+      "symbol": "OS",
+      "name": "OldSolana",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21418,
-    "minor": 21418,
+    "major": 21419,
+    "minor": 21419,
     "patch": 86
   }
 }
