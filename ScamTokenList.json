@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB289c320F25FD12BaD5b1c71d7b51CA9832bAB41",
-      "symbol": "GHOST",
-      "name": "GHOST",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9B98815643ceFF1eB401B8a0305CaFfb23950e2A",
       "symbol": "COPE",
       "name": "COPIUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBAA9E5a0D4f6578c41c93a2f3e9a581634767c4D",
+      "symbol": "BITCORE",
+      "name": "BitcoinCore",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21464,
-    "minor": 21464,
+    "major": 21465,
+    "minor": 21465,
     "patch": 86
   }
 }
