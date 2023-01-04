@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcbE35FA75226624101c345f0e601C065C42065F0",
-      "symbol": "FIRSTAPTOS",
-      "name": "FirstAptos",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB444c053CBa97dBD3a218C7077572671DDDaC322",
       "symbol": "DOHA",
       "name": "DohaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9D9b93c865822937FE0F82384CeEd3Ee700cb68",
+      "symbol": "ORI",
+      "name": "Oriflamme",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21454,
-    "minor": 21454,
+    "major": 21455,
+    "minor": 21455,
     "patch": 86
   }
 }
