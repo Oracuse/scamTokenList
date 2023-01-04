@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd2Fe860a8B3228DCDdB02CA6C7174bB75Caba5F6",
-      "symbol": "7Q",
-      "name": "7Qatar",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22e158676Ce82dc0d434B97414267737f3750180",
       "symbol": "7M",
       "name": "7Million",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcd485a62E28Fc0835620c0149D8A9F91eF60E497",
+      "symbol": "RISC",
+      "name": "Ripes",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21407,
-    "minor": 21407,
+    "major": 21408,
+    "minor": 21408,
     "patch": 86
   }
 }
