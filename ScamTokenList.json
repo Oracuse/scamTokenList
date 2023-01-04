@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA46f0664a29Ad7861F4060Bf0c675aF2bEb15E72",
-      "symbol": "BABYRISU",
-      "name": "BabyRisu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x395f4e2C8066bb06e4eC318b278af5660D6a5B62",
       "symbol": "BKANEKI",
       "name": "BabyKanekiKen",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08eb7563a21F89a7D94Eb50ACC4295fC188cfe28",
+      "symbol": "OR",
+      "name": "OldRyoshi",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21426,
-    "minor": 21426,
+    "major": 21427,
+    "minor": 21427,
     "patch": 86
   }
 }
