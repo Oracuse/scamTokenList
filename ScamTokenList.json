@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB444c053CBa97dBD3a218C7077572671DDDaC322",
-      "symbol": "DOHA",
-      "name": "DohaInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3cB9180E1cB21FAaD609F92B28c8198D398C5F49",
       "symbol": "HBI",
       "name": "HasbullaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37382EC48d7c4D32ADfba25cFC2a8391bF1CED5F",
+      "symbol": "SHIKSHIB",
+      "name": "ShikokuShibaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21455,
-    "minor": 21455,
+    "major": 21456,
+    "minor": 21456,
     "patch": 86
   }
 }
