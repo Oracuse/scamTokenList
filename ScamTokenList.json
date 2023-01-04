@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x204fa7F27A2fd2de1FA4214295346d33abA5755B",
-      "symbol": "TIP",
-      "name": "TheINUProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC7DCD7832A77977f1a0d414201755de8BF36AfCc",
       "symbol": "MINU",
       "name": "MoonInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80E02Ed6f2ebf3F957b4B068c60397E0c2E34DA7",
+      "symbol": "RYUI",
+      "name": "RyukaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21511,
-    "minor": 21511,
+    "major": 21512,
+    "minor": 21512,
     "patch": 86
   }
 }
