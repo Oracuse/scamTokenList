@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA648fa7626CB670C43a1ca3Fda1b717bfE1deB2d",
-      "symbol": "LINK",
-      "name": "Link",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1F01bED8E11e82c58202BA17c4CD34da6633797A",
       "symbol": "BIRB",
       "name": "BirbProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE059612b1C8BE2AD25eC73269cEf2669F1Eb22A5",
+      "symbol": "GVC",
+      "name": "GalaxyVillains",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21489,
-    "minor": 21489,
+    "major": 21490,
+    "minor": 21490,
     "patch": 86
   }
 }
