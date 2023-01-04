@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7be6D5042FA9626dCcF42b16C0528d1d07b9C300",
-      "symbol": "CSW",
-      "name": "Chainsaw",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8180E7fCFd3B0D80f049e2ABb5BB87610db3dB26",
       "symbol": "50C",
       "name": "50Cent",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56d202751D1FF0e65D2A711Af7d315a622198b6b",
+      "symbol": "BOSU",
+      "name": "BabyKabosuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21525,
-    "minor": 21525,
+    "major": 21526,
+    "minor": 21526,
     "patch": 86
   }
 }
