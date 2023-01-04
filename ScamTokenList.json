@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe9A442532AF55fD6474A3cfA66BA842f3D661aCc",
-      "symbol": "ABSORB",
-      "name": "AbsorbProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2cDf2503Ea8FDe4B34C9D53168869F561306ACFF",
       "symbol": "TG",
       "name": "Anyonegottgforthis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2d0527A7913DFaF6fB8F5110B8b9730a23C7bF1",
+      "symbol": "MONO",
+      "name": "Monochrome",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21509,
-    "minor": 21509,
+    "major": 21510,
+    "minor": 21510,
     "patch": 86
   }
 }
