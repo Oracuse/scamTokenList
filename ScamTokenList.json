@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE19f0eCCdE17252065B57a6e6B0Ac1e525Db8C32",
-      "symbol": "N",
-      "name": "N",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5ce550FAC2D46aD4f228dEB26077aA5B085b133f",
       "symbol": "ROVERX",
       "name": "LandingonMars",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBCaf0b63985361d54276B36Aa3447195cc72270A",
+      "symbol": "ARGUS",
+      "name": "ArgusScanner",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21553,
-    "minor": 21553,
+    "major": 21554,
+    "minor": 21554,
     "patch": 86
   }
 }
