@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcD9af04AF939A8a5BD2c2b39C34BDE1C248C36E2",
-      "symbol": "APEPRO",
-      "name": "TheApeProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4c75eDa3A46D74e6407ECDfdB206824eaF9527d2",
       "symbol": "CSW",
       "name": "Chainsaw",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e315D7d97514Ca25832318Cb3E28759cfeEDf2B",
+      "symbol": "DOGGGA",
+      "name": "DOGGGA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21523,
-    "minor": 21523,
+    "major": 21524,
+    "minor": 21524,
     "patch": 86
   }
 }
