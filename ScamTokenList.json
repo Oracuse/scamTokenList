@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9FeC8421689205216c7ae964eefB9e1C773468fb",
-      "symbol": "BEX",
-      "name": "BabyExampleProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbe95351bDdFd2c4260957F3571cA367E0824bb8B",
       "symbol": "MEVREFUND",
       "name": "MEVrefund",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22A1d939fF5aFF5fC0d5cd458DAeD519BaFdd0fc",
+      "symbol": "KARUKAL",
+      "name": "KarukalSheep",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21476,
-    "minor": 21476,
+    "major": 21477,
+    "minor": 21477,
     "patch": 86
   }
 }
