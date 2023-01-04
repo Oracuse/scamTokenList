@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x69918B1cEf967180C6f97b28EAA2D6Dca91C597b",
-      "symbol": "DEV",
-      "name": "WHO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf1dd337807291c4716a08F8f3b72eDeFA1d9aB1B",
       "symbol": "THES",
       "name": "THEShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a820A53560E8993Bd357CCdF0627750AE4c5d3b",
+      "symbol": "BLESS",
+      "name": "BlessKabosu",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21471,
-    "minor": 21471,
+    "major": 21472,
+    "minor": 21472,
     "patch": 86
   }
 }
