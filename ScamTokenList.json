@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd36481086713f8bd6Fe1a738819b6baeF96248BA",
-      "symbol": "TESSERACT",
-      "name": "Tesseract",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x832e285Cf7abcde1D95f5648865898d0130188e7",
       "symbol": "FLOW",
       "name": "TheFlow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0965Ad11077574d8AbE68Cd005E318468Eb67C4E",
+      "symbol": "QINU",
+      "name": "QuinInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21505,
-    "minor": 21505,
+    "major": 21506,
+    "minor": 21506,
     "patch": 86
   }
 }
