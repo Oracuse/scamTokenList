@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3635E7690A8d6CAFE665FEb7C8B2B9DcE37F09f1",
-      "symbol": "BENZINU",
-      "name": "BENZINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdf8AFE1504842526488C8C140f77c27a9FbdBb6b",
       "symbol": "POY",
       "name": "ProofofYield",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D99d6383c48eE93745821EEcE56362BC801A2f3",
+      "symbol": "ODIE",
+      "name": "OdieInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21429,
-    "minor": 21429,
+    "major": 21430,
+    "minor": 21430,
     "patch": 86
   }
 }
