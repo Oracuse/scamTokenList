@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8e40B5F470d008B369E43Bae7701EAA50aa0637f",
-      "symbol": "TBP",
-      "name": "TheBurnProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09441eF9F713866A76b861dBe6042235D299bF0e",
       "symbol": "A",
       "name": "ATOKEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6650cEd34a705554F531d076855f360B256A7367",
+      "symbol": "GENBU",
+      "name": "TheBlackTortoise",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21404,
-    "minor": 21404,
+    "major": 21405,
+    "minor": 21405,
     "patch": 86
   }
 }
