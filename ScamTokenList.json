@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x912950A0eB847F34e3bA9BFe50779e6B0a58cb8e",
-      "symbol": "IDEAL",
-      "name": "IdealProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7e9f4e9EDEA00d1453491cfdC46b8299f4fD4ea5",
       "symbol": "X",
       "name": "X",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc24E195c8AB5B69d50e1B77dFFf46ff3e9EedDbE",
+      "symbol": "KURO",
+      "name": "KuroiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21478,
-    "minor": 21478,
+    "major": 21479,
+    "minor": 21479,
     "patch": 86
   }
 }
