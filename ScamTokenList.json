@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x797f2eBa340d23DF6aeE7143fC48A3CAAD619E0c",
-      "symbol": "Q",
-      "name": "Q",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97cB2D7C3b943eeC0783aa19d5c4C947f24F6eE4",
       "symbol": "APTHEREUM",
       "name": "APTHEREUM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7ed596112C2770877f91cF699Dc663d31199D4B",
+      "symbol": "BONK",
+      "name": "BonkInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21549,
-    "minor": 21549,
+    "major": 21550,
+    "minor": 21550,
     "patch": 86
   }
 }
