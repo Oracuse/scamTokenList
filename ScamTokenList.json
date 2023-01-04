@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x09441eF9F713866A76b861dBe6042235D299bF0e",
-      "symbol": "A",
-      "name": "ATOKEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x043ede9B6195D1542b0c1fff9041e6ad4a8ce9d2",
       "symbol": "SCI",
       "name": "SOCCERINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC8D934BB8f7766FA6926680950B5C709C85A76bB",
+      "symbol": "VC",
+      "name": "VOLTCOIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21405,
-    "minor": 21405,
+    "major": 21406,
+    "minor": 21406,
     "patch": 86
   }
 }
