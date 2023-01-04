@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x781A9Ea0041599FdB56a09a6C4365E65bcb70959",
-      "symbol": "MLS",
-      "name": "MLSINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE4DD6308d34183477344C1Ce004180058F85B943",
       "symbol": "SPOOK",
       "name": "SpookProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC60D4fe91c60a831f3A5F31112E0f2D49DaD6760",
+      "symbol": "DC",
+      "name": "DegenCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21438,
-    "minor": 21438,
+    "major": 21439,
+    "minor": 21439,
     "patch": 86
   }
 }
