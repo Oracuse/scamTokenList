@@ -14,28 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x66E83E436d3899B5ACA2C9Cdd90fe06585e0F990",
-      "symbol": "SST",
-      "name": "SwissShieldToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x96660F58607463BC47fa236Acf39A2Feb901e43D",
-      "symbol": "LEAPSECONDS",
-      "name": "AbolishDaylightSavi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBA58F94a83293D0A2d5fe28712bDeE087d230281",
       "symbol": "VESTG",
       "name": "veSTG",
@@ -110000,11 +109978,33 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDC12d82e31C69375C15F49B6b5A48944e96cC5Dc",
+      "symbol": "SHIBONK",
+      "name": "SHIBABONK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71Df77D806cdF2a518c3E9C4B29F151A676582D5",
+      "symbol": "SHIKOBONK",
+      "name": "ShikoBonk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21562,
-    "minor": 21562,
+    "major": 21564,
+    "minor": 21564,
     "patch": 86
   }
 }
