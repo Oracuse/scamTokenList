@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x481D68A671bfbE1857E8f667283E07dC24c5db11",
-      "symbol": "WOOF",
-      "name": "DOGProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x70c96F6D86443C03d736c1f5D0cacf4935100542",
       "symbol": "AXY",
       "name": "ProofofAXY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c2192f7FcddA2E3CeA3def5fbd87333610045fB",
+      "symbol": "NEO",
+      "name": "TheChosenOne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21500,
-    "minor": 21500,
+    "major": 21501,
+    "minor": 21501,
     "patch": 86
   }
 }
