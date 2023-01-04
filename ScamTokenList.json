@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBf02BDE1df182BeF9e419600394ec76d7BBeeB0d",
-      "symbol": "ZEN",
-      "name": "Zethereum",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD58740f380BDfD0229f27d68463d7DB7030aa57d",
       "symbol": "KANJU",
       "name": "FutsuKanju",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Ac03e06D296f17a7D78Ef2Fa95751C6499Bb00E",
+      "symbol": "SHIBONE",
+      "name": "ShikokuBone",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21566,
-    "minor": 21566,
+    "major": 21567,
+    "minor": 21567,
     "patch": 86
   }
 }
