@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC7DCD7832A77977f1a0d414201755de8BF36AfCc",
-      "symbol": "MINU",
-      "name": "MoonInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1B5e77d97E91482bc20F4b24aAE4c5942C6eC314",
       "symbol": "SP",
       "name": "StargateProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBc3535f0B0db54b68c355DAdd21B2CCd43Dde794",
+      "symbol": "HACHI",
+      "name": "HachikoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21512,
-    "minor": 21512,
+    "major": 21513,
+    "minor": 21513,
     "patch": 86
   }
 }
