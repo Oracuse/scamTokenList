@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x58D104c47eC245C9731088Af7425B691987F0F00",
-      "symbol": "LAEEB",
-      "name": "LaeebMascot",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb3C30a88de76669053f2b27cA55EE62Ae1951f65",
       "symbol": "WABI",
       "name": "WarrenBuffetInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x635d8BE2516524cD09E613ff3e72e6841EB93Fe5",
+      "symbol": "EG",
+      "name": "EGOLD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21410,
-    "minor": 21410,
+    "major": 21411,
+    "minor": 21411,
     "patch": 86
   }
 }
