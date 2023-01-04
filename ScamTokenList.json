@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0E55c93D22E7aC27C22A7aB38553c643da96319E",
-      "symbol": "VINU",
-      "name": "VitalikInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCD5d8197F3C2Cd2e66D8f9acaa0c1d266f5BFeB4",
       "symbol": "OKAPI",
       "name": "Okapi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0579c8c007EFD6FAF1274f0BE1447bED554dc936",
+      "symbol": "ELON",
+      "name": "PersonoftheYear",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21419,
-    "minor": 21419,
+    "major": 21420,
+    "minor": 21420,
     "patch": 86
   }
 }
