@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x81DcE51AB5670874281EaD358eeB79b4788b67F3",
-      "symbol": "SHILL",
-      "name": "Ryoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x423eD06aa96577964A8708480aAe39E8Ada4e4B6",
       "symbol": "APM",
       "name": "AptosMock",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2D502FEf3339f994df0871e160a7AEbeAdB9D324",
+      "symbol": "BABYBONK",
+      "name": "BabyBonkInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21556,
-    "minor": 21556,
+    "major": 21557,
+    "minor": 21557,
     "patch": 86
   }
 }
