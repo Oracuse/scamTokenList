@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1B5e77d97E91482bc20F4b24aAE4c5942C6eC314",
-      "symbol": "SP",
-      "name": "StargateProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC4cEA286e6b3824af99bD8F2F5f4ab96bc7b2eFF",
       "symbol": "KISHA",
       "name": "Shojikisha",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8139190511c0F461460Ac5876b37Ed539124170",
+      "symbol": "SEND",
+      "name": "SENDOR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21513,
-    "minor": 21513,
+    "major": 21514,
+    "minor": 21514,
     "patch": 86
   }
 }
