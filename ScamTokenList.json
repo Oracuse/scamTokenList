@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE4DD6308d34183477344C1Ce004180058F85B943",
-      "symbol": "SPOOK",
-      "name": "SpookProtocol",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8f5a03948f51723aA7bc1EE8d4D4b19D9767F29D",
       "symbol": "PERFUME",
       "name": "PerfumeSalesman",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8fDfF72Adac8c7FCAA979e88049E7B6486Fe60D0",
+      "symbol": "SHIDO",
+      "name": "SHIDOSU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21439,
-    "minor": 21439,
+    "major": 21440,
+    "minor": 21440,
     "patch": 86
   }
 }
