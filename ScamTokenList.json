@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25802e03b83e8446D9e1C62249bdc869D4AcDB17",
-      "symbol": "WONTLETDOWN",
-      "name": "WontLetDown",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x65c72878cFF0A4D0d9aF5C7FC6E772682a4fFEfc",
       "symbol": "VOX20",
       "name": "ProoofofVoxDei",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x712ad52715E7be06706271306A13ea326912e81e",
+      "symbol": "NS",
+      "name": "NewShib",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21441,
-    "minor": 21441,
+    "major": 21442,
+    "minor": 21442,
     "patch": 86
   }
 }
