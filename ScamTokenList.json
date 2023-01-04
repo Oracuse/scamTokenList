@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x83e250AC64B58d77C4a09dd2450593026293B969",
-      "symbol": "EB",
-      "name": "EorB",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4f614B456B0b47207D1d6deBB4790fB33eCec7dF",
       "symbol": "BUSHI",
       "name": "BabyUshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x809D6FadF176224C399bB3Ada42D9E336c655675",
+      "symbol": "BSHIBO",
+      "name": "BabyShibosu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21484,
-    "minor": 21484,
+    "major": 21485,
+    "minor": 21485,
     "patch": 86
   }
 }
