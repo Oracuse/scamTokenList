@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbf658c4823a75ddbDBf897aC718e545e46559374",
-      "symbol": "TO",
-      "name": "TOProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5e1cD85211859BB4b71C8Eb2cA465e42E3378c63",
       "symbol": "POI",
       "name": "ProofofIncinerator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA874379126eDd2b6DD1941a808Fc9d5140e2A70B",
+      "symbol": "SHIU",
+      "name": "Shibonkinu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21487,
-    "minor": 21487,
+    "major": 21488,
+    "minor": 21488,
     "patch": 86
   }
 }
