@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3EFCe230715b12a6Ada0EF3Ea087Cb254266B6ad",
-      "symbol": "YU",
-      "name": "Nobuyuki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcD9af04AF939A8a5BD2c2b39C34BDE1C248C36E2",
       "symbol": "APEPRO",
       "name": "TheApeProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6506e5F7Ed4e2B071e9e5fb613948C58B6426158",
+      "symbol": "MONO",
+      "name": "Monochrome",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21522,
-    "minor": 21522,
+    "major": 21523,
+    "minor": 21523,
     "patch": 86
   }
 }
