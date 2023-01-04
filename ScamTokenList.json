@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA533778a0DBB41b73e893794B343dE9aaB8910cE",
-      "symbol": "THEETHH",
-      "name": "THEETHHolder",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA46f0664a29Ad7861F4060Bf0c675aF2bEb15E72",
       "symbol": "BABYRISU",
       "name": "BabyRisu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x056cF58B33709158ffAb6f2F5b0B357027a7971C",
+      "symbol": "RP",
+      "name": "RyoshiParticle",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21425,
-    "minor": 21425,
+    "major": 21426,
+    "minor": 21426,
     "patch": 86
   }
 }
