@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1D6405138A335cE5FD7364086334EfB3E4F28B59",
-      "symbol": "CCX",
-      "name": "ClearCryptos",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09d9491fc9A5ec0E1ECb6bD4F41622C01548fb83",
       "symbol": "VINU",
       "name": "VOXINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2319AEb4805CDF2183F46f7A9bAD8b21660f00F9",
+      "symbol": "BSHIK",
+      "name": "BABYSHIKOKUINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21448,
-    "minor": 21448,
+    "major": 21449,
+    "minor": 21449,
     "patch": 86
   }
 }
