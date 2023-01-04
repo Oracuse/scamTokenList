@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb726157B72EFaadEfeE319666e9B9E86f4ACa7Fc",
-      "symbol": "TESS",
-      "name": "TESSERACT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50787b0AE3705f11ddd32bB9334F5aEE2aD21df2",
       "symbol": "MICE",
       "name": "Micecoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A50689C274465cc082FE12833B1C58601B0185B",
+      "symbol": "MINTY",
+      "name": "MintyFresh",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21436,
-    "minor": 21436,
+    "major": 21437,
+    "minor": 21437,
     "patch": 86
   }
 }
