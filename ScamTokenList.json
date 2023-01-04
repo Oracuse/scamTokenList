@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x315b7bE85d37D226b69990b82Eb8E4c75af536C6",
-      "symbol": "IDEAL",
-      "name": "IdealProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfe8bC7787960BA946D2e3f90bAC475aCabc94c55",
       "symbol": "TALA",
       "name": "IdleHuntress",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9F81346040F1671E8FcFE8DC69D9f4c29479C2E7",
+      "symbol": "SHIKB",
+      "name": "ShikokuBank",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21480,
-    "minor": 21480,
+    "major": 21481,
+    "minor": 21481,
     "patch": 86
   }
 }
