@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42CAbC3CAc521828585B789Fb2bA46ed3FC6bc74",
-      "symbol": "HAVEN",
-      "name": "TheAscension",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x481D68A671bfbE1857E8f667283E07dC24c5db11",
       "symbol": "WOOF",
       "name": "DOGProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56a4a1F2e15B25C00BE4c9Fb27A2b06565e80Eb2",
+      "symbol": "SAITOSHI",
+      "name": "SAITOSHI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21499,
-    "minor": 21499,
+    "major": 21500,
+    "minor": 21500,
     "patch": 86
   }
 }
