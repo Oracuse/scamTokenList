@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDFc4A98D9c0641AA34A32575E16600F006251Fe5",
-      "symbol": "APTOS",
-      "name": "AptosInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA533778a0DBB41b73e893794B343dE9aaB8910cE",
       "symbol": "THEETHH",
       "name": "THEETHHolder",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2DA9Cc8DA9e6fc64fbB4528711292133F47A7be6",
+      "symbol": "DEXY",
+      "name": "DexyTools",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21424,
-    "minor": 21424,
+    "major": 21425,
+    "minor": 21425,
     "patch": 86
   }
 }
