@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x476697405C393Fed1CD4c35eDd52fF32211153E1",
-      "symbol": "WE",
-      "name": "DAPUMP",
-      "decimals": 3,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9eFFd4520B8b617A04304bF81343921FAF35E268",
       "symbol": "SWINGN",
       "name": "SwingInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a4Bc9099FD1c02278A2E8E8cA0b5740944F9Ea6",
+      "symbol": "GINO",
+      "name": "GINO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21398,
-    "minor": 21398,
+    "major": 21399,
+    "minor": 21399,
     "patch": 86
   }
 }
