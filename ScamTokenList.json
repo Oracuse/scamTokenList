@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9eFFd4520B8b617A04304bF81343921FAF35E268",
-      "symbol": "SWINGN",
-      "name": "SwingInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfC678A927Ad7fFdcde8fa700E81da7C819182b26",
       "symbol": "HACKMD",
       "name": "HackMD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9eBF8b56c0d130140255752bEa617D25e592F2E9",
+      "symbol": "PI",
+      "name": "PiNetwork",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21399,
-    "minor": 21399,
+    "major": 21400,
+    "minor": 21400,
     "patch": 86
   }
 }
