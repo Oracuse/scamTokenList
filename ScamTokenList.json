@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x287045cFf51Af11D47b738fC1506d42Bdc66b1a1",
-      "symbol": "GO",
-      "name": "Cryptogram",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBf02BDE1df182BeF9e419600394ec76d7BBeeB0d",
       "symbol": "ZEN",
       "name": "Zethereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7427882C60dEa63b0458318043D37896982eC79b",
+      "symbol": "BBONE",
+      "name": "BabyBone",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21565,
-    "minor": 21565,
+    "major": 21566,
+    "minor": 21566,
     "patch": 86
   }
 }
