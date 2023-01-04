@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x82ced7B239Fc06E59f11819883d68A0E0925e59e",
-      "symbol": "POP",
-      "name": "ProofofProfit",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD146e61394fA603bD827C78F1019D335A5cf0ef8",
       "symbol": "V",
       "name": "Vitalik",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC6359fed7eb0928D6752E46A7155ac58725164a7",
+      "symbol": "SHONK",
+      "name": "ShibaBonk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21558,
-    "minor": 21558,
+    "major": 21559,
+    "minor": 21559,
     "patch": 86
   }
 }
