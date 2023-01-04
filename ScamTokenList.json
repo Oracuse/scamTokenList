@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfC678A927Ad7fFdcde8fa700E81da7C819182b26",
-      "symbol": "HACKMD",
-      "name": "HackMD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21078A292B5F41d8D636A438E2c01A936018c703",
       "symbol": "BALLS",
       "name": "TheBallsProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA6eF96819bfc0B92C6cd6BC7fCD67Faf7FE51baA",
+      "symbol": "OP",
+      "name": "OldPitbull",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21400,
-    "minor": 21400,
+    "major": 21401,
+    "minor": 21401,
     "patch": 86
   }
 }
