@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2d7e64624F009AD2F566D67f6d59E4b6BA15c856",
-      "symbol": "DEGEN",
-      "name": "ADegensChart",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcF2B9D359C9592532eCf02ec2900134D47c0Ff0C",
       "symbol": "CARSX",
       "name": "CarsX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ee4151D8c0631656d8C9d1CF432a6e7750DBB29",
+      "symbol": "ICHIBA",
+      "name": "ICHIBA",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21422,
-    "minor": 21422,
+    "major": 21423,
+    "minor": 21423,
     "patch": 86
   }
 }
