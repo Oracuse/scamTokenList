@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x304d3B5C0cFf5e7a1c0f47dba6A09653180F5a68",
-      "symbol": "TLT",
-      "name": "TWOLANDS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x416059A38d1610A68FC740dFcB7Ec6C1bfB6F96E",
       "symbol": "CBI",
       "name": "CentralBankInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1bF41575D71Ae7819C36AF72b4F2dCaf7A8C4244",
+      "symbol": "BONKER",
+      "name": "EtherBonker",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21601,
-    "minor": 21601,
+    "major": 21602,
+    "minor": 21602,
     "patch": 86
   }
 }
