@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3e0935C86968AfA88222dc3D77649c71d852E040",
-      "symbol": "ROPS",
-      "name": "ROPsProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4EA39C10be2a16Aed03331E031C4cf4CA711fa6d",
       "symbol": "THESIL",
       "name": "THESilmarillion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5395B685C7A9143e3D5a00EcE8176dDE573e1Ee3",
+      "symbol": "MYD",
+      "name": "MultiplyYield",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21678,
-    "minor": 21678,
+    "major": 21679,
+    "minor": 21679,
     "patch": 86
   }
 }
