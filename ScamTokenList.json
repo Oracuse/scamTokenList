@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x27Efdce9F2Ea528aB379fd95a2D9540Fed95AaE6",
-      "symbol": "LCAT",
-      "name": "LuckyCat",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x764654fD673f816007A211406C2F57C19B301d50",
       "symbol": "SILK",
       "name": "SilkToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x87b4153583f5f108bC77075fD8953E4c4e91ca15",
+      "symbol": "MINU",
+      "name": "MarleyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21723,
-    "minor": 21723,
+    "major": 21724,
+    "minor": 21724,
     "patch": 86
   }
 }
