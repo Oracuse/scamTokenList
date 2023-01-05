@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEE9B9779500FdBCeCb0184c6Fdf600bD5EB922d3",
-      "symbol": "ASTRO",
-      "name": "Astrochimp",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x41Ec8E7eEC110128B7d076D03f0E4Aba35232d22",
       "symbol": "BIZ",
       "name": "BizTrust",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf876DD01241531CB49A3B1f8560f0d927A02D091",
+      "symbol": "GYOZA",
+      "name": "Jiaozi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21653,
-    "minor": 21653,
+    "major": 21654,
+    "minor": 21654,
     "patch": 86
   }
 }
