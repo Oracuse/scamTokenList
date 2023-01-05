@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCdeF75fbeFdD3B1af5c249F6c3490e9F580c2F13",
-      "symbol": "DIE",
-      "name": "Death",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x304d3B5C0cFf5e7a1c0f47dba6A09653180F5a68",
       "symbol": "TLT",
       "name": "TWOLANDS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfC961Fc03b6122872B566E57265939689b710a67",
+      "symbol": "TBO",
+      "name": "TheBushido",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21600,
-    "minor": 21600,
+    "major": 21601,
+    "minor": 21601,
     "patch": 86
   }
 }
