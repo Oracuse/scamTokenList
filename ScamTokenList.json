@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0BD4724c5aE5711178860d86f38caD02d6CF232C",
-      "symbol": "KOK",
-      "name": "KingOfKings",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7f505227312f6D77CF2660ae0fEd19FBC9aE6c3c",
       "symbol": "PEPROT",
       "name": "PEPEPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Bf5D2b2D1e138495aEDB9c538F6b704F3De9723",
+      "symbol": "EC",
+      "name": "EthereumClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21642,
-    "minor": 21642,
+    "major": 21643,
+    "minor": 21643,
     "patch": 86
   }
 }
