@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC6400A212CFbD4ef962dbD5889130A25a8d44778",
-      "symbol": "VYPER",
-      "name": "VyperLang",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6eCb80D21AeF4D4AD494D6ccE68bC62d71343b58",
       "symbol": "MC",
       "name": "ManaClinic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39F1E1eb9dafC2802C4a8A5B04E8Bbd415c168AA",
+      "symbol": "POLAR",
+      "name": "PolarInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21708,
-    "minor": 21708,
+    "major": 21709,
+    "minor": 21709,
     "patch": 86
   }
 }
