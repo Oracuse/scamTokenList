@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2B2461509358b43b4c8E606BfaE9682D71927282",
-      "symbol": "VYPER",
-      "name": "VyperProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8Fa6b1660D6bc6aE80E9e88fAB797cCA027952E9",
       "symbol": "VYPER",
       "name": "Vyper",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00373a03d1b53CEd0E4E5bdcFCaD9B4D30137bA4",
+      "symbol": "SENKOKU",
+      "name": "SenkokuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21705,
-    "minor": 21705,
+    "major": 21706,
+    "minor": 21706,
     "patch": 86
   }
 }
