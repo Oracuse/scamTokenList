@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x866F14c41d4CF3Bc1A702094a7426Cf835e3d2f1",
-      "symbol": "ALIVE",
-      "name": "AliveProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x858CfB1a7D1faC4f0B5358d0E5499Cb0ddb6cEF1",
       "symbol": "VVV",
       "name": "VVV",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Ec1553884BBD0F1651C96995502AF8362bf1618",
+      "symbol": "OLDRABBIT",
+      "name": "OldRabbit",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21631,
-    "minor": 21631,
+    "major": 21632,
+    "minor": 21632,
     "patch": 86
   }
 }
