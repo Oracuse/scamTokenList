@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x94b4d6C082fCb3d818AaB09747Ac59CdCD4C0Ff4",
-      "symbol": "NOO",
-      "name": "Neuro",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x27Efdce9F2Ea528aB379fd95a2D9540Fed95AaE6",
       "symbol": "LCAT",
       "name": "LuckyCat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8939c3ebeD18d034D7D911097d13F1bBe852F47c",
+      "symbol": "CHILI",
+      "name": "ChiliInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21722,
-    "minor": 21722,
+    "major": 21723,
+    "minor": 21723,
     "patch": 86
   }
 }
