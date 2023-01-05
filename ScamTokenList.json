@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x820324F21D8fBE174b689743589fA20C1F30de1b",
-      "symbol": "ETHEALTHY",
-      "name": "ETHealthy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3B089fC1299Abc3A8342e1941275179F63F7354d",
       "symbol": "POI",
       "name": "PROOFOFINUS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFa066A1D44aa63F7852d6CbBb470AABd01fC775c",
+      "symbol": "MB",
+      "name": "MemeBonk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21604,
-    "minor": 21604,
+    "major": 21605,
+    "minor": 21605,
     "patch": 86
   }
 }
