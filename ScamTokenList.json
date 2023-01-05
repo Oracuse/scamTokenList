@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8088B3C05356Dfc43525B2a1118591f127d42195",
-      "symbol": "GSHIB",
-      "name": "THEGRIMSHIBA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2C807d574320Ba4e29e0b9E0C4637dF3cdFc9E50",
       "symbol": "YAMA",
       "name": "Yama",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B9cCa81DDf1edFA67C97cf3DB5050fa77EA6A60",
+      "symbol": "CRYPTOJUNGLE",
+      "name": "CryptoJungle",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21720,
-    "minor": 21720,
+    "major": 21721,
+    "minor": 21721,
     "patch": 86
   }
 }
