@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9e4052dc000093D92AD03Ed535f1a818546225Bf",
-      "symbol": "SECONDHALF",
-      "name": "SECONDHALF",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbf90bf4D241Ce20cf6534FaC1a21e9d32Ba6919d",
       "symbol": "RIG",
       "name": "TheRigProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44A10e2c2b8db29623bD8fAeE916281Fb9b90DDB",
+      "symbol": "SHIKOKU",
+      "name": "SHIKOKUINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21689,
-    "minor": 21689,
+    "major": 21690,
+    "minor": 21690,
     "patch": 86
   }
 }
