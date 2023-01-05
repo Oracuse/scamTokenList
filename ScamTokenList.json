@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcb569b4C1cDb7F12dF871765F547b3367d9CD67d",
-      "symbol": "BABYDIE",
-      "name": "BabyDieProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x80f988440b93F6Ed9c5F02c5120B480Ddc102501",
       "symbol": "DIE",
       "name": "DIEinChineseis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9868a8A22E19e522c0A72da5294fC95E8Ccb24A7",
+      "symbol": "TDAO",
+      "name": "TargetDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21623,
-    "minor": 21623,
+    "major": 21624,
+    "minor": 21624,
     "patch": 86
   }
 }
