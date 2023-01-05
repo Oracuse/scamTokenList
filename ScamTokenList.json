@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x51903b59b4458D2569e70610a4a47D57BDef395a",
-      "symbol": "THIS",
-      "name": "ThisProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8d849818f09Bc2f213fDa10B51DFa8A6b20ffd28",
       "symbol": "ECOX",
       "name": "EcoX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe911C317196A1271d231099E5E23c8CE4c92996A",
+      "symbol": "SPUNK",
+      "name": "SpunkRocket",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21587,
-    "minor": 21587,
+    "major": 21588,
+    "minor": 21588,
     "patch": 86
   }
 }
