@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xabBcb7d3c3a44160ed36e327e438b27B2a448b18",
-      "symbol": "BW",
-      "name": "BlueishWhale",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7Dbf965EBB5EA21541ca88a5b5A1CB1d462cF21b",
       "symbol": "LIVE",
       "name": "LiveProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA9Ff497F4BEfD90F62A7271c078637Dd2d9d89Ac",
+      "symbol": "THING",
+      "name": "TheCurrentThing",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21660,
-    "minor": 21660,
+    "major": 21661,
+    "minor": 21661,
     "patch": 86
   }
 }
