@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF51F525ad6292e1CCDBCa280C07c077e5eD92de4",
-      "symbol": "NEA",
-      "name": "NationalETHAssociat",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd6098D1eF15cE1395C620823d629C905C543Dcda",
       "symbol": "ETHEALTHY",
       "name": "ETHealthy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5fc9EaAd523A7A8384D61380a606c6fbD67e618d",
+      "symbol": "DOGEBONK",
+      "name": "DogeBonkInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21607,
-    "minor": 21607,
+    "major": 21608,
+    "minor": 21608,
     "patch": 86
   }
 }
