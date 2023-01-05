@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb46C0BB5c8416DBB39bfad6C8a3c7892C72aB79d",
-      "symbol": "LST",
-      "name": "TheListeners",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x866F14c41d4CF3Bc1A702094a7426Cf835e3d2f1",
       "symbol": "ALIVE",
       "name": "AliveProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9DA8647ecabae6dd5f88487E07d6E6aAFF42c9c5",
+      "symbol": "SHOUNEN",
+      "name": "Shounen",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21630,
-    "minor": 21630,
+    "major": 21631,
+    "minor": 21631,
     "patch": 86
   }
 }
