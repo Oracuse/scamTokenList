@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA9F10D42947aE932d765687A6b73c9d816574c9e",
-      "symbol": "DAJI",
-      "name": "DajiSaga",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0AE1B528fA341f0736687269a7fC01DA9B1F178C",
       "symbol": "CRY",
       "name": "ONION",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7bFE3Ee72163dc5F3bCd01C7Cae7b3350F524826",
+      "symbol": "HACHI",
+      "name": "HachikoInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21725,
-    "minor": 21725,
+    "major": 21726,
+    "minor": 21726,
     "patch": 86
   }
 }
