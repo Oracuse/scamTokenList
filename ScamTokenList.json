@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x593DFc5BBaB3DEa23d69439D178f7E075DA1B173",
-      "symbol": "VYPER",
-      "name": "VYPER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcD83d6E2d4EF3d53875887753f16a81882e9E9B7",
       "symbol": "IFP",
       "name": "INFINITYProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66780F59A8B95929D2266f2a63119836C3B46235",
+      "symbol": "DDOGE",
+      "name": "DiscoDoge",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21700,
-    "minor": 21700,
+    "major": 21701,
+    "minor": 21701,
     "patch": 86
   }
 }
