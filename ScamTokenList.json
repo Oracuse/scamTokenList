@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76F9932c234195553664A30E4608cFa9ec87d7d0",
-      "symbol": "S",
-      "name": "SuperSatoshi",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2Aeb103AaeeA3fE8a2b63B6753c917Fa54C6Eb20",
       "symbol": "VERITY",
       "name": "TheEternalVerities",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4bF0fF055cEB754DD356a382E631761a6C374BFD",
+      "symbol": "BITMOON",
+      "name": "BITMOON",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21580,
-    "minor": 21580,
+    "major": 21581,
+    "minor": 21581,
     "patch": 86
   }
 }
