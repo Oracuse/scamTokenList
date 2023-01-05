@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7f505227312f6D77CF2660ae0fEd19FBC9aE6c3c",
-      "symbol": "PEPROT",
-      "name": "PEPEPROTOCOL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA83280c62Bdd2C0e4143bE1BBb3Dfc2315647255",
       "symbol": "GT",
       "name": "GlitchToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5E63b2D957AEE5e773d8d493388D29319838Ff1b",
+      "symbol": "SHIBASUKE",
+      "name": "SHIBASUKE",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21643,
-    "minor": 21643,
+    "major": 21644,
+    "minor": 21644,
     "patch": 86
   }
 }
