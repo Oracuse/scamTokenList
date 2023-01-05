@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x80f988440b93F6Ed9c5F02c5120B480Ddc102501",
-      "symbol": "DIE",
-      "name": "DIEinChineseis",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9A122FFBBE6BFcE27c8b4d0Cb09588Bd66a9a3FA",
       "symbol": "LIVE",
       "name": "LIVE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb42e444AADC98EbD835d5661F10d48101100efcC",
+      "symbol": "HWAM",
+      "name": "HWAM",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21624,
-    "minor": 21624,
+    "major": 21625,
+    "minor": 21625,
     "patch": 86
   }
 }
