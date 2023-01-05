@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA206b42bC872C2bA4DdeE43d4496F881f40d1F5a",
-      "symbol": "DIE",
-      "name": "die",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0a1A66DE79682940fd4FAd7aB568f5634d543dB5",
       "symbol": "DIE",
       "name": "DIE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC7122d42D14f597Df5F04b1d5D605AD0F631c3b3",
+      "symbol": "DBONK",
+      "name": "DejitaruBonk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21618,
-    "minor": 21618,
+    "major": 21619,
+    "minor": 21619,
     "patch": 86
   }
 }
