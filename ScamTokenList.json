@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFA7EA76ad9c01C682C869CbBaf6Db59eA41Fa7A1",
-      "symbol": "VI",
-      "name": "VitalikInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb46C0BB5c8416DBB39bfad6C8a3c7892C72aB79d",
       "symbol": "LST",
       "name": "TheListeners",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd7aC0E29e64ba9fa1B84a8254d0a11862f5EF7f0",
+      "symbol": "AKITA",
+      "name": "AkitaInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21629,
-    "minor": 21629,
+    "major": 21630,
+    "minor": 21630,
     "patch": 86
   }
 }
