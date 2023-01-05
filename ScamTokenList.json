@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x416059A38d1610A68FC740dFcB7Ec6C1bfB6F96E",
-      "symbol": "CBI",
-      "name": "CentralBankInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Db79Bbb7A5089c4bB8Dd8c43eB6518f03832ad7",
       "symbol": "DB",
       "name": "DenisBeau",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1056F35120a54a1a4ECf474B44b6a099aa349Bc7",
+      "symbol": "KUDO",
+      "name": "Kumado",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21602,
-    "minor": 21602,
+    "major": 21603,
+    "minor": 21603,
     "patch": 86
   }
 }
