@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7dDD811e0AF73b4f354103C4541aFCACA1444fd6",
-      "symbol": "THE",
-      "name": "TheMarketplace",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x771f65010fCbC361CD79F2A912e07Eb7b9940D1c",
       "symbol": "A",
       "name": "A",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x142F8EAe43eD94e0716C41a3d64a6B35afcC1Ba9",
+      "symbol": "PACHINKO",
+      "name": "PachinkoMachine",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21669,
-    "minor": 21669,
+    "major": 21670,
+    "minor": 21670,
     "patch": 86
   }
 }
