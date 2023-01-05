@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDE31BB076e0107753F56fd5276bB3fAb117dbd2C",
-      "symbol": "THESIL",
-      "name": "THESilmarillion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3A3889fd90030EcaC5bF411A7b7Ed9B7C5Cc159A",
       "symbol": "THES",
       "name": "THEShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B8100bF7a828b3d419B8Aa652d9F75BFA83b39E",
+      "symbol": "FLOKE",
+      "name": "FlokeInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21674,
-    "minor": 21674,
+    "major": 21675,
+    "minor": 21675,
     "patch": 86
   }
 }
