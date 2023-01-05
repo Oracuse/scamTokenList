@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB267e29Ce513f21532aa143bdfC48703F14CE7b0",
-      "symbol": "XTY",
-      "name": "Extropy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFA7EA76ad9c01C682C869CbBaf6Db59eA41Fa7A1",
       "symbol": "VI",
       "name": "VitalikInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe2b116E8FA194420D091CDF19a40D4dAAB502fA0",
+      "symbol": "VOID",
+      "name": "TheEndless",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21628,
-    "minor": 21628,
+    "major": 21629,
+    "minor": 21629,
     "patch": 86
   }
 }
