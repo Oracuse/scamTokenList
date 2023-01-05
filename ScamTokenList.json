@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA31Ef6f5C3e1B93d96c36dF3E3Ef4f49E7Bb761a",
-      "symbol": "UTXO",
-      "name": "TheBitcoinProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x333EDAB6f9e30214BF17064dAB12E4bC625fB781",
       "symbol": "THEPOA",
       "name": "THEProofOfApes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5e2deb313BcB0B1D3Fd9b46d3A1329a086C210F",
+      "symbol": "BONKNOMICS",
+      "name": "Bonknomics",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21614,
-    "minor": 21614,
+    "major": 21615,
+    "minor": 21615,
     "patch": 86
   }
 }
