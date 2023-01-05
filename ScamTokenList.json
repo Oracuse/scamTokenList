@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7Da080D2EE5bfb8B8f305E7a00C854d4DFfb0579",
-      "symbol": "ET",
-      "name": "evolution",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x41d4A8e5d574776408102CaACcB888f9f5320AAB",
       "symbol": "THEX",
       "name": "TheXProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB68E3428CeAFB1460f32059030c1B519AEbbB931",
+      "symbol": "BITMOON",
+      "name": "BITMOON",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21598,
-    "minor": 21598,
+    "major": 21599,
+    "minor": 21599,
     "patch": 86
   }
 }
