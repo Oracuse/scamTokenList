@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x26cb96D767468Ea3b65116A42017886a0D217d8d",
-      "symbol": "ROPS",
-      "name": "RIGOpenProblems",
-      "decimals": 4,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfd7BfcAE0714093e6c27F60f0df6eA46CE08686f",
       "symbol": "RIG",
       "name": "THEROPs",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa3925c18B40Cee0c970F4ecEa896f674333E4B8D",
+      "symbol": "BETA",
+      "name": "BetaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21683,
-    "minor": 21683,
+    "major": 21684,
+    "minor": 21684,
     "patch": 86
   }
 }
