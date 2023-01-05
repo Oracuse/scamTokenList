@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC95ad451E6Cf93BC98A20aCCcE1F9555D34a05d5",
-      "symbol": "VYPER",
-      "name": "VYPER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2B2461509358b43b4c8E606BfaE9682D71927282",
       "symbol": "VYPER",
       "name": "VyperProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBE613D02793B595FBd03442FD728Ad2a3e55EA29",
+      "symbol": "KBT",
+      "name": "KingBonkToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21704,
-    "minor": 21704,
+    "major": 21705,
+    "minor": 21705,
     "patch": 86
   }
 }
