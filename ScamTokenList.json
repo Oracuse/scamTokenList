@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbd9e8546492a0a7801E8CBF1338CB779102eD074",
-      "symbol": "SST",
-      "name": "SWISSSHIELDTOKEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBAeA9c09821C50E6a87A4A1d4e82c89A6Af1ebb6",
       "symbol": "DEATH",
       "name": "TheMemeKiller",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2eC0Fedd9d7FF9b1Be56cC4647e0D87a80fB4734",
+      "symbol": "WINU",
+      "name": "WrappedInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21645,
-    "minor": 21645,
+    "major": 21646,
+    "minor": 21646,
     "patch": 86
   }
 }
