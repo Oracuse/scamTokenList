@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x161d01d7feA96f0bDEd01E855D84165384acd345",
-      "symbol": "SHUBOSHI",
-      "name": "SHUBOSHI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdd717234ea6B6291ecF7A5d751CeeFE5e06D8540",
       "symbol": "HOW",
       "name": "HOWProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDEab07913A17C56334778697AA31378fe964E57B",
+      "symbol": "OB",
+      "name": "OldBonk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21578,
-    "minor": 21578,
+    "major": 21579,
+    "minor": 21579,
     "patch": 86
   }
 }
