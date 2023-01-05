@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCa62BBE914184Ee879C88BE6a4C02BDF49b53176",
-      "symbol": "EL",
-      "name": "evolution",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB611159Ec740C76bA2683653A1A585c4421b2562",
       "symbol": "BOSCA",
       "name": "BabyMarosca",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7efc0bCc874C0D0a056E13C309Df4e92E850964d",
+      "symbol": "SHIBU",
+      "name": "Shibuchi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21593,
-    "minor": 21593,
+    "major": 21594,
+    "minor": 21594,
     "patch": 86
   }
 }
