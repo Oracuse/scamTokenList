@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x83238095e4945078d19cb9F3600659AD4D336DD4",
-      "symbol": "NAME",
-      "name": "NAME",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x722329D1C3BBd96851236F82E3A93ffE1AdB6359",
       "symbol": "KHAWARIZMI",
       "name": "AlKhawarizmi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5aFE7cc4a729Ef9f71FA59e3711d2ed0a7c29a87",
+      "symbol": "EARTH",
+      "name": "ElonsGrave",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21731,
-    "minor": 21731,
+    "major": 21732,
+    "minor": 21732,
     "patch": 86
   }
 }
