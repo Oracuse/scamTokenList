@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x41Ec8E7eEC110128B7d076D03f0E4Aba35232d22",
-      "symbol": "BIZ",
-      "name": "BizTrust",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x03034edd045b53D3b3Ea399BEA47A370F1bB84C5",
       "symbol": "SSI",
       "name": "SpookySeasonInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc9578Dd213D39f7aC418250327229E5bf55D872a",
+      "symbol": "OROCHI",
+      "name": "Orochi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21654,
-    "minor": 21654,
+    "major": 21655,
+    "minor": 21655,
     "patch": 86
   }
 }
