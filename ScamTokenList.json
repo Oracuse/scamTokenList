@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x764654fD673f816007A211406C2F57C19B301d50",
-      "symbol": "SILK",
-      "name": "SilkToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA9F10D42947aE932d765687A6b73c9d816574c9e",
       "symbol": "DAJI",
       "name": "DajiSaga",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd17Cc4421B4ab108979589360661DaD4e44F5859",
+      "symbol": "KUJI",
+      "name": "KujiraNoMure",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21724,
-    "minor": 21724,
+    "major": 21725,
+    "minor": 21725,
     "patch": 86
   }
 }
