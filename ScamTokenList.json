@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2871E197cf3A2666dF05BB98E7aCE522eE532e89",
-      "symbol": "DIE",
-      "name": "DIE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x51903b59b4458D2569e70610a4a47D57BDef395a",
       "symbol": "THIS",
       "name": "ThisProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x893975aA1B75F99BA18f0E92AD92285d94775046",
+      "symbol": "KABOSU",
+      "name": "KabosuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21586,
-    "minor": 21586,
+    "major": 21587,
+    "minor": 21587,
     "patch": 86
   }
 }
