@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x858CfB1a7D1faC4f0B5358d0E5499Cb0ddb6cEF1",
-      "symbol": "VVV",
-      "name": "VVV",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA99315B463244fF6Cd34b87C4BAb3F71A44B0DB9",
       "symbol": "DIE",
       "name": "BabyDieProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x934848b36337f3e5ca66ba088863b2E0aab21bf6",
+      "symbol": "GETH",
+      "name": "GoldEthereum",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21632,
-    "minor": 21632,
+    "major": 21633,
+    "minor": 21633,
     "patch": 86
   }
 }
