@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5e0deCCF2f698A064f790A2eD215D543c6003AA3",
-      "symbol": "SHIBZ",
-      "name": "Shibzen",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6B9dEd5621b05787eDEAb30D5a5Cc9FD42cB1471",
       "symbol": "LETTUCE",
       "name": "Lettuce",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1aF18FBE8b1c218C49B06C5FB3470E1D7411ceaD",
+      "symbol": "FEETLON",
+      "name": "OuchMyFeet",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21717,
-    "minor": 21717,
+    "major": 21718,
+    "minor": 21718,
     "patch": 86
   }
 }
