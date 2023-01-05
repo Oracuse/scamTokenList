@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6e044c67767a9D9B3C6Ba5Cb02CcBc9B7494016A",
-      "symbol": "DEATHPROTOCOL",
-      "name": "Death",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x97C2C141aC472702465b02560fD3a0F5EEaaA24b",
       "symbol": "QBANK",
       "name": "BankOfQatar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x417f57bCDE631f2f35289E8460806c653F49bd77",
+      "symbol": "BTCMOON",
+      "name": "BitcoinMoon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21657,
-    "minor": 21657,
+    "major": 21658,
+    "minor": 21658,
     "patch": 86
   }
 }
