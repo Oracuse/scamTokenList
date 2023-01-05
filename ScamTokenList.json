@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFab93da3ac913F3850880bEc39604988c6f1415d",
-      "symbol": "OS",
-      "name": "OnlyStables",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf67c60D2D3CBE6eBcC27e3b472B915A0d98d0097",
       "symbol": "ECI",
       "name": "EFLCupInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B0841Fcf86Fc4e5aAD202325e30b35a432fE61c",
+      "symbol": "KNOB",
+      "name": "BONKREVERSE",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21571,
-    "minor": 21571,
+    "major": 21572,
+    "minor": 21572,
     "patch": 86
   }
 }
