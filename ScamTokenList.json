@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA99315B463244fF6Cd34b87C4BAb3F71A44B0DB9",
-      "symbol": "DIE",
-      "name": "BabyDieProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA59B7053FaE037718E6e1AB8644B59F726Ec6e6E",
       "symbol": "BAT",
       "name": "BigApeToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e9B6828870cA580499DfdFF4aAdeD0090BD45EE",
+      "symbol": "KAI",
+      "name": "KaiKenInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21633,
-    "minor": 21633,
+    "major": 21634,
+    "minor": 21634,
     "patch": 86
   }
 }
