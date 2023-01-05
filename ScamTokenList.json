@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x01f6dFDC229e805B1c0B1D69065C5B168cD60723",
-      "symbol": "DIECN",
-      "name": "DIECN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB267e29Ce513f21532aa143bdfC48703F14CE7b0",
       "symbol": "XTY",
       "name": "Extropy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x698E08370417a9D119aBcB912371C0e3Ea39869f",
+      "symbol": "DOGEPOWS",
+      "name": "DogePows",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21627,
-    "minor": 21627,
+    "major": 21628,
+    "minor": 21628,
     "patch": 86
   }
 }
