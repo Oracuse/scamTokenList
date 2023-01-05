@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8d849818f09Bc2f213fDa10B51DFa8A6b20ffd28",
-      "symbol": "ECOX",
-      "name": "EcoX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x780e071a66aaB25f38c752E6F42ABd5c7bEf3Ab2",
       "symbol": "FH",
       "name": "FIFAHero",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82595Bf4076033b54E23e10e1d763B5E14e5984b",
+      "symbol": "GCY",
+      "name": "GangsterCity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21588,
-    "minor": 21588,
+    "major": 21589,
+    "minor": 21589,
     "patch": 86
   }
 }
