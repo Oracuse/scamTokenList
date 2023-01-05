@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA59B7053FaE037718E6e1AB8644B59F726Ec6e6E",
-      "symbol": "BAT",
-      "name": "BigApeToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb9c2F1497AAdaaa3610F5D4D510cc5d2FD574B98",
       "symbol": "DIEFLOKI",
       "name": "DieFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1f6Df85c96cAeF0C2C8eD0bCC67e9F17C41B1A0B",
+      "symbol": "CINU",
+      "name": "CheemsInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21634,
-    "minor": 21634,
+    "major": 21635,
+    "minor": 21635,
     "patch": 86
   }
 }
