@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x09b3D85a6260110644bD25bF9a592f031f557155",
-      "symbol": "BAKHMUT",
-      "name": "BakhmutProtocol",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8088B3C05356Dfc43525B2a1118591f127d42195",
       "symbol": "GSHIB",
       "name": "THEGRIMSHIBA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDBa6a6b1e66eA60823a202612FE7a03660f37C53",
+      "symbol": "FCKCSN",
+      "name": "FvckCensorship",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21719,
-    "minor": 21719,
+    "major": 21720,
+    "minor": 21720,
     "patch": 86
   }
 }
