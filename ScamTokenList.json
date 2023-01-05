@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x41d4A8e5d574776408102CaACcB888f9f5320AAB",
-      "symbol": "THEX",
-      "name": "TheXProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCdeF75fbeFdD3B1af5c249F6c3490e9F580c2F13",
       "symbol": "DIE",
       "name": "Death",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x80E6eDC2d4D4abd051b117D9FD4F1db304270b76",
+      "symbol": "BABYALTCOIN",
+      "name": "BABYALTCOININU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21599,
-    "minor": 21599,
+    "major": 21600,
+    "minor": 21600,
     "patch": 86
   }
 }
