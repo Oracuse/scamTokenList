@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB3eFf655E1113FD510edF7eD94BE2B0eE217cd3d",
-      "symbol": "BOX",
-      "name": "THEBOX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xabBcb7d3c3a44160ed36e327e438b27B2a448b18",
       "symbol": "BW",
       "name": "BlueishWhale",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb283dC495437CE646dC8fb1d8967152A72B8789a",
+      "symbol": "BCS",
+      "name": "BlockChaining",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21659,
-    "minor": 21659,
+    "major": 21660,
+    "minor": 21660,
     "patch": 86
   }
 }
