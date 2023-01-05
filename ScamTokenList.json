@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6B9dEd5621b05787eDEAb30D5a5Cc9FD42cB1471",
-      "symbol": "LETTUCE",
-      "name": "Lettuce",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x09b3D85a6260110644bD25bF9a592f031f557155",
       "symbol": "BAKHMUT",
       "name": "BakhmutProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA9998a79215f110D925BD7472b9cA252e8B919c4",
+      "symbol": "KINE",
+      "name": "KiwiNeko",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21718,
-    "minor": 21718,
+    "major": 21719,
+    "minor": 21719,
     "patch": 86
   }
 }
