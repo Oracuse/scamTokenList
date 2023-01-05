@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf67c60D2D3CBE6eBcC27e3b472B915A0d98d0097",
-      "symbol": "ECI",
-      "name": "EFLCupInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd000075F9F6b37609a7bcaBEb472171E2078DF7f",
       "symbol": "BASEBALL",
       "name": "WORLDSERIES",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc431BB34d791f012E83146e2119DCa597aB088de",
+      "symbol": "CHZC",
+      "name": "Chiliz",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21572,
-    "minor": 21572,
+    "major": 21573,
+    "minor": 21573,
     "patch": 86
   }
 }
