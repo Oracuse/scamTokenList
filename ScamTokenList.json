@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe09A32e38181a07145373AB5e0F4AD03433C147a",
-      "symbol": "CARDS",
-      "name": "Tarot",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4F29aD0aeCE2186B092078e726A11750Db9058cB",
       "symbol": "VITALIKCA",
       "name": "CoinVotingGovernanc",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEe31Ba9Edd6719f5fEbC62eF49F368A26fb5F0D6",
+      "symbol": "SANSHU",
+      "name": "SanshuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21691,
-    "minor": 21691,
+    "major": 21692,
+    "minor": 21692,
     "patch": 86
   }
 }
