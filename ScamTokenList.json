@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF2D19F5BfFCFb01F0684ec97455036b7137DC70A",
-      "symbol": "BOX",
-      "name": "THEBOX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEE9B9779500FdBCeCb0184c6Fdf600bD5EB922d3",
       "symbol": "ASTRO",
       "name": "Astrochimp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89D8176EdF6372369f3Af345444cE7eBd56a77e8",
+      "symbol": "POD",
+      "name": "ProofOfDonk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21652,
-    "minor": 21652,
+    "major": 21653,
+    "minor": 21653,
     "patch": 86
   }
 }
