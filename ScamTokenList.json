@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x813390c02279E4bd6Ee392A34Fb634e4ff7ED883",
-      "symbol": "YINU",
-      "name": "YagiInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x12A26fE37406a55FD688B16FcBc0C4B59ef85EfC",
       "symbol": "AWAKE",
       "name": "LucidDream",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2DA30ccdA55239351d3131C869483881F27e80A3",
+      "symbol": "WGM",
+      "name": "WagmiChain",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21663,
-    "minor": 21663,
+    "major": 21664,
+    "minor": 21664,
     "patch": 86
   }
 }
