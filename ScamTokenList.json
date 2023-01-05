@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbf90bf4D241Ce20cf6534FaC1a21e9d32Ba6919d",
-      "symbol": "RIG",
-      "name": "TheRigProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe09A32e38181a07145373AB5e0F4AD03433C147a",
       "symbol": "CARDS",
       "name": "Tarot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f0BB238c23E02D51bb9cd5f7631AD86394c84A8",
+      "symbol": "CHINU",
+      "name": "ChindoINU",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21690,
-    "minor": 21690,
+    "major": 21691,
+    "minor": 21691,
     "patch": 86
   }
 }
