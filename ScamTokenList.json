@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8A9cd794EE3b4E5fc14D60C49A65c706F0dFCCDD",
-      "symbol": "RADIOREUM",
-      "name": "Radioreum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x16c70a72Ee67a20E6A1140BD492d06794c4d6cf1",
       "symbol": "JIAO",
       "name": "JIAOANIMAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA43F6008d2CDE69e1EbDFB4D0143091551a19a68",
+      "symbol": "DOGU",
+      "name": "Dogebosu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21595,
-    "minor": 21595,
+    "major": 21596,
+    "minor": 21596,
     "patch": 86
   }
 }
