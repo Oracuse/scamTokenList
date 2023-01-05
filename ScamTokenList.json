@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8A00aD53F470d92C986F1907ea70a464DFbf447f",
-      "symbol": "DEGOV",
-      "name": "DeGov",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9e4052dc000093D92AD03Ed535f1a818546225Bf",
       "symbol": "SECONDHALF",
       "name": "SECONDHALF",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x535c29b19E67fA71a173b5E34Dd70790d58943d2",
+      "symbol": "GAMED",
+      "name": "GameDevision",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21688,
-    "minor": 21688,
+    "major": 21689,
+    "minor": 21689,
     "patch": 86
   }
 }
