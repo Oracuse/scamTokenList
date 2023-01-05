@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x72bB47f03F82e70FA1d6a3B56b55d68a3019B87C",
-      "symbol": "BDIE",
-      "name": "BabyDieProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x01f6dFDC229e805B1c0B1D69065C5B168cD60723",
       "symbol": "DIECN",
       "name": "DIECN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB9208167C40f708a7a96385425dCe26FAc3e345B",
+      "symbol": "OLDBONK",
+      "name": "OldBonkInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21626,
-    "minor": 21626,
+    "major": 21627,
+    "minor": 21627,
     "patch": 86
   }
 }
