@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6f0084D601972c815B8a675CFECE2598AbE076a4",
-      "symbol": "BTS101",
-      "name": "BangtanSonyeondan",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb6FD1beB18B6d02b90FeD43258895f9b959ec64B",
       "symbol": "FALCON9",
       "name": "Falcon9",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb71610403F211b540fb4977b63B60FB0af214054",
+      "symbol": "SAMOYED",
+      "name": "Samoyed",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21648,
-    "minor": 21648,
+    "major": 21649,
+    "minor": 21649,
     "patch": 86
   }
 }
