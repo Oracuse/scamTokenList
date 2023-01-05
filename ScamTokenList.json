@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbDa265A5E02810ea56450cD865e38B72f7a511AA",
-      "symbol": "GOAL",
-      "name": "GoalInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5304F2265B01fd7265Ed22a6Cd4F14B9B7669797",
       "symbol": "WCS",
       "name": "WorldCupShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89E75753093dfD69b823E30547c5328AA697D07B",
+      "symbol": "RONIN",
+      "name": "RONININU",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21671,
-    "minor": 21671,
+    "major": 21672,
+    "minor": 21672,
     "patch": 86
   }
 }
