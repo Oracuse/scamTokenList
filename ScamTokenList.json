@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2Aeb103AaeeA3fE8a2b63B6753c917Fa54C6Eb20",
-      "symbol": "VERITY",
-      "name": "TheEternalVerities",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAe86be89Cc8B6146085081A29e96144BE1345342",
       "symbol": "DOGENZ",
       "name": "DOGENZENJI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66b2D091cbF9274B0Ed4c0Ab7542fCAEc9F87B38",
+      "symbol": "GCY",
+      "name": "GangsterCity",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21581,
-    "minor": 21581,
+    "major": 21582,
+    "minor": 21582,
     "patch": 86
   }
 }
