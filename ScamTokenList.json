@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc675fDC8cE17BA02d5B994A8D08a4EE10B6a2123",
-      "symbol": "GSHIB",
-      "name": "THEGRIMSHIBA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA19f23053C123aC50D7fF12cc16cF4DF0abED0B1",
       "symbol": "TWEET",
       "name": "TwitterProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7206b248A4500f379873Ef2d617F41De268Db91",
+      "symbol": "WOOF",
+      "name": "WoofInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21729,
-    "minor": 21729,
+    "major": 21730,
+    "minor": 21730,
     "patch": 86
   }
 }
