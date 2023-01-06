@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8D17167C5E64f16E6495c863d086330E0F01c68e",
-      "symbol": "FULLSCORE",
-      "name": "FullScore",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x257369D4d4Ff68a688e7F9C42eeCE1a7CCF0926A",
       "symbol": "TEST",
       "name": "test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04439c5844cf06c77370a396e92a6db7c62c8D5A",
+      "symbol": "MUDI",
+      "name": "MudiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21771,
-    "minor": 21771,
+    "major": 21772,
+    "minor": 21772,
     "patch": 86
   }
 }
