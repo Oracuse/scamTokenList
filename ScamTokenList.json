@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x27044d6946EfaC916b61259bE7ec6aa8B03bDBd3",
-      "symbol": "TDIE",
-      "name": "TyrantDie",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe0650D1745d6857b1F03B9b420A8Ad7912386712",
       "symbol": "TSUKI",
       "name": "TsukiRyujin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8F4dD3Beb866fB84e53f5EcDc2fDF62805c8b5BB",
+      "symbol": "RKT",
+      "name": "RocketArt",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21878,
-    "minor": 21878,
+    "major": 21879,
+    "minor": 21879,
     "patch": 86
   }
 }
