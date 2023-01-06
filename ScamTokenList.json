@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4c1E8b4AedbBF3823D952704dDecBABf8363301D",
-      "symbol": "LIMITED",
-      "name": "TheLimitedSupply",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x430D43476A98Bc4b17e9b43A8c1f6e9986A4461a",
       "symbol": "MEV",
       "name": "TheMev",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x719951cdD892133a9F3f7FCab5b82E95AbA95C38",
+      "symbol": "NYAN",
+      "name": "NyanCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21777,
-    "minor": 21777,
+    "major": 21778,
+    "minor": 21778,
     "patch": 86
   }
 }
