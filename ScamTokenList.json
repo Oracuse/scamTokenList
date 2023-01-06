@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x014F515BADD9360874B3914d3b1c8c82A47eF998",
-      "symbol": "NOTHING",
-      "name": "NothingStable",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0b17523Aed6b8Cf05CF6A1CaE0dB11aa69E39d23",
       "symbol": "DOD",
       "name": "DoorDie",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5768809D7c8dBF0406a962a720173618b456A8b2",
+      "symbol": "SOLINU",
+      "name": "SolanaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21851,
-    "minor": 21851,
+    "major": 21852,
+    "minor": 21852,
     "patch": 86
   }
 }
