@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7602AA374D26129D9E643c2bcfb6A96f60D7a525",
-      "symbol": "VITALIK",
-      "name": "TheKingofMeme",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x003792AF1b1237DfcD99Ae8C7033d67e095281fD",
       "symbol": "LUCINU",
       "name": "LuciferInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47a61606e93f2799f56D9e57e075A3b74b069f01",
+      "symbol": "TN",
+      "name": "TestNet",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21885,
-    "minor": 21885,
+    "major": 21886,
+    "minor": 21886,
     "patch": 86
   }
 }
