@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x95343EEB53eF72CF2b448CCFD7A4b75B7dac61D1",
-      "symbol": "CASPER",
-      "name": "Casper",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x399771a19E06096295a5621989397F6Fa4Ab8e62",
       "symbol": "CBURGER",
       "name": "CryptoBurger",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdE1C6d3719E42A31aEBe7f6a7DC9B25Faa1C93a4",
+      "symbol": "U",
+      "name": "U",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21854,
-    "minor": 21854,
+    "major": 21855,
+    "minor": 21855,
     "patch": 86
   }
 }
