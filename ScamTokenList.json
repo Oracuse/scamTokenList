@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7323e7d658d166d8170dfaeC7a676Fe44F6B1480",
-      "symbol": "THEBLOG",
-      "name": "ReadTheBlog",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4faa6db2301DA258238AC7D542191b532a0C70ac",
       "symbol": "ECO",
       "name": "Eco",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41915374E304052E5b98F67A0828a959cD28AF93",
+      "symbol": "GATOR",
+      "name": "Maligator",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21862,
-    "minor": 21862,
+    "major": 21863,
+    "minor": 21863,
     "patch": 86
   }
 }
