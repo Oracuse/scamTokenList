@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC108cF8331Ee44269d2712e872C4D77C8bC9624b",
-      "symbol": "KOG",
-      "name": "KingofGems",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB51F32881c89DF2f58d68B5CF0b27086482ecB31",
       "symbol": "ASECT",
       "name": "ANGLESECT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaE7d805536e53387D2c1187132Dff8020315f3B0",
+      "symbol": "100INU",
+      "name": "OneHundredInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21741,
-    "minor": 21741,
+    "major": 21742,
+    "minor": 21742,
     "patch": 86
   }
 }
