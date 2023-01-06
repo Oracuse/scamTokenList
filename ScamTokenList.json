@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x687c7e665D3B32999c294C7dB9291dea755b5Fba",
-      "symbol": "NOW",
-      "name": "NowIsAll",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0933841C3b2611CE39D21A3ee805A0A5bDA2BD59",
       "symbol": "MYSTERY",
       "name": "Mystery",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbfD67451A1141585BC339C384646f34c5CA5b96A",
+      "symbol": "CBT",
+      "name": "CockBallTorture",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21744,
-    "minor": 21744,
+    "major": 21745,
+    "minor": 21745,
     "patch": 86
   }
 }
