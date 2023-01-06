@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD6c075B4200eB69859c9d3E4A416d5FE38aad28f",
-      "symbol": "RETWEET",
-      "name": "Retweet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9f6008965A354AF8D4763DFd4CF10Dce084E28Fb",
       "symbol": "VSTABLE",
       "name": "VeryStable",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA8512365eF7B6a57cB16d6BA6a3963678b3d572a",
+      "symbol": "CPTCFT",
+      "name": "CryptoCraft",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21832,
-    "minor": 21832,
+    "major": 21833,
+    "minor": 21833,
     "patch": 86
   }
 }
