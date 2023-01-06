@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4faa6db2301DA258238AC7D542191b532a0C70ac",
-      "symbol": "ECO",
-      "name": "Eco",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3F367a7cFBAae418A0362d33b3f45312e23D9bA2",
       "symbol": "UNSTABLE",
       "name": "UnstableCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7fD8d0ecaE40D74A75b0F9bDcD3F1be1AEDFA8ae",
+      "symbol": "GOMEN",
+      "name": "GOMENINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21863,
-    "minor": 21863,
+    "major": 21864,
+    "minor": 21864,
     "patch": 86
   }
 }
