@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x553Ff6E6ABc57Da3e9BbA23c38D1DA114eB4d562",
-      "symbol": "DIE",
-      "name": "dieprotocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7323e7d658d166d8170dfaeC7a676Fe44F6B1480",
       "symbol": "THEBLOG",
       "name": "ReadTheBlog",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8a9fA71704C7e160fb727B3ac25794eE5700e3AA",
+      "symbol": "REFI",
+      "name": "ReimagineFinance",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21861,
-    "minor": 21861,
+    "major": 21862,
+    "minor": 21862,
     "patch": 86
   }
 }
