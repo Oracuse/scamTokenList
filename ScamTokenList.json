@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62E939A92bE7d80CE12C01B5bcE5BfcF83D72542",
-      "symbol": "CDIE",
-      "name": "NewCommunityDieProt",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC108cF8331Ee44269d2712e872C4D77C8bC9624b",
       "symbol": "KOG",
       "name": "KingofGems",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x10b60506ed55A5c6083b732a92A2da745Db13305",
+      "symbol": "MAZOKU",
+      "name": "Mazoku",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21740,
-    "minor": 21740,
+    "major": 21741,
+    "minor": 21741,
     "patch": 86
   }
 }
