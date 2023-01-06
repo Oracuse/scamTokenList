@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDC2966cBd24AC73f42610e768b8D223BB2810Db3",
-      "symbol": "TRAUMA",
-      "name": "GenerationalTrauma",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x71c6C5461759b9aC08DF95E344C446BB5C9F0f6C",
       "symbol": "7SD",
       "name": "7SidedDIE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7ED29C36b23f7703A3C70458225E865d5E33e10f",
+      "symbol": "DPOWS",
+      "name": "DogePows",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21789,
-    "minor": 21789,
+    "major": 21790,
+    "minor": 21790,
     "patch": 86
   }
 }
