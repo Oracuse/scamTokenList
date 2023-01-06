@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x801D9D052969560a0859da79bE879de1903bc361",
-      "symbol": "DIE20",
-      "name": "ProofofDie",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3E1693d99140f19448Ec6286d03EBab9368efd5F",
       "symbol": "THESHIB",
       "name": "THESHIBAPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B7ab4f6c6d424b6A350761a68600Bd98aE128b2",
+      "symbol": "HOKK2023",
+      "name": "HokkaidoInu2023",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21829,
-    "minor": 21829,
+    "major": 21830,
+    "minor": 21830,
     "patch": 86
   }
 }
