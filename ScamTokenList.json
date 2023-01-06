@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1a4f4d457786314668bd5dE0e49F89Fe6E2A4802",
-      "symbol": "TA",
-      "name": "THEApe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf72Cb6120BaFfAB1CA4dE3e70C083F5b39011657",
       "symbol": "RMOON",
       "name": "RandomMoonshot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x534Ef03571af25Cc430b3aFd14b8f8d69b7C1480",
+      "symbol": "NYAN",
+      "name": "NyanCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21783,
-    "minor": 21783,
+    "major": 21784,
+    "minor": 21784,
     "patch": 86
   }
 }
