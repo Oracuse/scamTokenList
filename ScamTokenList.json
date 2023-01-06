@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB7763114d5DC1CA303c92E46BffE0079B1900350",
-      "symbol": "ROPS",
-      "name": "RIGOpenProblems",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCA46bA57CFEa0Cd17c9B1AcCa0C1c83FDb9F0Ab7",
       "symbol": "STABLE",
       "name": "NothingisStable",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE60183294cc07bff45C84aAa1b096a231FCe2b7E",
+      "symbol": "NEUB",
+      "name": "NeuralBlock",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21811,
-    "minor": 21811,
+    "major": 21812,
+    "minor": 21812,
     "patch": 86
   }
 }
