@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x74Edf699F45c2F35474517d2A8fd226ca41Ab4b7",
-      "symbol": "FSCHLONG",
-      "name": "FRANKENSCHLONG",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x64403C5F2f2dA959fBdd9d297511ef57eb7C68e9",
       "symbol": "SAMLE",
       "name": "TheDevilsWish",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7401887B43d50820cAD3Aee04DfE410659ebe04e",
+      "symbol": "NYAN",
+      "name": "NyanCat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21763,
-    "minor": 21763,
+    "major": 21764,
+    "minor": 21764,
     "patch": 86
   }
 }
