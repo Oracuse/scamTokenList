@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB2C57d9e82499fd4CeCE6577c46822BbCa55949F",
-      "symbol": "SPI",
-      "name": "SPINEEINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x27044d6946EfaC916b61259bE7ec6aa8B03bDBd3",
       "symbol": "TDIE",
       "name": "TyrantDie",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x172AEa6c17a7e07F44729E7847252bf80d61F00E",
+      "symbol": "GRV",
+      "name": "GroveToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21877,
-    "minor": 21877,
+    "major": 21878,
+    "minor": 21878,
     "patch": 86
   }
 }
