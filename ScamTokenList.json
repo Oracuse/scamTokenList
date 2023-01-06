@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x70f22356Df7978FaEEACa3C99FFd4bE2b6259067",
-      "symbol": "DIE",
-      "name": "dieprotocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4EE5a957C4F764929C850b8aCb853BA58D28304C",
       "symbol": "LIVE",
       "name": "LIVE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a8e9ecBeA2D28615A1224Aeb13D00869706cDB7",
+      "symbol": "DC",
+      "name": "OldDogeCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21823,
-    "minor": 21823,
+    "major": 21824,
+    "minor": 21824,
     "patch": 86
   }
 }
