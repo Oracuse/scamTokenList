@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x448EF301F412Ba11C158560869da94821D9FdACF",
-      "symbol": "THAT",
-      "name": "That",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xad10e2FC195BB46152B7F778478207B3FDb532e9",
       "symbol": "SEZU",
       "name": "Sezu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdFa7F1fA4bFFd5314085e6B9a3f4801D2AbA3A65",
+      "symbol": "NEKO",
+      "name": "Neko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21775,
-    "minor": 21775,
+    "major": 21776,
+    "minor": 21776,
     "patch": 86
   }
 }
