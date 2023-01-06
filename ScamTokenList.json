@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1787548e9954f02877085E18Ae55407fC92C6EF9",
-      "symbol": "X",
-      "name": "X",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6Ef6610d24593805144d73b13d4405E00A4E4aC7",
       "symbol": "DIE",
       "name": "DieProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x05EFF0645E0Fe17A7B2AF5D65C07a1fC0B5E2383",
+      "symbol": "SBONK",
+      "name": "SolanaBonkInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21846,
-    "minor": 21846,
+    "major": 21847,
+    "minor": 21847,
     "patch": 86
   }
 }
