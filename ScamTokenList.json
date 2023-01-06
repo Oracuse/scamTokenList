@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9f6008965A354AF8D4763DFd4CF10Dce084E28Fb",
-      "symbol": "VSTABLE",
-      "name": "VeryStable",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf648894Bc56872Ec09ce7F4689efab744c01f2ee",
       "symbol": "PULSE",
       "name": "PulseNet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd447c7DD153DBc7612b96e0CbF8491DBd8BC72Cc",
+      "symbol": "ROS",
+      "name": "THERETURNOFSHINTAMA",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21833,
-    "minor": 21833,
+    "major": 21834,
+    "minor": 21834,
     "patch": 86
   }
 }
