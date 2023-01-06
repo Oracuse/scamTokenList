@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93cC92a7a421a94676a90532b4e9553D52F184DC",
-      "symbol": "0",
-      "name": "ZEROFEESPROTOCOL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x14549594538Af3e6009B4bAE533d5a7e6FF9dFAa",
       "symbol": "POD",
       "name": "TheProofOfDeathProt",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2729F7cFd15f67130f1659d346e930b43B40c7Dd",
+      "symbol": "RIKU",
+      "name": "RikuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21836,
-    "minor": 21836,
+    "major": 21837,
+    "minor": 21837,
     "patch": 86
   }
 }
