@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x67D432bEE2Bc8b724F9745DCF8b2a0f216Dc62Cd",
-      "symbol": "SOULBOUND",
-      "name": "TheGovernance",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1DA0F1f5472905aBc6dAE99A1384676c4052e021",
       "symbol": "BLACKADAM",
       "name": "BlackAdam",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8D8F76F6cBedDcaee669c071CaBD0D150D54Bcb7",
+      "symbol": "HUOBI",
+      "name": "HuobiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21882,
-    "minor": 21882,
+    "major": 21883,
+    "minor": 21883,
     "patch": 86
   }
 }
