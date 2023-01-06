@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7C4D62d46b94914916A9E341B5B61Abd97C7FAA9",
-      "symbol": "NOTHING",
-      "name": "Nothing",
-      "decimals": 4,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4EC0e007f514904267FEF8E9291FEEc2a9839964",
       "symbol": "OSFE",
       "name": "OSFEdition",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE96f44BE811F395ECF5d848E5Ce739698C6eD805",
+      "symbol": "ETC2023",
+      "name": "EthereumClassic2023",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21798,
-    "minor": 21798,
+    "major": 21799,
+    "minor": 21799,
     "patch": 86
   }
 }
