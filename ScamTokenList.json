@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf72Cb6120BaFfAB1CA4dE3e70C083F5b39011657",
-      "symbol": "RMOON",
-      "name": "RandomMoonshot",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x303d027f67a04368aAEa27E59A208A5050791C65",
       "symbol": "THE7S",
       "name": "THE7S",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC4F8B11C6120404802a3cf7606d75BB9361cA0dA",
+      "symbol": "NYAN",
+      "name": "NyanCat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21784,
-    "minor": 21784,
+    "major": 21785,
+    "minor": 21785,
     "patch": 86
   }
 }
