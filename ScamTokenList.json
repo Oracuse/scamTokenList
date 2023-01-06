@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc3efEBeB5915218268AC9cE497B6A71D9E9F8916",
-      "symbol": "Z",
-      "name": "ZProtcol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa0B4B3738b50380dE408F7D49690C7Ee6715E555",
       "symbol": "TRAUMA",
       "name": "Trauma",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x13bb54A852a53C4259f0F0c3f08A243AB9e4b21B",
+      "symbol": "SHIB2023",
+      "name": "SHIBAINU2023",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21787,
-    "minor": 21787,
+    "major": 21788,
+    "minor": 21788,
     "patch": 86
   }
 }
