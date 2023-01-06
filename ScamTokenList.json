@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa0B4B3738b50380dE408F7D49690C7Ee6715E555",
-      "symbol": "TRAUMA",
-      "name": "Trauma",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDC2966cBd24AC73f42610e768b8D223BB2810Db3",
       "symbol": "TRAUMA",
       "name": "GenerationalTrauma",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Ce245E908Bd4Eae82101FC7951cdaDEbd4453Ae",
+      "symbol": "NEKOIN",
+      "name": "NEKOCOIN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21788,
-    "minor": 21788,
+    "major": 21789,
+    "minor": 21789,
     "patch": 86
   }
 }
