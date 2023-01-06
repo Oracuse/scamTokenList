@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc7F4643C47Ea842cdb397bfca0bb14D6B3F728De",
-      "symbol": "PEPE",
-      "name": "LiquidPepe",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd80Da72d8b5784e7154bDeA98cB0Da6546827D51",
       "symbol": "FUTURE",
       "name": "RyoshiProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa9778a6faC14923085fdDD1661DA5c22B2CeF460",
+      "symbol": "FLOK23",
+      "name": "FLOKI2023",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21871,
-    "minor": 21871,
+    "major": 21872,
+    "minor": 21872,
     "patch": 86
   }
 }
