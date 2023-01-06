@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x46a67219abA6D1367CafcA3259331D35F588120a",
-      "symbol": "UNSTABLEINU",
-      "name": "UnstableInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x67D432bEE2Bc8b724F9745DCF8b2a0f216Dc62Cd",
       "symbol": "SOULBOUND",
       "name": "TheGovernance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe340Ec5a9a74d3E039C9a9cAd876dBC70fC2a9C6",
+      "symbol": "SFM23",
+      "name": "SAFEMOON2023",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21881,
-    "minor": 21881,
+    "major": 21882,
+    "minor": 21882,
     "patch": 86
   }
 }
