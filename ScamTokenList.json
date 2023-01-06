@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x64a6A8b5423dc4eD574E67a5Fed82438Ed7CC1A2",
-      "symbol": "MSI",
-      "name": "MorganShibaInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE2b3AD80513fE0551dd1e521AC727c02C93Ae36A",
       "symbol": "BAPT",
       "name": "BabyAptos",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD93CdfE8B4C75070b3ee5379fc89b7DA6f902fD4",
+      "symbol": "DREVER",
+      "name": "Drever",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21844,
-    "minor": 21844,
+    "major": 21845,
+    "minor": 21845,
     "patch": 86
   }
 }
