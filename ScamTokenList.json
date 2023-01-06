@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9A02068a1125181C5823300B11c068E25E95c4c4",
-      "symbol": "BURNX",
-      "name": "ConditionalBurn",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x67b982d33c650195f0e491363CB9c421E86265B3",
       "symbol": "YANTRA20",
       "name": "YANTRA20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA4069FF76F178465b2De16F3c7597cC06Ec8191B",
+      "symbol": "E",
+      "name": "E",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21859,
-    "minor": 21859,
+    "major": 21860,
+    "minor": 21860,
     "patch": 86
   }
 }
