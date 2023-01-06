@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd52ab3083DD5035cBe7bEB100b85598f1D2b0062",
-      "symbol": "AFJ",
-      "name": "AprilFoolsJoke",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD6c075B4200eB69859c9d3E4A416d5FE38aad28f",
       "symbol": "RETWEET",
       "name": "Retweet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x996aA980B6759D7A011599B09014cE0ADa409aD8",
+      "symbol": "SBONK",
+      "name": "SnoopBonk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21831,
-    "minor": 21831,
+    "major": 21832,
+    "minor": 21832,
     "patch": 86
   }
 }
