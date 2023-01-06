@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe11e3349d4c0CA8C03B641A70e148f49255F968A",
-      "symbol": "AFJ",
-      "name": "AprilFoolsJoke",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB54C88081910EA13E78e9e6544Ea43Ba4d2De8c3",
       "symbol": "JOKE",
       "name": "JokeProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB88a75346D7b9fC159af767cf3EF7B5cFDC11D91",
+      "symbol": "ASWAP",
+      "name": "AllSwap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21891,
-    "minor": 21891,
+    "major": 21892,
+    "minor": 21892,
     "patch": 86
   }
 }
