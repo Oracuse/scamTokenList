@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x257369D4d4Ff68a688e7F9C42eeCE1a7CCF0926A",
-      "symbol": "TEST",
-      "name": "test",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0A16CeC3c772Db60C493Be67A1Da30AdE035c075",
       "symbol": "REAPER",
       "name": "TheGrimreaper",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69D16e1D0D5250baC9c120BE461183BcFcb87226",
+      "symbol": "NYAN",
+      "name": "NyanCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21772,
-    "minor": 21772,
+    "major": 21773,
+    "minor": 21773,
     "patch": 86
   }
 }
