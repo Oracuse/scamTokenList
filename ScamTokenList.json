@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3f056fd18398Aa08426F8ce0e3F3758E13019Cc5",
-      "symbol": "OS",
-      "name": "OnlyStables",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDdb2b72F910e33Ab7790dC0D843A2B8a3c86F7c0",
       "symbol": "NSPROTOCOL",
       "name": "NothingStableProtoc",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3E38da94b00Af0AaAF0fB46C61fE58e8d504177B",
+      "symbol": "FIRE2023",
+      "name": "Bonfire2023",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21802,
-    "minor": 21802,
+    "major": 21803,
+    "minor": 21803,
     "patch": 86
   }
 }
