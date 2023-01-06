@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD16B92655A5d6B3bB9197fBA995F81D736E8F7B4",
-      "symbol": "J4F",
-      "name": "JustForFun",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEF6dbeCd2A7766CED477ebabe0e96B1eeC8dC6b8",
       "symbol": "NOWAY",
       "name": "NoWay",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC2Fb5447bA0fbbf109f6D3D2e948Ca6a7C2971fa",
+      "symbol": "NYAN",
+      "name": "NyanCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21781,
-    "minor": 21781,
+    "major": 21782,
+    "minor": 21782,
     "patch": 86
   }
 }
