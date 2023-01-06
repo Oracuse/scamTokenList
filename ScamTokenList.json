@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7F388f89502f6dd0b1DffF658194c3c1Cc48d41e",
-      "symbol": "MIZU",
-      "name": "Mizumaki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBfEd9259f46D8415b6E6456C3B2aA0078BFb2B55",
       "symbol": "YAETSUNE",
       "name": "Yaetsune",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7bc51a18AE6FfBc41adA3608602Ac75660Fe27Eb",
+      "symbol": "COIN",
+      "name": "Coinbase",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21746,
-    "minor": 21746,
+    "major": 21747,
+    "minor": 21747,
     "patch": 86
   }
 }
