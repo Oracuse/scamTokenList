@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17b308b627554f72Ae683300a6A3f1e12734df25",
-      "symbol": "DIEREUM",
-      "name": "Diereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x448EF301F412Ba11C158560869da94821D9FdACF",
       "symbol": "THAT",
       "name": "That",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa772c31CEF1d78D427d918C4ced127D7c6452253",
+      "symbol": "NYAN",
+      "name": "NyanCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21774,
-    "minor": 21774,
+    "major": 21775,
+    "minor": 21775,
     "patch": 86
   }
 }
