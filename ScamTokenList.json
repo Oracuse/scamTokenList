@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD820C6e93636F3251379Be1a486dC760ef2B3904",
-      "symbol": "DIECOIN",
-      "name": "DieProtocolCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8d0FcB0251081873ee725e184d6e0618107db196",
       "symbol": "BDIE",
       "name": "BabyDIE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4fa18CB1879BC2ca2643F3CCCbefF706bf442f2C",
+      "symbol": "DOGE23",
+      "name": "DogeMystery2023",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21816,
-    "minor": 21816,
+    "major": 21817,
+    "minor": 21817,
     "patch": 86
   }
 }
