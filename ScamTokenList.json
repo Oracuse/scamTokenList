@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x354E2cCE79dBEf218aCBE051755CDEf51418B553",
-      "symbol": "BONES",
-      "name": "TheBoneCollector",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0D6DbfEC7aC67ab3ecAEDAe9DcB9021fC3Ea1693",
       "symbol": "UCHIAU",
       "name": "FightasEmoji",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50A1a53fb00F40f35baAA96A6522E2D052983baB",
+      "symbol": "NYAN",
+      "name": "NyanCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21779,
-    "minor": 21779,
+    "major": 21780,
+    "minor": 21780,
     "patch": 86
   }
 }
