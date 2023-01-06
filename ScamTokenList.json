@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe0650D1745d6857b1F03B9b420A8Ad7912386712",
-      "symbol": "TSUKI",
-      "name": "TsukiRyujin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x826d0D2397D6C7FC544ab849B56B1d63808bCeEf",
       "symbol": "MAYBE",
       "name": "MAYBE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x897BAc08C74EBb0360bECf2092a747fB261407e3",
+      "symbol": "POMSKY",
+      "name": "PomskyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21879,
-    "minor": 21879,
+    "major": 21880,
+    "minor": 21880,
     "patch": 86
   }
 }
