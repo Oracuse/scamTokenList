@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3889bb8DFC21e59Cd9d18D2E67A7b4CC794a9225",
-      "symbol": "2X",
-      "name": "2000X",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCD9BaF1Bec68DfC80EAbA5d4cB241A339ed00c90",
       "symbol": "F9",
       "name": "Falcon9",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x01359E1b57cc3944B77746b899adf382E7722195",
+      "symbol": "KUJI",
+      "name": "KujiraNomure",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21756,
-    "minor": 21756,
+    "major": 21757,
+    "minor": 21757,
     "patch": 86
   }
 }
