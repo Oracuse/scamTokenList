@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB96003f6eC4Fd65fc70DE3d1B997c2A98879CdBc",
-      "symbol": "NANODIE",
-      "name": "NanoDIE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08e5F2999C7121723a0C7bC8DcEB78328026F777",
       "symbol": "MEN",
       "name": "MenProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x729e383080eeCA1EEc5Bbd7De9858e13E288D64d",
+      "symbol": "AVATAR",
+      "name": "AVATAR",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21838,
-    "minor": 21838,
+    "major": 21839,
+    "minor": 21839,
     "patch": 86
   }
 }
