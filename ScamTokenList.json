@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x826d0D2397D6C7FC544ab849B56B1d63808bCeEf",
-      "symbol": "MAYBE",
-      "name": "MAYBE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x46a67219abA6D1367CafcA3259331D35F588120a",
       "symbol": "UNSTABLEINU",
       "name": "UnstableInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5a2dcD9a848fd427420b28C8642409fc8d629A8d",
+      "symbol": "TCAT",
+      "name": "TuxedoCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21880,
-    "minor": 21880,
+    "major": 21881,
+    "minor": 21881,
     "patch": 86
   }
 }
