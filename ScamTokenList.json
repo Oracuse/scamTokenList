@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14549594538Af3e6009B4bAE533d5a7e6FF9dFAa",
-      "symbol": "POD",
-      "name": "TheProofOfDeathProt",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB96003f6eC4Fd65fc70DE3d1B997c2A98879CdBc",
       "symbol": "NANODIE",
       "name": "NanoDIE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2DB8A8246C3a3b65f02cf0B09B1ce9f6a5718523",
+      "symbol": "MONONOKE",
+      "name": "MononokeInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21837,
-    "minor": 21837,
+    "major": 21838,
+    "minor": 21838,
     "patch": 86
   }
 }
