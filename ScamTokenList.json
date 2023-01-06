@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x003792AF1b1237DfcD99Ae8C7033d67e095281fD",
-      "symbol": "LUCINU",
-      "name": "LuciferInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB9F3aea514fF0Cf57B189067AC4AACDCda0Cc888",
       "symbol": "TVI",
       "name": "TheVoltInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xef65026c3335bDC38F8C41081DbB26B709B80211",
+      "symbol": "KIBBLE",
+      "name": "KibbleInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21886,
-    "minor": 21886,
+    "major": 21887,
+    "minor": 21887,
     "patch": 86
   }
 }
