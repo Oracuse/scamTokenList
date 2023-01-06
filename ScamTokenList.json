@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4EC0e007f514904267FEF8E9291FEEc2a9839964",
-      "symbol": "OSFE",
-      "name": "OSFEdition",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF1494BE5b06Fb19F0f1A708369E7569B7FBF3593",
       "symbol": "ALPHA",
       "name": "AlphaProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E657A5Eda842D0214a5e8f73073840845e20317",
+      "symbol": "BABYDOGE2023",
+      "name": "BabyDoge2023",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21799,
-    "minor": 21799,
+    "major": 21800,
+    "minor": 21800,
     "patch": 86
   }
 }
