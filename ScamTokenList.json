@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62fAb9639558f89756B899a77fba2235074D4441",
-      "symbol": "GROW",
-      "name": "EverGrow",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x407B9af93df580103DB4f4E25b7A59F897B80Fde",
       "symbol": "SANTINU",
       "name": "SantaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x665D155fA3b7F6456397F68453f3d80c1F3B16e1",
+      "symbol": "RYUJIN",
+      "name": "RyujinInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21736,
-    "minor": 21736,
+    "major": 21737,
+    "minor": 21737,
     "patch": 86
   }
 }
