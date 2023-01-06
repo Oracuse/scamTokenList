@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x399771a19E06096295a5621989397F6Fa4Ab8e62",
-      "symbol": "CBURGER",
-      "name": "CryptoBurger",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBdb8D78d8D1c6d199fA6a8D8d5d6ceec3FF93d7a",
       "symbol": "BINANCE",
       "name": "BinanceProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F0b80225e5d2e97358963a99bD5e3Ddd50B18B7",
+      "symbol": "G",
+      "name": "G",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21855,
-    "minor": 21855,
+    "major": 21856,
+    "minor": 21856,
     "patch": 86
   }
 }
