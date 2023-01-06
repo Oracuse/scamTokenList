@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe4B6fA0f971f840bD7892E90CDCB0085eE581D7B",
-      "symbol": "0MGO",
-      "name": "MGO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf168e8E6aFA5dEfD6C391f0162C2B85ae23A6dF1",
       "symbol": "ASS",
       "name": "DatASS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5111792DE3D5D719af6f327DaE2D4d1dbd7ED1b5",
+      "symbol": "BORUU",
+      "name": "BoruuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21814,
-    "minor": 21814,
+    "major": 21815,
+    "minor": 21815,
     "patch": 86
   }
 }
