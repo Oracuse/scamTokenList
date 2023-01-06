@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xca540Ddea11602F390910F8aDCcE541FC911da6c",
-      "symbol": "NIA",
-      "name": "NotInvestmentAdvice",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8D17167C5E64f16E6495c863d086330E0F01c68e",
       "symbol": "FULLSCORE",
       "name": "FullScore",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27Fadb7F95e0387C097a890e8D17aA348854da68",
+      "symbol": "TSUJI",
+      "name": "TsutsujiNeko",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21770,
-    "minor": 21770,
+    "major": 21771,
+    "minor": 21771,
     "patch": 86
   }
 }
