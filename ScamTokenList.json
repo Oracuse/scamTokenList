@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBdb8D78d8D1c6d199fA6a8D8d5d6ceec3FF93d7a",
-      "symbol": "BINANCE",
-      "name": "BinanceProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9b973c0F4D5E1E6996fFA93889a34c54f2eb50e4",
       "symbol": "DEATH",
       "name": "Shinigami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x97E19E2a5458294842036404E6A05571D8Bc2fA3",
+      "symbol": "G",
+      "name": "G",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21856,
-    "minor": 21856,
+    "major": 21857,
+    "minor": 21857,
     "patch": 86
   }
 }
