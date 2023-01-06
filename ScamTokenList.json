@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd7f668Fa920b70B3cdEdC3fb938730df97BDD5c1",
-      "symbol": "PROTOSTAR",
-      "name": "TheProtostar",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x173c9845D24da6E8c3372d4E8C60c0C933a14b38",
       "symbol": "TROLL",
       "name": "troll",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD43a305ee8506C1d5FBc20A53E270d08bC73F4B5",
+      "symbol": "MWS",
+      "name": "TheMadoffPonzi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21765,
-    "minor": 21765,
+    "major": 21766,
+    "minor": 21766,
     "patch": 86
   }
 }
