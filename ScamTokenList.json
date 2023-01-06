@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1C8cae3765857BD24E36fcf916eaa1E8Cb68F42E",
-      "symbol": "DIE",
-      "name": "dieprotocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x801D9D052969560a0859da79bE879de1903bc361",
       "symbol": "DIE20",
       "name": "ProofofDie",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43bE0096961212cD04D591dA1807525014B2DFc9",
+      "symbol": "INFL",
+      "name": "InflectionPoint",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21828,
-    "minor": 21828,
+    "major": 21829,
+    "minor": 21829,
     "patch": 86
   }
 }
