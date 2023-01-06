@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4EE5a957C4F764929C850b8aCb853BA58D28304C",
-      "symbol": "LIVE",
-      "name": "LIVE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7dcb24662Ea1cfdBaAB0a209a18A7b440F3E8dfe",
       "symbol": "IKIGAI",
       "name": "TheVision",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x81dB31b88343F72a0E71182E94683E25F8Bd20E7",
+      "symbol": "KYOSHIKU",
+      "name": "KyoshikuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21824,
-    "minor": 21824,
+    "major": 21825,
+    "minor": 21825,
     "patch": 86
   }
 }
