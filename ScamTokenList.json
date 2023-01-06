@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd80Da72d8b5784e7154bDeA98cB0Da6546827D51",
-      "symbol": "FUTURE",
-      "name": "RyoshiProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3A652b2CAA9cA92A32154FFd1C33dF888d723BcA",
       "symbol": "X",
       "name": "X",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8209da9803a588D105AceAC5c575072C938D360d",
+      "symbol": "USHINU",
+      "name": "UshiwakaInu",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21872,
-    "minor": 21872,
+    "major": 21873,
+    "minor": 21873,
     "patch": 86
   }
 }
