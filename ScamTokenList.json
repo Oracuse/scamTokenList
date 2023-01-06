@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x173c9845D24da6E8c3372d4E8C60c0C933a14b38",
-      "symbol": "TROLL",
-      "name": "troll",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x82916D68137c7A6047880B257AbA336Cd3867F9B",
       "symbol": "DEATHCHAIN",
       "name": "DeathChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD11385e8F1e267855D38373742e6643C440cbA07",
+      "symbol": "NYAN",
+      "name": "NyanCat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21766,
-    "minor": 21766,
+    "major": 21767,
+    "minor": 21767,
     "patch": 86
   }
 }
