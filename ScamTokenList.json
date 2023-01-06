@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3F367a7cFBAae418A0362d33b3f45312e23D9bA2",
-      "symbol": "UNSTABLE",
-      "name": "UnstableCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8e33f41a1aec16dba398c139e12a2f00aA5e93bC",
       "symbol": "SHF",
       "name": "SpookyHalloweenFlok",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0da5119D2E2Edea6C779b4F65Bfb044da77db990",
+      "symbol": "MUNI",
+      "name": "MUNI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21864,
-    "minor": 21864,
+    "major": 21865,
+    "minor": 21865,
     "patch": 86
   }
 }
