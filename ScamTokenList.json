@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFce9A81Ed0DDEB7598e6f9fcEE248254bae64e3F",
-      "symbol": "ALPHA",
-      "name": "AlphaProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3f056fd18398Aa08426F8ce0e3F3758E13019Cc5",
       "symbol": "OS",
       "name": "OnlyStables",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17fbeCAa216f7626d883f3DDC1a8c991B416d1Bf",
+      "symbol": "EQUILUM",
+      "name": "Equilum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21801,
-    "minor": 21801,
+    "major": 21802,
+    "minor": 21802,
     "patch": 86
   }
 }
