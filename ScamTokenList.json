@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDE973cf8A77Ef8d1Cd6227ED6da161d75FfEe7D5",
-      "symbol": "AFAIK",
-      "name": "AFAIK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdD49B83d359082Bf1B9B2E3dDFa73A740451Bead",
       "symbol": "10000X",
       "name": "10000X",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06134D5F33796DF238027D7c2E171069F1760FE5",
+      "symbol": "NS",
+      "name": "NotSafe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21961,
-    "minor": 21961,
+    "major": 21962,
+    "minor": 21962,
     "patch": 86
   }
 }
