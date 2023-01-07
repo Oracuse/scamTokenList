@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4499052B8638ba9149feCA9d2eD080f6eF342E22",
-      "symbol": "DIEKIMETSU",
-      "name": "DieKimetsu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9d53F67b1ddD56aB4D141E2245079bA33FeBcbC4",
       "symbol": "1ONT",
       "name": "ONT",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd69E78Dd8661D8Ca2428a5eac5e30b7af3091cd5",
+      "symbol": "GARFIELD",
+      "name": "GarfieldNeko",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22010,
-    "minor": 22010,
+    "major": 22011,
+    "minor": 22011,
     "patch": 86
   }
 }
