@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD24034044C9949f1827AD33f4f5fBcc22a63051C",
-      "symbol": "MB",
-      "name": "MicroBerlin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25a10C9eaDa3aac563aF0d45A1D7AC190c5B78A4",
       "symbol": "THEDIE",
       "name": "THEANDDIE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa002f5b92d52d8C0128F047bde204840B061EBCB",
+      "symbol": "RS",
+      "name": "RapidSlide",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21895,
-    "minor": 21895,
+    "major": 21896,
+    "minor": 21896,
     "patch": 86
   }
 }
