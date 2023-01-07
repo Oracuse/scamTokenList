@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa964e4d1605C104401374C577C3ADdCB16092373",
-      "symbol": "ELOGE",
-      "name": "Eloge",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4693B07FF0e822361E1bbed95DE0C13941A5F8E9",
       "symbol": "PT",
       "name": "PureTones",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2fAbB7Cb13212e333FAf463D920533CeE313c39A",
+      "symbol": "4",
+      "name": "4",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21999,
-    "minor": 21999,
+    "major": 22000,
+    "minor": 22000,
     "patch": 86
   }
 }
