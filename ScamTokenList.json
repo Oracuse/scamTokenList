@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3e27fA55318bD6560ca0f250eF475A449fDc8A33",
-      "symbol": "WTD",
-      "name": "WhatsTheDifference",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5C916E64B36D2e145949b1033db95ac728F15Ba1",
       "symbol": "DIEINU",
       "name": "DIEPROTOCOLINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83F2cF622789637662c8b3DFcBA1F01d1274992B",
+      "symbol": "KABOCHU",
+      "name": "KabochuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21911,
-    "minor": 21911,
+    "major": 21912,
+    "minor": 21912,
     "patch": 86
   }
 }
