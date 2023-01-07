@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4Ac57eB2AcB676c08F640c4adB23e50957cB8d27",
-      "symbol": "X20",
-      "name": "X20",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbCDCA6066d655Dd50321fBF2F5174574163d24e7",
       "symbol": "X",
       "name": "TheXProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1De063C5A1aBe31aBbB282B2cd704DdDC3f9e89",
+      "symbol": "CO",
+      "name": "CryptoOne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21932,
-    "minor": 21932,
+    "major": 21933,
+    "minor": 21933,
     "patch": 86
   }
 }
