@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x06F5701ac5236f938D534CB0B21B2171e7B3C5A6",
-      "symbol": "POOL",
-      "name": "POOL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x86480429A9ecfdCdEB3EA59E47Ce43D9b657e500",
       "symbol": "TXD",
       "name": "THExDIE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2440fB6aE95Cb820eE0f9e51BEE8B51F3C607d06",
+      "symbol": "GOOD",
+      "name": "SMELLINGGOOD",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21963,
-    "minor": 21963,
+    "major": 21964,
+    "minor": 21964,
     "patch": 86
   }
 }
