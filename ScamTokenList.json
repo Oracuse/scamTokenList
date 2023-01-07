@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7d5275fc7EfA6bF37FEce4b34BDa06d67Ba1A831",
-      "symbol": "BFODT",
-      "name": "BabyTyrant",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2CA723C11C305861495AA5b9816E405D9A6794E1",
       "symbol": "OREO",
       "name": "OREO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF3d36EB085a1e78e0c014674346270dBaEF25c8c",
+      "symbol": "TOSA",
+      "name": "TosaInu",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21950,
-    "minor": 21950,
+    "major": 21951,
+    "minor": 21951,
     "patch": 86
   }
 }
