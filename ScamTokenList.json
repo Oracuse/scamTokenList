@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x90089B5B8573848A5b282661D95fe0587f1FfbEb",
-      "symbol": "DTX",
-      "name": "DIETHEX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4Ac57eB2AcB676c08F640c4adB23e50957cB8d27",
       "symbol": "X20",
       "name": "X20",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x26677886e76455cdD9D794f843821531Fc68e878",
+      "symbol": "GPTD",
+      "name": "GPTDuck",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21931,
-    "minor": 21931,
+    "major": 21932,
+    "minor": 21932,
     "patch": 86
   }
 }
