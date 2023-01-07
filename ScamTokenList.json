@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1BB30e89F91f47AC526B192Fc0B2cAaaE19cEe9a",
-      "symbol": "THEXY",
-      "name": "THEXY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x270E0677FA59b2F31f17E8Ce7fC13AeFE11F9E2F",
       "symbol": "XBANK",
       "name": "BankofX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x348Edefae33f2083532527182e13F3ee338C2DE4",
+      "symbol": "KAMOSHIKA",
+      "name": "Kamoshika",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21952,
-    "minor": 21952,
+    "major": 21953,
+    "minor": 21953,
     "patch": 86
   }
 }
