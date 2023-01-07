@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x21612f97E003E127b4c1bD319CEC7C037173Ae2c",
-      "symbol": "IYKYK",
-      "name": "IYKYK",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x113EAEbce25E18Aa90167E9bD6b97930ca9b2fb2",
       "symbol": "BMI",
       "name": "BullMarketInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6Bc7A95ec67088Db8E708d5bc12eaab39Bb2F9bA",
+      "symbol": "BORNK",
+      "name": "Bornk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21946,
-    "minor": 21946,
+    "major": 21947,
+    "minor": 21947,
     "patch": 86
   }
 }
