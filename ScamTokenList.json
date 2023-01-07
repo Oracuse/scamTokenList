@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x75bfa4677746B226F11fc111D660095be757F816",
-      "symbol": "XY",
-      "name": "XY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1F755CdCA686365c369D9f525Df5F40c80682be5",
       "symbol": "MX",
       "name": "MemeX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4c70b06fF51B24eCfabD25A4EB112E52d8720444",
+      "symbol": "VITAL",
+      "name": "VitalInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21942,
-    "minor": 21942,
+    "major": 21943,
+    "minor": 21943,
     "patch": 86
   }
 }
