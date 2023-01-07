@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5e8A3636FfBc0CD60068F6911350603BFFDF571a",
-      "symbol": "TDO",
-      "name": "THEDieOfficial",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x254BceBa65d184e80a1194923F57c1862684945C",
       "symbol": "SCR",
       "name": "Scarecrow",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe65f698F86648B06aFa66F953C53046411FA3448",
+      "symbol": "SUZAKU",
+      "name": "ChiSuzaku",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21976,
-    "minor": 21976,
+    "major": 21977,
+    "minor": 21977,
     "patch": 86
   }
 }
