@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7f5cA8B99B3Dac32d06d1cFA52eAA466eA4E50EC",
-      "symbol": "SUPERCHARGER",
-      "name": "SUPERCHARGER",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42ce9D1714f404326b4a7Ac1e60Ac39674Fd570D",
       "symbol": "DAS",
       "name": "DASProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6043D30726247B28781C2D32E5AC6168f6D6f969",
+      "symbol": "OMI",
+      "name": "OneMillionInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21972,
-    "minor": 21972,
+    "major": 21973,
+    "minor": 21973,
     "patch": 86
   }
 }
