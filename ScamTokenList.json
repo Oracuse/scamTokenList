@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x48c1991c0239BFDBd9Fda5F00AD004db0F13Cd40",
-      "symbol": "X",
-      "name": "XFactor",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x408cFfe5aAaF32B8B253Ba31e363b43cc81DCFCD",
       "symbol": "F1INU",
       "name": "Formula1Inu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3EaB1838981cD8011007f81Cc114aeDF77B594b",
+      "symbol": "SUPI",
+      "name": "SupittsuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21959,
-    "minor": 21959,
+    "major": 21960,
+    "minor": 21960,
     "patch": 86
   }
 }
