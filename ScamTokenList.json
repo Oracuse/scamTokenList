@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7c47bD1e517be8B5F9Eeeb2CD2B62C926F5a72A0",
-      "symbol": "TAKOYAKI",
-      "name": "Takoyaki",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x129c92F60E70aF17A910D17e2A5d86c9F775A083",
       "symbol": "XAPE",
       "name": "XAPE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeB162F3Bf6B0dc8a4090fBc2a43Bcc252788eB02",
+      "symbol": "EDGE",
+      "name": "EDGE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22002,
-    "minor": 22002,
+    "major": 22003,
+    "minor": 22003,
     "patch": 86
   }
 }
