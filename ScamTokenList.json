@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4693B07FF0e822361E1bbed95DE0C13941A5F8E9",
-      "symbol": "PT",
-      "name": "PureTones",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaF87fad28fc51B12ef07B6bC7467E8E7011B7F01",
       "symbol": "7X",
       "name": "7x",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41D0370999cADe01C91aaCb0F9a332C46a8baa5e",
+      "symbol": "CHIRP",
+      "name": "CHIRPNETWORK",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22000,
-    "minor": 22000,
+    "major": 22001,
+    "minor": 22001,
     "patch": 86
   }
 }
