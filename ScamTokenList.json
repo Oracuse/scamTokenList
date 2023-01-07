@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x94AaF8E8f69a3ABb4c9Ac75b4C684A6a8b7695f1",
-      "symbol": "SUP",
-      "name": "SupportProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3f351A9798028a3EBD21fAa9b61059E6cb6D9785",
       "symbol": "DXP",
       "name": "DIEXProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f5e01995327e47149ef11b0Da8790d419cfe651",
+      "symbol": "BYRON",
+      "name": "BabyTyrant",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21944,
-    "minor": 21944,
+    "major": 21945,
+    "minor": 21945,
     "patch": 86
   }
 }
