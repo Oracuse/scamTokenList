@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x270E0677FA59b2F31f17E8Ce7fC13AeFE11F9E2F",
-      "symbol": "XBANK",
-      "name": "BankofX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf963a26635F66C5B9045E3Ad057F8491fBc69033",
       "symbol": "GO",
       "name": "GoProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x118d04A3e91a2E6C0cc269c541364Be20f13d1E7",
+      "symbol": "HACKER",
+      "name": "HackerTyper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21953,
-    "minor": 21953,
+    "major": 21954,
+    "minor": 21954,
     "patch": 86
   }
 }
