@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3Ca448C8536FcB4e93Ce48e6fee3E351FC1c0b5c",
-      "symbol": "SCREAM",
-      "name": "SCREAM",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4499052B8638ba9149feCA9d2eD080f6eF342E22",
       "symbol": "DIEKIMETSU",
       "name": "DieKimetsu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x579D3e55fAC866260F058B9502FD4EcfC7e12621",
+      "symbol": "MUDI",
+      "name": "MudiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22009,
-    "minor": 22009,
+    "major": 22010,
+    "minor": 22010,
     "patch": 86
   }
 }
