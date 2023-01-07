@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6d354B58c100893eDd22835F423233b7277Bd329",
-      "symbol": "Y",
-      "name": "Y",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x35feD36a8150A619476CE3dC4c8340F86fB7F66b",
       "symbol": "XY",
       "name": "XandY",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB05B0A21D4903622F7dF0CAA31f0c12aA21B64Bb",
+      "symbol": "URR",
+      "name": "urr",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21929,
-    "minor": 21929,
+    "major": 21930,
+    "minor": 21930,
     "patch": 86
   }
 }
