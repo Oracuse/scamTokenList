@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x201B08Da2bABa31a5350Ce883c98912709eCec9f",
-      "symbol": "POH",
-      "name": "ProofOfHODLERS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x477e1060F3A326323C301070AcB7c202Ae29b0F1",
       "symbol": "X",
       "name": "Thexprotocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc838Ea50F88bEcB731af2302cEe3246464df1fda",
+      "symbol": "MCBT",
+      "name": "MetaCombat",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21934,
-    "minor": 21934,
+    "major": 21935,
+    "minor": 21935,
     "patch": 86
   }
 }
