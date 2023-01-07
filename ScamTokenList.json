@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x429DB98F517Fab543E2aEb2Cb982B79F7a447245",
-      "symbol": "X",
-      "name": "x",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC6722CD60A44dB26faE08aBf4894f0bEF11BE37C",
       "symbol": "JOKE",
       "name": "TheJokeProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd14bb168674c679060e938F5120f2431a6aafF6A",
+      "symbol": "BONKADE",
+      "name": "BonkArcade",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21897,
-    "minor": 21897,
+    "major": 21898,
+    "minor": 21898,
     "patch": 86
   }
 }
