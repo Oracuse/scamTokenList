@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x38F96f1a7ff87CeB5cD673eF0bEF763EDFaC85D7",
-      "symbol": "MEN",
-      "name": "MEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7D796436217a85Add5EE153532B8816eF5121a65",
       "symbol": "CONSPIRACY",
       "name": "Conspiracy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a50d6eb4beF5F859318c21F3C13f7B694fecB0a",
+      "symbol": "COLLINU",
+      "name": "CollieInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21927,
-    "minor": 21927,
+    "major": 21928,
+    "minor": 21928,
     "patch": 86
   }
 }
