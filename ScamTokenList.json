@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1423128B54cBD1fBc1DA0DE4848e6AeeF62DE26d",
-      "symbol": "1000X",
-      "name": "1000X",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3d162EbD15f576934Bc383A0EcD951539c6e4aE7",
       "symbol": "HUH",
       "name": "huh",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x289Db8270ACf519be699bFda935597FD4a335750",
+      "symbol": "QKA",
+      "name": "QuokkaCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21938,
-    "minor": 21938,
+    "major": 21939,
+    "minor": 21939,
     "patch": 86
   }
 }
