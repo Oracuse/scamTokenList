@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdD49B83d359082Bf1B9B2E3dDFa73A740451Bead",
-      "symbol": "10000X",
-      "name": "10000X",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x06F5701ac5236f938D534CB0B21B2171e7B3C5A6",
       "symbol": "POOL",
       "name": "POOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0E3Fa63f95BC3a41eB9E79872351081ea95bC60b",
+      "symbol": "SAKHALIN",
+      "name": "SakhalinHuskyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21962,
-    "minor": 21962,
+    "major": 21963,
+    "minor": 21963,
     "patch": 86
   }
 }
