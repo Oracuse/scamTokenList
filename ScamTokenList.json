@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x762F2eFe70f732F6bBa84E4BB9aABB5a772E5Bd2",
-      "symbol": "MANTRA",
-      "name": "MANTRA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4A78969e7c2037034abd18716F00f30E32ddBfC7",
       "symbol": "TCOMP",
       "name": "THECompound",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18Ae33632420a4a53eDD2c7CE9FD3D7644D58002",
+      "symbol": "KJT",
+      "name": "TheKyojinToken",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21925,
-    "minor": 21925,
+    "major": 21926,
+    "minor": 21926,
     "patch": 86
   }
 }
