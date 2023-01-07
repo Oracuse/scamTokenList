@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x392423E1dF536930A83665f3d9d2d21Ca0A102a5",
-      "symbol": "LOGIC",
-      "name": "LogicProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3144E0bA8143a2308733A48a9622fBE1B05720B2",
       "symbol": "FPC",
       "name": "FVCKPROTOCOLCULTURE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8663b524F612b07280C8837741425e9F076958Ea",
+      "symbol": "SLETH",
+      "name": "Slotereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21902,
-    "minor": 21902,
+    "major": 21903,
+    "minor": 21903,
     "patch": 86
   }
 }
