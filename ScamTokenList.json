@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaF87fad28fc51B12ef07B6bC7467E8E7011B7F01",
-      "symbol": "7X",
-      "name": "7x",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7c47bD1e517be8B5F9Eeeb2CD2B62C926F5a72A0",
       "symbol": "TAKOYAKI",
       "name": "Takoyaki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4Bb0b132882893389f0cac96EC334C530e04d31c",
+      "symbol": "FLOK",
+      "name": "FlokInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22001,
-    "minor": 22001,
+    "major": 22002,
+    "minor": 22002,
     "patch": 86
   }
 }
