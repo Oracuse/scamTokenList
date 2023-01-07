@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa9e39e95EF30C842D6972941c4D0d7801e403E92",
-      "symbol": "FOOLS",
-      "name": "FOOLS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1f2b453B1b8760fB47f9f6Ce9658b7F7Ed3cc1C9",
       "symbol": "BOTTOM",
       "name": "THEBottom",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x402A179Ef201b8F4adFbeb1e59d968E5aD224886",
+      "symbol": "COKOSU",
+      "name": "Cokosu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21899,
-    "minor": 21899,
+    "major": 21900,
+    "minor": 21900,
     "patch": 86
   }
 }
