@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x32129a60a6B28D7799a8b3c015Dc32b00B097b63",
-      "symbol": "CREEP",
-      "name": "CryptoCreepers",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7Ae050DCE65871949eaB573Fa00497C4928692eE",
       "symbol": "YANTRA",
       "name": "Yantra",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcfA5073157744E0d7df990b1A6b5690bbB23CA96",
+      "symbol": "RD",
+      "name": "RabbitDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21919,
-    "minor": 21919,
+    "major": 21920,
+    "minor": 21920,
     "patch": 86
   }
 }
