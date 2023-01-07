@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3CFDe465F7D0f93B0F6aD46FfB7dfFD1466EcC7C",
-      "symbol": "CZNX",
-      "name": "WETHCZNX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6265923A9288620D00143B2907C48C8188AA601C",
       "symbol": "PAWSITIVE",
       "name": "PawsitiveInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21b3cCeEBb158a8cA5fb0e2350B8dBE29d56e6C5",
+      "symbol": "CAT23",
+      "name": "Neko23",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21969,
-    "minor": 21969,
+    "major": 21970,
+    "minor": 21970,
     "patch": 86
   }
 }
