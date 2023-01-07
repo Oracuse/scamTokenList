@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2685b7da85A409154f7425C37860B8877BD34Fd3",
-      "symbol": "THOUGHT",
-      "name": "Thoughtfully",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd36fC7ef9d13390FdE323A596eD6b2AFA4bFDCbB",
       "symbol": "XSHIBA",
       "name": "ShibX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46DfBB7c7223FE61A391010ADdaC0Ab2ed134707",
+      "symbol": "ZOO",
+      "name": "OldZoo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22007,
-    "minor": 22007,
+    "major": 22008,
+    "minor": 22008,
     "patch": 86
   }
 }
