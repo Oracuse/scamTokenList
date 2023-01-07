@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x129c92F60E70aF17A910D17e2A5d86c9F775A083",
-      "symbol": "XAPE",
-      "name": "XAPE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x64f21999cd65A39Dd760CCC50fd7976DAaEb0731",
       "symbol": "DOOR",
       "name": "Door",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2FE61584B5450601b536172a0F84C18E877729e1",
+      "symbol": "SOSHIB",
+      "name": "SocialShiba",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22003,
-    "minor": 22003,
+    "major": 22004,
+    "minor": 22004,
     "patch": 86
   }
 }
