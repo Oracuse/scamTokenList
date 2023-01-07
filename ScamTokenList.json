@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf963a26635F66C5B9045E3Ad057F8491fBc69033",
-      "symbol": "GO",
-      "name": "GoProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x99E72Da76E1D03F559A7eeB453d412fa48536728",
       "symbol": "EXIST",
       "name": "EXIST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCb0988e82fF9eE2210e54180b256C79e96bedad7",
+      "symbol": "SILVER23",
+      "name": "Silver23",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21954,
-    "minor": 21954,
+    "major": 21955,
+    "minor": 21955,
     "patch": 86
   }
 }
