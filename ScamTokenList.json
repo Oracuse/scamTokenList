@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAc8787c4728Cd4615b0e43Dd6513Efc6A8D21BaE",
-      "symbol": "THEINU",
-      "name": "TheInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5723C8edD626F43b471E5a4096E9433f51624278",
       "symbol": "SBF",
       "name": "SBFPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44449E83A4E578744aD390b4225Dd5B4c88fC6e4",
+      "symbol": "RTBONK",
+      "name": "RtBonk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21917,
-    "minor": 21917,
+    "major": 21918,
+    "minor": 21918,
     "patch": 86
   }
 }
