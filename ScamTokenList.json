@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbC24916b7cD95eCd2b8E2C9AF4993337cF3ea19a",
-      "symbol": "DCBURN",
-      "name": "DCBURN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9d19295e77ac87e07fc4DE3E3Be47084fF1713DC",
       "symbol": "KRYPTO",
       "name": "KryptoInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEa0F0922D29Ee5cCb5016CdC9754D10448f061f1",
+      "symbol": "KORI",
+      "name": "KORIINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21965,
-    "minor": 21965,
+    "major": 21966,
+    "minor": 21966,
     "patch": 86
   }
 }
