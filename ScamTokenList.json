@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3144E0bA8143a2308733A48a9622fBE1B05720B2",
-      "symbol": "FPC",
-      "name": "FVCKPROTOCOLCULTURE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc6422EECfD1f8048F3E086dca4004eB864F01B02",
       "symbol": "SDAO",
       "name": "SpookyDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A32ffF3626Ef182adb2b69E6c1c7867a77cDc18",
+      "symbol": "KOSUKI",
+      "name": "Kosuki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21903,
-    "minor": 21903,
+    "major": 21904,
+    "minor": 21904,
     "patch": 86
   }
 }
