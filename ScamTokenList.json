@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9d53F67b1ddD56aB4D141E2245079bA33FeBcbC4",
-      "symbol": "1ONT",
-      "name": "ONT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62fd0dC36BA7138dC6efc8824fA4E4D57C8c13AB",
       "symbol": "THERE",
       "name": "itisthere",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3476a0Ca6C818bA123245fF15c0519DbF2670F3E",
+      "symbol": "MUDI",
+      "name": "MudiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22011,
-    "minor": 22011,
+    "major": 22012,
+    "minor": 22012,
     "patch": 86
   }
 }
