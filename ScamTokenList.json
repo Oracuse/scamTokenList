@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x89F08Ddd78D43ADfDa923Bc62D5f6D2468c8588A",
-      "symbol": "DINU",
-      "name": "DRAGEINU",
-      "decimals": 7,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE9541DEd08E9079799b861292EB9D2BC379A0E29",
       "symbol": "KILL",
       "name": "KILLProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0aAAf7D8049E0A4Cc25326E33db9d01e47d3845B",
+      "symbol": "BONKR",
+      "name": "BonkR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21913,
-    "minor": 21913,
+    "major": 21914,
+    "minor": 21914,
     "patch": 86
   }
 }
