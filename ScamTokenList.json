@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6265923A9288620D00143B2907C48C8188AA601C",
-      "symbol": "PAWSITIVE",
-      "name": "PawsitiveInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x00b0ddC413DFacDE1901A872303bAD043Aa4D212",
       "symbol": "WWSHIB",
       "name": "WorldWarShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7262eFFE4Fdb28E0938Ce8E7f29ab51a8a9B800d",
+      "symbol": "OBI",
+      "name": "OneBillionInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 21970,
-    "minor": 21970,
+    "major": 21971,
+    "minor": 21971,
     "patch": 86
   }
 }
