@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3f351A9798028a3EBD21fAa9b61059E6cb6D9785",
-      "symbol": "DXP",
-      "name": "DIEXProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x21612f97E003E127b4c1bD319CEC7C037173Ae2c",
       "symbol": "IYKYK",
       "name": "IYKYK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11c17E53D16EE7382283aa8DD422aA52c3d00Fc6",
+      "symbol": "WINU",
+      "name": "WagieInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21945,
-    "minor": 21945,
+    "major": 21946,
+    "minor": 21946,
     "patch": 86
   }
 }
