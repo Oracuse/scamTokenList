@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4A78969e7c2037034abd18716F00f30E32ddBfC7",
-      "symbol": "TCOMP",
-      "name": "THECompound",
-      "decimals": 5,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38F96f1a7ff87CeB5cD673eF0bEF763EDFaC85D7",
       "symbol": "MEN",
       "name": "MEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x40eA2dB791805e2e09718064B29FbfFE3BfcA29f",
+      "symbol": "SHINU",
+      "name": "ShepherdInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21926,
-    "minor": 21926,
+    "major": 21927,
+    "minor": 21927,
     "patch": 86
   }
 }
