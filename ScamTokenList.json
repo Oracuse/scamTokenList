@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x35feD36a8150A619476CE3dC4c8340F86fB7F66b",
-      "symbol": "XY",
-      "name": "XandY",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x90089B5B8573848A5b282661D95fe0587f1FfbEb",
       "symbol": "DTX",
       "name": "DIETHEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8cF9d6e058d525AB50219f1b510600c8FE96FB23",
+      "symbol": "CO",
+      "name": "CapitalOne",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21930,
-    "minor": 21930,
+    "major": 21931,
+    "minor": 21931,
     "patch": 86
   }
 }
