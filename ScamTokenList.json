@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x254BceBa65d184e80a1194923F57c1862684945C",
-      "symbol": "SCR",
-      "name": "Scarecrow",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeC93D78e4ABF6e2839a4D1C04DCaF50cB6d3bDb6",
       "symbol": "VOID",
       "name": "TheVoid",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6120328686512E6893911C3Dede6001D1AB698Be",
+      "symbol": "TUTU",
+      "name": "TuTuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 21977,
-    "minor": 21977,
+    "major": 21978,
+    "minor": 21978,
     "patch": 86
   }
 }
