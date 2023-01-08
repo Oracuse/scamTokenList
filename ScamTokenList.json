@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf2CDAFCd7Ae98547ae369A1F6e4F912a5F9E5E77",
-      "symbol": "BPTR",
-      "name": "BTCPrinter",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8214d20A37b356b5B9AC995756dcC79679aF6d33",
       "symbol": "THUMBSUP",
       "name": "ThumbsUp",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8287A28BaD979bB5E7b6192E7dD13E14ea7fAe9D",
+      "symbol": "IFR",
+      "name": "InfernoRyu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22052,
-    "minor": 22052,
+    "major": 22053,
+    "minor": 22053,
     "patch": 86
   }
 }
