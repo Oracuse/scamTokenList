@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x27cf6fd40Aa4861B4Cbd3E19aDbBA303013De1bE",
-      "symbol": "KILL0",
-      "name": "kill0",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4e8D271F5C58992162b496cFB5Be4a621E57826a",
       "symbol": "GUD20",
       "name": "AnotherGudCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcc9dfAde9979F24CdA5Bc3b35cf0BDD79f6d0172",
+      "symbol": "AAS",
+      "name": "AlgoAutoSniper",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22096,
-    "minor": 22096,
+    "major": 22097,
+    "minor": 22097,
     "patch": 86
   }
 }
