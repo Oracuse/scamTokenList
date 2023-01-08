@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFf8992B18CD0A5D5D6D63A33D9279e7Da1B4a6d8",
-      "symbol": "VBX",
-      "name": "VitalikButerinX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x139d3A7392f26Fb8916988Ec94B2DE705cfD13e4",
       "symbol": "THTW",
       "name": "ThatTweet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e09164E04a960Ae6C69421a1fB6B0B06D262C6F",
+      "symbol": "OSC",
+      "name": "OldSchoolCartoon",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22041,
-    "minor": 22041,
+    "major": 22042,
+    "minor": 22042,
     "patch": 86
   }
 }
