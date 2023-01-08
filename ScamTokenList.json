@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x873B5A6E5d673aa166e1E119E2D1E54e7F547822",
-      "symbol": "SMASH",
-      "name": "SMASH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1bf3f9Ad4455aE5E36E296A2f4576aCe05bd2014",
       "symbol": "VITALIK",
       "name": "Vitalik",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF9BdC0cF2D1004Abd5afEd68b90B09c6f70Dc5E6",
+      "symbol": "KIMBA",
+      "name": "TheWhiteLion",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22048,
-    "minor": 22048,
+    "major": 22049,
+    "minor": 22049,
     "patch": 86
   }
 }
