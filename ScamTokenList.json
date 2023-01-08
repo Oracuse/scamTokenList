@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7f7Bf05AFc429e3c12d2944B9DEee2647cdA5273",
-      "symbol": "DESK",
-      "name": "DESK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0B5330c7029706D59D7D1eC0e9Ec57d452Fcf346",
       "symbol": "SERVEINU",
       "name": "ServethePeopleInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFE9804C282F0b0BC4AdC48F58C8456Dff3d427d5",
+      "symbol": "SHIBARAI",
+      "name": "Shibarai",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22078,
-    "minor": 22078,
+    "major": 22079,
+    "minor": 22079,
     "patch": 86
   }
 }
