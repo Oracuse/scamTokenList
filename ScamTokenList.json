@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36D90809d6E448bE470d61b2410b5187682E8fE6",
-      "symbol": "SAISHO",
-      "name": "THEFIRST",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4DA0d96Fce1513bef44290920a405f23633a2bF5",
       "symbol": "POCA",
       "name": "ProofOfCryptoAdopti",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xab108A266E9B250F4f8392A6203Ca090E945aA1d",
+      "symbol": "SCEM",
+      "name": "SCEM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22033,
-    "minor": 22033,
+    "major": 22034,
+    "minor": 22034,
     "patch": 86
   }
 }
