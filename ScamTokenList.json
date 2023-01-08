@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc349054529c77c7c1B2CB86aADEF19bAf37BEe18",
-      "symbol": "CXA",
-      "name": "CryptoXAdoption",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x03558d9c0ce47eBB5f792f774c28329E22725bA7",
       "symbol": "WCPROTOCOL",
       "name": "WorldcupProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x567E4a5Bd57F836491A666AE836966244E217a23",
+      "symbol": "DAGO",
+      "name": "DarkArgamio",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22031,
-    "minor": 22031,
+    "major": 22032,
+    "minor": 22032,
     "patch": 86
   }
 }
