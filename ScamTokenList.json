@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE3A65D333B2D9dC2F0035570BAbDe74B82b60aAD",
-      "symbol": "7SATANS",
-      "name": "7Satans",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0c489Cb04f62e351926Bb74F2a733A94A7F484cF",
       "symbol": "TGR",
       "name": "TGRevival",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93C82B476f717041F118FA009423B9169dB1Df7c",
+      "symbol": "ODI",
+      "name": "OneDogInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22098,
-    "minor": 22098,
+    "major": 22099,
+    "minor": 22099,
     "patch": 86
   }
 }
