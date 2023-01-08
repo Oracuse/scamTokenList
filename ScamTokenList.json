@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x973AecF305351E5e7fd178b738F734F6644b1008",
-      "symbol": "HEAR",
-      "name": "HearProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDB214282F3f8f02FcDbA717254b8d6B8453dfdED",
       "symbol": "HH",
       "name": "HearHear",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE7AE4130601AB6489be2F91fB4B86879B309c1b6",
+      "symbol": "BUND",
+      "name": "Burnification",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22106,
-    "minor": 22106,
+    "major": 22107,
+    "minor": 22107,
     "patch": 86
   }
 }
