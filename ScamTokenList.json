@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x721556D56c310549452CFD8F64A7A7c00C5db285",
-      "symbol": "PERIOD",
-      "name": "Periodically",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfc174bc38eEEb2647d4BF75d84c532ccb318c42F",
       "symbol": "VISCERA",
       "name": "FourSonsOfHorus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5f574AC24f5053B626B15929e3f515D749398fe",
+      "symbol": "SHIBURAI",
+      "name": "Shiburai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22084,
-    "minor": 22084,
+    "major": 22085,
+    "minor": 22085,
     "patch": 86
   }
 }
