@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd548B4a891E42e1c49448a4e1b59d0d3FDa44571",
-      "symbol": "TIP",
-      "name": "TipTravelCoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9824192Dfa7D3d52b80DF4E63999A18492F361c6",
       "symbol": "LBR",
       "name": "LastBullRun",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98084F0B60E380D7E7d3373eB50dFF663401717E",
+      "symbol": "SHIRYOBUKAI",
+      "name": "Shiryobukai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22061,
-    "minor": 22061,
+    "major": 22062,
+    "minor": 22062,
     "patch": 86
   }
 }
