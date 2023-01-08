@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8e3AB0e1e2fe45C2316eCd7C612C8449eD24bd8b",
-      "symbol": "CKFSHIB",
-      "name": "CryptoKungFuShib",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf357408DCCCF5b94cF16b229209922cEa86F6560",
       "symbol": "FSB",
       "name": "FSB",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x43E8EC9E468c63f98DC5D73702A95e2B6E54d681",
+      "symbol": "INUGAMI",
+      "name": "Inugami",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22035,
-    "minor": 22035,
+    "major": 22036,
+    "minor": 22036,
     "patch": 86
   }
 }
