@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53a07D6DDf2eAa3891cBF9E39CFcDBebf5f21b9b",
-      "symbol": "TOP",
-      "name": "TOPPROTOCOL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x28FD534381c7fded8381418CB5eF1cA3ECb2B3e7",
       "symbol": "MACHINA",
       "name": "MACHINA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0929F58aDd4075739445a57427C12041a35f921F",
+      "symbol": "KEN",
+      "name": "KenInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22054,
-    "minor": 22054,
+    "major": 22055,
+    "minor": 22055,
     "patch": 86
   }
 }
