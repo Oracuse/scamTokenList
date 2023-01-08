@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6a1dD5E0A09d74aF39e706d8CB41Bc05F345aFED",
-      "symbol": "LSRPRT",
-      "name": "LASERPROTOCAL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9c04CbAc12e2887B13F18ef3bbbD77925aBa709C",
       "symbol": "OUTSIDER",
       "name": "OUTSIDER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c6EfF81D09cB1EbE7cE87F4F2dF638f83B05b6C",
+      "symbol": "INU",
+      "name": "Inu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22021,
-    "minor": 22021,
+    "major": 22022,
+    "minor": 22022,
     "patch": 86
   }
 }
