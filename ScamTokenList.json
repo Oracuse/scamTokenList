@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAeAaeD5a9e41075A6976582a8801f6F9a044f52e",
-      "symbol": "0X",
-      "name": "ZEROX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBA5119c9C6996687B46af2DBf110d5aFe0a0Cf83",
       "symbol": "CRDS",
       "name": "coords",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x93905203cD8b021E7e5f3b9Fe9386d43EF33b2b8",
+      "symbol": "WOOFY",
+      "name": "WOOFY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22076,
-    "minor": 22076,
+    "major": 22077,
+    "minor": 22077,
     "patch": 86
   }
 }
