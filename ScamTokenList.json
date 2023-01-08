@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x21c27356Dff285D6362987F2E6f4640272577890",
-      "symbol": "FX",
-      "name": "FunctionProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x30d804f30B1a979666165189CA6427354a81f77f",
       "symbol": "CORNDOG",
       "name": "Corndog",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9e67cF2C911FECd4d296DEf6247a098D96ba118C",
+      "symbol": "MEME",
+      "name": "DontBuyMeme",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22064,
-    "minor": 22064,
+    "major": 22065,
+    "minor": 22065,
     "patch": 86
   }
 }
