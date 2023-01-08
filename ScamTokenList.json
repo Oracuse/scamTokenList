@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbf14fF2a35B6DBb059419f5666066780BBf4aF02",
-      "symbol": "DANK",
-      "name": "DankChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5AB6d6d5F56dA5498C5c4538E41ae00E36D5Ca6d",
       "symbol": "LIVE",
       "name": "LIVE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x632f8B585fE2670Cd96395a01d458A1243302776",
+      "symbol": "OBI",
+      "name": "OneBillionInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22093,
-    "minor": 22093,
+    "major": 22094,
+    "minor": 22094,
     "patch": 86
   }
 }
