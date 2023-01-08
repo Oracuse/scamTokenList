@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7A1D79d3FB28bF43F7FBb0cf94DeF403251B7e6E",
-      "symbol": "PROMOSHIKI",
-      "name": "MOMOSHIKIPROTOCOL",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x211e8D0009424c96CfE882e32D973449E000D783",
       "symbol": "SERVE",
       "name": "THEPEOPLEPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5Dee388Fd18B5bd619dF686c24c4BD6cEe7ea415",
+      "symbol": "TRG",
+      "name": "TheRugGame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22080,
-    "minor": 22080,
+    "major": 22081,
+    "minor": 22081,
     "patch": 86
   }
 }
