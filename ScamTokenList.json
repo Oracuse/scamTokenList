@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf357408DCCCF5b94cF16b229209922cEa86F6560",
-      "symbol": "FSB",
-      "name": "FSB",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x77A3ef9Db5F0042FF8c4d4F94783CcfaD82Ae937",
       "symbol": "THEX",
       "name": "TheXProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b2663229928662F604c87fD04885F9374Cfa1e",
+      "symbol": "POODLE",
+      "name": "PoodleInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22036,
-    "minor": 22036,
+    "major": 22037,
+    "minor": 22037,
     "patch": 86
   }
 }
