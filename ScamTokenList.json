@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x77A3ef9Db5F0042FF8c4d4F94783CcfaD82Ae937",
-      "symbol": "THEX",
-      "name": "TheXProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe5Fc38E5FF3F66cE55fa3E0B3e7Bb228BEB95eFE",
       "symbol": "COMMUNITY",
       "name": "PowerofaCommunity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc91031FEa9B9b800f067ef9782431E71223dE9aA",
+      "symbol": "KOTO",
+      "name": "Koto",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22037,
-    "minor": 22037,
+    "major": 22038,
+    "minor": 22038,
     "patch": 86
   }
 }
