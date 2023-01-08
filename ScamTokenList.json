@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF3bd4c2816d3E0f8928C36138247f1afd878430c",
-      "symbol": "ADPINU",
-      "name": "AdoptionInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x033d910f02A6c76156C993C897af34F93Ee5803a",
       "symbol": "ADOPTION20",
       "name": "ProofofCrypto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x35f3591fa52cD7631cb084a26b4B3E56b400ebf2",
+      "symbol": "GSINU",
+      "name": "GreenShibInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22029,
-    "minor": 22029,
+    "major": 22030,
+    "minor": 22030,
     "patch": 86
   }
 }
