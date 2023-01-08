@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd34ADfc19Cc1Ca4Fc1778927d6b767f0A15A1F4f",
-      "symbol": "TD",
-      "name": "THEDOGE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd548B4a891E42e1c49448a4e1b59d0d3FDa44571",
       "symbol": "TIP",
       "name": "TipTravelCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75500c23F1BbEF547Da0BC69844715ea442227BA",
+      "symbol": "AI",
+      "name": "LawyerAi",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22060,
-    "minor": 22060,
+    "major": 22061,
+    "minor": 22061,
     "patch": 86
   }
 }
