@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xccAB277b2eA7BC291Efc68aFFcE5928431AF3c38",
-      "symbol": "FWC",
-      "name": "FantasyWorldCup",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6a1dD5E0A09d74aF39e706d8CB41Bc05F345aFED",
       "symbol": "LSRPRT",
       "name": "LASERPROTOCAL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14708D5579Dae9de10566A93368306765BfD395E",
+      "symbol": "OHBI",
+      "name": "OneHundredBillionIn",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22020,
-    "minor": 22020,
+    "major": 22021,
+    "minor": 22021,
     "patch": 86
   }
 }
