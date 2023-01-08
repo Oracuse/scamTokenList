@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x409Fa42882D4a80f234e572509aC5012545029BE",
-      "symbol": "ETHE",
-      "name": "ETHE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x721556D56c310549452CFD8F64A7A7c00C5db285",
       "symbol": "PERIOD",
       "name": "Periodically",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd3932046C3535D230F9e669E06398Aa922c85f1f",
+      "symbol": "F",
+      "name": "F",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22083,
-    "minor": 22083,
+    "major": 22084,
+    "minor": 22084,
     "patch": 86
   }
 }
