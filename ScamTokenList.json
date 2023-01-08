@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62A33F9aE953f34914157505964E4755005755D6",
-      "symbol": "PP",
-      "name": "PrivateProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf2CDAFCd7Ae98547ae369A1F6e4F912a5F9E5E77",
       "symbol": "BPTR",
       "name": "BTCPrinter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xccC55C70AE02F407c36a196A61571B4e14CF84D2",
+      "symbol": "GOOGLE",
+      "name": "GoogleDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22051,
-    "minor": 22051,
+    "major": 22052,
+    "minor": 22052,
     "patch": 86
   }
 }
