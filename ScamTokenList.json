@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x30d65aDCb2174e41867c56096610050574F79841",
-      "symbol": "ADOPTION",
-      "name": "CryptoAdoption",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF3bd4c2816d3E0f8928C36138247f1afd878430c",
       "symbol": "ADPINU",
       "name": "AdoptionInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7051Dea992dd70891a0DE721f6Df59eE8A4F1022",
+      "symbol": "AKITA",
+      "name": "AkitaInu",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22028,
-    "minor": 22028,
+    "major": 22029,
+    "minor": 22029,
     "patch": 86
   }
 }
