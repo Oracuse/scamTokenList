@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3067227b9c246f83b32005535e157aC569fD62A8",
-      "symbol": "CHOCOLATE",
-      "name": "chocolate",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0611BD559B1FDf21608f18fb7FE3657A30506caf",
       "symbol": "CHOCOX",
       "name": "ChocolateX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92958d8128A23bCcbc9a7d580F38f19F0d6Ce61e",
+      "symbol": "BLACKSHIBA",
+      "name": "BIBA",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22039,
-    "minor": 22039,
+    "major": 22040,
+    "minor": 22040,
     "patch": 86
   }
 }
