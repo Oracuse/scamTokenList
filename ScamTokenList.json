@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x232937B59f7AF7Af50D6b173a1E6EC5436093fC9",
-      "symbol": "BRR",
-      "name": "MoneyPrinter",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd34ADfc19Cc1Ca4Fc1778927d6b767f0A15A1F4f",
       "symbol": "TD",
       "name": "THEDOGE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x162754b6BeaCfD245A0e6615Fe4081cFb0C5CD86",
+      "symbol": "PRS",
+      "name": "Perseus",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22059,
-    "minor": 22059,
+    "major": 22060,
+    "minor": 22060,
     "patch": 86
   }
 }
