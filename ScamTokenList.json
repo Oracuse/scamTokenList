@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9824192Dfa7D3d52b80DF4E63999A18492F361c6",
-      "symbol": "LBR",
-      "name": "LastBullRun",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc58d71adE18DFe9de3EC89Ab2692903FF66680a3",
       "symbol": "WAIFU",
       "name": "Idamura",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B8908739e7439fc1D5d163dB83f4f4469e2AD1E",
+      "symbol": "SBONK",
+      "name": "SatoshiBonk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22062,
-    "minor": 22062,
+    "major": 22063,
+    "minor": 22063,
     "patch": 86
   }
 }
