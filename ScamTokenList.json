@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4DA0d96Fce1513bef44290920a405f23633a2bF5",
-      "symbol": "POCA",
-      "name": "ProofOfCryptoAdopti",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8e3AB0e1e2fe45C2316eCd7C612C8449eD24bd8b",
       "symbol": "CKFSHIB",
       "name": "CryptoKungFuShib",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x661F2471A52482f6f73a493aD5BaC8489df5053d",
+      "symbol": "SHIBA",
+      "name": "ShibaShiba",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22034,
-    "minor": 22034,
+    "major": 22035,
+    "minor": 22035,
     "patch": 86
   }
 }
