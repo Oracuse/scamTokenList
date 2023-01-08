@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc9cA4Bd6cf1f3247b5cfA6fE55db3D663cb1c242",
-      "symbol": "ADP",
-      "name": "AdoptionProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x30d65aDCb2174e41867c56096610050574F79841",
       "symbol": "ADOPTION",
       "name": "CryptoAdoption",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3EE7CF96EDA680BB375C4387F5A21d9004a0B81e",
+      "symbol": "INU",
+      "name": "INUminati",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22027,
-    "minor": 22027,
+    "major": 22028,
+    "minor": 22028,
     "patch": 86
   }
 }
