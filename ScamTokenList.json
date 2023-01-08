@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2D18c04E86B3C5EeC42A59456b7F306F36394a04",
-      "symbol": "DANK",
-      "name": "DankChain",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4C03B75652949200Ebc69B2daDa561332AA65dF8",
       "symbol": "YEAR",
       "name": "TheYearProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7efaF8A61f4555E4BA61407DD7B18F74A66844BF",
+      "symbol": "NOTDOGE",
+      "name": "NotAnotherDogeCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22102,
-    "minor": 22102,
+    "major": 22103,
+    "minor": 22103,
     "patch": 86
   }
 }
