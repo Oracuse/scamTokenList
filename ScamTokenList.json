@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x03558d9c0ce47eBB5f792f774c28329E22725bA7",
-      "symbol": "WCPROTOCOL",
-      "name": "WorldcupProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x36D90809d6E448bE470d61b2410b5187682E8fE6",
       "symbol": "SAISHO",
       "name": "THEFIRST",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0957e97F493E15c6277708b9ecd14aEe83F0044",
+      "symbol": "SHIKEN",
+      "name": "ShikokuKen",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22032,
-    "minor": 22032,
+    "major": 22033,
+    "minor": 22033,
     "patch": 86
   }
 }
