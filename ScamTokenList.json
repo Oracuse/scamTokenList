@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x587057D7E7a0058C3706F11FA89ccb0870760675",
-      "symbol": "EF",
-      "name": "EFlection",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62A33F9aE953f34914157505964E4755005755D6",
       "symbol": "PP",
       "name": "PrivateProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC779c1e67Ff1DED28B624aD2293b42AB4B2b9e55",
+      "symbol": "TLTX",
+      "name": "ULTX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22050,
-    "minor": 22050,
+    "major": 22051,
+    "minor": 22051,
     "patch": 86
   }
 }
