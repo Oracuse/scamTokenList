@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x48e2484be0418D0194214c9Cc582C79e0BC0bFF3",
-      "symbol": "NASA",
-      "name": "NASA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x045f79Aa54FcbF354b0811b9E73E6EcD23371196",
       "symbol": "LAUNDRY",
       "name": "DirtySocks",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x63c9EcEC500f69f6B660893EE42B1ea489537dbE",
+      "symbol": "FTX",
+      "name": "FTX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22046,
-    "minor": 22046,
+    "major": 22047,
+    "minor": 22047,
     "patch": 86
   }
 }
