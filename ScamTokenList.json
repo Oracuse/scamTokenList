@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x939d8D43057A0ee1067d1dF3Be9137Ad92A16f71",
-      "symbol": "TENGOKU",
-      "name": "TENGOKUSPACE",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC30496B031A92c0006EcB0B4729B66469186dA43",
       "symbol": "SAIKAIDO",
       "name": "Saikaido",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb2e797EdD555BDd59d32FBCA89cEB5119531fB50",
+      "symbol": "1INU",
+      "name": "OneInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22087,
-    "minor": 22087,
+    "major": 22088,
+    "minor": 22088,
     "patch": 86
   }
 }
