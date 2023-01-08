@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x07f08330237aA3d6948DEEaeD25598eDB4425180",
-      "symbol": "DEATH",
-      "name": "Shinigami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x232937B59f7AF7Af50D6b173a1E6EC5436093fC9",
       "symbol": "BRR",
       "name": "MoneyPrinter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5FE169aaBf043135774D86cb481DB934CaC9957A",
+      "symbol": "OHMI",
+      "name": "OneHundredMillionIn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22058,
-    "minor": 22058,
+    "major": 22059,
+    "minor": 22059,
     "patch": 86
   }
 }
