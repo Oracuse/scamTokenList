@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x97E72f77af60f8e319f52d56f559509c8adBB3F1",
-      "symbol": "JP",
-      "name": "JelloProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4C46316e5DC26ca600a17061a47864Ea442e534F",
       "symbol": "WIN",
       "name": "LETTUCE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3037EBE72D60379bEBeEE878F0C4da927829F381",
+      "symbol": "SDAO",
+      "name": "SHIBDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22044,
-    "minor": 22044,
+    "major": 22045,
+    "minor": 22045,
     "patch": 86
   }
 }
