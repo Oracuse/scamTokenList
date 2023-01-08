@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc56c7520fa4E07892016980df48Ae62505CAc750",
-      "symbol": "NAME",
-      "name": "NAME",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x27E8db7959cA215fcE2b47B240152AAA024050E1",
       "symbol": "LECH",
       "name": "Etherna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F1047F0c193069c36b3974887E644c0586A2479",
+      "symbol": "PLUTO",
+      "name": "PlutoInuAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22066,
-    "minor": 22066,
+    "major": 22067,
+    "minor": 22067,
     "patch": 86
   }
 }
