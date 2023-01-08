@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x139d3A7392f26Fb8916988Ec94B2DE705cfD13e4",
-      "symbol": "THTW",
-      "name": "ThatTweet",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe7381c1B363e23934467A91092c6627A3E713183",
       "symbol": "APEX",
       "name": "THEAPEX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x032059B2C5d8A695FEa17ab8498E8555b22e2861",
+      "symbol": "HUSKY",
+      "name": "HuskyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22042,
-    "minor": 22042,
+    "major": 22043,
+    "minor": 22043,
     "patch": 86
   }
 }
