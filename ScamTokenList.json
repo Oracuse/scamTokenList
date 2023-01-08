@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x816A1D8bB799301F4D59a22D9f5166c9fd72A930",
-      "symbol": "CHARTS",
-      "name": "Charts",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x83f2f1c826A6c4f08966219577A2f88bb7A9A388",
       "symbol": "VINU",
       "name": "VitalikInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed0C48764f3184fE8fDcA99Ea38F65248aCF121b",
+      "symbol": "HG",
+      "name": "HUNGRYGHOSTS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22091,
-    "minor": 22091,
+    "major": 22092,
+    "minor": 22092,
     "patch": 86
   }
 }
