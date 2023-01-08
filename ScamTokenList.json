@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28FD534381c7fded8381418CB5eF1cA3ECb2B3e7",
-      "symbol": "MACHINA",
-      "name": "MACHINA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4092B14Bc3B22Df6711359BD1aBb2faB070b25F0",
       "symbol": "YNEI",
       "name": "Youxinei",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29444cbCbaB17fD02dDF2FCC324596fB420a88e1",
+      "symbol": "KNOT",
+      "name": "TheEternalKnot",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22055,
-    "minor": 22055,
+    "major": 22056,
+    "minor": 22056,
     "patch": 86
   }
 }
