@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC30496B031A92c0006EcB0B4729B66469186dA43",
-      "symbol": "SAIKAIDO",
-      "name": "Saikaido",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7b47b1EDA9A6C23972Bef6063770E808011eF75E",
       "symbol": "SUI",
       "name": "SUIET",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x90bC9dD7940e3572d7BFe0026e771352Dd9f13e0",
+      "symbol": "SHIBONK",
+      "name": "ShibaBonk",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22088,
-    "minor": 22088,
+    "major": 22089,
+    "minor": 22089,
     "patch": 86
   }
 }
