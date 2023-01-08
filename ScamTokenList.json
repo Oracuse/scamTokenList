@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfa5C16D42D1Cc2509Ef396e908039FF666537c62",
-      "symbol": "BR",
-      "name": "Breath",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb61eb1Ba75aA9C7942B1fEF8cC911f4A4e52FB79",
       "symbol": "DEAD",
       "name": "DeadProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE56e1E609EaE719F844C28D94635b72F4191bBC3",
+      "symbol": "DOG",
+      "name": "THEAMERICANDOG",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22100,
-    "minor": 22100,
+    "major": 22101,
+    "minor": 22101,
     "patch": 86
   }
 }
