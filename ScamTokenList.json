@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0611BD559B1FDf21608f18fb7FE3657A30506caf",
-      "symbol": "CHOCOX",
-      "name": "ChocolateX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFf8992B18CD0A5D5D6D63A33D9279e7Da1B4a6d8",
       "symbol": "VBX",
       "name": "VitalikButerinX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4696Ec36f1858f99E98685097B6c532e9D4549eF",
+      "symbol": "EXURBIA",
+      "name": "Exurbia",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22040,
-    "minor": 22040,
+    "major": 22041,
+    "minor": 22041,
     "patch": 86
   }
 }
