@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4e8D271F5C58992162b496cFB5Be4a621E57826a",
-      "symbol": "GUD20",
-      "name": "AnotherGudCoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE3A65D333B2D9dC2F0035570BAbDe74B82b60aAD",
       "symbol": "7SATANS",
       "name": "7Satans",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5B8919517b1DA45EC3B5874859CD6a80b5d0AA8A",
+      "symbol": "OBI",
+      "name": "OneBillionInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22097,
-    "minor": 22097,
+    "major": 22098,
+    "minor": 22098,
     "patch": 86
   }
 }
