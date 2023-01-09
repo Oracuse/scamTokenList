@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2601878Cc123717Bc22d905e26D857623e41541F",
-      "symbol": "BOGEN",
-      "name": "BORINGDEGEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x36844E3263dB534ECef86E730bEc616c6787B59e",
       "symbol": "BET",
       "name": "BabyEthereum",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0189e13Fa42Be139eCeF38AFc9018EF6ae741d9C",
+      "symbol": "WHA",
+      "name": "WhaleTools",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22202,
-    "minor": 22202,
+    "major": 22203,
+    "minor": 22203,
     "patch": 86
   }
 }
