@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x966457fD91f8a0138C421CF8A00b009514b352A3",
-      "symbol": "NOTHING",
-      "name": "NothingIsForever",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x841C6022E0bF315A94a7Bf5095EA2F7706740B8C",
       "symbol": "PERI",
       "name": "ThePeripheralProtoc",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e0289780b3cE3e241CD288E2A79109c52ba4A2E",
+      "symbol": "MADAS",
+      "name": "MADAS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22200,
-    "minor": 22200,
+    "major": 22201,
+    "minor": 22201,
     "patch": 86
   }
 }
