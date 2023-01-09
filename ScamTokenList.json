@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1737bcF0B6E79DD1D47B0A65AaBaf833883e326E",
-      "symbol": "GBST",
-      "name": "GhostBusdy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDCB346c94eEd9c2F410243E0a04D60612F36c0dE",
       "symbol": "LONGWAY",
       "name": "ALongWay",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09F177Cf8A28CFBA97C82181201325508d7F98Cd",
+      "symbol": "CBONK",
+      "name": "CheemBonk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22194,
-    "minor": 22194,
+    "major": 22195,
+    "minor": 22195,
     "patch": 86
   }
 }
