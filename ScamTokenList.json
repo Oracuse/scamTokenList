@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x134C6d745FD4C304CaE0d727F25C2b3aF293f6d7",
-      "symbol": "NOTHING",
-      "name": "NothingProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf475E5dcCD918108ec7C1F843C7245904B453318",
       "symbol": "VITALIKETH",
       "name": "vitaliketh",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83a5a471fE866EeF8bC07C1b5618F18e349CCa52",
+      "symbol": "DOCI",
+      "name": "THEDOCINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22192,
-    "minor": 22192,
+    "major": 22193,
+    "minor": 22193,
     "patch": 86
   }
 }
