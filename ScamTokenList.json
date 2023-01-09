@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x32049DF94C838902F6396212dc5872326712d908",
-      "symbol": "MYSTERY",
-      "name": "7Wonders",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x490AAEb45EBBE33d0053FFa771c83F049F723A1d",
       "symbol": "BOTALIK",
       "name": "BORINGVITALIK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6cfFb3B535d8a79e2166cA4c0f5412cD1542b121",
+      "symbol": "AKAMARU",
+      "name": "AkamaruInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22222,
-    "minor": 22222,
+    "major": 22223,
+    "minor": 22223,
     "patch": 86
   }
 }
