@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6281F6Bd0A9deed4d55a2CF4D30c2a59284Bc424",
-      "symbol": "77",
-      "name": "77",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA2C3773A730B9f78553a1DcddC32461adfF44674",
       "symbol": "ACP",
       "name": "AlphaChadProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61C44A7dB3A2e9eCDb935e0963bC3Cea1a6FdfF1",
+      "symbol": "BALLOON",
+      "name": "Balloon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22165,
-    "minor": 22165,
+    "major": 22166,
+    "minor": 22166,
     "patch": 86
   }
 }
