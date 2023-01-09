@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5d97174F80273FA2DE4993D1a8E53957ef9E4155",
-      "symbol": "HEAR",
-      "name": "HearProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6aA28d1df6f448E37B866C20DDd20408A018020d",
       "symbol": "HEAR",
       "name": "TheHearProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3205f51649dB849ae9a8aF36e14D632e641ee450",
+      "symbol": "WEB23",
+      "name": "Web23",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22109,
-    "minor": 22109,
+    "major": 22110,
+    "minor": 22110,
     "patch": 86
   }
 }
