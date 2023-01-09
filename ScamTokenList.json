@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa529943013edf882eA68912dB04Ef8Dd04533b0C",
-      "symbol": "NOTHING",
-      "name": "NothingProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x18f40A6347819cC7Db046a7349F79a37b075f112",
       "symbol": "NOTHING",
       "name": "NOTHINGPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x063deaeC8B4516edf13BD7bb2B0D10b02E0A5e06",
+      "symbol": "DOSU",
+      "name": "Dogebosu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22180,
-    "minor": 22180,
+    "major": 22181,
+    "minor": 22181,
     "patch": 86
   }
 }
