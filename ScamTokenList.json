@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6b7e367A8464818eDe8b6E212F380c360247Ecf6",
-      "symbol": "SB",
-      "name": "SundayBlues",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBC7d1FF775d02321ed9aF6008828456d7deB7f08",
       "symbol": "TWITTER",
       "name": "TwitterProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDed15DBE9515C3c45276eD70c8D8603b31c9dc3A",
+      "symbol": "KOZI",
+      "name": "Kozi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22169,
-    "minor": 22169,
+    "major": 22170,
+    "minor": 22170,
     "patch": 86
   }
 }
