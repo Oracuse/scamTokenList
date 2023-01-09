@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf56990d374501Cb62DDA85960a810b356fd958D5",
-      "symbol": "HEARINU",
-      "name": "HearInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x827e0860971e22408F9F267833E84a798139C073",
       "symbol": "GTI",
       "name": "GoodThreadInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb219b0b203f6fB2AD1D069AA0381d6Cc09e8bfe3",
+      "symbol": "SHIBA",
+      "name": "Shibuya",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22113,
-    "minor": 22113,
+    "major": 22114,
+    "minor": 22114,
     "patch": 86
   }
 }
