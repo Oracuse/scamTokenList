@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1a848855B63DAC25b339Deea78D48b890511aB07",
-      "symbol": "OS",
-      "name": "OnlyStables",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbBCd06Ee68477D14D6e6FfC8D312Cb3aF87Af42c",
       "symbol": "BLKD",
       "name": "Blacked",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x47042F7f873d31473104E58Be55CdC79F5ebDF51",
+      "symbol": "DOSU",
+      "name": "Dogebosu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22213,
-    "minor": 22213,
+    "major": 22214,
+    "minor": 22214,
     "patch": 86
   }
 }
