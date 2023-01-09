@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc5a97125d4dd43D979B08803bA6E53AB43C4c040",
-      "symbol": "VANISH",
-      "name": "VANISH",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x485b593Ef171Eda9c1dCd00D38cF52bBE37Df079",
       "symbol": "GRIFT",
       "name": "GriffinTrust",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFfFf4c7A7282E67C191dC57eF8b6302B7AAD8dF2",
+      "symbol": "CDS",
+      "name": "CapitalistDAOStruct",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22157,
-    "minor": 22157,
+    "major": 22158,
+    "minor": 22158,
     "patch": 86
   }
 }
