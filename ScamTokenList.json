@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x827e0860971e22408F9F267833E84a798139C073",
-      "symbol": "GTI",
-      "name": "GoodThreadInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x677AE14a05A9D47ef1E748E4e28428F38c4473c6",
       "symbol": "NUMEN",
       "name": "NumenProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB21AE9E8F259569c1432486C84271311Ab1dFF19",
+      "symbol": "RSE",
+      "name": "RogueSpace",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22114,
-    "minor": 22114,
+    "major": 22115,
+    "minor": 22115,
     "patch": 86
   }
 }
