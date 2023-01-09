@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAED452E092A0CE9317cceDD1436B91E5b691Fdba",
-      "symbol": "DCCPA",
-      "name": "DCCPAProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb11e007b49699A9Be0ca2d4A3dA844a59Ea24b6B",
       "symbol": "CFTC",
       "name": "CFTC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0f8315655A93e946F5f971006893B62b59c05622",
+      "symbol": "OTI",
+      "name": "OneTrillionInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22206,
-    "minor": 22206,
+    "major": 22207,
+    "minor": 22207,
     "patch": 86
   }
 }
