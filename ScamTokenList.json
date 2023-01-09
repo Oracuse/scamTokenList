@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB9A37383CE06602B076d7FaF13bb34f0696A2926",
-      "symbol": "BCI",
-      "name": "BorderChangeInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc5a97125d4dd43D979B08803bA6E53AB43C4c040",
       "symbol": "VANISH",
       "name": "VANISH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x64E6D122aCc250dd2088857787BB8fe858AAD01B",
+      "symbol": "SUPPLY",
+      "name": "SupplyINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22156,
-    "minor": 22156,
+    "major": 22157,
+    "minor": 22157,
     "patch": 86
   }
 }
