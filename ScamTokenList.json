@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x30E6DE683BcB7E8030433bD1b3517787d2ED871E",
-      "symbol": "24X7",
-      "name": "24x7Protocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x515172E50D0C099F5ae440F1f49882f5698a5f95",
       "symbol": "EVERYDAY",
       "name": "CryptoProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD27837674e0BD3eEeA80bf8761B143c33f5F3dA2",
+      "symbol": "TRADIX",
+      "name": "TRADIX",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22215,
-    "minor": 22215,
+    "major": 22216,
+    "minor": 22216,
     "patch": 86
   }
 }
