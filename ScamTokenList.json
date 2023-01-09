@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF5e48E3481212796C07E05695c1a46eFCC296200",
-      "symbol": "FOREVER",
-      "name": "ForeverProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x461012552ee8e02f85f12E88DCF857A8FAD3362A",
       "symbol": "NOTHING",
       "name": "NothingInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38c5EF162EdcaAf0A744dFd911356cDcd47c2B03",
+      "symbol": "C30",
+      "name": "CRYPTOCHAT",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22189,
-    "minor": 22189,
+    "major": 22190,
+    "minor": 22190,
     "patch": 86
   }
 }
