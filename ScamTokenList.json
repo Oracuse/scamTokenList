@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x862738AAc4DbBC3b2debE9BD5278EED95e75477F",
-      "symbol": "BLACKADAMINU",
-      "name": "ADAM",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3B4212b846B4d4bfc763834e95535A94b4605De4",
       "symbol": "SKDV",
       "name": "Skulldivco",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5aB19CE5dE5A05ea3bE519659D66C41Df9b10a5",
+      "symbol": "GIGI",
+      "name": "URGIGI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22127,
-    "minor": 22127,
+    "major": 22128,
+    "minor": 22128,
     "patch": 86
   }
 }
