@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6aA28d1df6f448E37B866C20DDd20408A018020d",
-      "symbol": "HEAR",
-      "name": "TheHearProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcB5CDDc30090203629ef89155407694909680E96",
       "symbol": "OUTSIDER",
       "name": "OUTSIDER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA5B0f4C3aa57ABf5c72Bdbac92363C9F4A93b444",
+      "symbol": "PUMP",
+      "name": "PumpCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22110,
-    "minor": 22110,
+    "major": 22111,
+    "minor": 22111,
     "patch": 86
   }
 }
