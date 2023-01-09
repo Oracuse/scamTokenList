@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4E93d0779beC17f6137bAb00A809B96EdB5cA9da",
-      "symbol": "SFM20",
-      "name": "ProofofSafemoon",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF5e48E3481212796C07E05695c1a46eFCC296200",
       "symbol": "FOREVER",
       "name": "ForeverProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3960BA9F12Bc5e2483951a473622DdF0A83D9C06",
+      "symbol": "SPRO",
+      "name": "SolanaPro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22188,
-    "minor": 22188,
+    "major": 22189,
+    "minor": 22189,
     "patch": 86
   }
 }
