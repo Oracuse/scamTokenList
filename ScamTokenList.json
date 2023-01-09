@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA2C3773A730B9f78553a1DcddC32461adfF44674",
-      "symbol": "ACP",
-      "name": "AlphaChadProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8a995b6f6A6e5EB1fC2AfC3748e16CDA2539e98F",
       "symbol": "BOKKU",
       "name": "BabyBurokku",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x492bAFc4da0550307c4Aa0A837190cDA24511bBb",
+      "symbol": "CHICKY",
+      "name": "ChickyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22166,
-    "minor": 22166,
+    "major": 22167,
+    "minor": 22167,
     "patch": 86
   }
 }
