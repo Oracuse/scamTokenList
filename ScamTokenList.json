@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB86Ca02FC3Fd5d1986A587a8C1270997BA1cB73C",
-      "symbol": "LOCKJAW",
-      "name": "LOCKJAWINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4791476aac80a58e310E892b5F936bE3FdE0ea4d",
       "symbol": "IFT",
       "name": "IslamFanToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1C59e3DeEa53F65bdBE51Ff3ACD8E1519bE5da0",
+      "symbol": "V",
+      "name": "VirtualMoney",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22139,
-    "minor": 22139,
+    "major": 22140,
+    "minor": 22140,
     "patch": 86
   }
 }
