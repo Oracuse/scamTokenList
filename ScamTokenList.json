@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x841C6022E0bF315A94a7Bf5095EA2F7706740B8C",
-      "symbol": "PERI",
-      "name": "ThePeripheralProtoc",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2601878Cc123717Bc22d905e26D857623e41541F",
       "symbol": "BOGEN",
       "name": "BORINGDEGEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBbbcC29d37cA8DD5F9713dCD17c11dDEDaA18401",
+      "symbol": "DOSU",
+      "name": "DOGEBOSU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22201,
-    "minor": 22201,
+    "major": 22202,
+    "minor": 22202,
     "patch": 86
   }
 }
