@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf475E5dcCD918108ec7C1F843C7245904B453318",
-      "symbol": "VITALIKETH",
-      "name": "vitaliketh",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1737bcF0B6E79DD1D47B0A65AaBaf833883e326E",
       "symbol": "GBST",
       "name": "GhostBusdy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBEFf1139bc800A8241E6948a99F647419d953789",
+      "symbol": "ALPHA",
+      "name": "TheAlpha",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22193,
-    "minor": 22193,
+    "major": 22194,
+    "minor": 22194,
     "patch": 86
   }
 }
