@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9A580964E8da19feD05a1897685338F34bDb7013",
-      "symbol": "MYSTERY",
-      "name": "7Wonders",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAB5dAd6F3c3303adD4A582275e4868a846714088",
       "symbol": "ZERO",
       "name": "ZEROProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x412bA5f6e293717575f0E3Ce825f1B9EDf211996",
+      "symbol": "TAIK",
+      "name": "Taikutsu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22220,
-    "minor": 22220,
+    "major": 22221,
+    "minor": 22221,
     "patch": 86
   }
 }
