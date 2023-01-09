@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3bb982E67cFE8b022ed73BE9E72AacF887d673DE",
-      "symbol": "INSIDOOR",
-      "name": "TheInsidoor",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC1A3A7A6DC0Ec2BE5EFE4B2b66Cd79092Fc6c645",
       "symbol": "MANUFACTURING",
       "name": "Manufacturing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x60CCEA06d2e7E13087D3d40B7553C026AE2942Ad",
+      "symbol": "SPUE",
+      "name": "SnapUniverse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22144,
-    "minor": 22144,
+    "major": 22145,
+    "minor": 22145,
     "patch": 86
   }
 }
