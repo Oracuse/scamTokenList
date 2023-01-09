@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd43907061AB1411ac302428F199a039efA43b24F",
-      "symbol": "IFT",
-      "name": "IslamFanToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9b8475596F2D4cd1Ed2F0aE20F83b1d1b0E73129",
       "symbol": "VB",
       "name": "Vbrain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x168eF928Cc40472D8735603bEA785828a74645Ae",
+      "symbol": "TF",
+      "name": "TFans",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22148,
-    "minor": 22148,
+    "major": 22149,
+    "minor": 22149,
     "patch": 86
   }
 }
