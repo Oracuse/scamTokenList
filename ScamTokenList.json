@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1eE53bb6EB44B1bF958642e9a4cEb3baD78Bd0Fd",
-      "symbol": "SOMETHING",
-      "name": "SomethingProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8F35E8a857016cdf19f09921028D7e520049d64D",
       "symbol": "VESTG",
       "name": "veSTG",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd273986c30b15cC0e4FBf94Ad3F96119598654b6",
+      "symbol": "NZARU",
+      "name": "NZARU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22208,
-    "minor": 22208,
+    "major": 22209,
+    "minor": 22209,
     "patch": 86
   }
 }
