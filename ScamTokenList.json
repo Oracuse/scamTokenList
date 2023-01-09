@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBC7d1FF775d02321ed9aF6008828456d7deB7f08",
-      "symbol": "TWITTER",
-      "name": "TwitterProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE428A37726f69ac5cf1Fb2C788C2cE260A42F432",
       "symbol": "PIE",
       "name": "PumpkinPie",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x329c3440f400B2f9f970b56d866d75Dcab2ca805",
+      "symbol": "ROKU",
+      "name": "Rokkaku",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22170,
-    "minor": 22170,
+    "major": 22171,
+    "minor": 22171,
     "patch": 86
   }
 }
