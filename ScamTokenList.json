@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x485b593Ef171Eda9c1dCd00D38cF52bBE37Df079",
-      "symbol": "GRIFT",
-      "name": "GriffinTrust",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88caAF61f16735564b2E21969cA7949Cf0a4F5e9",
       "symbol": "7GOV",
       "name": "7ProtocolGovernment",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e1d94BC94c3817d784ff2C61B82A6657e306406",
+      "symbol": "MARIN",
+      "name": "MarinToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22158,
-    "minor": 22158,
+    "major": 22159,
+    "minor": 22159,
     "patch": 86
   }
 }
