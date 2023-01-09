@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0b04E1427bFAfDA6B3e968eA082ce3AF82384bEd",
-      "symbol": "POINT",
-      "name": "point",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA2C22418bE1D9b568534f2E4879Cd1724ba31329",
       "symbol": "BPI",
       "name": "BLACKPINK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x789E7ED00085bC529eF568bD45B66f935A52a841",
+      "symbol": "INTEL",
+      "name": "Intel",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22152,
-    "minor": 22152,
+    "major": 22153,
+    "minor": 22153,
     "patch": 86
   }
 }
