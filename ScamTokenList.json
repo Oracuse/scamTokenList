@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x02bE042275306c8aA6170295A4Dd2714739b8919",
-      "symbol": "ODA",
-      "name": "OdaNobunaga",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4231F3B5053c76E0b283F7461c1cCa0893bcAEE3",
       "symbol": "FOREVER",
       "name": "IKnowNothingIsForev",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8072e6615015feb9e29aF92445f9006422936C7f",
+      "symbol": "DPRO",
+      "name": "DegenPro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22177,
-    "minor": 22177,
+    "major": 22178,
+    "minor": 22178,
     "patch": 86
   }
 }
