@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36844E3263dB534ECef86E730bEc616c6787B59e",
-      "symbol": "BET",
-      "name": "BabyEthereum",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD95be1f66a60854e89d0f023Ba57bdE795503283",
       "symbol": "SUISWAP",
       "name": "suiswap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfc1Be3db562B35feffc3507dA3c00D86e43dD433",
+      "symbol": "WHA",
+      "name": "WhaleTools",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22203,
-    "minor": 22203,
+    "major": 22204,
+    "minor": 22204,
     "patch": 86
   }
 }
