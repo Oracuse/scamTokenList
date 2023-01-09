@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x14c0d46b802C4FE4e2296C5E0A68828e7a2e39f9",
-      "symbol": "DRAGN",
-      "name": "THETyrantProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25f503CE64bFa73eC56e0FC40B37CdFa638b1CEE",
       "symbol": "BABYBTC",
       "name": "BabyBTC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb57D497813a176a34be1Cfe80b4a98D9ca2CDA84",
+      "symbol": "CAP",
+      "name": "CaptainCap",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22172,
-    "minor": 22172,
+    "major": 22173,
+    "minor": 22173,
     "patch": 86
   }
 }
