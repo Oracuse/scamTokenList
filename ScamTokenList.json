@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x490AAEb45EBBE33d0053FFa771c83F049F723A1d",
-      "symbol": "BOTALIK",
-      "name": "BORINGVITALIK",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd903B2cF4c59895d177029439D9dD0B29381ffCc",
       "symbol": "742",
       "name": "742Protocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2093B08B6f7B7FE0AE2DA8e8beDd4eDBAFa51c6C",
+      "symbol": "CB",
+      "name": "CatBurn",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22223,
-    "minor": 22223,
+    "major": 22224,
+    "minor": 22224,
     "patch": 86
   }
 }
