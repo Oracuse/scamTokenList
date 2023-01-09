@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x829756165Ce3513B6AAfD50C89b6F5B3a508ACc9",
-      "symbol": "EXIST",
-      "name": "EXIST",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc4EbA2E90d3E9E2401A546e160cf5077e18AD92e",
       "symbol": "TDX",
       "name": "TheDieX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49947914cf968C7f33d42Ac1EdCf59BBa6e79228",
+      "symbol": "FRONK",
+      "name": "FronkInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22162,
-    "minor": 22162,
+    "major": 22163,
+    "minor": 22163,
     "patch": 86
   }
 }
