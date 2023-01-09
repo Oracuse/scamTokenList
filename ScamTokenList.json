@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x99d7a81116B57086E4ced91ECe6ff382674DB6b0",
-      "symbol": "UFCINU",
-      "name": "UFCINU",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x017E9CcDCf207924E8eab1ce59FaF347Bf950A7a",
       "symbol": "PUMPINU",
       "name": "PumpkinInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1fbcfC0c924ab227815166331D4c5286017A0A49",
+      "symbol": "DALMATION",
+      "name": "DalmatonInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22130,
-    "minor": 22130,
+    "major": 22131,
+    "minor": 22131,
     "patch": 86
   }
 }
