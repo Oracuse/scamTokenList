@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0F492639D936A0016033C4378d9CBe07b06bC0Ab",
-      "symbol": "TEST",
-      "name": "donotbuy",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6857c3146B16634abD96082bbbFD061170BDf780",
       "symbol": "MOJO",
       "name": "Mojo",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x91e751002a5eFAa2450ab5bF4b562F4388F60764",
+      "symbol": "BULPA",
+      "name": "BulpaDragon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22141,
-    "minor": 22141,
+    "major": 22142,
+    "minor": 22142,
     "patch": 86
   }
 }
