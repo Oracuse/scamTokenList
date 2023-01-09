@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2f03e253f0B2584788D5428707B522F53977AA37",
-      "symbol": "ZINU",
-      "name": "ZINU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x965b8aE55F21998B877eE35cb6b50B01Ec6b252A",
       "symbol": "FOREVER",
       "name": "ForeverInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2254439BCFc1B099eF0d49409D07670d85cc28c6",
+      "symbol": "PINU",
+      "name": "PHELANINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22184,
-    "minor": 22184,
+    "major": 22185,
+    "minor": 22185,
     "patch": 86
   }
 }
