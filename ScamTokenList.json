@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4791476aac80a58e310E892b5F936bE3FdE0ea4d",
-      "symbol": "IFT",
-      "name": "IslamFanToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0F492639D936A0016033C4378d9CBe07b06bC0Ab",
       "symbol": "TEST",
       "name": "donotbuy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x191BDa825c203Ceed6DEec558994F0565a209cD4",
+      "symbol": "PHP",
+      "name": "PaperHandProtocol",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22140,
-    "minor": 22140,
+    "major": 22141,
+    "minor": 22141,
     "patch": 86
   }
 }
