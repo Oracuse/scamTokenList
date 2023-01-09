@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x17B5E3A10d3BB3d083D74B4b56390e1C9257d978",
-      "symbol": "XMAS",
-      "name": "XmasProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x77A65837E1fb9a4630C7cB8A35dfa3d5c4C8D59f",
       "symbol": "EM",
       "name": "ElonMusk",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x664f156054737b155649D39C12fee126AbCeDD3d",
+      "symbol": "DEV",
+      "name": "DevfromBSC",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22211,
-    "minor": 22211,
+    "major": 22212,
+    "minor": 22212,
     "patch": 86
   }
 }
