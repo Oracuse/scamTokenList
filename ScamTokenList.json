@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7e6e71dbEB4ADC3043e713044D37aA64a1297Af3",
-      "symbol": "TYRANT",
-      "name": "TyrantProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x39b9DF58Cce32E7EfB41502FCB5a0D929806e2D7",
       "symbol": "TWINU",
       "name": "TwitterInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3DC6331eA51231d00f345798841E54F0138E2F09",
+      "symbol": "OINU",
+      "name": "OneInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22198,
-    "minor": 22198,
+    "major": 22199,
+    "minor": 22199,
     "patch": 86
   }
 }
