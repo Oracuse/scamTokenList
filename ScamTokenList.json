@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB0e516a80cf7eC5Bb4D0371Bc368556217666729",
-      "symbol": "LOVE",
-      "name": "LoveProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7AF5A997Fc17601482b6c8842DCb5DED221d45ab",
       "symbol": "BORING",
       "name": "BoringCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7250132948E0acAC52596bf2167A6C526F4912aE",
+      "symbol": "GT",
+      "name": "GhostofTsushima",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22196,
-    "minor": 22196,
+    "major": 22197,
+    "minor": 22197,
     "patch": 86
   }
 }
