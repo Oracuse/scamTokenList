@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd903B2cF4c59895d177029439D9dD0B29381ffCc",
-      "symbol": "742",
-      "name": "742Protocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x07Fa4e97A74C513cdEf94cA500D45A5EA7736839",
       "symbol": "ADOPTION",
       "name": "AdoptionProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x45509A77C63FD8c516F5FF4Abf68B1466978239C",
+      "symbol": "HIRED",
+      "name": "Headhunter",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22224,
-    "minor": 22224,
+    "major": 22225,
+    "minor": 22225,
     "patch": 86
   }
 }
