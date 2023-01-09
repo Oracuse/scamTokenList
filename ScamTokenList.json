@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xBDBA2B5D85096Bf8cb3f8BF1435FC300e66c27C6",
-      "symbol": "DCBURN",
-      "name": "DCBURN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0b04E1427bFAfDA6B3e968eA082ce3AF82384bEd",
       "symbol": "POINT",
       "name": "point",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x717670BaE5D7319B1be68B2089e2e82092410e40",
+      "symbol": "DIGI",
+      "name": "DejitaruKokumin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22151,
-    "minor": 22151,
+    "major": 22152,
+    "minor": 22152,
     "patch": 86
   }
 }
