@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x39b9DF58Cce32E7EfB41502FCB5a0D929806e2D7",
-      "symbol": "TWINU",
-      "name": "TwitterInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x966457fD91f8a0138C421CF8A00b009514b352A3",
       "symbol": "NOTHING",
       "name": "NothingIsForever",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f8d466CA3bD2aEa76226f636198E2e8454B7359",
+      "symbol": "CHEAP",
+      "name": "VeryCheapToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22199,
-    "minor": 22199,
+    "major": 22200,
+    "minor": 22200,
     "patch": 86
   }
 }
