@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7AF5A997Fc17601482b6c8842DCb5DED221d45ab",
-      "symbol": "BORING",
-      "name": "BoringCoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7e6e71dbEB4ADC3043e713044D37aA64a1297Af3",
       "symbol": "TYRANT",
       "name": "TyrantProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x687dA7e10349e327FEe34c3Ea10cd01C2559dd4D",
+      "symbol": "DXB",
+      "name": "DEXBASE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22197,
-    "minor": 22197,
+    "major": 22198,
+    "minor": 22198,
     "patch": 86
   }
 }
