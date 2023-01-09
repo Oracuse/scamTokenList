@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x25f503CE64bFa73eC56e0FC40B37CdFa638b1CEE",
-      "symbol": "BABYBTC",
-      "name": "BabyBTC",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1785a9Ef01f10b33CB782d9940a28BaF086c8F39",
       "symbol": "EMPIRE",
       "name": "EMPIRE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf5385894186Db693bCd3f8Be698f48dd89CaFE0F",
+      "symbol": "FINN",
+      "name": "AdventureFINN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22173,
-    "minor": 22173,
+    "major": 22174,
+    "minor": 22174,
     "patch": 86
   }
 }
