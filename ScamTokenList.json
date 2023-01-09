@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x515172E50D0C099F5ae440F1f49882f5698a5f95",
-      "symbol": "EVERYDAY",
-      "name": "CryptoProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD97def7D3bE8904E1252dB6545E06e233EF9b72c",
       "symbol": "VETH",
       "name": "vitaliketh",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF0342613dfe450B2A5372eEdf96358e4A00dd36f",
+      "symbol": "SQUAD",
+      "name": "SquadTrade",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22216,
-    "minor": 22216,
+    "major": 22217,
+    "minor": 22217,
     "patch": 86
   }
 }
