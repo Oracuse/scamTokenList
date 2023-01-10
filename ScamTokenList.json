@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8ACAeCb4a0C9A92ce0e7160dD918f47ECbDA784F",
-      "symbol": "LINK",
-      "name": "Neuralink",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE23769C45516718EF0E67faaB51cA37112ae6292",
       "symbol": "NEURALINK",
       "name": "NeuralinkProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c766fa87F83f58b1180F3B9206d8c4956FaF8CF",
+      "symbol": "ONE",
+      "name": "ONE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22288,
-    "minor": 22288,
+    "major": 22289,
+    "minor": 22289,
     "patch": 86
   }
 }
