@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7B8d9f904CbF5E4E9Ef630cA17a543798d1F23D5",
-      "symbol": "REDEEM",
-      "name": "TheCurse",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe7773D48D9Eaaf0aB58149ABDB344EA850011DB5",
       "symbol": "TCT",
       "name": "TheCurrentThing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x04625B4Cf773885eBb22f0caa51b55B98B3071Ce",
+      "symbol": "DIGITS",
+      "name": "Digits",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22303,
-    "minor": 22303,
+    "major": 22304,
+    "minor": 22304,
     "patch": 86
   }
 }
