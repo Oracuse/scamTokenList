@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5275425B4f83690e30cBe726b081Cd3B1A9fADa6",
-      "symbol": "NEURALINKINU",
-      "name": "NeuralinkInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB499AAD13ed063e426baE996184f49207CE48CA3",
       "symbol": "FRUIT",
       "name": "FruitTree",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF5DD7ecb5bb1Ab8aDDB7eCeBf18F4190FA4958E9",
+      "symbol": "HANACHAN",
+      "name": "HANACHANINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22318,
-    "minor": 22318,
+    "major": 22319,
+    "minor": 22319,
     "patch": 86
   }
 }
