@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x776d0D1730D4999918BA4f3d34DC7A19b53cbF84",
-      "symbol": "DEFI",
-      "name": "DeFIProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1D748dFe351a207dB1c4e42F5DD3DdB8cCDB7c3E",
       "symbol": "THEDEFI",
       "name": "EthereumDefiProtoco",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xAecCD87aF8436F09d7303d200a4253cE8dE27931",
+      "symbol": "SAMSARA",
+      "name": "TheWheelOfLife",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22349,
-    "minor": 22349,
+    "major": 22350,
+    "minor": 22350,
     "patch": 86
   }
 }
