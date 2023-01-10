@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4959531bB89AA1586B6afE3EB1198dDD2a75f6C2",
-      "symbol": "IP",
-      "name": "InterestingProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x22F6663710c40a64c1f4Cb6D394A767e7774091f",
       "symbol": "AI",
       "name": "AlphaIndex",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x054be44BC2dDcC92ce3A364b8D176CBD3F782597",
+      "symbol": "KIBI",
+      "name": "KibisuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22359,
-    "minor": 22359,
+    "major": 22360,
+    "minor": 22360,
     "patch": 86
   }
 }
