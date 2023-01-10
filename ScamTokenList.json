@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5b5EC84e2561bf7c0c5c0737B7e7A84BbDCe14Cd",
-      "symbol": "TCT",
-      "name": "TheCurrentThing",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC49852B235d31A32f73e966Ce70902c454276b79",
       "symbol": "SV",
       "name": "SundayVibes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3a744b99Ce40d8445C30Bf0965c2C9BE2f757894",
+      "symbol": "KIBI",
+      "name": "KibisuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22328,
-    "minor": 22328,
+    "major": 22329,
+    "minor": 22329,
     "patch": 86
   }
 }
