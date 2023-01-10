@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcdE5383aa16f987CF88479c7217aE490E51d6ACd",
-      "symbol": "LDEFI",
-      "name": "DeFiProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfef9321a710ca06ab9591F53A6c6505C75A75818",
       "symbol": "DEFI",
       "name": "DefiProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F60c387537531a960eCD36e2a2A3E4eb2900526",
+      "symbol": "TAMA",
+      "name": "HoshinoTama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22340,
-    "minor": 22340,
+    "major": 22341,
+    "minor": 22341,
     "patch": 86
   }
 }
