@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6bF3c6e51BAdc0c76F42dF46180F409F7dB3b688",
-      "symbol": "APT1",
-      "name": "APT",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xde92a3241773c088cA739426AccBb6b4618B68e3",
       "symbol": "ZKROLLUP",
       "name": "ZeroKnowledgeRollup",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61C540BD22469850502eAA2D62F7DA5EA7Af5243",
+      "symbol": "BABY",
+      "name": "BaBYDev",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22260,
-    "minor": 22260,
+    "major": 22261,
+    "minor": 22261,
     "patch": 86
   }
 }
