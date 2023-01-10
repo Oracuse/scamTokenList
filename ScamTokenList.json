@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xED6DD7A2Ceaf7EC730D880e0e014D5B43801B1e7",
-      "symbol": "THECURRENTTHING",
-      "name": "TheCurrentThing",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88f9C3014E225211F073F763FFc783Cea22ED7F5",
       "symbol": "ALGOPRO",
       "name": "AlgorithmProtocl",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD26AE5AF018B3b27dAA8C00C1A5aa8062b9070A9",
+      "symbol": "GOJ",
+      "name": "Gojira",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22309,
-    "minor": 22309,
+    "major": 22310,
+    "minor": 22310,
     "patch": 86
   }
 }
