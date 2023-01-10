@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfef9321a710ca06ab9591F53A6c6505C75A75818",
-      "symbol": "DEFI",
-      "name": "DefiProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3f3c4047Ad966aBbaa08082E32C6932c145C36d0",
       "symbol": "INVEST",
       "name": "InvestProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd38ecC5A228E59464CD3733534FB712411F8e7Db",
+      "symbol": "NYAN",
+      "name": "NyanCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22341,
-    "minor": 22341,
+    "major": 22342,
+    "minor": 22342,
     "patch": 86
   }
 }
