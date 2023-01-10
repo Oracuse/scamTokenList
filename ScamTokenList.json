@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfDdAf0BBdB9e81c8C0c6C7a0a829cda10DB672D9",
-      "symbol": "TCTPROTOCOL",
-      "name": "TheCurrentThingProt",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA97F694595b473aE5eEC97C73820F168d8fbCdB6",
       "symbol": "CURRENT",
       "name": "CurrentProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x150fEd3B580E7D9A75dD72762DaeCe5aFf9Dc912",
+      "symbol": "KINGS",
+      "name": "KINGDOM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22323,
-    "minor": 22323,
+    "major": 22324,
+    "minor": 22324,
     "patch": 86
   }
 }
