@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2b8782EFfcfCFe65455BdCda05D29FFAee92b944",
-      "symbol": "GAME",
-      "name": "GreatGame",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x728B424A19669821aa83783f5417Def416Be11E3",
       "symbol": "NO",
       "name": "NoProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6202e359dcd5891Db31C9e6280C39Ed38037B145",
+      "symbol": "FUJI",
+      "name": "Fuji",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22315,
-    "minor": 22315,
+    "major": 22316,
+    "minor": 22316,
     "patch": 86
   }
 }
