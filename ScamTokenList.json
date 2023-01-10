@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4067558028ac4A2FFF5F29D52f8ac9bcDD64eD10",
-      "symbol": "KOC",
-      "name": "KingofCrypto",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7F15903Ce46673A35897a1f8BC43Fc4b2ACC9d84",
       "symbol": "NEURALINK",
       "name": "Neuralink",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD0fA5c3cd2EadBf906F367633be707f983eB4e16",
+      "symbol": "CDS",
+      "name": "CultDaoShiba",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22296,
-    "minor": 22296,
+    "major": 22297,
+    "minor": 22297,
     "patch": 86
   }
 }
