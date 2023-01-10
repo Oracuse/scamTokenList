@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1e36c8580486B3001539525a6dAAA75a077B9C8C",
-      "symbol": "TYRANT",
-      "name": "VitaliksDragon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa3bbF5F11Beef7501C871A292Cce4995A5714e8d",
       "symbol": "UTXO",
       "name": "UnspentTransactionO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA5a4a7C806C302EF256D1fCBA37e6cAF3dE2726a",
+      "symbol": "BURN",
+      "name": "GRIMMY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22249,
-    "minor": 22249,
+    "major": 22250,
+    "minor": 22250,
     "patch": 86
   }
 }
