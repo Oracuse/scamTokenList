@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa75879d943C17013B1e39Fa7a21867fC098dF642",
-      "symbol": "DEFI",
-      "name": "DEFI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2dD7aB7D0D7B4163669391149E8E28A6d16F1323",
       "symbol": "INVEST",
       "name": "TheDeFiProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe06Da871Ef33bEFA3ab888E5c3fA3047E4f4c12E",
+      "symbol": "TDOGE",
+      "name": "DogevsShibTeamDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22337,
-    "minor": 22337,
+    "major": 22338,
+    "minor": 22338,
     "patch": 86
   }
 }
