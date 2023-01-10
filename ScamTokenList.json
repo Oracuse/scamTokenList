@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9B074245dea79F12f563d2E3cfFE31f5Fa92c1D8",
-      "symbol": "GS",
-      "name": "GasStation",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x48E2579900102437C7b060f7B37D046f44e19Add",
       "symbol": "SHICAT",
       "name": "ShinobiCat",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x33c67150bA97d6Fb29Ac26D778Fd1B7bd27D765c",
+      "symbol": "KINGS",
+      "name": "KingdomToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22325,
-    "minor": 22325,
+    "major": 22326,
+    "minor": 22326,
     "patch": 86
   }
 }
