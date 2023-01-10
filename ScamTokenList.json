@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA97F694595b473aE5eEC97C73820F168d8fbCdB6",
-      "symbol": "CURRENT",
-      "name": "CurrentProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9B074245dea79F12f563d2E3cfFE31f5Fa92c1D8",
       "symbol": "GS",
       "name": "GasStation",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53d6de788A8FE450439fbf576162932eD3626D00",
+      "symbol": "AUTONOMY",
+      "name": "AUTONOMYDAO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22324,
-    "minor": 22324,
+    "major": 22325,
+    "minor": 22325,
     "patch": 86
   }
 }
