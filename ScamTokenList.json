@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC49852B235d31A32f73e966Ce70902c454276b79",
-      "symbol": "SV",
-      "name": "SundayVibes",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x249CAE60231a446BFdCbab24d01a4279b7ef4fB7",
       "symbol": "TIKI",
       "name": "TikiTaka",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A138594001eF7f75772136f0b55FD64F662F8CF",
+      "symbol": "MLABS",
+      "name": "MercuryLabs",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22329,
-    "minor": 22329,
+    "major": 22330,
+    "minor": 22330,
     "patch": 86
   }
 }
