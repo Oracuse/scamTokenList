@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x147a5a4F56eF2318699AbbFBDb556D49b36e7c60",
-      "symbol": "BINAFI",
-      "name": "TheBinanceDeFi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x93Ba9A6e3Ed169ac2e2Fd58197ce12E7B5365a04",
       "symbol": "DEFI",
       "name": "DefiProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe548Aafc5781A0351f302717182c354A69fD5F49",
+      "symbol": "KIBI",
+      "name": "KIBISUINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22353,
-    "minor": 22353,
+    "major": 22354,
+    "minor": 22354,
     "patch": 86
   }
 }
