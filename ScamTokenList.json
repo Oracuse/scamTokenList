@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFe3377DF88101CCFdC6E5A24FaAD3C6A400697E0",
-      "symbol": "REDEEM",
-      "name": "TheCurse",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5d8A7776f20CEbff40872eE95a859c9E1D378C0A",
       "symbol": "NEURLINK",
       "name": "Neurlink",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x34421Be136b5619882D0547DA62E4Ca61637139f",
+      "symbol": "A",
+      "name": "APPLE",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22290,
-    "minor": 22290,
+    "major": 22291,
+    "minor": 22291,
     "patch": 86
   }
 }
