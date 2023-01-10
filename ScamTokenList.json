@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdF63356744dB6fdF3C8dED3A22e536f3e55053Db",
-      "symbol": "BINVESTING",
-      "name": "Binvesting",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6e166aEBD353aDd1924062066Cfd7a022073B90e",
       "symbol": "DEFI",
       "name": "DeFIInuProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0906da6Bf05692f55a04FE7105600c197c68bc92",
+      "symbol": "KIYO",
+      "name": "KiyoshiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22346,
-    "minor": 22346,
+    "major": 22347,
+    "minor": 22347,
     "patch": 86
   }
 }
