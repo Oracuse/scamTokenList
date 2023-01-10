@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2F4a01EaAC28072c1337D8272e90f4Fae73d4690",
-      "symbol": "TCT",
-      "name": "TheCurrentThing",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd525BDCc9A1D2FC0f3b445d50892B4297e663ad0",
       "symbol": "RBB",
       "name": "ROBOBO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD9bA873Be27AfB377a61B3d6b9b983Ed6cbF1bD6",
+      "symbol": "YOUTUBE",
+      "name": "YouTubeDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22306,
-    "minor": 22306,
+    "major": 22307,
+    "minor": 22307,
     "patch": 86
   }
 }
