@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD24cbEFF03c45BB54E51FFd06b24e5B93DCc5629",
-      "symbol": "VITALIK",
-      "name": "VitalikFanToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA5AC2FC6d8728caB518537408ea0EE7fb419f287",
       "symbol": "JULESRIMET",
       "name": "WorldCupTrophy",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5EEe0d0aE0520d1A8F46A472271a7473Bf4CCa92",
+      "symbol": "KINU",
+      "name": "KunmingInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22366,
-    "minor": 22366,
+    "major": 22367,
+    "minor": 22367,
     "patch": 86
   }
 }
