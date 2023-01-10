@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5386D4592F1F064A28F3a8895E0D20E96aC06F82",
-      "symbol": "DEFI",
-      "name": "DeFi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1d07aEC1c3C95CDef44C8c3Bdd93616E657Bc439",
       "symbol": "VLINK",
       "name": "VITALINK",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37f760F14Fe8d1f41AaeD44c4196d0bDD9637e70",
+      "symbol": "CHICKY",
+      "name": "ChickyInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22344,
-    "minor": 22344,
+    "major": 22345,
+    "minor": 22345,
     "patch": 86
   }
 }
