@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28219f11A69d4934523276D78dFF6DB47Fb81a19",
-      "symbol": "LAST",
-      "name": "TheLastNeuralink",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4347675244C40274FDc66681C7d608078BE02707",
       "symbol": "CS",
       "name": "CryptoSeeds",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7E74C3dF9C88B55EFf6771114f2631092d5ed0A0",
+      "symbol": "EVERYMAN",
+      "name": "TheEveryman",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22298,
-    "minor": 22298,
+    "major": 22299,
+    "minor": 22299,
     "patch": 86
   }
 }
