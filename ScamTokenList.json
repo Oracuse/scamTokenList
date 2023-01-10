@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB499AAD13ed063e426baE996184f49207CE48CA3",
-      "symbol": "FRUIT",
-      "name": "FruitTree",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2490cAFCfE8cAb772ccC81acaCff955e4eBf2c34",
       "symbol": "THECURRENTTHING",
       "name": "TheCurrentThing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9aB87a443218aAA07Bfc6eDD5A8f2a28eB92a83C",
+      "symbol": "PONK",
+      "name": "PepeBonk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22319,
-    "minor": 22319,
+    "major": 22320,
+    "minor": 22320,
     "patch": 86
   }
 }
