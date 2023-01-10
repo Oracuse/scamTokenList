@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB994ed3FDe05b7cf0551F06eb76896510D66bb7C",
-      "symbol": "SHINHAN",
-      "name": "TienShinhan",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4067558028ac4A2FFF5F29D52f8ac9bcDD64eD10",
       "symbol": "KOC",
       "name": "KingofCrypto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x14127570cdd5870A30b38F166e70E5E3507319A0",
+      "symbol": "CHU",
+      "name": "CHU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22295,
-    "minor": 22295,
+    "major": 22296,
+    "minor": 22296,
     "patch": 86
   }
 }
