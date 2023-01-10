@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x31F30d4BfB0714a64Fca30acFc8f40c77349ee0e",
-      "symbol": "DIWALI",
-      "name": "DiwaliProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFC7b50f4d09daFBfE8Fea1B87434DFE85f467e8C",
       "symbol": "STM",
       "name": "StreetMachine",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa5964FF8BC6cC55256cF6963BCE216A799998e73",
+      "symbol": "ALCHEMY",
+      "name": "TheAlchemy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22229,
-    "minor": 22229,
+    "major": 22230,
+    "minor": 22230,
     "patch": 86
   }
 }
