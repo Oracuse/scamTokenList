@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaB5eBE084D560115Cea08B7B8cdfDbba222DaeAf",
-      "symbol": "HUSK",
-      "name": "Huskinu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC712ec3b690d6fC9e4bcD4cF0efeAC5ABa1272c6",
       "symbol": "THEEND",
       "name": "EndProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2937edAE87c4484E6C8D78df50768f06040408d8",
+      "symbol": "KANI",
+      "name": "Shibakani",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22387,
-    "minor": 22387,
+    "major": 22388,
+    "minor": 22388,
     "patch": 86
   }
 }
