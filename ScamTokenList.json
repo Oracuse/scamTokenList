@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x98507473b435d9539c5924043E4208Baf867c23C",
-      "symbol": "THING",
-      "name": "TheCurrentThing",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2D845c940aAF8d37543524Cf4b2F33dF16c48B05",
       "symbol": "GREATGAME",
       "name": "GreatGame",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71a5EA1c53A2A103c42E4eF5D74F3541ab0f4ed1",
+      "symbol": "ETHBOY",
+      "name": "EthereumBoy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22312,
-    "minor": 22312,
+    "major": 22313,
+    "minor": 22313,
     "patch": 86
   }
 }
