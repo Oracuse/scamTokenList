@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1D748dFe351a207dB1c4e42F5DD3DdB8cCDB7c3E",
-      "symbol": "THEDEFI",
-      "name": "EthereumDefiProtoco",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7Cb2Cef87b20C634624c764736010359Fa8b61f1",
       "symbol": "DEFI",
       "name": "InvestInDefi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1CE54Fbe0Fb49EDA695A99F8459dB1014C2d841",
+      "symbol": "KABOKU",
+      "name": "KabokuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22350,
-    "minor": 22350,
+    "major": 22351,
+    "minor": 22351,
     "patch": 86
   }
 }
