@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd15113559b9B3BAC101cDAf4dd19920b61532d08",
-      "symbol": "DEFI",
-      "name": "InvestInDefi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcdE5383aa16f987CF88479c7217aE490E51d6ACd",
       "symbol": "LDEFI",
       "name": "DeFiProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD138E3f9cAb1Eb04b7503C17111114114210F70D",
+      "symbol": "BURU",
+      "name": "TheWhiteBull",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22339,
-    "minor": 22339,
+    "major": 22340,
+    "minor": 22340,
     "patch": 86
   }
 }
