@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93DC428559Ef2691F27104ec310035317689c068",
-      "symbol": "WAPO",
-      "name": "WapoProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6A8d23d45Cd7E0056a1DE4A2db149a12146d7350",
       "symbol": "DONE",
       "name": "HadToBeDone",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDC67059c217b1f2Da3EC34571dcaED9Ed34A2A2C",
+      "symbol": "HAM",
+      "name": "Hamtaro",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22272,
-    "minor": 22272,
+    "major": 22273,
+    "minor": 22273,
     "patch": 86
   }
 }
