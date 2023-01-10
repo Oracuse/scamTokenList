@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC712ec3b690d6fC9e4bcD4cF0efeAC5ABa1272c6",
-      "symbol": "THEEND",
-      "name": "EndProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa8F0CA475c822e0ba526d4D7be85b44789bf71D6",
       "symbol": "APB",
       "name": "APB",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf3637eeaec1F632d0C5dadeE7388124D02398761",
+      "symbol": "SHIBAI",
+      "name": "ArtificialShibtelli",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22388,
-    "minor": 22388,
+    "major": 22389,
+    "minor": 22389,
     "patch": 86
   }
 }
