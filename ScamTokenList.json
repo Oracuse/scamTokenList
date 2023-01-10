@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7eCb47263B5717b3825f1B2506F8Db217a45b0be",
-      "symbol": "TCT",
-      "name": "TheCurrentThing",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0B60ea68F1d7e31514752Ae962DB52cb527171A3",
       "symbol": "BEST",
       "name": "BestCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDf8b381f5d7AAA74c62416E56f4AC17289F4b4aD",
+      "symbol": "MOON",
+      "name": "Moon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22275,
-    "minor": 22275,
+    "major": 22276,
+    "minor": 22276,
     "patch": 86
   }
 }
