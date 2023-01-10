@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE8BF2EF39797de93E407956B9d873581097F06f9",
-      "symbol": "DMAIC",
-      "name": "SigmaProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc9cb0D4C25Af31dC06f821e931Fc0B58AcEE1f05",
       "symbol": "GUINESS",
       "name": "GuinessWorldRecord",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x49c4906d555c92C52bBFc413d9E404836E41a945",
+      "symbol": "TRG",
+      "name": "Trg",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22334,
-    "minor": 22334,
+    "major": 22335,
+    "minor": 22335,
     "patch": 86
   }
 }
