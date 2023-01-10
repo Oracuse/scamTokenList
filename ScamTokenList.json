@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0B60ea68F1d7e31514752Ae962DB52cb527171A3",
-      "symbol": "BEST",
-      "name": "BestCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFD9cFf150CCcd99e52Eca840e59211E0AFbb1b0E",
       "symbol": "NEURALINK",
       "name": "Neuralink",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x507BA1e929F8D45c756C82228B20834CfD17532D",
+      "symbol": "MOUSE",
+      "name": "Mouse",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22276,
-    "minor": 22276,
+    "major": 22277,
+    "minor": 22277,
     "patch": 86
   }
 }
