@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3DFD8248196442929F1DbeACb41C79338c355279",
-      "symbol": "ETHH2O",
-      "name": "ETHH2O",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x05a0E4838202D181b6510669955F4133F500b830",
       "symbol": "SEGWIT",
       "name": "SEGWITPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCaD4cF56564955B42425EeBAF39DB76eb2eC7214",
+      "symbol": "HANA",
+      "name": "HanaToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22247,
-    "minor": 22247,
+    "major": 22248,
+    "minor": 22248,
     "patch": 86
   }
 }
