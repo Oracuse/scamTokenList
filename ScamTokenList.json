@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x76cbBc9A94A404b505ef9396e5177025F11fED5d",
-      "symbol": "THEDEFIBANK",
-      "name": "TheDeFiFinance",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6bE6DC996Bb190Fb1E0873b5296A46897b22dff3",
       "symbol": "INVESTINDEFI",
       "name": "NotFinancialAdvice",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFca5b02C12440d3D6b99E81DCDa28474F3B402bF",
+      "symbol": "KIBI",
+      "name": "KibisuInu",
+      "decimals": null,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22356,
-    "minor": 22356,
+    "major": 22357,
+    "minor": 22357,
     "patch": 86
   }
 }
