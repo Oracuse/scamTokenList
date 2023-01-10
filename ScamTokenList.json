@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3f4F4502f19e3FF27eBDA1A29131d3229681Ce6B",
-      "symbol": "PHOENIX",
-      "name": "Fenghuang",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcdb109ADa71F97c669129C0B160aF4CE8aBb03dC",
       "symbol": "FULECO",
       "name": "WorldCupFuleco",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5C0a1315aed03A898370DFD4971857F88F4aad0c",
+      "symbol": "CHOW",
+      "name": "Chow",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22267,
-    "minor": 22267,
+    "major": 22268,
+    "minor": 22268,
     "patch": 86
   }
 }
