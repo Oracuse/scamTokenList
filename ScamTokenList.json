@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB06eEb6A723bac16Ef5fCCb8394012863a2E4E29",
-      "symbol": "EXACTLYPROTOCOL",
-      "name": "Exactly",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7B8d9f904CbF5E4E9Ef630cA17a543798d1F23D5",
       "symbol": "REDEEM",
       "name": "TheCurse",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaAB5f245e15B501deca127D65EA6adC3DC4bf47F",
+      "symbol": "DRAGONSLAYER",
+      "name": "DragonSlayer",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22302,
-    "minor": 22302,
+    "major": 22303,
+    "minor": 22303,
     "patch": 86
   }
 }
