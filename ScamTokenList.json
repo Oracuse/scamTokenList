@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x537ccAaeb1Aa46f4fe33C9fc8B42552Bd1C0f499",
-      "symbol": "PAPA",
-      "name": "ReadTheContract",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x77b5952F90f80a0dD041B9Bd1546a7bbD3E8f253",
       "symbol": "BORDGEN",
       "name": "BORINGDEGEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA68aa17eE769a1327Ce3b7aC891a909A677A5856",
+      "symbol": "APT1",
+      "name": "APT1",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22241,
-    "minor": 22241,
+    "major": 22242,
+    "minor": 22242,
     "patch": 86
   }
 }
