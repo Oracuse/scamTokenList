@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x93Ba9A6e3Ed169ac2e2Fd58197ce12E7B5365a04",
-      "symbol": "DEFI",
-      "name": "DefiProtocol",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA47c10DB9368E1B35413053E2296c21c97aa8180",
       "symbol": "TIP",
       "name": "TheInterestingProto",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x961b42E0D2140570755Cf83fA5760F0c23D98E5F",
+      "symbol": "HARAM",
+      "name": "HARAM",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22354,
-    "minor": 22354,
+    "major": 22355,
+    "minor": 22355,
     "patch": 86
   }
 }
