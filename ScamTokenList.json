@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xde92a3241773c088cA739426AccBb6b4618B68e3",
-      "symbol": "ZKROLLUP",
-      "name": "ZeroKnowledgeRollup",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x550342D2Aa15dCbbE336E18e871E7afD7f989d90",
       "symbol": "APTA",
       "name": "APTOS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xac18DEA9bc013B7a4A7a68C6C2Eed57165176b2B",
+      "symbol": "OM",
+      "name": "OldMeme",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22261,
-    "minor": 22261,
+    "major": 22262,
+    "minor": 22262,
     "patch": 86
   }
 }
