@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x550342D2Aa15dCbbE336E18e871E7afD7f989d90",
-      "symbol": "APTA",
-      "name": "APTOS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd281c0efE0c2348001bad643F78Be4D49953947A",
       "symbol": "EXACTLY",
       "name": "Exactly",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B05D806C0E4d04dD2860d74A75b1254e43109b4",
+      "symbol": "OM",
+      "name": "OldMemmy",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22262,
-    "minor": 22262,
+    "major": 22263,
+    "minor": 22263,
     "patch": 86
   }
 }
