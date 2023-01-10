@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28b98e9Da9df34DE4c43BA1CB420842Ead411364",
-      "symbol": "NAME",
-      "name": "NAME",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe7520Af3f6F9839b3D0f275EE19C36C8783399d1",
       "symbol": "SEGWIT",
       "name": "BitcoinProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5cD420BE339fEEa14173102535508D16eDB47c4F",
+      "symbol": "MARAM",
+      "name": "Maram",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22252,
-    "minor": 22252,
+    "major": 22253,
+    "minor": 22253,
     "patch": 86
   }
 }
