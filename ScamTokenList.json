@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd281c0efE0c2348001bad643F78Be4D49953947A",
-      "symbol": "EXACTLY",
-      "name": "Exactly",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x94018Bf01417F03886d5222b3DC225c33303ae62",
       "symbol": "PRIME",
       "name": "PrimeSwap",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x261837AaC45a873889315C516222809787eCA831",
+      "symbol": "SHIN",
+      "name": "ShinSekai",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22263,
-    "minor": 22263,
+    "major": 22264,
+    "minor": 22264,
     "patch": 86
   }
 }
