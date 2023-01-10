@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8ba4745e1aa6F29dd18aBfE9817657D58f7A6113",
-      "symbol": "LINKX",
-      "name": "NeuralinkX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc6ca2077Ec3DcBe9d03622F74655eE4D86283C11",
       "symbol": "CHEEMS",
       "name": "CrazyCheems",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22ceb2F05e3a7506491dabe7FFC63B7C239f644B",
+      "symbol": "CRAPE",
+      "name": "CrazyApes",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22332,
-    "minor": 22332,
+    "major": 22333,
+    "minor": 22333,
     "patch": 86
   }
 }
