@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x295dCB6118E386440921112653C9FC29594f0423",
-      "symbol": "DIPRO",
-      "name": "DiwaliProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x537ccAaeb1Aa46f4fe33C9fc8B42552Bd1C0f499",
       "symbol": "PAPA",
       "name": "ReadTheContract",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x143C0F09e875EEff7698D85536De43D312A852A1",
+      "symbol": "UCHU",
+      "name": "UchuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22240,
-    "minor": 22240,
+    "major": 22241,
+    "minor": 22241,
     "patch": 86
   }
 }
