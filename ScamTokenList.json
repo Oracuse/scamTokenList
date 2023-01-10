@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA6a3A91ad9bf6AacF340a662d7931E5E4FBBe582",
-      "symbol": "SHIBARAI",
-      "name": "ShibaraiToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa75879d943C17013B1e39Fa7a21867fC098dF642",
       "symbol": "DEFI",
       "name": "DEFI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB41E58F7b56FFe065eC53b388DC86545a518601b",
+      "symbol": "RS",
+      "name": "RabbitSeason",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22336,
-    "minor": 22336,
+    "major": 22337,
+    "minor": 22337,
     "patch": 86
   }
 }
