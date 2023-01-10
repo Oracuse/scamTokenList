@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x05a0E4838202D181b6510669955F4133F500b830",
-      "symbol": "SEGWIT",
-      "name": "SEGWITPROTOCOL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1e36c8580486B3001539525a6dAAA75a077B9C8C",
       "symbol": "TYRANT",
       "name": "VitaliksDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x641FE931A6C8331eDA65f852929242FaecE7f1A1",
+      "symbol": "SHOGUN",
+      "name": "Taishogun",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22248,
-    "minor": 22248,
+    "major": 22249,
+    "minor": 22249,
     "patch": 86
   }
 }
