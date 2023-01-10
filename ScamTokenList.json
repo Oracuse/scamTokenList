@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc0b34a9313d644cE6c6294dC8a97BF6426D8a146",
-      "symbol": "TFP",
-      "name": "TheFinalProtocol",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5bEba7b921e430B250C8a1Bce9406942DbCf1fA6",
       "symbol": "TDX",
       "name": "TheDieX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x706cCe63be6e83a082EEc15107c337B94E10A21f",
+      "symbol": "FROGGY",
+      "name": "FroggyIO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22255,
-    "minor": 22255,
+    "major": 22256,
+    "minor": 22256,
     "patch": 86
   }
 }
