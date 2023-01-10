@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x78E4b952a2E8129C12A4Be11E541D8EF7Ed93ef0",
-      "symbol": "THEBEST",
-      "name": "WorldCupAward",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4D1436E677f19f674D0b47c9A496ae3fbc6607aF",
       "symbol": "RETH",
       "name": "ReversibleEther",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEDa9E77d7cE5502919A5AC8a05F21DfCd07FE3Fc",
+      "symbol": "CD",
+      "name": "CoffeeDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22362,
-    "minor": 22362,
+    "major": 22363,
+    "minor": 22363,
     "patch": 86
   }
 }
