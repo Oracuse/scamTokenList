@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x78D5030539F468317d89A08dfDB4d1a57b37ac3A",
-      "symbol": "OS",
-      "name": "OnlyStables",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7eCb47263B5717b3825f1B2506F8Db217a45b0be",
       "symbol": "TCT",
       "name": "TheCurrentThing",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1B58D4FCd119aFC17c23daFE9af7717850017D4E",
+      "symbol": "HASUKI",
+      "name": "HasukiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22274,
-    "minor": 22274,
+    "major": 22275,
+    "minor": 22275,
     "patch": 86
   }
 }
