@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa3bbF5F11Beef7501C871A292Cce4995A5714e8d",
-      "symbol": "UTXO",
-      "name": "UnspentTransactionO",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3938c8622D7e6B4387C42Fa7013350c813d330B6",
       "symbol": "VISCERA",
       "name": "FourSonsOfHorus",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x243C9A093cED20e19E172868EB8FD34083960cc6",
+      "symbol": "TOMOYO",
+      "name": "TomodachiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22250,
-    "minor": 22250,
+    "major": 22251,
+    "minor": 22251,
     "patch": 86
   }
 }
