@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x44AcB7E3ecC76D7b7576986586E095542A4440ad",
-      "symbol": "TROP",
-      "name": "TheRulesofProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x295dCB6118E386440921112653C9FC29594f0423",
       "symbol": "DIPRO",
       "name": "DiwaliProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x254C335D356cEeEeB6FC00fa73C1D6fB9a3F1dF5",
+      "symbol": "MISSOR",
+      "name": "Missor",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22239,
-    "minor": 22239,
+    "major": 22240,
+    "minor": 22240,
     "patch": 86
   }
 }
