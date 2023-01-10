@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3f3c4047Ad966aBbaa08082E32C6932c145C36d0",
-      "symbol": "INVEST",
-      "name": "InvestProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc9fCcC52BB6F862BE08d55c0B0f19df59f8a7A54",
       "symbol": "DEFI",
       "name": "DeFi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08b0917a683b3Aa63aACBd769264Df74ac8F99b5",
+      "symbol": "DAKOTA",
+      "name": "DakotaInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22342,
-    "minor": 22342,
+    "major": 22343,
+    "minor": 22343,
     "patch": 86
   }
 }
