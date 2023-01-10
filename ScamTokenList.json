@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x42E5D43324347aB9F57dAc6B19E0b97FdC6f624c",
-      "symbol": "TICKTOCK",
-      "name": "TickTock",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc9bFb252C4f5De150ee95621a44efe5437CD17e1",
       "symbol": "SST",
       "name": "Softness",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f647783C38cff274273eF9e171498eB2A10047f",
+      "symbol": "HOICHINAMI",
+      "name": "Hoichinami",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22257,
-    "minor": 22257,
+    "major": 22258,
+    "minor": 22258,
     "patch": 86
   }
 }
