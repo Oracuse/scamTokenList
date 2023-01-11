@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60538B3c9e16E04585C18ec08ec0F430e344C2A9",
-      "symbol": "APTINU",
-      "name": "AptosInu",
-      "decimals": 4,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4C5265E635a4c84FA2Fb4E0B05CC830486863bE9",
       "symbol": "APEXDAO",
       "name": "APEXDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfD50a43E45a341E875AcD24a0b5a5663335A96Fd",
+      "symbol": "EP",
+      "name": "EtherPump",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22422,
-    "minor": 22422,
+    "major": 22423,
+    "minor": 22423,
     "patch": 86
   }
 }
