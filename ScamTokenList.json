@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x26f45C6D6bfdd89d37a8856838c2141348334E0F",
-      "symbol": "MASYA",
-      "name": "MASYA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdFB4aAd104AF3D52a55896D9f0f1543A529d564E",
       "symbol": "ERC20",
       "name": "ReversibleEther",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf0ce451B91019414d511f8C28a82202FBeE3a74",
+      "symbol": "BI",
+      "name": "BONKINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22445,
-    "minor": 22445,
+    "major": 22446,
+    "minor": 22446,
     "patch": 86
   }
 }
