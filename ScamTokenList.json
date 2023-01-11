@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x49698589c1db31e08F97F9208BDd3b6a01128347",
-      "symbol": "O",
-      "name": "Orchid",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7873cfB80FA262578555AFAB4968f74f2cA74EC3",
       "symbol": "VBI",
       "name": "VitalikButerinInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB752321464dbe439ec53528aa88b8eD6bfF7834a",
+      "symbol": "UIF",
+      "name": "Uniquify",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22506,
-    "minor": 22506,
+    "major": 22507,
+    "minor": 22507,
     "patch": 86
   }
 }
