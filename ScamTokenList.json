@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9078849774046eD3156AaA02994cCD00a27abe0C",
-      "symbol": "DOD",
-      "name": "DoD",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xBFB6b0429E8964eB33dD0AABB98F9aBC98E198Ca",
       "symbol": "POP",
       "name": "ProofofPump",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1Fc6CFc25139E5D79Dc74Bd7237B85c4C0ab14aB",
+      "symbol": "MEI",
+      "name": "MEIOSEI",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22447,
-    "minor": 22447,
+    "major": 22448,
+    "minor": 22448,
     "patch": 86
   }
 }
