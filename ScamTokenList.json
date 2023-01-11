@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDB753cb2C0Acc08DFb5005516Ab183289D69D841",
-      "symbol": "TEST",
-      "name": "asd",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x62EE1348efA072A466e2b0936944D3cE590B1549",
       "symbol": "FALCON",
       "name": "Falconprotocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4C03f633Dc7A68c46345484D93fffb816d911761",
+      "symbol": "ALOGO",
+      "name": "Pegasus",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22409,
-    "minor": 22409,
+    "major": 22410,
+    "minor": 22410,
     "patch": 86
   }
 }
