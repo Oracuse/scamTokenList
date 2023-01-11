@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x18D0F1eC5FeF6536aC640Ef70749777c18e6C5a8",
-      "symbol": "DEFI",
-      "name": "OnlyDefi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x86C8F84273768ECe82B52F96fD9C9b120d0A7AAB",
       "symbol": "OD",
       "name": "OnlyDegens",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89Ce32964927dE7aA99e71B4E31F15aa55d5164D",
+      "symbol": "TIANG",
+      "name": "TIANGOU",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22432,
-    "minor": 22432,
+    "major": 22433,
+    "minor": 22433,
     "patch": 86
   }
 }
