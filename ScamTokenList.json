@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfDbf9014cE06a98b452d5c20f108b83235eBD3ab",
-      "symbol": "SEKIRO",
-      "name": "SekiroCoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC43D8993538345194D8d57eAcf4086FAf0b0C7Ba",
       "symbol": "MULHAZOR",
       "name": "Mulhazor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC47eE7cf6D98b3b581Ccf0f7b80335027ad1Cea5",
+      "symbol": "SQUIDGROW",
+      "name": "SquidGrow",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22517,
-    "minor": 22517,
+    "major": 22518,
+    "minor": 22518,
     "patch": 86
   }
 }
