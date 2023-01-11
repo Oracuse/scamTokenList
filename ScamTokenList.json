@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5ea372F0AEc469fba9cd03ea18EB84c9cA4796C8",
-      "symbol": "CATS",
-      "name": "Masya",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9d9aAA419A39266590534a95A5415ba0D43C3774",
       "symbol": "MMASYA",
       "name": "MiniMasya",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c7Aa2A0bB0C365b45f04D20C379Ba566D95cFBC",
+      "symbol": "CANINE",
+      "name": "CanineCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22494,
-    "minor": 22494,
+    "major": 22495,
+    "minor": 22495,
     "patch": 86
   }
 }
