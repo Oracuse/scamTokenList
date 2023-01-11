@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0ad990FF8a8a512FE8634A07a84499EA770087cb",
-      "symbol": "ANT",
-      "name": "ANTIbot",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x77e475a119FEc66F4C00da07BaE9098320EaAfe0",
       "symbol": "SHIBMON",
       "name": "Shibmon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x498a8fbCDB0D91028B85305BaF685E561cC58F59",
+      "symbol": "DIGITS",
+      "name": "Digits",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22439,
-    "minor": 22439,
+    "major": 22440,
+    "minor": 22440,
     "patch": 86
   }
 }
