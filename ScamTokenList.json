@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3858390b3F39c884769A90aF281A9B7EaFd4241c",
-      "symbol": "SIGN",
-      "name": "SignProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0C8886029DdD17a23653aB2132E63cc1A928B38a",
       "symbol": "SQUAWK",
       "name": "SquawkBoxProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x74faFeB8Bb45860874f193daB1871a1475978C47",
+      "symbol": "BINU",
+      "name": "BNBINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22459,
-    "minor": 22459,
+    "major": 22460,
+    "minor": 22460,
     "patch": 86
   }
 }
