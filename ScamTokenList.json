@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5c30961b6c6f800E888051b8E1961ebE06A0aB32",
-      "symbol": "OI",
-      "name": "OnlyInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1f2990E5E34916C7506cDf73dA5c6E2B2001aeeE",
       "symbol": "DEFIDAO",
       "name": "TheDeFiDAO",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB567AD66207c2b25a594EE96C0d0c201a09A7030",
+      "symbol": "PIG",
+      "name": "PigInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22442,
-    "minor": 22442,
+    "major": 22443,
+    "minor": 22443,
     "patch": 86
   }
 }
