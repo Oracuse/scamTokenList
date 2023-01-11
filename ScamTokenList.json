@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x976A155b58F24db1C8e50DBd65313e85B3F29A63",
-      "symbol": "MILL",
-      "name": "MILL",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB203c00E2ba678a938dB112C82400cd4109d631d",
       "symbol": "TI",
       "name": "TheInternational",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb5972Dc08ECbE50862e1Cd8AAa7E695561b68ECC",
+      "symbol": "CD",
+      "name": "CoffeeDAO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22464,
-    "minor": 22464,
+    "major": 22465,
+    "minor": 22465,
     "patch": 86
   }
 }
