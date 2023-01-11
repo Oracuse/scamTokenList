@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3351e2585292F2dEc5Bdf7E8Fa7C47D2AEE841ec",
-      "symbol": "SHQ",
-      "name": "SHIBAQATAR",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8adB1c431B2a1f443B4f8384078c91724690BFA9",
       "symbol": "LAVA",
       "name": "MoltenLava",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA2580A9F20d241C9b1D69B54201572D36F0fB181",
+      "symbol": "YASUKE",
+      "name": "Yasuke",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22480,
-    "minor": 22480,
+    "major": 22481,
+    "minor": 22481,
     "patch": 86
   }
 }
