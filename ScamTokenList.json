@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa8F0CA475c822e0ba526d4D7be85b44789bf71D6",
-      "symbol": "APB",
-      "name": "APB",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf2956428F4bEC7feFba3Fe6B47d963d1bD755d94",
       "symbol": "RS",
       "name": "ProofOfRS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2150736dFD2DEb8928Dbd188013f7AB7E91EDD0d",
+      "symbol": "PANDA",
+      "name": "PandaMoon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22389,
-    "minor": 22389,
+    "major": 22390,
+    "minor": 22390,
     "patch": 86
   }
 }
