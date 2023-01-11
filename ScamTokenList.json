@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdFB4aAd104AF3D52a55896D9f0f1543A529d564E",
-      "symbol": "ERC20",
-      "name": "ReversibleEther",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9078849774046eD3156AaA02994cCD00a27abe0C",
       "symbol": "DOD",
       "name": "DoD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7d9f0FfF23Fc3Bd59ef720281155C4b88f2F9e39",
+      "symbol": "PN",
+      "name": "Ponzinomics",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22446,
-    "minor": 22446,
+    "major": 22447,
+    "minor": 22447,
     "patch": 86
   }
 }
