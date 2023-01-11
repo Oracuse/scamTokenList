@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA1Cbf7DBF09172bC427A263F9D8FDf05ec6d0698",
-      "symbol": "ILLU",
-      "name": "Illusionist",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFe438CaE519613565C7357edB8724A6DC2C29789",
       "symbol": "SNULS",
       "name": "NULS",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6600Cac49303765861dF0eFF9B96d2A687AeA4c5",
+      "symbol": "LIEB",
+      "name": "Liebao",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22513,
-    "minor": 22513,
+    "major": 22514,
+    "minor": 22514,
     "patch": 86
   }
 }
