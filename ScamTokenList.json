@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe5780a05404379F8e8e8408aF127044fA27525af",
-      "symbol": "THEFUCK",
-      "name": "FuckProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC9c513ec37f436c30b11fA4Ad4714F53C9154Cdf",
       "symbol": "E",
       "name": "e",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A0fF3b5241e39AAcBa1a144aC85B619e8AE5DCf",
+      "symbol": "MANNY",
+      "name": "MannyTheFrenchie",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22400,
-    "minor": 22400,
+    "major": 22401,
+    "minor": 22401,
     "patch": 86
   }
 }
