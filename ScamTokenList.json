@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFc662Ba87ACB02a31E38d4114281Bce9a0d88D76",
-      "symbol": "DEADFI",
-      "name": "DeadFi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3E994bf307ca8864e3242583831618BE37091b37",
       "symbol": "KIBBY",
       "name": "KibblesInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5458DD54eaEb2a2F5f59A67d24111d0318D5BA04",
+      "symbol": "WHA",
+      "name": "WhaleTools",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22391,
-    "minor": 22391,
+    "major": 22392,
+    "minor": 22392,
     "patch": 86
   }
 }
