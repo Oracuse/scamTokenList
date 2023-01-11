@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf2956428F4bEC7feFba3Fe6B47d963d1bD755d94",
-      "symbol": "RS",
-      "name": "ProofOfRS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFc662Ba87ACB02a31E38d4114281Bce9a0d88D76",
       "symbol": "DEADFI",
       "name": "DeadFi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x37358a63412181673bf06f810EdA155DdaeF73C6",
+      "symbol": "RED",
+      "name": "RedInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22390,
-    "minor": 22390,
+    "major": 22391,
+    "minor": 22391,
     "patch": 86
   }
 }
