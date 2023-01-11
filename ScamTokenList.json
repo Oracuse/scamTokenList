@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD489748c0937b9ef0d45aB2cae8ae84bf163A65F",
-      "symbol": "EPROTOCOL",
-      "name": "eProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0fDD0433248A05D8497CC9a801cb3166C98EAD21",
       "symbol": "EF",
       "name": "eFloki",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x085e30d3D932c33fB3Ed2BD0db40Cc2c43Ae7FD5",
+      "symbol": "PLUTO",
+      "name": "PlutoPepe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22411,
-    "minor": 22411,
+    "major": 22412,
+    "minor": 22412,
     "patch": 86
   }
 }
