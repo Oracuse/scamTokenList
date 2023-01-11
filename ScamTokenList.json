@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6719359e0623DD216Bcbe1Fd60bD03ef3115b4a0",
-      "symbol": "XYZINU",
-      "name": "XYZInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7f67F75D5b6A0CA57F9dE2b0fe1BaE7d4C83B051",
       "symbol": "CHAMP",
       "name": "WorldChampionInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7D7088F87D301D038D09C980Da607FD493F310FB",
+      "symbol": "SS",
+      "name": "SuperSaiyan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22395,
-    "minor": 22395,
+    "major": 22396,
+    "minor": 22396,
     "patch": 86
   }
 }
