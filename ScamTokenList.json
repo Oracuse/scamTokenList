@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7f27Ef44bc01Bb3FccA956378578d68f7D50D479",
-      "symbol": "OTC",
-      "name": "OTCNetwork",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3ddDCfe5eA7099DA4b6D4dcd383138BEaFC81a95",
       "symbol": "ET",
       "name": "ElonFanToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x57eEc7094D2E9c26049D794D48b356522e8ad53a",
+      "symbol": "PLUTO",
+      "name": "PlutoPepe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22417,
-    "minor": 22417,
+    "major": 22418,
+    "minor": 22418,
     "patch": 86
   }
 }
