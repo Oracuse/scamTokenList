@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFC4313D3e90e15B9B1407c7Fb7c9B7f184433666",
-      "symbol": "KOL",
-      "name": "CallerInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4886fC7235E8AC86227E4bb8d566a6e26Cc4f0e2",
       "symbol": "BLUEWHALES",
       "name": "BlueWhalesInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x824534DCcD0dC4ea12965Bee4811f71A4368FD03",
+      "symbol": "ADS",
+      "name": "adSpace",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22499,
-    "minor": 22499,
+    "major": 22500,
+    "minor": 22500,
     "patch": 86
   }
 }
