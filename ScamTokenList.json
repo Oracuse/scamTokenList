@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0Fc79167D6E47B83F88Af707A0509e21FdD6F5b4",
-      "symbol": "CZINU",
-      "name": "CzInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x49698589c1db31e08F97F9208BDd3b6a01128347",
       "symbol": "O",
       "name": "Orchid",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x612ffB7CBD4FcbbC31dBAEdd101C3A142366b425",
+      "symbol": "LOKI",
+      "name": "LokiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22505,
-    "minor": 22505,
+    "major": 22506,
+    "minor": 22506,
     "patch": 86
   }
 }
