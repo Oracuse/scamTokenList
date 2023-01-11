@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF9DaaA42F660ceAfa8A8D288C432A9bAE69e16bF",
-      "symbol": "SPHYNX",
-      "name": "SphynxProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3351e2585292F2dEc5Bdf7E8Fa7C47D2AEE841ec",
       "symbol": "SHQ",
       "name": "SHIBAQATAR",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Ea0920Ba3523C4e81AbAe680448E269F228d4A6",
+      "symbol": "OCCHIO",
+      "name": "Occhio",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22479,
-    "minor": 22479,
+    "major": 22480,
+    "minor": 22480,
     "patch": 86
   }
 }
