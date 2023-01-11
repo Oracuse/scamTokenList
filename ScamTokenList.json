@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD1Cd341A84F22131ccb3b14856C6268d4E2d6BaB",
-      "symbol": "MAS",
-      "name": "Mas",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x429d6Aa5c1ec5c84698B41eA6CC34D5aa64FfcA8",
       "symbol": "2MINUTES",
       "name": "2MinutesProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5367265F454A7AF87C6949750E2c83BAf53C5E50",
+      "symbol": "ZTC",
+      "name": "Zetaco",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22471,
-    "minor": 22471,
+    "major": 22472,
+    "minor": 22472,
     "patch": 86
   }
 }
