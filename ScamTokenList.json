@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x813C2f15c95e4E22dd05EcB544B1116CB0e53Ec4",
-      "symbol": "YEETH",
-      "name": "YeEthereum",
-      "decimals": 3,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x04F8Ba7B05C1850fafBE0B758fF0659adDa374f9",
       "symbol": "DOPE",
       "name": "DOPE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2bC15ecf0D55Ccd01432Df13C8a2015ead91876c",
+      "symbol": "WISDOM",
+      "name": "Fukurokuju",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22520,
-    "minor": 22520,
+    "major": 22521,
+    "minor": 22521,
     "patch": 86
   }
 }
