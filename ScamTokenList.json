@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x86C8F84273768ECe82B52F96fD9C9b120d0A7AAB",
-      "symbol": "OD",
-      "name": "OnlyDegens",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9d71071F219070B4834055Ed3d1D9e4CE7a9b058",
       "symbol": "VITALITY",
       "name": "GodofImmortality",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb79cD4b7B8ceC91154783B22B8bB75e58df37D83",
+      "symbol": "PUMP",
+      "name": "PumpnGo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22433,
-    "minor": 22433,
+    "major": 22434,
+    "minor": 22434,
     "patch": 86
   }
 }
