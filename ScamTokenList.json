@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x100f4a7D21653e534535a6918901F685D37d9F21",
-      "symbol": "DPT",
-      "name": "DegenProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF33bB90d34484E905190A7D8062d83419f43fb03",
       "symbol": "MASYA",
       "name": "MasyaProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEfFa61206ABbB4d3E1219673da51785D29B9db26",
+      "symbol": "FCKCNCR",
+      "name": "FCKCNCR",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22483,
-    "minor": 22483,
+    "major": 22484,
+    "minor": 22484,
     "patch": 86
   }
 }
