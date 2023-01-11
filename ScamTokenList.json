@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7873cfB80FA262578555AFAB4968f74f2cA74EC3",
-      "symbol": "VBI",
-      "name": "VitalikButerinInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x83501cA2e8E88AE328C2BB4Ea000a414cC2C62b7",
       "symbol": "MUSK",
       "name": "MuskProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x59C64872c699a2f3f54Ed3d352cF4e1237c165B9",
+      "symbol": "LOKI",
+      "name": "LokiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22507,
-    "minor": 22507,
+    "major": 22508,
+    "minor": 22508,
     "patch": 86
   }
 }
