@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9d9aAA419A39266590534a95A5415ba0D43C3774",
-      "symbol": "MMASYA",
-      "name": "MiniMasya",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC2EE09019113DdDd5C24fd0E4D13Ed9d547C5Fc3",
       "symbol": "BTD",
       "name": "BuyTheDip",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f88e5Bbd6e32BF62A78aEbD7A09363C712dA564",
+      "symbol": "MIT",
+      "name": "Mithril",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22495,
-    "minor": 22495,
+    "major": 22496,
+    "minor": 22496,
     "patch": 86
   }
 }
