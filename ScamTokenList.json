@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3ddDCfe5eA7099DA4b6D4dcd383138BEaFC81a95",
-      "symbol": "ET",
-      "name": "ElonFanToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3bFAe9A4Ad49235edAaB0295e11b92D578227170",
       "symbol": "ECLIPSE",
       "name": "EclipseProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A980f0916e7c8DaCf71497CCc75aEFE218CaeC3",
+      "symbol": "THOR",
+      "name": "GodofThunder",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22418,
-    "minor": 22418,
+    "major": 22419,
+    "minor": 22419,
     "patch": 86
   }
 }
