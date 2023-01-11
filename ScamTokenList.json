@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0f0Bbb887FC515254FAd23dcee146c3e452C9333",
-      "symbol": "HZK",
-      "name": "HOZUKI",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x77925Ae842340541beF7D4ef9fD8C7998c94b0A5",
       "symbol": "ADOPTION",
       "name": "AdoptionProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08d6EcEfF8544877628f7aAa759DD012b698d983",
+      "symbol": "SHBYO",
+      "name": "SHIBUYO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22473,
-    "minor": 22473,
+    "major": 22474,
+    "minor": 22474,
     "patch": 86
   }
 }
