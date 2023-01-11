@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0C8886029DdD17a23653aB2132E63cc1A928B38a",
-      "symbol": "SQUAWK",
-      "name": "SquawkBoxProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA51de3cb55e7e28e0895d81B2f9082861503f008",
       "symbol": "THEBOX",
       "name": "SquawkBoxProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A983cBB682DB14F415559136d90dECebE0DcD03",
+      "symbol": "ONE",
+      "name": "ONEINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22460,
-    "minor": 22460,
+    "major": 22461,
+    "minor": 22461,
     "patch": 86
   }
 }
