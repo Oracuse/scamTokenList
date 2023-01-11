@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD3549Dcc3F9ce3A50c50e58Ac7afa61Fe47bAc37",
-      "symbol": "ECLIPSE",
-      "name": "EclipseProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x26f45C6D6bfdd89d37a8856838c2141348334E0F",
       "symbol": "MASYA",
       "name": "MASYA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x17e4e022011665358727E3a23b387eA8Da24a705",
+      "symbol": "LENSAAI",
+      "name": "Lensa",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22444,
-    "minor": 22444,
+    "major": 22445,
+    "minor": 22445,
     "patch": 86
   }
 }
