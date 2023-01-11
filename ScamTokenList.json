@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x54833EfA58cff78b62D5d51cCC33b91f7FF12a48",
-      "symbol": "OS",
-      "name": "OnlyShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4e53566F4966CC4cec453DB24705191Ed7F1E3AA",
       "symbol": "HAMSTER",
       "name": "HamsterCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa1C48F2e8c2aCB734B6B0C7cf56258C47A8bc506",
+      "symbol": "CHONK",
+      "name": "ChonkyCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22426,
-    "minor": 22426,
+    "major": 22427,
+    "minor": 22427,
     "patch": 86
   }
 }
