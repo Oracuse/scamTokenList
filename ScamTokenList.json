@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa6a3877d78e3086F43dea08a68b9372bc3ACD0dC",
-      "symbol": "APE",
-      "name": "ApeProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1F74580Bd96E1877285f40BaeE7D7505f74270e4",
       "symbol": "DOD",
       "name": "DoD",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1EEd67E3818ab5f59d38AB21540C0347F9582501",
+      "symbol": "II",
+      "name": "INUINU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22450,
-    "minor": 22450,
+    "major": 22451,
+    "minor": 22451,
     "patch": 86
   }
 }
