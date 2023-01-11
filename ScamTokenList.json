@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbaD1E5ea932940964D312fBa0030EC4e68c736CE",
-      "symbol": "SCHRODINGER",
-      "name": "Schrodinger",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x100f4a7D21653e534535a6918901F685D37d9F21",
       "symbol": "DPT",
       "name": "DegenProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8877c94F41e8797d767904591BacBcb9D11bdD7f",
+      "symbol": "SHIBAO",
+      "name": "ShibaoInuyama",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22482,
-    "minor": 22482,
+    "major": 22483,
+    "minor": 22483,
     "patch": 86
   }
 }
