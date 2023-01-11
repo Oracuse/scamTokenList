@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4886fC7235E8AC86227E4bb8d566a6e26Cc4f0e2",
-      "symbol": "BLUEWHALES",
-      "name": "BlueWhalesInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7FF64cEf3c648748a0860505669FC4b75e07CCEe",
       "symbol": "OD",
       "name": "OnlyDegens",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x805F78D21804Bb519A6F2a3d349bEd98F9dE4Fef",
+      "symbol": "AMVAX",
+      "name": "AmazonAvax",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22500,
-    "minor": 22500,
+    "major": 22501,
+    "minor": 22501,
     "patch": 86
   }
 }
