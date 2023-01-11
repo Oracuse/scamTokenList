@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4C5265E635a4c84FA2Fb4E0B05CC830486863bE9",
-      "symbol": "APEXDAO",
-      "name": "APEXDAO",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9C2498471Ccf780A836d50b4060ef5DB5baAD677",
       "symbol": "ZK",
       "name": "ZKProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x65f1419Fe4Fb1d0cD121Be2600d12B69F7bCB8e7",
+      "symbol": "KEYENCEDAO",
+      "name": "mindgame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22423,
-    "minor": 22423,
+    "major": 22424,
+    "minor": 22424,
     "patch": 86
   }
 }
