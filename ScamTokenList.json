@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x454cd731EB10D877ce1b70486525D88C814f210B",
-      "symbol": "SAYLOR",
-      "name": "SaylorMoon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2ebedC82fC39C3e1C1c5fB64dc4E7622AD042F0b",
       "symbol": "GHOST",
       "name": "GhostProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71E4b6d16d47D2d8DD576c1b5032ABB4c245F67B",
+      "symbol": "OP",
+      "name": "OldProxy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22437,
-    "minor": 22437,
+    "major": 22438,
+    "minor": 22438,
     "patch": 86
   }
 }
