@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x28CCA02a62e75b6Ed44B8Cf9A0e7C1722c29D06C",
-      "symbol": "TYANGEN",
-      "name": "TheYantraDegen",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5c30961b6c6f800E888051b8E1961ebE06A0aB32",
       "symbol": "OI",
       "name": "OnlyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0365d10bcDf3FD1e88bFB42e9514b224B4ef27Ce",
+      "symbol": "BI",
+      "name": "BITCOININU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22441,
-    "minor": 22441,
+    "major": 22442,
+    "minor": 22442,
     "patch": 86
   }
 }
