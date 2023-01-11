@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB203c00E2ba678a938dB112C82400cd4109d631d",
-      "symbol": "TI",
-      "name": "TheInternational",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x88035CAC84E6006F3DC6832e6F02DA2C0C9D4F09",
       "symbol": "BABYETH",
       "name": "BABYETH",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7226D28B5AC572e24F4D59717BBECc43076198c1",
+      "symbol": "FTH",
+      "name": "Feathers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22465,
-    "minor": 22465,
+    "major": 22466,
+    "minor": 22466,
     "patch": 86
   }
 }
