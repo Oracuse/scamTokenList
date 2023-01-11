@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3fdD66d754012A46E2796bC58a59DB7AacF72C2D",
-      "symbol": "ORDERS",
-      "name": "YESSER",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7dA43D8239d5a8f0082D27dC1Db2D4f7d9Bc8a59",
       "symbol": "CNBC",
       "name": "CNBCProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x44742E423A1f1F2EDc633dd0bBBD0Dcccd289DEe",
+      "symbol": "BI",
+      "name": "BinanceInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22457,
-    "minor": 22457,
+    "major": 22458,
+    "minor": 22458,
     "patch": 86
   }
 }
