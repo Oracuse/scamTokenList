@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9C2498471Ccf780A836d50b4060ef5DB5baAD677",
-      "symbol": "ZK",
-      "name": "ZKProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x43A6843cf0F5604955382968a76bE44c2E211060",
       "symbol": "1060",
       "name": "1060Protocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9511aa9Be9bB0540369867bBc01251c6535dD7F3",
+      "symbol": "CRYOINU",
+      "name": "FreezeInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22424,
-    "minor": 22424,
+    "major": 22425,
+    "minor": 22425,
     "patch": 86
   }
 }
