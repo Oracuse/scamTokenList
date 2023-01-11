@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE0E5bDEBA485dAe1fd2713E61c068D751d4F5ee1",
-      "symbol": "T1",
-      "name": "SKTelecomT1",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCFfA22fa61e575295f556331C5b920cc95939316",
       "symbol": "DEATH",
       "name": "Shinigami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x258C67164c3a29B526F709E45993d179D0965FCa",
+      "symbol": "PUMP",
+      "name": "PumpnGo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22486,
-    "minor": 22486,
+    "major": 22487,
+    "minor": 22487,
     "patch": 86
   }
 }
