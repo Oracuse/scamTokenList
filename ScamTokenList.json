@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA52c937Dad7A7aD478bEBa7d31f9b32F328f45c5",
-      "symbol": "RIDDLER",
-      "name": "RiddlerInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA1Cbf7DBF09172bC427A263F9D8FDf05ec6d0698",
       "symbol": "ILLU",
       "name": "Illusionist",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x403545B0e694E3D20886a805C5A2a2e2bF5b2DbC",
+      "symbol": "LOKI",
+      "name": "LokiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22512,
-    "minor": 22512,
+    "major": 22513,
+    "minor": 22513,
     "patch": 86
   }
 }
