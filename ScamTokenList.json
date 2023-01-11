@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4911618CdD46795e620d4A5aCB9Dc72238a568f2",
-      "symbol": "CAPT",
-      "name": "CrazyAptos",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x11AB57076469B50972EE303F08aF2486D5007A01",
       "symbol": "NUWA",
       "name": "Nuwa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4126253050F73C6850F1FF262846848ca05ef373",
+      "symbol": "BBOINK",
+      "name": "BOINKBURN",
+      "decimals": 6,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22510,
-    "minor": 22510,
+    "major": 22511,
+    "minor": 22511,
     "patch": 86
   }
 }
