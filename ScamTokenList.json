@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC43D8993538345194D8d57eAcf4086FAf0b0C7Ba",
-      "symbol": "MULHAZOR",
-      "name": "Mulhazor",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe4d06a5519A32F0b91Df657912686564cFE67feD",
       "symbol": "POLYTOPIA",
       "name": "PolytopiaProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x95d91B59fcc57DB372bb58660333eD54EE064E13",
+      "symbol": "BUB",
+      "name": "LilBubCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22518,
-    "minor": 22518,
+    "major": 22519,
+    "minor": 22519,
     "patch": 86
   }
 }
