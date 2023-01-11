@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x31248Ad143E765aAA7a31F4a05fD804C82Cc235A",
-      "symbol": "MUMMYINU",
-      "name": "MummyInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x50d34EB1bf76c38159267e23A924CEF08ae11D64",
       "symbol": "VAPE",
       "name": "VitalikApe",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFb971E8614D31716acdF867DB3f50021cb6DcDEe",
+      "symbol": "MERI",
+      "name": "Meridius",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22398,
-    "minor": 22398,
+    "major": 22399,
+    "minor": 22399,
     "patch": 86
   }
 }
