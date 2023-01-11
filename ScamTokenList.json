@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x23D80509f38908Ba461b66F08d7331339b02AE60",
-      "symbol": "ZENKOKU",
-      "name": "ZENKOKU",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6c7CC72B21F153062CDF22F421Ea1F7b4D0644eb",
       "symbol": "SE7EN",
       "name": "TheSeventhBurningPr",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8613b3cE01C1da463FE87dF04c9f78655c04443C",
+      "symbol": "FTH",
+      "name": "Feathers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22452,
-    "minor": 22452,
+    "major": 22453,
+    "minor": 22453,
     "patch": 86
   }
 }
