@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3bFAe9A4Ad49235edAaB0295e11b92D578227170",
-      "symbol": "ECLIPSE",
-      "name": "EclipseProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA33260872827044F0D38B96F780102d8b13C5D7F",
       "symbol": "ZOMBAE",
       "name": "ZOMBAE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2a77b4A1C20d95a76951f8413b38F3e57dE21a8D",
+      "symbol": "PYRAMID",
+      "name": "TheGreatPyramid",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22419,
-    "minor": 22419,
+    "major": 22420,
+    "minor": 22420,
     "patch": 86
   }
 }
