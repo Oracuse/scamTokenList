@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFAbE1d8d8332aD81E72522B5d0c88D59eC9c7424",
-      "symbol": "BOARD",
-      "name": "board",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x571D4E2d40E2Bc0eADBf9895D41993e9dC87D2cb",
       "symbol": "SWISH",
       "name": "SakuraWishes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9D5dCA903c8e0B1dE3DE2d644B6752917A9e06D3",
+      "symbol": "BITNEKO",
+      "name": "BTCNEKO",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22492,
-    "minor": 22492,
+    "major": 22493,
+    "minor": 22493,
     "patch": 86
   }
 }
