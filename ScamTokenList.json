@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF33bB90d34484E905190A7D8062d83419f43fb03",
-      "symbol": "MASYA",
-      "name": "MasyaProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2e3AA00CD05eA8C77B0C1732BC930a1A31BEF0f3",
       "symbol": "CNBC",
       "name": "CNBC",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9456017f456Dc95fDeeE60D201D78FfB55E65eBE",
+      "symbol": "SHINU",
+      "name": "ShibariumInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22484,
-    "minor": 22484,
+    "major": 22485,
+    "minor": 22485,
     "patch": 86
   }
 }
