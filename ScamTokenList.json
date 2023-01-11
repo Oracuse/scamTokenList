@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x15340E3DeA2595b4Cd124d473A45bb9707CDC046",
-      "symbol": "POP",
-      "name": "PoocoinProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdAec4B071A7383A206AA39Aa9B8F7D13432655a8",
       "symbol": "CD",
       "name": "RootProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7f671b12F96d9cc9e2f0ee9c56572cFb632e7625",
+      "symbol": "ASHIBAI",
+      "name": "ArtificialShibaInte",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22403,
-    "minor": 22403,
+    "major": 22404,
+    "minor": 22404,
     "patch": 86
   }
 }
