@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8adB1c431B2a1f443B4f8384078c91724690BFA9",
-      "symbol": "LAVA",
-      "name": "MoltenLava",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbaD1E5ea932940964D312fBa0030EC4e68c736CE",
       "symbol": "SCHRODINGER",
       "name": "Schrodinger",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBD4220a54e03Cc75Ad857d68C6dC29E683055bB0",
+      "symbol": "PUMP",
+      "name": "PumpnGo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22481,
-    "minor": 22481,
+    "major": 22482,
+    "minor": 22482,
     "patch": 86
   }
 }
