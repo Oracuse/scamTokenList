@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x43A6843cf0F5604955382968a76bE44c2E211060",
-      "symbol": "1060",
-      "name": "1060Protocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x54833EfA58cff78b62D5d51cCC33b91f7FF12a48",
       "symbol": "OS",
       "name": "OnlyShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdADbf5DC19fB42dEDc8e7128cC44AcF9eb91D4da",
+      "symbol": "SUNOKI",
+      "name": "KusunokiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22425,
-    "minor": 22425,
+    "major": 22426,
+    "minor": 22426,
     "patch": 86
   }
 }
