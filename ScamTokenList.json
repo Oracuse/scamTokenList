@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7FF64cEf3c648748a0860505669FC4b75e07CCEe",
-      "symbol": "OD",
-      "name": "OnlyDegens",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc43179375Ed9aE8553550F622F2801BE4Fe99893",
       "symbol": "BOMES",
       "name": "BabyOnlyMemes",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa277A96D31aabd4D03aFaDD44DCB3AFC7f11A18B",
+      "symbol": "AAVAX",
+      "name": "AmazonAvalanche",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22501,
-    "minor": 22501,
+    "major": 22502,
+    "minor": 22502,
     "patch": 86
   }
 }
