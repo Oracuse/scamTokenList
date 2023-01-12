@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5628151C4324E247c1F0B0F4439574120726852a",
-      "symbol": "QILIN",
-      "name": "QiLin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5Fe9123fd2323aBc799650Aa958F04a4DA0315D8",
       "symbol": "CRAZY9S",
       "name": "Crazy9s",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89aC76573e6Fe4Fb3e7e8933e4CdFC654bBD4865",
+      "symbol": "SBTC",
+      "name": "SonofBitcoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22542,
-    "minor": 22542,
+    "major": 22543,
+    "minor": 22543,
     "patch": 86
   }
 }
