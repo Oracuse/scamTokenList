@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb77B2E97872610f8370Fcc051e03aAfed2D2Bbf2",
-      "symbol": "CREATION",
-      "name": "TheCreator",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x36A9C042CFBf14bd6e2266C1Ee927A1D64e85A9B",
       "symbol": "FOCUS",
       "name": "FOCUSPROTOCOL",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1519389aeA76e8F115f7f37baa573d4273f8dB41",
+      "symbol": "SQUID3",
+      "name": "SQUIDGAME30",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22611,
-    "minor": 22611,
+    "major": 22612,
+    "minor": 22612,
     "patch": 86
   }
 }
