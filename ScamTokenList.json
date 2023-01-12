@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1Bc3870C54708cb8D2c8C9439407bB79697E0f47",
-      "symbol": "2X2S",
-      "name": "2x2s",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xaF1225105ecebf621DE3683C23FD291644f6daC6",
       "symbol": "NPLAYER",
       "name": "NPlayerProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3B9a64E42eA2d14CbC69c006c7fE7dB225FD79A6",
+      "symbol": "DEATHWISH",
+      "name": "Neltharion",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22600,
-    "minor": 22600,
+    "major": 22601,
+    "minor": 22601,
     "patch": 86
   }
 }
