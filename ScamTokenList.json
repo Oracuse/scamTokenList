@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB03c1a1D3Ae029f46ba70B718398a7Ed1aE0eDe7",
-      "symbol": "JAMAICA",
-      "name": "StarlinkinJamaica",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4550A9c1f326CCFea2024c998f00AE94c63f7bA5",
       "symbol": "STARLINK",
       "name": "JamaicanStarlink",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF1FB501eb87A934249A5CFE51A862246fCe0f1FB",
+      "symbol": "KISHU",
+      "name": "Kishu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22593,
-    "minor": 22593,
+    "major": 22594,
+    "minor": 22594,
     "patch": 86
   }
 }
