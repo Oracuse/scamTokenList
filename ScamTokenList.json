@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x680e0c042500040E1aA234c0AECb44673675F4d0",
-      "symbol": "PNDS",
-      "name": "PEPENEEDSDRUGS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66BB849Ea60ce499C9C9b9179DA7A8F03A834716",
       "symbol": "BLOB",
       "name": "Blob",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x92aB1B6E21EB1E0376691f01dDF3fBB8a7b96c27",
+      "symbol": "HOLD20",
+      "name": "ProofOfHold",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22605,
-    "minor": 22605,
+    "major": 22606,
+    "minor": 22606,
     "patch": 86
   }
 }
