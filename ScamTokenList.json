@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7181bBFdfF123F4131f695F5968371e47B0e15AD",
-      "symbol": "BLOB",
-      "name": "BLOBSPACE",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb77B2E97872610f8370Fcc051e03aAfed2D2Bbf2",
       "symbol": "CREATION",
       "name": "TheCreator",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB65ec2DcA3717dEfF351471f8F59c128833e9a7",
+      "symbol": "ELFERIUM",
+      "name": "Elferium",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22610,
-    "minor": 22610,
+    "major": 22611,
+    "minor": 22611,
     "patch": 86
   }
 }
