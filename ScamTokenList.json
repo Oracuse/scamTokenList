@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2769514Fb21E68A7C64d2b039f36B789E81378b1",
-      "symbol": "USECASE",
-      "name": "TheState",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x381f9617778147FDf96A138d7ca9E3601e8EA6A7",
       "symbol": "TALKYM",
       "name": "talkyMechanism",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x71Bc05334056466137c09C0Bc03ECADd2c7d33c3",
+      "symbol": "VETO",
+      "name": "VetoProtocol",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22596,
-    "minor": 22596,
+    "major": 22597,
+    "minor": 22597,
     "patch": 86
   }
 }
