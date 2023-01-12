@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x12940200e3BABF1782668C2238FDCEeaDa84309C",
-      "symbol": "ICARUS",
-      "name": "Icarus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc79de9E992598FCfbc111Dd3171376dde825AC03",
       "symbol": "ICARUS",
       "name": "IcarusProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf24A179e5697851C34e9b8fDa280c4F2C8265809",
+      "symbol": "RUNINU",
+      "name": "PowerRun",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22618,
-    "minor": 22618,
+    "major": 22619,
+    "minor": 22619,
     "patch": 86
   }
 }
