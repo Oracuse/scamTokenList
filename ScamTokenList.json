@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x34b673b0defc087CFAe32e8D230dc287daE0000c",
-      "symbol": "ROX",
-      "name": "ROXToken",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA20Be670ea977153918D28A0F1740534C551f687",
       "symbol": "ULT",
       "name": "UltimateCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x125bA94aF3c2176754c37ff6BCDA62470b2EcAD0",
+      "symbol": "AOS",
+      "name": "AngelOfSaviour",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22581,
-    "minor": 22581,
+    "major": 22582,
+    "minor": 22582,
     "patch": 86
   }
 }
