@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8b69de294eD5fF70159be3A7EBE66c6a8A559923",
-      "symbol": "ONEQUESTION",
-      "name": "OneQuestion",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE9400Cd8935bc5C98161Dd181897526b373dE8ba",
       "symbol": "SUZUHIKO",
       "name": "SuzuhikoHime",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFdC76bB0D48bD600baf26641aaF9e9c204d641bD",
+      "symbol": "FETH",
+      "name": "FutureEthereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22564,
-    "minor": 22564,
+    "major": 22565,
+    "minor": 22565,
     "patch": 86
   }
 }
