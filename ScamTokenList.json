@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2E1c3b11e48EEd58DBca71e9298e14875f2988c7",
-      "symbol": "LIFE",
-      "name": "Izanami",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF9c2b88130D31C33832f6B53F75917af5dc857a2",
       "symbol": "ANUIX",
       "name": "ANUIX",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73e7648C42e46D403B7BaE75980932E05d0fF456",
+      "symbol": "MIXAI",
+      "name": "MixerAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22630,
-    "minor": 22630,
+    "major": 22631,
+    "minor": 22631,
     "patch": 86
   }
 }
