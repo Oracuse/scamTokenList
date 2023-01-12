@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaF1225105ecebf621DE3683C23FD291644f6daC6",
-      "symbol": "NPLAYER",
-      "name": "NPlayerProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0378ae537FEdc4c6B1B1a9053C7aDe5A78770857",
       "symbol": "SANTA",
       "name": "Santa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15115Ec202D012c77D05B79993556b8a83AAd983",
+      "symbol": "CODE",
+      "name": "LookIntoCode",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22601,
-    "minor": 22601,
+    "major": 22602,
+    "minor": 22602,
     "patch": 86
   }
 }
