@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf6529E9AFDdD457b1FE0b6cbC3e397534F04725A",
-      "symbol": "WHALE",
-      "name": "BlueWhaleProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDb7B8615C8E3E161628bEc1F6d5BCbbAC8E3968c",
       "symbol": "39AS",
       "name": "39AShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x702354EEAC06ee06A4a0A3A71d098deA258BC5a5",
+      "symbol": "BULL",
+      "name": "BULLETH",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22540,
-    "minor": 22540,
+    "major": 22541,
+    "minor": 22541,
     "patch": 86
   }
 }
