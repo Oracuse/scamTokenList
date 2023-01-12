@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA20Be670ea977153918D28A0F1740534C551f687",
-      "symbol": "ULT",
-      "name": "UltimateCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5EeD3b3a1B8b18Bef961B8B90F3Be3b09072f6F0",
       "symbol": "TALKY",
       "name": "TalkyProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2f3475f898804D0BB24514E5a67eF20F0f7D37e0",
+      "symbol": "MAI",
+      "name": "MillionaireAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22582,
-    "minor": 22582,
+    "major": 22583,
+    "minor": 22583,
     "patch": 86
   }
 }
