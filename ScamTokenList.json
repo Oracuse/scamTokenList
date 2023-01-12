@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xccCcccCccc395A647FdD2d33e207EaBB531F9451",
-      "symbol": "C",
-      "name": "Ten",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x75ab909d2d167fc9cc5AAd4BAC6cA14cA87069b6",
       "symbol": "CPROTO",
       "name": "CasinoProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4e2AA8511a68647Fc35D1483fE8167f1e8DE88d4",
+      "symbol": "ETH10K",
+      "name": "TenThousandETHClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22640,
-    "minor": 22640,
+    "major": 22641,
+    "minor": 22641,
     "patch": 86
   }
 }
