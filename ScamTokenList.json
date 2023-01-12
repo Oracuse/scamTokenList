@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0983118867E36dEe0F993bbfbE7F67639e2DB3c9",
-      "symbol": "EM",
-      "name": "ElonsMansion",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7f50406CfEA66953A0f97139036fbA3e97772bD5",
       "symbol": "DNT",
       "name": "Danotoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA8447935Cf18695D21d748f8E70d3A233c45CDeB",
+      "symbol": "BALTO",
+      "name": "BaltoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22526,
-    "minor": 22526,
+    "major": 22527,
+    "minor": 22527,
     "patch": 86
   }
 }
