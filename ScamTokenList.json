@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0298a0e20f4B0a4adBe45D5627e6b13c2305805f",
-      "symbol": "PB",
-      "name": "PeoplesBank",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEe00B9A016843Da24FD27f4841b159e71b49599a",
       "symbol": "YUE",
       "name": "Yueliang",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76Aacb3D2ba00C385fb44e73340115fF8F5301DF",
+      "symbol": "TMAN",
+      "name": "TaxMan",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22651,
-    "minor": 22651,
+    "major": 22652,
+    "minor": 22652,
     "patch": 86
   }
 }
