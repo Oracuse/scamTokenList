@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA68232Bf0baa58e6f2E382C7FA0E5ddB74a85aff",
-      "symbol": "DAIN",
-      "name": "DejitaruChain",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFb50D7d98A2e8CF2f63CC17d18e6712Ade3452B3",
       "symbol": "QUEUE",
       "name": "Queuecoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x83283A6954D38F7DA1b52ccb3e64892A4c980ab9",
+      "symbol": "SHIBAI",
+      "name": "ShibAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22633,
-    "minor": 22633,
+    "major": 22634,
+    "minor": 22634,
     "patch": 86
   }
 }
