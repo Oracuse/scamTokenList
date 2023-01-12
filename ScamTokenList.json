@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x842e1c8Bd307E4a59dBF1ef04d31d40d2214828D",
-      "symbol": "KIPROTOCOL",
-      "name": "KiProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x86bA1c92c5020732182E62384ee5Db215bFd4A24",
       "symbol": "PROTOCOL20",
       "name": "ProofOfProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5047f659B175Ff1807286d1B22b8Fd9E828cba4F",
+      "symbol": "SQUIDAI",
+      "name": "SquidAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22532,
-    "minor": 22532,
+    "major": 22533,
+    "minor": 22533,
     "patch": 86
   }
 }
