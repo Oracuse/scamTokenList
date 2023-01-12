@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa9fDf65d4caBa4d469E9D696A11C069f12C332D0",
-      "symbol": "QV",
-      "name": "QuadraticVoting",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE5F0f6222E3834E6D671161c1Dd7cda004dcC2d9",
       "symbol": "QUAD",
       "name": "QuadraticProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x98ba454779C9Fb6593323826B48d5681158E913f",
+      "symbol": "DOGE23",
+      "name": "DOGE2023",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22587,
-    "minor": 22587,
+    "major": 22588,
+    "minor": 22588,
     "patch": 86
   }
 }
