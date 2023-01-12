@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x538cdb6bd86D07dBEC1f4Abe2181156Bfc13B822",
-      "symbol": "BLOB",
-      "name": "BLOBBlock",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x38879D1987e8ACb0E2f1F4753a4b25c2D87aA66d",
       "symbol": "SHI",
       "name": "SenorHulkInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD993bf0B47C2893C97ABD9AF3afc658F09231578",
+      "symbol": "CN",
+      "name": "CannaNetwork",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22614,
-    "minor": 22614,
+    "major": 22615,
+    "minor": 22615,
     "patch": 86
   }
 }
