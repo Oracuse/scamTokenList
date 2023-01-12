@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdAb2C417513f17D3a5609d164c190D5eB1B6f15B",
-      "symbol": "TIPC",
-      "name": "TipTravelCoin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x842e1c8Bd307E4a59dBF1ef04d31d40d2214828D",
       "symbol": "KIPROTOCOL",
       "name": "KiProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8B2Ed97A4D0693856dB375503263f0bC6C85b9Ed",
+      "symbol": "PLUTO",
+      "name": "PlutoPepe",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22531,
-    "minor": 22531,
+    "major": 22532,
+    "minor": 22532,
     "patch": 86
   }
 }
