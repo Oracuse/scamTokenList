@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd0A45B1aeA49f01Ca9695393dd528fC4b7d79feB",
-      "symbol": "C9",
-      "name": "Crazy9s",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x034342700C2ab8CEE703713357cfD04F4B55d7aA",
       "symbol": "THREAD",
       "name": "TheGoodProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x99186e0033190C9Eb77cdf1ddF212b3D12490dB4",
+      "symbol": "ELOOP",
+      "name": "EtherLoop",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22562,
-    "minor": 22562,
+    "major": 22563,
+    "minor": 22563,
     "patch": 86
   }
 }
