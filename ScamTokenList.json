@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0378ae537FEdc4c6B1B1a9053C7aDe5A78770857",
-      "symbol": "SANTA",
-      "name": "Santa",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x370e6550cBaED46Ec8776fb57766C712165B141f",
       "symbol": "TD",
       "name": "TreeDiagram",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1C62a5D4A2E5425B868bccd3D34852f4dD8c503e",
+      "symbol": "HAWK",
+      "name": "BlackHawkSniper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22602,
-    "minor": 22602,
+    "major": 22603,
+    "minor": 22603,
     "patch": 86
   }
 }
