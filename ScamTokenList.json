@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbB84aA8B01De4e32426f3c7BD357FdE613c3a9E6",
-      "symbol": "IOF",
-      "name": "IOFinance",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd0A45B1aeA49f01Ca9695393dd528fC4b7d79feB",
       "symbol": "C9",
       "name": "Crazy9s",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2E0B032a75A051566a0ee968f8CB70E388824A4c",
+      "symbol": "CRYPTON",
+      "name": "CryptonAI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22561,
-    "minor": 22561,
+    "major": 22562,
+    "minor": 22562,
     "patch": 86
   }
 }
