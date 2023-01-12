@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9F7e9144Cb76e3AC79fc5Af6f128f954576B491D",
-      "symbol": "TLT",
-      "name": "TWOLANDS",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcaA2cC191698E40427540d531b9b52E76FcA514b",
       "symbol": "MANSION",
       "name": "MansionProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2419DDBB1aB2297E2c3DB79461F82fcac4c61682",
+      "symbol": "KYUSHU",
+      "name": "KyushuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22552,
-    "minor": 22552,
+    "major": 22553,
+    "minor": 22553,
     "patch": 86
   }
 }
