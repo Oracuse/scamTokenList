@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x034342700C2ab8CEE703713357cfD04F4B55d7aA",
-      "symbol": "THREAD",
-      "name": "TheGoodProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8b69de294eD5fF70159be3A7EBE66c6a8A559923",
       "symbol": "ONEQUESTION",
       "name": "OneQuestion",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x958a4Ecf98fb34AEFB60a437b4d9f716A4b642E6",
+      "symbol": "CHIMERA",
+      "name": "CHIMERAPROTOCOL",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22563,
-    "minor": 22563,
+    "major": 22564,
+    "minor": 22564,
     "patch": 86
   }
 }
