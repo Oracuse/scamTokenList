@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x96792444fbEEb9a11A3023c8bdA9bd3A4b2c31Bf",
-      "symbol": "GLOBAL",
-      "name": "CryptoisGlobal",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcD4f4d33196e7030d577f6eFB61B6aCf46656D4F",
       "symbol": "GLOBAL",
       "name": "CryptoIsGlobal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x871baA9B16de6f260D58BCa9AB78Aff4E6CdA242",
+      "symbol": "NODEV",
+      "name": "NoDevToken",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22573,
-    "minor": 22573,
+    "major": 22574,
+    "minor": 22574,
     "patch": 86
   }
 }
