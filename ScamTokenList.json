@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xDb7B8615C8E3E161628bEc1F6d5BCbbAC8E3968c",
-      "symbol": "39AS",
-      "name": "39AShiba",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5628151C4324E247c1F0B0F4439574120726852a",
       "symbol": "QILIN",
       "name": "QiLin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8d6e11786aAeAFAC045e1dB9a17CCa2E7a3f4592",
+      "symbol": "CHIP",
+      "name": "SynthChipFinance",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22541,
-    "minor": 22541,
+    "major": 22542,
+    "minor": 22542,
     "patch": 86
   }
 }
