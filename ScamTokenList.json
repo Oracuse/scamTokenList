@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc523ACc8Cb6b5F8744Fb024222AD3463b6fcDc17",
-      "symbol": "IK",
-      "name": "IdiotKasparov",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6d3b9BFE63dBf41a8c0B65479D8844B759620153",
       "symbol": "CO2",
       "name": "CARBON",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x11E2852dd70E418B4b5D112fDce62DCcA5A39C79",
+      "symbol": "AVAX",
+      "name": "AvaxInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22549,
-    "minor": 22549,
+    "major": 22550,
+    "minor": 22550,
     "patch": 86
   }
 }
