@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFB4dFAae3ea812Dd7AD1Cd6A42142c513d6762e5",
-      "symbol": "YES",
-      "name": "YesProtocl",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x758f766e0004bfF9C7D0a83f2022e70C18300283",
       "symbol": "BLUEWHALE",
       "name": "LargestAnimalEver",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x75ea2388EB617104715c1b1Cf05a4455c8d7D76F",
+      "symbol": "AVAX",
+      "name": "AvaxInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22547,
-    "minor": 22547,
+    "major": 22548,
+    "minor": 22548,
     "patch": 86
   }
 }
