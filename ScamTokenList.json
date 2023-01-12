@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5b265bed3c3544E7f617d8af55addd2472c4a377",
-      "symbol": "SEARP",
-      "name": "SearProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2769514Fb21E68A7C64d2b039f36B789E81378b1",
       "symbol": "USECASE",
       "name": "TheState",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7183BAd07215589381478e9046cdb4F0f3e38687",
+      "symbol": "GOATP",
+      "name": "GorillaApt",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22595,
-    "minor": 22595,
+    "major": 22596,
+    "minor": 22596,
     "patch": 86
   }
 }
