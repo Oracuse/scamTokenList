@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x83ac98B5E51c69795c7BB3D4D8E542da8d02a1DB",
-      "symbol": "DIMABUTERIN",
-      "name": "DimaButerin",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x805c3ED251f51da30d3018656C9fef1C09848cD0",
       "symbol": "KAMA",
       "name": "Kamakosis",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x186B0DdD14f188B4bc69aaf71e6b7ED1FCac578E",
+      "symbol": "TKS",
+      "name": "ToKillShadow",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22535,
-    "minor": 22535,
+    "major": 22536,
+    "minor": 22536,
     "patch": 86
   }
 }
