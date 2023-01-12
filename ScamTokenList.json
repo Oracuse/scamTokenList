@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x11DC211cc2533257612A50afcBe29a268C8d8a76",
-      "symbol": "2X2S",
-      "name": "2x2sProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1Bc3870C54708cb8D2c8C9439407bB79697E0f47",
       "symbol": "2X2S",
       "name": "2x2s",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe81505304B1A384a6609cb1C8B774eEF6B9dcd1d",
+      "symbol": "13TH",
+      "name": "FridayThe13th",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22599,
-    "minor": 22599,
+    "major": 22600,
+    "minor": 22600,
     "patch": 86
   }
 }
