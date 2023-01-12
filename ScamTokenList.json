@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9105F8E95D644227bA91da48d1e628938a2D46ED",
-      "symbol": "SCP",
-      "name": "SCPFoundation",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2E1c3b11e48EEd58DBca71e9298e14875f2988c7",
       "symbol": "LIFE",
       "name": "Izanami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2095023eF4098039eF6b88aD33D5F292438E0FB6",
+      "symbol": "DRAGOGE",
+      "name": "Dragoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22629,
-    "minor": 22629,
+    "major": 22630,
+    "minor": 22630,
     "patch": 86
   }
 }
