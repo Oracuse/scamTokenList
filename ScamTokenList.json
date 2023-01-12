@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x370e6550cBaED46Ec8776fb57766C712165B141f",
-      "symbol": "TD",
-      "name": "TreeDiagram",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc1b6296e55b6cA1882a9cefD72Ac246ACdE91414",
       "symbol": "VLP",
       "name": "ValueLiquidityProvi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x811b26b36F01F1006B2d79CD53ecf7Ee06B2F991",
+      "symbol": "BULLET",
+      "name": "BullETHCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22603,
-    "minor": 22603,
+    "major": 22604,
+    "minor": 22604,
     "patch": 86
   }
 }
