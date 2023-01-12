@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEB0a628C920116533a6A3cc487449edBB395dd5F",
-      "symbol": "SOMETHING",
-      "name": "Hereissomething",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x0ea56c4bCC265e4dae4f7022aB80f7A87d50B863",
       "symbol": "OIAA",
       "name": "OhIabsolutelyagree",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDC7f619d60714703412c3C7617f67279dFc45b1e",
+      "symbol": "BTCI",
+      "name": "BITCOININU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22660,
-    "minor": 22660,
+    "major": 22661,
+    "minor": 22661,
     "patch": 86
   }
 }
