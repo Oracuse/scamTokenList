@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x906f372940c9FD36200b0050C306BF82fA64d81C",
-      "symbol": "XGREEN",
-      "name": "XGREEN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA68232Bf0baa58e6f2E382C7FA0E5ddB74a85aff",
       "symbol": "DAIN",
       "name": "DejitaruChain",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7170A211CdEF512D847c397484f1520AE8427BcD",
+      "symbol": "PORTAL",
+      "name": "ThePortal",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22632,
-    "minor": 22632,
+    "major": 22633,
+    "minor": 22633,
     "patch": 86
   }
 }
