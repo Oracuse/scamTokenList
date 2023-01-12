@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0E146e67433c3db1636f35c9f176CD91CcC4F58F",
-      "symbol": "SISI",
-      "name": "SymbiosisFinance",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9105F8E95D644227bA91da48d1e628938a2D46ED",
       "symbol": "SCP",
       "name": "SCPFoundation",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3670d01A3419ec73649255a12e7F2d1c83529ADE",
+      "symbol": "NEXC",
+      "name": "NexoClassic",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22628,
-    "minor": 22628,
+    "major": 22629,
+    "minor": 22629,
     "patch": 86
   }
 }
