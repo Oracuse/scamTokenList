@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x715097792299deC2aA53Ee1e806fE2D8a3fe6F72",
-      "symbol": "TWALLET",
-      "name": "TwitterWallet",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17850559F28e700C4481774aE8097688A67637dd",
       "symbol": "CH",
       "name": "Chadium",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA76Da27068fbed68B7dC728119e947996370932d",
+      "symbol": "KILO",
+      "name": "Kilobuck",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22644,
-    "minor": 22644,
+    "major": 22645,
+    "minor": 22645,
     "patch": 86
   }
 }
