@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc79de9E992598FCfbc111Dd3171376dde825AC03",
-      "symbol": "ICARUS",
-      "name": "IcarusProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8438d64Da58772E9F7FCeAa1506bA300F935ABBd",
       "symbol": "VLP",
       "name": "ValueLiquidityProvi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8ba12f0Be1eEeAB89e47318F05461D5C5431f075",
+      "symbol": "ADDC",
+      "name": "AntiDogeDogeClub",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22619,
-    "minor": 22619,
+    "major": 22620,
+    "minor": 22620,
     "patch": 86
   }
 }
