@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x10687398e0913aB354CCD7Ba2B214e83a181bD4B",
-      "symbol": "GLOB",
-      "name": "Glob",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCDD2bD61D07b8d42843175dd097A4858A8f764e7",
       "symbol": "VLP",
       "name": "ValueLiquidityProvi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7Cad658576df0d2a270CFF61139FD5dBE08f0f25",
+      "symbol": "SHIBCOPY",
+      "name": "ShibaInuCopy",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22626,
-    "minor": 22626,
+    "major": 22627,
+    "minor": 22627,
     "patch": 86
   }
 }
