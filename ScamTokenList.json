@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x11834D1bd0D6730A092cab287c1743D9D6871A7A",
-      "symbol": "NATALIA",
-      "name": "VitaliksMom",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf6529E9AFDdD457b1FE0b6cbC3e397534F04725A",
       "symbol": "WHALE",
       "name": "BlueWhaleProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xF9621F06B20010aAFa1371832B522BC91FfeAB98",
+      "symbol": "XYZ",
+      "name": "XYZCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22539,
-    "minor": 22539,
+    "major": 22540,
+    "minor": 22540,
     "patch": 86
   }
 }
