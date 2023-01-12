@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcD4f4d33196e7030d577f6eFB61B6aCf46656D4F",
-      "symbol": "GLOBAL",
-      "name": "CryptoIsGlobal",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x19122Ff4022c80126Ab0593F4096b3a0272A4878",
       "symbol": "WCB",
       "name": "WorldCupBoots",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xeD534190B7C8E964a1633D41f4041eA340e00ca5",
+      "symbol": "FSHB",
+      "name": "FUTURESHIB",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22574,
-    "minor": 22574,
+    "major": 22575,
+    "minor": 22575,
     "patch": 86
   }
 }
