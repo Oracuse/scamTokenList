@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8438d64Da58772E9F7FCeAa1506bA300F935ABBd",
-      "symbol": "VLP",
-      "name": "ValueLiquidityProvi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD65DAb999Af881c9Eccb06Ab4a28266a65Dd869a",
       "symbol": "HARAMBE",
       "name": "HARAMBE",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFee191796d17dA6Edb1A6f8ea9Fe54cc68949dB7",
+      "symbol": "ZAIBATSU",
+      "name": "Zaibatsu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22620,
-    "minor": 22620,
+    "major": 22621,
+    "minor": 22621,
     "patch": 86
   }
 }
