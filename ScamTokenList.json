@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4550A9c1f326CCFea2024c998f00AE94c63f7bA5",
-      "symbol": "STARLINK",
-      "name": "JamaicanStarlink",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5b265bed3c3544E7f617d8af55addd2472c4a377",
       "symbol": "SEARP",
       "name": "SearProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xcf9e003b86144EdA15F6A2e4C10236c22510Ec47",
+      "symbol": "APOLLO",
+      "name": "MissionEthereum",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22594,
-    "minor": 22594,
+    "major": 22595,
+    "minor": 22595,
     "patch": 86
   }
 }
