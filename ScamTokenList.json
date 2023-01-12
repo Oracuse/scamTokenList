@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF9c2b88130D31C33832f6B53F75917af5dc857a2",
-      "symbol": "ANUIX",
-      "name": "ANUIX",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x906f372940c9FD36200b0050C306BF82fA64d81C",
       "symbol": "XGREEN",
       "name": "XGREEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x32832D7e34B4a547FaDeFA1216166564675d0421",
+      "symbol": "NQVST",
+      "name": "NiqvisitCoin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22631,
-    "minor": 22631,
+    "major": 22632,
+    "minor": 22632,
     "patch": 86
   }
 }
