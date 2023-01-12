@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08782A84a35a7003E43d396C9d62f7365F2233B8",
-      "symbol": "1941",
-      "name": "Honolulu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xdAb2C417513f17D3a5609d164c190D5eB1B6f15B",
       "symbol": "TIPC",
       "name": "TipTravelCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7A17A9cce13137151A5A18Abf4E4793A81e9eBC6",
+      "symbol": "MEME",
+      "name": "TehMeme",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22530,
-    "minor": 22530,
+    "major": 22531,
+    "minor": 22531,
     "patch": 86
   }
 }
