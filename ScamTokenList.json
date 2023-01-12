@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x381f9617778147FDf96A138d7ca9E3601e8EA6A7",
-      "symbol": "TALKYM",
-      "name": "talkyMechanism",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7D776681051f975012d8BD7B825a0CB3320A4D46",
       "symbol": "2X2S",
       "name": "2x2s",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9B749Dd908c25D0fb690e7E0ae19E1b3D70c8e14",
+      "symbol": "CHONK",
+      "name": "ChonkyCat",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22597,
-    "minor": 22597,
+    "major": 22598,
+    "minor": 22598,
     "patch": 86
   }
 }
