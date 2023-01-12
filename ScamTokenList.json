@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA59BCEC08a2367bCDcd80dDB9d0E4F923e8AFC48",
-      "symbol": "NANO",
-      "name": "NanoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xccCcccCccc395A647FdD2d33e207EaBB531F9451",
       "symbol": "C",
       "name": "Ten",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6eE6996D34A75d8951AABaD0aC8dE3F8eD47ddC0",
+      "symbol": "SAMO",
+      "name": "SAMOYEDINU",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22639,
-    "minor": 22639,
+    "major": 22640,
+    "minor": 22640,
     "patch": 86
   }
 }
