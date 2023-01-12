@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE5F0f6222E3834E6D671161c1Dd7cda004dcC2d9",
-      "symbol": "QUAD",
-      "name": "QuadraticProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2B7D5BB385Ba424494B145Df03117700633F989B",
       "symbol": "TALKYINU",
       "name": "TalkyInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7de19F01E1aF39C5eEe392C39737f3CC0e9012a8",
+      "symbol": "SHIBAKU",
+      "name": "ShibakuInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22588,
-    "minor": 22588,
+    "major": 22589,
+    "minor": 22589,
     "patch": 86
   }
 }
