@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7f50406CfEA66953A0f97139036fbA3e97772bD5",
-      "symbol": "DNT",
-      "name": "Danotoshi",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4915fFb4203C871f57f406e44bAcbd80DD3E51f8",
       "symbol": "SV",
       "name": "SiliconValley",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50Bbc1E84A3d84d892A6Ac9Af17831C0b1b1b8eF",
+      "symbol": "MILA",
+      "name": "Mila",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22527,
-    "minor": 22527,
+    "major": 22528,
+    "minor": 22528,
     "patch": 86
   }
 }
