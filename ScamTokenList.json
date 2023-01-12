@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1392E9Be992caa44804797E1976Fc6e4347C13Fe",
-      "symbol": "GLOBALPROTOCOL",
-      "name": "GlobalProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x855c0a140DB1F35Ea4eb0c6d9eAe9E8bF8C55190",
       "symbol": "CRYPTO",
       "name": "TheCryptoProcotol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4304ec9b3Ae1D8265E63ac28CE2F9C43B371eEF",
+      "symbol": "GRB",
+      "name": "GoldenRabbit",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22571,
-    "minor": 22571,
+    "major": 22572,
+    "minor": 22572,
     "patch": 86
   }
 }
