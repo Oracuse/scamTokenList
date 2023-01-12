@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xb48a26AfAA1ecB752BdA41a09d9E5DA43BFAaCCE",
-      "symbol": "YOLO",
-      "name": "YouOnlyLiveOnce",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x83ac98B5E51c69795c7BB3D4D8E542da8d02a1DB",
       "symbol": "DIMABUTERIN",
       "name": "DimaButerin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x70d1c8B4c8Fb97e9d774915154af8A63AD26Cba0",
+      "symbol": "NETH",
+      "name": "NyanEth",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22534,
-    "minor": 22534,
+    "major": 22535,
+    "minor": 22535,
     "patch": 86
   }
 }
