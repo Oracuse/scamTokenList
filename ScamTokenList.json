@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xfEA600Ca61783b6541b883c4b1FCB8762a6db923",
-      "symbol": "TALKY",
-      "name": "TalkyProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa9fDf65d4caBa4d469E9D696A11C069f12C332D0",
       "symbol": "QV",
       "name": "QuadraticVoting",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb4aF26950DdF00aae29D56CF71d626f897ADB3c8",
+      "symbol": "1337",
+      "name": "1337H4X0R",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22586,
-    "minor": 22586,
+    "major": 22587,
+    "minor": 22587,
     "patch": 86
   }
 }
