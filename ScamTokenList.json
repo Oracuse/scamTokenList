@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8F62f7055e6662012B4236DE982DE144426272f4",
-      "symbol": "BLOB",
-      "name": "BLOCK",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x25a5DF9DEF063223aa973aA8e45C2583Efea7006",
       "symbol": "BLOB",
       "name": "Blob",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFB9bAC6e5BC36c7C2Ac6513Dd788117E222D3321",
+      "symbol": "AURORA",
+      "name": "Aurora",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22607,
-    "minor": 22607,
+    "major": 22608,
+    "minor": 22608,
     "patch": 86
   }
 }
