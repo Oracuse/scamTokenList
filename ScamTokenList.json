@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6d6490264F1ceCB82Fc42f286994B1Ffb1FbfE9f",
-      "symbol": "TST",
-      "name": "TestToken",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xddf6f038F9A61563992842451f1c25275bbDf106",
       "symbol": "THEDIALECTIC",
       "name": "Thedialectic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x883eaEDcf684391439376B6f9244fbB864E4746e",
+      "symbol": "JINDO",
+      "name": "JindoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22676,
-    "minor": 22676,
+    "major": 22677,
+    "minor": 22677,
     "patch": 86
   }
 }
