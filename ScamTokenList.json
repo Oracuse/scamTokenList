@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x847cb7c07DfDFBde4F54cF5b2d8A43D499FAD30D",
-      "symbol": "KORAON",
-      "name": "KoraonToken",
-      "decimals": 11,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x672110D8d45206eCa1AEbB464ab1b7B46B7dF441",
       "symbol": "CHOICE",
       "name": "Choice",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C644C17627A79Dc0b5b1bc054f29071727B3119",
+      "symbol": "UNIETH",
+      "name": "UniThereum",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22747,
-    "minor": 22747,
+    "major": 22748,
+    "minor": 22748,
     "patch": 86
   }
 }
