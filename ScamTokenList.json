@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x68982fB7933b32329A65aB7B2D288532C4823Cea",
-      "symbol": "TST",
-      "name": "TestToken",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x300d342fa0DcD56E89eF732aF04414fb9443AeDC",
       "symbol": "DEMOCRATICPLURALITY",
       "name": "DemocraticPlurality",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x168758E15fae74a8f4F2d88E7555FC74170779B5",
+      "symbol": "FED",
+      "name": "TheFed",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22732,
-    "minor": 22732,
+    "major": 22733,
+    "minor": 22733,
     "patch": 86
   }
 }
