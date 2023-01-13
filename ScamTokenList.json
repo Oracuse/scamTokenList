@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF045Df1f076bbff6120E7562517179bC0D818c5d",
-      "symbol": "ABSOLUTELY",
-      "name": "AbsolutelyProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7C3fA27cfaAcbE22ed90A3331eD5ccd46f8Bb696",
       "symbol": "THETOWN",
       "name": "towns",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1692442B18e219783c6305a00c6E3e263C22Fe19",
+      "symbol": "JINDO",
+      "name": "JindoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22672,
-    "minor": 22672,
+    "major": 22673,
+    "minor": 22673,
     "patch": 86
   }
 }
