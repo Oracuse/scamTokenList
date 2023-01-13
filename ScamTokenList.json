@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x08cdDFd6f0ebda98b6aD5043079170b5B1f45d19",
-      "symbol": "TST",
-      "name": "TestToken",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD153DE314C335b11A3F7DEC5AA7C74dD5B1dD7F6",
       "symbol": "DIALECTIC",
       "name": "Dialectic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0fA9E7726F0E6458D761ca8b970782efC9226ae",
+      "symbol": "EGGTH",
+      "name": "Eggereum",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22688,
-    "minor": 22688,
+    "major": 22689,
+    "minor": 22689,
     "patch": 86
   }
 }
