@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaa2EE2179715129B00c53625E2dA8ca5BA0d9c98",
-      "symbol": "CHOICE",
-      "name": "Choice",
-      "decimals": 6,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeE2c64092BE37BD9CB756FCB051175aFfE2B8513",
       "symbol": "SINGULARITY",
       "name": "Singularity",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x73AC0B29D3e93af6373a35bbc93DE8E4F46816A4",
+      "symbol": "PITCH",
+      "name": "PitchBlack",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22749,
-    "minor": 22749,
+    "major": 22750,
+    "minor": 22750,
     "patch": 86
   }
 }
