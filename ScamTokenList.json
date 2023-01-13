@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xd1E3372eC9834ebAC58caFf5dCb667e420D602B7",
-      "symbol": "KOL",
-      "name": "Kolomna",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xcCE6977a4762522f6C3a58846Ff346eB056F5407",
       "symbol": "VLP",
       "name": "ValueLiquidityProvi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2dfC67F2F7C00dd0aeC9a881fF0b2EFc2606a811",
+      "symbol": "OHMD",
+      "name": "OneHundredMillionDe",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22709,
-    "minor": 22709,
+    "major": 22710,
+    "minor": 22710,
     "patch": 86
   }
 }
