@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF655484F804F5494366ed90F23B43a14c28136F6",
-      "symbol": "LESSON",
-      "name": "LessonProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4fd7c6dAF10ED88db49401283b1DEeEB21BEE8c5",
       "symbol": "PINNACLE",
       "name": "Pinnacle",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6C87fba663f48fb359Ef4e8A3604aF07f54fA27f",
+      "symbol": "SQUIETH",
+      "name": "SquiETH",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22729,
-    "minor": 22729,
+    "major": 22730,
+    "minor": 22730,
     "patch": 86
   }
 }
