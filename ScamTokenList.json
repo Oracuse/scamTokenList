@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeF8a55bc95a9a5CEE6b0A6c695Ce2627B8f496a1",
-      "symbol": "DRAGONCOIN",
-      "name": "DRAGON",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6C7222c6833c57003da66Ac1890E7433Cc68Dd22",
       "symbol": "CAT",
       "name": "CATCOIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9db53a775F89CCc5175e9550B5B09F1322715f03",
+      "symbol": "FLOKIMOUS",
+      "name": "Flokimous",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22700,
-    "minor": 22700,
+    "major": 22701,
+    "minor": 22701,
     "patch": 86
   }
 }
