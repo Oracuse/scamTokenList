@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5775F26766eD0690dDea3d366e63658C8f14a4b6",
-      "symbol": "BULLS",
-      "name": "PulseBulls",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB544F5ed3514dBcdFF2e887849D1d7906F9382Bd",
       "symbol": "PLURALITY",
       "name": "Plurality",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5A2BA091B01c500a7Dc8A304da62A9d623A3906E",
+      "symbol": "CANNA",
+      "name": "CANNANETWORK",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22692,
-    "minor": 22692,
+    "major": 22693,
+    "minor": 22693,
     "patch": 86
   }
 }
