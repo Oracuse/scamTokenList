@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xeE2c64092BE37BD9CB756FCB051175aFfE2B8513",
-      "symbol": "SINGULARITY",
-      "name": "Singularity",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x4B40aF3a92a93A3071796B0380D3Dd2F1664D644",
       "symbol": "CHOICE",
       "name": "Choice",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E5A02623eBb3f3F38e58E5d57c9D5940a3847E6",
+      "symbol": "BURNS",
+      "name": "BurnsCoin",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22750,
-    "minor": 22750,
+    "major": 22751,
+    "minor": 22751,
     "patch": 86
   }
 }
