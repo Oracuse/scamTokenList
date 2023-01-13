@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x935d002CFC739e852422aacAEBF57cD07290B311",
-      "symbol": "CN",
-      "name": "ForgottenNumberSyst",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x410a998376004F62F08f53eF0894C32Cdab32324",
       "symbol": "WTHE",
       "name": "WethToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb366EAc8896485F30Dd69ab8C6D33141fC203394",
+      "symbol": "MATA",
+      "name": "Nekomata",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22669,
-    "minor": 22669,
+    "major": 22670,
+    "minor": 22670,
     "patch": 86
   }
 }
