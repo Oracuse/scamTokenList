@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2bE8C64cb2196462Aa2f4Bd7638886E29740AeB6",
-      "symbol": "ELON",
-      "name": "Elon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x6f976068402f653Bd535481F99BAF193FF7A3571",
       "symbol": "THEDIALECTIC",
       "name": "Thedialectic",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e53B11a2CCC846dB1564f1AA9Baa7e85400A760",
+      "symbol": "CHIB",
+      "name": "ChibbyInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22721,
-    "minor": 22721,
+    "major": 22722,
+    "minor": 22722,
     "patch": 86
   }
 }
