@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3af6abE7E972388F70478BD2BA7F58542d211D9F",
-      "symbol": "UL",
-      "name": "UnlearnedLesson",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2F310661C3a76cF0568268E704bB010EBd8E0A76",
       "symbol": "JORDEN",
       "name": "JordenToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9C74bF3565A65F7fa2a1d43BAC9367cD0e2a3483",
+      "symbol": "WHA",
+      "name": "WhaleTools",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22741,
-    "minor": 22741,
+    "major": 22742,
+    "minor": 22742,
     "patch": 86
   }
 }
