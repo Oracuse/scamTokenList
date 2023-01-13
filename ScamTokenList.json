@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC1DF2e97D63cB7b177582b3935a30106120fA6fc",
-      "symbol": "NAME",
-      "name": "NAME",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x635e4A8d23d9adD975E931113Ddd2ac3663A7325",
       "symbol": "VLP",
       "name": "ValueLiquidityProvi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29791c4c8206A63da37C187882a4764E8FF5bA27",
+      "symbol": "CD",
+      "name": "CateatDoge",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22715,
-    "minor": 22715,
+    "major": 22716,
+    "minor": 22716,
     "patch": 86
   }
 }
