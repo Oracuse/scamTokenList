@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xC44d20552abeCaDD534aBbeE18f88A958bB8f73f",
-      "symbol": "DIALECTICINU",
-      "name": "DIALECTICINU",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x68982fB7933b32329A65aB7B2D288532C4823Cea",
       "symbol": "TST",
       "name": "TestToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xb17379627c009A243C74C910429E5B91f00D5fb8",
+      "symbol": "SHIBRO",
+      "name": "ShibaInuBro",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22731,
-    "minor": 22731,
+    "major": 22732,
+    "minor": 22732,
     "patch": 86
   }
 }
