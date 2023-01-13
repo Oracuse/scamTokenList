@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x410a998376004F62F08f53eF0894C32Cdab32324",
-      "symbol": "WTHE",
-      "name": "WethToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x000C685CE8A1E2c6119b587CFf10f345f27Eb0a5",
       "symbol": "GODOT",
       "name": "Godot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB1EE5Fa063b590F7E2bAD4F1124B21eca89833B3",
+      "symbol": "POR",
+      "name": "ParagonsofReapers",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22670,
-    "minor": 22670,
+    "major": 22671,
+    "minor": 22671,
     "patch": 86
   }
 }
