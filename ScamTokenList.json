@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x762cf5F7D6320D3C59b6B885FcD75a4E126CFF33",
-      "symbol": "PLURALITY",
-      "name": "Plurality",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x44452B40148dCE618C93d7349031d92E1F63c6b0",
       "symbol": "PLURALITY",
       "name": "Plurality",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xed789BD631B2a838E89a12F6f24Eb38b33938a11",
+      "symbol": "MANIPULATE",
+      "name": "BuyLowSellHigh",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22738,
-    "minor": 22738,
+    "major": 22739,
+    "minor": 22739,
     "patch": 86
   }
 }
