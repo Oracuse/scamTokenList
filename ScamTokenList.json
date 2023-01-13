@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa5376d2ee24F6B50970e87Dc2E69FeB5cD1fCF46",
-      "symbol": "VLP",
-      "name": "ValueLiquidityProvi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x46ECD15C3bb7D78CCF8696eC993584531694dDa7",
       "symbol": "DEGENCOIN",
       "name": "DEGEN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x79C1aD206490809481058CF6C0A31c6059bcC4e4",
+      "symbol": "CHICKEN",
+      "name": "Chicken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22707,
-    "minor": 22707,
+    "major": 22708,
+    "minor": 22708,
     "patch": 86
   }
 }
