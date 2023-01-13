@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7bda1E8C3290A11c7632Eb2919533d6BD775A3D5",
-      "symbol": "ALPHA",
-      "name": "Alpha",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xbE16F74eB56b78fB7952B00Db03A4Acf16324B67",
       "symbol": "GODZILLA",
       "name": "GodZilla",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x985333Eb400e8c927c9Ed3efE2c85b4bba6c8f3c",
+      "symbol": "EGGED",
+      "name": "Egged",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22682,
-    "minor": 22682,
+    "major": 22683,
+    "minor": 22683,
     "patch": 86
   }
 }
