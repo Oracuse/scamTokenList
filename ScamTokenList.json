@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xbb5a348b8Ea05187A0962c6505Cb0df7210e33C3",
-      "symbol": "DIALECTIC",
-      "name": "DIALECTIC",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x81C5B99BeC13EE854403E7cA5D07A8dbe05C27dD",
       "symbol": "KOL",
       "name": "Kolomna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4B1bD457faB271290e37221E713ABA91a2F62B91",
+      "symbol": "GUDY",
+      "name": "GUDY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22718,
-    "minor": 22718,
+    "major": 22719,
+    "minor": 22719,
     "patch": 86
   }
 }
