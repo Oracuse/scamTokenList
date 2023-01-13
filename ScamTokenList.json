@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB78029B364039DaBce2254f8396BB727F7A1fC76",
-      "symbol": "SLUT",
-      "name": "Slut",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x549675342824Be624C13cd209F80B6efdCFB5255",
       "symbol": "SLUT",
       "name": "SlutToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x238dE0A3b663003B3fE198a85080b5788d9E948c",
+      "symbol": "AVIAN",
+      "name": "BirdFlu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22667,
-    "minor": 22667,
+    "major": 22668,
+    "minor": 22668,
     "patch": 86
   }
 }
