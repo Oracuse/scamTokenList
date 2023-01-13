@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD8094C384C41E40f0E62Ed7F2c3872BE42019B93",
-      "symbol": "IDEAL",
-      "name": "ideally",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x99D480f565A86Ec8d3094cf06Ef62776d7Fb9a6d",
       "symbol": "JDB",
       "name": "JeetDetectorBot",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A461748f03bB16EDaDB09937BbA905192ccf476",
+      "symbol": "TOSHU",
+      "name": "Toshu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22705,
-    "minor": 22705,
+    "major": 22706,
+    "minor": 22706,
     "patch": 86
   }
 }
