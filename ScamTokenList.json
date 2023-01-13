@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEF75a3498716AB4265947765020c6d2330C3700e",
-      "symbol": "CC",
-      "name": "ColdCirclet",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDF092189c034E8D9A5eC64A5F1B68a01b08AEa9d",
       "symbol": "TEST",
       "name": "test",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x517d9EB41402cE3c5C4f1580179FE1EE2CeE02fD",
+      "symbol": "CHICK",
+      "name": "CHICKEN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22684,
-    "minor": 22684,
+    "major": 22685,
+    "minor": 22685,
     "patch": 86
   }
 }
