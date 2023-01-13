@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xabe1492b9dE8E41fe7DC82090B681383405080c3",
-      "symbol": "PIG",
-      "name": "PIGCOIN",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x17b1fC5e23Faf1518439179A4310CD9Cf785bFF6",
       "symbol": "CAT",
       "name": "CatCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x94a9052bB9F77604C585Bb2EA973e267905EEE2f",
+      "symbol": "TAMAGO",
+      "name": "Tamago",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22695,
-    "minor": 22695,
+    "major": 22696,
+    "minor": 22696,
     "patch": 86
   }
 }
