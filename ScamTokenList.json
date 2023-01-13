@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7B901F6068f3F69621061e97BFA9BED0Cb18517d",
-      "symbol": "DECENT",
-      "name": "DecentCoin",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xEC0A298b7398E0f552196eE5d22d98286d045658",
       "symbol": "TA",
       "name": "Tweetdegens",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6FC514e76881Da4c01bF96fF997f75657D7c047e",
+      "symbol": "YING",
+      "name": "YingYang",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22745,
-    "minor": 22745,
+    "major": 22746,
+    "minor": 22746,
     "patch": 86
   }
 }
