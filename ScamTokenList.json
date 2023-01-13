@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x659B968c2c30eFDCd43d22D65Dbd0F03a6D1B1CD",
-      "symbol": "PLURALITY",
-      "name": "PluralityProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD78f973e65511571C36877886EaC156a0470ad88",
       "symbol": "TDP",
       "name": "TheDemocraticProtoc",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b950bCC310C1983417b84d4467Dd378771EF156",
+      "symbol": "BOOKMARK",
+      "name": "Bookmark",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22723,
-    "minor": 22723,
+    "major": 22724,
+    "minor": 22724,
     "patch": 86
   }
 }
