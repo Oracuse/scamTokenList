@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5877636734719c297E56708cE4d229cb765775Fe",
-      "symbol": "CHIRP",
-      "name": "BIRDCOIN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8f3f62A8337984CCB8a512C8A6408DF71c23fFD3",
       "symbol": "VLP",
       "name": "ValueLiquidityProvi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22112e02b6CEa135C3Df96Cb357A45FdFB6Dc814",
+      "symbol": "TAKAHIROINU",
+      "name": "TakahiroInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22711,
-    "minor": 22711,
+    "major": 22712,
+    "minor": 22712,
     "patch": 86
   }
 }
