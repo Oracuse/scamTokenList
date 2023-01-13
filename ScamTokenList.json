@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc9608B8dcEE2006a5aB57b1CDe0b1aA2e40391B0",
-      "symbol": "VLP",
-      "name": "ValueLiquidityProvi",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x792aF4DE83Ae462386Bd6191e97220433Af18370",
       "symbol": "GOOD",
       "name": "GoodCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0D37292398315bDDe8e8480e31d6249f37Dd0Ade",
+      "symbol": "MEDITATE",
+      "name": "Meditate",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22702,
-    "minor": 22702,
+    "major": 22703,
+    "minor": 22703,
     "patch": 86
   }
 }
