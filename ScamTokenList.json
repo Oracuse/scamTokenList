@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x657CAF2ff9B6E670AC794C4a817F95f2A8db9a07",
-      "symbol": "THEM",
-      "name": "Them",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08cdDFd6f0ebda98b6aD5043079170b5B1f45d19",
       "symbol": "TST",
       "name": "TestToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc43A3FC72bFAD07B6215E55667d470cA9C828196",
+      "symbol": "RINJA",
+      "name": "Rabbinja",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22687,
-    "minor": 22687,
+    "major": 22688,
+    "minor": 22688,
     "patch": 86
   }
 }
