@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x46ECD15C3bb7D78CCF8696eC993584531694dDa7",
-      "symbol": "DEGENCOIN",
-      "name": "DEGEN",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd1E3372eC9834ebAC58caFf5dCb667e420D602B7",
       "symbol": "KOL",
       "name": "Kolomna",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9bDa343F81Ef34AD96afE3844922Dc6502eC197a",
+      "symbol": "BULLISH",
+      "name": "AreyouBullish",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22708,
-    "minor": 22708,
+    "major": 22709,
+    "minor": 22709,
     "patch": 86
   }
 }
