@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4fd7c6dAF10ED88db49401283b1DEeEB21BEE8c5",
-      "symbol": "PINNACLE",
-      "name": "Pinnacle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC44d20552abeCaDD534aBbeE18f88A958bB8f73f",
       "symbol": "DIALECTICINU",
       "name": "DIALECTICINU",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x443315E02F7Db6d9EBEAfFD06E4d1224BdF07f18",
+      "symbol": "BACON",
+      "name": "Bacon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22730,
-    "minor": 22730,
+    "major": 22731,
+    "minor": 22731,
     "patch": 86
   }
 }
