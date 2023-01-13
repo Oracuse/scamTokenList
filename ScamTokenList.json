@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x62D7930D17E59c56041FE251bAbA3FD53365E7f7",
-      "symbol": "CAT",
-      "name": "CAT",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb6A6423cFC9621c20940c11c87Cc23F92F5e0D6E",
       "symbol": "EPRINT",
       "name": "etherprinter",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x82825a7D4Ea883D2dCb530B12BF5f78B299c8013",
+      "symbol": "OMA",
+      "name": "Omakase",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22697,
-    "minor": 22697,
+    "major": 22698,
+    "minor": 22698,
     "patch": 86
   }
 }
