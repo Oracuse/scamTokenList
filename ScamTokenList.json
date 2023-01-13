@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xF854cfcAA213113fc505E9b95a3A37d399620608",
-      "symbol": "TROOPS",
-      "name": "Troops",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xB29b073e211E335097afda824E42620e73F1B3ce",
       "symbol": "TATO",
       "name": "Tamatoshi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCDA71E03A3A88C2cd956f2887dA04CdACBF6163d",
+      "symbol": "EKNDM",
+      "name": "EggsKingdom",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22678,
-    "minor": 22678,
+    "major": 22679,
+    "minor": 22679,
     "patch": 86
   }
 }
