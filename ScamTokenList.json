@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0993E73A11888ce7838f70f70130b4F2b15744A7",
-      "symbol": "DP",
-      "name": "DemocraticPlurality",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x762cf5F7D6320D3C59b6B885FcD75a4E126CFF33",
       "symbol": "PLURALITY",
       "name": "Plurality",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaC35a5749145636CA1C3DE7520DA0e4cE231D046",
+      "symbol": "TSUKINODE",
+      "name": "Tsukinode",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22737,
-    "minor": 22737,
+    "major": 22738,
+    "minor": 22738,
     "patch": 86
   }
 }
