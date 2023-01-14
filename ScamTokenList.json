@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9CD786686F1802cbf4FcAb15CD26756F8D83BE0B",
-      "symbol": "INUINU",
-      "name": "InuInu",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x543Fb5ef4997bc365aE97b11a5CFc3bD63c3f501",
       "symbol": "VP",
       "name": "VitalikProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6a9857CD9E72C453f2906fe4f40c07c1d84A354b",
+      "symbol": "PSEUDO",
+      "name": "Pseudonym",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22813,
-    "minor": 22813,
+    "major": 22814,
+    "minor": 22814,
     "patch": 86
   }
 }
