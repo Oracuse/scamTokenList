@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8570437c704a111746a00b0a0Ea50c90C00E6A7F",
-      "symbol": "DEATH",
-      "name": "Shinigami",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa771FD774Efb5e7a1F5aF52e7c316Be256572a85",
       "symbol": "BANANA",
       "name": "BananaInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8208ef36FbD00cF8A81929e90a25c6360Ec7712E",
+      "symbol": "MOON",
+      "name": "moon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22767,
-    "minor": 22767,
+    "major": 22768,
+    "minor": 22768,
     "patch": 86
   }
 }
