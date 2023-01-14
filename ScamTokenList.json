@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x26219B16F625e31bA7f25BDe6a4EA8F56eCD9675",
-      "symbol": "FIRE",
-      "name": "Fire",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3BCa3Bf7E1B85b79C8Bc1A4b44587eC5b0b4ac04",
       "symbol": "WCM",
       "name": "WorldCupMascots",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd8cDf8026E026Ae93d7461738366299c82f854D8",
+      "symbol": "ROBOTAI",
+      "name": "RobotAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22763,
-    "minor": 22763,
+    "major": 22764,
+    "minor": 22764,
     "patch": 86
   }
 }
