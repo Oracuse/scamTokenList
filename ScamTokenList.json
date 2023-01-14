@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1b4c80f08773c5DfF520A08dAA6d5BC897825da9",
-      "symbol": "SA",
-      "name": "SulfurasA",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCa90B5FB7ce0b5a7a994d555378e2E48DAfb471b",
       "symbol": "JEATS",
       "name": "JoeEats",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8133481d1214cd7f83457718f27e8B46a6752bc5",
+      "symbol": "TRG",
+      "name": "TheRugGame",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22788,
-    "minor": 22788,
+    "major": 22789,
+    "minor": 22789,
     "patch": 86
   }
 }
