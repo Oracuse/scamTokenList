@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc09992583f7E885892b9E248D5C6C357129fc1E4",
-      "symbol": "SEGWIT",
-      "name": "BitcoinProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9CD786686F1802cbf4FcAb15CD26756F8D83BE0B",
       "symbol": "INUINU",
       "name": "InuInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCBaf7157f1A32B60c874817b216FAe4b1e921a94",
+      "symbol": "ONH",
+      "name": "OniNoHanzo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22812,
-    "minor": 22812,
+    "major": 22813,
+    "minor": 22813,
     "patch": 86
   }
 }
