@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7995611C3409c87BA2450ECf004C616236711244",
-      "symbol": "PDP",
-      "name": "ParadigmProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE4e459A4B839Dc362160A36fC3cE5703f5F46349",
       "symbol": "NAME",
       "name": "NAME",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC2b621BC49E6Dbbf3Fc98b5A9BcCA0bEA0D8c5F0",
+      "symbol": "BULL",
+      "name": "BULLRUN",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22760,
-    "minor": 22760,
+    "major": 22761,
+    "minor": 22761,
     "patch": 86
   }
 }
