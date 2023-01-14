@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe0D59c9d3166ab99F3631941Cc561C9870742609",
-      "symbol": "X",
-      "name": "CHEMICALX",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc09992583f7E885892b9E248D5C6C357129fc1E4",
       "symbol": "SEGWIT",
       "name": "BitcoinProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD87729E1C832072962D3FAe24c92d74d2dd46f9a",
+      "symbol": "PAPER",
+      "name": "Paper",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22811,
-    "minor": 22811,
+    "major": 22812,
+    "minor": 22812,
     "patch": 86
   }
 }
