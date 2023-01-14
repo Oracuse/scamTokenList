@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x378738Dee5E326fe8d1A5e3a0d2a3b1CfB02187d",
-      "symbol": "WHATSAPP",
-      "name": "WhatsappInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x304A3F0922B1B5D62F3fE70b4234468e78A6450a",
       "symbol": "WDI",
       "name": "WhatsappDownInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x56472713D659B9D9db9a1AFDa7bFae6EAcA2C3B3",
+      "symbol": "ETHUP",
+      "name": "EthereumUp",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22782,
-    "minor": 22782,
+    "major": 22783,
+    "minor": 22783,
     "patch": 86
   }
 }
