@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x5F6415E9C3eBFf48AC21115829971E656817D44C",
-      "symbol": "MIOTAM",
-      "name": "MIOTA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x568A496b2222000E8c8030932bC93f7F11d08262",
       "symbol": "ASHES",
       "name": "ASHES",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c91eb2EDCe94F3DfB8ADa28CE6C07f6e65CF8d4",
+      "symbol": "CAPO",
+      "name": "CapoDonations",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22755,
-    "minor": 22755,
+    "major": 22756,
+    "minor": 22756,
     "patch": 86
   }
 }
