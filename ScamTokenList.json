@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xEcB75B23d4cD9d21dEedbd8049D9EDE1ECCC0275",
-      "symbol": "DPP",
-      "name": "DemocraticPluralism",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x12445018610550B71503155429D58FcE2abc83d0",
       "symbol": "KUZU",
       "name": "TheExorcisedDragon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDA932D74b6F54e7018119dFe475344661F01840f",
+      "symbol": "FOMO",
+      "name": "FOMO",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22784,
-    "minor": 22784,
+    "major": 22785,
+    "minor": 22785,
     "patch": 86
   }
 }
