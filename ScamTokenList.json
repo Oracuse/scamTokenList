@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xE54BbEc20470bA4679fCbA2cA7CD95BcC254bFDE",
-      "symbol": "IO",
-      "name": "ImageOrganization",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xc5A018058eAD174409Ea88c601F73dE46a0Ae836",
       "symbol": "KINTARO",
       "name": "Kintaro",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d0946E2be72774B9432aD6eD8CFf20F30b5A289",
+      "symbol": "VRE",
+      "name": "VirtueRiseErc",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22824,
-    "minor": 22824,
+    "major": 22825,
+    "minor": 22825,
     "patch": 86
   }
 }
