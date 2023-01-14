@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8d4A0b4ab28464CBFfa2F9Bd27d00ccF800D1757",
-      "symbol": "BC",
-      "name": "BinanceCalgary",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x097f734fbC5b3D1238190945277581805fc8fee2",
       "symbol": "KAERU",
       "name": "Kaeru",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62F6018fcc93a5eB64E5d4F526fBA8C8EC409aB7",
+      "symbol": "KISAME",
+      "name": "AkatsukiKisame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22806,
-    "minor": 22806,
+    "major": 22807,
+    "minor": 22807,
     "patch": 86
   }
 }
