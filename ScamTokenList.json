@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x6427895F37971FA9b5857cDE8e7e2E5f9aA72f59",
-      "symbol": "IAD",
-      "name": "InternationalArtist",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xd92508d4fA56e5B7Ba383812cf9Edf2202586cb4",
       "symbol": "TOPAZ",
       "name": "TopazProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4C1900EBF2a2179a7133461Fc7a4c1DFa6B97D8",
+      "symbol": "BONK",
+      "name": "BonkDao",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22790,
-    "minor": 22790,
+    "major": 22791,
+    "minor": 22791,
     "patch": 86
   }
 }
