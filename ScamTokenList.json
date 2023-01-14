@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36f05fd250bEa8fde73FBAb884864e75F73BB6a1",
-      "symbol": "LUL",
-      "name": "LongestUnlearnedLes",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xE1a8AD69734f6678D6ca6801827472D97CEB61e2",
       "symbol": "KEPLER",
       "name": "Kepler",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf64Ee367CE9284617448adF7BB2D85ad0a7fBEa9",
+      "symbol": "FLOKU",
+      "name": "Flokoku",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22752,
-    "minor": 22752,
+    "major": 22753,
+    "minor": 22753,
     "patch": 86
   }
 }
