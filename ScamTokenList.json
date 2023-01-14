@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xabd4C002e4c7D06475E92A52Ef8AFa3dfa0169bC",
-      "symbol": "URGENT",
-      "name": "UrgentProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA5C0919d0b7554366170fa76EA07232C2C73C21a",
       "symbol": "URGENT",
       "name": "SuperSuperUrgent",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x31143f4cA9878430805DA2E6973Ad632f7d5ED40",
+      "symbol": "SHADOWBAN",
+      "name": "Deamplify",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22771,
-    "minor": 22771,
+    "major": 22772,
+    "minor": 22772,
     "patch": 86
   }
 }
