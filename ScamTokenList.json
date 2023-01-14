@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xCA9d29b87F70F3F9008FED1B172F41CD96B8C3ba",
-      "symbol": "SILENTWHALE",
-      "name": "SilentWhale",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9111dB296d0c41C90460CA3be882e87F51dEE5EA",
       "symbol": "BINANCE",
       "name": "CanadaTeam",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd24b49098B5e5f2d0f55FdF2e3BC87D2bb846E3C",
+      "symbol": "MEOWLLIONAIRE",
+      "name": "DevisMeow",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22808,
-    "minor": 22808,
+    "major": 22809,
+    "minor": 22809,
     "patch": 86
   }
 }
