@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xD9c8a15131D7e252F9D2EB7FB4E27b0A134fF4E8",
-      "symbol": "RSRS",
-      "name": "RSRS",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x26219B16F625e31bA7f25BDe6a4EA8F56eCD9675",
       "symbol": "FIRE",
       "name": "Fire",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8721ABD88D952Acc3A4C5B6e8Def83c453608fbe",
+      "symbol": "PRINT",
+      "name": "PrintingInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22762,
-    "minor": 22762,
+    "major": 22763,
+    "minor": 22763,
     "patch": 86
   }
 }
