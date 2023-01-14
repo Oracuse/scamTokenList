@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA5C0919d0b7554366170fa76EA07232C2C73C21a",
-      "symbol": "URGENT",
-      "name": "SuperSuperUrgent",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x348D7d3DAba9bE4E0bCb85e8c4055a4D098ED589",
       "symbol": "TSUMI",
       "name": "Watatsumi",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8C67c9557f84bC0fBdE2D3708EB70621706d08DB",
+      "symbol": "ZODIAC",
+      "name": "zodiacdev",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22772,
-    "minor": 22772,
+    "major": 22773,
+    "minor": 22773,
     "patch": 86
   }
 }
