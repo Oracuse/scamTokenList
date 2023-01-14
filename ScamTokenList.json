@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9111dB296d0c41C90460CA3be882e87F51dEE5EA",
-      "symbol": "BINANCE",
-      "name": "CanadaTeam",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xC78fDE63763b3e3B6d016D7c9eF6Dc175E89d740",
       "symbol": "BKAERI",
       "name": "BabyKAERI",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0540160091D32fbA44127812BBEEFa0eD8072391",
+      "symbol": "MOG",
+      "name": "Moglin",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22809,
-    "minor": 22809,
+    "major": 22810,
+    "minor": 22810,
     "patch": 86
   }
 }
