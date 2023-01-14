@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8e063C85472CA755847ae84817138E140EeAB7D8",
-      "symbol": "TMS",
-      "name": "TheMissingShiba",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x7995611C3409c87BA2450ECf004C616236711244",
       "symbol": "PDP",
       "name": "ParadigmProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfc3EB9b9afCC9D519BF00FEa69DCc1E393f0c5f2",
+      "symbol": "MISSOR",
+      "name": "MissedthePump",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22759,
-    "minor": 22759,
+    "major": 22760,
+    "minor": 22760,
     "patch": 86
   }
 }
