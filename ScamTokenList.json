@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc43321689b483953D668cb4861180165Ef3bD608",
-      "symbol": "SIDE",
-      "name": "OpsideNetwork",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x66fE06363e2c6d5AeB32dE433a28De43f1f04774",
       "symbol": "OBATORI",
       "name": "Oubaitori",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x69F46CE0BCdFe738aDA883A158c694EE677981ad",
+      "symbol": "NIHONGA",
+      "name": "Nihonga",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22776,
-    "minor": 22776,
+    "major": 22777,
+    "minor": 22777,
     "patch": 86
   }
 }
