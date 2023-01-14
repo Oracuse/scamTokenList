@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xa1b3248833152035131346a5ebec0A88B43B726c",
-      "symbol": "ODD",
-      "name": "STRANGE",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xff5bb1De3040Ccd52d339C1A00298438EAD51C1b",
       "symbol": "MOZAN",
       "name": "MozanToken",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x76cDDF8C2a011f6a0264363aC3F82F2993Fc1FAB",
+      "symbol": "POPULI",
+      "name": "WeThePeople",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22757,
-    "minor": 22757,
+    "major": 22758,
+    "minor": 22758,
     "patch": 86
   }
 }
