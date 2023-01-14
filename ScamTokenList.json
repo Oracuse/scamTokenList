@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x36b5EdCE2DA84bAf6bD322F5F34c4AdD1D6082Fc",
-      "symbol": "MICA",
-      "name": "MICA",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9b6501667090F6ed3fF8B16A52dD0aAD9428557c",
       "symbol": "RSP",
       "name": "RishiSunakProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc8637D0D5b94591E273e866d8c30A99443079322",
+      "symbol": "EGG",
+      "name": "WorldRecordEgg20",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22793,
-    "minor": 22793,
+    "major": 22794,
+    "minor": 22794,
     "patch": 86
   }
 }
