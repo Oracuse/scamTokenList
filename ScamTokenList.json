@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9b6501667090F6ed3fF8B16A52dD0aAD9428557c",
-      "symbol": "RSP",
-      "name": "RishiSunakProtocol",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xac865D3B438C47bA351E3FFa16625b7497F2d65f",
       "symbol": "DA",
       "name": "DemocraticAlliance",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00EA66AC1550D8Ae4FF06230bf1c0DCe4e694b83",
+      "symbol": "NIFTYVERSE",
+      "name": "NiftyMetaverse",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22794,
-    "minor": 22794,
+    "major": 22795,
+    "minor": 22795,
     "patch": 86
   }
 }
