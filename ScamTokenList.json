@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xff5bb1De3040Ccd52d339C1A00298438EAD51C1b",
-      "symbol": "MOZAN",
-      "name": "MozanToken",
-      "decimals": 12,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8e063C85472CA755847ae84817138E140EeAB7D8",
       "symbol": "TMS",
       "name": "TheMissingShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x363FdF965D70809Ae4e25CD3034d14D8d46811f8",
+      "symbol": "SQUID",
+      "name": "SquidKingdom",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22758,
-    "minor": 22758,
+    "major": 22759,
+    "minor": 22759,
     "patch": 86
   }
 }
