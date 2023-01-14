@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x551a0edc37d982C66Afef92d0A75eA4A89a4ee3C",
-      "symbol": "SUWC",
-      "name": "ShibaUnitedWorldCup",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x69Ed89ecd35082E031fE52b75123F801DB083306",
       "symbol": "KAERI",
       "name": "Kaeri",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24e2bB802a0ED435C9aD0d0c211FfED53DCFd3A3",
+      "symbol": "SIGNAL",
+      "name": "Signal",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22803,
-    "minor": 22803,
+    "major": 22804,
+    "minor": 22804,
     "patch": 86
   }
 }
