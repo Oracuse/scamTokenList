@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xac865D3B438C47bA351E3FFa16625b7497F2d65f",
-      "symbol": "DA",
-      "name": "DemocraticAlliance",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2231aEa2Bc606118bF5CC68C1bB77aDdA47098b2",
       "symbol": "CRYPTO",
       "name": "Cryptoisglobal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x22464e8566B20346ab2A7986c5642917Ae68c424",
+      "symbol": "DOGEPOWS",
+      "name": "Dogepows",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22795,
-    "minor": 22795,
+    "major": 22796,
+    "minor": 22796,
     "patch": 86
   }
 }
