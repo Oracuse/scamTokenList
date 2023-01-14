@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x097f734fbC5b3D1238190945277581805fc8fee2",
-      "symbol": "KAERU",
-      "name": "Kaeru",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCA9d29b87F70F3F9008FED1B172F41CD96B8C3ba",
       "symbol": "SILENTWHALE",
       "name": "SilentWhale",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD300952358D930A5BEA3045Fd9b092Def4e8C3AE",
+      "symbol": "WELOVERYOSHI",
+      "name": "WeLoveRyoshi",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22807,
-    "minor": 22807,
+    "major": 22808,
+    "minor": 22808,
     "patch": 86
   }
 }
