@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x60a0A8EaA15003C599a2879b8F2d9E72C8633788",
-      "symbol": "CHAOS",
-      "name": "ChaosDragon",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x44d225abE108235d0d4461C5c6eCE6448938A13a",
       "symbol": "METAINU",
       "name": "META",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9222B65206731dF987fD753E2e5F01e93692130a",
+      "symbol": "SPINU",
+      "name": "SpinInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22797,
-    "minor": 22797,
+    "major": 22798,
+    "minor": 22798,
     "patch": 86
   }
 }
