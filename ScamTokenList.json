@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x635179cC088947351E665b317D20d9Fc598fdc3D",
-      "symbol": "FLL",
-      "name": "SpeakingProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2D5a623600eB88C0e85827425AC905856b54a5B9",
       "symbol": "CAESAR",
       "name": "Caesar",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB37B6994B7690656E98b65DD8121e2180df7B755",
+      "symbol": "BUSHIDO",
+      "name": "Bushido",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22835,
-    "minor": 22835,
+    "major": 22836,
+    "minor": 22836,
     "patch": 86
   }
 }
