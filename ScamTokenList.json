@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x707EA1C7172CCa07cAC979F2Ae5dd24558eF2820",
-      "symbol": "MIDAS",
-      "name": "TheGoldenTouch",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x665E4675854Db7EBfE2f84F9F8A9558fB1651edE",
       "symbol": "CWCI",
       "name": "CricketWorldCupInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEb1d77cD6D9EF2F755Bb78e531bfB666E2C24B50",
+      "symbol": "ETH05",
+      "name": "HalfEther",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22881,
-    "minor": 22881,
+    "major": 22882,
+    "minor": 22882,
     "patch": 86
   }
 }
