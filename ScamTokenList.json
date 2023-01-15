@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x63D688F87f68d9b9c9094bCB46474D38974652dF",
-      "symbol": "HIGH",
-      "name": "BuyLowGetHigh",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xD06962e86FDb48abBCfD8fE93A39B30f38DA410F",
       "symbol": "PSYCHO",
       "name": "Psycho",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5920581Ebbd6df73a63bFDb7241f7832E0301ff3",
+      "symbol": "RYOSHI",
+      "name": "FableoftheHunter",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22874,
-    "minor": 22874,
+    "major": 22875,
+    "minor": 22875,
     "patch": 86
   }
 }
