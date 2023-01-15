@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB7Da18d1399c91dBa5E2d102649cf472BBbfA095",
-      "symbol": "MOVEMENT",
-      "name": "TheMovementProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xFEAE8871C46652584944E483987b76b962D319FB",
       "symbol": "TESTTEST",
       "name": "TestTestProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7e4BA325B38e3c2CEFBe874d6287725c35ABA5fE",
+      "symbol": "RTP",
+      "name": "RespectThePump",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22829,
-    "minor": 22829,
+    "major": 22830,
+    "minor": 22830,
     "patch": 86
   }
 }
