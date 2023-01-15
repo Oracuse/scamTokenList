@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9409818e6Bc1c910c31967A849760a606b78FE6A",
-      "symbol": "DUB",
-      "name": "W",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x707EA1C7172CCa07cAC979F2Ae5dd24558eF2820",
       "symbol": "MIDAS",
       "name": "TheGoldenTouch",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x00fe25b274535AF5e1ee0ffefA0AcEd966dfDefe",
+      "symbol": "NFA",
+      "name": "NFALabs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22880,
-    "minor": 22880,
+    "major": 22881,
+    "minor": 22881,
     "patch": 86
   }
 }
