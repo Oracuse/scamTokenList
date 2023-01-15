@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xaeaB9f0f8eCfdFEc4fBC6818869667549bCea541",
-      "symbol": "TWP",
-      "name": "TheWhiteProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x53386A952682f370c001e6Cff736D82F6f369063",
       "symbol": "XDIE",
       "name": "BurnXDieProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf274b043c257E16cf65FB80e8C712912F942aE43",
+      "symbol": "BODHI",
+      "name": "BodhiInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22891,
-    "minor": 22891,
+    "major": 22892,
+    "minor": 22892,
     "patch": 86
   }
 }
