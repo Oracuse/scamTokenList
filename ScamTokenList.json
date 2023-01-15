@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf02DE8CAe17D6F4De96c28E1b63A1399fbD2A97A",
-      "symbol": "HW",
-      "name": "HelloWorld",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x47eEFBCeacb416e9D15dFBa4bcC2156065bbc4d8",
       "symbol": "FII",
       "name": "FII",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x88E9E1aEB80a0a56de90149e5960753D11A8375b",
+      "symbol": "RFI",
+      "name": "RealFI",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22833,
-    "minor": 22833,
+    "major": 22834,
+    "minor": 22834,
     "patch": 86
   }
 }
