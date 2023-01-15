@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1f2399BAFDAEBE092dA3Cc86B4B41f6dD5E15187",
-      "symbol": "NOVA",
-      "name": "Nova",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3F7E1749a9FA99ade9CC93Bc8d017fD8Ff4Dc563",
       "symbol": "OG",
       "name": "OnlyGains",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x50a3917cDCFa9c2749133Be71070fA4F36Ad2180",
+      "symbol": "MIY",
+      "name": "Miyake",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22870,
-    "minor": 22870,
+    "major": 22871,
+    "minor": 22871,
     "patch": 86
   }
 }
