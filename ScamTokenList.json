@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8a2A5F89c6506B97c0134726C1cD57A19b22Ba8F",
-      "symbol": "FASTINGROCKS",
-      "name": "FastingRocks",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x63bbC4239CEa3643307fF019e52B2946Ec9ef3D0",
       "symbol": "TIME",
       "name": "Delayed",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf81e80714019d52379e49E4Be3078917965A2d33",
+      "symbol": "RITSUKI",
+      "name": "Ritsuki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22848,
-    "minor": 22848,
+    "major": 22849,
+    "minor": 22849,
     "patch": 86
   }
 }
