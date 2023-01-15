@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3F7E1749a9FA99ade9CC93Bc8d017fD8Ff4Dc563",
-      "symbol": "OG",
-      "name": "OnlyGains",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x52D353ad063Daec98724BAAB29917A17F93dB9a0",
       "symbol": "BPROTO",
       "name": "BurntProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCBeA8C4c105349022c6b9217dAC7BBAAdaAc472C",
+      "symbol": "RED",
+      "name": "Akatsuki",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22871,
-    "minor": 22871,
+    "major": 22872,
+    "minor": 22872,
     "patch": 86
   }
 }
