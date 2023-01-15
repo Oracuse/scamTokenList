@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3244f6D941f74F60e73c3520B76F8Be0254F6945",
-      "symbol": "FLAKE",
-      "name": "Snow",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x9409818e6Bc1c910c31967A849760a606b78FE6A",
       "symbol": "DUB",
       "name": "W",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE156430847Fd31F9749Ae0d32833D8831235DB37",
+      "symbol": "ETHBTC",
+      "name": "EthereumBitcoin",
+      "decimals": 8,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22879,
-    "minor": 22879,
+    "major": 22880,
+    "minor": 22880,
     "patch": 86
   }
 }
