@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x665E4675854Db7EBfE2f84F9F8A9558fB1651edE",
-      "symbol": "CWCI",
-      "name": "CricketWorldCupInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xA10405aBb4c63d4511f84f89FdE88Ca8cbE93579",
       "symbol": "COOKIE",
       "name": "CookieSale",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x930026539b3eA3D67d3636852b0C350c2A2341b0",
+      "symbol": "TWEETY",
+      "name": "TweetyToken",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22882,
-    "minor": 22882,
+    "major": 22883,
+    "minor": 22883,
     "patch": 86
   }
 }
