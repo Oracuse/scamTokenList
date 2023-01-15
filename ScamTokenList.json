@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x47eEFBCeacb416e9D15dFBa4bcC2156065bbc4d8",
-      "symbol": "FII",
-      "name": "FII",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x635179cC088947351E665b317D20d9Fc598fdc3D",
       "symbol": "FLL",
       "name": "SpeakingProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCDD9C7d1B60EB4be89235fb07c5544D533F33C60",
+      "symbol": "BITCOINOMICS",
+      "name": "BITCOINOMICS",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22834,
-    "minor": 22834,
+    "major": 22835,
+    "minor": 22835,
     "patch": 86
   }
 }
