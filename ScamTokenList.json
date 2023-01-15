@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3c48f48AfC2CFC06c295dd753D268b627b2Db7b9",
-      "symbol": "VKTWEET",
-      "name": "Vitaliktweet",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xb6fA9CA12f2544B4D704283aEE099e5b42Ce55a9",
       "symbol": "DOUBLETAKEVITALIK",
       "name": "doubletake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1eEebb97Dc0beA2B6cA0fE92F1bD485ADa98bc66",
+      "symbol": "TOKYO",
+      "name": "NeoTokyo",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22841,
-    "minor": 22841,
+    "major": 22842,
+    "minor": 22842,
     "patch": 86
   }
 }
