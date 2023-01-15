@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x744c7479A665c843a9278c4b2Fd3B73064206A15",
-      "symbol": "DELAYED",
-      "name": "TimeIsRelative",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2027aBcd568B52cF448eD9593C3b64E9a4dE90AD",
       "symbol": "DYP",
       "name": "DelayedProtocol",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x18d2F4b55edD0465f74C4F034c85bd230e775472",
+      "symbol": "BULLSEYE",
+      "name": "Bullseye",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22851,
-    "minor": 22851,
+    "major": 22852,
+    "minor": 22852,
     "patch": 86
   }
 }
