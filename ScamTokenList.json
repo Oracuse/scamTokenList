@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53D33EefF75823EEef01C6f77Acf63a3aC00ec16",
-      "symbol": "DELAYEDINU",
-      "name": "DelayedInu",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x67f6550f08A7bbaB9A3D18BFC7Bf014F537437b9",
       "symbol": "RACEETH",
       "name": "DeathRace",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39042b047D27eC35abfC312F5815d3E1aeBC9F1B",
+      "symbol": "KFU",
+      "name": "KuaFu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22854,
-    "minor": 22854,
+    "major": 22855,
+    "minor": 22855,
     "patch": 86
   }
 }
