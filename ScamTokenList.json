@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x7fC2E5d994711bD582cAF3Bb00b5A12a6d3480F0",
-      "symbol": "SHIBSEI",
-      "name": "ShibSei",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x26199F0Ec688a9422901B6e575e2D7343fe8fabb",
       "symbol": "NFV",
       "name": "NonFakeVitalik",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x58aB73426F3ccF4210CB3FfE42965791a74d3803",
+      "symbol": "MOON",
+      "name": "moon",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22837,
-    "minor": 22837,
+    "major": 22838,
+    "minor": 22838,
     "patch": 86
   }
 }
