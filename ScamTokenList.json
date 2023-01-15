@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc174aA0B706e5a976052e0EA23f9F7358556eC69",
-      "symbol": "HEGIC1",
-      "name": "Hegic",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xAe7707025E0b33fc1082a116707a7CEC197467Cf",
       "symbol": "LKAERI",
       "name": "LastKaeri",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8eEcaad83a1Ea77bD88A818d4628fAfc4CaD7969",
+      "symbol": "NFAI",
+      "name": "NotFinancialAdvice",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22876,
-    "minor": 22876,
+    "major": 22877,
+    "minor": 22877,
     "patch": 86
   }
 }
