@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf3759Dc372eAc96E84bD4a991a8056efebD54749",
-      "symbol": "FLAKE",
-      "name": "Snow",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xDa7a5fDf35696832ef736DC1AC7D97c567d14Fb1",
       "symbol": "BAB",
       "name": "BullsAreBack",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x06bdDFC345126936442710C801b607AB7Cbb43c7",
+      "symbol": "KYOTO",
+      "name": "KyotoInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22900,
-    "minor": 22900,
+    "major": 22901,
+    "minor": 22901,
     "patch": 86
   }
 }
