@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x78bfa355559e3d0eBDEC2d7e2482eFd5Fca84256",
-      "symbol": "BWCI",
-      "name": "BasketballWorldCupI",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x08eF1ac066a841e00d2cD8E6dF1d1c902AEeA3B2",
       "symbol": "CAESAR",
       "name": "CAESER",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA5cBade11F5CCcCeB21A5e110180ad221071f987",
+      "symbol": "KIBA",
+      "name": "Akamaru",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22886,
-    "minor": 22886,
+    "major": 22887,
+    "minor": 22887,
     "patch": 86
   }
 }
