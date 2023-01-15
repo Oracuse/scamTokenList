@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xFEAE8871C46652584944E483987b76b962D319FB",
-      "symbol": "TESTTEST",
-      "name": "TestTestProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xF092ecA020916346a55e181B3E697Cd05a51644c",
       "symbol": "DT",
       "name": "DoubleTake",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6BE65BbE52461156aC784fE259533DB29e6b164C",
+      "symbol": "GALAX",
+      "name": "GalaChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "ProxyScam"
+      ]
     }
   ],
   "version": {
-    "major": 22830,
-    "minor": 22830,
+    "major": 22831,
+    "minor": 22831,
     "patch": 86
   }
 }
