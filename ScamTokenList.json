@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2027aBcd568B52cF448eD9593C3b64E9a4dE90AD",
-      "symbol": "DYP",
-      "name": "DelayedProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xeA27fe61a5845527335BC153cbaCc5f0dF0AF361",
       "symbol": "YAMI",
       "name": "ZankokuYami",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1A9e886bb30aE1d2e3Fb06624D77Ffc8D4660981",
+      "symbol": "BUILDCHAIN",
+      "name": "BuildaChain",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22852,
-    "minor": 22852,
+    "major": 22853,
+    "minor": 22853,
     "patch": 86
   }
 }
