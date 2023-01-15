@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xcDeA10623Cad3Df710E7A25bd602165874C53233",
-      "symbol": "VOLCANO",
-      "name": "VolcanoProtocol",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5Cd24d1A5cD32851e75D36C099F3a3bE2143cDd3",
       "symbol": "STRIKER",
       "name": "StrikerInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa7DB9CAc6fea9ec6b060d3C34D25E3A8A42D708a",
+      "symbol": "DONTBUY",
+      "name": "DONTBUY",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22861,
-    "minor": 22861,
+    "major": 22862,
+    "minor": 22862,
     "patch": 86
   }
 }
