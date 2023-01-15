@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x40A62C3a5037d791c8d29487770EFCD7dAd65B5D",
-      "symbol": "PAMPIT",
-      "name": "PAMPIT",
-      "decimals": 8,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x1B93f4419bC43Efa7Ca89079E83935d8CcFe16b2",
       "symbol": "VITALIKTWEET",
       "name": "VitalikTweet",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDc733A3Df17FDB839ae0f2d4E8B8b3b4F00A254c",
+      "symbol": "FAME",
+      "name": "Fame",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22839,
-    "minor": 22839,
+    "major": 22840,
+    "minor": 22840,
     "patch": 86
   }
 }
