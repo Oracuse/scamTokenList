@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA10405aBb4c63d4511f84f89FdE88Ca8cbE93579",
-      "symbol": "COOKIE",
-      "name": "CookieSale",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x307fdE790bf65AAed5641a3eB331f5C10C809D9C",
       "symbol": "TERMINAL",
       "name": "TheTerminal",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8f97BD806756F782DF5A18729fB246e8fda06F76",
+      "symbol": "NFALABS",
+      "name": "NotFinancialAdvice",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22883,
-    "minor": 22883,
+    "major": 22884,
+    "minor": 22884,
     "patch": 86
   }
 }
