@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x53386A952682f370c001e6Cff736D82F6f369063",
-      "symbol": "XDIE",
-      "name": "BurnXDieProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x776B03cdF30A36E8E28B0d965Ea985578245fC77",
       "symbol": "13X",
       "name": "LexInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD53D1C9C583cc91a3c40D3f1e8854270f2fdF08F",
+      "symbol": "BODHI",
+      "name": "BodhiInu",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22892,
-    "minor": 22892,
+    "major": 22893,
+    "minor": 22893,
     "patch": 86
   }
 }
