@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x307fdE790bf65AAed5641a3eB331f5C10C809D9C",
-      "symbol": "TERMINAL",
-      "name": "TheTerminal",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xCC435014193e8775D8CA34cF64bc1c442F63f99f",
       "symbol": "MEACULPA",
       "name": "Meaculpa",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x62dB138FBF15e71b04a322041394990B900928b8",
+      "symbol": "NFA",
+      "name": "NFALabs",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22884,
-    "minor": 22884,
+    "major": 22885,
+    "minor": 22885,
     "patch": 86
   }
 }
