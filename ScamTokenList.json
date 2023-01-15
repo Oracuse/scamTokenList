@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xc1bf4BA3046a19d440d1547EE9FCc0DBf93DbCFB",
-      "symbol": "NA",
-      "name": "NuclearApes",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x10b7229115658C1eE484807096D0460D3D1263eC",
       "symbol": "MINU",
       "name": "MetaphorInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25387d04aed0aa71479946DA475733BFCCFaa876",
+      "symbol": "EPI",
+      "name": "Epiphany",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22907,
-    "minor": 22907,
+    "major": 22908,
+    "minor": 22908,
     "patch": 86
   }
 }
