@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x119fF6749d471f0E0cdf4Fc93eF02D2CFee53750",
-      "symbol": "PINNACLE",
-      "name": "Pinnacle",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xe12DEf41f4d7921B537F418E9C90e8a1640003fE",
       "symbol": "AOV",
       "name": "ApeOfVitalik",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x77B4CA6Fb75F3FD8bAd9d7aC74B4638C54A96e5e",
+      "symbol": "HARU",
+      "name": "HaruAI",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22863,
-    "minor": 22863,
+    "major": 22864,
+    "minor": 22864,
     "patch": 86
   }
 }
