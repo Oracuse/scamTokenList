@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x52D353ad063Daec98724BAAB29917A17F93dB9a0",
-      "symbol": "BPROTO",
-      "name": "BurntProtocol",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5e6f4A5d3E1633e81A9790c858b7DE61842E33D1",
       "symbol": "NNUM",
       "name": "NothingNewUnderTheM",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x89240D839F2cAE4E725931Fd17310941f3b4345e",
+      "symbol": "KITSUNE",
+      "name": "kitsune",
+      "decimals": 5,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22872,
-    "minor": 22872,
+    "major": 22873,
+    "minor": 22873,
     "patch": 86
   }
 }
