@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA45eBFBA4F7A38f8128E2B641428ae13F8F26D37",
-      "symbol": "OCU",
-      "name": "Oculus",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2Bb03376575f56711B2f1cA8d84B1681eAC93f79",
       "symbol": "E3V",
       "name": "ElonandVitalik",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x24688255211951B02a60C84E09B3c81A81a5fec1",
+      "symbol": "MHS",
+      "name": "Misphits",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22844,
-    "minor": 22844,
+    "major": 22845,
+    "minor": 22845,
     "patch": 86
   }
 }
