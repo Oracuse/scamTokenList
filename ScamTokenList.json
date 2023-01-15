@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xAe7707025E0b33fc1082a116707a7CEC197467Cf",
-      "symbol": "LKAERI",
-      "name": "LastKaeri",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x31649170937451C9C25749F14C482c02A80a46aA",
       "symbol": "ARGON",
       "name": "Argon",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfEA7b38CEc0EA60DF97660F25F28acd1040ea700",
+      "symbol": "ETH05",
+      "name": "HalfEther",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22877,
-    "minor": 22877,
+    "major": 22878,
+    "minor": 22878,
     "patch": 86
   }
 }
