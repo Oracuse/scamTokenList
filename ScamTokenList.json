@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x0a64114140482DC23924E6d60B6260CC1589E964",
-      "symbol": "KOKO",
-      "name": "KokoInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xf02DE8CAe17D6F4De96c28E1b63A1399fbD2A97A",
       "symbol": "HW",
       "name": "HelloWorld",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x137fe8d0D51d666578d5b4E2278D6111f2160Cc1",
+      "symbol": "SHINOBU",
+      "name": "SHINOBU",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22832,
-    "minor": 22832,
+    "major": 22833,
+    "minor": 22833,
     "patch": 86
   }
 }
