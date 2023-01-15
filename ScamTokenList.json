@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe12DEf41f4d7921B537F418E9C90e8a1640003fE",
-      "symbol": "AOV",
-      "name": "ApeOfVitalik",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5B9772874fc6A0F731002B38e5b294bB99f28b38",
       "symbol": "SALADIN",
       "name": "SALADIN",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc9da1f7e3fb6422028428cB2314Aaa7836AC8AFa",
+      "symbol": "BUMBLEBEE",
+      "name": "Bumblebee",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22864,
-    "minor": 22864,
+    "major": 22865,
+    "minor": 22865,
     "patch": 86
   }
 }
