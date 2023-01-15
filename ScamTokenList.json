@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x186785D4cba7263532F1da9bBeC3Da612dd6D085",
-      "symbol": "BACON",
-      "name": "BaconToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x42CDc83fb06E62Ae175706c665410627f12Dde8B",
       "symbol": "PUMPA",
       "name": "PUMPA",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x135b9DdE03D978D55D6e5F75f5FC200955c29353",
+      "symbol": "DYORI",
+      "name": "DoYourOwnResearch",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22904,
-    "minor": 22904,
+    "major": 22905,
+    "minor": 22905,
     "patch": 86
   }
 }
