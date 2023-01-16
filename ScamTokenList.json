@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xdbB537580d0aCF8aB34BC21ec75720b91409b624",
-      "symbol": "MONKEY",
-      "name": "PresentCondition",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x8F7AD7E20A8Cd0070E9B999c2f037067830a7658",
       "symbol": "METHAPHOR",
       "name": "Methaphor",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x21E03E2Fad6f5270e0D6173afa70d6cAbEd902c2",
+      "symbol": "SHIRINU",
+      "name": "ShirokuInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22909,
-    "minor": 22909,
+    "major": 22910,
+    "minor": 22910,
     "patch": 86
   }
 }
