@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xf185e479bbfb1c6AFfd0De2DAeF3233a155E67F0",
-      "symbol": "5",
-      "name": "The5",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x40d25F6Aa16c2bd14BA96Fa7B11d99202E1285E9",
       "symbol": "EINU",
       "name": "EarningsInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x03366b0Fb84ad3b485A13Ba5e5A6c3b608B97dDb",
+      "symbol": "REKT",
+      "name": "RektInu",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22917,
-    "minor": 22917,
+    "major": 22918,
+    "minor": 22918,
     "patch": 86
   }
 }
