@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB10D139cCF4778c9374108bB2E096340c6095B69",
-      "symbol": "WDI",
-      "name": "WorldDegenInu",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x106a16263De5EDa879c8787375075E7649057B59",
       "symbol": "SMUDGE",
       "name": "SmudgeCoin",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x761DbAfBA789a0d75485A1e660eae59C5f70A4FB",
+      "symbol": "DBONK",
+      "name": "DinoBonk",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22933,
-    "minor": 22933,
+    "major": 22934,
+    "minor": 22934,
     "patch": 86
   }
 }
