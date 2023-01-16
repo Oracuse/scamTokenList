@@ -6,3 +6,4 @@ This List contains tokens that are either unsellable or don't allow pulling of L
 
 Currently you can import via github direct link ->  https://raw.githubusercontent.com/Rachel-Eichenberger/scamTokenList/main/ScamTokenList.json
 
+Does a new list need to be established for LinkMint created official vs. scam tokens?
