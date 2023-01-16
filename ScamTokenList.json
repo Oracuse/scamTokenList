@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x8CCf26E0527389a69De8905e76FCca3DcB8b2CC5",
-      "symbol": "ROTB",
-      "name": "RiseoftheBull",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "HighTax"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x3EED8B2EcDc8d3F61EaA64e38Ad7F45B5771873a",
       "symbol": "NYF",
       "name": "NewYearsFlokiV2",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1F2c9C9f191E3ee175400a095585b5f491f0C1Ca",
+      "symbol": "CHICA",
+      "name": "ChicaLobo",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22923,
-    "minor": 22923,
+    "major": 22924,
+    "minor": 22924,
     "patch": 86
   }
 }
