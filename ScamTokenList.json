@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x9E7A46884D3fbf7e53Ad059900189e8618e30F4b",
-      "symbol": "ROKUJIKO",
-      "name": "SixEarMonkey",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xfC2149D2A34721692eD7672e92fB498aa71bEBF4",
       "symbol": "ORIGINALS",
       "name": "Originals",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9E2DAac6E23fC3b9517c3249Cc7F608625E409Ae",
+      "symbol": "FOGE",
+      "name": "FatDoge",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22928,
-    "minor": 22928,
+    "major": 22929,
+    "minor": 22929,
     "patch": 86
   }
 }
