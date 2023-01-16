@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x24F057CA862D632a3FC6984b65305e86f2829076",
-      "symbol": "TOT",
-      "name": "trickortreat",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x5CB72B9e491ac181604397f8FEeF85D23A892066",
       "symbol": "SOCCER",
       "name": "SoccerShiba",
@@ -110000,11 +109989,22 @@
       "tags": [
         "HighTax"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0818e0ED71BE2aE0e8FA79Da249Ce1C8F7A5B0d4",
+      "symbol": "BOOKS",
+      "name": "BOOKS",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22926,
-    "minor": 22926,
+    "major": 22927,
+    "minor": 22927,
     "patch": 86
   }
 }
