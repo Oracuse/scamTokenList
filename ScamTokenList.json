@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xebe1CF4f5BAF43f885CF3DB4d918ccd9661A9F61",
-      "symbol": "METAPHOR",
-      "name": "Metaphor",
-      "decimals": 9,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x052Dd60cbd5600C5A2369b4ae850F3Bc97af5C4B",
       "symbol": "MONKEY",
       "name": "Vitalikape",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFAF90F104AA4D1A17c4b0E086EBEEdf8f28CdFec",
+      "symbol": "DYOR",
+      "name": "DYOR",
+      "decimals": 18,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22913,
-    "minor": 22913,
+    "major": 22914,
+    "minor": 22914,
     "patch": 86
   }
 }
