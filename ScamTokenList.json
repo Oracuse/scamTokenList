@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x3EED8B2EcDc8d3F61EaA64e38Ad7F45B5771873a",
-      "symbol": "NYF",
-      "name": "NewYearsFlokiV2",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0xa605Cd06040676163b38234Dcf1Dadf6f411e5f4",
       "symbol": "APE",
       "name": "TheMonkey",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xB26dD3532b34F24667D67D338689d72f148aeD3f",
+      "symbol": "EFI",
+      "name": "EthereumFlying",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "NoSelling"
+      ]
     }
   ],
   "version": {
-    "major": 22924,
-    "minor": 22924,
+    "major": 22925,
+    "minor": 22925,
     "patch": 86
   }
 }
