@@ -14,17 +14,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2A0c83788A8F280C181Aa7c016bE89b16fE198C4",
-      "symbol": "ZORONU",
-      "name": "ZoronuToken",
-      "decimals": 18,
-      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
-      "tags": [
-        "NoSelling"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x60961F20ca6b1Dbbb7F02BDe3f57c1b9b0C0Eea5",
       "symbol": "BOOT",
       "name": "GoldenBootInu",
@@ -110000,11 +109989,22 @@
       "tags": [
         "NoSelling"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5251918af9Fc749BC4A84E5E3789AA65dBf37daF",
+      "symbol": "FLOV",
+      "name": "ValentineFloki",
+      "decimals": 9,
+      "logoURI": "https://cryptorachel.com/apple-touch-icon.png",
+      "tags": [
+        "HighTax"
+      ]
     }
   ],
   "version": {
-    "major": 22921,
-    "minor": 22921,
+    "major": 22922,
+    "minor": 22922,
     "patch": 86
   }
 }
